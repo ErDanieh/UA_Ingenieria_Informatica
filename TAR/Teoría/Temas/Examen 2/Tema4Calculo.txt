@@ -1,0 +1,21 @@
+Radio = 15cm
+Base robot = d = 90 cm
+Encoder 88 cuentas/giro
+tiempo = 5s---------------->Encoder izq =700 cuentas
+				    Encoder der = 1000 cuentas
+
+Inicialmente -> (0,0,0)
+
+Pasos:
+1ª Calculamos Dr y Dl
+Dr= (1000/88)*pi*radio = 5,35m
+Dl= (700/88)*pi*radio = 3,74m
+Dc = (Dr-Dl) / 2 = 455cm = 4,55m
+
+2º
+D0 = (5,35-3,74)/0,9= 1,79 radianes
+
+3º 
+O5-> = 1,79rad (El 5 es porque pasan 5 segundos)
+X5 = -0,98 m
+Y5 = 4,45m
