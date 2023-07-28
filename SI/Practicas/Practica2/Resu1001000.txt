@@ -1,0 +1,40 @@
+Adaptando conjuntos para:  0
+Generando conjuntos para:  0
+Entrenando a : 0
+Porcentaje aciertos para  0 : 95.88333333333333
+Adaptando conjuntos para:  1
+Generando conjuntos para:  1
+Entrenando a : 1
+Porcentaje aciertos para  1 : 96.145
+Adaptando conjuntos para:  2
+Generando conjuntos para:  2
+Entrenando a : 2
+Porcentaje aciertos para  2 : 90.10333333333334
+Adaptando conjuntos para:  3
+Generando conjuntos para:  3
+Entrenando a : 3
+Porcentaje aciertos para  3 : 87.69500000000001
+Adaptando conjuntos para:  4
+Generando conjuntos para:  4
+Entrenando a : 4
+Porcentaje aciertos para  4 : 90.365
+Adaptando conjuntos para:  5
+Generando conjuntos para:  5
+Entrenando a : 5
+Porcentaje aciertos para  5 : 85.41166666666666
+Adaptando conjuntos para:  6
+Generando conjuntos para:  6
+Entrenando a : 6
+Porcentaje aciertos para  6 : 94.95333333333333
+Adaptando conjuntos para:  7
+Generando conjuntos para:  7
+Entrenando a : 7
+Porcentaje aciertos para  7 : 93.235
+Adaptando conjuntos para:  8
+Generando conjuntos para:  8
+Entrenando a : 8
+Porcentaje aciertos para  8 : 85.62166666666667
+Adaptando conjuntos para:  9
+Generando conjuntos para:  9
+Entrenando a : 9
+Porcentaje aciertos para  9 : 86.81833333333333
