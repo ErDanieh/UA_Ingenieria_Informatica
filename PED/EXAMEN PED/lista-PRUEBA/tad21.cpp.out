@@ -1,0 +1,7 @@
+original: <10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2" 12/10/2006 "mensaje 3">
+despues de extraer la original: <>
+extraida: <10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2" 12/10/2006 "mensaje 3">
+antes de partirla en 2: <10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2" 12/10/2006 "mensaje 3" 13/10/2006 "mensaje 4">
+ultimos: <>
+primeros: <10/10/2006 "mensaje 1" 11/10/2006 "mensaje 2">
+original: <12/10/2006 "mensaje 3" 13/10/2006 "mensaje 4">
