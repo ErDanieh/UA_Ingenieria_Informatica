@@ -1,0 +1,64 @@
+﻿
+.containerLogReg{
+    display: flex;
+    height: 400px;
+}
+
+.containerLogin {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+
+
+}
+    .containerLogin h1{
+        margin-bottom: 20px;
+        font-size: 40px;
+    }
+    .containerLogin input {
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+    .containerLogin button {
+        margin-bottom: 50px;
+        font-size: 20px;
+    }
+
+
+    h1{
+        color: white;
+        text-align: center;
+    }
+
+
+.containerLogReg {
+    background-color: #4339f2;
+    border-radius: 10px;
+    padding: 20px 10px 40px 10px;
+    width: 95%;
+    background-image: url('../assets/administrar/backgroundPeliculaAdmin.svg');
+    background-size: cover;
+    height: auto;
+}
+
+    .containerLogReg input {
+        margin: 20px 20px 0px 20px;
+        padding: 10px 20px 10px 20px;
+        border: none;
+        border-radius: 10px;
+        opacity: 0.9;
+    }
+
+#ContentPlaceHolder1_btLogin {
+    color: #4339f2;
+    opacity: 1;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#ContentPlaceHolder1_btnRegister {
+    color: #4339f2;
+    opacity: 1;
+    font-weight: bold;
+    cursor: pointer;
+}

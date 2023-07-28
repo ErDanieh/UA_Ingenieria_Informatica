@@ -1,0 +1,263 @@
+﻿body {
+}
+
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h2 {
+    margin-left: 20px;
+}
+.containerOptions {
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_closeSesion {
+    background: #FF3A29;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+#ContentPlaceHolder1_eliminarPendiente {
+    margin-top:20px;
+    background: #FF3A29;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.containerOptions span {
+    padding: 20px 6rem 20px 20px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0.9;
+    background: linear-gradient(263.56deg, #00FFB2 0%, #4339F2 100%);
+    color: white;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 2rem;
+}
+
+
+#cambiarPassword {
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 16.66% 16.66%;
+    background: linear-gradient(-263.56deg, #00FFB2 -12%, #4339F2 100%);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    width: 95%;
+    margin-bottom: 20px;
+}
+
+    #cambiarPassword input {
+        margin: 20px 20px 0px 20px;
+        padding: 10px 20px 10px 20px;
+        border: none;
+        border-radius: 10px;
+        opacity: 0.9;
+    }
+
+#ContentPlaceHolder1_confirmarContraseña {
+    grid-column-start: 3;
+    grid-column-end: 5;
+}
+
+#ContentPlaceHolder1_resultadoCambioContra {
+    grid-row: 2;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+#ContentPlaceHolder1_btCambiarContra{
+    grid-row: 2;
+    grid-column: 4;
+    background: #FF3A29;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+}
+
+#cambiarNombre {
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 16.66% 16.66%;
+    background: linear-gradient(-263.56deg, #00FFB2 -12%, #4339F2 100%);
+    border-radius: 10px;
+    padding-bottom: 20px;
+    width: 95%;
+    margin-bottom: 20px;
+}
+
+    #cambiarNombre input {
+        margin: 20px 20px 0px 20px;
+        padding: 10px 20px 10px 20px;
+        border: none;
+        border-radius: 10px;
+        opacity: 0.9;
+    }
+#ContentPlaceHolder1_btnNombre {
+    grid-row: 1;
+    grid-column: 4;
+    background: #FF3A29;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+}
+
+#ContentPlaceHolder1_apellidoAlphabetic, #ContentPlaceHolder1_RequiredFieldValidator1 {
+    grid-row: 2;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_nombreAlphabetic, #ContentPlaceHolder1_RequiredFieldValidator2 {
+    grid-row: 2;
+    margin-left: 20px;
+}
+
+
+
+#epis1ncddsp1 {
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+#cuenta {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.calendario {
+    width: 60vh;
+    height: 10vh;
+    background: white;
+    border-radius: 20px;
+    border: none;
+    border-width: 0;
+}
+    .calendario * {
+        text-decoration: none;
+    }
+.calendario tbody tr td
+{
+    background-color: transparent !important;
+}
+    .calendario tbody tr {
+        background-color: transparent !important;
+    }
+
+.fechaSeleccionada {
+    border-radius: 30px;
+    background-color: #4339F2 !important;
+}
+
+.simply-section {
+    background: #fff;
+    width: 180px;
+    height: 180px;
+    margin: 0 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.simply-amount {
+    display: block;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.simply-word {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.carteleraContainer {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.list {
+    display: block;
+    margin: auto;
+}
+
+.cartelPelicula {
+    width: 240px;
+    height: 370px;
+    border-radius: 15px;
+}
+
+#ContentPlaceHolder1_revnueva {
+    grid-column: 2;
+    grid-row: 2;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_rfantigua {
+    grid-column: 1;
+    grid-row: 2;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_rfnueva {
+    grid-column: 2;
+    grid-row: 2;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_rfrepetida {
+    grid-column: 3;
+    grid-row: 2;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_mismapassword {
+    grid-column: 1;
+    grid-row: 3;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_misTickets {
+    margin-top: 20px;
+    background: #4339F2;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+#ContentPlaceHolder1_eliminarUsuario {
+    margin-top: 20px;
+    background: #FF3A29;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+/* ? ---------------------------- */

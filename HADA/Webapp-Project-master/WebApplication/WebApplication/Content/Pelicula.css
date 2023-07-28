@@ -1,0 +1,176 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@700&display=swap');
+
+body {
+}
+
+.cartelPeliculaIndividual {
+    width: 258px;
+    height: 408px;
+    border-radius: 21px;
+    margin: 0px 20px 20px 20px;
+}
+
+.nombrePelicula {
+    margin-bottom: 3px;
+}
+
+.infoPelicula {
+    display: normal;
+    margin-bottom: 30px;
+    flex: auto;
+    margin-right: 100px;
+}
+
+    .infoPelicula div {
+        display: flex;
+        align-items: center;
+    }
+    .infoPelicula div span{
+        margin-right: 30px;
+    }
+
+.Options_Container {
+}
+
+.colummIzq {
+}
+
+.PeliculaContainer {
+    display: flex;
+}
+
+span {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.BotonesComprar {
+    background: linear-gradient(180deg, #E100FF 0%, #8954F9 100%);
+    font-family: 'DM Sans', sans-serif;
+    color: white;
+    border-radius: 22px;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    width: 87%;
+    margin: 20px 20px 20px 20px;
+    cursor: pointer;
+}
+
+#duracion {
+    font-size: 65px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.radioBotonPalabra {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+    .radioBotonPalabra input {
+        opacity: 10;
+        cursor: pointer;
+    }
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+    .radioBotonPalabra:hover {
+        background-color: #ccc;
+    }
+
+/* When the checkbox is checked, add a blue background */
+    .radioBotonPalabra input:checked + .radioBotonPalabra{
+        background-color: #2196F3;
+    }
+
+
+
+
+.nombrePelicula {
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    font-family: 'DM Sans', sans-serif;
+}
+
+br {
+    margin-bottom: 10px;
+}
+
+.asientosContainer {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    grid-gap: 0.1px;
+    grid-template-columns: repeat(8, 1fr);
+}
+.butaca {
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    max-height: 100%;
+}
+#ContentPlaceHolder1_bannerImage {
+    height: 20vh;
+    position: absolute;
+    width: 100vh;
+}
+
+.seleccionadorHorario {
+    height: 3rem;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    width: 15rem;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+}
+
+
+
+#ContentPlaceHolder1_trailer{
+}
+
+.listaBotones {
+    display: flex;
+}
+
+    .listaBotones label {
+        display: inline-block;
+        width: 200px;
+        padding: 10px;
+        border: solid 2px #ccc;
+        transition: all 0.3s;
+    }
+
+    .listaBotones input[type="radio"] {
+        display: none;
+    }
+
+        .listaBotones input[type="radio"]:checked + label {
+            border: solid 2px green;
+        }
+
+.botonHora {
+    padding: 3px 3px 3px 3px;
+    margin-right: 10px;
+}

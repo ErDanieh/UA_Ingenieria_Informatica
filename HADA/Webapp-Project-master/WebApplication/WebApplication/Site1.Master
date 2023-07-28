@@ -1,0 +1,68 @@
+﻿﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+
+    <!--Archivos estilos .css-->
+    <link href="Content/MasterStyles.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:500&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/patos/pato_principal.svg" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <title>CinemaHub</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+
+<body class="masterBody">
+
+    <form class="formBuscador" runat="server">
+
+        <asp:Menu ID="MennuNav" runat="server" SkipLinkText="" CssClass="navbar">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/Index.aspx" Text="CINEMA HUB" ImageUrl="assets/patos/pato_principal.svg"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Perfil.aspx" ImageUrl="assets/user-astronaut-solid-red.svg" Text="Perfil"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Index.aspx" ImageUrl="assets/icono_cartelera_rojo.svg" Text="Cartelera"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Ofertas.aspx" ImageUrl="assets/icono_oferta_rojo.svg" Text="Ofertas"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Contacto.aspx" ImageUrl="assets/icono_conocenos_planeta.svg" Text="Conócenos"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/ControlAdmin.aspx" ImageUrl="assets/icono_administrador.svg" Text="Administrar"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Settings.aspx" ImageUrl="assets/icono_settings_rojo.svg" Text="Ajustes"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+
+
+
+        <div class="masterCuadrado">
+            <img src="assets/icono_buscador.svg" alt="logo" width="40" height="40" style="position: absolute; margin-top: 7px; margin-left: 29px;" />
+
+            <asp:TextBox class="navBuscador" ID="tbBuscador" runat="server" placeholder="Busca una pelicula" OnTextChanged="tbBuscador_TextChanged" AutoPostBack="false">
+            </asp:TextBox>
+            <asp:RegularExpressionValidator ID="revBuscador" ControlToValidate="tbBuscador" ValidationExpression="[a-zA-Z0-9][^!@%~?:#$%^&()0']*" runat="server" ErrorMessage="Invalid Input" ForeColor="Red" Font-Size="XX-Small" Display="dynamic" Font-Italic="true"></asp:RegularExpressionValidator>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+
+
+    <asp:Label ID="outputMsg" runat="server"></asp:Label>
+
+    <footer class="footerMaster">
+        <a href="https://twitter.com/hub_ua"><i class="fa fa-twitter fa-3x icon-3d"></i></a>
+        <a href="https://www.facebook.com/"><i class="fa fa-facebook fa-3x icon-3d"></i></a>
+        <a href="https://www.instagram.com/cinemahub_ua/"><i class="fa fa-instagram fa-3x icon-3d"></i></a>
+        <a href="https://www.whatsapp.com/?lang=es"><i class="fa fa-whatsapp fa-3x icon-3d"></i></a>
+    </footer>
+
+</body>
+
+
+
+</html>

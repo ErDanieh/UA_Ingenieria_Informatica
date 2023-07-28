@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F34F5136-6C30-416F-8884-C4F4A8884A83}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>library</RootNamespace>
+    <AssemblyName>library</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CADClass\Privado\CADAdministrador.cs" />
+    <Compile Include="CADClass\Privado\CADComprar.cs" />
+    <Compile Include="CADClass\Privado\CADTicket.cs" />
+    <Compile Include="CADClass\Privado\CADUsuario.cs" />
+    <Compile Include="CADClass\Privado\CADDescuento.cs" />
+    <Compile Include="CADClass\Publico\CADAsiento.cs" />
+    <Compile Include="CADClass\Publico\CADGenero.cs" />
+    <Compile Include="CADClass\Publico\CADIntegrante.cs" />
+    <Compile Include="CADClass\Publico\CADLogin.cs" />
+    <Compile Include="CADClass\Publico\CADPelicula.cs" />
+    <Compile Include="CADClass\Publico\CADRegister.cs" />
+    <Compile Include="CADClass\Publico\CADSala.cs" />
+    <Compile Include="CADClass\Publico\CADHorario.cs" />
+    <Compile Include="CADClass\Publico\CADSesion.cs" />
+    <Compile Include="ENClass\Privado\ENAdministrador.cs" />
+    <Compile Include="ENClass\Privado\ENComprar.cs" />
+    <Compile Include="ENClass\Privado\ENCriptado.cs" />
+    <Compile Include="ENClass\Privado\ENDescuento.cs" />
+    <Compile Include="ENClass\Privado\ENTicket.cs" />
+    <Compile Include="ENClass\Privado\ENUsuario.cs" />
+    <Compile Include="ENClass\Publico\ENAsiento.cs" />
+    <Compile Include="ENClass\Publico\ENGenero.cs" />
+    <Compile Include="ENClass\Publico\ENHorario.cs" />
+    <Compile Include="ENClass\Publico\ENIntegrante.cs" />
+    <Compile Include="ENClass\Publico\ENLogin.cs" />
+    <Compile Include="ENClass\Publico\ENPelicula.cs" />
+    <Compile Include="ENClass\Publico\ENRegister.cs" />
+    <Compile Include="ENClass\Publico\ENSala.cs" />
+    <Compile Include="ENClass\Publico\ENSesion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

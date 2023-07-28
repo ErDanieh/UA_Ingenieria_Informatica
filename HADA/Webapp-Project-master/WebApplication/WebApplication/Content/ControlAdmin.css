@@ -1,0 +1,59 @@
+﻿body {
+}
+
+
+.containerOptions
+{
+    display:grid;
+    grid-column: 3;
+    grid-template-columns: 50% 50%;
+}
+
+    .containerOptions input {
+        margin: 10px 10px 0 0;
+        padding: 20px 10px 20px 40px;
+        font-size: 40px;
+        text-align: left;
+        border-radius: 10px;
+        border: none;
+        color: white;
+        background-color: #4339F2;
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 300px;
+    }
+
+#ContentPlaceHolder1_btAdminPeliculas {
+    background-image: url('../assets/administrar/administrarPeliculaBoton.svg');
+
+}
+
+#ContentPlaceHolder1_btAdminUsers {
+    background-image: url('../assets/administrar/administrarUsuarioBoton.svg');
+}
+
+#ContentPlaceHolder1_btAdminSala {
+    background-image: url('../assets/administrar/administrarSalaBoton.svg');
+}
+
+#ContentPlaceHolder1_btAdminHorario {
+    background-image: url('../assets/administrar/administrarHorarioBoton.svg');
+}
+
+
+#ContentPlaceHolder1_btAdminSesion {
+    background-image: url('../assets/administrar/administrarSesionesBoton.svg');
+}
+
+#ContentPlaceHolder1_btClose {
+    margin-top: 20px;
+    background: #FF3A29;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    border-radius: 10px;
+    opacity: 0.9;
+    cursor: pointer;
+}

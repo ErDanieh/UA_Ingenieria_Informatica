@@ -1,0 +1,203 @@
+﻿body {
+}
+
+#ContentPlaceHolder1_nombrePelicula {
+    font-size: 40px;
+}
+
+.infoPelicula {
+    display: inline;
+}
+
+.containerOptions {
+    display: grid;
+    color: white;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    background-color: #4339f2;
+    border-radius: 10px;
+    padding: 20px 10px 40px 10px;
+    width: 95%;
+    background-image: url('../assets/administrar/backgroundPeliculaAdmin.svg');
+}
+
+    .containerOptions input {
+        margin: 20px 20px 0px 20px;
+        padding: 10px 20px 10px 20px;
+        border: none;
+        border-radius: 10px;
+        opacity: 0.9;
+    }
+
+    .containerOptions p {
+        margin-left: 20px;
+        font-size: 20px;
+    }
+
+    .containerOptions span {
+        margin-left: 20px;
+        object-position: center;
+        font-size: 50px;
+    }
+
+#ContentPlaceHolder1_Label2 {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+#asientos {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+#ContentPlaceHolder1_Label3 {
+    grid-column: 2;
+    grid-row: 2;
+    display: block;
+}
+
+#text_tarjeta {
+    grid-column: 2;
+    grid-row: 3;
+}
+
+#metodo {
+    grid-column: 1;
+    grid-row: 3;
+}
+
+#ContentPlaceHolder1_codigoseguridad {
+    width: 15%;
+    align-items: center;
+}
+
+#text_tarjeta {
+    grid-column: 2;
+    grid-row: 3;
+}
+
+#ContentPlaceHolder1_pagoTarjeta {
+    grid-column: 1;
+    grid-row: 4;
+}
+
+#ContentPlaceHolder1_pagar {
+    background: #FF3A29;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    grid-row: 7;
+}
+
+#ContentPlaceHolder1_seguirComprando {
+    color: #4339f2;
+    opacity: 1;
+    font-weight: bold;
+    grid-row: 7;
+}
+
+#ContentPlaceHolder1_mes {
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+    padding-right: 10px;
+    width: 7rem;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+    grid-row: 5;
+    grid-column: 2;
+    margin-top: auto;
+    margin-left: 20px;
+}
+
+#ContentPlaceHolder1_año {
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+    padding-right: 10px;
+    width: 7rem;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+    grid-row: 5;
+    grid-column: 2;
+    margin-top: auto;
+    margin-left: 195px;
+}
+
+#text_numtj {
+    grid-row: 4;
+    grid-column: 1;
+}
+
+#ContentPlaceHolder1_numTarjeta {
+    grid-row: 4;
+    grid-column: 2;
+}
+
+#fecha_txt {
+    grid-row: 5;
+    grid-column: 1;
+}
+
+#code_text {
+    grid-row: 6;
+    grid-column: 1;
+}
+
+#ContentPlaceHolder1_codigoseguridad {
+    grid-row: 6;
+    grid-column: 2;
+}
+
+#ContentPlaceHolder1_imagenPelicula {
+    height: 500px;
+    border-radius: 21px;
+}
+
+#ContentPlaceHolder1_RegularExpressionValidator3 {
+    grid-column: 3;
+    grid-row: 6;
+    margin-top: auto;
+}
+
+#ContentPlaceHolder1_ctl00 {
+    grid-column: 3;
+    grid-row: 4;
+    margin-top: 15px;
+}
+
+#ContentPlaceHolder1_imagenPelicula {
+    grid-column: 3;
+    grid-row-start: 1;
+    grid-row-end: 7;
+    margin-left: 40px;
+}
+
+#ContentPlaceHolder1_nombrePelicula {
+    grid-row: 7;
+    grid-column: 3;
+    margin-left: 40px;
+}
+
+#ContentPlaceHolder1_ctl01 {
+    grid-column: 3;
+    grid-row: 6;
+    margin-top: 15px;
+}
+
+#ContentPlaceHolder1_RegularExpressionValidator1 {
+    grid-column: 3;
+    grid-row: 4;
+    margin-top: auto;
+}
+
+#ContentPlaceHolder1_comprobarMes {
+    grid-column: 3;
+    grid-row: 5;
+    margin-top: auto;
+}
+
+#ContentPlaceHolder1_comprobarAño {
+    grid-column: 3;
+    grid-row: 5;
+    margin-top: auto;
+}
