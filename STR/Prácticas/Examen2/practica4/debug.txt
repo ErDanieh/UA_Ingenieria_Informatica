@@ -1,0 +1,21 @@
+ 
+**************************************************************************
+**************************************************************************
+          PRACTICA STR: CONTROL DE TRAFICO AEREO
+**************************************************************************
+**************************************************************************
+ 
+Inicializando Entorno Gráfico...
+Entorno Gráfico Inicializado.
+Informacion del vuelo:  0
+Informacion del vuelo:  0
+Informacion del vuelo:  0
+Informacion del vuelo:  0
+Informacion del vuelo:  1
+Informacion del vuelo:  1
+Informacion del vuelo:  1
+Informacion del vuelo:  1
+Informacion del vuelo:  2
+Informacion del vuelo:  2
+Informacion del vuelo:  2
+Informacion del vuelo:  2

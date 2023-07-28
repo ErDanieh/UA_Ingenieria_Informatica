@@ -1,0 +1,82 @@
+ 
+**************************************************************************
+**************************************************************************
+          PRACTICA STR: CONTROL DE TRAFICO AEREO
+**************************************************************************
+**************************************************************************
+ 
+Inicializando Entorno Gráfico...
+Entorno Gráfico Inicializado.
+--- Inicio Tarea T_TareaAvion: 0 --- 1
+ -- Comprobando Disponibilidad de Despegue: TRUE
+
+--- Inicio Tarea T_TareaAvion: 0 --- 2
+ -- Comprobando Disponibilidad de Despegue: TRUE
+
+--- Inicio Tarea T_TareaAvion: 0 --- 3
+ -- Comprobando Disponibilidad de Despegue: TRUE
+
+--- Inicio Tarea T_TareaAvion: 0 --- 4
+ -- Comprobando Disponibilidad de Despegue: TRUE
+
+--- Inicio Tarea T_TareaAvion: 1 --- 1
+ -- Comprobando Disponibilidad de Despegue: FALSE
+
+--- Descenso de: 0, desde la aerovia: 4. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 4. Descenso confirmado.
+
+--- Inicio Tarea T_TareaAvion: 1 --- 2
+ -- Comprobando Disponibilidad de Despegue: FALSE
+
+--- Descenso de: 0, desde la aerovia: 5. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 5. Descenso confirmado.
+
+  - Aterrizando avion: 0, desde aerovia: 5, en pista: PISTA1
+
+--- Descenso de: 0, desde la aerovia: 3. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 3. Descenso cancelado.
+
+--- Inicio Tarea T_TareaAvion: 1 --- 3
+ -- Comprobando Disponibilidad de Despegue: FALSE
+
+--- Descenso de: 0, desde la aerovia: 3. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 3. Descenso cancelado.
+
+--- Descenso de: 0, desde la aerovia: 3. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 3. Descenso confirmado.
+
+--- Inicio Tarea T_TareaAvion: 1 --- 4
+ -- Comprobando Disponibilidad de Despegue: FALSE
+
+--- Descenso de: 0, desde la aerovia: 4. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 4. Descenso confirmado.
+
+--- Descenso de: 0, desde la aerovia: 5. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 5. Descenso confirmado.
+
+  - Aterrizando avion: 0, desde aerovia: 5, en pista: PISTA2
+
+--- Descenso de: 0, desde la aerovia: 2. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 2. Descenso cancelado.
+
+--- Inicio Tarea T_TareaAvion: 2 --- 1
+ -- Comprobando Disponibilidad de Despegue: FALSE
+
+--- Descenso de: 0, desde la aerovia: 2. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 2. Descenso cancelado.
+
+--- Inicio Tarea T_TareaAvion: 2 --- 2
+ -- Comprobando Disponibilidad de Despegue: FALSE
+
+--- Descenso de: 0, desde la aerovia: 2. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 2. Descenso cancelado.
+
+--- Descenso de: 0, desde la aerovia: 2. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 2. Descenso cancelado.
+
+--- Descenso de: 0, desde la aerovia: 2. Hay sitio en la aerovia?: TRUE
+ -- Descenso de: 0, desde la aerovia: 2. Descenso cancelado.
+
+--- Inicio Tarea T_TareaAvion: 2 --- 3
+ -- Comprobando Disponibilidad de Despegue: FALSE
+

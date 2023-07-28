@@ -1,0 +1,128 @@
+V "GNAT Lib v2021"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_CALENDAR
+RV NO_DELAY
+RV NO_EXCEPTIONS
+RV NO_FIXED_POINT
+RV NO_IO
+RV NO_RELATIVE_DELAY
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U esperaaleatoriacalendar%b  esperaaleatoriacalendar.adb  322576a2 NE OO PK
+Z ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W system%s		system.ads		system.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.img_int%s	s-imgint.ads		s-imgint.ali
+Z system.random_numbers%s  s-rannum.adb		s-rannum.ali
+
+U esperaaleatoriacalendar%s  esperaaleatoriacalendar.ads  579efce7 EE NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.integer_text_io%s	a-inteio.ads		a-inteio.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.discrete_random%s
+Z ada.strings.text_buffers%s  a-sttebu.adb	a-sttebu.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20210520051130 76789da1 ada%s
+D a-calend.ads		20210520051127 474d9720 ada.calendar%s
+D a-caldel.ads		20210520051127 9f20b83d ada.calendar.delays%s
+D a-except.ads		20210520051127 946f3014 ada.exceptions%s
+D a-inteio.ads		20210520051127 f64b89a4 ada.integer_text_io%s
+D a-ioexce.ads		20210520051127 e4a01f64 ada.io_exceptions%s
+D a-numeri.ads		20210520051128 84bea7a3 ada.numerics%s
+D a-nudira.ads		20210520051128 5984dff3 ada.numerics.discrete_random%s
+D a-nudira.adb		20210520051128 0bfd6ec4 ada.numerics.discrete_random%b
+D a-stream.ads		20210520051128 119b8fb3 ada.streams%s
+D a-string.ads		20210520051128 90ac6797 ada.strings%s
+D a-sttebu.ads		20210520051128 18209c64 ada.strings.text_buffers%s
+D a-stuten.ads		20210520051128 808c40ad ada.strings.utf_encoding%s
+D a-tags.ads		20210520051129 9eaa38c6 ada.tags%s
+D a-textio.ads		20210520051129 aef4d56d ada.text_io%s
+D a-tiinio.ads		20210520051129 390edddb ada.text_io.integer_io%s
+D a-unccon.ads		20210520051129 0e9b276f ada.unchecked_conversion%s
+D esperaaleatoriacalendar.ads  20221009093822 11e8e8fd esperaaleatoriacalendar%s
+D esperaaleatoriacalendar.adb  20221009111133 23cd9e5f esperaaleatoriacalendar%b
+D interfac.ads		20210520051131 edec285f interfaces%s
+D i-cstrea.ads		20210520051131 e53d8b8e interfaces.c_streams%s
+D system.ads		20210520051134 a2da961d system%s
+D s-conca2.ads		20210520051131 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20210520051131 0ebbdb71 system.crtl%s
+D s-exctab.ads		20210520051131 54135002 system.exception_table%s
+D s-ficobl.ads		20210520051131 078245e4 system.file_control_block%s
+D s-imagei.ads		20210520051132 0d3f86a7 system.image_i%s
+D s-imageu.ads		20210520051132 525c30c6 system.image_u%s
+D s-imgint.ads		20210520051132 bdb6f5ec system.img_int%s
+D s-imguns.ads		20210520051132 0e4da2ac system.img_uns%s
+D s-parame.ads		20210520051133 4752c4cb system.parameters%s
+D s-putima.ads		20210520051133 4e095881 system.put_images%s
+D s-rannum.ads		20210520051133 c3978523 system.random_numbers%s
+D s-rannum.adb		20210520051133 2631917b system.random_numbers%b
+D s-ransee.ads		20210520051133 01a57b33 system.random_seed%s
+D s-secsta.ads		20210520051133 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20210520051133 a7318a92 system.soft_links%s
+D s-stache.ads		20210520051133 a37c21ec system.stack_checking%s
+D s-stalib.ads		20210520051133 472fbca8 system.standard_library%s
+D s-stoele.ads		20210520051133 2dc34a04 system.storage_elements%s
+D s-stoele.adb		20210520051133 ed88f8fb system.storage_elements%b
+D s-traent.ads		20210520051133 26a8d361 system.traceback_entries%s
+D s-unstyp.ads		20210520051133 2b077493 system.unsigned_types%s
+D s-valuns.ads		20210520051133 dac7b45d system.val_uns%s
+D s-valueu.ads		20210520051133 7b8fccf5 system.value_u%s
+D s-wchcon.ads		20210520051134 1b7d22d2 system.wch_con%s
+D unchconv.ads		20210520051134 ca2f9e18 unchecked_conversion%s
+G a e
+G c Z s b [esperacalendarlocal esperaaleatoriacalendar 12 14 none]
+G c Z s b [esperacalendardesviada esperaaleatoriacalendar 13 14 none]
+X 1 ada.ads
+16K9*Ada 20e8 18|1r6 2r6 3r5 4r6 5r5 6r6 7r5 19|7r40
+X 2 a-calend.ads
+36K13*Calendar 413e17 18|6w10 7r9
+42I9*Time<226I9> 19|5r15 24r18
+56V13*Clock{42I9} 19|13s16 26s19
+103V14*"+"{42I9} 19|16s27 26s25
+226I9 Time_Rep<long_long_integer>
+X 5 a-inteio.ads
+18K13*Integer_Text_IO[16|46] 18|2w10 3r9
+X 7 a-numeri.ads
+16K13*Numerics 35e17 18|1r10 19|7r44
+X 8 a-nudira.ads
+44k22*Discrete_Random 81e33 18|1w19 19|7r53
+50R9 Generator<33|65R9> 19|8r43[7]
+52V13 Random{integer} 19|15s45[7]
+61U14 Reset<33|103p14> 19|12s25[7]
+X 9 a-nudira.adb
+53V16 Random[33|86]{integer} 34|402b13[19|7]
+65V16 Random[33|86]{integer} 34|402b13[19|7]
+X 15 a-textio.ads
+58K13*Text_IO 725e16 18|4w10 5r9
+506U14*Put_Line 19|17s10 28s10
+X 18 esperaaleatoriacalendar.ads
+8K9*esperaAleatoriaCalendar 15l5 15e28 19|1b14 34l5 34t28
+10I12*rango{natural} 19|7r69
+12U14*esperaCalendarLocal 19|3b14 20t7
+13U14*esperaCalendarDesviada 19|22b14 31t7
+X 19 esperaaleatoriacalendar.adb
+5i7 Inicio{2|42I9} 13m7 16m10 16r20 18r22
+7K15 pkg_randomPeriodo[8|44] 8r25 12r7 15r27
+8r7 generadorRandom{8|50R9[7]} 12r31 15r52
+9i7 valorGenerado{integer} 15m10 16r38 17r41
+23o7 periodo{duration} 26r27 29r16
+24i7 siguiente{2|42I9} 26m7
+X 20 interfac.ads
+79M9*Unsigned_32
+82M9*Unsigned_64
+X 33 s-rannum.ads
+77V13*Random{20|79M9} 34|224i21
+78V13*Random{20|82M9} 34|224i21
+

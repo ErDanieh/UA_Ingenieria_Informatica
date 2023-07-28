@@ -1,0 +1,24 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/daniirxch/Desktop/STR_UA/Prácticas/PruebasExamen/pruebasexamen.gpr
+20221005170430 2a9d6a98378b547feec22ce57f411028
+[BOUND OBJECT FILES]
+/home/daniirxch/Desktop/STR_UA/Prácticas/PruebasExamen/obj/esperaaleatoriacalendar.o
+/home/daniirxch/Desktop/STR_UA/Prácticas/PruebasExamen/obj/esperaaleatoriarealtime.o
+/home/daniirxch/Desktop/STR_UA/Prácticas/PruebasExamen/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/daniirxch/Desktop/STR_UA/Prácticas/PruebasExamen/obj/
+-L/home/daniirxch/Desktop/STR_UA/Prácticas/PruebasExamen/obj/
+-L/home/daniirxch/opt/GNAT/2021/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/
+-static
+-static-libgcc
+/home/daniirxch/opt/GNAT/2021/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnarl.a
+/home/daniirxch/opt/GNAT/2021/lib/gcc/x86_64-pc-linux-gnu/10.3.1/adalib/libgnat.a
+-lrt
+-lpthread
+-ldl
