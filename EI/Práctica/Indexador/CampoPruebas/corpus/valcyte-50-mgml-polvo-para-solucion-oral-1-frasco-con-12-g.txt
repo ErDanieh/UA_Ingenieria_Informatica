@@ -1,0 +1,569 @@
+VALCYTE 50 mg/ml polvo para solución oral ,1 frasco con 12 g
+	Información Basica del medicamento Toda la información del medicamento 
+1.    NOMBRE DEL MEDICAMENTO
+	VALCYTE 50 mg/ml polvo para solución oral
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada frasco contiene 5,5 g de hidrocloruro de valganciclovir, por 12 g de polvo para solución
+oral.
+La solución reconstituida contiene 50 mg por ml de valganciclovir (como hidrocloruro)
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo para solución oral
+ El polvo es un granulado de color blanco a ligeramente amarillento.
+Cuando el polvo es disuelto, la solución es clara, de incolora a parda.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ VALCYTE está indicado para el tratamiento de inducción y mantenimiento de la retinitis por
+citomegalovirus (CMV) en pacientes con síndrome de inmunodeficiencia adquirida (SIDA).
+ VALCYTE está indicado para la prevención de la enfermedad por CMV en pacientes
+seronegativos al CMV que han recibido un trasplante de órgano sólido de un donante
+seropositivo.
+ 4.2   Posología y forma de administración
+ Advertencia ­ se deben seguir estrictamente las recomendaciones sobre la posología para
+evitar sobredosificación (ver apartados 4.4 y 4.9)
+ Después de su administración oral, el valganciclovir se metaboliza de forma rápida y extensa a
+ganciclovir. 900 mg de valganciclovir por via oral, dos veces al día, es equivalente
+terapéuticamente a 5 mg/kg de ganciclovir administrado dos veces al día. La exposición sistémica
+a ganciclovir con 900 mg de valganciclovir solución oral es equivalente a 900 mg de
+valganciclovir en comprimidos.
+ Posología habitual en adultos
+ Tratamiento de inducción de la retinitis por CMV:
+La dosis recomendada para los pacientes con retinitis activa por CMV es de 900 mg de
+valganciclovir dos veces al día durante 21 días. Un tratamiento prolongado de inducción puede
+incrementar el riesgo de toxicidad para la médula ósea (ver apartado4.4).
+ Tratamiento de mantenimiento de la retinitis por CMV:
+Después del tratamiento de inducción, o si se trata de pacientes con retinitis inactiva por CMV, se
+recomienda administrar una dosis de 900 mg de valganciclovir una vez al día. Se puede repetir el
+ tratamiento de inducción en aquellos pacientes en los que la retinitis empeore; sin embargo, se
+debe tener en cuenta la posibilidad de resistencia viral al fármaco.
+ Prevención de la enfermedad por CMV en el trasplante de órgano sólido:
+La dosis recomendada en pacientes que han recibido un trasplante es de 900 mg una vez al día,
+comenzando dentro de los 10 días del trasplante y continuando hasta los 100 días post-trasplante.
+ Instrucciones posológicas especiales
+ Pacientes con insuficiencia renal:
+Los niveles séricos de creatinina o el aclaramiento de creatinina se deben vigilar cuidadosamente.
+Hay que ajustar la posología según el aclaramiento de creatinina, tal y como se indica en la
+siguiente tabla (ver apartados 4.4 y 5.2).
+ El aclaramiento estimado de creatinina (ml/min) se puede calcular según la creatinina sérica
+mediante las siguientes fórmulas:
+ Para los varones =              (140 ­ edad [años]) x (peso corporal [kg])
+ Para las mujeres = 0,85 x valor de los varones
+                      Dosis de inducción de valganciclovir          Dosis de mantenimiento/Dosis de
+CrCl (ml/min)
+60
+40 ­ 59              450 mg dos veces al día                       450 mg una vez al día
+25 ­ 39              450 mg una vez al día                         225 mg una vez al día
+10 ­ 24              225 mg una vez al día
+<10                  200 mg tres veces a la semana tras diálisis
+ Pacientes sometidos a hemodiálisis:
+Es necesario ajustar la dosis para pacientes en hemodiálisis (CrCl < 10 ml/min) (ver apartados4.4
+y 5.2) en la tabla de arriba se da una recomendación de dosis.
+ Pacientes con disfunción hepática
+La seguridad y eficacia de VALCYTE no ha sido estudiada en pacientes con disfunción hepática
+(ver apartados 4.4 y 5.2).
+ Niños y adolescentes (menores de 18 años):
+VALCYTE no está recomendado para uso en niños menores de 18 años debido a la escasez de
+datos sobre seguridad y eficacia en esta población de pacientes.(ver apartado 4.4).
+ Pacientes ancianos:
+La seguridad y la eficacia de VALCYTE se desconocen en esta población.
+ Pacientes con leucopenia, neutropenia, anemia, trombocitopenia y pancitopenia graves:
+Antes de comenzar el tratamiento, ver apartado 4.4.
+ Si se produce un deterioro significativo del recuento de células sanguíneas durante el tratamiento
+con VALCYTE, se deberá considerar el empleo de factores de crecimiento hematopoyético y/o
+una suspensión de la medicación (ver apartado 4.4).
+Forma de administración
+VALCYTE se administra por vía oral, y siempre que sea posible, debe tomarse con alimentos (ver
+apartado 5.2).
+ VALCYTE polvo para solución oral requiere ser reconstituido antes de su administración oral
+(ver apartado 6.6). Se incluye dos dispensadores orales con graduación desde 25 mg hasta 500
+mg. Se recomienda que el paciente use el dispensador.
+ 4.3   Contraindicaciones
+ VALCYTE está contraindicado en pacientes con hipersensibilidad a valganciclovir, ganciclovir o
+a alguno de los excipientes.
+ Debido a la semejanza en la estructura química de VALCYTE y de aciclovir y valaciclovir, es
+posible que ocurra una reacción de hipersensibilidad cruzada entre estos medicamentos. Por lo
+tanto, VALCYTE está contraindicado en pacientes con hipersensibilidad a aciclovir y
+valaciclovir.
+ VALCYTE está contraindicado durante la lactancia (ver apartado 4.6).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Debido a su carácter teratogénico, el polvo de VALCYTE y la solución reconstituida deben
+manejarse con precaución. Si el polvo o la solución contactan directamente con la piel, esta zona
+debe lavarse a fondo con agua y jabón. Si la solución entra en los ojos, los ojos deben lavarse de
+forma inmediata con agua abundante.
+ Antes de iniciar el tratamiento de valganciclovir, se debe advertir a los pacientes del riesgo
+potencial para el feto. En estudios con animales, se ha observado el poder mutágeno, teratógeno,
+espermatogénico, carcinógeno, y supresor de la fertilidad femenina del ganciclovir. Por tanto,
+VALCYTE debe considerarse como un potencial teratógeno y carcinógeno para el ser humano,
+con potencial para ocasionar malformaciones congénitas y cáncer (ver apartado5.3). Además, es
+probable que VALCYTE inhiba la espermatogénesis de forma transitoria o permanente. Se debe
+recomendar a las mujeres en edad de procrear que empleen medidas anticonceptivas eficaces
+durante el tratamiento. Y se debe recomendar a los hombres que utilicen anticonceptivos de
+barrera durante y hasta, por lo menos, 90 días después del tratamiento, a menos que exista la
+seguridad de que la pareja femenina no corre el riesgo de quedarse embarazada (ver apartados 4.6,
+4.8 y 5.3).
+ Se han descrito casos graves de leucopenia, neutropenia, anemia, trombocitopenia, pancitopenia,
+mielosupresión y anemia aplásica en pacientes tratados con VALCYTE (y con ganciclovir). No
+debe iniciarse este tratamiento si el recuento absoluto de neutrófilos es menor de 500 células/l, el
+recuento de plaquetas es menor de 25.000/l o el nivel de hemoglobina es menor de 8 g/dl (ver
+apartados 4.2 y 4.8).
+ VALCYTE debe emplearse con precaución en pacientes con citopenia hematológica pre-
+existente, o con antecedentes de citopenia relacionada con la administración de medicamentos, y
+en pacientes que estén recibiendo radioterapia.
+ Se recomienda vigilar el hemograma completo y las plaquetas durante el tratamiento. En
+pacientes con alteración renal se debe garantizar un aumento de la monitorización hematológica.
+Se recomienda considerar el empleo de factores de crecimiento hematopoyético y/o una
+suspensión de la medicación en pacientes que desarrollen leucopenia, neutropenia, anemia y/o
+trombocitopenia grave (ver apartados 4.2 y 4.8).
+ El ajuste posológico para los pacientes con insuficiencia renal debe basarse en el aclaramiento de
+creatinina (ver apartados 4.2 y 5.2).
+ Se han descrito convulsiones entre pacientes tratados con imipenem-cilastatina y ganciclovir.
+VALCYTE no debe administrarse al mismo tiempo que imipenem-cilastatina, a menos que los
+posibles beneficios excedan los riesgos potenciales (ver apartado 4.5).
+ Los pacientes tratados con VALCYTE y (a) didanosina, (b) medicamentos con efecto
+mielosupresor conocido (ej. zidovudina) o (c) sustancias que afecten a la función renal, deben
+vigilarse estrechamente por si aparecen signos añadidos de toxicidad (ver apartado 4.5).
+ El estudio clínico controlado con valganciclovir para el tratamiento profiláctico de la enfermedad
+por CMV en pacientes trasplantados, descrito en el apartado 5.1, no incluyó pacientes con
+trasplante de pulmón e intestino. Por ello, la experiencia en estos pacientes es limitada.
+ Para pacientes con una dieta controlada en sodio, este medicamento contiene 0,188 mg/ml de
+sodio.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Interacciones farmacológicas con valganciclovir
+No se han realizado estudios in vivo de interacción farmacológica con VALCYTE. Debido a que
+valganciclovir se metaboliza a ganciclovir de manera amplia y rápida, cabe esperar para
+valganciclovir las mismas interacciones farmacológicas que se asocian con el ganciclovir.
+ Interacciones farmacológicas con ganciclovir
+ Imipenem-cilastatina
+Se han descrito convulsiones en pacientes tratados con ganciclovir e imipenem-cilastatina al
+mismo tiempo. Estos medicamentos no deben administrarse a la vez, a menos que los posibles
+beneficios excedan los riesgos potenciales (ver apartado 4.4).
+ Probenecid
+El probenecid, administrado junto con el ganciclovir por vía oral, disminuye significativamente el
+aclaramiento renal del ganciclovir (20%), aumentando la exposición a este medicamento de
+manera estadísticamente significativa (40%). Estos cambios son compatibles con un mecanismo
+de interacción que implica una competición por la secreción tubular renal. Por lo tanto, hay que
+vigilar con cuidado la posible toxicidad de ganciclovir entre los pacientes que tomen probenecid y
+VALCYTE.
+ Zidovudina
+Cuando se administró zidovudina junto con ganciclovir por vía oral, el AUC de la zidovudina
+experimentó un incremento pequeño (17%), pero estadísticamente significativo. Asimismo, se
+advierte una tendencia al descenso de las concentraciones de ganciclovir, cuando se administra
+simultáneamente zidovudina, aunque sin alcanzar significación estadística. De cualquier manera,
+puesto que tanto la zidovudina como el ganciclovir pueden inducir neutropenia y anemia, es
+posible que algunos pacientes no toleren el tratamiento concomitante en dosis plenas (ver
+apartado 4.4).
+ Didanosina
+Se ha observado que las concentraciones plasmáticas de didanosina aumentan siempre que se
+administra con ganciclovir (ya sea por vía intravenosa como oral). Cuando se administran dosis
+orales de ganciclovir de 3 y 6 g/día, se observa un aumento del AUC de didanosina, que varía
+entre 84 y 124%, y cuando se aplican dosis intravenosas de 5 y 10 mg/kg/día, el incremento
+observado del AUC de didanosina fluctúa entre 38 y 67%. No se ha observado ninguna
+modificación clínicamente significativa de las concentraciones de ganciclovir. Hay que vigilar de
+cerca la posible toxicidad de la didanosina para estos pacientes (ver apartado 4.4).
+ Micofenolato mofetilo
+Considerando los resultados de un estudio de administración de dosis orales únicas recomendadas
+de micofenolato mofetilo (MMF) y de ganciclovir por vía i.v. y los efectos conocidos de la
+insuficiencia renal en la farmacocinética de MMF y de ganciclovir, se puede prever que la
+administración simultánea de ambos medicamentos (que tienen potencial para competir por la
+secreción tubular renal) determine aumentos del glucuronido fenólico del ácido micofenólico
+(MPAG) y de la concentración de ganciclovir. La farmacocinética del ácido micofenólico (MPA)
+apenas se altera y no es necesario ajustar la dosis de MMF. Sin embargo, los pacientes con
+insuficiencia renal que reciban al mismo tiempo MMF y ganciclovir deberán respetar las
+recomendaciones posológicas de ganciclovir y requieren una estrecha vigilancia. Ya que el MMF
+y el ganciclovir pueden causar neutropenia, y leucopenia, se deberá vigilar a los pacientes por si
+presentaran toxicidad acumulada.
+ Zalcitabina
+No se han observado cambios farmacocinéticos clínicamente significativos después de la
+administración conjunta de ganciclovir y zalcitabina. Tanto valganciclovir como zalcitabina
+tienen el potencial de producir neuropatía periférica, por lo que se debe vigilar la aparición de esta
+clase de acontecimientos en los pacientes.
+ Estavudina
+Cuando se administran conjuntamente estavudina y ganciclovir por vía oral no se observaron
+interacciones clínicamente significativas.
+ Trimetoprim
+No se observó ninguna interacción farmacocinética clínicamente significativa cuando se
+administraron conjuntamente trimetoprim y ganciclovir oral. Sin embargo, existe el potencial de
+incremento de la toxicidad ya que los dos fármacos son mielosupresores, por lo que, ambos
+fármacos deben usarse de forma concomitante únicamente si los posibles beneficios superan los
+riesgos.
+ Otros antirretrovirales
+A concentraciones clínicamente relevantes, es improbable que se produzca un efecto antagónico o
+sinérgico de la inhibición del virus de la inmunodeficiencia humana (VIH) en presencia de
+ganciclovir o del CMV en presencia de fármacos antirretrovirales. No es probable que se
+produzcan interacciones metabólicas con, por ejemplo, inhibidores de la proteasa o inhibidores de
+la transcriptasa inversa no nucleosídicos (ITIANNs) debido a la falta de implicación del P450 en
+el metabolismo tanto del valganciclovir como del ganciclovir.
+ Otras interacciones farmacológicas potenciales
+La toxicidad puede verse aumentada cuando valganciclovir se administra junto con, o se da
+inmediatamente antes o después que, otros fármacos que inhiben la replicación de poblaciones
+celulares que se dividen rápidamente, tal y como ocurre en la médula ósea, testículos, capas
+germinales de la piel y mucosa gastrointestinal.
+Ejemplos de estos tipos de fármacos son dapsona, pentamidina, flucitosina, vincristina,
+vinblastina, adriamicina, anfotericina B, trimetropim/derivados de sulfamidas, análogos de
+nucleósidos e hidroxiurea.
+ Debido a que el ganciclovir es excretado a través del riñón (ver apartado 5.2), la toxicidad puede
+verse aumentada cuando valganciclovir se administra junto con fármacos que podrían reducir el
+aclaramiento renal de ganciclovir y, por lo tanto aumentar su exposición. El aclaramiento renal
+del ganciclovir puede inhibirse por dos mecanismos: (a) nefrotoxicidad, causada por fármacos
+como cidofovir y foscarnet, y (b) inhibición competitiva de la secreción tubular activa en el riñón
+como, por ejemplo, otros análogos de nucleósidos.
+ Por lo tanto, se debe considerar el uso concomitante de todos estos fármacos con valganciclovir
+sólo si los posibles beneficios superan a los riesgos potenciales (ver apartado 4.4).
+ 4.6   Embarazo y lactancia
+ No hay datos del empleo de VALCYTE en mujeres embarazadas. Su metabolito activo,
+ganciclovir, pasa fácilmente a través de la placenta humana. Existe un riesgo teórico de
+teratogenicidad en humanos, en base a su mecanismo de acción farmacológico y la toxicidad
+reproductiva observada en estudios en animales con ganciclovir (ver apartado 5.3).
+ VALCYTE no debe emplearse en el embarazo, a menos que los beneficios para la madre superen
+el riesgo potencial de daño teratogénico para el niño.
+ Las mujeres en edad de procrear deben utilizar medidas anticonceptivas eficaces durante el
+tratamiento. Se debe aconsejar a los varones que utilicen medidas anticonceptivas de barrera
+durante y hasta, por lo menos, 90 días después del tratamiento con VALCYTE, a menos que
+exista la seguridad de que la pareja femenina no corra el riesgo de quedarse embarazada (ver
+apartado5.3).
+ Se desconoce si el ganciclovir se excreta en la leche materna pero no se puede descartar esta
+posibilidad, con las reacciones adversas graves consiguientes para el bebé lactante. Por eso, debe
+interrumpirse la lactancia (ver apartado 4.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+El uso de VALCYTE y/o de ganciclovir se ha asociado con convulsiones, sedación, mareos,
+ataxia y/o confusión. Si aparece cualquiera de estas reacciones, podrían alterar las tareas que
+exigen un estado de alerta, como la capacidad para conducir vehículos y utilizar máquinas.
+ 4.8   Reacciones adversas
+ El valganciclovir es un profármaco del ganciclovir, que se metaboliza de manera rápida y extensa
+a ganciclovir después de su administración oral. Valganciclovir debería asociarse con las mismas
+reacciones adversas conocidas para el ganciclovir. Todas las reacciones adversas observadas en
+los estudios clínicos con valganciclovir se habían observado antes con ganciclovir. Las reacciones
+adversas más comunes comunicadas tras la administración de valganciclovir son neutropenia,
+anemia y diarrea.
+ Valganciclovir, se asocia a un mayor riesgo de diarrea comparado con ganciclovir i.v.
+Además, valganciclovir se asocia con un riesgo más alto de neutropenia y leucopenia comparado
+con ganciclovir oral.
+ Se observa con más frecuencia neutropenia grave (< 500 recuento total de neutrofilos/l) en
+pacientes con retinitis por CMV en tratamiento con valganciclovir que en pacientes con trasplante
+de órgano sólido recibiendo valganciclovir.
+ En la siguiente tabla se detalla la frecuencia de las reacciones adversas notificadas en los ensayos
+clínicos con valganciclovir, ganciclovir oral, o ganciclovir intravenoso. Las reacciones adversas
+reflejadas en la tabla se comunicaron en ensayos clínicos para el tratamiento de inducción y
+mantenimiento de la retinitis por CMV en pacientes con SIDA, o para la profilaxis de la
+enfermedad por CMV en pacientes con trasplante de corazón, riñón o hígado. El término (grave)
+que aparece en paréntesis en la tabla indica que la reacción adversa se ha comunicado en pacientes
+tanto de intensidad leve/moderada como intensidad grave/amenazante para la vida en esa
+frecuencia específica.
+ Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo
+de frecuencia.
+  Sistema corporal       Muy                     Frecuentes        Poco frecuentes     Raras
+Exploraciones                          aumento de creatinina
+complementarias                        en sangre, pérdida de
+Trastornos                                                       arrítmias
+cardiacos
+Trastornos de la       neutropenia     Pancitopenia (grave),     mielosupresión      anemia
+sangre y del sistema   (grave),        leucopenia (grave),                           aplásica
+linfático              anemia          anemia (grave),
+Trastornos del                         convulsiones,             temblores
+sistema nervioso                       neuropatía periférica,
+Trastornos oculares                    desprendimiento de        visión anormal,
+Trastornos del oído                    dolor de oídos            sordera
+y del laberinto
+Trastornos             disnea          tos
+respiratorios,
+torácicos y
+Sistema corporal        Muy               Frecuentes            Poco frecuentes    Raras
+mediastínicos
+Trastornos              diarrea      naúseas, vómitos,          pancreatitis,
+gastrointestinales                   dolor abdominal, dolor     distensión
+Trastornos renales y                 disfunción renal,          Insuficiencia
+urinarios                            disminución del            renal, hematuria
+Trastornos de la piel                dermatitis, sudores        alopecia,
+y del tejido                         nocturnos, prurito         urticaria,
+subcutáneo                                                      sequedad de la
+Trastornos                           dolor de espalda,
+muscoloesqueléticos                  mialgia, artralgia,
+y del tejido                         calambres musculares
+conjuntivo
+Trastornos del                       anorexia, pérdida del
+metabolismo y de la                  apetito
+nutrición
+Infecciones e                        sepsis (bacteriemia,
+infestaciones                        viremia), celulitis,
+Trastornos                                                      hipotensión
+vasculares
+Trastornos                           fatiga, fiebre, rigidez,
+generales y                          dolor, dolor torácico,
+alteraciones en el                   malestar, astenia
+lugar de
+administración
+Trastornos del                                                  reacción
+sistema                                                         anafiláctica
+inmunológico
+Trastornos                           función hepática           aumento de la
+hepatobiliares                       anormal (grave),           alanina
+Trastornos del                                                  Infertilidad
+aparato reproductor                                             masculina
+y de la mama
+Trastornos                           depresión, ansiedad,       Alteración
+psiquiátricos                        confusión,                 psicótica,
+Sistema corporal     Muy                 Frecuentes           Poco frecuentes      Raras
+ Se puede asociar la trombocitopenia grave con amenaza de la vida por una hemorragia.
+ 4.9     Sobredosis
+ Experiencia con sobredosis de valganciclovir
+Un adulto que recibió durante varios días dosis 10 veces mayores de las recomendadas para su
+grado de insuficiencia renal (disminución del aclaramiento de creatinina) sufrió una
+mielosupresión mortal (aplasia medular).
+ Cabe esperar que la sobredosis de valganciclovir pueda aumentar también la toxicidad renal de
+este compuesto (ver apartados4.2 y 4.4).
+ La hemodiálisis y la hidratación pueden resultar beneficiosos para reducir los niveles plasmáticos
+de los pacientes que reciben sobredosis de valganciclovir (ver apartado5.2).
+ Experiencia con sobredosis de ganciclovir por vía intravenosa
+Se han recibido notificaciones de sobredosis de ganciclovir por vía intravenosa sucedidas en
+ensayos clínicos y durante la comercialización de este medicamento. En algunos de estos casos no
+se observó ningún tipo de acontecimiento adverso. La mayoría de los enfermos presentaron uno o
+más de los siguientes acontecimientos adversos:
+ Toxicidad hematológica: pancitopenia, mielosupresión, aplasia medular, leucopenia, neutropenia,
+granulocitopenia
+         Toxicidad hepática: hepatitis, trastornos de la función hepática
+-
+Toxicidad renal: empeoramiento de la hematuria de un paciente con alteraciones previas de
+-
+la función renal, insuficiencia renal aguda, elevación de la creatinina.
+Toxicidad digestiva: dolor abdominal, diarrea, vómitos
+-
+Neurotoxicidad: temblor generalizado, convulsiones
+-
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1     Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Nucleósidos y nucleótidos, excl. inhibidores de la transcriptasa
+reversa, código ATC: J05A B14
+ Mecanismo de acción
+ El valganciclovir es un éster L-valílico (profármaco) del ganciclovir. Tras su administración oral,
+valganciclovir se metaboliza de manera rápida y extensa a ganciclovir por las estearasas
+intestinales y hepáticas. El ganciclovir es un análogo sintético de la 2'-desoxiguanosina e inhibe la
+replicación de los virus herpéticos in vitro e in vivo. Los virus humanos sensibles a este
+medicamento son el citomegalovirus humano (CMV humano), los virus del herpes simple 1 y 2
+                                                                                                         MINISTERIO
+(HSV-1 y HSV-2), el virus del herpes humano 6, 7 y 8 (HHV-6, HHV-7, HHV8), el virus de
+Epstein-Barr (EBV), el virus de la varicela zoster (VZV) y el virus de la hepatitis B (VHB).
+ En las células infectadas por CMV, el ganciclovir se fosforila en principio a monofosfato de
+ganciclovir por la proteinquinasa vírica pUL97. La fosforilación posterior tiene lugar por quinasas
+celulares que producen trifosfato de ganciclovir, el cual se metaboliza lentamente dentro de la
+célula. Se ha demostrado que el metabolismo del trifosfato ocurre en células infectadas por HSV y
+por CMV humano, con semividas de 18 y 6-24 horas respectivamente, después de eliminar el
+ganciclovir extracelular. Como la fosforilación depende, fundamentalmente, de la quinasa vírica,
+el ganciclovir se fosforila preferentemente dentro de las células infectadas por el virus.
+ La actividad virostática del ganciclovir se debe a la inhibición de la síntesis del ADN vírico a
+través de: (a) inhibición competitiva de la incorporación del trifosfato de desoxiguanosina al ADN
+a través de la ADN-polimerasa vírica, y (b) incorporación del trifosfato de ganciclovir al ADN
+vírico originando la terminación del ADN o limitando muchísimo la elongación posterior del
+ADN vírico.
+ Actividad antivírica
+ La actividad in vitro antivírica, medida como CI50 del ganciclovir frente al CMV oscila en el
+intervalo de 0,08 M (0,02 g/ml) a 14 M (3,5 g/ml).
+ El efecto clínico antiviral de VALCYTE se ha demostrado en el tratamiento de los pacientes de
+SIDA con retinitis por CMV recién diagnosticada. La eliminación de CMV disminuyó en orina
+desde el 46% (32/69) de los pacientes al comienzo del estudio hasta el 7% (4/55) de los pacientes
+después de cuatro semanas de tratamiento con VALCYTE.
+ Eficacia clínica
+ Tratamiento de la retinitis por CMV:
+En un estudio se distribuyó aleatoriamente a pacientes recién diagnosticados de retinitis por CMV
+para recibir tratamiento de inducción con 900 mg de VALCYTE, dos veces al día, o con 5 mg/kg
+de ganciclovir intravenoso, dos veces al día. El porcentaje de pacientes con retinitis progresiva
+por CMV demostrada fotográficamente a las 4 semanas fue comparable en los dos grupos
+tratados, 7/70 y 7/71 pacientes progresaron en los brazos de ganciclovir i.v. y valganciclovir
+respectivamente.
+ Después del tratamiento de inducción, todos los pacientes de este estudio recibieron tratamiento
+de mantenimiento con VALCYTE en dosis de 900 mg al día. La media (mediana) del tiempo
+desde la aleatorización hasta la progresión de la retinitis por CMV del grupo que recibió
+tratamiento de inducción y mantenimiento con VALCYTE fue de 226 (160) días y la del que
+recibió tratamiento de inducción con ganciclovir por vía intravenosa y tratamiento de
+mantenimiento con VALCYTE, de 219 (125) días.
+ Prevención de la enfermedad por CMV en el trasplante:
+Se ha realizado un estudio clínico doble ciego, con doble enmascaramiento con comparador
+activo en pacientes con trasplante de corazón, hígado y riñón (no se incluyeron pacientes con
+trasplante pulmonar y gastro-intestinal) con alto riesgo de enfermedad por CMV (D+/R-) que
+recibieron bien VALCYTE (900 mg al día) o ganciclovir oral (1000 mg tres veces al día),
+comenzando dentro de los 10 días del transplante hasta el día 100 post-transplante. La incidencia
+de enfermedad por CMV (síndrome por CMV + enfermedad tisular invasiva) durante los primeros
+6 meses post-transplante fue 12,1% en el brazo de VALCYTE (n=239) comparado con 15,2% en
+el brazo de ganciclovir oral (n=125). La gran mayoría de los casos ocurrieron tras el cese de la
+profilaxis (después del día 100) y los casos en el brazo de valganciclovir ocurrieron por término
+medio más tarde que los aparecidos en el brazo de ganciclovir oral. La incidencia de rechazo
+agudo en los primeros 6 meses fue de 29,7% en pacientes randomizados a valganciclovir
+comparado con 36,0% en el brazo de ganciclovir oral, siendo la incidencia por perdida de injerto
+equivalente, ocurriendo en cada brazo en un 0,8% de los pacientes.
+ Resistencia vírica
+Después del tratamiento crónico con ganciclovir pueden surgir virus resistentes al valganciclovir
+por selección de mutaciones del gen de la quinasa vírica (UL97) responsable de la
+monofosforilación del ganciclovir, y/o del gen de la polimerasa vírica (UL54), o de ambos. Los
+virus con mutaciones del gen UL97 muestran resistencia al ganciclovir solo, mientras que
+aquellos con mutaciones del gen UL54 presentan resistencia a ganciclovir pudiendo mostrar
+resistencia cruzada a otros antivirales cuyo mecanismo de acción sea la polimerasa viral.
+ Tratamiento de la retinitis por CMV:
+En un estudio clínico el análisis genotípico de CMV en leucocitos polimorfonucleares (PMNL)
+aislados de 148 pacientes con retinitis por CMV reclutados mostró que el 2,2%, el 6,5%, el 12,8%
+y el 15,3% de aquellos contienen mutaciones de UL97 después del tratamiento con valganciclovir
+durante 3, 6, 12 y 18 meses, respectivamente.
+ Prevención de la enfermedad por CMV en trasplante:
+Se estudió la resistencia mediante el análisis genotípico de CMV en muestras de leucocitos
+polimorfonucleares (PMNL) recogidas i) el día 100 (fin de la administración del fármaco en el
+estudio de profilaxis) y ii) en casos de sospecha de enfermedad por CMV hasta 6 meses después
+del trasplante. De los 245 pacientes randomizados que recibieron valganciclovir, se dispuso de
+198 muestras del día 100 para examen y no se observaron mutaciones de resistencia al
+ganciclovir. Esto puede compararse con 2 mutaciones de resistencia a ganciclovir detectadas en
+103 muestras examinadas de los pacientes en el brazo comparador de ganciclovir oral (1,9%).
+ De los 245 pacientes randomizados que recibieron valganciclovir, se examinaron 50 muestras de
+pacientes con sospecha de enfermedad por CMV y no se observaron mutaciones de resistencias.
+De los 127 pacientes randomizados en el brazo comparador de ganciclovir, se examinaron
+muestras de 29 pacientes con sospecha de enfermedad por CMV, observándose dos mutaciones de
+resistencia, lo que dio lugar a una incidencia de resistencia de 6,9%.
+ 5.2   Propiedades farmacocinéticas
+ Las propiedades farmacocinéticas del valganciclovir se han investigado con pacientes que
+presentaban seropositividad al VIH y CMV, pacientes con SIDA y retinitis por CMV y pacientes
+con transplante de órgano sólido.
+ Absorción
+El valganciclovir es un profármaco del ganciclovir. Se absorbe perfectamente en el tubo digestivo
+y se metaboliza de forma rápida y extensa en la pared intestinal y en el hígado a ganciclovir. La
+exposición sistémica a valganciclovir es pasajera y baja. La biodisponibilidad absoluta del
+ganciclovir, a partir del valganciclovir, es aproximadamente del 60% y el resultado de la
+exposición a ganciclovir es similar a la obtenida tras su administración intravenosa (ver la tabla a
+continuación).
+ Valganciclovir en pacientes con VIH-positivo y CMV-positivo
+                                                                                                        MINISTERIO
+La exposición sistémica en pacientes VIH - positivo, CMV - positivo después de la
+administración de ganciclovir y valganciclovir dos veces al día durante una semana es:
+ Parametros                       Ganciclovir                 Valganciclovir (900 mg, v.o.)
+ AUC(0-12h) (g.h/ml)
+Cmax (g/ml)
+ La eficacia de ganciclovir en el aumento del tiempo de progresión de la retinitis por CMV ha
+demostrado correlación con la exposición sistémica (AUC).
+ Valganciclovir en pacientes con trasplante de órganos sólidos
+Después de la administración oral diaria de ganciclovir y valganciclovir en pacientes con
+trasplante de órgano sólido, se consiguen exposiciones sistémicas estables de:
+ Parametros                       Ganciclovir           Valganciclovir (900 mg, una vez al día)
+AUC(0-24h) (g.h/ml)
+Cmax (g/ml)
+ De acuerdo con el algoritmo de dosificación dependiendo de la función renal, la exposición
+sistémica de ganciclovir en los receptores de trasplante hepático, renal y cardíaco fue similar a la
+observada tras la administración oral de valganciclovir
+ Tras la administración de valganciclovir como solución oral, se han obtenido exposiciones
+sistémicas de ganciclovir equivalentes a las obtenidas con la formulación de comprimidos.
+ Efecto de la comida:
+La relación de proporcionalidad entre el AUC de ganciclovir y la dosis de valganciclovir, tras la
+administración de éste último en un rango de dosis de 450 a 2.625 mg., sólo se ha demostrado
+después de la ingesta de alimentos. Cuando se administró valganciclovir con alimentos a la dosis
+recomendada de 900 mg, se observaron valores mayores que en ayunas, tanto la media de AUC
+(aprox. 30%) como los valores medios de Cmax (aprox. 14%) de ganciclovir. También, la variación
+entre individuos en la exposición a ganciclovir desciende cuando se toma VALCYTE con
+alimentos. En los estudios clínicos VALCYTE se ha administrado solo con comida. Así pues, se
+recomienda administrar VALCYTE con las comidas (ver apartado 4.2).
+ Distribución
+Como el valganciclovir se convierte en seguida en ganciclovir, no se ha determinado la unión de
+valganciclovir a las proteínas. El ganciclovir, en concentraciones de 0,5 a 51 g/ml, se une en un
+1-2% a las proteínas del plasma. El volumen de distribución del ganciclovir en el equilibrio
+alcanza 0,680 ± 0,161 l/kg (n=114) después de su administración intravenosa.
+ Metabolismo
+El valganciclovir se metaboliza de manera rápida y extensa a ganciclovir; no se conoce ningún
+otro metabolito. No existe ningún metabolito del ganciclovir radiactivo administrado por vía oral
+(en dosis única de 1.000 mg) que justifique más del 1-2% de la radiactividad recuperada en las
+heces o en la orina.
+ Eliminación
+Después de administrar VALCYTE, la vía principal de eliminación del valganciclovir consiste en
+la excreción renal de ganciclovir a través de filtración glomerular y secreción tubular activa. El
+aclaramiento renal da cuenta del 81,5% ± 22% (n=70) del aclaramiento sistémico del ganciclovir.
+Las estimaciones Bayesianas post-hoc para poblaciones, en pacientes con una CrCl > 60 ml /min,
+la media del aclaramiento de ganciclovir es 14,05 ±4,13 L/h. En pacientes con insuficiencia renal,
+la media del aclaramiento de ganciclovir es 8,46 ± 1,67 L/h (CrCl 40-60 ml/min) y 7,00 ± 1,08
+L/h (CrCl 25-40 ml/min)
+ La semivida de ganciclovir a partir de valganciclovir es 4,1±0,9 horas en pacientes seropositivos
+VIH y CMV.
+ Farmacocinética en situaciones clínicas especiales
+ Pacientes con insuficiencia renal
+La disminución de la función renal reduce el aclaramiento de ganciclovir a partir de
+valganciclovir con el correspondiente aumento de la semivida terminal. Así pues, es necesario
+ajustar la dosis de los enfermos con insuficiencia renal (ver apartados 4.2 y 4.4).
+ Pacientes sometidos a hemodiálisis
+En pacientes que estén recibiendo hemodiálisis, se recomienda administrar una dosis
+individualizada de VALCYTE polvo para solución oral (ver apartados 4.2 y 4.4).
+ Pacientes con alteraciones de la función hepática
+La seguridad y la eficacia de VALCYTE no se han estudiado en pacientes con alteración hepática.
+La alteración hepática no debería afectar a la farmacocinética de ganciclovir ya que éste se excreta
+por vía renal, por consiguiente, no se establecen recomendaciones posológicas específicas.
+ 5.3   Datos preclínicos sobre seguridad
+ Valganciclovir es un profármaco de ganciclovir y, por consiguiente, los efectos observados con
+ganciclovir son igualmente aplicables para valganciclovir. La toxicidad de valganciclovir en los
+estudios preclínicos de seguridad fue la misma que la observada con ganciclovir y fue inducida
+con niveles de exposición a ganciclovir comparables, o más bajos a los alcanzados en humanos a
+los que se administró la dosis de inducción.
+ Estos hallazgos fueron gonadotoxicidad (pérdida de células testiculares) y nefrotoxicidad (uremia,
+degeneración celular) que fueron irreversibles, mielotoxicidad (anemia, neutropenia,
+linfocitopenia) y toxicidad gastrointestinal (necrosis de las células de la mucosa) que fueron
+reversibles.
+ Estudios adicionales han demostrado que ganciclovir es mutagénico, carcinogénico, teratogénico,
+embriotóxico y aspermatogénico (ej. alteración de la fertilidad masculina) y suprime la fertilidad
+femenina.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ povidona
+ácido fumárico
+benzoato sódico (E211)
+sacarina sódica
+manitol
+ Sabor Tutti-frutti:
+maltodextrina (maíz)
+propilenglicol
+goma arábiga E414 y sustancias naturales que dan sabor principalmente de plátano, piña y
+melocotón
+ 6.2   Incompatibilidades
+ No aplicable.
+ 6.3   Periodo de validez
+ Polvo para solución oral: 2 años.
+Solución reconstituida: 49 días. Conservar en nevera (2ºC - 8ºC)
+ 6.4   Precauciones especiales de conservación
+ Este medicamento no requiere condiciones especiales de conservación.
+Para las condiciones de conservación del medicamento reconstituido, ver apartado 6.3.
+ 6.5   Naturaleza y contenido del envase
+                                                                                                      MINISTERIO
+La caja contiene un frasco de cristal ámbar de 100 ml, con un tapón de plástico a prueba de niños,
+un adaptador de plástico para el frasco y una bolsa de plástico que contiene 2 dispensadores orales
+de plástico graduados hasta 500 mg, con graduaciones de 25 mg.
+ Cada frasco contiene 12 g de polvo para solución oral. Cuando se reconstituye, el volumen de la
+solución es 100 ml, proporcionando el volumen mínimo utilizable, 88 ml.
+ 6.6     Precauciones especiales de eliminación 
+ VALCYTE, debe manipularse con precaución tanto el polvo como la solución reconstituida, ya
+que es considerado un potencial agente teratógeno y carcinógeno en humanos (ver apartado 4.4).
+Evite la inhalación y el contacto directo del polvo y de la solución en piel y membranas mucosas.
+Si ocurriese tal contacto, lávese a fondo con jabón y agua. Si el polvo o la solución entran en los
+ojos, aclare los ojos a fondo con agua.
+ Se recomienda que VALCYTE polvo para solución oral sea reconstituida por un farmacéutico
+antes de dispensarse al paciente.
+ Preparación de la solución
+       1. Medir 91 ml de agua en una probeta graduada.
+2. Quitar el tapón a prueba de niños, añadir el agua en el frasco y cierre el frasco con el
+tapón a prueba de niños. Agitar el frasco cerrado hasta que se disuelva todo el polvo
+formando una solución clara, de incolora a parda.
+3. Quitar el tapón a prueba de niños y poner el adaptador en el cuello del frasco.
+4. Cerrar bien fuerte el frasco con el tapón a prueba de niños. Esto asegurará el asentamiento
+apropiado del adaptador al frasco y la función del tapón a prueba de niños.
+5. Escribir la fecha de caducidad de la solución reconstituida en la etiqueta del frasco (ver
+apartado 6.3)
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en
+contacto con él, se realizará de acuerdo con la normativa local.
+ 
+7.      TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Roche Farma, S.A.
+Eucalipto, no 33
+28016 Madrid
+8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Número de registro:
+ 9.      FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Abril 2008
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+
+	Prospectos de medicamentos.

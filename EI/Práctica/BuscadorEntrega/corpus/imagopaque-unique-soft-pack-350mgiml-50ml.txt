@@ -1,0 +1,351 @@
+IMAGOPAQUE UNIQUE SOFT PACK 350MGI/ML 50ML
+	"Información Basica del medicamento Toda la información del medicamento 1   NOMBRE DEL MEDICAMENTO
+ IMAGOPAQUE UNIQUE SOFT PACK 300 mg I/ml solución inyectable
+IMAGOPAQUE UNIQUE SOFT PACK 350 mg I/ml solución inyectable
+ 2   COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+     Iopentol      N,N'bis(2,3-dihidroxipropilo)-5-[N-2(-hidroxi-3-metoxipropilo)-acetamida]-
+2,4,6-triyodisoftalmida es un medio de contraste radiológico, monomérico, triyodado, no-
+iónico y soluble en agua con un peso molecular de 835 (contenido de yodo 45.6%)
+     IOPENTOL es suministrado listo para su uso como solución estéril con la siguiente
+composición:
+ Principios activos                 Actividad                 Contenido por ml.
+Iopentol* (D.C.I.)                 300 mg I/ml               658 mg equiv. 300 mg I
+Iopentol* (D.C.I.)
+     * Calculado en base anhídra.
+     Los valores de osmolalidad y viscosidad son los siguientes:
+ Concentración                  Osmolalidad*             Viscosidad (mPa.s)
+300 mg I/ml                         640                    13.2              6.5
+350 mg I/ml                         810                    26.6             12.0
+     * Método: Vapor-presión osmométrica.
+     Lista de excipientes en 6.1
+ 3   FORMA FARMACÉUTICA
+     Solución inyectable
+IMAGOPAQUE UNIQUE SOFT PACK es una solución inyectable estéril, clara e
+incolora.
+
+
+4       DATOS CLINICOS:
+ 4.1     Indicaciones
+         Medio de contraste radiológico para Arteriografía, Urografía, Flebografía, TC de contraste
+(TC= Tomografía Computarizada), Cardioangiografía, Artrografía, Colangiopancreatografía
+endoscópica retrógrada (CPER), Histerosalpingografía y estudios gastrointestinales utilizando
+un medio de contraste oral soluble en agua.
+         Este medicamento es únicamente para uso diagnóstico.
+ 4.2     Posología y forma de administración
+         La dosis depende del tipo de examen, edad, peso, gasto cardiaco, del estado general del
+paciente y la técnica utilizada. Comúnmente, se usa la misma concentración y volumen de
+yodo que para otros medios de contraste radiológicos yodados actualmente en uso. Debe
+asegurarse una hidratación adecuada antes y después de la administración como sucede con
+otros medios de contraste.
+Para uso intravenoso, intra-arterial, y para uso en cavidades corporales
+         Las siguientes dosis pueden servir como guía:
+ Orientaciones para uso Intravenoso
+ Indicación              Concentración                 Volumen                 Comentarios
+                                                                                En urografía de alta
+Urografía
+en adultos:                            300 mg I/ml           40-80 ml          usarse dosis más altas
+en niños: < 1 año                      300 mg I/ml            3 ml/kg
+> 1 año                      300 mg I/ml          1,5-2 ml/kg
+                                        200 mg I/ml       20-100 ml/pierna
+Flebografía
+(pierna)                               250 mg I/ml
+ TC de contraste
+(Tomografía
+computarizada)
+ en adultos:                            300 mg I/ml          50-150 ml          Cantidad total de yodo
+en niños: < 2 años                     300 mg I/ml         > 2,5 ml/kg
+> 2 años                     300 mg I/ml         1-2,5 ml/kg         Cantidad total de yodo
+Orientaciones para uso Intra-arterial
+               Indicación            Concentración        Volumen             Comentarios
+ Arteriografías
+ Aortografía del arco                  300 mg I/ml      30-40 ml/iny
+Cerebral selectiva                    300 mg I/ml      5-10 ml/iny
+Aortografía                           300 mg I/ml      40-60 ml/iny
+Femoral                               150 mg I/ml      30-50 ml/iny
+ Cardioangiografía
+ en adultos:
+ Inyección en ventrículo izd. y
+cayado aórtico                          350 mg I/ml    30-60 ml/iny
+Arteriografía coronaria selectiva           350 mg      4-8 ml/iny
+en niños:                                             dependiendo de
+ Orientaciones para Cavidades corporales
+ Indicación             Concentración              Volumen             Comentarios
+                                       300 mg I/ml        10-20 ml
+Artrografía
+ CPER
+ Estudios
+Gastrointestinales -
+Uso oral:
+Histerosalpingografía
+ 4.3    Contraindicaciones
+        Tirotoxicosis manifiesta. Antecedentes de reacciones graves a IMAGOPAQUE UNIQUE
+SOFT PACK.
+ 4.4    Advertencias y precauciones especiales de empleo
+        Precauciones especiales de uso de medios de contraste no-iónicos monoméricos en
+general:
+Un historial positivo de alergia, asma o reacciones adversas a medios de contraste yodados
+indica la necesidad de un cuidado especial (Ver Reacciones Adversas). La premedicación con
+corticosteroides o antihistamínicos H1 y H2 puede ser considerada en estos casos.
+        El riesgo de reacciones graves relacionadas con el uso de IMAGOPAQUE UNIQUE SOFT
+PACK se considera mínimo. Sin embargo, los medios de contraste yodados pueden provocar
+reacciones anafilactoides u otras manifestaciones de hipersensibilidad. Por lo tanto, deberá
+disponerse de los fármacos y del equipo adecuado para un tratamiento inmediato en caso de
+que ocurriese una reacción grave. Se recomienda siempre utilizar un catéter para acceso
+intravenoso rápido durante el procedimiento radiográfico completo.
+        Los medios de contraste no-iónicos poseen un menor efecto en el sistema de coagulación ""in
+vitro"" que los medios de contraste iónicos. Cuando se realizan procedimientos de
+cateterización vascular, se deberá prestar una meticulosa atención a la técnica angiográfica así
+como lavar frecuentemente el catéter (con solución salina heparinizada, por ejemplo) para
+minimizar el riesgo de trombosis o embolia relacionadas con el procedimiento.
+        Deberá asegurarse una hidratación adecuada antes y después de la administración del medio
+de contraste. Especialmente para pacientes con mieloma múltiple, diabetes mellitus,
+disfunción renal, así como también para bebés, niños pequeños y ancianos. Los bebés (edad <
+1 año) y especialmente los neonatos son susceptibles de padecer de trastornos electrolíticos y
+alteraciones hemodinámicas.
+        Deberá tenerse especial cuidado en pacientes con enfermedades cardíacas graves e
+hipertensión pulmonar, ya que pueden desarrollar cambios hemodinámicos o arritmias.
+        Pacientes con patología cerebral aguda, tumores o historial de epilepsia están predispuestos a
+ataques y merecen un cuidado especial. Los alcohólicos y los adictos a las drogas tienen
+también un riesgo mayor de ataques y reacciones neurológicas.
+        Para prevenir el fallo renal agudo tras la administración del medio de contraste, deberá
+prestarse especial cuidado en pacientes con insuficiencia renal preexistente y diabetes
+mellitus, puesto que son pacientes de riesgo. Los pacientes con paraproteinemias
+(mielomatosis y macroglobulinemia de Waldenström) también son un grupo de riesgo.
+        Las medidas preventivas incluyen:
+        -       Identificación de los pacientes de alto riesgo.
+-       Asegurar una hidratación adecuada. Si es necesario, manteniendo una infusión i.v.
+desde antes del procedimiento hasta que el medio de contraste haya sido aclarado por
+los riñones.
+-       Evitar sobrecarga en los riñones debido a fármacos nefrotóxicos, agentes
+colecistográficos orales, compresión arterial, angioplastia arterial renal, o cirugía
+mayor, hasta que el medio de contraste haya sido aclarado.
+-       Posponer una exploración repetida con medio de contraste hasta que la función renal
+vuelva a niveles previos a la exploración.
+       Para prevenir acidosis láctica, deberá medirse el nivel de creatinina sérica en pacientes
+diabéticos tratados con metformina antes de la administración intravascular de un medio de
+contraste yodado. Creatinina normal: Deberá suspenderse la administración de metformina en
+el momento de la administración del medio de contraste y no se reanudará hasta 48 horas
+después, o hasta que la función renal sea normal. Función renal alterada: La administración de
+metformina deberá ser suspendida y la exploración con medio de contraste se pospondrá 48
+horas. Únicamente se restaurará la administración de metformina si la función renal no
+muestra cambios. En casos de emergencia donde la función renal esté alterada o se
+desconozca, el médico deberá evaluar el riesgo/beneficio de la exploración con medio de
+contraste y, se tendrán en cuenta estas precauciones: se suspenderá la medicación con
+metformina, el paciente se mantendrá hidratado, su función renal monitorizada y en
+observación de posibles síntomas de acidosis láctica.
+       Se debe tener un cuidado especial en pacientes con alteración severa de ambas funciones renal
+y hepática, puesto que esto puede haber retrasado significativamente el aclaramiento del
+medio de contraste. Los pacientes en hemodiálisis pueden recibir medios de contraste para
+procedimientos radiológicos siempre que se realice una diálisis inmediatamente después.
+       La administración de medios de contraste yodados puede agravar los síntomas de miastemia
+grave. En pacientes con feocromocitoma sometidos a procedimientos intervencionistas,
+deberán administrarse alfa bloqueantes como profilaxis para evitar una crisis hipertensiva.
+Deberá tenerse especial cuidado en pacientes con hipertiroidismo. Los pacientes con bocio
+multinodular pueden correr el riesgo de desarrollar hipertiroidismo tras la inyección de medios
+de contraste yodados. También se deberá estar alerta ante la posibilidad de inducir
+hipotiroidismo transitorio en bebés prematuros que reciban medios de contraste.
+       La extravasación de los medios de contraste ocurre en raras ocasiones, y puede provocar dolor
+local y edema, lo que normalmente desaparece sin secuelas. Sin embargo, se han observado
+inflamación e incluso necrosis tisular. Como medidas rutinarias se recomiendan la elevación y
+el enfriamiento del lugar afectado. Puede ser necesaria la descompresión quirúrgica en casos
+de síndrome compartimental.
+       Tiempo de observación
+       Después de la administración del medio de contraste, el paciente deberá ser observado
+durante al menos 30 minutos, debido a que la mayoría de las reacciones adversas graves
+ocurren en este tiempo. Sin embargo, la experiencia muestra que las reacciones de
+hipersensibilidad pueden ocurrir hasta varias horas o días posteriores a la inyección.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+El uso de medios de contraste puede ocasionar un trastorno transitorio de la función renal y
+esto puede precipitar la acidosis láctica en pacientes diabéticos que estén tomando metformina
+(ver apartado 4.4 Advertencias y precauciones especiales de empleo).
+       Se ha observado un aumento de riesgo de sufrir reacciones tardías (síntomas parecidos a los
+gripales o reacciones cutáneas) en los pacientes tratados con interleuquina-2 durante menos de
+2 semanas antes de la exploración.
+       Todos los medios de contraste yodados pueden interferir con las pruebas de función tiroidea,
+ya que la capacidad del tiroides de fijar iodo puede quedar reducida durante varias semanas.
+       Las altas concentraciones del medio de contraste en el suero y la orina pueden interferir con las
+pruebas de laboratorio de la bilirrubina, proteínas o sustancias inorgánicas (p.ej.: hierro, cobre,
+calcio y fosfato). Por lo tanto, estas sustancias no deberán ser valoradas el día del examen.
+ 4.6   Embarazo y lactancia
+       Aunque en estudios de animales no se han revelado alteraciones en la fecundidad o
+teratogenicidad debida al iopentol, su uso durante el embarazo debe ser restringido al mínimo.
+El alto riesgo asociado a su uso durante el embarazo es debido a la radiografía y no al medio
+de contraste. El producto no debe ser utilizado durante el embarazo a menos que el beneficio
+supere al riesgo y sea considerado esencial por el facultativo.
+       El grado de excreción en la leche materna es hasta ahora desconocido, aunque se espera que
+sea bajo. La lactancia deberá ser interrumpida antes de la administración de IMAGOPAQUE
+UNIQUE SOFT PACK, y no deberá ser reanudada hasta al menos 24 horas después.
+ 4.7   Efectos sobre la capacidad para conducir vehículos y utilizar              maquinaria
+       La influencia de IMAGOPAQUE sobre la capacidad para utilizar máquinas es nula.
+ 4.8   Reacciones adversas
+       Generales:
+A continuación se enumeran las reacciones adversas generales en relación con
+procedimientos radiográficos que incluyen el uso de IMAGOPAQUE UNIQUE SOFT PACK.
+Para los efectos secundarios específicos de una forma de administración, se deberán referir a
+esas secciones específicas.
+       Las reacciones adversas asociadas al uso de medios de contraste yodados son generalmente de
+leves a moderadas y de naturaleza transitoria, y menos frecuentes con medios de contraste no-
+iónicos que con los iónicos. Las reacciones graves, así como los casos fatales se observan en
+muy raras ocasiones.
+       La reacción adversa más frecuente es una sensación general leve de calor o un sabor metálico
+transitorio.
+       Las reacciones gastrointestinales como náuseas o vómitos son raras (incidencia <1:100, pero
+>1:1000) y la molestia/dolor abdominal es muy rara (incidencia <1:1000).
+       Otras reacciones como cefalea, vértigo, parestesias, temblor, palpitaciones, trastornos visuales
+e hipertensión son muy raras.
+Las reacciones de hipersensibilidad son raras, y normalmente se presentan como síntomas
+cutáneos o respiratorios leves como disnea, sarpullido, eritema, urticaria, prurito y
+angioedema. Pueden aparecer inmediatamente después de la inyección o hasta pocos días más
+tarde. Se han notificado reacciones cutáneas de graves a tóxicas. Puede darse hipotensión o
+fiebre. Las manifestaciones graves como edema laríngeo, broncoespasmo o edema pulmonar
+son muy raras.
+ Las reacciones anafilactoides pueden ocurrir independientemente de la dosis y forma de
+administración y los síntomas leves de hipersensibilidad pueden representar los primeros
+signos de una reacción grave. La administración del medio de contraste debe detenerse
+inmediatamente y, en caso necesario, instaurarse una terapia específica por vía intravascular.
+En los pacientes tratados con beta-bloqueantes, el shock puede cursar con bradicardia, y por
+esto, estos pacientes pueden presentar síntomas atípicos de anafilaxia, lo que puede
+interpretarse erróneamente como una reacción vagal.
+ En muy raras ocasiones se observan reacciones vagales que producen hipotensión y
+bradicardia.
+ Uso intravascular (Uso intrarterial e intravenoso):
+A continuación, sólo se describen las reacciones adversas que ocurren durante el uso
+intravascular de IMAGOPAQUE UNIQUE SOFT PACK.
+ La naturaleza de las reacciones adversas observadas específicamente durante el uso
+intraarterial depende del lugar de inyección y de la dosis administrada. En arteriografías
+selectivas y otros procedimientos en los que el medio de contraste alcanza un órgano particular
+a concentraciones elevadas, pueden estar acompañados de complicaciones en ese órgano
+particular.
+ En la angiografía periférica es común (incidencia >1:10) el dolor distal o sensación de calor.
+ Es común un aumento transitorio en la creatinina sérica tras la administración de medios de
+contraste yodados, pero normalmente sin relevancia clínica. El fracaso renal es muy raro, sin
+embargo, puede ocurrir en pacientes de riesgo, entre los cuales se han notificado
+fallecimientos.
+ El espasmo arterial puede seguir a la inyección en las arterias coronarias, cerebrales o renales,
+y provocar una isquemia transitoria.
+ Las reacciones neurológicas son muy raras. Pueden incluir ataques o alteraciones sensoriales o
+motoras transitorias. En muy raras ocasiones el medio de contraste puede atravesar la barrera
+hematoencefálica provocando una captación del medio de contraste por la corteza cerebral que
+puede ser visible en la imagen de TC hasta el día siguiente a la exploración, algunas veces
+asociado con confusión transitoria o ceguera cortical.
+ Las complicaciones cardíacas son muy raras, incluyendo arritmias, depresión de la función
+cardiaca o signos de isquemia. Puede producirse hipertensión.
+ La aparición de trombosis o tromboflebitis postflebográficas es muy rara.
+ Uso en Cavidades Corporales
+A continuación, sólo se describen las reacciones adversas que ocurren durante el uso en
+Cavidades Corporales de IMAGOPAQUE UNIQUE SOFT PACK.
+Las reacciones de hipersensibilidad sistémica son raras.
+       Colangiopancreatografía Endoscópica Retrógrada (CPER): Es común alguna elevación de los
+niveles de amilasa. En raras ocasiones se observa opacificación renal tras la CPER, y se asocia
+con un incremento del riesgo de pancreatitis post CPER. También se han descrito casos raros
+de pancreatitis necrotizante.
+       Uso oral: Ocasionalmente se dan molestias gastrointestinales.
+       Histerosalpingografía (HSG): Es común el dolor leve y transitorio en la parte inferior del
+abdomen.
+       Artrografía: Es común el dolor post exploración. La artritis de Frank es rara. La posibilidad de
+artritis infecciosa debe considerarse en casos como éstos.
+ 4.9   Sobredosis
+       Los datos preclínicos indican un elevado margen de seguridad para IMAGOPAQUE UNIQUE
+SOFT PACK y no se ha establecido un nivel superior de dosis fijo para el uso rutinario
+intravascular. La sobredosificación sintomática no es probable en pacientes con la función
+renal normal. Es importante la duración del procedimiento para la tolerancia renal cuando se
+utiliza el medio de contraste a dosis altas (t1/2 - 2 horas). La sobredosis accidental es más
+probable después de procedimientos angiográficos complejos en niños, particularmente
+cuando se administran inyecciones múltiples del medio de contraste de elevada concentración.
+       En casos de sobredosis, se debe corregir cualquier desequilibrio resultante de agua o
+electrolitos. La función renal debe ser monitorizada durante los 3 días siguientes. En pacientes
+con eliminación retardada debido a una insuficiencia renal y en pacientes que hayan recibido
+dosis excesivas del medio de contraste, éste puede ser rápidamente eliminado mediante
+hemodiálisis. Para obtener una eliminación óptima del medio de contraste, los pacientes deben
+estar siempre bien hidratados. No hay un antídoto específico.
+ 5     PROPIEDADES FARMACOLÓGICAS
+ 5.1   Propiedades farmacodinámicas
+       Grupo Farmacoterapéutico: Medios de Contraste para Rayos-X iodados, Código ATC
+V08AB08.
+       En la mayoría de los parámetros hemodinámicos, bioquímicos y de coagulación examinados
+después de la inyección intravenosa de iopentol a voluntarios sanos, no se ha encontrado una
+desviación significativa respecto a los valores previos a la inyección. Los pocos cambios
+observados en los parámetros de laboratorio fueron mínimos y no se consideran de
+importancia clínica.
+ 5.2   Propiedades farmacocinéticas
+       Cerca del 100 por cien del iopentol inyectado intravenosamente es excretado inalterado a
+través de los riñones en un período de 24 horas en pacientes con función renal normal. La
+concentración máxima urinaria de iopentol aparece en un período aproximado de 1 hora
+después de la inyección.
+La vida media de eliminación es aproximadamente de 2 horas en pacientes con función renal
+normal.
+       La fijación proteica de IMAGOPAQUE UNIQUE SOFT PACK es muy baja (inferior al 3%).
+No se han detectado metabolitos.
+ 5.3   Datos preclínicos sobre seguridad
+       IMAGOPAQUE UNIQUE SOFT PACK tiene una baja toxicidad intravenosa aguda en
+ratones y ratas con valores DL50 similares a los de otros medios de contraste monoméricos no-
+iónicos.
+       Los estudios de excreción en ratas y cerdos han mostrado que iopentol es principalmente
+excretado en la orina y, en menor grado, en las heces (ratas: 12%, cerdos: 2.5%, de dosis).
+No se ha encontrado ninguna acumulación orgánica específica de iopentol y no se han
+detectado metabolitos.
+       Los estudios renales en ratas y conejos mostraron que iopentol es, por lo menos, tan bien
+tolerado como otros medios de contraste no-iónicos, incluyendo iohexol, y mucho mejor que
+los monómeros iónicos. Las pruebas de los efectos de iopentol en parámetros hemodinámicos
+y bioquímico-farmacológicos en perros y conejos demostraron la buena tolerancia al iopentol.
+       Se ha demostrado que la tolerancia local al iopentol, expresada como grado de lesión
+endotelial en la aorta de conejo, es superior a la de los medios iónicos convencionales.
+       Los estudios de reproducción en ratas y conejos no han revelado evidencia de fecundidad
+alterada o teratogenia debido al iopentol.
+       La baja toxicidad y la buena tolerancia de iopentol demostradas en experimentos con animales
+han sido confirmadas en estudios clínicos. La influencia de iopentol en parámetros
+hemodinámicos, electrofisiológicos y bioquímicos es insignificante y no se considera de
+importancia clínica.
+       Los estudios con iopentol han confirmado su idoneidad como medio de contraste intravascular
+para urografía, TC de contraste (TC = Tomografía Computarizada), cardioangiografía,
+arteriografía     cerebral,    periférica,   arteriografía,          flebografía, artrografía,
+colangiopancreatografía endoscópica retrógrada (CPER), histerosalpingografía y estudios
+gastrointestinales utilizando un medio de contraste oral soluble en agua.
+       La incidencia de reacciones subjetivas en pacientes se encuentra substancialmente reducida
+comparándolo con los medios monoméricos iónicos actualmente en uso y similar a otros
+medios de contraste no-iónicos, por ejemplo, Omnipaque (iohexol).
+       En comparación con otros medios de contraste intravasculares, se ha obtenido igual calidad de
+radiografías con iopentol.
+ 6     DATOS FARMACÉUTICOS
+ 6.1   Lista de excipientes
+       Trometamol, edetato calcicosódico, ácido clorhídrico (para ajuste de pH)         y agua para
+inyección.
+El pH del producto es: 7,0 ­ 7,6
+ 6.2    Incompatibilidades
+        No se conocen incompatibilidades. Sin embargo, IMAGOPAQUE UNIQUE SOFT
+PACK no debe ser mezclado directamente con otras sustancias farmacológicas. Deberán
+utilizarse una jeringa y aguja diferentes.
+ 6.3    Período de validez
+        La caducidad es de tres años cuando IMAGOPAQUE UNIQUE SOFT PACK solución
+inyectable es almacenado a temperatura inferior a 30ºC y protegido de la luz.
+        Este medicamento no se debe utilizar después de la fecha de caducidad indicada en el
+envase.
+ 6.4    Precauciones especiales de conservación
+        IMAGOPAQUE UNIQUE SOFT PACK debe ser almacenado a temperatura inferior a
+30ºC, protegido de la luz y de Rayos-X secundarios. Los frascos deben ser mantenidos en
+sus cajas hasta que sean utilizados. El producto puede ser almacenado durante 1 mes a 37º
+C antes de su uso.
+ 6.5    Naturaleza y contenido del recipiente
+        El producto se envasa en frascos de polipropileno de 50 ml.
+ 6.6    Instrucciones de uso/manipulación
+        Como en todos los productos parenterales, IMAGOPAQUE UNIQUE SOFT PACK
+deberá ser inspeccionado visualmente para detectar partículas, decoloración e integridad
+del envase antes de su uso.
+        El producto deberá ser aspirado por la jeringa inmediatamente antes de ser utilizado. Los
+viales están destinados para un único uso y las porciones no utilizadas serán desechadas.
+ 7      TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+        AMERSHAM HEALTH, S.A.
+RONDA DE PONIENTE, 12
+EURONOVA
+28760 TRES CANTOS (MADRID)
+ 8      NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+                                                                                                Nº de Registro
+        300 mg I/ml:                                                                                  1 x 50 ml
+                                                                                                      61.442
+ 350 mg I/ml:                                 1 x 50 ml
+                                                   61.441
+ 9   FECHA DE LA PRIMERA APROBACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 10   FECHA DE LA REVISIÓN DEL TEXTO
+      Octubre 2004
+ Prospectos de medicamentos."

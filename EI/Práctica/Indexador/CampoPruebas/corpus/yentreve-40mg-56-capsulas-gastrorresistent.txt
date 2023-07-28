@@ -1,0 +1,902 @@
+YENTREVE 40MG 56 CAPSULAS GASTRORRESISTENT
+	Información Basica del medicamento Toda la información del medicamento FT190308-A V16
+                               ANEXO I
+     FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	YENTREVE 40 mg cápsulas duras gastrorresistentes
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula contiene 40 mg de duloxetina (como hidrocloruro).
+ Excipientes: sacarosa 11,5 mg.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Cápsulas duras gastrorresistentes.
+ La cápsula tiene un cuerpo de color naranja opaco, impresa con ""40 mg"" y una tapa de color azul
+opaco, impresa con un código de identificación numérico ""9545"".
+ 
+
+"
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ YENTREVE está indicado en mujeres para el tratamiento de la incontinencia urinaria de esfuerzo
+(IUE) de moderada a grave (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ La dosis de YENTREVE recomendada es de 40 mg dos veces al día, independientemente de las
+comidas. Después de 2 a 4 semanas de tratamiento, se debe reevaluar al paciente para evaluar el
+beneficio y la tolerancia del tratamiento. Algunas pacientes pueden beneficiarse de un tratamiento
+inicial con una dosis de 20 mg dos veces al día durante dos semanas antes de incrementarse a la dosis
+recomendada de 40 mg dos veces al día. El escalado de la dosis puede disminuir, aunque no eliminar,
+el riesgo de náuseas y mareos.
+No obstante, existen escasos datos que apoyen la eficacia de YENTREVE 20 mg dos veces al día.
+También están disponibles cápsulas de 20 mg.
+ La eficacia de YENTREVE no ha sido evaluada más allá de los tres meses en estudios controlados con
+placebo. Se debe reevaluar el beneficio del tratamiento durante intervalos regulares.
+ La combinación de YENTREVE con un programa de rehabilitación muscular del suelo pélvico
+(RMSP) puede ser más eficaz que el tratamiento farmacológico solo. Se recomienda considerar el uso
+concomitante de la rehabilitación muscular del suelo pélvico (RMSP).
+ Insuficiencia hepática:
+YENTREVE no se debe utilizar en mujeres con enfermedad hepática que produzca insuficiencia
+hepática (ver apartado 4.3).
+ Insuficiencia renal:
+No es necesario un ajuste posológico en pacientes con insuficiencia renal leve o moderada
+(aclaramiento de creatinina de 30 a 80 ml/min).
+ Pacientes de edad avanzada:
+Se recomienda precaución al tratar a pacientes de edad avanzada.
+ Niñas y adolescentes:
+No se ha estudiado la seguridad y eficacia de duloxetina en pacientes de estas edades. Por ello no se
+recomienda la administración de YENTREVE a niñas y adolescentes.
+ Interrupción del tratamiento:
+Se debe evitar la interrupción brusca del tratamiento. Cuando se interrumpe el tratamiento con
+YENTREVE la dosis debe ser reducida gradualmente durante un periodo de como mínimo de una a
+dos semanas con el fin de reducir el riesgo de síntomas de retirada (ver secciones 4.4 y 4.8). Si tras
+reducir la dosis o la interrupción del tratamiento aparecieran síntomas intolerables, deberá considerarse
+el reanudar la dosis prescrita anteriormente. Posteriormente el médico podrá continuar disminuyendo
+la dosis, pero más gradualmente.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a la duloxetina o a algunos de los excipientes.
+ Enfermedad hepática que produzca insuficiencia hepática (ver apartado 5.2).
+ YENTREVE no se debe utilizar en combinación con IMAOs irreversibles no selectivos (ver apartado
+4.5).
+ YENTREVE no debe utilizarse en combinación con inhibidores de la CYP1A2, como fluvoxamina,
+ciprofloxacino o enoxacino dado que la combinación da lugar a concentraciones plasmáticas de
+duloxetina elevadas (ver apartado 4.5).
+ Insuficiencia renal grave (aclaramiento de creatinina <30ml/min) (ver apartado 4.4).
+ El inicio del tratamiento con YENTREVE está contraindicado en pacientes con hipertensión no
+controlada, ya que esta situación podría exponer a los pacientes a un riesgo potencial de crisis
+hipertensiva (ver secciones 4.4 y 4.8).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Manía y convulsiones
+YENTREVE debe utilizarse con precaución en pacientes con antecedentes de manía o diagnóstico de
+trastorno bipolar y/o convulsiones.
+ Uso con antidepresivos
+No se recomienda el uso de YENTREVE en combinación con antidepresivos (especialmente con ISRS
+e ISRN e IMAOs reversibles selectivos), (ver apartado 4.5 ""Depresión, ideas y comportamiento
+suicida"").
+ Hipérico o Hierba de San Juan
+Las reacciones adversas pueden ser más frecuentes si YENTREVE se utiliza en combinación con
+preparaciones fitoterápicas que contengan hipérico o hierba de San Juan (Hypericum perforatum).
+ Midriasis
+Se han notificado casos de midriasis en asociación con duloxetina, por lo que debe tenerse cuidado
+cuando se prescriba duloxetina a pacientes con presión intraocular elevada, o a pacientes con riesgo de
+glaucoma agudo de ángulo estrecho.
+ Tensión arterial y frecuencia cardíaca
+Duloxetina ha sido asociada con un aumento de la tensión arterial e hipertensión clínicamente
+significativa en algunos pacientes. Esto podría ser debido al efecto noradrenérgico de la duloxetina. Se
+han notificado casos de crisis hipertensivas con duloxetina, especialmente en pacientes con
+hipertensión preexistente. Por lo tanto, en pacientes con hipertensión y/o otros trastornos cardiacos
+conocidos, se recomienda un seguimiento clínico de la presión arterial adecuado, especialmente
+                                                    3
+durante el primer mes del tratamiento. Se debe utilizar Duloxetina con precaución en aquellos
+pacientes cuya patología de base pueda verse comprometida por un aumento de la frecuencia cardíaca
+o de la tensión arterial. También debe tenerse precaución cuando se utilice duloxetina con con otros medicamentos que puedan perjudicar su metabolismo (ver apartado 4.5). Para aquellos pacientes que
+experimenten un aumento sostenido de la tensión arterial durante el tratamiento con duloxetina debe
+considerarse bien la reducción de la dosis o bien la suspensión gradual del tratamiento (ver apartado
+4.8). En aquellos pacientes con hipertensión no controlada, no debe iniciarse el tratamiento con
+duloxetina (ver apartado 4.3).
+ Insuficiencia renal
+En pacientes con insuficiencia renal grave en hemodiálisis (aclaramiento de creatinina de <30 ml/min)
+las concentraciones plasmáticas de duloxetina se encuentran incrementadas. Para pacientes con
+insuficiencia renal grave, ver sección 4.3. Para pacientes con insuficiencia renal leve o moderada ver
+sección 4.2.
+ Hemorragia
+Se han notificado casos de anormalidades hemorrágicas como equimosis, púrpura y hemorragia
+gastrointestinal con los inhibidores selectivos de la recaptación de serotonina (ISRS) y con los
+inhibidores de la recaptación de serotonina/noradrenalina (IRSN). Se recomienda precaución en
+pacientes en tratamiento con anticoagulantes y /o medicamentos que se sabe que afectan la función
+plaquetaria y en pacientes con diatesis hemorrágica conocida.
+ Interrupción del tratamiento
+Los síntomas de retirada cuando se interrumpe el tratamiento son frecuentes, especialmente cuando el
+tratamiento se interrumpe de forma brusca (ver apartado 4.8). En el ensayo clínico, los acontecimientos
+adversos observados al interrumpir el tratamiento bruscamente tuvieron lugar en aproximadamente un
+44% de los pacientes tratados con YENTREVE y un 24% de los pacientes del grupo de placebo.
+ El riesgo de aparición de los síntomas de retirada con los ISRS y los IRSN puede depender de varios
+factores, incluyendo la duración y dosis del tratamiento y del patrón de reducción de la dosis. Las
+reacciones adversas más frecuentes se detallan en la sección 4.8. Generalmente estos síntomas son de
+naturaleza leve a moderada, sin embargo, en algunos pacientes pueden ser graves en cuanto a
+intensidad. Los síntomas de retirada suelen aparecer en los primeros días tras la suspensión del
+tratamiento, aunque en muy raras ocasiones ha habido notificaciones de estos síntomas en pacientes
+que inintencionadamente olvidaron tomar una dosis. Generalmente estos síntomas son autolimitados y
+suelen desaparecer en dos semanas, si bien en algunos pacientes pueden tener una duración más
+prolongada (2-3 meses o más). Se aconseja por lo tanto que la dosis de duloxetina se disminuya
+gradualmente a lo largo de un periodo de como mínimo dos semanas cuando se suspenda el
+tratamiento, de acuerdo con las necesidades del paciente (ver apartado 4.2).
+ Hiponatremia
+Se ha notificado en raras ocasiones hiponatremia, predominantemente en pacientes de edad avanzada,
+al administrar YENTREVE. Se debe tener precaución en pacientes con riesgo elevado de hiponatremia
+como pacientes de edad avanzada, con cirrosis o pacientes deshidratados o en tratamiento con
+diuréticos. La hiponatremia puede deberse a un síndrome de secreción inadecuada de la hormona
+antidiurética (SIADH).
+ Depresión, ideas y comportamiento suicida
+Aunque YENTREVE no está indicado para el tratamiento de la depresión, su principio activo
+(duloxetina) es también el de un medicamento antidepresivo. La depresión se asocia con un aumento
+del riesgo de pensamientos suicidas, autolesiones y suicidio (sucesos relacionados con suicidio). El
+riesgo persiste hasta que se produzca una remisión significativa. Ya que la mejoría puede no
+producirse durante las primeras semanas o más de tratamiento, se debe hacer un seguimiento cercano
+del paciente hasta que se produzca dicha mejoría. La práctica clínica con los tratamientos
+antidepresivos indica que el riesgo de suicidio podría incrementarse en las primeras fases de la
+recuperación. Se conoce que los pacientes con historia de sucesos relacionados con suicidio o aquellos
+que presenten un significativo grado de ideas suicidas antes de iniciar el tratamiento, tienen un mayor
+                                                   4
+riesgo de ideas suicidas o comportamiento suicida y deben recibir una monitorización cuidadosa
+durante el tratamiento. Un meta-análisis de ensayos clínicos controlados con placebo de medicamentos
+antidepresivos en enfermedades psiquiátricas, mostró un aumento del riesgo del comportamiento
+suicida con los antidepresivos comparado con placebo en pacientes menores de 25 años.
+Se han notificado casos de ideas y comportamientos suicida durante el tratamiento con duloxetina o
+poco después de la interrupción del mismo (ver apartado 4.8). Los médicos deben advertir a sus
+pacientes que les comuniquen los pensamientos o sentimientos de angustia o síntomas de depresión en
+cualquier momento. Si durante el tratamiento con YENTREVE la paciente desarrollara agitación o
+síntomas depresivos, se deberá pedir consejo médico especializado, puesto que la depresión es una
+condición médica grave. Si se tomara la decisión de iniciar un tratamiento farmacológico
+antidepresivo, se recomienda una suspensión gradual del tratamiento con YENTREVE (ver apartado
+4.2).
+ Uso en niños y adolescentes menores de 18 años
+No se han realizado ensayos clínicos con duloxetina en población pediátrica. YENTREVE no debe
+emplearse para el tratamiento de niños y adolescentes menores de 18 años. En ensayos clínicos con
+niños y adolescentes tratados con antidepresivos en general, se han observado con mayor frecuencia
+comportamientos suicidas (intentos de suicidio y pensamientos suicidas) y hostilidad
+(predominantemente agresión, comportamientos oposicionistas e ira) en comparación con aquellos
+tratados con placebo. No se dispone de datos de seguridad a largo plazo en niños y adolescentes en
+relación con el crecimiento, la maduración y el desarrollo cognitivo y del comportamiento.
+ Medicamentos que contienen duloxetina
+Duloxetina se utiliza bajo diferentes nombres comerciales en varias indicaciones (tratamiento del dolor
+neuropático diabético, episodios depresivos mayores así como incontinencia urinaria de esfuerzo). Se
+debe evitar el uso de más de uno de estos productos de forma conjunta.
+ Hepatitis/ Elevación de las enzimas hepáticas
+Se han notificado casos de daño hepático con Duloxetina, incluyendo elevación grave de las enzimas
+hepáticas (>10 veces por encima del límite normal), hepatitis e ictericia (ver apartado 4.8). La mayoría
+de ellos ocurrieron durante los primeros meses de tratamiento. El patrón de daño hepático fue
+predominantemente hepatocelular.
+Duloxetina debe emplearse con precaución en pacientes tratados con otros ,medicamentos que se
+asocien con daño hepático.
+ Acatisia/Inquietud psicomotora:
+El uso de duloxetina se ha asociado con el desarrollo de acatisia, caracterizada por una inquietud
+subjetivamente desagradable o preocupante, y por la necesidad de movimiento, a menudo acompañada
+por la incapacidad de permanecer sentado o estar quieto. Esto es más probable que se produzca en las
+primeras semanas de tratamiento. En aquellos pacientes que desarrollan esta sintomatología, el
+aumento de la dosis puede ser perjudicial.
+ Sacarosa
+Las cápsulas duras gastrorresistentes de YENTREVE contienen sacarosa. Las pacientes con
+intolerancia hereditaria a la fructosa, malabsorción de glucosa o galactosa, o insuficiencia de sacarasa-
+isomaltasa, no deben tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Inhibidores de la monoaminooxidasa (IMAOs): debido al riesgo del síndrome serotoninérgico, no se
+debe utilizar YENTREVE en combinación con inhibidores no selectivos irreversibles de la
+monoaminooxidasa (IMAOs), o al menos dentro de los 14 días posteriores a la interrupción del
+tratamiento con un IMAO. Debido a la vida media de duloxetina, deben transcurrir al menos 5 días
+desde la interrupción del tratamiento con YENTREVE y el inicio del tratamiento con un IMAO (ver apartado 4.3).
+ Síndrome serotoninérgico: raramente, se ha notificado síndrome serotoninérgico en pacientes en
+tratamiento concomitante de ISRS con medicamentos serotoninérgicos. No se recomienda el uso de
+YENTREVE conjuntamente con antidepresivos serotoninérgicos como ISRS, tricíclicos como
+clomipramina o amitriptilina, venlafaxina o triptanos, tramadol y triptófano.
+ Medicamentos que actúan en el SNC: se aconseja precaución cuando YENTREVE se tome en
+combinación con con otros medicamentos o sustancias de acción central, incluyendo alcohol y
+medicamentos sedantes (benzodiazepinas, morfinomiméticos, antipsicóticos, fenobarbital y
+antihistamínicos sedantes).
+ Efectos de la duloxetina en con otros medicamentos
+Medicamentos metabolizados por CYP1A2: la farmacocinética de la teofilina, sustrato de CYP1A2, no
+se vio significativamente afectada por la administración conjunta de duloxetina (60 mg dos veces al
+día).
+Medicamentos metabolizados por CYP2D6: Duloxetina es un inhibidor moderado de CYP2D6.
+Cuando se administra duloxetina a una dosis de 60 mg dos veces al día con una dosis única de
+desipramina, un substrato del CYP2D6, el área bajo la curva (AUC) de desipramina aumenta tres
+veces. La administración conjunta de duloxetina (40 mg dos veces al día) aumenta el área bajo la curva
+(AUC) en el estado de equilibrio de tolterodina (2 mg dos veces al día) en un 71 % pero no afecta la
+farmacocinética de su metabolito activo 5-hidroxilo y no se recomienda un ajuste de dosis. Se
+recomienda precaución si se administra duloxetina con medicamentos metabolizados
+predominantemente por el CYP2D6 (risperidona, antidepresivos tricíclicos como nortriptilina,
+amitriptilina e imipramina) particularmente si tienen un estrecho índice terapéutico (como flecainida,
+propafenona y metoprolol).
+ Anticonceptivos orales y otros esteroides: los resultados de los estudios in vitro demuestran que la
+duloxetina no induce la actividad catalítica de CYP3A. No se han realizado estudios específicos de
+interacciones in vivo.
+ Anticoagulantes y agentes antiplaquetarios: Se debe tener precaución cuando se combine duloxetina
+con anticoagulantes orales o agentes antiplaquetarios debido a un riesgo potencial incrementado de
+sangrado.
+Se han notificado además, incrementos en los valores de INR cuando se administra duloxetina junto
+con warfarina.
+ Efectos de con otros medicamentos sobre la duloxetina
+Antiácidos y antagonistas H2: la administración conjunta de YENTREVE con antiácidos que
+contengan aluminio y magnesio, o con famotidina no tiene efecto significativo sobre la velocidad y el
+grado de absorción de la duloxetina, tras la administración de una dosis oral de 40 mg.
+ Inhibidores de CYP1A2: puesto que CYP1A2 está implicado en el metabolismo de la duloxetina, el
+uso concomitante de YENTREVE con inhibidores potentes de CYP1A2 es probable que produzca
+concentraciones mayores de duloxetina. La fluvoxamina (100 mg una vez al día), un potente inhibidor
+de CYP1A2 disminuyó el aclaramiento plasmático aparente de duloxetina alrededor del 77 % y
+aumentó en 6 veces el AUC0-t. Por ello, no se debe administrar YENTREVE en combinación con
+inhibidores potentes de CYP1A2 como la fluvoxamina (ver apartado 4.3).
+ Inductores de CYP1A2: Los análisis de estudios farmacocinéticos en la población han mostrado que
+los fumadores tienen concentraciones plasmáticas de duloxetina casi un 50% más bajas que los no
+fumadores.
+ 4.6   Embarazo y lactancia
+ Embarazo
+No existen datos del uso de duloxetina en mujeres embarazadas. Los estudios en animales han
+mostrado toxicidad reproductiva a niveles de exposición sistémica (AUC) de duloxetina menores que
+los niveles máximos de exposición clínica (ver apartado 5.3). Se desconoce el riesgo potencial en los
+                                                    6
+humanos. Al igual que con con otros medicamentos serotoninérgicos pueden aparecer síntomas de retirada
+en el neonato si la madre ha tomado duloxetina poco antes del parto. YENTREVE se debe utilizar
+durante el embarazo solamente si el beneficio potencial supera el riesgo potencial para el feto. Las
+mujeres deben comunicar a su médico si se quedan embarazadas, o tienen intención de quedarse
+embarazadas, durante el tratamiento.
+ Lactancia
+La duloxetina se excreta muy débilmente en la leche materna humana según un estudio realizado en 6
+madres en periodo de lactancia, que no dieron el pecho a sus hijos. La dosis diaria estimada para el
+lactante en mg/kg es aproximadamente de un 0,14% de la dosis consumida por la madre (ver apartado
+5.2). Puesto que se desconoce la seguridad de duloxetina en niños, YENTREVE está contraindicado
+durante el periodo de lactancia (ver apartado 4.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+YENTREVE puede estar asociado con la aparición de sedación y mareos. Por consiguiente, se debe
+indicar a los pacientes que si experimentan sedación o mareos, deben evitar la realización de tareas
+potencialmente peligrosas, como conducir o utilizar máquinas.
+ 4.8   Reacciones adversas
+ La tabla 1 muestra las reacciones adversas comunicadas por notificaciones espontáneas y durante los
+ensayos clínicos controlados con placebo en pacientes con IUE y otras alteraciones del tracto urinario
+inferior, incluyendo un total de 7.976 pacientes, 4.370 tratados con duloxetina y 3.606 con placebo.
+ Los acontecimientos adversos notificados con más frecuencia en pacientes tratadas con YENTREVE
+durante los ensayos clínicos en pacientes con IUE y otras alteraciones del tracto urinario inferior
+fueron: náusea, sequedad de boca, cansancio y estreñimiento. El análisis de los datos de cuatro
+ensayos clínicos controlados con placebo de 12 semanas de duración en pacientes con IUE,
+incluyendo 958 pacientes tratadas con duloxetina y 955 pacientes tratadas con placebo muestra que la
+aparición de los acontecimientos adversos notificados se produjo generalmente en la primera semana
+de tratamiento. No obstante, la mayoría de los acontecimientos adversos más frecuentes fueron de
+leves a moderados y se resolvieron dentro de los 30 primeros días desde su aparición (p.ej. náusea.).
+ Tabla 1: Reacciones adversas:
+ Estimación de la frecuencia: Muy frecuentes (1/10), frecuentes (1/100, <1/10), poco frecuentes
+(1/1.000,<1/100), raras ( 1/10.000,<1/1.000), muy raras (<1/10.000), frecuencia no conocida (no
+puede estimarse a partir de los datos disponibles).
+ Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+  Muy             Frecuentes           Poco frecuentes        Raras               Muy      Frecuencia
+frecuentes                                                                      raras    desconocida
+Exploraciones complementarias
+Trastornos cardíacos
+Palpitaciones        Taquicardia                                         Arritmia
+                                                     7
+Trastornos del sistema nervioso
+Cefalea             Sueño de baja           Discinesia         Síndrome
+Mareos              calidad                 Mioclonía          serotoninérgico
+Temblores           Alteraciones de la                         Inquietud
+Letargia            atención                                   psicomotora
+Somnolencia         Nerviosismo                                Convulsiones
+Parestesia          Disgeusia                                  Acatisia
+ Trastornos oculares
+Visión borrosa        Molestias visuales      Glaucoma
+Trastornos del oído y del laberinto
+Vertigo
+Trastornos respiratorios, torácicos y mediastínicos
+Trastornos gastrointestinales
+Náuseas          Diarrea              Gastroenteritis         Hematoquecia       Hemorragia
+(23,3%)          Vómitos              Estomatitis                                gastrointestinal
+Sequedad de      Dispepsia            Gastritis
+boca (11,9%)                          Flatulencia
+Estreñimiento                         Eructos
+(10,3%)                               Halitosis
+ Trastornos renales y urinarios
+Trastornos de la piel y del tejido subcutáneo
+Aumento de la        Erupción                Reacciones de      Síndrome de
+sudoración           Aumento de la           fotosensibilidad   Stevens-
+ Trastornos musculoesqueléticos y del tejido conjuntivo
+Trastornos endocrinos
+Trastornos del metabolismo y de la nutrición
+Disminución del Deshidratación                Hiperglucemia
+                                                   8
+Infecciones e infestaciones
+Trastornos vasculares
+ Trastornos generales y alteraciones en el lugar de administración
+Cansancio         Dolor             Malestar                Trastorno de la            Dolor torácico
+(10,9%)           abdominal         Sensación de calor      marcha
+Trastornos del sistema inmunológico
+Trastornos hepatobiliares
+Trastornos del aparato reproductor y de la mama
+Trastornos psiquiátricos
+1
+Los casos de acúfenos se notificaron también después de la interrupción del tratamiento
+2
+Los casos de hipotensión ortostática y síncope se notificaron particularmente al comienzo del
+tratamiento.
+3
+Ver sección 4.4.
+4
+Los casos de ideación suicida y comportamiento suicida se notificaron durante el tratamiento con
+duloxetina o poco después de la interrupción del mismo (ver apartado 4.4).
+5
+Los casos de agresividad e ira se han notificado principalmente al principio del tratamiento o después
+de la interrupción del mismo.
+                                                      9
+La interrupción del tratamiento con duloxetina (particularmente cuando se lleva a cabo de forma
+brusca) con frecuencia conduce a la aparición de síntomas de retirada.
+Las reacciones más comúnmente notificadas son mareos, alteraciones sensoriales (incluyendo
+parestesia), trastornos del sueño (incluyendo insomnio y sueños intensos), agitación o ansiedad,
+náuseas y/o vómitos, temblores, cefalea irritabilidad, diarrea, hiperhidrosis y vértigo.
+Generalmente, para los ISRS y IRSN estos acontecimientos son de leve a moderados y autolimitados,
+sin embargo, en algunos pacientes pueden ser graves y/o prolongados.
+Se recomienda por lo tanto que cuando ya no sea necesario continuar el tratamiento con duloxetina, se
+realice una reducción gradual de la dosis (ver secciones 4.2 y 4.4).
+ Se obtuvo el electrocardiograma de 755 pacientes con IUE tratadas con duloxetina y de 779 pacientes
+tratadas con placebo en ensayos clínicos de 12 semanas de duración. El intervalo QT corregido en
+función de la frecuencia cardiaca que presentaron las pacientes tratadas con duloxetina no difirió del
+observado en las pacientes tratadas con placebo.
+ En la fase aguda de 12 semanas de tres ensayos clínicos de duloxetina en pacientes con dolor
+neuropático diabético, se observaron incrementos pequeños, pero estadísticamente significativos, de
+los niveles de glucemia en ayunas en los pacientes tratados con duloxetina, los valores de HbA1c
+permanecieron estables tanto en el grupo tratado con duloxetina como el grupo tratado con placebo.
+En la fase de extensión de estos ensayos, de una duración de 52 semanas, se observó un aumento de
+HbA1c tanto en el grupo tratado con duloxetina como en el de terapia habitual, pero el incremento
+medio fue de un 0,3% mayor en el grupo tratado con duloxetina. Se observó también un pequeño
+incremento de la glucemia en ayunas y del colesterol total en el grupo de pacientes tratados con
+duloxetina mientras que éstos parámetros analíticos mostraron una ligera disminución en el grupo de
+terapia habitual.
+ 4.9   Sobredosis
+ Se han notificado casos de sobredosis de duloxetina con dosis de 4800 mg, sola o en combinación con
+con otros medicamentos. Se han notificado algunos casos de sobredosis mortales con duloxetina,
+principalmente en combinación con con otros medicamentos, pero también con duloxetina sola a una dosis
+de aproximadamente 1000 mg. Los signos y síntomas de sobredosificación (duloxetina sola o en
+combinación con con otros medicamentos) incluyeron somnolencia, coma, síndrome serotoninérgico,
+convulsiones, vómitos y taquicardia.
+ No se conoce un antídoto específico para duloxetina, pero si aparece el síndrome serotoninérgico, debe
+considerarse un tratamiento específico (como con ciproheptadina y/o control de la temperatura). Se
+debe establecer una vía respiratoria. Se recomienda el control de los signos cardíacos y vitales, junto
+con apropiadas medidas de apoyo y sintomáticas. El lavado gástrico puede estar indicado si se realiza
+poco después de la ingestión o en pacientes sintomáticos. El carbón activado puede ser útil para limitar
+la absorción. La duloxetina tiene un gran volumen de distribución, por lo que es poco probable que la
+diuresis forzada, la hemoperfusión y la exanguinoperfusión sean beneficiosas.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Otros antidepresivos. Código ATC: N06AX21
+ La duloxetina es un inhibidor de la recaptación de serotonina (5-HT) y de noradrenalina (NA). Inhibe
+débilmente la recaptación de dopamina sin una afinidad significativa por los receptores
+histaminérgicos, dopaminérgicos, colinérgicos y adrenérgicos.
+ En los estudios realizados en animales, el aumento de los niveles de 5-HT y NA en la médula espinal
+sacra produjo un incremento del tono uretral por aumento de la estimulación, por parte del nervio
+                                                   10
+pudendo, del músculo estriado del esfínter uretral, solamente durante la fase de almacenamiento
+vesical del ciclo miccional. Se cree que en las mujeres un mecanismo similar da lugar a un cierre
+uretral más fuerte durante el almacenamiento vesical con esfuerzo físico, lo cual explicaría la eficacia
+de la duloxetina en el tratamiento de las mujeres con IUE.
+ La eficacia de 40 mg de duloxetina administrados dos veces al día en el tratamiento de la IUE se
+estableció en cuatro ensayos clínicos, doble ciego, controlados con placebo y que aleatorizaron a 1913
+mujeres (de 22 a 83 años de edad) con IUE; de éstas, 958 fueron asignadas de manera aleatoria al
+tratamiento con duloxetina y 955 al tratamiento con placebo. Las principales medidas de eficacia
+fueron la frecuencia de episodios de incontinencia (FEI), obtenida de los diarios miccionales y la
+puntuación de un cuestionario de calidad de vida específico para incontinencia (I-QOL, Incontinence
+Quality of Life Questionnaire).
+ Frecuencia de episodios de incontinencia: en los cuatro estudios, el grupo tratado con duloxetina
+presentó un descenso mediano del 50% o superior de la FEI en comparación con el 33 % del grupo
+tratado con placebo. Se observaron diferencias en todas las visitas, después de las 4 semanas
+(duloxetina 54 % y placebo 22%), 8 semanas (52% y 29%) y 12 semanas (52% y 33%) de la toma del
+medicamento.
+ En un estudio adicional limitado a pacientes con IUE grave, todas las respuestas con duloxetina se
+alcanzaron en un plazo de dos semanas.
+ La eficacia de YENTREVE no ha sido evaluada más allá de los 3 meses en estudios controlados con
+placebo. No se ha demostrado beneficio clínico de YENTREVE en comparación con placebo en
+mujeres con IUE leve, definida en ensayos aleatorizados como FEI < 14 episodios por semana. En
+estas mujeres, YENTREVE puede no proporcionar un beneficio superior al proporcionado por
+intervenciones conductuales más conservadoras.
+ Calidad de vida: Los resultados del cuestionario de calidad de vida de incontinencia (I-QOL)
+mejoraron significativamente en el grupo de pacientes tratados con duloxetina si se compara con los
+pacientes tratados con placebo (mejoría de la puntuación 9,2 versus 5,9, p< ,001). Utilizando una
+escala de mejoría global (PGI, Patient Global Improvement), el número de mujeres que tomaban
+duloxetina, que consideraron que sus síntomas de incontinencia de esfuerzo mejoraban, fue
+significativamente mayor que él de las que tomaban placebo (64,6 % versus 50,1 %, p. < ,001)
+ YENTREVE y cirugía de continencia previa: Hay un reducido número de resultados que sugiere que
+los beneficios de YENTREVE no están disminuidos en mujeres con incontinencia urinaria de esfuerzo
+que han sido sometidas previamente a cirugía de continencia.
+ YENTREVE y rehabilitación muscular del suelo pélvico (RMSP): durante un estudio ciego,
+aleatorizado y controlado de 12 semanas de duración YENTREVE demostró mayores reducciones de
+la FEI en comparación con placebo o con la rehabilitación muscular del suelo pélvico sólo. La terapia
+combinada (duloxetina + rehabilitación muscular del suelo pélvico) mostró mayor mejoría en el uso de
+compresas y en las medidas específicas de calidad de vida que YENTREVE solo o la rehabilitación
+muscular del suelo pélvico sola.
+ 5.2   Propiedades farmacocinéticas
+ La duloxetina se administra como un único enantiómero único. Se metaboliza intensamente por
+enzimas oxidativas (CYP1A2 y el polimórfico CYP2D6), y posteriormente experimenta conjugación.
+La farmacocinética muestra una gran variabilidad interindividual (generalmente 50-60%), en parte
+debida al sexo, edad, consumo de tabaco y estado metabolizador del CYP2D6.
+ Duloxetina se absorbe bien tras la administración oral, alcanzando el valor de Cmax a las 6 horas de la
+administración de la dosis. La biodisponibilidad oral absoluta de duloxetina va de 32% a 80% (media
+de 50 %; N=8 pacientes). Los alimentos retrasan el tiempo hasta alcanzar la concentración máxima, de
+6 a 10 horas y disminuyen ligeramente el grado de absorción (aproximadamente un 11%).
+La duloxetina se une aproximadamente en un 96% a las proteínas plasmáticas, tanto a la albúmina
+como a la alfa-1 glicoproteína ácida. La unión a proteínas no se ve afectada por la insuficiencia
+hepática o renal.
+ La duloxetina se metaboliza intensamente y los metabolitos se excretan principalmente en la orina.
+Tanto la CYP2D6 como la CYP1A2 catalizan la formación de los dos principales metabolitos, el
+conjugado glucurónido de la 4-hidroxiduloxetina y el conjugado sulfato de 5-hidroxi, 6-
+metoxiduloxetina. Basándose en estudios in vitro, se considera que los metabolitos circulantes de
+duloxetina son farmacológicamente inactivos. No se ha investigado específicamente la farmacocinética
+de duloxetina en pacientes con un metabolismo lento en relación con el CYP2D6. Hay un reducido
+número de datos que sugieren que los niveles plasmáticos de duloxetina son más altos en estos
+pacientes.
+ La vida media de eliminación de la duloxetina después de una dosis oral oscila entre 8 a 17 horas
+(media de 12 horas). Después de una dosis intravenosa el aclaramiento plasmático de duloxetina varía
+de 22 l/hora a 46 l/hora (media de 36 l/hora). Después de una dosis oral el aclaramiento plasmático
+aparente de duloxetina oscila entre 33 y 261 l/hora (media de 101 l/hora).
+ Poblaciones especiales
+Edad: se han identificado diferencias en la farmacocinética entre mujeres jóvenes y de edad avanzada
+(65 años de edad) (el AUC es aproximadamente un 25% mayor y la vida media es aproximadamente
+más prolongada en los pacientes de edad avanzada), aunque la magnitud de estos cambios no es
+suficiente como para justificar ajustes en la dosis.
+ Insuficiencia renal: las pacientes con enfermedad renal en fase terminal (ERFT) sometidas a diálisis
+tuvieron valores de Cmax y AUC de duloxetina dos veces más altos que los presentados las sanas. Los
+datos farmacocinéticos de duloxetina son escasos en pacientes con insuficiencia renal de leve a
+moderada.
+ Insuficiencia hepática: la insuficiencia hepática moderada (Child Pugh clase B) afectó a la
+farmacocinética de duloxetina. En comparación con sujetos sanos, el aclaramiento plasmático aparente
+de duloxetina fue un 79 % más bajo, la vida media terminal aparente fue 2.3 veces mayor y el AUC
+fue 3.7 veces más alta en pacientes con insuficiencia hepática moderada. La farmacocinética de
+duloxetina y sus metabolitos no ha sido estudiada en pacientes con insuficiencia hepática leve o grave.
+ Lactancia: Se estudio la disposición de duloxetina en 6º madres lactantes que se encontraban como
+mínimo a 12 semanas post partum. Se detectó duloxetina en la leche materna y las concentraciones en
+el estado de equilibrio en leche materna fueron aproximadamente un cuarto de las plasmáticas. La
+cantidad de duloxetina en leche materna es de aproximadamente 7 microgramos/dia para dosis de
+40 mg dos veces al día. La lactancia no afecta a la farmacocinética de duloxetina.
+ 5.3   Datos preclínicos sobre seguridad
+ La duloxetina no mostró genotoxicidad en una batería estándar de pruebas y tampoco tuvo efectos
+carcinogénicos en ratas . En el estudio carcinogénico en ratas se observaron células multinucleadas en
+el hígado sin otros cambios histopatológicos. Se desconocen el mecanismo subyacente y la relevancia
+clínica.
+ Los ratones hembra que recibieron duloxetina durante 2 años presentaron una mayor incidencia de
+adenomas y carcinomas hepatocelulares únicamente a la dosis más alta (144 mg/kg/día), pero se
+consideraron secundarios a la inducción de enzimas microsomales hepáticas. Se desconoce la
+relevancia que estos resultados obtenidos en ratones puedan tener en los humanos. Ratas hembra que
+estaban recibiendo duloxetina antes y durante el apareamiento y en la primera etapa de la gestación
+presentaron un descenso en el consumo de comida y en el peso corporal de las madres, interrupción
+del ciclo estral, disminución en el índice de nacidos vivos, disminución de la supervivencia de la
+progenie y retraso del crecimiento de la progenie a niveles de exposición sistémica que se estimó que
+                                                   12
+eran, como mucho, la exposición clínica máxima (AUC) .En un estudio de embriotoxicidad en el
+conejo, se observó una mayor incidencia de malformaciones cadiovasculares y esqueléticas a niveles
+sistémicos de exposición por debajo de la exposición clínica máxima (AUC). En otro estudio en el que
+se analizó una sal de duloxetina diferente a dosis más altas no se observaron malformaciones. En el
+estudio de toxicidad pre y postnatal en rata, la duloxetina tuvo efectos adversos sobre el
+comportamiento en las crías a niveles de exposición sistémica por debajo de la exposición clínica
+máxima (AUC).
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Contenido de la cápsula:
+Hipromelosa
+Succinato acetato de hidroxipropil metilcelulosa
+Sacarosa
+Esferas de azúcar
+Talco
+Dióxido de titanio (E171)
+Citrato de trietilo
+ Cubierta de la cápsula
+Gelatina
+Laurilsulfato de sodio
+Dióxido de titanio (E171)
+Indigo carmín (E132)
+Oxido de hierro rojo (E172)
+Oxido de hierro amarillo (E172)
+Tinta negra comestible.
+ Tinta comestible:
+Oxido de hierro negro sintético (E172)
+Propilenglicol
+Shellac.
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ Conservar en el envase original para protegerlo de la humedad. No conservar a temperatura superior a
+30 º C.
+ 6.5   Naturaleza y contenido del envase
+ Blisters de policloruro de vinilo (PVC), polietileno (PE) y policloruro de trifluoroetileno (PCTFE)
+sellados con una lámina de aluminio.
+ Envases de 28, 56, 98 140 y 196 (envase múltiple de 2 envases de 98) cápsulas.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+                                                    13
+6.6   Precauciones especiales de eliminación y otras manipulaciones
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Eli Lilly Nederland BV, Groostlag 1-5, NL-3991 RA Houten, Holanda.
+ 8.    NÚMERO(S) DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/04/280/002
+EU/1/04/280/003
+EU/1/04/280/004
+EU/1/04/280/005
+EU/1/04/280/006
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN / RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 11 de agosto de 2004
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	YENTREVE 20 mg cápsulas duras gastrorresistentes.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula contiene 20 mg de duloxetina (como hidrocloruro).
+ Excipientes: sacarosa 5,7 mg.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Cápsulas duras gastrorresistentes.
+ La cápsula tiene un cuerpo de color azul opaco, impresa con ""20 mg"" y una tapa de color azul opaco,
+impresa con un código de identificación numérico ""9544""
+ "
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ YENTREVE está indicado en mujeres para el tratamiento de la incontinencia urinaria de esfuerzo
+(IUE) de moderada a grave (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ La dosis de YENTREVE recomendada es de 40 mg dos veces al día, independientemente de las
+comidas. Después de 2 a 4 semanas de tratamiento, se debe reevaluar al paciente para evaluar el
+beneficio y la tolerancia del tratamiento. Algunas pacientes pueden beneficiarse de un tratamiento
+inicial con una dosis de 20 mg dos veces al día durante dos semanas antes de incrementarse a la dosis
+recomendada de 40 mg dos veces al día. El escalado de la dosis puede disminuir, aunque no eliminar,
+el riesgo de náuseas y mareos.
+No obstante, existen escasos datos que apoyen la eficacia de YENTREVE 20 mg dos veces al día.
+ La eficacia de YENTREVE no ha sido evaluada más allá de los tres meses en estudios controlados con
+placebo. Se debe reevaluar el beneficio del tratamiento durante intervalos regulares.
+ La combinación de YENTREVE con un programa de rehabilitación muscular del suelo pélvico
+(RMSP) puede ser más eficaz que el tratamiento farmacológico solo. Se recomienda considerar el uso
+concomitante de la rehabilitación muscular del suelo pélvico (RMSP).
+ Insuficiencia hepática:
+YENTREVE no se debe utilizar en mujeres con enfermedad hepática que produzca insuficiencia
+hepática (ver apartado 4.3).
+ Insuficiencia renal:
+No es necesario un ajuste posológico en pacientes con insuficiencia renal leve o moderada
+(aclaramiento de creatinina de 30 a 80 ml/min).
+ Pacientes de edad avanzada:
+Se recomienda precaución al tratar a pacientes de edad avanzada.
+ Niñas y adolescentes:
+                                                    15
+No se ha estudiado la seguridad y eficacia de duloxetina en pacientes de estas edades.
+Por ello no se recomienda la administración de YENTREVE a niñas y adolescentes.
+ Interrupción del tratamiento:
+Se debe evitar la interrupción brusca del tratamiento. Cuando se interrumpe el tratamiento con
+YENTREVE la dosis debe ser reducida gradualmente durante un periodo de como mínimo de una a
+dos semanas con el fin de reducir el riesgo de síntomas de retirada (ver secciones 4.4 y 4.8). Si tras
+reducir la dosis o la interrupción del tratamiento aparecieran síntomas intolerables, deberá considerarse
+el reanudar la dosis prescrita anteriormente. Posteriormente el médico podrá continuar disminuyendo
+la dosis, pero más gradualmente.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a la duloxetina o a algunos de los excipientes.
+ Enfermedad hepática que produzca insuficiencia hepática (ver apartado 5.2).
+ YENTREVE no se debe utilizar en combinación con IMAOs irreversibles no selectivos (ver apartado
+4.5).
+ Insuficiencia renal grave (aclaramiento de creatinina <30ml/min) (ver apartado 4.4).
+ El inicio del tratamiento con YENTREVE está contraindicado en pacientes con hipertensión no
+controlada ya que esta situación podría exponer a los pacientes a un riesgo potencial de crisis
+hipertensiva (ver secciones 4.4 y 4.8).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Manía y convulsiones
+YENTREVE debe utilizarse con precaución en pacientes con antecedentes de manía o diagnóstico de
+trastorno bipolar y/o convulsiones.
+ Uso con antidepresivos
+No se recomienda el uso de YENTREVE en combinación con antidepresivos (especialmente con ISRS
+e ISRN e IMAOs reversibles selectivos), (ver apartado 4.5 "" Depresión, ideas y comportamiento
+suicida"").
+  Hipérico o Hierba de San Juan
+Las reacciones adversas pueden ser más frecuentes si YENTREVE se utiliza en combinación con
+preparaciones fitoterápicas que contengan hipérico o hierba de San Juan (Hypericum perforatum).
+ Midriasis
+Se han notificado casos de midriasis en asociación con duloxetina, por lo que debe tenerse cuidado
+cuando se prescriba duloxetina a pacientes con presión intraocular elevada, o a pacientes con riesgo de
+glaucoma agudo de ángulo estrecho.
+ Tensión arterial y frecuencia cardíaca
+Duloxetina ha sido asociada con un aumento de la tensión arterial e hipertensión clínicamente
+significativa en algunos pacientes. Esto podría ser debido al efecto noradrenérgico de la duloxetina. Se
+han notificado casos de crisis hipertensivas con duloxetina, especialmente en pacientes con
+hipertensión preexistente. Por lo tanto, en pacientes con hipertensión y/o otros trastornos cardiacos
+conocidos, se recomienda un seguimiento clínico de la presión arterial adecuado, especialmente
+durante el primer mes del tratamiento. Se debe utilizar Duloxetina con precaución en aquellos
+pacientes cuya patología de base pueda verse comprometida por un aumento de la frecuencia cardíaca
+o de la tensión arterial. También debe tenerse precaución cuando se utilice duloxetina con con otros medicamentos que puedan perjudicar su metabolismo (ver apartado 4.5). Para aquellos pacientes que
+experimenten un aumento sostenido de la tensión arterial durante el tratamiento con duloxetina debe
+                                                   16
+considerarse bien la reducción de la dosis o bien la suspensión gradual del tratamiento (ver apartado
+4.8). En aquellos pacientes con hipertensión no controlada, no debe iniciarse el tratamiento con
+duloxetina (ver apartado 4.3).
+ Insuficiencia renal
+En pacientes con insuficiencia renal grave en hemodiálisis (aclaramiento de creatinina de <30 ml/min)
+las concentraciones plasmáticas de duloxetina se encuentran incrementadas. Para pacientes con
+insuficiencia renal grave, ver sección 4.3. Para pacientes con insuficiencia renal leve o moderada ver
+sección 4.2.
+ Hemorragia
+Se han notificado casos de anormalidades hemorrágicas como equimosis, púrpura y hemorragia
+gastrointestinal con los inhibidores selectivos de la recaptación de serotonina (ISRS) y con los
+inhibidores de la recaptación de serotonina/noradrenalina (IRSN). Se recomienda precaución en
+pacientes en tratamiento con anticoagulantes y /o medicamentos que se sabe que afectan la función
+plaquetaria y en pacientes con diatesis hemorrágica conocida.
+ Interrupción del tratamiento
+Los síntomas de retirada cuando se interrumpe el tratamiento son frecuentes, especialmente cuando el
+tratamiento se interrumpe de forma brusca (ver apartado 4.8). En el ensayo clínico, los acontecimientos
+adversos observados al interrumpir el tratamiento bruscamente tuvieron lugar en aproximadamente un
+44% de los pacientes tratados con YENTREVE y un 24% de los pacientes del grupo de placebo.
+ El riesgo de aparición de los síntomas de retirada con los ISRS y los IRSN puede depender de varios
+factores, incluyendo la duración y dosis del tratamiento y del patrón de reducción de la dosis. Las
+reacciones adversas más frecuentes se detallan en la sección 4.8. Generalmente estos síntomas son de
+naturaleza leve a moderada, sin embargo, en algunos pacientes pueden ser graves en cuanto a
+intensidad. Los síntomas de retirada suelen aparecer en los primeros días tras la suspensión del
+tratamiento, aunque en muy raras ocasiones han habido notificaciones de estos síntomas en pacientes
+que inintencionadamente olvidaron tomar una dosis. Generalmente estos síntomas son autolimitados y
+suelen desaparecer en dos semanas, si bien en algunos pacientes pueden tener una duración más
+prolongada (2-3 meses o más). Se aconseja por lo tanto que la dosis de duloxetina se disminuya
+gradualmente a lo largo de un periodo de como mínimo dos semanas cuando se suspenda el
+tratamiento, de acuerdo con las necesidades del paciente (ver apartado 4.2).
+ Hiponatremia
+Se ha notificado en raras ocasiones hiponatremia, predominantemente en pacientes de edad avanzada,
+al administrar YENTREVE. Se debe tener precaución en pacientes con riesgo elevado de hiponatremia
+como pacientes de edad avanzada, con cirrosis o pacientes deshidratados o en tratamiento con
+diuréticos. La hiponatremia puede deberse a un síndrome de secreción inadecuada de la hormona
+antidiurética (SIADH).
+ Depresión, ideas y comportamiento suicida
+Aunque YENTREVE no está indicado para el tratamiento de la depresión, su principio activo
+(duloxetina) es también el de un medicamento antidepresivo. La depresión se asocia con un aumento
+del riesgo de pensamientos suicidas, autolesiones y suicidio (sucesos relacionados con suicidio). El
+riesgo persiste hasta que se produzca una remisión significativa. Ya que la mejoría puede no
+producirse durante las primeras semanas o más de tratamiento, se debe hacer un seguimiento cercano
+del paciente hasta que se produzca dicha mejoría. La práctica clínica con los tratamientos
+antidepresivos indica que el riesgo de suicidio podría incrementarse en las primeras fases de la
+recuperación. Se conoce que los pacientes con historia de sucesos relacionados con suicidio o aquellos
+que presenten un significativo grado de ideas suicidas antes de iniciar el tratamiento, tienen un mayor
+riesgo de ideas suicidas o comportamiento suicida y deben recibir una monitorización cuidadosa
+durante el tratamiento. Un meta-análisis de ensayos clínicos controlados con placebo de medicamentos
+antidepresivos en enfermedades psiquiátricas, mostró un aumento del riesgo del comportamiento
+suicida con los antidepresivos comparado con placebo en pacientes menores de 25 años.
+ Se han notificado casos de ideas y comportamientos suicida durante el tratamiento con duloxetina o
+poco después de la interrupción del mismo (ver apartado 4.8). Los médicos deben advertir a sus
+pacientes que les comuniquen los pensamientos o sentimientos de angustia o síntomas de depresión en
+cualquier momento. Si durante el tratamiento con YENTREVE la paciente desarrollara agitación o
+síntomas depresivos, se deberá pedir consejo médico especializado, puesto que la depresión es una
+condición médica grave. Si se tomara la decisión de iniciar un tratamiento farmacológico
+antidepresivo, se recomienda una suspensión gradual del tratamiento con YENTREVE (ver apartado
+4.2).
+ Uso en niños y adolescentes menores de 18 años
+No se han realizado ensayos clínicos con duloxetina en población pediátrica. YENTREVE no debe
+emplearse para el tratamiento de niños y adolescentes menores de 18 años. En ensayos clínicos con
+niños y adolescentes tratados con antidepresivos en general, se han observado con mayor frecuencia
+comportamientos suicidas (intentos de suicidio y pensamientos suicidas) y hostilidad
+(predominantemente agresión, comportamientos oposicionistas e ira) en comparación con aquellos
+tratados con placebo. No se dispone de datos de seguridad a largo plazo en niños y adolescentes en
+relación con el crecimiento, la maduración y el desarrollo cognitivo y del comportamiento.
+ Medicamentos que contienen duloxetina
+Duloxetina se utiliza bajo diferentes nombres comerciales en varias indicaciones (tratamiento del dolor
+neuropático diabético, episodios depresivos mayores así como incontinencia urinaria de esfuerzo). Se
+debe evitar el uso de más de uno de estos productos de forma conjunta.
+ Hepatitis/ Elevación de las enzimas hepáticas
+Se han notificado casos de daño hepático con Duloxetina, incluyendo elevación grave de las enzimas
+hepáticas (>10 veces por encima del límite normal), hepatitis e ictericia (ver apartado 4.8). La mayoría
+de ellos ocurrieron durante los primeros meses de tratamiento. El patrón de daño hepático fue
+predominantemente hepatocelular.
+Duloxetina debe emplearse con precaución en pacientes tratados con con otros medicamentos que se
+asocien con daño hepático.
+ Acatisia/Inquietud psicomotora:
+El uso de duloxetina se ha asociado con el desarrollo de acatisia, caracterizada por una inquietud
+subjetivamente desagradable o preocupante, y por la necesidad de movimiento, a menudo acompañada
+por la incapacidad de permanecer sentado o estar quieto. Esto es más probable que se produzca en las
+primeras semanas de tratamiento. En aquellos pacientes que desarrollan esta sintomatología, el
+aumento de la dosis puede ser perjudicial.
+ Sacarosa
+Las cápsulas duras gastrorresistentes de YENTREVE contienen sacarosa. Los pacientes con problemas
+de intolerancia hereditaria a la fructosa, malabsorción de glucosa o galactosa, o insuficiencia de
+sacarasa-isomaltasa no deben tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Inhibidores de la monoaminooxidasa (IMAOs): debido al riesgo del síndrome serotoninérgico, no se
+debe utilizar YENTREVE en combinación con inhibidores no selectivos irreversibles de la
+monoaminooxidasa (IMAOs), o al menos dentro de los 14 días posteriores a la interrupción del
+tratamiento con un IMAO. Debido a la vida media de duloxetina, deben transcurrir al menos 5 días
+desde la interrupción del tratamiento con YENTREVE y el inicio del tratamiento con un IMAO (ver apartado 4.3).
+ Síndrome serotoninérgico: raramente, se ha notificado síndrome serotoninérgico en pacientes en
+tratamiento concomitante de ISRS con medicamentos serotoninérgicos. No se recomienda el uso de
+YENTREVE conjuntamente con antidepresivos serotoninérgicos como ISRS, tricíclicos como
+clomipramina o amitriptilina, venlafaxina o triptanos, tramadol y triptófano.
+ Medicamentos que actúan en el SNC: se aconseja precaución cuando YENTREVE se tome en
+combinación con con otros medicamentos o sustancias de acción central, incluyendo alcohol y
+medicamentos sedantes (benzodiazepinas, morfinomiméticos, antipsicóticos, fenobarbital y
+antihistamínicos sedantes).
+ Efectos de la duloxetina en con otros medicamentos
+Medicamentos metabolizados por CYP1A2: la farmacocinética de la teofilina, sustrato de CYP1A2, no
+se vio significativamente afectada por la administración conjunta de duloxetina (60 mg dos veces al
+día).
+Medicamentos metabolizados por CYP2D6: Duloxetina es un inhibidor moderado de CYP2D6.
+Cuando se administra duloxetina a una dosis de 60 mg dos veces al día con una dosis única de
+desipramina, un substrato del CYP2D6, el área bajo la curva (AUC) de desipramina aumenta hasta tres
+veces. La administración conjunta de duloxetina (40 mg dos veces al día) aumenta el área bajo la curva
+(AUC) en el estado de equilibrio de tolterodina (2 mg dos veces al día) en un 71 % pero no afecta la
+farmacocinética de su metabolito activo 5-hidroxilo y no se recomienda un ajuste de dosis.
+Se recomienda precaución si se administra duloxetina con medicamentos metabolizados
+predominantemente por el CYP2D6 (risperidona, antidepresivos tricíclicos como nortriptilina,
+amitriptilina e imipramina) particularmente si tienen un estrecho índice terapéutico (como flecainida,
+propafenona y metoprolol).
+ Anticonceptivos orales y otros esteroides: los resultados de los estudios in vitro demuestran que la
+duloxetina no induce la actividad catalítica de CYP3A. No se han realizado estudios específicos de
+interacciones in vivo.
+ Anticoagulantes y agentes antiplaquetarios: Se debe tener precaución cuando se combine duloxetina
+con anticoagulantes orales o agentes antiplaquetarios debido a un riesgo potencial incrementado de
+sangrado.
+Se han notificado además, incrementos en los valores de INR cuando se administra duloxetina junto
+con warfarina.
+ Efectos de con otros medicamentos sobre la duloxetina
+Antiácidos y antagonistas H2: la administración conjunta de YENTREVE con antiácidos que
+contengan aluminio y magnesio, o con famotidina no tiene efecto significativo sobre la velocidad y el
+grado de absorción de la duloxetina, tras la administración de una dosis oral de 40 mg.
+ Inhibidores de CYP1A2: puesto que CYP1A2 está implicado en el metabolismo de la duloxetina, el
+uso concomitante de YENTREVE con inhibidores potentes de CYP1A2 es probable que produzca
+concentraciones mayores de duloxetina. La fluvoxamina (100 mg una vez al día), un potente inhibidor
+de CYP1A2 disminuyó el aclaramiento plasmático aparente de duloxetina alrededor del 77 % y
+aumentó en 6 veces el AUC0-t. Por ello, no se debe administrar YENTREVE en combinación con
+inhibidores potentes de CYP1A2 como la fluvoxamina (ver apartado 4.3).
+ Inductores de CYP1A2: Los análisis de estudios farmacocinéticas en la población han mostrado que
+los fumadores tienen concentraciones plasmáticas de duloxetina casi un 50% más bajas que los no
+fumadores.
+ 4.6   Embarazo y lactancia
+ Embarazo
+No existen datos del uso de duloxetina en mujeres embarazadas. Los estudios en animales han
+mostrado toxicidad reproductiva a niveles de exposición sistémica (AUC) de duloxetina menores que
+los niveles máximos de exposición clínica (ver apartado 5.3). Se desconoce el riesgo potencial en los
+humanos. Al igual que con con otros medicamentos serotoninérgicos pueden aparecer síntomas de retirada
+en el neonato si la madre ha tomado duloxetina poco antes del parto. YENTREVE se debe utilizar
+durante el embarazo solamente si el beneficio potencial supera el riesgo potencial para el feto. Las
+mujeres deben comunicar a su médico si se quedan embarazadas, o tienen intención de quedarse
+embarazadas, durante el tratamiento.
+Lactancia
+La duloxetina se excreta muy débilmente en la leche materna humana según un estudio realizado en 6
+madres en periodo de lactancia que no dieron el pecho a sus hijos. La dosis diaria estimada para el
+lactante en mg/kg es aproximadamente de un 0,14% de la dosis consumida por la madre (ver apartado
+5.2). Puesto que se desconoce la seguridad de duloxetina en niños, YENTREVE está contraindicado
+durante el periodo de lactancia (ver apartado 4.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+YENTREVE puede estar asociado con la aparición de sedación y mareos. Por consiguiente, se debe
+indicar a los pacientes que si experimentan sedación o mareos, deben evitar la realización de tareas
+potencialmente peligrosas, como conducir o utilizar máquinas.
+ 4.8   Reacciones adversas
+ La tabla 1 muestra las reacciones adversas comunicadas por notificaciones espontáneas y durante los
+ensayos clínicos controlados con placebo en pacientes con IUE y otras alteraciones del tracto urinario
+inferior, incluyendo un total de 7.976 pacientes, 4.370 tratados con duloxetina y 3.606 con placebo.
+ Los acontecimientos adversos notificados con más frecuencia en pacientes tratadas con YENTREVE
+durante los ensayos clínicos en pacientes con IUE y otras alteraciones del tracto urinario inferior
+fueron: náusea, sequedad de boca, cansancio y estreñimiento. El análisis de los datos de cuatro
+ensayos clínicos controlados con placebo de 12 semanas de duración en pacientes con IUE,
+incluyendo 958 pacientes tratadas con duloxetina y 955 pacientes tratadas con placebo muestra que la
+aparición de los acontecimientos adversos notificados se produjo generalmente en la primera semana
+de tratamiento. No obstante, la mayoría de los acontecimientos adversos más frecuentes fueron de
+leves a moderados y se resolvieron dentro de los 30 primeros días desde su aparición (p.ej. náusea.).
+ Tabla 1: Reacciones adversas:
+ Estimación de la frecuencia: Muy frecuentes (1/10), frecuentes (1/100, <1/10) y poco frecuentes
+(1/1.000, <1/100), raras ( 1/10.000, <1/1.000), muy raras (<1/10.000), frecuencia no conocida (no
+puede estimarse a partir de los datos disponibles).
+Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+  Muy             Frecuentes           Poco frecuentes        Raras               Muy      Frecuencia
+frecuentes                                                                      raras    desconocida
+Exploraciones complementarias
+Trastornos cardíacos
+Palpitaciones        Taquicardia                                         Arritmia
+Trastornos del sistema nervioso
+Cefalea            Sueño de baja          Discinesia                   Síndrome
+Mareos             calidad                Mioclonía                    serotoninérgico
+Temblores          Alteraciones de la                                  Inquietud
+                                                   20
+Letargia            atención                                   psicomotora
+Somnolencia         Nerviosismo                                Convulsiones
+Parestesia          Disgeusia                                  Acatisia
+ Trastornos oculares
+Visión borrosa        Molestias visuales      Glaucoma
+Trastornos del oído y del laberinto
+Vertigo
+Trastornos respiratorios, torácicos y mediastínicos
+Trastornos gastrointestinales
+Náuseas          Diarrea              Gastroenteritis         Hematoquecia       Hemorragia
+(23,3%)          Vómitos              Estomatitis                                gastrointestinal
+Sequedad de      Dispepsia            Gastritis
+boca (11,9%)                          Flatulencia
+Estreñimiento                         Eructos
+(10,3%)                               Halitosis
+ Trastornos renales y urinarios
+Trastornos de la piel y del tejido subcutáneo
+Aumento de la        Erupción                Reacciones de      Síndrome de
+sudoración           Aumento de la           fotosensibilidad   Stevens-
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Trastornos endocrinos
+Trastornos del metabolismo y de la nutrición
+Disminución del Deshidratación               Hiperglucemia
+apetito                                      (notificada
+Infecciones e infestaciones
+                                                   21
+Trastornos vasculares
+ Trastornos generales y alteraciones en el lugar de administración
+Cansancio         Dolor             Malestar                Trastorno de la            Dolor torácico
+(10,9%)           abdominal         Sensación de calor      marcha
+Trastornos del sistema inmunológico
+Trastornos hepatobiliares
+Trastornos del aparato reproductor y de la mama
+Trastornos psiquiátricos
+1
+Los casos de acúfenos se notificaron también después de la interrupción del tratamiento
+2
+Los casos de hipotensión ortostática y síncope se notificaron particularmente al comienzo del
+tratamiento.
+3
+Ver sección 4.4.
+4
+Los casos de ideación suicida y comportamiento suicida se notificaron durante el tratamiento con
+duloxetina o poco después de la interrupción del mismo (ver apartado 4.4).
+5
+Los casos de agresividad e ira se han notificado principalmente al principio del tratamiento o después
+de la interrupción del mismo.
+ La interrupción del tratamiento con duloxetina (particularmente cuando se lleva a cabo de forma
+brusca) con frecuencia conduce a la aparición de síntomas de retirada.
+Las reacciones más comúnmente notificadas son mareos, alteraciones sensoriales (incluyendo
+parestesia), trastornos del sueño (incluyendo insomnio y sueños intensos), agitación o ansiedad,
+náuseas y/o vómitos, temblores, cefalea, irritabilidad, diarrea, hiperhidrosis y vértigo.
+ Generalmente, para los ISRS y IRSN estos acontecimientos son de leve a moderados y autolimitados,
+sin embargo, en algunos pacientes pueden ser graves y/o prolongados.
+Se recomienda por lo tanto que cuando ya no sea necesario continuar el tratamiento con duloxetina, se
+realice una reducción gradual de la dosis (ver secciones 4.2 y 4.4).
+ Se obtuvo el electrocardiograma de 755 pacientes con IUE tratadas con duloxetina y de 779 pacientes
+tratadas con placebo en ensayos clínicos de 12 semanas de duración. El intervalo QT corregido en
+función de la frecuencia cardiaca que presentaron las pacientes tratadas con duloxetina no difirió del
+observado en las pacientes tratadas con placebo.
+ En la fase aguda de 12 semanas de tres ensayos clínicos de duloxetina en pacientes con dolor
+neuropático diabético, se observaron incrementos pequeños, pero estadísticamente significativos, de
+los niveles de glucemia en ayunas en los pacientes tratados con duloxetina, los valores de HbA1c
+permanecieron estables tanto en el grupo tratado con duloxetina como el grupo tratado con placebo.
+En la fase de extensión de estos ensayos, de una duración de 52 semanas, se observó un aumento de
+HbA1c tanto en el grupo tratado con duloxetina como en el de terapia habitual, pero el incremento
+medio fue de un 0,3% mayor en el grupo tratado con duloxetina. Se observó también un pequeño
+incremento de la glucemia en ayunas y del colesterol total en el grupo de pacientes tratados con
+duloxetina mientras que éstos parámetros analíticos mostraron una ligera disminución en el grupo de
+terapia habitual.
+ 4.9   Sobredosis
+ Se han notificado casos de sobredosis de duloxetina con dosis de 4800 mg, sola o en combinación con
+con otros medicamentos. Se han notificado algunos casos de sobredosis mortales con duloxetina
+principalmente en combinación con con otros medicamentos, pero también con duloxetina sola a una dosis
+de aproximadamente 1000 mg. Los signos y síntomas de sobredosificación (duloxetina sola o en
+combinación con con otros medicamentos) incluyeron somnolencia, coma, síndrome serotoninérgico,
+convulsiones, vómitos y taquicardias.
+ No se conoce un antídoto específico para duloxetina, pero si aparece el síndrome serotoninérgico, debe
+considerarse un tratamiento específico (como con ciproheptadina y/o control de la temperatura). Se
+debe establecer una vía respiratoria. Se recomienda el control de los signos cardíacos y vitales, junto
+con apropiadas medidas de apoyo y sintomáticas. El lavado gástrico puede estar indicado si se realiza
+poco después de la ingestión o en pacientes sintomáticos. El carbón activado puede ser útil para limitar
+la absorción. La duloxetina tiene un gran volumen de distribución, por lo que es poco probable que la
+diuresis forzada, la hemoperfusión y la exanguinoperfusión sean beneficiosas.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Otros antidepresivos. Código ATC: N06AX21
+La duloxetina es un inhibidor de la recaptación de serotonina (5-HT) y de noradrenalina (NA). Inhibe
+débilmente la recaptación de dopamina sin una afinidad significativa por los receptores
+histaminérgicos, dopaminérgicos, colinérgicos y adrenérgicos.
+ En los estudios realizados en animales, el aumento de los niveles de 5-HT y NA en la médula espinal
+sacra produjo un incremento del tono uretral por aumento de la estimulación, por parte del nervio
+pudendo del músculo estriado del esfínter uretral, solamente durante la fase de almacenamiento vesical
+del ciclo miccional. Se cree que en las mujeres un mecanismo similar da lugar a un cierre uretral más
+fuerte durante el almacenamiento vesical con esfuerzo físico, lo cual explicaría la eficacia de la
+duloxetina en el tratamiento de las mujeres con IUE.
+ La eficacia de 40 mg de duloxetina administrados dos veces al día en el tratamiento de la IUE se
+estableció en cuatro ensayos clínicos, doble ciego, controlados con placebo y que aleatorizaron a 1913
+                                                   23
+mujeres (de 22 a 83 años de edad) con IUE; de éstas, 958 fueron asignadas de manera aleatoria al
+tratamiento con duloxetina y 955 al tratamiento co
+ 
+	Prospectos de medicamentos.

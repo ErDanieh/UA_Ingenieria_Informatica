@@ -1,0 +1,610 @@
+ELAPRASE 2MG/ML 1 VIAL 3ML SOL PERFU
+	Información Basica del medicamento Toda la información del medicamento ANEXO 1
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Elaprase 2 mg/ml concentrado para solución para perfusión.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada vial de 3 ml contiene 6 mg de idursulfasa. Cada ml contiene 2 mg de idursulfasa.
+ La idursulfasa se produce mediante la técnica de ADN recombinante en una línea continua de células
+humanas.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Concentrado para solución para perfusión.
+Solución incolora, de transparente a ligeramente opalescente.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Elaprase está indicado para el tratamiento a largo de plazo de pacientes con síndrome de Hunter
+(Mucopolisacaridosis II, MPS II).
+ Las mujeres heterocigotas no han sido estudiadas en los ensayos clínicos.
+ 4.2   Posología y forma de administración
+ El tratamiento con Elaprase debe ser supervisado por un médico u otro profesional sanitario con
+experiencia en el manejo de pacientes con MPS II u otros trastornos metabólicos hereditarios.
+ Elaprase se administra en una dosis de 0,5 mg/kg de peso corporal cada semana, mediante perfusión
+intravenosa durante un período de 3 horas, que puede ser gradualmente reducido a 1 hora si no se
+observa ninguna reacción asociada a la perfusión (ver apartado 4.4).
+ Para las instrucciones para la preparación y administración ver sección 6.6.
+ Pacientes con insuficiencia renal o hepática
+No hay experiencia clínica en pacientes con insuficiencia renal o hepática. Ver sección 5.2.
+ Pacientes ancianos
+No hay experiencia clínica en pacientes de más de 65 años de edad.
+ Pacientes pediátricos
+La dosis para niños y adolescentes es 0,5 mg/kg de peso corporal semanalmente.
+Para las instrucciones para la preparación y administración ver sección 6.6.
+No hay experiencia clínica en niños de menos de 5 años de edad.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Los pacientes tratados con idursulfasa pueden desarrollar reacciones asociadas con la perfusión (ver apartado 4.8). Durante los estudios clínicos, las reacciones asociadas con la perfusión más frecuentes
+incluyeron reacciones cutáneas (erupción, prurito, urticaria), pirexia, cefalea, hipertensión y
+enrojecimiento facial. Las reacciones asociadas con la perfusión fueron tratadas o atenuadas
+reduciendo la velocidad de la perfusión, interrumpiendo la perfusión, o mediante la administración de
+medicamentos, como antihistamínicos, antipiréticos, corticosteroides en dosis bajas (prednisona y
+metilprednisolona) o nebulización con beta-agonistas. Durante los estudios clínicos ninguno de los
+pacientes interrumpió el tratamiento a causa de una reacción a la perfusión.
+ Se debe tener especial precaución al perfundir a pacientes con enfermedad subyacente grave de las
+vías respiratorias. Estos pacientes deberán ser cuidadosamente monitorizados, y se les perfundirá en un
+entorno clínico apropiado. Se deberán tomar precauciones en el manejo y tratamiento de dichos
+pacientes, limitando o monitorizando cuidadosamente el uso de antihistamínicos y con otros medicamentos
+sedantes. En algunos casos puede ser necesaria la aplicación de presión positiva en las vías aéreas.
+ Se debe considerar una demora en la perfusión en los pacientes que presentan una enfermedad
+respiratoria febril aguda. Los pacientes que utilizan oxígeno suplementario deberán tener este
+tratamiento disponible durante la perfusión, para el caso en el que se produzca una reacción asociada
+con la perfusión.
+ Los pacientes que desarrollan anticuerpos IgM o IgG presentan un mayor riesgo de reacciones a la
+perfusión y otras reacciones adversas; no obstante, no se han observado anticuerpos IgE.
+ Al igual que cualquier producto proteico de administración intravenosa, en algunos pacientes tratados
+con Elaprase se han observado reacciones anafilactoides, que podrían llegar a producir la muerte. Se
+han observado síntomas y signos de reacciones anafilactoides de aparición tardía inclusive hasta 24
+horas después de una reacción inicial. Si se produce una reacción anafilactoide se debe suspender de
+inmediato la perfusión, y se iniciarán el tratamiento y la observación pertinentes. Se deben considerar
+los estándares médicos actuales para el tratamiento de emergencia. Los pacientes que experimenten
+reacciones anafilactoides graves o refractarias pueden requerir una monitorización clínica prolongada.
+Se debe tratar con precaución a los pacientes a los que se les vuelva a administrar Elaprase y que
+previamente hayan presentado reacciones anafilactoides.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios formales de interacciones farmacológicas con Elaprase.
+ Basándonos en su metabolismo en los lisosomas celulares, no es probable que con la idursulfasa se
+produzcan interacciones mediadas por el citocromo P450.
+ 4.6   Embarazo y lactancia
+ No está indicado el uso de Elaprase en mujeres en edad de concebir. No se han realizado estudios
+reproductivos en animales hembra. En los estudios reproductivos llevados a cabo en ratas macho no se
+observaron efectos sobre la fertilidad.
+ No se ha estudiado la excreción de idursulfasa en la leche.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas
+ 4.8   Reacciones adversas
+ Las reacciones adversas notificadas en los 32 pacientes tratados con 0,5 mg/kg semanal de Elaprase en
+el estudio de Fase II/III de 52 semanas controlado con placebo fueron en su mayoría de carácter leve a
+moderado. Las más frecuentes fueron reacciones asociadas con la perfusión, de las cuales 202 se
+informaron en 22 de los 32 pacientes, tras la administración de un total de 1580 perfusiones. En el
+grupo de tratamiento con placebo se notificaron 128 reacciones relacionadas con la perfusión en 21 de
+los 32 pacientes, tras la administración de un total de 1612 perfusiones. Como puede haberse
+producido más de una reacción relacionada con la perfusión durante el transcurso de una misma
+perfusión, es probable que las cifras precedentes sobreestimen la verdadera incidencia de las
+reacciones a la perfusión. En el grupo tratado con placebo las reacciones asociadas fueron de
+naturaleza y gravedad similares a las del grupo tratado con el fármaco. De estas reacciones asociadas
+con la perfusión, las más frecuentes incluyeron reacciones cutáneas (erupción, prurito, urticaria),
+pirexia, cefalea e hipertensión. La frecuencia de las reacciones asociadas con la perfusión disminuyó
+con el tiempo en tratamientos continuados.
+ En la tabla siguiente se enumeran las reacciones adversas al fármaco; la información se presenta
+clasificada por órganos y sistemas y por frecuencias. La frecuencia se define como muy frecuente
+(1/10) o frecuente (1/100, <1/10). La ocurrencia de un evento en un solo paciente se define como
+frecuente en vista de la cantidad de pacientes tratados. Las reacciones adversas se presentan en orden
+decreciente de gravedad dentro de cada frecuencia.
+ Las reacciones adversas al fármaco se definieron como los eventos emergentes en el tratamiento con
+causalidad presunta, y excluyeron los acontecimientos no graves notificados una sola vez en un único
+paciente; los eventos emergentes en el tratamiento con una incidencia en exceso de al menos el 9% en
+comparación con el placebo también se consideraron como reacciones adversas al fármaco.
+ Clasificación de órganos del
+sistema
+Trastornos del sistema nervioso
+Trastornos oculares
+Trastornos cardíacos
+Trastornos vasculares
+Trastornos respiratorios, torácicos y
+mediastínicos
+Trastornos gastrointestinales
+Trastornos de la piel y del tejido
+subcutáneo
+Trastornos musculoesqueléticos y
+del tejido conjuntivo
+Trastornos generales y alteraciones
+en el lugar de administración
+ *ver a continuación las reacciones adversas graves
+ A través de los estudios, se notificaron reacciones adversas graves en un total de 5 pacientes que
+recibieron 0,5 mg/kg en forma semanal o semana de por medio. Cuatro pacientes experimentaron un
+episodio hipóxico durante una o varias perfusiones, que requirió terapia con oxígeno en 3 pacientes
+con enfermedad obstructiva grave de las vías respiratorias subyacente (2 de ellos con traqueostomía
+preexistente). El episodio más grave, asociado con una convulsión de corta duración, ocurrió en un
+paciente al que se le administró la perfusión mientras presentaba una exacerbación respiratoria febril.
+En el cuarto paciente, con una enfermedad subyacente menos grave, se produjo una resolución
+espontánea al poco tiempo de interrumpir la perfusión. No hubo recurrencia de estos episodios en las
+perfusiones subsiguientes, en las que se utilizó una menor velocidad de perfusión y la administración
+de medicamentos pre-perfusión, generalmente esteroides en dosis bajas, antihistamínicos y
+nebulización con beta-agonistas. Al quinto paciente, que tenía una cardiopatía preexistente, se le
+diagnosticaron complejos ventriculares prematuros y embolia pulmonar durante el estudio.
+ Se han notificado reacciones anafilactoides en informes postcomercialización. Ver sección 4.4 para
+más información.
+ De todos los estudios, 53/108 pacientes (49%) desarrollaron anticuerpos IgG anti-idursulfasa en algún
+momento. Seis de los pacientes IgG positivos dieron también resultados positivos para anticuerpos
+                                                      5
+IgM, y uno de los pacientes resultó positivo para anticuerpos IgA. Ningún paciente desarrolló
+anticuerpos IgE en ninguno de los estudios. La tasa general de anticuerpos neutralizantes fue de
+11/108 pacientes (10%). En el estudio de 52 semanas, las tasas de seropositividad alcanzaron sus
+valores máximos entre las semanas 18 a 27, y en adelante declinaron en forma consistente durante el
+resto del estudio.
+ En general, los pacientes con resultados positivos para anticuerpos IgG tuvieron más probabilidad de
+presentar reacciones asociadas con la perfusión que aquellos que no dieron resultado positivo. No
+obstante, los índices globales de reacciones adversas relacionados con la perfusión disminuyeron con
+el tiempo, con independencia de la condición con respecto a los anticuerpos. La reducción de la
+excreción de GAG por vía urinaria fue algo menor en los pacientes en los que se detectaron
+anticuerpos anti-idursulfasa en circulación.
+ 4.9   Sobredosis
+ No hay experiencia con sobredosis de Elaprase.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Productos para el tracto alimentario y el metabolismo ­ enzimas, código
+ATC: A16AB09.
+ El síndrome de Hunter es una enfermedad vinculada al cromosoma X, causada por niveles
+insuficientes de la enzima lisosomal iduronato-2-sulfatasa. La iduronato-2-sulfatasa funciona para
+catabolizar los glicosaminoglicanos (GAG) dermatan sulfato y heparan sulfato por escisión de los
+grupos sulfatos ligados a los oligosacáridos. Debido a la falta o a la deficiencia de la enzima iduronato-
+2-sulfatasa en los pacientes con síndrome de Hunter, los glicosaminoglicanos se acumulan
+progresivamente en las células, lo que da lugar a almacenamiento celular, organomegalia, destrucción
+de tejidos y disfunción de sistemas orgánicos.
+ La idursulfasa es una forma purificada de la enzima lisosomal iduronato-2-sulfatasa, producida en una
+línea de células humanas que proporciona un perfil de glicosilación humana, que es análoga a la
+enzima que se produce naturalmente. La idursulfasa se secreta como una glicoproteína de 525
+aminoácidos y contiene 8 sitios de N-glicosilación, ocupados por cadenas de polisacáridos complejos,
+híbridos y ricos en manosa. La idursulfasa tiene un peso molecular de aproximadamente 76 kilodaltons.
+ El tratamiento de los pacientes con síndrome de Hunter mediante Elaprase por vía intravenosa
+proporciona la enzima exógena para su captación en los lisosomas celulares. Los residuos de manosa-
+6-fosfato (M6P) en las cadenas de polisacáridos permiten la unión específica de la enzima a los
+receptores de M6P en la superficie celular, lo que lleva a la internalización celular de la enzima,
+orientándola hacia los lisosomas intracelulares y en consecuencia hacia el catabolismo de los GAG
+acumulados.
+ Un total de 108 pacientes varones con síndrome de Hunter, con un amplio espectro de síntomas,
+fueron incorporados a dos estudios clínicos aleatorizados, controlados con placebo; 106 continuaron el
+tratamiento en dos estudios abiertos de extensión.
+ En un ensayo clínico aleatorizado, doble ciego, controlado con placebo, de 52 semanas de duración, 96
+pacientes de entre 5 y 31 años de edad recibieron 0,5 mg/kg de Elaprase cada semana (n=32) o 0,5
+mg/kg con una semana libre por medio (n=32), o placebo (n=32). El estudio incluyó a pacientes con
+una deficiencia documentada en la actividad de la enzima iduronato-2-sulfatasa, una CVF en
+porcentaje del valor teórico <80% y un amplio espectro de gravedad de la enfermedad.
+ La variable primaria de eficacia consistió en una escala de puntuación compuesta de dos componentes,
+basada en la variación al final del estudio respecto al valor inicial, en la distancia recorrida durante seis
+minutos (prueba de caminata de seis minutos o C6m) como medida de la resistencia, y en la capacidad
+vital forzada (CVF) en % del valor teórico como medida de la función pulmonar. Esta variable de
+evaluación mostró diferencias significativas con respecto al placebo para los pacientes tratados con
+administración semanal (p=0,0049).
+ Se realizaron análisis adicionales del beneficio clínico sobre los componentes individuales de la
+variable primaria compuesta, los cambios absolutos en la CVF, los cambios en los niveles urinarios de
+GAG, los volúmenes de hígado y bazo, la medición del volumen espiratorio forzado en 1 segundo
+(VEF1), y los cambios en la masa ventricular izquierda (MVI).
+                                                52 semanas de tratamiento
+Variable de
+evaluación              Idursulfasa       Placebo
+Compuesta (C6m y        74,5 (4,5)        55,5 (4,5)       19,0 (6,5)                   0,0049
+% CVF)
+C6m (en m)              43,3 (9,6)            8,2 (9,6)           35,1 (13,7)           0,0131
+CVF en % valor          4,2 (1,6)             -0,04 (1,6)         4,3 (2,3)             0,0650
+teórico
+CVF en volumen          230,0 (40,0)          50,0 (40,0)         190,0 (60,0)          0,0011
+absoluto (en cc)
+Niveles urinarios       -223,3 (20,7)         52,23 (20,7)        -275,5 (30,1)         <0,0001
+GAG (g GAG/mg
+creatinina)
+% variación en          -25,7 (1,5)           -0,5 (1,6)          -25,2 (2,2)           <0,0001
+volumen de hígado
+% variación en          -25,5 (3,3)           7,7 (3,4)           -33,2 (4,8)           <0,0001
+volumen de bazo
+ En un total de 11 de los 31 (36%) pacientes en el grupo de tratamiento semanal, comparado con 5 de
+los 31 (16%) pacientes en el grupo del placebo, se observó un aumento del VEF1 de al menos 200 cc al
+final del estudio o antes, lo que indica una mejora en la obstrucción de las vías aéreas relacionada con
+la dosis. Los pacientes en el grupo de tratamiento semanal experimentaron un incremento medio
+clínicamente significativo del 15% en el VEF1 al final del estudio.
+ Los niveles urinarios de GAG se normalizaron por debajo del límite superior de los valores normales
+(definido como 126,6 µg GAG/mg creatinina) en el 50% de los pacientes recibiendo tratamiento
+semanal.
+ De los 25 pacientes con hígados anormalmente grandes al inicio del tratamiento en el grupo de
+tratamiento semanal, el 80% (20 pacientes) presentó reducciones en el volumen hepático a valores
+dentro del rango normal al final del estudio.
+ De los 9 pacientes del grupo de tratamiento semanal con bazos anormalmente grandes al inicio del
+tratamiento, Al final del estudio, el volumen del bazo se normalizó en 3 de ellos.
+ Aproximadamente la mitad de los pacientes en el grupo de tratamiento semanal (15 de 32; 47%)
+presentaban hipertrofia del ventrículo izquierdo al inicio del tratamiento, definida como un índice de
+MVI >103 g/m2. De éstos, 6 (40%) presentaron MVI normalizadas al final del estudio.
+                                                      7
+No existen datos clínicos que demuestren ningún beneficio en las manifestaciones neurológicas de la
+enfermedad.
+ Este medicamento se ha autorizado en ""circunstancias excepcionales"".
+Esta modalidad de aprobación significa que debido a la rareza de la enfermedad no ha sido posible
+obtener una información completa de este medicamento
+La Agencia Europea de Medicamentos (EMEA) revisará toda la información nueva que pueda estar
+disponible cada año y esta Ficha Técnica o Resumen de las Características del producto (RCP) se
+actualizará cuando sea necesario.
+ 5.2   Propiedades farmacocinéticas
+ La idursulfasa es captada mediante mecanismos mediados por receptores selectivos, que implican la
+unión a receptores de manosa-6-fosfato. Una vez internalizada por las células, se localiza dentro de los
+lisosomas celulares lo que, en consecuencia, limita la distribución de la proteína. La degradación de la
+idursulfasa se lleva a cabo mediante mecanismos de hidrólisis de proteínas generalmente bien
+conocidos para producir pequeños péptidos y aminoácidos; por consiguiente, no se espera que el
+deterioro de las funciones renales y hepáticas afecte la farmacocinética de la idursulfasa.
+ La farmacocinética se evaluó en 10 pacientes en la semana 1 y en la semana 27, tras la administración
+de 0,5 mg/kg semanal mediante una perfusión de 3 horas. No se observaron diferencias en los
+parámetros farmacocinéticos tras 27 semanas de tratamiento.
+              Parámetro                           Semana 1 (DE)                 Semana 27 (DE)
+Cmáx (g/ml)                            1,5 (0,6)                     1,1 (0,3)
+AUC (mín* g/ml)                          206 (87)                      169 (55)
+T1/2 (mín)                             44 (19)                       48 (21)
+Cl (ml/mín/kg)                          3,0 (1,2)                     3,40 (1,0)
+Vss (% PC)                               21 (8)                        25 (9)
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos en los estudios preclínicos no muestran riesgos especiales para los seres humanos según los
+estudios convencionales sobre farmacología de seguridad, toxicidad de dosis única, toxicidad de dosis
+repetidas y fertilidad masculina. No se han realizado estudios de toxicidad reproductiva en animales
+hembra.
+ "
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Polisorbato 20
+Cloruro de sodio
+Fosfato de sodio dibásico, heptahidratado
+Fosfato de sodio monobásico, monohidratado
+Agua para inyección
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros, excepto
+con los mencionados en la sección 6.6.
+ 6.3     Período de validez
+ 2 años
+Se ha demostrado la estabilidad química y física en el uso durante 8 horas a 25°C.
+Desde el punto de vista de la seguridad microbiológica, el producto diluido debe utilizarse
+inmediatamente. Si no se utiliza de inmediato, los tiempos de conservación durante el uso y las
+condiciones antes de la administración son responsabilidad del usuario, y no deben exceder las 24
+horas a una temperatura entre 2 y 8°C.
+ 6.4     Precauciones especiales de conservación
+ Conservar en nevera (entre 2°C y 8°C)
+No congelar
+Para las condiciones de conservación del medicamento diluido, ver sección 6.3
+ 6.5     Naturaleza y contenido del envase
+ 3 ml de concentrado para solución para perfusión en un vial de 5 ml (de vidrio Tipo I) con tapón (de
+goma butílica con revestimiento de fluororesina), sello en una pieza y cápsula de cierre tipo flip-off de
+color azul.
+ Tamaño de los envases: 1, 4 y 10 viales.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6     Precauciones especiales de eliminación y otras manipulaciones
+ Cada vial de Elaprase es para un único uso, y contiene 6 mg de idursulfasa en 3 ml de solución.
+Elaprase se administra mediante perfusión intravenosa y antes de utilizarse, debe diluirse en solución
+de cloruro de sodio de 9 mg/ml (0,9%) para perfusión.
+ -     Calcule el número de viales por diluir en función del peso del paciente y la dosis recomendada de
+0,5 mg/kg.
+-     No utilizar si la solución de los viales está decolorada o se observan partículas. No debe agitarse.
+-     Retire el volumen calculado de Elaprase del número de viales adecuado.
+-     Diluya el volumen total requerido de Elaprase en 100 ml de solución de cloruro de sodio de 9
+mg/ml (0,9%) para perfusión. Se deben tomar precauciones para garantizar la esterilidad de las
+soluciones preparadas, ya que Elaprase no contiene conservantes ni agentes bacteriostáticos;
+deberá seguirse una técnica aséptica. Una vez diluida, la solución debe mezclarse suavemente,
+pero sin agitar.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con las normativas locales.
+ 
+7.      TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Shire Human Genetic Therapies AB, Rinkebyvägen 11B, SE 182 36 Danderyd, Suecia
+ 8.      NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/06/365/001-003
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+ 08.01.2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 15.10.2007
+ A.   FABRICANTE(S) DEL (DE LOS) PRINCIPIO(S) ACTIVO(S)
+BIOLÓGICO(S) Y TITULAR(ES) DE LA AUTORIZACIÓN
+DE FABRICACIÓN RESPONSABLE(S) DE LA
+LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ C.   OBLIGACIONES ESPECÍFICAS QUE DEBERÁ CUMPLIR
+EL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    FABRICANTE(S) DEL (DE LOS) PRINCIPIO(S) ACTIVO(S) BIOLÓGICO(S) Y
+TITULAR(ES) DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE(S) DE
+LA LIBERACIÓN DE LOS LOTES
+ Nombre y dirección (de los) fabricante(s) del (de los) principio(s) activo(s) biológico(s)
+ Shire (TK3)
+205 Alewife Brook Parkway
+Cambridge, MA 02138
+Estados Unidos de América
+ Nombre y dirección (de los) fabricante(s) responsable(s) de la liberación de los lotes
+ Shire Human Genetic Therapies AB
+Åldermansgatan 2, Box 1117, 221 04 Lund
+Suecia
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Véase anexo I: Resumen de las Características
+del Producto, sección 4.2).
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ·     OTRAS CONDICIONES
+ El titular de la autorización de comercialización debe garantizar la existencia y funcionamiento del
+sistema de farmacovigilancia antes de comercializar el medicamento.
+ El titular de la autorización de comercialización se compromete a llevar a cabo los estudios y
+actividades adicionales de farmacovigilancia que se detallan en el plan de farmacovigilancia.
+ Se deberá proporcionar un Plan de Manejo de Riesgos conforme a las Directrices del Comité de
+Medicamentos de Uso Humano (CHMP) sobre Sistemas de Manejo de Riesgos para medicamentos de
+uso humano.
+ C.    OBLIGACIONES ESPECÍFICAS QUE DEBERÁ CUMPLIR EL TITULAR DE LA
+AUTORIZACIÓN DE COMERCIALIZACIÓN
+ El titular de la autorización de comercialización llevará a cabo el siguiente programa de estudios en el
+período especificado, cuyos resultados servirán de base para la reevaluación anual del perfil
+beneficio/riesgo.
+ Aspectos clínicos
+                                                    12
+1. Realización de los estudios planificados de inmunogenicidad y subpoblación específica (Menores
+de 5 años), con los siguientes cronogramas propuestos.
+ Estudio de resultados clínicos (HOS)
+Disponibilidad del protocolo final      Completo
+Reclutamiento de pacientes              En curso
+Análisis de los datos                   Al realizar la revalidación anual
+Subestudio de inmunogenicidad
+Disponibilidad del protocolo final        31.03.2007
+Reclutamiento de pacientes               30.09 2007
+Análisis final de los datos              31.12.2010
+Subestudio en menores de 5 años
+Disponibilidad del protocolo final       31.01.2007
+Reclutamiento de pacientes               31.07.2007
+Análisis final de los datos              30.06.2009
+ 2. Presentación de los datos referentes a inmunogenicidad tras la reexposición a la idursulfasa dentro
+de los informes periódicos de actualización de seguridad (PSUR) anuales.
+ 3. Evaluación de las siguientes variables clínicas a largo plazo principalmente a través del estudio de
+resultados clínicos (HOS). Estos datos se reevaluarán anualmente, y los resultados serán
+informados y analizados en las Revalidaciones Anuales.
+ -   Evaluación de la morbilidad pulmonar a largo plazo (por ejemplo, incidencia de infecciones,
+estado de la función pulmonar) y mortalidad.
+-   Evaluación de la morbilidad cardiovascular a largo plazo (por ejemplo, incidencia de eventos, y
+datos ecocardiográficos, cuando los hubiere) y mortalidad.
+-   Evaluación de patrones de excreción de GAG urinarios a largo plazo
+-   Evaluación de niveles de anticuerpos, isotipo y correlación con otros parámetros terapéuticos a
+largo plazo.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 14
+A. ETIQUETADO
+ 15
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ EMBALAJE EXTERIOR / 1, 4, 10 VIALES
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Elaprase 2 mg/ml concentrado para solución para perfusión
+Idursulfasa
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Cada vial contiene 6 mg de idursulfasa. Cada ml contiene 2 mg de idursulfasa.
+ 
+3.    LISTA DE EXCIPIENTES
+	Polisorbato 20
+Cloruro de sodio
+Fosfato de sodio dibásico, heptahidratado
+Fosfato de sodio monobásico, monohidratado
+Agua para inyección
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	1 vial [4, 10 viales] de 3 ml de concentrado para solución para perfusión
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía intravenosa
+Para un solo uso
+Leer el prospecto antes de utilizar este medicamento
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIAL(ES), SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD: {MMM/AAAA}
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	Conservar en nevera
+                                                    16
+No congelar
+ 10.    PRECAUCIONES ESPECIALES PARA LA ELIMINACIÓN DEL PRODUCTO NO
+UTILIZADO O DE LOS MATERIALES DE DESECHO DERIVADOS DE DICHO
+PRODUCTO (CUANDO CORRESPONDA)
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con las normativas locales.
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Shire Human Genetic Therapies AB, Rinkebyvägen 11B, SE 182 36 Danderyd, Suecia
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/06/365/001-003
+ 13.    NÚMERO DE LOTE DEL FABRICANTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ No procede. De conformidad con la Directiva referente a los requisitos de Braille para el etiquetado y
+el prospecto; no es necesario incluir Braille en el envase de productos que sólo deben ser
+administrados por profesionales sanitarios, como es el caso de Elaprase.
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ VIAL
+ 1.     DENOMINACIÓN DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Elaprase 2 mg/ml concentrado estéril
+Idursulfasa
+Vía intravenosa
+ 
+2.     FORMA DE ADMINISTRACIÓN
+	Leer el prospecto antes de utilizar este medicamento
+ 
+3.     FECHA DE CADUCIDAD
+	CAD: {MMM/AAAA}
+ 
+4.     NÚMERO DE LOTE
+	Lote (número)
+ 5.     CONTENIDO EN PESO, VOLUMEN O EN UNIDADES
+ 3 ml
+ 
+6.     OTROS
+	Conservar en nevera
+No congelar
+ B. PROSPECTO
+ 19
+                      Elaprase 2 mg/ml concentrado para solución para perfusión
+ Lea todo el prospecto detenidamente antes de empezar a usar el medicamento.
+-     Conserve este prospecto, ya que puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico.
+-     Este medicamento se le ha recetado a usted y no debe dárselo a otras personas, aunque tengan
+los mismos síntomas, ya que puede perjudicarles.
+-     Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ En este prospecto:
+ 1.    Qué es Elaprase y para qué se utiliza
+2.    Antes de usar Elaprase
+3.    Cómo se le administra Elaprase
+4.    Posibles efectos adversos
+5     Conservación de Elaprase
+6.    Información adicional
+ 
+1.    QUÉ ES ELAPRASE Y PARA QUÉ SE UTILIZA
+	Elaprase se utiliza como terapia de sustitución enzimática para tratar el síndrome de Hunter
+(Mucopolisacaridosis II) cuando el nivel de iduronato-2-sulfatasa en el organismo es mas bajo de lo
+normal.
+ 
+2.    ANTES DE USAR ELAPRASE
+	No use Elaprase
+ Si es alérgico (hipersensible) a la idursulfasa o a cualquiera de los demás componentes de Elaprase.
+ Tenga especial cuidado con Elaprase
+ Si le están tratando con Elaprase puede experimentar reacciones durante o después de la perfusión (ver
+la sección 4, Posibles efectos adversos). Los síntomas más frecuentes son picor, erupción, urticaria,
+fiebre, dolor de cabeza, aumento de la presión arterial y enrojecimiento de la cara. En la mayoría de los
+casos pueden seguirle administrando Elaprase incluso aparecen estos síntomas. Si sufre un efecto
+adverso alérgico después de la administración de Elaprase, debe ponerse en contacto con su médico
+inmediatamente. Pueden administrarle con otros medicamentos, como antihistamínicos y corticosteroides
+para tratar o ayudar a prevenir las reacciones de tipo alérgico.
+ Su médico suspenderá la perfusión inmediatamente si aparecen reacciones alérgicas graves (de tipo
+anafiláctico), e iniciará el tratamiento adecuado. Es posible que deba permanecer en el hospital.
+ Uso de con otros medicamentos
+ No se conocen interacciones de Elaprase con con otros medicamentos.
+ Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente con otros medicamentos,
+incluso los adquiridos sin receta.
+                                                   20
+Uso de Elaprase con alimentos y bebidas
+ Dado el modo en que el producto se metaboliza en el organismo, es improbable que se produzcan
+interacciones con alimentos y bebidas.
+ Embarazo y lactancia
+ Consulte a su médico o farmacéutico antes de tomar un medicamento.
+ Conducción y uso de máquinas
+ Se desconoce si Elaprase afecta la capacidad de conducir o usar maquinarias.
+ 
+3.    CÓMO SE LE ADMINISTRA ELAPRASE
+	Elaprase tiene que ser diluido en una solución de cloruro de sodio de 9 mg/ml (0,9%) para perfusión
+antes de utilizarse. La dosis normales una perfusión de 0,5 mg (medio miligramo) por cada kilogramo
+que usted pese. Después de la dilución, Elaprase se administra a través de una vena (por goteo). La
+perfusión normalmente dura entre 1 a 3 horas, y se le administrará cada semana.
+ ¿Qué ocurre si me administran demasiado Elaprase?
+ No hay experiencia con sobredosis de Elaprase.
+ Si olvidó usar Elaprase
+ Si ha olvidado una perfusión de Elaprase, póngase en contacto con su médico.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, Elaprase puede tener efectos adversos, aunque no todas las
+personas los sufran. La mayoría de los efectos adversos son leves o moderados, y relacionados con la
+perfusión; no obstante, ciertos efectos adversos pueden ser graves. Con el paso del tiempo disminuye la
+cantidad de estas reacciones asociadas con la perfusión.
+ Efectos adversos muy frecuentes (al menos 1 cada 10):
+Dolor de cabeza
+·
+Aumento de la presión arterial
+·
+Dolor torácico
+·
+Urticaria, erupción, picor
+·
+Fiebre e inflamación en el sitio de administración
+·
+ Efectos adversos frecuentes (al menos 1 cada 100):
+Mareo, temblores
+·
+Ojos llorosos
+·
+Cambios en la frecuencia cardiaca, piel azulada
+·
+Disminución de la presión arterial, enrojecimiento facial
+·
+Dificultad para respirar, respiración sibilante, coágulo en la arteria pulmonar, tos, respiración
+·
+acelerada
+Dolor abdominal, náuseas, diarrea, inflamación de la lengua
+·
+Inflamación del rostro, lesiones en la piel (enrojecimiento, eczema)
+·
+Dolor articular
+·
+Inflamación de las extremidades
+·
+ Si tiene dificultad para respirar, con o sin la piel azulada, informe a su médico inmediatamente.
+                                                  21
+Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto adverso
+no mencionado en este prospecto, informe a su médico o farmacéutico.
+ 
+5.    CONSERVACIÓN DE ELAPRASE
+	Mantener fuera del alcance y de la vista de los niños.
+No utilice Elaprase después de la fecha de caducidad que aparece en la etiqueta después de las letras
+CAD. La fecha de caducidad es el último día del mes que se indica.
+Conservar en nevera (entre 2°C y 8°C)
+No congelar
+ No utilice Elaprase si observa decoloración o la presencia de partículas extrañas.
+Los medicamentos no se deben tirar por los desagües ni a la basura. Pregunte a su farmacéutico cómo
+deshacerse de los envases y de los medicamentos que no necesita. De esta forma ayudará a proteger el
+medio ambiente.
+ 
+6.    INFORMACIÓN ADICIONAL
+	"Composición de Elaprase
+ El principio activo es la idursulfasa, que es una forma de la enzima humana iduronato-2-sulfatasa. La
+idursulfasa se produce en una línea de células humanas mediante técnicas de ingeniería genética.
+Cada vial de Elaprase contiene 6 mg de idursulfasa. Cada ml contiene 2 mg de idursulfasa.
+ Los demás componentes son: Polisorbato 20
+ Aspecto de Elaprase y contenido del envase
+ Elaprase es un concentrado para solución para perfusión. Se suministra en un vial de vidrio en forma
+de solución incolora, de transparente a ligeramente opalescente.
+Cada vial contiene 3 ml de concentrado para solución para perfusión.
+Elaprase se suministra en tamaños de 1, 4 y 10 viales por envase
+Puede que solamente estén comercializados algunos tamaños de envases.
+ Titular de la autorización de comercialización
+ Shire Human Genetic Therapies AB, Rinkebyvägen 11B, SE 182 36 Danderyd, Suecia
+ Fabricante
+ Shire Human Genetic Therapies AB, Åldermansgatan 2, PO Box 1117, SE 221 04 Lund, Suecia
+ Este prospecto fue aprobado en 15.10.2007
+ Este medicamento se ha autorizado en ""circunstancias excepcionales"".
+Esta modalidad de aprobación significa que debido a la rareza de la enfermedad no ha sido posible
+obtener una información completa sobre este medicamento.
+La Agencia Europea de Medicamentos (EMEA) revisará toda la información nueva que pueda estar
+disponible cada año y este prospecto se actualizará cuando sea necesario.
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea de
+Medicamentos (EMEA): http://www.emea.europa.eu/. También existen enlaces con otras páginas web
+sobre enfermedades raras y medicamentos huérfanos.
+<------------------------------------------------------------------------------------------------------------------------------
+ Esta información está destinada únicamente a médicos o profesionales del sector sanitario:
+ Instrucciones de uso, manipulación y eliminación
+ 1. Calcule la dosis total por administrar y la cantidad necesaria de viales de Elaprase.
+ 2. Diluya el volumen total requerido de Elaprase concentrado para solución para perfusión en 100 ml
+de solución de cloruro de sodio de 9 mg/ml para perfusión (0,9% p/v). Se deben tomar
+precauciones para garantizar la esterilidad de las soluciones preparadas, ya que Elaprase no
+contiene conservantes ni agentes bacteriostáticos; deberá observarse una técnica aséptica. Una vez
+diluida, la solución debe mezclarse suavemente, pero sin agitar.
+ 3. Deberá comprobarse visualmente que la solución no contenga partículas ni presente decoloración
+antes de la administración. No debe agitarse.
+ 4. Se recomienda iniciar la administración lo antes posible. Se ha demostrado la estabilidad química
+y física de la solución diluida durante 8 horas a 25°C.
+ 5. No se debe perfundir Elaprase en forma concomitante en la misma línea intravenosa con otros
+agentes.
+ 6. Para un solo uso. La eliminación del producto no utilizado y de todos los materiales que hayan
+estado en contacto con él, se realizará de acuerdo con las normativas locales.
+"
+	Prospectos de medicamentos.

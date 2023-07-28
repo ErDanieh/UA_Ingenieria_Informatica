@@ -1,0 +1,394 @@
+MAXALT 10 mg comprimidos,  6 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	       MAXALT® 10 mg comprimidos
+ 
+2.    COMPOSICION CUALITATIVA Y CUANTITATIVA
+	      Cada comprimido contiene 14,53 mg de rizatriptán benzoato (equivalentes a 10 mg de
+rizatriptán).
+       Excipientes: 60,5 mg de lactosa en el comprimido de 10 mg
+       Para la lista completa de excipientes ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"      Comprimidos
+       Los comprimidos de 10 mg son de color rosa pálido, con forma de cápsula, con el código
+""MAXALT"" en un lado y ""MSD 266"" en el otro.
+ "
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+       Tratamiento agudo de la fase de cefalea de las crisis de migraña con o sin aura.
+ 4.2   Posología y forma de administración
+       En general
+       MAXALT no debe utilizarse profilácticamente.
+       Los comprimidos deben tragarse enteros con un líquido.
+       Efectos de los alimentos: La absorción de rizatriptán se retrasa en aproximadamente 1 hora
+cuando se administra con alimentos. Por tanto, puede retrasarse el comienzo del efecto si
+rizatriptán se administra en ayunas.(Véase 5.2 Propiedades farmacocinéticas, Absorción).
+       MAXALT también está disponible alternativamente como liofilizado oral.
+       Adultos de 18 años de edad y mayores
+       La dosis recomendada es de 10 mg.
+       Nuevas administraciones: Las dosis deben estar separadas al menos por intervalos de 2
+horas; en el período de 24 horas no deben tomarse más de 2 dosis.
+ - para la recurrencia de la cefalea en las 24 horas: Si la cefalea reaparece después del
+alivio de la crisis inicial puede tomarse una nueva dosis. Deben respetarse los límites de
+administración indicados anteriormente.
+        - después de la falta de respuesta: La eficacia de una segunda dosis para el tratamiento de
+la misma crisis, cuando la dosis inicial es ineficaz, no ha sido estudiada en los estudios
+controlados. Por consiguiente, si un paciente no responde a la primera dosis, no debe
+tomarse una segunda dosis para la misma crisis.
+       Los estudios clínicos muestran que los pacientes que no responden al tratamiento de una
+crisis probablemente todavía pueden responder al tratamiento de crisis posteriores.
+       Algunos pacientes deben recibir la dosis mínima (5 mg) de MAXALT, en particular los
+siguientes grupos de pacientes:
+             -   pacientes en tratamiento con propranolol. La administración de rizatriptán debe
+separarse al menos 2 horas de la administración de propranolol. (Véase sección
+4.5).
+-   pacientes con insuficiencia renal leve o moderada.
+-   pacientes con insuficiencia hepática leve o moderada.
+       Las dosis deben estar separadas al menos por intervalos de 2 horas; en el período de 24
+horas no deben administrarse más de 2 dosis.
+       Enfermos pediátricos
+       Niños (menores de 12 años de edad)
+No se recomienda el uso de MAXALT en pacientes menores de 12 años de edad. No hay
+datos disponibles sobre el uso de rizatriptán en niños menores de 12 años de edad.
+       Adolescentes (12-17 años de edad)
+No se recomienda el uso de MAXALT en pacientes menores de 18 años de edad. En un
+estudio controlado con placebo, la eficacia de MAXALT (5 mg) no fue superior a la del
+placebo. No se ha establecido la eficacia de MAXALT en pacientes menores de 18 años de
+edad.
+       Enfermos mayores de 65 años
+       La seguridad y eficacia de rizatriptán en pacientes de más de 65 años no se han evaluado
+sistemáticamente.
+ 4.3   Contraindicaciones
+       Hipersensibilidad a rizatriptán o a alguno de los excipientes.
+       Administración simultánea de inhibidores de la monoaminooxidasa (MAO) o utilización
+dentro de las dos semanas siguientes a la supresión del tratamiento con inhibidores de la
+MAO. (Véase sección 4.5)
+       MAXALT está contraindicado en pacientes con insuficiencia hepática o renal grave.
+ MAXALT está contraindicado en pacientes que hayan sufrido un accidente cerebrovascular
+(ACV) o un ataque isquémico transitorio (AIT).
+       Hipertensión moderadamente grave o grave, o hipertensión leve no tratada.
+       Enfermedad arterial coronaria establecida, como cardiopatía isquémica (angina de pecho,
+historia de infarto de miocardio o isquemia silente documentada), signos y síntomas de
+cardiopatía isquémica o angina de Prinzmetal.
+       Enfermedad vascular periférica.
+       Uso concomitante de rizatriptán y ergotamina, derivados de la ergotamina (entre ellos la
+metisergida) u otros agonistas de los receptores 5HT1B/1D. (Véase sección 4.5).
+ 4.4   Advertencias y precauciones especiales de empleo
+       MAXALT sólo debe administrarse a pacientes en los que se haya establecido un claro
+diagnóstico de migraña. MAXALT no debe administrarse a pacientes con migraña basilar o
+hemipléjica.
+       MAXALT no debe utilizarse para el tratamiento de cefaleas ""atípicas"", es decir, las que
+puedan asociarse con afecciones médicas potencialmente graves (p. ej. ACV, rotura de
+aneurisma) en las que la vasoconstricción cerebrovascular podría ser nociva.
+       Rizatriptán puede asociarse con síntomas transitorios que incluyen tensión y dolor torácico,
+los cuales pueden ser intensos e implicar a la garganta (véase sección 4.8). Cuando estos
+síntomas se piensa que indican cardiopatía isquémica, no deben tomarse más dosis y se
+debe llevar a cabo una evaluación adecuada.
+       Como en el caso de otros agonistas de los receptores 5HT1B/1D, rizatriptán no debe
+administrarse, sin una evaluación previa, en pacientes que es probable que padezcan una
+enfermedad cardíaca no identificada ni en pacientes con riesgo de enfermedad coronaria
+(EC) [p. ej. enfermos con hipertensión, diabéticos, fumadores o usuarios de tratamientos
+sustitutivos de nicotina, varones de más de 40 años de edad, mujeres posmenopáusicas,
+pacientes con bloqueo de rama y los que tienen una historia familiar importante de EC]. Las
+evaluaciones cardíacas pueden no identificar todos los pacientes que tienen enfermedad
+cardíaca y, en casos muy raros, se han producido eventos cardíacos serios en pacientes sin
+enfermedad cardiovascular subyacente cuando se les han administrado agonistas 5-HT1. Los
+pacientes en los que la EC esté establecida no deben ser tratados con MAXALT (véase
+sección 4.3).
+       Los agonistas de los receptores 5HT1B/1D se han asociado con vasoespasmo coronario. En
+casos raros, se ha comunicado isquemia miocárdica o infarto con los agonistas de los
+receptores 5HT1B/1D incluyendo MAXALT (véase sección 4.8).
+       No deben emplearse otros agonistas 5-HT1B71D (p. ej. sumatriptán) simultáneamente con
+MAXALT. (Véase sección 4.5).
+       Se recomienda esperar al menos 6 horas después del uso de rizatriptán antes de la
+administración de medicamentos de tipo ergotamina (p. ej., ergotamina, dihidroergotamina
+o metisergida). Después de la administración de una preparación con ergotamina deben
+transcurrir al menos 24 horas antes de administrarse rizatriptán. Aunque no se observaron
+efectos vasoespásticos aditivos en un estudio de farmacología clínica en el que 16 varones
+sanos recibieron rizatriptán oral y ergotamina parenteral, estos efectos aditivos son
+teóricamente posibles. (Véase sección 4.3).
+       Se ha comunicado síndrome sertoninérgico (incluyendo estado mental alterado,
+inestabilidad autonómica y anomalías neuromusculares) tras el tratamiento de triptanos con
+inhibidores selectivos de la recaptación de serotonina (ISRS) o inhibidores de la recaptación
+de serotonina y noradrenalina (IRSN). Estas reacciones pueden ser graves. Si se justifica
+clínicamente el tratamiento concomitante de rizatriptán y un ISRS o un IRSN, se
+recomienda la atenta observación del paciente, especialmente durante el inicio del
+tratamiento, con incrementos de dosis o con la adición de otra medicación serotoninérgica
+(véase la sección 4.5).
+       Las reacciones adversas pueden ser más comunes durante el uso concomitante de los
+triptanos (agonistas 5-HT1B/1D) y plantas medicinales que contengan hipérico (Hierba de San
+Juan) (Hypericum perforatum).
+       Se puede producir angioedema (p. ej. edema facial, hinchazón de la lengua, edema faríngeo)
+en pacientes tratados con triptanos, entre ellos rizatriptán. Si se produce angioedema de la
+lengua o de la faringe, el paciente debe someterse a supervisión médica hasta que los
+síntomas hayan desaparecido. El tratamiento debe interrumpirse rápidamente y sustituirse
+por un fármaco que pertenezca a otra clase de medicamentos.
+       La cantidad de lactosa en cada comprimido es la siguiente: (30,25 mg en el comprimido de
+5 mg y 60,50 mg en el comprimido de 10 mg). Los pacientes con problemas hereditarios
+raros de intolerancia a galactosa, de insuficiencia de lactasa de Lapp o problemas de
+absorción de glucosa-o galactosa no deben tomar este medicamento.
+       Debe considerarse la posibilidad de interacción al administrar rizatriptán a pacientes en
+tratamiento con sustratos de la CYP 2D6. (Véase sección 4.5)
+       Como con otros tratamientos agudos de la migraña, se ha comunicado cefalea/exacerbación
+de la cefalea diaria crónica con el uso excesivo de rizatriptán, por lo que se puede necesitar
+retirar el fármaco.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+       Ergotamina, derivados de la ergotamina (incluyendo metisergida), otros agonistas de los
+receptores 5-HT1B/1D: Debido a un efecto aditivo, el uso concomitante de rizatriptán y
+ergotamina, derivados de la ergotamina (incluyendo metisergida) u otros agonistas de los
+receptores 5-HT1B/1D (p. ej., sumatriptán, zolmitriptán, naratriptán) aumenta el riesgo de
+vasoconstricción de la arteria coronaria y de efectos hipertensivos. Esta combinación está
+contraindicada. (Veáse sección 4.3).
+       Inhibidores de la monoaminooxidasa: Rizatriptán es metabolizado principalmente por la vía
+del subtipo `A' de la monoaminooxidasa (MAO-A). Las concentraciones plasmáticas de
+rizatriptán y su metabolito activo N-monodesmetil aumentaron por la administración
+simultánea de un inhibidor reversible selectivo de la MAO-A. Se esperan efectos análogos o
+mayores con inhibidores de la MAO no selectivos, reversibles (p. ej., linezolid) e
+irreversibles. Debido a un riesgo de vasoconstricción de la arteria coronaria y de crisis
+hipertensivas, la administración de MAXALT a pacientes que toman inhibidores de la
+MAO está contraindicada (véase sección 4.3)
+Betabloqueantes: Las concentraciones plasmáticas de rizatriptán pueden aumentarse por la
+administración simultánea de propranolol. Este aumento se debe, con gran probabilidad, a la
+interacción metabólica de primer paso entre los dos fármacos, ya que MAO-A desempeña
+un papel en el metabolismo tanto de rizatriptán como de propranolol. Esta interacción
+conduce a un aumento medio del AUC y de la Cmax del 70-80 %. En los pacientes tratados
+con propranolol, debe emplearse la dosis de 5 mg de MAXALT. (Véase sección 4.2).
+       En un estudio de interacción farmacológica, nadolol y metoprolol no alteraron las
+concentraciones plasmáticas de rizatriptán.
+       Inhibidores selectivos de la recaptación de serotonina (ISRS)/ Inhibidores de la recaptación
+de serotonina y noradrenalina (IRSN) y síndrome sertoninérgico: Ha habido
+comunicaciones describiendo pacientes con síntomas compatibles con síndrome
+sertoninérgico (incluyendo estado mental alterado, inestabilidad autonómica y anomalías
+neuromusculares) tras el tratamiento de triptanos con inhibidores selectivos de la
+recaptación de serotonina (ISRS) o inhibidores de la recaptación de serotonina y
+noradrenalina (IRSN).
+       Los estudios in vitro indican que rizatriptán inhibe la enzima citocromo P450 2D6 (CYP
+2D6). No se dispone de datos de interacción clínica. Debe considerarse la posibilidad de
+interacción cuando se administra rizatriptán a pacientes en tratamiento con sustratos de la
+CYP 2D6.
+ 4.6   Embarazo y lactancia
+       Uso durante el embarazo
+       No se ha establecido la seguridad del rizatriptán para su uso durante el embarazo. Los
+estudios realizados en animales no indican efectos nocivos con dosis superiores a las
+terapéuticas en el desarrollo del embrión o el feto, ni en el curso de la gestación, el parto y
+el desarrollo posnatal.
+       Como los estudios de reproducción y desarrollo animal no siempre predicen la respuesta
+humana, MAXALT sólo deberá usarse durante el embarazo cuando sea claramente
+necesario.
+       Uso durante la lactancia
+       Los estudios en ratas indicaron un paso muy alto de rizatriptán a la leche. Se observaron
+disminuciones transitorias muy leves en el peso corporal de las crías antes del destete sólo
+cuando la exposición sistémica de la madre era bastante superior al nivel de exposición
+máxima para humanos. No hay datos en el hombre.
+       Por tanto, deberá tenerse cuidado al administrar rizatriptán a mujeres que estén criando al
+pecho. La exposición del lactante debe reducirse al mínimo, evitando la lactación durante
+las 24 horas siguientes al tratamiento.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+       La migraña o el tratamiento con MAXALT pueden producir somnolencia en algunos
+pacientes. Se ha comunicado también mareo en algunos enfermos tratados con MAXALT.
+Por tanto, los pacientes deben valorar su capacidad para realizar tareas complejas durante
+las crisis de migraña y tras la administración de MAXALT.
+ 4.8   Reacciones adversas
+       MAXALT se valoró hasta un año en más de 3.600 pacientes en estudios clínicos
+controlados. Los efectos adversos más frecuentes evaluados en estudios clínicos fueron
+mareo, somnolencia y astenia/fatiga. Los efectos adversos adicionales evaluados en estudios
+clínicos y comunicados en la experiencia tras la comercialización incluyen:
+       [Frecuentes (>1/100, <1/10), Poco frecuentes (>1/1.000, <1/100) y Raros (>1/10.000,
+<1/1.000)]
+       Trastornos psiqiátricos:
+Poco frecuentes: desorientación, insomnio, nerviosismo
+       Trastornos del sistema nervioso:
+Frecuentes: parestesia, cefalea, hipoestesia, disminución de la agudeza mental, temblor.
+Poco frecuentes: ataxia, , vértigo.
+Raros: síncope, disgeusia/mal sabor, síndrome sertoninérgico.
+       Trastornos oculares:
+Poco frecuentes: visión borrosa.
+       Trastornos cardíacos:
+Frecuentes: palpitaciones, taquicardia.
+Raros: isquemia o infarto de miocardio, accidente cerebrovascular. La mayoría de estas
+reacciones adversas se han comunicado en pacientes con factores de riesgo que predisponen
+a la arteriopatía coronaria.
+       Trastornos vasculares:
+Frecuentes: rubor/sofocos.
+Poco frecuentes: hipertensión.
+       Trastornos respiratorios, torácicos y mediastínicos:
+Frecuentes: molestia faríngea, disnea.
+Raros: sibilancias.
+       Trastornos gastrointestinaless:
+Frecuentes: nauseas, boca seca, vómitos, diarrea.
+Poco frecuentes: sed, dispepsia.
+       Trastornos de la piel y del tejido subcutáneo:
+Frecuentes: rubor, sudor.
+Poco frecuentes: prurito, urticaria.
+Raros: angioedema (p. ej., edema facial, hinchazón de la lengua, edema faríngeo), erupción
+cutánea, necrólisis epidérmica tóxica (para el angioedema véase también la sección 4.4).
+       Trastornos musculoesqueléticos y del tejido conjuntivo:
+Frecuentes: pesadez regional.
+Poco frecuentes: dolor de cuello, tensión regional, rigidez, debilidad muscular.
+Raros: dolor facial.
+Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes: dolor en el abdomen o en el pecho.
+ 4.9   Sobredosis
+       Rizatriptán a la dosis de 40 mg (administrado bien como dosis única en comprimidos o en
+dos dosis con intervalos de 2 horas entre dosis) generalmente se toleró bien en más de 300
+pacientes; los efectos adversos relacionados con el fármaco más frecuentes fueron mareo y
+somnolencia.
+       En un estudio de farmacología clínica en el que se administró rizatriptán a 12 sujetos a dosis
+acumuladas totales de 80 mg (administradas en cuatro horas), dos presentaron síncope y/o
+bradicardia. Un sujeto, una mujer de 29 años de edad, tuvo vómitos, bradicardia y mareo,
+que empezaron tres horas después de recibir un total de 80 mg de rizatriptán (administrados
+en dos horas). Una hora después del comienzo de los otros síntomas se observó un bloqueo
+AV de tercer grado que respondió a atropina. El segundo sujeto, un varón de 25 años,
+presentó mareo transitorio, síncope, incontinencia y una pausa sistólica de 5 segundos (en el
+monitor ECG) inmediatamente después de una punción venosa dolorosa. La punción venosa
+se realizó dos horas después de que el sujeto recibiera un total de 80 mg de rizatriptán
+(administrado en cuatro horas).
+       Además, sobre la base de la farmacología de rizatriptán, después de la sobredosis puede
+aparecer hipertensión u otros síntomas cardiovasculares más graves. En pacientes
+sospechosos de haber recibido una sobredosis de MAXALT debe pensarse en la
+descontaminación gastrointestinal (p. ej. lavado gástrico seguido de carbón activado). Debe
+mantenerse un control clínico y electrocardiográfico al menos 12 horas aun cuando no se
+observen síntomas clínicos.
+       Los efectos de la hemodiálisis o de la diálisis peritoneal sobre las concentraciones séricas de
+rizatriptán son desconocidos.
+ "
+5.    PROPIEDADES FARMACOLOGICAS
+	5.1   Propiedades farmacodinámicas
+       Mecanismo de acción: Agonistas serotoninérgicos selectivos de 5-HT1B/1D
+       Grupo farmacoterapéutico: Código ATC: N02C C04
+       Rizatriptán se une selectivamente con una afinidad elevada a los receptores 5-HT1B y 5-
+HT1D y posee un efecto o actividad farmacológica escasa o nula en los receptores 5-HT2, 5-
+HT3; alfa1, alfa2 y beta adrenérgicos; dopaminérgicos D1 y D2; histamínicos H1;
+muscarínicos; y benzodiacepínicos.
+       La actividad terapéutica de rizatriptán en el tratamiento de la cefalea migrañosa podría
+atribuirse a sus efectos agonistas en los receptores 5-HT1B y 5-HT1D de los vasos sanguíneos
+intracraneales extracerebrales, que se cree se dilatan durante las crisis, y de los nervios
+sensoriales trigeminales que los inervan. La activación de estos receptores 5-HT1B y 5-HT1D
+puede causar la contracción de los vasos sanguíneos intracraneales que producen el dolor y
+la inhibición de la liberación de neuropéptidos, que produce una disminución de la
+inflamación en los tejidos sensoriales y una reducción de la transmisión de la señal dolorosa
+trigeminal central.
+       Efectos farmacodinámicos
+       La eficacia de MAXALT comprimidos en el tratamiento agudo de las crisis de migraña se
+estableció en cuatro estudios multicéntricos, controlados con placebo, que incluían más de
+2.000 enfermos tratados con 5 ó 10 mg de MAXALT hasta durante un año. El alivio de la
+cefalea se produjo a los 30 minutos después de la administración y los índices de respuesta
+(es decir, reducción de la cefalea moderada a intensa a dolor nulo o leve) dos horas después
+del tratamiento fueron del 67-77 % con el comprimido de 10 mg, del 60-63 % con el
+comprimido de 5 mg y del 23-40 % con el placebo. Aunque los pacientes que no
+respondieron al tratamiento inicial con MAXALT no fueron tratados de nuevo para la
+misma crisis, todavía era probable que respondieran al tratamiento de una crisis posterior.
+MAXALT redujo la incapacidad funcional y alivió las náuseas, fotofobia y fonofobia
+asociadas con las crisis de migraña.
+       MAXALT es eficaz en el tratamiento de la migraña asociada con la menstruación, p. ej. la
+migraña que se produce dentro de los 3 días antes o después del comienzo de la
+menstruación.
+ 5.2   Propiedades farmacocinéticas
+       Absorción
+       Después de la administración oral, rizatriptán se absorbe rápida y completamente. La
+biodisponibilidad oral media del comprimido es aproximadamente del 40-45 % y las
+concentraciones plasmáticas máximas medias (Cmax) se alcanzan aproximadamente en 1-1,5
+horas (Tmax). La administración de un comprimido oral con un desayuno rico en grasas no
+tuvo efectos sobre el grado de absorción de rizatriptán, si bien la absorción se retrasó
+aproximadamente 1 hora.
+       Efectos de los alimentos: No se ha estudiado el efecto de los alimentos sobre la absorción
+de rizatriptán del liofilizado oral. Para los comprimidos de rizatriptán, el Tmáx se retrasa en
+aproximadamente 1 hora cuando los comprimidos se administran con comida. Puede
+producirse un retraso mayor en la absorción de rizatriptán cuando el liofilizado oral se
+administra después de las comidas. (Véase sección 4.2).
+       Distribución
+       Rizatriptán se une mínimamente a las proteínas plasmáticas (14 %). El volumen de
+distribución es aproximadamente de 140 litros en los varones y de 110 litros en las mujeres.
+       Biotransformación
+       El camino principal del metabolismo de rizatriptán es por desaminación oxidativa por la
+monoaminooxidasa-A (MAO-A) al metabolito ácido indolacético, que es
+farmacológicamente inactivo. En menor grado se forma el N-monodesmetil-rizatriptán, un
+metabolito con actividad similar a la del compuesto original en los receptores 5-HT1B/1D,
+pero no contribuye significativamente a la actividad farmacodinámica de rizatriptán. Las
+concentraciones plasmáticas de N-monodesmetil-rizatriptán son, aproximadamente, el 14 %
+de las del compuesto original y se elimina a velocidad similar. Otros metabolitos menores
+son el N-óxido, el compuesto 6-hidroxi y el conjugado sulfato del metabolito 6-hidroxi.
+Ninguno de estos metabolitos menores es farmacológicamente activo. Después de la
+administración oral de rizatriptán marcado con 14C, rizatriptán justifica aproximadamente el
+17 % de la radiactividad circulante en el plasma.
+ Eliminación
+ Después de la administración intravenosa, el AUC en el varón aumenta proporcionalmente
+y en la mujer casi proporcionalmente con la dosis en un intervalo posológico de 10-60
+µg/kg. En administración oral, el AUC aumenta casi proporcionalmente con la dosis dentro
+de un intervalo posológico de 2,5-10 mg. La semivida plasmática de rizatriptán en varones
+y mujeres es de 2-3 horas, por término medio. El aclaramiento plasmático de rizatriptán es
+de 1.000-1.500 mL/min de media en el hombre y aproximadamente de 900-1.100 mL/min
+en la mujer; aproximadamente el 20-30 % de ello es aclaramiento renal. Después de una
+dosis oral de rizatriptán marcado con 14C, aproximadamente el 80 % de la radiactividad se
+excreta por la orina y el 10 % de la dosis por las heces. Esto demuestra que los metabolitos
+se excretan principalmente por los riñones.
+ De forma compatible con este metabolismo de primer paso, aproximadamente el 14 % de
+una dosis oral se excreta por la orina en forma de rizatriptán sin modificar, mientras que el
+51 % se excreta como metabolito ácido indolacético. No más del 1 % se excreta por la orina
+como metabolito activo N-monodesmetilo.
+ Si rizatriptán se administra según el plan de dosis máximas, no hay acumulación plasmática
+del fármaco de un día para otro.
+ Características de los pacientes
+ Pacientes con una crisis de migraña: La crisis de migraña no modifica la farmacocinética
+de rizatriptán.
+ Sexo: El AUC de rizatriptán (10 mg por vía oral) fue aproximadamente un 25 % más baja
+en varones que en mujeres, la Cmax fue el 11 % inferior y la Tmax se alcanzó
+aproximadamente al mismo tiempo. Esta diferencia farmacocinética aparente careció de
+significado clínico.
+ Edad avanzada: Las concentraciones plasmáticas de rizatriptán observados en individuos
+de edad avanzada (límites de edad 65 a 77 años) después de la administración de
+comprimidos fueron similares a las observadas en adultos jóvenes.
+ Insuficiencia hepática (puntuación Child-Pugh 5-6): Después de la administración oral de
+comprimidos en pacientes con insuficiencia hepática debida a una cirrosis alcohólica
+hepática leve, las concentraciones plasmáticas de rizatriptán fueron similares a las
+observadas en varones y mujeres jóvenes. En pacientes con afectación hepática moderada
+(puntuación de Child-Pugh 7) se observó un aumento significativo del AUC (50 %) y de la
+Cmax (25 %). En los pacientes con puntuación de Child-Pugh > 7 (afectación hepática grave)
+no se hicieron estudios de farmacocinética.
+ Insuficiencia renal: En enfermos con insuficiencia renal (aclaramiento de creatinina 10-
+60 mL/min/1,73 m2), el AUC de rizatriptán después de la administración de comprimidos
+no era significativamente distinta de la registrada en los sujetos sanos. En pacientes en
+hemodiálisis (aclaramiento de creatinina < 10 mL/min/1,73 m2), el AUC de rizatriptán fue
+aproximadamente 44 % mayor que la de los pacientes con función renal normal. La
+concentración plasmática máxima de rizatriptán en los pacientes con todos los grados de
+afectación renal fue similar a la de los sujetos sanos.
+ 5.3   Datos preclínicos de seguridad
+       Los datos preclínicos indican la ausencia de riesgos para el ser humano basándose en
+estudios convencionales de toxicidad por administración reiterada, genotoxicidad, potencial
+carcinogénico, toxicidad para la reproducción y el desarrollo, farmacología de seguridad,
+farmacocinética y metabolismo.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+       Lactosa monohidrato, celulosa microcristalina (E460a), almidón de maíz pregelatinizado,
+óxido de hierro rojo (E 172) y estearato de magnesio (E572).
+ 6.2   Incompatibilidades
+       No procede.
+6.3   Período de validez
+       3 años.
+ 6.4   Precauciones especiales de conservación
+       No conservar a temperaturas superiores a 30 °C.
+ 6.5   Naturaleza y contenido del recipiente
+       Blister de aluminio en envases de 2, 3, 6, 12 o 18 comprimidos.
+       No todos los tamaños de envase pueden estar comercializados.
+ 6.6   Precauciones especiales de eliminación
+ La eliminación del medicamentono utilizado y de todos los materiales que hayan estado en
+contacto con él, se realizará de acuerdo con las normativas locales.7. TITULAR DE
+LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+       MERCK SHARP & DOHME DE ESPAÑA, S.A.
+C/ Josefa Valcárcel, 38
+28027 MADRID
+ 
+8.    NUMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	      MAXALT 10 mg comprimidos: 62.289
+                                                                                                     MINISTERIO
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+       MAXALT 10 mg comprimidos: 12 de febrero de 1998
+ 10.   FECHA DE LA REVISION DEL TEXTO
+ Junio 2007
+
+	 
+      MAXALT 10 mg comprimidos,  2 COMPRIMIDOS
+         Prospectos de medicamentos.

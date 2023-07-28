@@ -1,0 +1,881 @@
+KEPPRA 500MG 100 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                             1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Keppra 250 mg comprimidos recubiertos con película.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 250 mg de levetiracetam.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido recubierto con película.
+Azul, oblongo, ranurado y con el código ""ucb"" y ""250"" grabado en una cara.
+ 
+
+"
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Keppra está indicado como monoterapia en el tratamiento de las crisis de inicio parcial con o sin
+generalización secundaria en pacientes mayores de 16 años con un nuevo diagnóstico de epilepsia.
+ Keppra está indicado como terapia concomitante
+·    en el tratamiento de las crisis de inicio parcial con o sin generalización secundaria en adultos y
+en niños mayores de 4 años con epilepsia.
+·    en el tratamiento de las crisis mioclónicas en adultos y adolescentes mayores de 12 años con
+Epilepsia Mioclónica Juvenil.
+·    en el tratamiento de las crisis tónico-clónicas generalizadas primarias en adultos y adolescentes
+mayores de 12 años con Epilepsia Generalizada Idiopática.
+ 4.2   Posología y forma de administración
+ Los comprimidos recubiertos con película se administran por vía oral, con una cantidad suficiente de
+líquido y pueden administrarse con o sin alimentos. La posología diaria se divide en dosis iguales
+repartidas en dos tomas al día.
+ ·    Monoterapia
+Adultos y adolescentes mayores de 16 años
+ La dosis inicial recomendada es de 250 mg dos veces al día, la cual debe aumentarse hasta la dosis
+terapéutica inicial de 500 mg dos veces al día tras dos semanas de tratamiento. La dosis puede
+aumentarse en función de la respuesta clínica con 250 mg dos veces al día cada 2 semanas. La dosis
+máxima es de 1.500 mg dos veces al día.
+ ·    Terapia concomitante
+Uso en adultos (18 años) y adolescentes (de 12 a 17 años) con un peso de 50 kg o superior
+ La dosis terapéutica inicial es de 500 mg dos veces al día. Esta dosis se puede instaurar desde el primer
+día de tratamiento.
+Dependiendo de la respuesta clínica y de la tolerabilidad, la dosis diaria se puede incrementar hasta
+1.500 mg dos veces al día. La modificación de la dosis se puede realizar con aumentos o reducciones
+de 500 mg dos veces al día cada dos a cuatro semanas.
+ Uso en ancianos (65 años y mayores)
+                                                    2
+Se recomienda ajustar la dosis en los pacientes ancianos con función renal comprometida (ver ""Uso en
+pacientes con insuficiencia renal"").
+ Uso en niños entre los 4 y los 11 años de edad y adolescentes (de 12 a 17 años) con un peso inferior a
+50 kg
+ La dosis terapéutica inicial es de 10 mg/kg dos veces al día.
+En función de la respuesta clínica y de la tolerabilidad, se puede aumentar la dosis hasta los 30 mg/kg
+dos veces al día. Los cambios de dosis no deberían exceder de aumentos/reducciones de 10 mg/kg dos
+veces al día cada dos semanas. Se debe utilizar la menor dosis eficaz.
+La dosificación en niños con un peso de 50 kg o superior es la misma que en adultos.
+El médico debe prescribir la forma farmacéutica y concentración más apropiada de acuerdo con el
+peso y la dosis.
+ Dosificación recomendada para niños y adolescentes:
+ Peso                                 Dosis inicial:                       Dosis máxima:
+ 15 kg (1)                           150 mg dos veces al día           450 mg dos veces al día
+20 kg (1)                           200 mg dos veces al día           600 mg dos veces al día
+25 kg                               250 mg dos veces al día           750 mg dos veces al día
+A partir de 50 kg (2)               500 mg dos veces al día           1500 mg dos veces al día
+(1)
+Niños con un peso de 20 kg o inferior deberían preferiblemente iniciar el tratamiento con Keppra
+100 mg/ml solución oral.
+(2)
+La dosificación en niños y adolescentes con un peso de 50 kg o superior es la misma que en adultos.
+ Uso en niños de edad inferior a los 4 años
+ Keppra no está recomendado para uso en niños menores de 4 años debido a la escasez de datos sobre
+seguridad y eficacia (ver apartado 5.2).
+ Uso en pacientes con insuficiencia renal
+ La dosis diaria se debe individualizar de acuerdo con la función renal.
+ La tabla siguiente indica como debe ajustarse la dosificación en pacientes adultos. Para utilizar esta
+tabla de dosificación se necesita una estimación del aclaramiento de creatinina (CLcr), en ml/min, del
+paciente. El CLcr, en ml/min, se puede estimar a partir de la determinación de la creatinina sérica
+(mg/dl) utilizando la fórmula siguiente:
+                    [140-edad(años)] x peso (kg)
+CLcr (ml/min) = ------------------------------------- (x 0,85 para mujeres)
+72 x creatinina sérica (mg/dl)
+ Entonces se ajusta el CLcr para el área de la superficie corporal (ASC) como sigue:
+                                  CLcr (ml/min)
+CLcr (ml/min/1,73 m2) = ----------------------------------- (x 0,85 para mujeres)
+ Ajuste de la dosificación en pacientes adultos con insuficiencia renal
+                                                                     Dosificación y frecuencia
+Grupo                                Aclaramiento de creatinina
+Normal                               > 80                        500 a 1.500 mg dos veces al día
+Leve                                 50-79                       500 a 1.000 mg dos veces al día
+Moderada                             30-49                       250 a 750 mg dos veces al día
+Grave                                < 30                        250 a 500 mg dos veces al día
+Pacientes con enfermedad renal       -                           500 a 1.000 mg una vez al día (2)
+terminal bajo diálisis (1)
+(1) Se recomienda una dosis de carga de 750 mg en el primer día de tratamiento con levetiracetam.
+(2) Después de la diálisis se recomienda una dosis suplementaria de 250 a 500 mg.
+ En niños con insuficiencia renal, la dosis de levetiracetam debe ser ajustada en base a la función renal,
+puesto que el aclaramiento de levetiracetam está relacionado con la función renal. Esta recomendación
+se basa en un estudio en pacientes adultos con insuficiencia renal.
+ Uso en pacientes con insuficiencia hepática
+ No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve a moderada. En pacientes
+con insuficiencia hepática grave, el aclaramiento de creatinina puede subestimar el grado de
+insuficiencia renal. Por lo tanto, se recomienda una reducción del 50 % de la dosis de mantenimiento
+diario cuando el aclaramiento de creatinina es < 70 ml/min.
+ 4.3     Contraindicaciones
+ Hipersensibilidad al levetiracetam, a otros derivados de la pirrolidona o a alguno de los excipientes.
+ 4.4     Advertencias y precauciones especiales de empleo
+ De acuerdo con la práctica clínica habitual, si se ha de suprimir la medicación con Keppra se
+recomienda retirarlo de forma gradual (p. ej., en adultos, reducciones de 500 mg dos veces al día cada
+dos a cuatro semanas; en niños, las reducciones de dosis no deberían exceder de los 10 mg/kg dos
+veces al día, cada dos semanas).
+ Los datos disponibles en niños no sugieren ningún efecto en el crecimiento ni en la pubertad. No
+obstante, siguen sin conocerse efectos a largo plazo sobre el aprendizaje, fertilidad, inteligencia,
+crecimiento, función endocrina y pubertad en niños.
+Cuando se utilizó Keppra en el tratamiento de las crisis tónico-clónicas generalizadas primarias en
+adultos y adolescentes con Epilepsia Generalizada Idiopática, no hubo ningún efecto en la frecuencia
+de ausencias.
+ Se observó un incremento de la frecuencia de las crisis de más del 25 % en un 14% de los pacientes
+adultos y pediátricos con crisis de inicio parcial tratados con levetiracetam, mientras que se observó en
+un 26% y en un 21% de los pacientes adultos y pediátricos tratados con placebo respectivamente.
+ La administración de Keppra a pacientes con insuficiencia renal puede requerir el ajuste de la dosis.
+En pacientes con insuficiencia hepática grave se recomienda valorar la función renal antes de la
+selección de la dosis (ver la sección 4.2 ).
+ Se han notificado casos de suicidios, intentos de suicidio y pensamientos suicidas en pacientes tratados
+con levetiracetam. Se debe aconsejar a los pacientes que informen inmediatamente a su médico ante
+cualquier síntoma de depresión y/o pensamientos suicidas.
+ 4.5     Interacción con con otros medicamentos y otras formas de interacción
+Los datos de los estudios clínicos, realizados en adultos antes de la comercialización, indican que
+Keppra no influye en las concentraciones séricas de los medicamentos antiepilépticos conocidos
+(fenitoína, carbamazepina, ácido valproico, fenobarbital, lamotrigina, gabapentina y primidona) y que
+estos medicamentos antiepilépticos no influyen en la farmacocinética de Keppra.
+ Como en adultos, no hay una evidencia clara de interacciones farmacológicas clínicamente
+significativas en pacientes pediátricos que hayan tomado hasta 60 mg/kg/día de levetiracetam.
+Una evaluación retrospectiva de las interacciones farmacocinéticas en niños y adolescentes con
+epilepsia (de 4 a 17 años) confirmó que la terapia coadyuvante con levetiracetam administrado por vía
+oral, no tuvo influencia en las concentraciones séricas en estado de equilibrio de carbamazepina y
+valproato. Sin embargo los datos sugieren un incremento del aclaramiento de levetiracetam del 22% en
+niños que toman medicamentos antiepilépticos que sean inductores enzimáticos. No es necesario
+ajuste de dosis.
+ Se ha comprobado que probenecid (500 mg cuatro veces al día), agente bloqueante de la secreción
+tubular renal, inhibe el aclaramiento renal del metabolito primario pero no el de levetiracetam. Con
+todo, los niveles de este metabolito se mantienen bajos. Es de esperar que otros fármacos que se
+excretan por secreción tubular activa puedan reducir también el aclaramiento renal del metabolito. No
+se ha estudiado el efecto del levetiracetam sobre el probenecid y no se conoce el efecto de
+levetiracetam sobre otros fármacos secretados activamente, p. ej. AINES, sulfonamidas y metotrexato.
+ Dosis diarias de 1.000 mg de levetiracetam no influenciaron la farmacocinética de los anticonceptivos
+orales (etinilestradiol y levonorgestrel); no se modificaron los parámetros endocrinos (hormona
+luteinizante y progesterona). Dosis diarias de 2.000 mg de levetiracetam no influenciaron la
+farmacocinética de la digoxina y de la warfarina; no se modificó el tiempo de protrombina. La
+coadministración con digoxina, anticonceptivos orales y warfarina no tuvo influencia sobre la
+farmacocinética del levetiracetam.
+ No se dispone de datos sobre la influencia de los antiácidos sobre la absorción del levetiracetam.
+ El grado de absorción del levetiracetam no se alteró por los alimentos, aunque la velocidad de
+absorción se redujo ligeramente.
+No se dispone de datos sobre la interacción del levetiracetam con alcohol.
+ 4.6   Embarazo y lactancia
+ No existen datos suficientes sobre la utilización de levetiracetam en mujeres embarazadas. Los
+estudios en animales han mostrado toxicidad reproductiva (ver apartado 5.3). Se desconoce el riesgo en
+seres humanos.
+Keppra no debe utilizarse durante el embarazo a menos que sea estrictamente necesario. La retirada de
+los tratamientos antiepilépticos puede dar lugar a una exacerbación de la enfermedad, que podría
+perjudicar a la madre y al feto.
+ Levetiracetam se excreta en la leche materna humana, por lo que no se recomienda la lactancia natural.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+Debido a las posibles diferencias de sensibilidad individual algunos pacientes pueden experimentar
+somnolencia u otros síntomas relacionados con el sistema nervioso central, especialmente al inicio del
+tratamiento o después de un incremento de la dosis. Por tanto, se recomienda precaución a los
+pacientes cuando realicen tareas que requieran habilidad específica, p. ej. conducir vehículos o utilizar
+maquinaria. Se aconseja a los pacientes no conducir o utilizar maquinaria hasta que se compruebe que
+su capacidad para realizar estas actividades no queda afectada.
+ 4.8   Reacciones adversas
+                                                    5
+Los datos de seguridad agrupados de los estudios clínicos realizados con formulaciones orales de
+Keppra en pacientes adultos con crisis de inicio parcial mostraron que el 46,4 % de los pacientes en el
+grupo Keppra y el 42,2 % de los pacientes en el grupo placebo experimentaron reacciones adversas. El
+2,4 % de los pacientes en el grupo Keppra y el 2,0 % de los pacientes en el grupo placebo
+experimentaron reacciones adversas. Las reacciones adversas descritas con más frecuencia fueron
+somnolencia, astenia y mareos. En el análisis de los datos de seguridad agrupados no había una
+relación clara dependiente de la dosis, pero la incidencia y gravedad de las reacciones adversas
+relacionadas con el sistema nervioso central disminuyeron con el tiempo.
+ En monoterapia el 49,8% de los sujetos experimentaron al menos una reacción adversa relacionada
+con el fármaco. Las descritas con más frecuencia fueron fatiga y somnolencia.
+ Un estudio realizado en pacientes pediátricos (de 4 a 16 años) con crisis de inicio parcial mostró que el
+55,4% de los pacientes en el grupo Keppra y el 40,2% de los pacientes en el grupo placebo
+experimentaron reacciones adversas. El 0,0% de los pacientes en el grupo Keppra y el 1,0% de los
+pacientes en el grupo placebo experimentaron reacciones adversas graves. Las reacciones adversas
+descritas con más frecuencia en la población pediátrica fueron somnolencia, hostilidad, nerviosismo,
+labilidad emocional, agitación, anorexia, astenia y cefalea. Los resultados de seguridad en pacientes
+pediátricos fueron consistentes con el perfil de seguridad de levetiracetam en adultos excepto por las
+reacciones adversas psiquiátricas y del comportamiento, las cuales fueron más comunes en niños que
+en adultos (38,6% versus 18,6%). Sin embargo, el riesgo relativo fue similar en niños y en adultos.
+ Un estudio realizado en adultos y adolescentes (de 12 a 65 años) con crisis mioclónicas mostró que el
+33,3% de los pacientes en el grupo Keppra y el 30,0% de los pacientes en el grupo placebo
+experimentaron reacciones adversas que se consideraron relacionadas con el tratamiento. Las
+reacciones adversas más frecuentemente descritas fueron cefalea y somnolencia. La incidencia de
+reacciones adversas en pacientes con crisis mioclónicas fue inferior a la incidencia en pacientes
+adultos con crisis de inicio parcial (33,3% versus 46,4%).
+ Un ensayo realizado en adultos y niños (de 4 a 65 años) con epilepsia generalizada idiopática con
+crisis tónico-clónicas generalizadas primarias mostró que el 39,2% de los pacientes en el grupo tratado
+con Keppra y el 29,8% de los pacientes en el grupo tratado con placebo experimentaron efectos
+indeseables, que se consideraron relacionados con el tratamiento. El efecto indeseable más frecuente
+fue fatiga.
+ A continuación se incluye una tabla de las reacciones adversas observadas en los ensayos clínicos (en
+adultos y niños) o en la experiencia post-comercialización por Sistema Órgano Clase y por frecuencia.
+En los ensayos clínicos la frecuencia se define de la siguiente manera: muy frecuentes (1/10);
+frecuentes ( 1/100, <1/10); poco frecuentes ( 1/1.000, < 1/100); raras ( 1/10.000, < 1/1.000);
+muy raras (< 1/10.000), incluyendo notificaciones aisladas. Los datos sobre la experiencia post-
+comercialización son insuficientes para apoyar una estimación de su incidencia en la población a
+tratar.
+ - Trastornos generales y alteraciones en el lugar de administración
+Muy frecuentes: astenia/fatiga
+ - Trastornos del sistema nervioso
+Muy frecuentes: somnolencia
+Frecuentes: amnesia, ataxia, convulsión, mareo, cefalea, hipercinesia, temblor, trastorno del equilibrio,
+alteración de la atención, deterioro de la memoria
+Experiencia post-comercialización: parestesia
+ - Trastornos psiquiátricos
+Frecuentes: agitación, depresión, labilidad emocional/cambios de humor, hostilidad/agresividad,
+insomnio, nerviosismo/irritabilidad, trastornos de personalidad, pensamiento anormal
+ Experiencia post-comercialización: comportamiento anormal, cólera, ansiedad, confusión,
+alucinaciones, alteraciones psicóticas, suicidio, tentativa de suicidio e ideación suicida
+ - Trastornos gastrointestinales
+Frecuentes: dolor abdominal, diarrea, dispepsia, náuseas, vómitos
+Expericiencia post-comercialización: pancreatitis
+ - Trastornos hepatobiliares
+Experiencia post-comercialización: fallo hepático, hepatitis, pruebas anormales de la función hepática
+ - Trastornos del metabolismo y de la nutrición
+Frecuentes: anorexia, aumento de peso
+El riesgo de anorexia es mayor cuando topiramato se administra junto con levetiracetam.
+Experiencia post-comercialización: pérdida de peso
+ - Trastornos del oído y del laberinto
+Frecuentes: vértigo
+ - Trastornos oculares
+Frecuentes: diplopía, visión borrosa
+ - Trastornos musculoesqueléticos y del tejido conjuntivo
+Frecuentes: mialgia
+ - Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos
+Frecuentes: lesión accidental
+ - Infecciones e infestaciones
+Frecuentes: infección, nasofaringitis
+ - Trastornos respiratorios, torácicos y mediastínicos
+Frecuentes: incremento de tos
+ - Trastornos de la piel y del tejido subcutáneo
+Frecuentes: rash, eczema, prurito
+Experiencia post-comercialización: alopecia: en varios casos, se observó una recuperación al
+suspender el tratamiento con Keppra.
+ - Trastornos de la sangre y del sistema linfático
+Frecuentes: trombocitopenia
+Experiencia post-comercialización: leucopenia, neutropenia, pancitopenia (con supresión de la médula
+ósea en algunos casos)
+ 4.9   Sobredosis
+ Síntomas
+ Se ha observado somnolencia, agitación, agresión, nivel de consciencia disminuido, depresión
+respiratoria y coma con sobredosis de Keppra.
+ Tratamiento de la sobredosificación
+ En la sobredosis aguda puede vaciarse el contenido del estómago por lavado gástrico o por inducción
+de la emesis. No hay un antídoto específico para levetiracetam. El tratamiento de la sobredosificación
+será sintomático y puede incluir hemodiálisis. La eficacia de la eliminación por diálisis es del 60 %
+para el levetiracetam y del 74 % para el metabolito primario.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antiepilépticos, código ATC: N03AX14.
+El principio activo, levetiracetam, es un derivado de la pirrolidona (S-enantiómero de -etil-2-oxo-1-
+pirrolidina acetamida), no relacionado químicamente con otros principios activos antiepilépticos
+existentes.
+ Mecanismo de acción
+ El mecanismo de acción de levetiracetam está todavía por dilucidar, pero parece ser diferente de los
+mecanismos de acción de los antiepilépticos actuales. Los estudios in vivo e in vitro sugieren que
+levetiracetam no altera la neurotransmisión normal y las características básicas de la célula.
+Estudios in vitro muestran que levetiracetam afecta los niveles intraneuronales de Ca2+ mediante
+inhibición parcial de las corrientes de Ca2+ tipo N, y reduciendo la liberación de Ca2+ de la reserva
+intraneuronal. Además, invierte parcialmente la reducción de corrientes dependientes de GABA y
+glicina inducidas por zinc y ß-carbolinas. Por otra parte, estudios in vitro muestran que levetiracetam
+se une a un punto específico en el tejido cerebral de roedor. Este punto de unión específico es la
+proteína 2A de las vesículas sinápticas, el cual parece estar involucrado en la fusión de vesículas y en
+la exocitosis de neurotransmisores. Levetiracetam y sus análogos han mostrado un orden de afinidad
+por la unión a la proteína 2A de las vesículas sinápticas que se correlaciona con la potencia de la
+protección contra los ataques epilépticos en el modelo audiogénico de epilepsia en ratón. Este hallazgo
+sugiere que la interacción entre levetiracetam y la proteína 2A de las vesículas sinápticas parece
+contribuir en el mecanismo de acción del fármaco como antiepiléptico.
+ Efectos farmacodinámicos
+ Levetiracetam induce una protección de la crisis en un amplio rango de modelos animales de epilepsia
+parcial y de generalizada primaria sin efecto pro-convulsivo. El metabolito primario es inactivo.
+En el hombre, la actividad en ambas condiciones de epilepsia, parcial y generalizada (descarga
+epileptiforme/respuesta fotoparoxismal), ha confirmado el amplio espectro del perfil farmacológico de
+levetiracetam.
+ Experiencia clínica
+ Terapia concomitante en el tratamiento de las crisis de inicio parcial con o sin generalización
+secundaria en adultos y niños mayores de 4 años, con epilepsia.
+ En adultos, la eficacia de levetiracetam ha sido demostrada en 3 ensayos doble ciego, controlados con
+placebo a dosis de 1.000 mg, 2.000 mg ó 3.000 mg/día, administrados en dos dosis separadas, con una
+duración de tratamiento de hasta 18 semanas. En un análisis agrupado, el porcentaje de pacientes que
+alcanzó una reducción de al menos el 50%, desde el inicio, en la frecuencia de crisis de inicio parcial
+por semana, a dosis estable (12/14 semanas), fue del 27,7%, 31,6% y 41,3% para los pacientes en
+tratamiento con 1.000, 2.000 ó 3.000 mg de levetiracetam respectivamente y del 12,6% para los
+pacientes tratados con placebo.
+ En pacientes pediátricos (de 4 a 16 años), la eficacia de levetiracetam se demostró en un ensayo doble-
+ciego, controlado con placebo, en el que se incluyeron 198 pacientes y con una duración de
+tratamiento de 14 semanas. En este ensayo, los pacientes recibieron levetiracetam a una dosis fija de
+60 mg/kg/día (administrada dos veces al día).
+El 44,6% de los pacientes tratados con levetiracetam y el 19,6% de los pacientes tratados con placebo
+tuvieron una reducción de al menos el 50% desde el inicio, en la frecuencia de crisis de inicio parcial
+por semana. Con un tratamiento continuado a largo plazo, el 11,4% de los pacientes estuvieron libres
+de crisis durante al menos 6 meses y el 7,2% estuvieron libres de crisis durante al menos 1 año.
+ Monoterapia en el tratamiento de las crisis de inicio parcial con o sin generalización secundaria en
+pacientes mayores de 16 años con epilepsia de nuevo diagnóstico.
+ La eficacia de levetiracetam en monoterapia se demostró en un ensayo doble-ciego, de grupos
+paralelos, de no inferioridad frente a carbamazepina de liberación controlada en 576 pacientes a partir
+de los 16 años con epilepsia de nuevo o reciente diagnóstico. Los pacientes tenían que presentar crisis
+parciales no provocadas o únicamente crisis tónico-clónicas generalizadas. Los pacientes fueron
+aleatorizados a carbamazepina de liberación controlada de 400 - 1.200 mg/día o a levetiracetam de
+1.000 ­ 3.000 mg/día, y la duración del tratamiento fue de hasta 121 semanas en función de la
+respuesta.
+El 73,0% de los pacientes tratados con levetiracetam y el 72,8% de los pacientes tratados con
+carbamazepina de liberación controlada alcanzaron un periodo de 6 meses libres de crisis; la diferencia
+absoluta ajustada entre los tratamientos fue de 0,2% (95% IC: -7,8 8,2). Más de la mitad de los
+pacientes permanecieron libres de crisis durante 12 meses (56,6% y 58,5% de los sujetos con
+levetiracetam y con carbamazepina de liberación controlada respectivamente).
+ En un estudio que refleja la práctica clínica, se pudo retirar la medicación antiepiléptica concomitante
+en un número limitado de pacientes que habían respondido a la terapia concomitante con levetiracetam
+(36 de 69 pacientes adultos).
+ Terapia concomitante en el tratamiento de las crisis mioclónicas en adultos y en adolescentes
+mayores de 12 años, con Epilepsia Mioclónica Juvenil.
+ La eficacia de levetiracetam se demostró en un ensayo doble-ciego, controlado con placebo de 16
+semanas de duración, en pacientes a partir de los 12 años que sufrían epilepsia generalizada idiopática
+con crisis mioclónicas en diferentes síndromes. La mayoría de los pacientes presentaban epilepsia
+mioclónica juvenil.
+En este estudio, la dosis de levetiracetam fue de 3.000 mg/día repartida en dos dosis. El 58,3% de los
+pacientes tratados con levetiracetam y el 23,3% de los pacientes tratados con placebo, tuvieron una
+reducción de al menos el 50% de días con crisis mioclónicas por semana. Con un tratamiento
+continuado a largo plazo, el 28,6% de los pacientes estuvieron libres de crisis mioclónicas durante al
+menos 6 meses y el 21,0% estuvieron libres de crisis mioclónicas durante al menos 1 año.
+ Terapia concomitante en el tratamiento de las crisis tónico-clónicas generalizadas primarias en
+adultos y adolescentes mayores de 12 años, con Epilepsia Generalizada Idiopática.
+ La eficacia de levetiracetam se demostró en un ensayo doble-ciego de 24 semanas, controlado con
+placebo en el que se incluyeron adultos, adolescentes y un número limitado de niños con Epilepsia
+Generalizada Idiopática con crisis tónico-clónicas generalizadas primarias en diferentes síndromes
+(epilepsia mioclónica juvenil, ausencia juvenil, ausencia infantil o epilepsia con crisis de Gran Mal al
+despertar). En este estudio, la dosis de levetiracetam fue de 3.000 mg/día para adultos y adolescentes o
+de 60 mg/kg/día para niños, administrados en dos dosis separadas.
+El 72,2% de los pacientes tratados con levetiracetam y el 45,2% de los pacientes tratados con placebo
+tuvieron una reducción de al menos el 50% en la frecuencia de crisis tónico-clónicas generalizas
+primarias por semana. Con un tratamiento continuado a largo plazo, el 47,4% de los pacientes
+estuvieron libres de crisis tónico-clónicas durante a menos 6 meses y el 31,5% estuvieron libres de
+crisis tónico-clónicas durante al menos 1 año.
+ 5.2   Propiedades farmacocinéticas
+ Levetiracetam es un compuesto muy soluble y permeable. El perfil farmacocinético es lineal y con
+poca variabilidad intra- e inter-individual. No hay modificación del aclaramiento después de la
+administración repetida. No hay evidencia de variabilidad relevante de género, raza o circadiana. El
+perfil farmacocinético en voluntarios sanos y en pacientes con epilepsia es comparable.
+ Debido a que su absorción es completa y lineal, se pueden predecir los niveles plasmáticos, expresados
+como mg/kg de peso corporal, tras la administración oral de levetiracetam. Por consiguiente, no se
+necesita monitorizar los niveles plasmáticos de levetiracetam.
+ En adultos y niños se ha mostrado una correlación significativa entre las concentraciones en saliva y
+en plasma (tasa de concentraciones saliva/plasma van de 1 a 1,7 para la formulación de comprimidos y
+para la formulación de solución oral tras 4 horas después de la dosis).
+ Adultos y adolescentes
+ Absorción
+ Levetiracetam se absorbe rápidamente después de su administración oral. La biodisponibilidad oral
+absoluta es cercana al 100 %.
+El pico de nivel plasmático (Cmax) se alcanza a las 1,3 horas de su administración. Los niveles
+plasmáticos estables se obtienen a los dos días con la pauta de administración de dos veces al día.
+Los valores normales del pico plasmático (Cmax) después de una dosis simple de 1.000 mg y de una
+dosis repetida de 1.000 mg dos veces al día son del 31 y 43 g/ml respectivamente.
+El grado de absorción es dosis-independiente y no está alterado por los alimentos.
+ Distribución
+ No se dispone de datos de distribución tisular en humanos.
+Ni levetiracetam ni su metabolito primario se unen de forma significativa a las proteínas plasmáticas
+(< 10 %).
+El volumen de distribución del levetiracetam es aproximadamente de 0,5 a 0,7 l/kg, valor cercano al
+volumen total del agua corporal.
+ Biotransformación
+ Levetiracetam no se metaboliza extensamente en humanos. La vía metabólica principal (24 % de la
+dosis) es la hidrólisis enzimática del grupo acetamida. La formación del metabolito primario,
+ucb L057, no está soportada por las isoformas del citocromo P450 hepático. La hidrólisis del grupo
+acetamida fue mesurable en un gran número de tejidos, incluyendo las células sanguíneas. El
+metabolito ucb L057 es farmacológicamente inactivo.
+ Se identificaron también dos metabolitos minoritarios. Uno estaba formado por la hidroxilación del
+anillo de la pirrolidona (1,6 % de la dosis) y el otro por la apertura del anillo de la pirrolidona (0,9 %
+de la dosis).
+Otros compuestos no identificados representaban solamente el 0,6 % de la dosis.
+ No se evidenció interconversión enantiomérica in vivo para levetiracetam o para su metabolito
+primario.
+ Los estudios in vitro han mostrado que levetiracetam y su metabolito principal no inhiben las
+isoformas principales del citocromo P450 hepático humano (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 y
+1A2), la glucuronil transferasa (UGT1A1 y UGT1A6) y la actividad de la epóxido hidroxilasa.
+Además, levetiracetam no afecta la glucuronidación in vitro del ácido valproico.
+En cultivos de hepatocitos humanos, levetiracetam tuvo poco o ningún efecto sobre el CYP1A2,
+SULT1E1 o UGT1A1. Levetiracetam provocó una leve inducción del CYP2B6 y del CYP3A4. Los
+datos de interacciones in vitro e in vivo con anticonceptivos orales, digoxina y warfarina indican que
+no se espera que exista una inducción enzimática significativa in vivo. Por consiguiente, es muy poco
+probable que Keppra interaccione con otras sustancias, o viceversa.
+ Eliminación
+                                                     10
+La vida media plasmática en adultos fue de 7±1 horas y no varió con la dosis, con la vía de
+administración o con la administración repetida. El aclaramiento corporal total medio fue de
+0,96 ml/min/kg.
+ La ruta mayoritaria de excreción fue por vía urinaria, alcanzando una media del 95 % de la dosis
+(aproximadamente un 93 % de la dosis se excretaba dentro de las primeras 48 horas). La excreción por
+vía fecal representaba solamente el 0,3 % de la dosis.
+La excreción urinaria acumulada de levetiracetam y de su metabolito primario durante las primeras 48
+horas alcanzó, respectivamente, el 66 % y el 24 % de la dosis.
+El aclaramiento renal de levetiracetam y de ucb L057 es de 0,6 y de 4,2 ml/min/kg respectivamente, lo
+que indica que levetiracetam se excreta por filtración glomerular con subsiguiente reabsorción tubular
+y que el metabolito primario se excreta también por secreción tubular activa en adición a la filtración
+glomerular. La eliminación de levetiracetam está correlacionada con el aclaramiento de creatinina.
+ Ancianos
+ En la vejez, la vida media se incrementa alrededor de un 40% (10 a 11 horas). Esto está relacionado
+con la disminución de la función renal en esta población (ver apartado 4.2).
+ Niños (de 4 a 12 años)
+ Después de la administración de una dosis oral única (20 mg/kg) a niños epilépticos (de 6 a 12 años),
+la vida media de levetiracetam fue de 6,0 horas. El aclaramiento corporal aparente ajustado al peso fue
+alrededor de un 30 % más alto que en los adultos epilépticos.
+ Tras la administración de dosis orales repetidas (de 20 a 60 mg/kg/día) a niños epilépticos (de 4 a 12
+años), levetiracetam se absorbió rápidamente. El pico de concentración plasmática se observó entre 0,5
+y 1,0 horas después de la administración. Se observaron incrementos lineales y proporcionales a la
+dosis para los picos de concentraciones plasmáticas y el área bajo la curva. La vida media de
+eliminación fue aproximadamente de 5 horas. El aclaramiento corporal aparente fue de 1,1 ml/min/kg.
+ Niños (de 1 mes a 4 años)
+ Tras la administración de dosis únicas (20 mg/kg) de solución oral 100 mg/ml a niños epilépticos (de 1
+mes a 4 años), levetiracetam fue rápidamente absorbido y los picos de concentraciones plasmáticas se
+observaron aproximadamente 1 hora tras la administración. Los resultados farmacocinéticos indicaron
+que la vida media era inferior (5,3 horas) que para adultos (7,2 horas) y el aclaramiento aparente era
+más rápido (1,5 ml/min/kg) que para adultos (0,96 ml/min/kg).
+ Insuficiencia renal
+ El aclaramiento corporal aparente está correlacionado con el aclaramiento de creatinina, tanto para
+levetiracetam como para su metabolito primario. Así, en pacientes con insuficiencia renal moderada o
+grave se recomienda ajustar la dosis diaria de mantenimiento de Keppra en base al aclaramiento de
+creatinina (ver apartado 4.2).
+ En sujetos adultos con patología renal terminal anúrica la vida media fue aproximadamente de 25 y de
+3,1 horas durante los períodos interdiálisis e intradiálisis respectivamente.
+La fracción de levetiracetam eliminada durante una sesión de diálisis normal de 4 horas fue de un
+51 %.
+ Insuficiencia hepática
+ En sujetos con insuficiencia hepática leve o moderada no hubo modificación relevante del
+aclaramiento de levetiracetam. En la mayoría de los sujetos con insuficiencia hepática grave el
+aclaramiento de levetiracetam se redujo en más del 50 % como consecuencia de la insuficiencia renal
+concomitante (ver apartado 4.2).
+                                                   11
+5.3   Datos preclínicos sobre seguridad
+ Los datos de los estudios no clínicos no muestran riesgos especiales para los seres humanos según los
+estudios convencionales de farmacología de seguridad, genotoxicidad y potencial carcinogénico.
+Los efectos adversos no observados en los estudios clínicos, pero vistos en la rata y en menor grado en
+el ratón a niveles de exposición similares a los niveles de exposición humanos y con posible
+repercusión en el uso clínico, fueron modificaciones hepáticas que indican una respuesta adaptativa
+con incremento de peso e hipertrofia centrolobular, infiltración de grasa e incremento de las enzimas
+hepáticas en plasma.
+ En los estudios de toxicidad reproductora en la rata, levetiracetam indujo toxicidad del desarrollo
+(incremento de modificaciones/anomalías menores esqueléticas, retraso del desarrollo, mortalidad
+incrementada de las crías) a niveles de exposición similares o mayores a los niveles de exposición
+humana. En el conejo se presentaron efectos fetales (muerte embriónica, incremento de anomalías
+esqueléticas e incremento de malformaciones) junto con toxicidad maternal. Los niveles de exposición
+sistémica, en el conejo, en los que no se presentaron efectos fueron de 4 a 5 veces los de la exposición
+humana.
+ Estudios en ratas y perros neonatos y jóvenes demostraron que no había efectos adversos en ninguno
+de los parámetros estándar de desarrollo o maduración a dosis hasta 1800 mg/kg/día correspondientes
+a 30 veces la dosis máxima recomendada en humanos.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo:
+croscarmelosa de sodio
+macrogol 6000
+sílice coloidal anhidra
+estearato de magnesio
+ Cubierta pelicular Opadry 85F20694:
+alcohol polivinílico parcialmente hidrolizado
+dióxido de titanio (E171)
+macrogol 3350
+talco
+laca aluminio con carmín de índigo (E132)
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No requiere condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del envase
+ Keppra 250 mg se acondiciona en blisters de Aluminio/PVC y se presenta en envases de 20, 30, 50,
+60, 100 y 200 comprimidos recubiertos con película.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	UCB Pharma SA
+Allée de la Recherche 60
+B-1070 Bruxelles
+Bélgica
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/00/146/001
+EU/1/00/146/002
+EU/1/00/146/003
+EU/1/00/146/004
+EU/1/00/146/005
+EU/1/00/146/029
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 29 de septiembre de 2000
+Fecha de la última revalidación: 08 de julio de 2005
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Keppra 500 mg comprimidos recubiertos con película.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 500 mg de levetiracetam.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido recubierto con película.
+Amarillo, oblongo, ranurado y con el código ""ucb"" y ""500"" grabado en una cara.
+ "
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Keppra está indicado como monoterapia en el tratamiento de las crisis de inicio parcial con o sin
+generalización secundaria en pacientes mayores de 16 años con un nuevo diagnóstico de epilepsia.
+ Keppra está indicado como terapia concomitante
+·    en el tratamiento de las crisis de inicio parcial con o sin generalización secundaria en adultos y
+en niños mayores de 4 años con epilepsia.
+·    en el tratamiento de las crisis mioclónicas en adultos y adolescentes mayores de 12 años con
+Epilepsia Mioclónica Juvenil.
+·    en el tratamiento de las crisis tónico-clónicas generalizadas primarias en adultos y adolescentes
+mayores de 12 años con Epilepsia Generalizada Idiopática.
+ 4.2   Posología y forma de administración
+ Los comprimidos recubiertos con película se administran por vía oral, con una cantidad suficiente de
+líquido y pueden administrarse con o sin alimentos. La posología diaria se divide en dosis iguales
+repartidas en dos tomas al día.
+ ·    Monoterapia
+Adultos y adolescentes mayores de 16 años
+ La dosis inicial recomendada es de 250 mg dos veces al día, la cual debe aumentarse hasta la dosis
+terapéutica inicial de 500 mg dos veces al día tras dos semanas de tratamiento. La dosis puede
+aumentarse en función de la respuesta clínica con 250 mg dos veces al día cada 2 semanas. La dosis
+máxima es de 1.500 mg dos veces al día.
+ ·    Terapia concomitante
+Uso en adultos (18 años) y adolescentes (de 12 a 17 años) con un peso de 50 kg o superior
+ La dosis terapéutica inicial es de 500 mg dos veces al día. Esta dosis se puede instaurar desde el primer
+día de tratamiento.
+Dependiendo de la respuesta clínica y de la tolerabilidad, la dosis diaria se puede incrementar hasta
+1.500 mg dos veces al día. La modificación de la dosis se puede realizar con aumentos o reducciones
+de 500 mg dos veces al día cada dos a cuatro semanas.
+                                                   14
+Uso en ancianos (65 años y mayores)
+ Se recomienda ajustar la dosis en los pacientes ancianos con función renal comprometida (ver ""Uso en
+pacientes con insuficiencia renal"").
+ Uso en niños entre los 4 y los 11 años de edad y adolescentes (de 12 a 17 años) con un peso inferior a
+50 kg
+ La dosis terapéutica inicial es de 10 mg/kg dos veces al día.
+En función de la respuesta clínica y de la tolerabilidad, se puede aumentar la dosis hasta los 30 mg/kg
+dos veces al día. Los cambios de dosis no deberían exceder de aumentos/reducciones de 10 mg/kg dos
+veces al día cada dos semanas. Se debe utilizar la menor dosis eficaz.
+La dosificación en niños con un peso de 50 kg o superior es la misma que en adultos.
+El médico debe prescribir la forma farmacéutica y concentración más apropiada de acuerdo con el
+peso y la dosis.
+ Dosificación recomendada para niños y adolescentes:
+ Peso                                 Dosis inicial:                        Dosis máxima:
+ 15 kg (1)                           150 mg dos veces al día            450 mg dos veces al día
+(1)
+20 kg                               200 mg dos veces al día            600 mg dos veces al día
+25 kg                               250 mg dos veces al día            750 mg dos veces al día
+A partir de 50 kg (2)               500 mg dos veces al día            1500 mg dos veces al día
+(1)
+Niños con un peso de 20 kg o inferior deberían preferiblemente iniciar el tratamiento con Keppra
+100 mg/ml solución oral.
+(2)
+La dosificación en niños y adolescentes con un peso de 50 kg o superior es la misma que en adultos.
+ Uso en niños de edad inferior a los 4 años
+ Keppra no está recomendado para uso en niños menores de 4 años debido a la escasez de datos sobre
+seguridad y eficacia (ver apartado 5.2).
+ Uso en pacientes con insuficiencia renal
+ La dosis diaria se debe individualizar de acuerdo con la función renal.
+ La tabla siguiente indica como debe ajustarse la dosificación en pacientes adultos. Para utilizar esta
+tabla de dosificación se necesita una estimación del aclaramiento de creatinina (CLcr), en ml/min, del
+paciente. El CLcr, en ml/min, se puede estimar a partir de la determinación de la creatinina sérica
+(mg/dl) utilizando la fórmula siguiente:
+                            [140-edad(años)] x peso (kg)
+CLcr (ml/min) = ----------------------------------------- (x 0,85 para mujeres)
+ Entonces se ajusta el CLcr para el área de la superficie corporal (ASC) como sigue:
+                                  CLcr (ml/min)
+CLcr (ml/min/1,73 m2) = ----------------------------------- (x 0,85 para mujeres)
+ Ajuste de la dosificación en pacientes adultos con insuficiencia renal
+ Grupo                                  Aclaramiento de creatinina      Dosificación y frecuencia
+                                                      15
+Normal                               > 80                      500 a 1.500 mg dos veces al día
+Leve                                 50-79                     500 a 1.000 mg dos veces al día
+Moderada                             30-49                     250 a 750 mg dos veces al día
+Grave                                < 30                      250 a 500 mg dos veces al día
+Pacientes con enfermedad renal       -                         500 a 1.000 mg una vez al día (2)
+terminal bajo diálisis (1)
+(1) Se recomienda una dosis de carga de 750 mg en el primer día de tratamiento con levetiracetam.
+(2) Después de la diálisis se recomienda una dosis suplementaria de 250 a 500 mg.
+ En niños con insuficiencia renal, la dosis de levetiracetam debe ser ajustada en base a la función renal,
+puesto que el aclaramiento de levetiracetam está relacionado con la función renal. Esta recomendación
+se basa en un estudio en pacientes adultos con insuficiencia renal.
+ Uso en pacientes con insuficiencia hepática
+ No es necesario ajustar la dosis en pacientes con insuficiencia hepática leve a moderada. En pacientes
+con insuficiencia hepática grave, el aclaramiento de creatinina puede subestimar el grado de
+insuficiencia renal. Por lo tanto, se recomienda una reducción del 50 % de la dosis de mantenimiento
+diario cuando el aclaramiento de creatinina es < 70 ml/min.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al levetiracetam, a otros derivados de la pirrolidona o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ De acuerdo con la práctica clínica habitual, si se ha de suprimir la medicación con Keppra se
+recomienda retirarlo de forma gradual (p. ej., en adultos, reducciones de 500 mg dos veces al día cada
+dos a cuatro semanas; en niños, las reducciones de dosis no deberían exceder de los 10 mg/kg dos
+veces al día, cada dos semanas).
+ Los datos disponibles en niños no sugieren ningún efecto en el crecimiento ni en la pubertad. No
+obstante, siguen sin conocerse efectos a largo plazo sobre el aprendizaje, fertilidad, inteligencia,
+crecimiento, función endocrina y pubertad en niños.
+Cuando se utilizó Keppra en el tratamiento de las crisis tónico-clónicas generalizadas primarias en
+adultos y adolescentes con Epilepsia Generalizada Idiopática, no hubo ningún efecto en la frecuencia
+de ausencias.
+ Se observó un incremento de la frecuencia de las crisis de más del 25 % en un 14% de los pacientes
+adultos y pediátricos con crisis de inicio parcial tratados con levetiracetam, mientras que se observó en
+un 26% y en un 21% de los pacientes adultos y pediátricos tratados con placebo respectivamente.
+ La administración de Keppra a pacientes con insuficiencia renal puede requerir el ajuste de la dosis.
+En pacientes con insuficiencia hepática grave se recomienda valorar la función renal antes de la
+selección de la dosis (ver la sección 4.2).
+ Se han notificado casos de suicidios, intentos de suicidio y pensamientos suicidas en pacientes tratados
+con levetiracetam. Se debe aconsejar a los pacientes que informen inmediatamente a su médico ante
+cualquier síntoma de depresión y/o pensamientos suicidas.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Los datos de los estudios clínicos, realizados en adultos antes de la comercialización, indican que
+Keppra no influye en las concentraciones séricas de los medicamentos antiepilépticos conocidos
+(fenitoína, carbamazepina, ácido valproico, fenobarbital, lamotrigina, gabapentina y primidona) y que
+estos medicamentos antiepilépticos no influyen en la farmacocinética de Keppra.
+Como en adultos, no hay una evidencia clara de interacciones farmacológicas clínicamente
+significativas en pacientes pediátricos que hayan tomado hasta 60 mg/kg/día de levetiracetam.
+Una evaluación retrospectiva de las interacciones farmacocinéticas en niños y adolescentes con
+epilepsia (de 4 a 17 años) confirmó que la terapia coadyuvante con levetiracetam administrado por vía
+oral, no tuvo influencia en las concentraciones séricas en estado de equilibrio de carbamazepina y
+valproato. Sin embargo los datos sugieren un incremento del aclaramiento de levetiracetam del 22% en
+niños que toman medicamentos antiepilépticos que sean inductores enzimáticos. No es necesario
+ajuste de dosis.
+ Se ha comprobado que probenecid (500 mg cuatro veces al día), agente bloqueante de la secreción
+tubular renal, inhibe el aclaramiento renal del metabolito primario pero no el de levetiracetam. Con
+todo, los niveles de este metabolito se mantienen bajos. Es de esperar que otros fármacos que se
+excretan por secreción tubular activa puedan reducir también el aclaramiento renal del metabolito. No
+se ha estudiado el efecto del levetiracetam sobre el probenecid y no se conoce el efecto de
+levetiracetam sobre otros fármacos secretados activamente, p. ej. AINES, sulfonamidas y metotrexato.
+ Dosis diarias de 1.000 mg de levetiracetam no influenciaron la farmacocinética de los anticonceptivos
+orales (etinilestradiol y levonorgestrel); no se modificaron los parámetros endocrinos (hormona
+luteinizante y progesterona). Dosis diarias de 2.000 mg de levetiracetam no influenciaron la
+farmacocinética de la digoxina y de la warfarina; no se modificó el tiempo de protrombina. La
+coadministración con digoxina, anticonceptivos orales y warfarina no tuvo influencia sobre la
+farmacocinética del levetiracetam.
+ No se dispone de datos sobre la influencia de los antiácidos sobre la absorción del levetiracetam.
+ El grado de absorción del levetiracetam no se alteró por los alimentos, aunque la velocidad de
+absorción se redujo ligeramente.
+No se dispone de datos sobre la interacción del levetiracetam con alcohol.
+ 4.6   Embarazo y lactancia
+ No existen datos suficientes sobre la utilización de levetiracetam en mujeres embarazadas. Los
+estudios en animales han mostrado toxicidad reproductiva (ver apartado 5.3). Se desconoce el riesgo en
+seres humanos.
+Keppra no debe utilizarse durante el embarazo a menos que sea estrictamente necesario. La retirada de
+los tratamientos antiepilépticos puede dar lugar a una exacerbación de la enfermedad, que podría
+perjudicar a la madre y al feto.
+ Levetiracetam se excreta en la leche materna humana, por lo que no se recomienda la lactancia natural.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+Debido a las posibles diferencias de sensibilidad individual algunos pacientes pueden experimentar
+somnolencia u otros síntomas relacionados con el sistema nervioso central, especialmente al inicio del
+tratamiento o después de un incremento de la dosis. Por tanto, se recomienda precaución a los
+pacientes cuando realicen tareas que requieran habilidad específica, p. ej. conducir vehículos o utilizar
+maquinaria. Se aconseja a los pacientes no conducir o utilizar maquinaria hasta que se compruebe que
+su capacidad para realizar estas actividades no queda afectada.
+ 4.8   Reacciones adversas
+ Los datos de seguridad agrupados de los estudios clínicos realizados con formulaciones orales de
+Keppra en pacientes adultos con crisis de inicio parcial mostraron que el 46,4 % de los pacientes en el
+grupo Keppra y el 42,2 % de los pacientes en el grupo placebo experimentaron reacciones adversas. El
+2,4 % de los pacientes en el grupo Keppra y el 2,0 % de los pacientes en el grupo placebo
+                                                    17
+experimentaron reacciones adversas. Las reacciones adversas descritas con más frecuencia fueron
+somnolencia, astenia y mareos. En el análisis de los datos de seguridad agrupados no había una
+relación clara dependiente de la dosis, pero la incidencia y gravedad de las reacciones adversas
+relacionadas con el sistema nervioso central disminuyeron con el tiempo.
+ En monoterapia el 49,8% de los sujetos experimentaron al menos una reacción adversa relacionada
+con el fármaco. Las descritas con más frecuencia fueron fatiga y somnolencia.
+ Un estudio realizado en pacientes pediátricos (de 4 a 16 años) con crisis de inicio parcial mostró que el
+55,4% de los pacientes en el grupo Keppra y el 40,2% de los pacientes en el grupo placebo
+experimentaron reacciones adversas. El 0,0% de los pacientes en el grupo Keppra y el 1,0% de los
+pacientes en el grupo placebo experimentaron reacciones adversas graves. Las reacciones adversas
+descritas con más frecuencia en la población pediátrica fueron somnolencia, hostilidad, nerviosismo,
+labilidad emocional, agitación, anorexia, astenia y cefalea. Los resultados de seguridad en pacientes
+pediátricos fueron consistentes con el perfil de seguridad de levetiracetam en adultos excepto por las
+reacciones adversas psiquiátricas y del comportamiento, las cuales fueron más comunes en niños que
+en adultos (38,6% versus 18,6%). Sin embargo, el riesgo relativo fue similar en niños y en adultos.
+ Un estudio realizado en adultos y adolescentes (de 12 a 65 años) con crisis mioclónicas mostró que el
+33,3% de los pacientes en el grupo Keppra y el 30,0% de los pacientes en el grupo placebo
+experimentaron reacciones adversas que se consideraron relacionadas con el tratamiento. Las
+reacciones adversas más frecuentemente descritas fueron cefalea y somnolencia. La incidencia de
+reacciones adversas en pacientes con crisis mioclónicas fue inferior a la incidencia en pacientes
+adultos con crisis de inicio parcial (33,3% versus 46,4%).
+ Un ensayo realizado en adultos y niños (de 4 a 65 años) con epilepsia generalizada idiopática con
+crisis tónico-clónicas generalizadas primarias mostró que el 39,2% de los pacientes en el grupo tratado
+con Keppra y el 29,8% de los pacientes en el grupo tratado con placebo experimentaron efectos
+indeseables, que se consideraron relacionados con el tratamiento. El efecto indeseable más frecuente
+fue fatiga.
+ A continuación se incluye una tabla de las reacciones adversas observadas en los ensayos clínicos (en
+adultos y niños) o en la experiencia post-comercialización por Sistema Órgano Clase y por frecuencia.
+En los ensayos clínicos la frecuencia se define de la siguiente manera: muy frecuentes ( 1/10);
+frecuentes ( 1/100, <1/10); poco frecuentes ( 1/1.000, < 1/100); raras ( 1/10.000, < 1/1.000); muy
+raras (< 1/10.000), incluyendo notificaciones aisladas. Los datos sobre la experiencia post-
+comercialización son insuficientes para apoyar una estimación de su incidencia en la población a
+tratar.
+ - Trastornos generales y alteraciones en el lugar de administración
+Muy frecuentes: astenia/fatiga
+ - Trastornos del sistema nervioso
+Muy frecuentes: somnolencia
+Frecuentes: amnesia, ataxia, convulsión, mareo, cefalea, hipercinesia, temblor, trastorno del equilibrio,
+alteración de la atención, deterioro de la memoria
+Experiencia post-comercialización: parestesia
+ - Trastornos psiquiátricos
+Frecuentes: agitación, depresión, labilidad emocional/cambios de humor, hostilidad/agresividad,
+insomnio, nerviosismo/irritabilidad, trastornos de personalidad, pensamiento anormal
+Experiencia post-comercialización: comportamiento anormal, cólera, ansiedad, confusión,
+alucinaciones, alteraciones psicóticas, suicidio, tentativa de suicidio e ideación suicida
+ - Trastornos gastrointestinales
+Frecuentes: dolor abdominal, diarrea, dispepsia, náuseas, vómitos
+Experiencia post-comercialización: pancreatitis
+                                                    18
+- Trastornos hepatobiliares
+Experiencia post-comercialización: fallo hepático, hepatitis, pruebas anormales de la función hepática
+ - Trastornos del metabolismo y de la nutrición
+Frecuentes: anorexia, aumento de peso
+El riesgo de anorexia es mayor cuando topiramato se administra junto con levetiracetam.
+Experiencia post-comercialización: pérdida de peso
+ - Trastornos del oído y del laberinto
+Frecuentes: vértigo
+ - Trastornos oculares
+Frecuentes: diplopía, visión borrosa
+ - Trastornos musculoesqueléticos y del tejido conjuntivo
+Frecuentes: mialgia
+ - Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos
+Frecuentes: lesión accidental
+ - Infecciones e infestaciones
+Frecuentes: infección, nasofaringitis
+ - Trastornos respiratorios, torácicos y mediastínicos
+Frecuentes: incremento de tos
+ - Trastornos de la piel y del tejido subcutáneo
+Frecuentes: rash, eczema, prurito
+Experiencia post-comercialización: alopecia: en varios casos, se observó una recuperación al
+suspender el tratamiento con Keppra.
+ - Trastornos de la sangre y del sistema linfático
+Frecuentes: trombocitopenia
+Experiencia post-comercialización: leucopenia, neutropenia, pancitopenia (con supresión de la médula
+ósea en algunos casos)
+ 4.9   Sobredosis
+ Síntomas
+ Se ha observado somnolencia, agitación, agresión, nivel de consciencia disminuido, depresión
+respiratoria y coma con sobredosis de Keppra.
+ Tratamiento de la sobredosificación
+ En la sobredosis aguda puede vaciarse el contenido del estómago por lavado gástrico o por inducción
+de la emesis. No hay un antídoto específico para levetiracetam. El tratamiento de la sobredosificación
+será sintomático y puede incluir hemodiálisis. La eficacia de la eliminación por diálisis es del 60 %
+para el levetiracetam y del 74 % para el metabolito primario.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antiepilépticos, código ATC: N03AX14.
+                                                   19
+El principio activo, levetiracetam, es un derivado de la pirrolidona (S-enantiómero de -etil-2-oxo-1-
+pirrolidina acetamida), no relacionado químicamente con otros principios activos antiepilépticos
+existentes.
+ Mecanismo de acción
+ El mecanismo de acción de levetiracetam está todavía por dilucidar, pero parece ser diferente de los
+mecanismos de acción de los antiepilépticos actuales. Los estudios in vivo e in vitro sugieren que
+levetiracetam no altera la neurotransmisión normal y las características básicas de la célula.
+Estudios in vitro muestran que levetiracetam afecta los niveles intraneuronales de Ca2+ mediante
+inhibición parcial de las corrientes de Ca2+ tipo N, y reduciendo la liberación de Ca2+ de la reserva
+intraneuronal. Además, invierte parcialmente la reducción de corrientes dependientes de GABA y
+glicina inducidas por zinc y ß-carbolinas. Por otra parte, estudios in vitro muestran que levetiracetam
+se une a un punto específico en el tejido cerebral de roedor. Este punto de unión específico es la
+proteína 2A de las vesículas sinápticas, el cual parece estar involucrado en la fusión de vesículas y en
+la exocitosis de neurotransmisores. Levetiracetam y sus análogos han mostrado un orden de afinidad
+por la unión a la proteína 2A de las vesículas sinápticas que se correlaciona con la potencia de la
+protección contra los ataques epilépticos en el modelo audiogénico de epilepsia en ratón. Este hallazgo
+sugiere que la interacción entre levetiracetam y la proteína 2A de las vesículas sinápticas parece
+contribuir en el mecanismo de acción del fármaco como antiepiléptico.
+ Efectos farmacodinámicos
+ Levetiracetam induce una protección de la crisis en un amplio rango de modelos animales de epilepsia
+parcial y de generalizada primaria sin efecto pro-convulsivo. El metabolito primario es inactivo.
+En el hombre, la actividad en ambas condiciones de epilepsia, parcial y generalizada (descarga
+epileptiforme/respuesta fotoparoxismal), ha confirmado el amplio espectro del perfil farmacológico de
+levetiracetam.
+ Experiencia clínica
+ Terapia concomitante en el tratamiento de las crisis de inicio parcial con o sin generalización
+secundaria en adultos y niños mayores de 4 años, con epilepsia.
+ En adultos, la eficacia de levetiracetam ha sido demostrada en 3 ensayos doble ciego, controlados con
+placebo a dosis de 1.000 mg, 2.000 mg ó 3.000 mg/día, administrados en dos dosis separadas, con una
+duración de tratamiento de hasta 18 semanas. En un análisis agrupado, el porcentaje de pacientes que
+alcanzó una reducción de al menos el 50%, desde el inicio, en la frecuencia de crisis de inicio parcial
+por semana, a dosis estable (12/14 semanas), fue del 27,7%, 31,6% y 41,3% para los pacientes en
+tratamiento con 1.000, 2.000 ó 3.000 mg de levetiracetam respectivamente y del 12,6% para los
+pacientes tratados con placebo.
+ En pacientes pediátricos (de 4 a 16 años), la eficacia de levetiracetam se demostró en un ensayo doble-
+ciego, controlado con placebo en el que se incluyeron 198 pacientes y con una duración de tratamiento
+de 14 semanas. En este ensayo, los pacientes recibieron levetiracetam a una dosis fija de 60 mg/kg/día
+(administrada dos veces al día).
+El 44,6% de los pacientes tratados con levetiracetam y el 19,6% de los pacientes tratados con placebo
+tuvieron una reducción de al menos el 50% desde el inicio, en la frecuencia de crisis de inicio parcial
+por semana. Con un tratamiento continuado a largo plazo, el 11,4% de los pacientes estuvieron libres
+de crisis durante al menos 6 meses y el 7,2% estuvieron libres de crisis durante al menos 1 año.
+ Monoterapia en el tratamiento de las crisis de inicio parcial con o sin generalización secundaria en
+pacientes mayores de 16 años con epilepsia de nuevo diagnóstico.
+ La eficacia de levetiracetam en monoterapia se demostró en un ensayo doble-ciego, de grupos
+paralelos, de no inferioridad frente a carbamazepina de liberación controlada, en 576 pacientes a partir
+de los 16 años con epilepsia de nuevo o reciente diagnóstico. Los pacientes tenían que presentar crisis
+                                                   20
+parciales no provocadas o únicamente crisis tónico-clónicas generalizadas. Los pacientes fueron
+aleatorizados a carbamazepina de liberación controlada de 400 ­ 1.200 mg/día o a levetiracetam de
+1.000 ­ 3.000 mg/día, y la duración del tratamiento fue de hasta 121 semanas en función de la
+respuesta.
+El 73,0% de los pacientes tratados con levetiracetam y el 72,8% de los pacientes tratados con
+carbamazepina de liberación controlada alcanzaron un periodo de 6 meses libres de crisis; la diferencia
+absoluta ajustada entre los tratamientos fue de 0,2% (95% IC: -7,8 8,2). Más de la mitad de los
+pacientes permanecieron libres de crisis durante 12 meses (56,6% y 58,5% de los sujetos con
+levetiracetam y con carbamazepina de liberación controlada respectivamente).
+ En un estudio que refleja la práctica clínica, se pudo retirar la medicación antiepiléptica concomitante
+en un número limitado de pacientes que habían respondido a la terapia concomitante con levetiracetam
+(36 de 69 pacientes adultos).
+ Terapia concomitante en el tratamiento de las crisis mioclónicas en adultos y en adolescentes
+mayores de 12 años, con Epilepsia Mioclónica Juvenil.
+ La eficacia de levetiracetam se demostró en un ensayo doble-ciego, controlado con placebo de 16
+semanas de duración, en pacientes a partir de los 12 años que sufrían epilepsia generalizada idiopática
+con crisis mioclónicas en diferentes síndromes. La mayoría de los pacientes presentaban epilepsia
+mioclónica juvenil.
+En este estudio, la dosis de levetiracetam fue de 3.000 mg/día repartida en dos dosis. El 58,3% de los
+pacientes tratados con levetiracetam y el 23,3% de los pacientes tratados con placebo, tuvieron una
+reducción de al menos el 50% de días con crisis mioclónicas por semana. Con un tratamiento
+continuado a largo plazo, el 28,6% de los pacientes estuvieron libres de crisis mioclónicas durante al
+menos 6 meses y el 21,0% estuvieron libres de crisis mioclónicas durante al menos 1 año.
+ Terapia concomitante en el tratamiento de las crisis tónico-clónicas generalizadas primarias en
+adultos y adolescentes mayores de 12 años, con epilepsia generalizada idiopática.
+ La eficacia de levetiracetam se demostró en un ensayo doble-ciego de 24 semanas, controlado con
+placebo en el que se incluyeron adultos, adolescentes y un número limitado de niños con Epilepsia
+Generalizada Idiopática con crisis tónico-clónicas generalizadas primarias en diferentes síndromes
+(epilepsia mioclónica juvenil, ausencia juvenil, ausencia infantil o epilepsia con crisis de Gran Mal al
+despertar). En este estudio, la dosis de levetiracetam fue de 3.000 mg/día para adultos y adolescentes o
+de 60 mg/kg/día para niños, administrados en dos dosis separadas.
+El 72,2% de los pacientes tratados con levetiracetam y el 45,2% de los pacientes tratados con placebo
+tuvieron una reducción de al menos el 50% en la frecuencia de crisis tónico-clónicas generalizas
+primarias por semana. Con un tratamiento continuado a largo plazo, el 47,4% de los pacientes
+estuvieron libres de crisis tónico-clónicas durante al menos 6 meses y el 31,5% estuvieron libres de
+crisis tónico-clónicas durante al menos 1 año.
+ 5.2   Propiedades farmacocinéticas
+ Levetiracetam es un compuesto muy soluble y permeable. El perfil farmacocinético es lineal y con
+poca variabilidad intra- e inter-individual. No hay modificación del aclaramiento después de la
+administración repetida. No hay evidencia de variabilidad relevante de género, raza o circadiana. El
+perfil farmacocinético en voluntarios sanos y en pacientes con epilepsia es comparable.
+ Debido a que su absorción es completa y lineal, se pueden predecir los niveles plasmáticos, expresados
+como mg/kg de peso corporal, tras la administración oral de levetiracetam. Por consiguiente, no se
+necesita monitorizar los niveles plasmáticos de levetiracetam.
+ En adultos y niños se ha mostrado una correlación significativa entre las concentraciones en saliva y
+en plasma (tasa de concentraciones saliva/plasma van de 1 a 1,7 para la formulación de comprimidos y
+para la formulación de solución oral tras 4 horas después de la dosis).
+ Adultos y adolescentes
+ Absorción
+ Levetiracetam se absorbe rápidamente después de su administración oral. La biodisponibilidad oral
+absoluta es cercana al 100 %.
+El pico de nivel plasmático (Cmax) se alcanza a las 1,3 horas de su administración. Los niveles
+plasmáticos estables se obtienen a los dos días con la pauta de administración de dos veces al día.
+Los valores normales del pico plasmático (Cmax) después de una dosis simple de 1.000 mg y de una
+dosis repetida de 1.000 mg dos veces al día son del 31 y 43 g/ml respectivamente.
+El grado de absorción es dosis-independiente y no está alterado por los alimentos.
+ Distribución
+ No se dispone de datos de distribución tisular en humanos.
+Ni levetiracetam ni su metabolito primario se unen de forma significativa a las proteínas plasmáticas
+(< 10 %).
+El volumen de distribución del levetiracetam es aproximadamente de 0,5 a 0,7 l/kg, valor cercano al
+volumen total del agua corporal.
+ Biotransformación
+ Levetiracetam no se metaboliza extensamente en humanos. La vía metabólica principal (24 % de la
+dosis) es la hidrólisis enzimática del grupo acetamida. La formación del metabolito primario,
+ucb L057, no está soportada por las isoformas del citocromo P450 hepático. La hidrólisis del grupo
+acetamida fue mesurable en un gran número de tejidos, incluyendo las células sanguíneas. El
+metabolito ucb L057 es farmacológicamente inactivo.
+ Se identificaron también dos metabolitos minoritarios. Uno estab
+ 
+	Prospectos de medicamentos.

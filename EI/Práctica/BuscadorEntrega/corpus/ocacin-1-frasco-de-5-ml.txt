@@ -1,0 +1,127 @@
+OCACIN,  1 frasco de 5 ml
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA
+ 
+1. NOMBRE DEL MEDICAMENTO
+	OCACIN
+ 2. COMP0SICIÓN CUALITATIVA Y CUANTITATIVA
+ Lomefloxacino           0.3g/100 ml.
+ 
+3. FORMA FARMACÉUTICA
+	Colirio en solución
+ 
+
+
+4. DATOS CLÍNICOS
+	4.1.-Indicaciónes terapéuticas
+ Tratamiento de infecciones superficiales del ojo y sus anexos debidas a bacterias sensibles al
+Lomefloxacino: conjuntivitis, úlcera corneal infecciosa, blefaritis, orzuelo, infecciones
+postoperatorias.
+ 4.2.-Posología y método de administración
+ Instilar 1 gota 3 veces al día en el saco conjuntival. La frecuencia de instilaciones y la duración
+del tratamiento pueden modificarse según el criterio facultativo.
+ 4.3.-Contraindicaciones
+ Hipersensibilidad a cualquier componente de la especialidad.
+ 4.4.-Advertencias y precauciones especiales de empleo
+ El tratamiento prolongado con antibióticos puede favorecer el desarrollo de infecciones fúngicas
+secundarias o de bacterias resistentes.
+No es conveniente llevar lentes de contacto durante la instilación del colirio.
+Después de la instilación pueden colocarse de nuevo tras un intervalo de por lo menos 5 minutos.
+ 4.5.-Interacción con con otros medicamentos y otras formas de interacción
+ No se han descrito.
+ 4.6.-Embarazo y lactancia
+ No existe experiencia sobre la seguridad del producto durante el embarazo o la lactancia. Por lo
+tanto, su utilización durante el embarazo y la lactancia no es recomendada, a menos que sea
+estrictamente necesario.
+ 4.7.-Efectos sobre la capacidad de conducir vehículos y utilizar maquinaría
+ No se han descrito
+ 4.8.-Reacciones adversas
+ En el momento de la instilación puede manifestarse una momentánea sensación de escozor
+moderada. Raramente pueden darse casos de hipersensibilidad.
+ 4.9.-Sobredosisficación
+ No se han descrito casos de sobredosificación tópica.
+Prácticamente no existe riesgo de reacciones adversas debido a la ingestión oral accidental debido
+a que la botella de colirio de 5 ml contiene aproximadamente 15 mg de lomefloxacino. Si lo
+comparamos a la dosis oral recomendada diaria por adulto es de 400 mg.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.-Propiedades farmacodinámicas
+ Lomefloxacino, un inhibidor específico de la girasa bacteriana (topoisomerasa II), es un
+antibiótico tipo quinolona difluorada de amplio espectro frente a bacterias gram-positivas y gram-
+negativas, de elevada potencia y baja toxicidad tanto a nivel sistémico como ocular. Interfiere con
+el DNA bacteriano en el proceso de iniciación, elongación y terminación en las fases de
+replicación, transcripción, reparación del DNA, recombinación, transposición superespiral y
+relajación del DNA.
+ La molécula diana de las quinolonas es la subunidad A de enzima girasa bacteriana
+(topoisomerasa II), formando un complejo estable entre la quinolona y todo el tetrámero A2B2,
+conduciendo a un error en las funciones enzimáticas resultante en una rápida muerte de la bacteria
+sensible. Raramente se ha observado la aparición de resistencias y el plásmido mediador que
+transfiere dicha resistencia no ha sido encontrado.
+ Lomefloxacino ha demostrado in vitro ser activo frente a la mayor parte de cepas de los siguientes
+micoorganismos:
+Bacilos gramnegativos: Escherichia coli, Klebsiella sp., Citrobacter sp., Salmonella sp., Yersinia
+sp., Enterobacter cloacae, Proteus sp., Morganella sp., Providencia sp., Aeromonas sp.,
+Haemophilus influenzae, Pseudomonas aeruginosa, P. cepacia, y P. maltophilia.
+Cocos gramnegativos: Neisseria gnorrohoeae y Branhamella.
+Cocos grampositivos: Staphylococcus aureus, Staph. Epidermins, Streptococcus pyrogenes,
+Strep. Pneumoniae, Strep. viridans, Strep. Faecalis.
+Otros microorganismos: Clamydia sp.
+ 5.2.-Propiedades farmacocinéticas
+ Ojos de conejo sanos y quemados con NaOH mostraron niveles terapéuticos en tejido ocular, en
+córnea, esclera, párpado, conjuntiva y humor acuso tras la administración de 1 gota cada 5
+minutos 5 veces. En pacientes tras cirugía de catarata, 5 aplicaciones diarias durante 2 días
+seguido de una instilación de 5 gotas en 20 minutos resultan en niveles máximos en el humor
+acuoso de 2,7 g/ml a los 90 minutos después de la última aplicación de lomefloxacino 0,3 %.
+Los niveles estuvieron por encima de 1 m/ml durante aproximadamente 2,5 horas, es decir, de
+30 a 180 minutos tras la última instilación. Estudios en animales mostraron que los niveles en
+lágrima tras 1 ó 2 aplicaciones fueron 40-200 g/ml a las 6 horas. Incluso se observaron a las 24
+horas más de 3 g/ml.
+ 5.3.-Datos preclínicos de seguridad
+ Lomefloxacino ha sido ampliamente estudiado en varias especies tanto en formulaciones
+sistémicas y oftálmicas, en diferentes vías de administración y toxicidad estándar, reproducción,
+fertilidad y pruebas de mutación. El producto puede describirse que tiene una toxicidad general
+baja, especialmente frente a tejidos oculares. Las únicas anormalidades observadas durante la
+serie de pruebas realizadas, fueron la variación del caudal vertebral en fetos de conejo y
+artrotoxicidad moderada en conejos jóvenes a elevadas dosis sistémicas (50/100 mg/ks). En
+comparación, ni con la dosis inicial intensiva, la dosis total administrada durante el uso ocular no
+se espera el exceder 2 mg/día.
+ 
+6. DATOS FARMACÉUTICOS
+	6.1.-Lista de excipientes
+ Cloruro de benzalconio
+Edetato disódico
+Glicerina
+Hidróxido sódico
+Agua para inyección
+ 6.2.-Incompatibilidades
+ No se han descrito.
+ 6.3.-Perido de validez
+ El tiempo de utilización del producto en el envase precintado es de 24 meses.
+El tiempo de utilización del producto una vez abierto el envase es de 30 días.
+No utilizar el medicamento posteriormente a la fecha de caducidad indicada en el envase.
+ 6.4.-Precauciones especiales de conservación
+ Conservar por debajo de 25º C.
+ 6.5.-Naturaleza y contenido del recipiente
+ Frasco de polietileno de baja densidad blanco con 5 ml de solución.
+Cuentagotas de polietileno de baja densidad.
+Tapón y precinto de seguridad de polietileno de alta densidad
+ 6.6.-Instrucciones de uso y manipulación
+ El envase se mantiene estéril hasta que se rompe el precinto de seguridad.
+Para su administración abrir el envase, con las manos recién lavadas, procurando que el tapón y el
+gotero no toquen ninguna superficie. Con la cabeza hacia atrás, separar hacia abajo el párpado
+inferior e instilar la gota en el saco conjuntival mientras se dirige l mirada hacia arriba. Cerrar los
+ojos suavemente y mantenerlos cerrados durante unos instantes.
+Antes de usar con otros medicamentos oftálmicos esperar como mínimo 5 minutos. Finalizado el
+tratamiento deberá desecharse el medicamento aunque no se haya consumido en su totalidad.
+ 7.- TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Novartis Farmacéutica, S.A.
+Gran Via de les Corts Catalanes, 764
+08013- Barcelona
+ 8.- NÚMERO AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 62.752
+ 
+9. FECHA DE LA PRIMERA AUTORIZACIÓN O DE LA RENOVACIÓN DE
+	27 Octubre 1999
+ 10.- FECHA DE LA REVISIÓN DEL TEXTO
+ Septiembre de 2006
+
+	Prospectos de medicamentos.

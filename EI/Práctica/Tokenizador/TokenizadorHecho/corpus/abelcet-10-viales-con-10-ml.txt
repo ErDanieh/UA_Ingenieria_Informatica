@@ -1,0 +1,415 @@
+ABELCET, 10 viales con 10 ml
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERISTICAS DEL PRODUCTO
+                                               FICHA TÉCNICA
+ 
+1.      NOMBRE DEL MEDICAMENTO
+	ABELCET 5 mg/ml concentrado para suspensión para perfusión
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada ml contiene 5 mg de amfotericina B en complejo lipídico.
+ Excipientes:
+Cada ml contiene 3,6 mg/ml (0,156 mmol) de sodio.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Concentrado para suspensión para perfusión.
+Suspensión de color amarillo.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la candidiasis invasiva grave.
+Tratamiento de micosis sistémicas graves tales como aspergilosis, criptococosis, fusariosis,
+zigomicosis, blastomicosis y coccidioidomicosis en pacientes que no han respondido al
+tratamiento con amfotericina B deoxicolato o con otros agentes antifúngicos sistémicos, en
+pacientes con insuficiencia renal u otras contraindicaciones al tratamiento con amfotericina B
+deoxicolato o en pacientes que han desarrollado nefrotoxicidad debido a la amfotericina B
+deoxicolato.
+ Tratamiento de la leishmaniasis visceral.
+ Profilaxis secundaria de la leishmaniasis visceral en pacientes con infección por VIH con recuento
+de linfocitos T CD4+ <200 células/l.
+ 4.2   Posología y forma de administración
+ Abelcet se administra mediante perfusión intravenosa, previa dilución con glucosa al 5%. La
+concentración final de perfusión debe ser de 1 mg/ml. En el caso de niños o pacientes con
+enfermedades cardiovasculares, se recomienda una concentración final de 2 mg/ml. La perfusión
+intravenosa debe administrarse a una velocidad de 2,5 mg/kg/hora (ver apartado 6.6). En todos los
+casos la dosis recomendada se administrará una única vez al día.
+La primera administración de Abelcet debe ir precedida de una dosis de prueba (ver apartado 4.4).
+ Adultos
+Micosis sistémicas
+Aunque los datos disponibles son insuficientes para definir tanto la dosis total como la duración
+óptimas de tratamiento, en la mayoría de los casos la posología recomendada es de 5 mg/kg/día
+durante al menos 14 días.
+ Abelcet se ha empleado en el tratamiento de micosis en pacientes con neutropenia grave a
+consecuencia de patologías hematológicas malignas o por el uso de medicamentos citotóxicos o
+inmunosupresores.
+ Leishmaniasis visceral
+Tratamiento
+La pauta posológica recomendada es de 3 mg/kg/día durante 5 días consecutivos o en días
+alternos durante 9 días, para conseguir una dosis total de 15 mg/kg.
+En el tratamiento de pacientes inmunodeprimidos con infección por VIH la pauta posológica
+recomendada es de 3 mg/kg/día durante 5-10 días consecutivos, para conseguir una dosis total de
+15-30 mg/kg.
+ Profilaxis secundaria en pacientes inmunodeprimidos con infección por VIH
+La pauta posológica recomendada es de 3 mg/kg cada 21 días. La interrupción de la profilaxis
+secundaria se considerará siguiendo las recomendaciones nacionales sobre profilaxis de
+infecciones oportunistas en pacientes con infección por VIH.
+ Niños y adolescentes
+Se dispone de datos limitados de eficacia y seguridad y, por tanto, Abelcet se debe administrar
+con precaución en esta población. La experiencia disponible indica que la pauta posológica a
+administrar en niños y adolescentes no difiere de la recomendada para adultos.
+ Pacientes de edad avanzada
+No es necesario el ajuste de dosis en este grupo de población. Sin embargo, Abelcet se debe
+administrar con precaución en estos pacientes (ver apartado 4.4.).
+ Pacientes con insuficiencia renal o hepática
+Abelcet se ha utilizado para el tratamiento de infecciones sistémicas fúngicas en pacientes con
+insuficiencia renal o hepática a dosis comparables a las recomendadas en pacientes con función
+renal y hepática normales. Se debe tener precaución cuando se administre Abelcet a estos
+pacientes (ver apartado 4.4).
+ En pacientes sometidos a diálisis renal, Abelcet debe ser administrado después de finalizar la
+diálisis o la hemofiltración. No obstante, si la situación del paciente lo requiere, Abelcet se puede
+administrar durante la diálisis renal o la hemofiltración.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a la amfotericina B o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ No debe utilizarse Abelcet para el tratamiento de micosis no graves o superficiales, que no
+manifiestan signos clínicos, y que son detectables sólo mediante pruebas cutáneas o serológicas.
+ La administración de Abelcet debe ir precedida de una dosis de prueba inmediatamente antes de la
+primera perfusión. La suspensión para perfusión debe prepararse según las instrucciones que se
+indican en la sección 6.6. Una vez preparada, se debe administrar al paciente aproximadamente 1
+mg de la perfusión durante un período de 15 minutos. Una vez administrada esta cantidad la
+perfusión se debe interrumpir y se debe observar cuidadosamente al paciente durante 30 minutos.
+Si el paciente no muestra signos de hipersensibilidad, la perfusión puede continuar. Los resultados
+de esta prueba no siempre son definitivos, por lo que no se puede descartar que ocurran síntomas
+en administraciones posteriores.
+ Como consecuencia de la posibilidad de aparición de reacciones anafilácticas se recomienda
+disponer de los medios necesarios para iniciar maniobras de reanimación cardiopulmonar en caso
+necesario.
+ Abelcet es un medicamento potencialmente nefrotóxico, y, por tanto, en los pacientes con una
+insuficiencia renal preexistente, la función renal debe monitorizarse antes de comenzar el
+tratamiento, y posteriormente una vez a la semana durante el mismo. También debe considerarse
+la monitorización de la función renal en pacientes que reciben concomitantemente con otros medicamentos nefrotóxicos (ver apartado 4.5).
+En pacientes sometidos a diálisis renal los niveles de potasio y magnesio en suero deben ser
+monitorizados regularmente.
+ Durante el tratamiento con Abelcet se ha descrito deterioro de la función renal con aumento de
+creatinina, azotemia e hipocalcemia (ver apartado 4.8) que, por lo general, no requiere la
+interrupción del tratamiento.
+ En pacientes de edad igual o superior a 65 años el aumento de la creatinina sérica y la disnea son
+más frecuentes.
+ Se han comunicado alteraciones en las pruebas de función hepática con medicamentos que
+contienen amfotericina B, Abelcet incluido. Aun cuando otros factores tales como la propia
+infección, la hiperalimentación, la administración conjunta de con otros medicamentos hepatotóxicos
+y la presencia de enfermedad injerto-contra-huésped pueden contribuir a ello, no puede
+descartarse una relación causal con Abelcet. Se debe tener precaución cuando se administre
+Abelcet a pacientes con alteración de la función hepática (ver apartado 4.8).
+ Durante los primeros días del tratamiento con Abelcet y coincidiendo con la perfusión es
+frecuente la aparición de escalofríos, pirexia, náuseas y vómitos (ver apartado 4.8) que se pueden
+prevenir con premedicación (p.ej. difenhidramina, paracetamol y/o hidrocortisona). Estos
+medicamentos también pueden emplearse para tratarlas.
+ Este medicamento contiene 3,6 mg ( 0,156 mmol) de sodio por ml, lo que debe ser tenido en
+cuenta en pacientes con dietas pobres en sodio.
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+MEDICAMENTOS NEFROTÓXICOS
+Abelcet es potencialmente nefrotóxico. Por tanto, en pacientes que simultáneamente reciban con otros medicamentos nefrotóxicos la función renal deberá monitorizarse cuidadosamente (ver apartado
+4.4).
+ZIDOVUDINA
+Se han observado mielotoxicidad y nefrotoxicidad incrementadas al administrar Abelcet
+concomitantemente con zidovudina. Si es necesario el tratamiento concomitante con ambos
+medicamentos se deberán monitorizar estrechamente las funciones renal y hematopoyética.
+ Ciclosporina
+Datos preliminares demuestran un aumento de la creatinina sérica en los pacientes en los que se
+ha administrado Abelcet junto con dosis altas de ciclosporina. Por tanto, en estos pacientes se
+debe monitorizar de forma estrecha la función renal.
+                                                                                                      MINISTERIO
+No se ha estudiado la interacción de Abelcet con con otros medicamentos. Se ha descrito que
+amfotericina B deoxicolato interacciona con agentes antineoplásicos, corticosteroides y
+corticotropina (ACTH), digitálicos y relajantes de la musculatura esquelética.
+ 4.6   Embarazo y lactancia
+ No se dispone de datos clínicos adecuados sobre el uso de amfotericina B en complejo lipídico en
+mujeres embarazadas ni durante la lactancia.
+ En los estudios de toxicidad reproductiva con amfotericina B en complejo lipídico en ratas y
+conejos no se observaron signos de embriotoxicidad, fetotoxicidad o teratogenia (ver apartado 5.3).
+A pesar de ello, Abelcet sólo debe ser administrado a mujeres embarazadas, cuando el posible
+efecto beneficioso del tratamiento supere los posibles riesgos para el feto.
+ Se desconoce si la amfotericina B se excreta en la leche materna. Por tanto, se recomienda
+interrumpir la lactancia durante el tratamiento con Abelcet.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han llevado a cabo estudios específicos. Sin embargo, algunas de las reacciones adversas
+descritas (por ejemplo, confusión, vértigo etc.) podrían afectar a la capacidad para conducir y
+utilizar maquinaria (ver apartado 4.8).
+ 4.8   Reacciones adversas
+ Las reacciones adversas más frecuentes observadas con este medicamento han sido escalofríos
+(15%), aumento de la creatinina (11%), pirexia (11%), náuseas (7%) e hipopotasemia (6%).
+ Las reacciones adversas listadas (ver tabla) proceden del análisis de un total de 709 pacientes
+tratados con Abelcet. De éstos, 556 casos procedían de estudios no controlados y 153 de un
+ensayo clínico controlado, aleatorizado en candidiasis invasiva (38%  65 años).
+ Las reacciones adversas se detallan a continuación, siguiendo la convención MedDRA, con los
+términos preferidos y según cada clase de sistema orgánico y frecuencia correspondiente. Las
+frecuencias se definen como: muy frecuente (1/10), frecuente (1/100 y <1/10), poco frecuente
+(1/1.000 y <1/100), rara (1/10.000 y <1/1.000) y muy rara (<1/10.000).
+ Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo
+de frecuencia.
+ Sistema de
+clasificación Reacciones Adversas                                              Frecuencia
+de órganos
+Exploraciones complementarias
+Aumento de creatinina sérica                                     Muy frecuente
+Aumento de fosfatasa alcalina, aumento de urea                   Frecuente
+Aumento de alanin-aminotransferasa, aumento de aspartato-
+aminotransferasa, aumento de creatin-fosfoquinasa, aumento
+de lactato-deshidrogenasa, disminución del aclaramiento renal
+de creatinina, anomalías en el electrocardiograma,
+disminución en pruebas de función pulmonar, aumento del
+peso corporal
+Sistema de
+clasificación Reacciones Adversas                                                  Frecuencia
+de órganos
+Trastornos cardiacos
+Taquicardia, arritmias incluida taquicardia supraventricular,
+bradicardia, fibrilación auricular, bloqueo aurículoventricular     Frecuente
+de segundo grado y extrasístoles ventriculares
+Fallo cardiaco, cianosis, palpitaciones                             Poco frecuente
+Trastornos de la sangre y del sistema linfático
+Anemia, leucopenia, trombocitopenia                                 Frecuente
+Coagulopatía, eosinofilia, anemia hemolítica, reacción
+leucemoide, pancitopenia
+Trastornos del sistema nervioso
+Cefalea, temblores                                                  Frecuente
+Agitación, coreoatetosis, confusión, convulsiones, vértigo,
+hipertonía, hipoestesia, neuropatía, rigidez nucal, parestesia,
+parálisis del nervio peroneal, somnolencia, trastorno del
+habla, estupor, pensamiento anómalo
+Trastornos del oído y del laberinto
+Sordera, acúfenos                                                   Poco frecuente
+Trastornos respiratorios, torácicos y mediastínicos
+Asma, disnea, hiperventilación, alteración respiratoria             Frecuente
+Tos, hipoxia, edema pulmonar, fallo respiratorio, rinitis           Poco frecuente
+Trastornos gastrointestinales
+Diarrea, náuseas, vómitos                                           Frecuente
+Heces anormales, estreñimiento, sequedad de boca, disgeusia,
+dispepsia, disfagia, flatulencia, hemorragia gastrointestinal
+incluida hemorragia rectal y gingival, pancreatitis, estomatitis,
+cambios en la coloración de la lengua
+Trastornos renales y urinarios
+Insuficiencia renal incluido fallo renal                            Frecuente
+Anuria, hematuria, nefropatía tóxica, oliguria, anomalías de la
+orina
+Trastornos de la piel y del tejido subcutáneo
+Rash                                                                Frecuente
+Equimosis, hiperhidrosis, petequias, prurito, rash máculo-
+papular, decoloración de la piel, úlceración cutánea, urticaria
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Artralgia, dolor óseo, espasmos musculares, mialgia                 Poco frecuente
+Trastornos del metabolismo y de la nutrición
+Acidosis, alteraciones de los niveles séricos de potasio, calcio,
+cloruros, fosfato, alteraciones del equilibrio hídrico,             Frecuente
+hiperbilirrubinemia, hipopotasemia, hipomagnesemia
+Alcalosis, anorexia, hiperlipidemia, hipernatremia,
+hiperuricemia
+Infecciones e infestaciones
+Infección, sepsis                                                   Poco frecuente
+Trastornos vasculares
+Hipertensión, hipotensión                                           Frecuente
+Angiopatía, palidez, flebitis, embolia pulmonar, shock,
+vasodilatación, enfermedad hepática por oclusión venosa
+Sistema de
+clasificación Reacciones Adversas                                               Frecuencia
+de órganos
+Trastornos generales y alteraciones en el lugar de administración
+Escalofríos, pirexia                                              Muy frecuente
+Astenia, edema generalizado, reacción en el lugar de la
+inyección
+Dolor abdominal, dolor de espalda, dolor torácico,
+hipersensibilidad en el lugar de la inyección, malestar, fallo    Poco frecuente
+multiorgánico
+Trastornos del sistema inmunológico
+Reacciones anafilactoideas, hipersensibilidad, rechazo de
+trasplantes
+Trastornos hepatobiliares
+Anomalías en pruebas de función hepática                          Frecuente
+Colelitiasis, hepatitis, lesión hepatocítica, síndrome
+hepatorenal, ictericia
+Trastornos psiquiátricos
+Ansiedad, nerviosismo                                             Poco frecuente
+ Las reacciones adversas relacionadas con la perfusión (tales como escalofríos y pirexia)
+observadas tras la administración de Abelcet son, por lo general de carácter leve o moderado y
+aparecen principalmente durante los dos primeros días de tratamiento. Dichas reacciones remiten
+habitualmente transcurridos unos pocos días de tratamiento y se pueden prevenir usando una
+premedicación adecuada (ver apartado 4.4).
+ 4.9   Sobredosis
+ Los síntomas y signos de sobredosificación son congruentes con el perfil de reacciones adversas
+descritas con el tratamiento a dosis estándar (ver apartado 4.8). Se han administrado dosis de hasta
+10 mg/kg/día en estudios clínicos sin observación aparente de toxicidad dependiente de la dosis.
+En un paciente pediátrico que recibió una dosis de 25 mg/kg se observaron convulsiones y
+bradicardia.
+ En casos de sobredosis se debe monitorizar la función cardio-pulmonar, renal y hepática así
+como el recuento hemático y los electrolitos en suero e instaurar las medidas de soporte vital
+adecuadas. No se conoce ningún antídoto específico de la amfotericina B.
+ Abelcet no se elimina mediante hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antimicóticos para uso sistémico.
+Código ATC: J02A A01
+ Abelcet es un complejo de amfotericina B con dos fosfolípidos. La amfotericina B es un
+antibiótico antifúngico de amplio espectro, macrocíclico y poliénico producido por Streptomyces
+nodosus. La fracción lipofílica de la amfotericina B permite que las moléculas del medicamento
+formen un complejo curvilíneo con los fosfolípidos.
+                                                                                                       MINISTERIO
+Mecanismo de acción
+Actividad antifúngica
+La amfotericina B puede ser fungistática o fungicida en función de su concentración y de la
+sensibilidad del microorganismo.
+Probablemente actúa uniéndose al ergosterol de la membrana del hongo, dañando la membrana y
+aumentando su permeabilidad. Como resultado, se produce el vertido del contenido celular y, en
+última instancia, la muerte celular. La unión de la amfotericina B a los esteroles de las membranas
+celulares humanas puede conllevar toxicidad, aunque posee mayor afinidad por los ergosteroles
+fúngicos que por el colesterol de las células humanas.
+ In vitro, la amfotericina B es activa frente a diferentes especies de hongos patógenos tales como
+Candida spp., Cryptococcus neoformans, Aspergillus fumigatus., Mucor spp., Sporothrix schenkii,
+Blastomyces dermatitidis, Coccidiodes immitis e Histoplasma capsulatum. La mayoría de las
+cepas son inhibidas por la amfotericina B a concentraciones de 0,03-1,00 µg/ml. Scedosporium
+spp. y Trichosporon spp. muestran resistencia intrínseca a amfotericina B, mientras que un
+porcentaje importante de cepas de Aspergillus terreus y A. flavus presentan de forma intrínseca
+sensibilidad reducida (CMI >1 µg/mL) y se consideran especies resistentes in vivo.
+Concentraciones mínimas inhibitorias superiores a 1 µg/mL se asocian a cepas de Candida spp.
+generalmente resistentes al tratamiento.
+ Actividad antiprotozoaria
+Se cree que la amfotericina B destruye los promastigotes de Leishmania spp. mediante la
+formación de poros acuosos en la membrana, permeables a los cationes. Esta selectividad
+diferencial entre cationes/aniones conlleva la pérdida del potencial de transmembrana
+característicamente negativo. La formación de los poros acuosos se origina tras la interacción de
+amfotericina B con los esteroles del protozoo, y ocasiona pérdidas no selectivas de K+ y
+metabolitos esenciales que conducen a la muerte celular.
+ 5.2 Propiedades farmacocinéticas
+Abelcet es un complejo de amfotericina B con dos fosfolípidos. Los datos disponibles de
+farmacocinética en humanos son limitados. Estudios animales muestran que tras la administración
+de Abelcet, la amfotericina B se distribuye rápidamente a los tejidos alcanzando los niveles más
+altos en hígado, bazo y pulmón. La relación entre las concentraciones de amfotericina B en los
+tejidos respecto a las de la sangre aumenta de forma no proporcional al incrementar la dosis, lo
+que sugiere que la eliminación de la amfotericina B de los tejidos se retrasa. Así mismo, Abelcet
+posee un aclaramiento más rápido y un volumen de distribución mayor que la amfotericina B
+deoxicolato.
+ La concentración máxima de amfotericina B en sangre es menor después de la administración de
+Abelcet que después del tratamiento con dosis equivalentes de amfotericina B deoxicolato. La
+administración de amfotericina B deoxicolato da lugar a concentraciones tisulares
+considerablemente menores que Abelcet. No obstante, en un estudio realizado con perros la
+amfotericina B deoxicolato dio lugar a concentraciones 20 veces mayores en riñón que Abelcet
+cuando se administraban a dosis equivalentes.
+ Los parámetros farmacocinéticos determinados en sangre total en pacientes con leishmaniasis
+mucocutánea tras administración de dosis repetidas de Abelcet de 5 mg/kg/día se presentan a
+continuación:
+                                                                                                       MINISTERIO
+Dosis (mg/kg/día)                                                      5,0
+Concentración máxima, Cmax (µg/ml)                                     1,7
+Área bajo la curva concentración-tiempo, AUC0-24 (µg·h/ml)             9,5
+Aclaramiento (ml/h/kg)                                               211,0
+Volumen de distribución, Vd (l)                                     2286,0
+Semivida de eliminación, t1/2 (h)                                    173,4
+La cinética de Abelcet no es lineal y el AUC no aumenta proporcionalmente con la dosis. Por
+tanto, la farmacocinética de Abelcet se caracteriza por una semivida plasmática muy prolongada,
+un aclaramiento plasmático rápido, un volumen de distribución amplio y un área bajo la curva
+menor que la de amfotericina B deoxicolato.
+ 5.3   Datos preclínicos sobre seguridad
+ Estudios de toxicidad aguda en roedores muestran que Abelcet es de 10 a 20 veces menos tóxico
+que la amfotericina B deoxicolato. Los estudios de toxicidad de dosis múltiples en perros durante
+2-4 semanas mostraron que Abelcet es 8 a 10 veces menos nefrotóxico que la amfotericina B
+deoxicolato cuando se llevó a cabo una comparación en términos de la dosis (mg/kg), hecho que
+se ha atribuido a una menor concentración de amfotericina B en el riñón.
+ No se han descrito hallazgos de carcinogenicidad, mutagenicidad, teratogenicidad o alteración de
+la fertilidad con amfotericina B deoxicolato.
+ Los estudios de mutagenicidad realizados con amfotericina B complejo lipídico (ensayo del
+micronúcleo en ratón in vivo, pruebas bacterianas y de mutación de linfoma in vitro y pruebas
+citogenéticas en células CHO in vivo) han evidenciado que Abelcet no es mutagénico.
+Adicionalmente, los estudios de toxicidad llevados a cabo en animales (conejos y ratas) han
+puesto de manifiesto que Abelcet no es teratogénico.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ L--dimiristoilfosfatidilcolina (DMPC)
+L--dimiristoilfosfatidilglicerol (en forma de sales de sodio y amonio) (DMPG)
+Cloruro de sodio
+Agua para inyección
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros. No
+diluir con soluciones salinas (ver apartado 6.6).
+ 6.3   Periodo de validez
+ Viales de 10 ml: 18 meses
+Viales de 20 ml: 2 años
+ Una vez diluida para su uso, la suspensión se mantiene estable durante 24 horas entre 2-8º C.
+ Se ha demostrado la estabilidad química y física en uso tras la reconstitución, de 48 horas en
+nevera (+2ºC a +8ºC) y de 6 horas a temperatura ambiente (+15ºC a +25ºC). Desde un punto de
+vista microbiológico, Abelcet se debe utilizar inmediatamente puesto que no contiene
+conservantes para prevenir una posible contaminación. Si no se usa de inmediato, los tiempos y
+condiciones de almacenamiento en uso, previos a la administración, son responsabilidad del
+usuario y no deben ser, por lo general superiores a 24 horas entre 2ºC y 8ºC, a no ser que la
+reconstitución y la dilución se hayan realizado en condiciones asépticas controladas y validadas.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC y 8ºC).
+No congelar.
+Conservar el vial en el embalaje exterior.
+Para las condiciones de conservación del medicamento diluido, ver sección 6.3.
+ 6.5   Naturaleza y contenido del envase
+ Abelcet se presenta en viales unitarios de vidrio tipo I, conteniendo 10 ml ó 20 ml. El vial está
+sellado con un tapón de silicona y un precinto de aluminio.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en
+contacto con él, se realizará de acuerdo con la normativa local.
+ DEBE SEGUIRSE ESTRICTAMENTE UNA TÉCNICA ASÉPTICA DURANTE LA
+MANIPULACIÓN DE ABELCET, YA QUE NO CONTIENE BACTERIOSTÁTICOS NI
+CONSERVANTES.
+ Al iniciar el tratamiento con Abelcet por primera vez se recomienda administrar una dosis de
+prueba inmediatamente antes de la primera perfusión. La suspensión para perfusión debe
+prepararse según las instrucciones que se indican en esta sección. Una vez preparada, se debe
+administrar al paciente aproximadamente 1 mg de la perfusión durante un período de 15 minutos.
+Una vez administrada esta cantidad la perfusión se debe interrumpir y se debe observar
+cuidadosamente al paciente durante 30 minutos. Si el paciente no muestra signos de
+hipersensibilidad, la perfusión puede continuar. Los resultados de esta prueba no siempre son
+definitivos.
+ Para preparar la suspensión para la perfusión, deben tenerse en cuenta las siguientes
+instrucciones
+1. Retirar el vial de la nevera y dejar unos minutos hasta que alcance la temperatura
+ambiente, agitar suavemente hasta que no se observe ningún sedimento amarillo en el
+fondo del mismo.
+2. Extraer la dosis adecuada de Abelcet de los viales necesarios con una o más jeringuillas
+estériles de 20 ml provistas de una aguja de 17 a 19G.
+3. Retirar las agujas de cada jeringuilla llena de Abelcet y reemplazarlas por la aguja con
+filtro de 5 micras que lleva cada vial.
+4. Insertar la aguja con filtro en una bolsa de glucosa al 5% y vaciar el contenido de la
+jeringa en la bolsa. Cada aguja con filtro debe ser utilizada solamente para filtrar el
+contenido de un vial, y debe utilizarse un nuevo filtro para cada vial posterior.
+La concentración final de perfusión debe ser de 1 mg/ml. Para niños o pacientes con
+enfermedades cardiovasculares, el medicamento debe ser diluido con glucosa al 5% hasta
+conseguir una concentración final de perfusión de 2 mg/ml.
+La perfusión intravenosa debe administrarse a una velocidad de 2,5 mg/kg/hora. Es especialmente
+recomendable administrarla por medio de una bomba de perfusión.
+Si se aplica el tratamiento de Abelcet en una vía intravenosa colocada previamente, ésta debe
+lavarse antes con glucosa al 5% o bien deberá emplearse una vía exclusivamente para la
+perfusión.
+ No hay que utilizar el preparado después de la dilución con glucosa al 5% si hay evidencia de
+contaminación.
+Los viales son de un único uso. Desechar el contenido del vial no empleado. No almacenar para
+su uso posterior.
+ ABELCET SÓLO DEBE DILUIRSE EN SUERO GLUCOSADO AL 5% Y NO EN
+SOLUCIONES SALINAS NI MEZCLARSE CON con otros medicamentos O
+ELECTROLITOS.
+ Tras el almacenamiento en uso de la suspensión diluida preparada para el uso, ésta se deberá
+agitar enérgicamente antes de ser utilizada.
+ 
+7.           TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Cephalon Pharma, S.L.U.
+Avda. Alcalde Barnils, 70
+08174 ­ Sant Cugat del Vallès (Barcelona)
+ 
+8.           NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	60.945
+ 9.           FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 01 de enero 1996
+Fecha de la renovación de la autorización: 01 de enero 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ Abril 2008
+
+	 
+      ABELCET, 10 viales con 20 ml
+         Todos los prospectos de medicamentos.

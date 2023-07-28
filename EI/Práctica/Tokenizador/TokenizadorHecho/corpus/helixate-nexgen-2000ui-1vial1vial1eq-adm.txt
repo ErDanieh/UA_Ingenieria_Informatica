@@ -1,0 +1,889 @@
+HELIXATE NEXGEN 2000UI 1VIAL+1VIAL+1EQ ADM
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Helixate NexGen 250 UI Polvo y disolvente para solución inyectable.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Factor VIII de coagulación de origen recombinante, 250 UI/vial.
+DCI: octocog alfa
+El factor VIII de coagulación de origen recombinante se produce mediante ingeniería genética a partir de
+células de riñón de crías de hámster que contienen el gen del factor VIII humano.
+ Disolvente: Agua para preparaciones inyectables
+ El medicamento reconstituido con los 2,5 ml de agua para preparaciones inyectables que le acompaña
+contiene aproximadamente 100 UI de octocog alfa/ml.
+ La potencia (UI) se determina utilizando el ensayo de coagulación en una etapa, en comparación con
+el estándar Mega de la FDA, que ha sido calibrado frente al estándar de la OMS en UI.
+La actividad específica es, aproximadamente, de 4000 UI/mg de proteína.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo y disolvente para solución inyectable.
+ El polvo seco se presenta en un vial en forma de polvo suelto o sólido friable de color blanco o
+ligeramente amarillento.
+El disolvente es agua para preparaciones inyectables.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento y profilaxis de las hemorragias en pacientes con hemofilia A (déficit congénito de factor
+VIII).
+Este medicamento no contiene factor de von Willebrand y por lo tanto no está indicado en la
+enfermedad de von Willebrand.
+ 4.2   Posología y forma de administración
+ El tratamiento debe iniciarse bajo la supervisión de un médico con experiencia en el tratamiento de la
+hemofilia.
+ Posología
+El número de unidades de factor VIII administradas se expresa en Unidades Internacionales (UI), que
+se corresponden con el estándar actual de la OMS para medicamentos de factor VIII. La actividad del
+factor VIII en plasma puede expresarse en porcentaje (referido al plasma humano normal) o bien, en
+Unidades Internacionales (referido al estándar internacional para el factor VIII en plasma). Una
+Unidad Internacional (UI) de actividad de factor VIII equivale a la cantidad de factor VIII presente en
+un ml de plasma humano normal. El cálculo de la dosis necesaria de factor VIII se basa en el hallazgo
+empírico de que 1 Unidad Internacional (UI) de factor VIII por kg de peso corporal aumenta la
+actividad plasmática de factor VIII en 1,5% - 2,5% de la actividad normal. La dosis requerida se
+determina utilizando las fórmulas siguientes:
+                                                     2
+I.      UI requeridas = peso corporal(kg) x aumento deseado de factor VIII (% del normal) x 0,5
+ II.     Aumento previsto del factor VIII (% del normal) = 2 x UI administradas
+ La posología y duración del tratamiento sustitutivo deberá individualizarse según las necesidades del
+paciente (peso, gravedad del trastorno de la función hemostática, localización e intensidad de la
+hemorragia, titulación de inhibidores y del nivel deseado de FVIII).
+ La tabla siguiente proporciona una guía de los niveles sanguíneos mínimos de factor VIII en diferentes
+situaciones clínicas. En el caso de las hemorragias que aparecen en la lista, el nivel de actividad del factor
+VIII no podrá ser inferior al nivel indicado (en % del normal), en el período correspondiente:
+       Grado de la hemorragia/Tipo Nivel de factor VIII            Frecuencia de dosificación
+de procedimiento quirúrgico requerido (%)                   (horas)/Duración de la terapia
+Hemorragia
+                                                 20 - 40           Repetir cada 12 - 24 horas. Al
+Hemartrosis precoz, sangrado
+muscular o sangrado de la
+cavidad oral
+Hemartrosis más extensa,                  30 - 60           Repetir la perfusión cada 12 - 24
+sangrado muscular o                                         horas durante 3 - 4 días o hasta que
+hematoma                                                    el dolor y discapacidad se hayan
+Sangrados con riesgo vital,              60 - 100           Repetir la perfusión cada 8 - 24
+como sangrado intracraneal, de                              horas hasta que el riesgo
+garganta, sangrado                                          desaparezca.
+gastrointestinal grave
+Cirugía
+                                                 30 - 60           Cada 24 horas, al menos 1 día, hasta
+Menor
+Incluyendo extracciones
+dentales
+Mayor                                    80 - 100           a) Como dosis en bolo
+                                                       3
+La cantidad y frecuencia de la administración se debe adaptar a la respuesta clínica en cada caso
+individual. En determinadas circunstancias pueden requerirse cantidades superiores a las calculadas,
+especialmente en el caso de la dosis inicial.
+ Durante el tratamiento se recomienda controlar el nivel de factor VIII para determinar la dosis a
+administrar y la frecuencia con la que se debe repetir la perfusión. En el caso especial de las
+intervenciones de cirugía mayor, es indispensable controlar con precisión el tratamiento de sustitución
+mediante pruebas de la coagulación (actividad del factor VIII plasmático). La respuesta individual de
+cada paciente frente al factor VIII puede variar y alcanzar distintos niveles de recuperación in vivo y
+presentar semividas diferentes.
+En un ensayo clínico, realizado en pacientes adultos con hemofilia A sometidos a cirugía mayor, se ha
+demostrado que Helixate NexGen puede utilizarse como perfusión continua en intervenciones
+quirúrgicas (antes, durante y después de la operación). En este ensayo, como con otras perfusiones
+intravenosas de larga duración, se utilizó heparina para prevenir una tromboflebitis en la zona de
+perfusión. Para el cálculo de la velocidad de perfusión inicial, el aclaramiento puede obtenerse
+realizando una curva de eliminación previa a la cirugía o bien empezar con un valor promedio (3,0-3,5
+ml/Kg/h) y después ajustar en función del paciente.
+Velocidad de perfusión (en UI/Kg/h) = Aclaramiento (en ml/h/Kg) x nivel deseado de factor VIII (en
+UI/ml)
+La estabilidad clínica e in vitro durante la perfusión continua ha sido demostrada empleando bombas
+ambulatorias con un reservorio de PVC. Helixate NexGen contiene un nivel bajo de polisorbato 80
+como excipiente, del cual se sabe que incrementa la tasa de extracción del di- (2-etilhexil) ftalato
+(DEHF) de los materiales de PVC. Este aspecto deberá tenerse en cuenta en la administración por
+perfusión continua.
+ En la profilaxis programada para prevenir hemorragias en pacientes con hemofilia A grave, deben
+administrarse dosis de 20 a 60 UI de Helixate NexGen por kg de peso corporal, a intervalos de 2 a 3
+días. En algunos casos, especialmente en los pacientes más jóvenes, puede ser necesario un intervalo
+de dosificación más corto o dosis mayores. Se han obtenido datos en 61 niños menores de 6 años.
+ Pacientes con inhibidores
+Debe controlarse en los pacientes el desarrollo de inhibidores del factor VIII. Si no se alcanzan los
+niveles de actividad plasmática de factor VIII esperados, o si no se controla la hemorragia con una
+dosis adecuada, debe realizarse una prueba para determinar la presencia de inhibidores del factor VIII.
+Si el inhibidor está presente en niveles inferiores a 10 Unidades Bethesda (U.B.) por ml, la
+administración adicional de factor VIII de coagulación de origen recombinante puede neutralizarlo y
+permitir el tratamiento continuado clinicamente eficaz con Helixate NexGen. No obstante, en
+presencia de un inhibidor, las dosis requeridas son variables y deben ajustarse a la respuesta clínica, y
+a los valores de la actividad plasmática de factor VIII que se observen. En pacientes con títulos de
+inhibidores superiores a 10 U.B. o con una respuesta anamnésica alta deberá considerarse la
+utilización del concentrado de complejo protrombínico (activado) (CCPa) o de preparados de factor
+VII activado recombinante (rFVIIa). Estos tratamientos deberán ser dirigidos por médicos con
+experiencia en el tratamiento de pacientes hemofílicos.
+ Administración
+Disolver el preparado según se indica en la sección 6.6.
+Helixate NexGen debe administrarse por vía intravenosa durante varios minutos. La velocidad de
+administración se determinará en función del grado de bienestar del paciente (velocidad máxima de
+perfusión: 2 ml/min).
+Helixate NexGen puede administrarse mediante perfusión continua. La velocidad de perfusión debe
+calcularse en función del aclaramiento y del nivel deseado de FVIII.
+Ejemplo: para un paciente de 75 Kg con un aclaramiento de 3 ml/Kg/h, la velocidad de perfusión
+inicial debería ser de 3 UI/Kg/h para obtener un nivel de FVIII del 100%. Para el cálculo de los
+ml/hora, multiplicar la velocidad de infusión en UI/Kg/h por los Kg de peso corporal/concentración de
+la solución (UI/ml).
+                                                     4
+Nivel plasmático      Velocidad de      Velocidad de perfusión para un
+requerido de          perfusión         paciente de 75 Kg
+FVIII                 IU/h/kg           ml/h
+Aclaramiento:                                              Concentraciones de la solución de
+3 ml/h/kg                                                  FVIIIr
+100 % (1 UI/ml)       3,0               2,25         1,125       0,56
+ Puede requerirse una mayor velocidad de perfusión en situaciones de aclaramiento acelerado durante
+hemorragias importantes o en caso de daño tisular extenso durante intervenciones quirúrgicas.
+Las velocidades de perfusión subsiguientes deberán calcularse en función del nivel de FVIII real y
+aclaramiento recalculada para cada día post-cirugía a partir de la ecuación: aclaramiento = velocidad
+de perfusión/nivel de FVIII real.
+ 4.3   Contraindicaciones
+ Hipersensibilidad conocida al principio activo, a las proteínas de ratón o hámster, o a alguno de los
+excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Como con cualquier otro medicamento proteico para administración intravenosa, es posible que se
+produzcan reacciones de hipersensibilidad de tipo alérgico. Los pacientes deben ser informados de que la
+posible aparición de opresión torácica, vértigo, hipotensión leve y náusea durante la perfusión pueden ser
+signos precoces de hipersensibilidad y reacción anafiláctica. Cuando sea necesario, se deberá instituir
+tratamiento para la hipersensibilidad, incluyendo un tratamiento sintomático. Si se produjera una reacción
+anafiláctica, se interrumpirá inmediatamente la inyección o la perfusión y los pacientes deben contactar
+con su médico. En caso de shock, se seguirán las pautas médicas habituales para su tratamiento.
+ La formación de anticuerpos neutralizantes del factor VIII (inhibidores) es una complicación conocida
+en el tratamiento de pacientes con hemofilia A. Estos inhibidores son exclusivamente
+inmunoglobulinas IgG dirigidas contra la actividad procoagulante del factor VIII, y se cuantifican en
+Unidades Bethesda (U.B.) modificadas, por ml de plasma. El riesgo de desarrollo de inhibidores está
+correlacionado con la exposición al factor VIII antihemofílico y con factores genéticos entre otros,
+siendo el riesgo mayor en los primeros 20 días de tratamiento. Los inhibidores raramente se forman
+después de los primeros 100 días de tratamiento.
+Se han observado casos recurrentes de inhibidores (con título bajo), después de cambiar de un Factor
+VIII recombinante a otro en los pacientes que tienen un tratamiento previo de más de 100 días de
+exposición y que tienen antecedentes de desarrollo de inhibidores.
+Los pacientes tratados con factor VIII de coagulación de origen recombinante deben ser controlados
+cuidadosamente mediante observación clínica y pruebas de laboratorio adecuadas para determinar la
+presencia de inhibidores. Ver también la sección 4.8 Reacciones adversas.
+ En un ensayo clínico sobre el uso de la perfusión continua en cirugía, se utilizó como en cualquier
+perfusión intravenosa prolongada, heparina para prevenir una tromboflebitis en la zona de perfusión.
+ En beneficio de los pacientes se recomienda que, siempre que sea posible, cada vez que se les
+administre Helixate NexGen, se deje constancia del nombre del medicamento y de su número de lote.
+ Este medicamento contiene menos de 1 mmol de sodio (23 mg) por dosis , esto es, esencialmente
+""exento de sodio"".
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se conocen interacciones de Helixate NexGen con con otros medicamentos.
+ 4.6   Embarazo y lactancia
+ No se han llevado a cabo estudios de reproducción animal con Helixate NexGen.
+ Puesto que la hemofilia A es excepcional en mujeres, no se dispone de experiencia sobre el uso de
+Helixate NexGen durante el embarazo y el periodo de lactancia. Por consiguiente, Helixate NexGen sólo
+se utilizará en estos casos si está estrictamente indicado.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La influencia de Helixate NexGen sobre la capacidad para conducir y utilizar máquinas es nula.
+ 4.8   Reacciones adversas
+ Después de la administración de Helixate NexGen, se han observado efectos adversos de leves a
+moderados en casos excepcionales según se presenta en la tabla siguiente:,
+ Clasificación de órganos del sistema MedDRA       Término preferente en MedDRA
+Trastornos de la sangre y del sistema linfático   Inhibición del factor VIII
+Trastornos gastrointestinales                     Disgeusia
+Trastornos generales y alteraciones en el lugar   Reacción local en el lugar de administración
+de administración                                 de la inyección
+Trastornos del sistema inmunológico               Reacción alérgica/anafiláctica
+Investigaciones                                   Alteración de la presión arterial
+Trastornos del sistema nervioso                   Mareo
+Trastornos de la piel y del tejido subcutáneo     Prurito
+ La formación de anticuerpos neutralizantes del factor VIII (inhibidores) es una complicación conocida en
+el tratamiento de pacientes con hemofilia A. En estudios con preparados de factor VIII recombinante, el
+desarrollo de inhibidores se observó principalmente en pacientes hemofílicos no tratados previamente.
+Por este motivo, los pacientes deben someterse a una monitorización estrecha mediante pruebas de
+laboratorio y exámenes clínicos apropiados para determinar la formación de dichos inhibidores.
+ Helixate NexGen ha sido utilizado en ensayos clínicos para el tratamiento de episodios hemorrágicos en
+37 pacientes no tratados previamente (PUPs) y 23 pacientes mínimamente tratados previamente (MTPs,
+definidos como aquellos pacientes con menos de 4 días de exposición al tratamiento). Cinco de los 37
+pacientes PUPs (14%) y 4 de los 23 MTPs (17%) tratados con Helixate NexGen desarrollaron
+inhibidores: en general, 6 de 60 (10%) presentaron un título superior a 10 U.B. y 3 de 60 (5%) un
+título inferior a 10 U.B. El valor de la mediana de los días de exposición en la detección de inhibidores
+para estos pacientes fue de 9 días (rango 3-18 días).
+ La mediana de los días de exposición en los ensayos clínicos fue de 114 (rango 4-478 días). Cuatro de
+cinco pacientes, que no alcanzaron los 20 días de exposición al final del ensayo, los alcanzaron
+posteriormente en el seguimiento posterior al ensayo y uno de los pacientes desarrolló inhibidores con
+título bajo. El quinto paciente se perdió en el seguimiento.
+ En ensayos clínicos con 73 pacientes tratados previamente (PTPs, definidos como aquellos pacientes con
+más de 100 días de exposición al tratamiento), no se observaron inhibidores de-novo tras un seguimiento
+durante cuatro años.
+                                                     6
+En amplios estudios post-comercialización con más de 1.000 pacientes tratados con Helixate NexGen, se
+observó que menos del 0,2% de los pacientes tratados previamente (PTPs) habían desarrollado
+inhibidores de-novo. En un subgrupo de pacientes con menos de 20 días de exposición al inicio del
+estudio, menos del 11% desarrollaron inhibidores de-novo.
+ Durante los ensayos, ningún paciente desarrolló títulos de anticuerpos con repercusión clínica frente a
+las cantidades mínimas de proteína de ratón y hámster presentes en el medicamento. Sin embargo,
+existe la posibilidad de reacción alérgica a los componentes del medicamento, como por ejemplo, a las
+pequeñas cantidades de proteína de ratón y hámster, en pacientes con cierta predisposición (ver
+secciones 4.3 y 4.4).
+ 4.9   Sobredosis
+ No se han notificado síntomas de sobredosis con factor VIII de la coagulación de origen recombinante.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Factor VIII de la coagulación, código ATC: B02B D02.
+ El complejo de factor VIII/factor de von Willebrand (vWF) está formado por dos moléculas (factor VIII
+y vWF) con funciones fisiológicas diferentes. Cuando se perfunde a un paciente hemofílico, el factor VIII
+se une al vWF presente en la circulación del paciente. El factor VIII activado actúa como cofactor del
+factor IX activado, acelerando la conversión del factor X en factor X activado. El factor X activado
+convierte la protrombina en trombina. Seguidamente, la trombina convierte el fibrinógeno en fibrina,
+formándose el coágulo. La hemofilia A es una alteración de la coagulación sanguínea hereditaria ligada al
+sexo y se debe a la presencia de niveles reducidos de factor VIII:C que da lugar a un sangrado profuso en
+las articulaciones, músculos u órganos internos, ya sea de forma espontánea o a causa de un traumatismo
+accidental o quirúrgico. El tratamiento de sustitución aumenta los niveles plasmáticos de factor VIII,
+obteniéndose una corrección temporal del déficit de este factor y de la diatesis hemorrágica.
+ La determinación del tiempo de tromboplastina parcial activada (TTPa) es un método de ensayo in vitro
+convencional para determinar la actividad biológica del factor VIII. El TTPa está alargado en todos los
+pacientes hemofílicos. El grado y duración de la normalización del TTPa observados tras la
+administración de Helixate NexGen son similares a los obtenidos con factor VIII derivado del plasma.
+ 5.2   Propiedades farmacocinéticas
+ El análisis de los valores de recuperación in vivo registrados en pacientes tratados previamente ha
+demostrado un incremento promedio del 2% por UI/Kg de peso corporal para Helixate NexGen. Este
+valor es similar a los valores registrados con el factor VIII derivado del plasma humano.
+ Tras la administración de Helixate NexGen, la actividad máxima del factor VIII disminuye siguiendo una
+curva exponencial de dos fases con un promedio desemivida terminal de 15 horas, aproximadamente.
+Este valor es similar al observado con el factor VIII derivado del plasma, cuya semivida terminal media
+es de 13 horas, aproximadamente. Otros parámetros farmacocinéticos de Helixate NexGen para la dosis
+de carga como perfusión son: tiempo medio de residencia [TMR (0 - 48)] 22 horas, aproximadamente;
+aclaramiento: 160 ml/h, aproximadamente. El aclaramiento basal medio para 14 pacientes adultos
+sometidos a cirugía mayor con perfusión continua es de 188 ml/h, que corresponde a 3,0 ml/Kg/h
+(intervalo 1,6-4,6 ml/Kg/h).
+ 5.3   Datos preclínicos sobre seguridad
+ Incluso a dosis varias veces superiores a la dosis clínica recomendada (en relación al peso corporal), no
+se evidenció ningún efecto tóxico agudo o subagudo de Helixate NexGen en animales de laboratorio
+(ratón, rata, conejo y perro).
+ No se han llevado a cabo estudios específicos de administración repetida de octocog alfa tales como la
+toxicidad de reproducción, toxicidad crónica y carcinogénesis, debido a la respuesta inmune a las
+proteínas heterólogas entre las especies de mamíferos distintas al hombre.
+ No se han realizado estudios sobre el potencial mutagénico de Helixate NexGen, ya que no se ha
+detectado ningún potencial mutagénico in vivo o in vitro del compuesto precursor de Helixate NexGen.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Polvo
+Glicina
+Cloruro de sodio
+Cloruro de calcio
+Histidina
+Polisorbato 80
+Sacarosa
+ Disolvente
+Agua para preparaciones inyectables
+ 6.2   Incompatibilidades
+ Este medicamento no debe mezclarse con otros fármacos o disolventes.
+Sólo debe utilizarse para la reconstitución y administración el equipo que se suministra, ya que pueden
+producirse fallos en el tratamiento debido a la adsorción del factor VIII de la coagulación a la
+superficie interna de algunos equipos de perfusión.
+ 6.3   Periodo de validez
+ 30 meses.
+ Tras la reconstitución, el medicamento debe utilizarse inmediatamente. Se ha demostrado, no obstante, la
+estabilidad química y física en el uso durante 48 horas a 30ºC.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2°C y 8°C). No congelar. Conservar los viales en el embalaje exterior para
+protegerlos de la luz..
+ El medicamento envasado puede conservarse a temperatura ambiente (inferior a 25°C) durante un
+periodo máximo de 3 meses. En este caso, el medicamento caduca al finalizar el periodo de 3 meses;
+deberá anotarse la nueva fecha de caducidad en la parte superior del embalaje exterior.
+ No refrigerar una vez reconstituido. Utilizar el contenido en una sola ocasión. Desechar la solución no
+utilizada.
+ Para las condiciones de conservación del medicamento reconstituido, ver sección 6.3.
+ 6.5   Naturaleza y contenido del envase
+ Cada envase de Helixate NexGen contiene:
+·     un vial con polvo (vial de vidrio tipo 1, transparente, de 10 ml con tapón de mezcla de caucho
+bromobutílico gris exento de látex y cierre de aluminio)
+·     un vial con disolvente (vial de vidrio tipo 2, transparente, de 10 ml con tapón de mezcla de caucho
+clorobutílico gris exento de látex y cierre de aluminio)
+·     un envase adicional con:
+- 1 trasvasador con filtro
+- 1 equipo para venopunción
+- 1 jeringa de un solo uso de 5 ml
+- dos toallitas estériles impregnadas de alcohol, de un solo uso.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ El prospecto incluido en el envase de Helixate NexGen contiene las instrucciones para su preparación y
+administración.
+ El polvo de Helixate NexGen debe reconstituirse únicamente con el disolvente suministrado (2,5 ml de
+agua para preparaciones inyectables) utilizando para ello el Mix2Vial, equipo de transferencia estéril
+suministrado. La reconstitución debe realizarse según los procedimientos de buenas prácticas, con
+especial atención a las normas de asepsia. Girar suavemente el vial, sin agitar, hasta que se haya disuelto
+todo el medicamento. Tras la reconstitución, la solución es transparente. No utilizar Helixate NexGen si
+se observan partículas o turbidez en su interior.
+ Una vez reconstituido, la solución se transfiere a la jeringa estéril desechable suministrada, utilizando
+el Mix2Vial, equipo de transferencia estéril suministrado.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Bayer HealthCare AG
+D-51368 Leverkusen
+Alemania
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/00/144/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 04 de agosto de 2000
+Fecha de la última renovación: 04 de agosto de 2005
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu/.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Helixate NexGen 500 UI Polvo y disolvente para solución inyectable.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Factor VIII de coagulación de origen recombinante, 500 UI/vial.
+DCI: octocog alfa
+El factor VIII de coagulación de origen recombinante se produce mediante ingeniería genética a partir de
+células de riñón de crías de hámster que contienen el gen del factor VIII humano.
+ Disolvente: Agua para preparaciones inyectables
+ El medicamento reconstituido con los 2,5 ml de agua para preparaciones inyectables que le acompaña
+contiene aproximadamente 200 UI de octocog alfa/ml.
+ La potencia (UI) se determina utilizando el ensayo de coagulación en una etapa, en comparación con
+el estándar Mega de la FDA, que ha sido calibrado frente al estándar de la OMS en UI.
+La actividad específica es, aproximadamente, de 4000 UI/mg de proteína.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo y disolvente para solución inyectable.
+ El polvo seco se presenta en un vial en forma de polvo suelto o sólido friable de color blanco o
+ligeramente amarillento.
+El disolvente es agua para preparaciones inyectables.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento y profilaxis de las hemorragias en pacientes con hemofilia A (déficit congénito de factor
+VIII).
+Este medicamento no contiene factor de von Willebrand y por lo tanto no está indicado en la
+enfermedad de von Willebrand.
+ 4.2   Posología y forma de administración
+ El tratamiento debe iniciarse bajo la supervisión de un médico con experiencia en el tratamiento de la
+hemofilia.
+ Posología
+El número de unidades de factor VIII administradas se expresa en Unidades Internacionales (UI), que
+se corresponden con el estándar actual de la OMS para medicamentos de factor VIII. La actividad del
+factor VIII en plasma puede expresarse en porcentaje (referido al plasma humano normal) o bien, en
+Unidades Internacionales (referido al estándar internacional para el factor VIII en plasma). Una
+Unidad Internacional (UI) de actividad de factor VIII equivale a la cantidad de factor VIII presente en
+un ml de plasma humano normal. El cálculo de la dosis necesaria de factor VIII se basa en el hallazgo
+empírico de que 1 Unidad Internacional (UI) de factor VIII por kg de peso corporal aumenta la
+actividad plasmática de factor VIII en 1,5% - 2,5% de la actividad normal. La dosis requerida se
+determina utilizando las fórmulas siguientes:
+                                                     11
+I.      UI requeridas = peso corporal(kg) x aumento deseado de factor VIII (% del normal) x 0,5
+ II.     Aumento previsto del factor VIII (% del normal) = 2 x UI administradas
+ La posología y duración del tratamiento sustitutivo deberá individualizarse según las necesidades del
+paciente (peso, gravedad del trastorno de la función hemostática, localización e intensidad de la
+hemorragia, titulación de inhibidores y del nivel deseado de FVIII).
+ La tabla siguiente proporciona una guía de los niveles sanguíneos mínimos de factor VIII en diferentes
+situaciones clínicas. En el caso de las hemorragias que aparecen en la lista, el nivel de actividad del factor
+VIII no podrá ser inferior al nivel indicado (en % del normal), en el período correspondiente:
+       Grado de la hemorragia/Tipo Nivel de factor VIII            Frecuencia de dosificación
+de procedimiento quirúrgico requerido (%)                   (horas)/Duración de la terapia
+Hemorragia
+                                                 20 - 40           Repetir cada 12 - 24 horas. Al
+Hemartrosis precoz, sangrado
+muscular o sangrado de la
+cavidad oral
+Hemartrosis más extensa,                  30 - 60           Repetir la perfusión cada 12 - 24
+sangrado muscular o                                         horas durante 3 - 4 días o hasta que
+hematoma                                                    el dolor y discapacidad se hayan
+Sangrados con riesgo vital,              60 - 100           Repetir la perfusión cada 8 - 24
+como sangrado intracraneal, de                              horas hasta que el riesgo
+garganta, sangrado                                          desaparezca.
+gastrointestinal grave
+Cirugía
+                                                 30 - 60           Cada 24 horas, al menos 1 día, hasta
+Menor
+Incluyendo extracciones
+dentales
+Mayor                                    80 - 100           a) Como dosis en bolo
+                                                       12
+La cantidad y frecuencia de la administración se debe adaptar a la respuesta clínica en cada caso
+individual. En determinadas circunstancias pueden requerirse cantidades superiores a las calculadas,
+especialmente en el caso de la dosis inicial.
+ Durante el tratamiento se recomienda controlar el nivel de factor VIII para determinar la dosis a
+administrar y la frecuencia con la que se debe repetir la perfusión. En el caso especial de las
+intervenciones de cirugía mayor, es indispensable controlar con precisión el tratamiento de sustitución
+mediante pruebas de la coagulación (actividad del factor VIII plasmático). La respuesta individual de
+cada paciente frente al factor VIII puede variar y alcanzar distintos niveles de recuperación in vivo y
+presentar semividas diferentes.
+En un ensayo clínico, realizado en pacientes adultos con hemofilia A sometidos a cirugía mayor, se ha
+demostrado que Helixate NexGen puede utilizarse como perfusión continua en intervenciones
+quirúrgicas (antes, durante y después de la operación). En este ensayo, como con otras perfusiones
+intravenosas de larga duración, se utilizó heparina para prevenir una tromboflebitis en la zona de
+perfusión. Para el cálculo de la velocidad de perfusión inicial, el aclaramiento puede obtenerse
+realizando una curva de eliminación previa a la cirugía o bien empezar con un valor promedio (3,0-3,5
+ml/Kg/h) y después ajustar en función del paciente.
+Velocidad de perfusión (en UI/Kg/h) = Aclaramiento (en ml/h/Kg) x nivel deseado de factor VIII (en
+UI/ml)
+La estabilidad clínica e in vitro durante la perfusión continua ha sido demostrada empleando bombas
+ambulatorias con un reservorio de PVC. Helixate NexGen contiene un nivel bajo de polisorbato 80
+como excipiente, del cual se sabe que incrementa la tasa de extracción del di- (2-etilhexil) ftalato
+(DEHF) de los materiales de PVC. Este aspecto deberá tenerse en cuenta en la administración por
+perfusión continua.
+ En la profilaxis programada para prevenir hemorragias en pacientes con hemofilia A grave, deben
+administrarse dosis de 20 a 60 UI de Helixate NexGen por kg de peso corporal, a intervalos de 2 a 3
+días. En algunos casos, especialmente en los pacientes más jóvenes, puede ser necesario un intervalo
+de dosificación más corto o dosis mayores. Se han obtenido datos en 61 niños menores de 6 años.
+ Pacientes con inhibidores
+Debe controlarse en los pacientes el desarrollo de inhibidores del factor VIII. Si no se alcanzan los
+niveles de actividad plasmática de factor VIII esperados, o si no se controla la hemorragia con una
+dosis adecuada, debe realizarse una prueba para determinar la presencia de inhibidores del factor VIII.
+Si el inhibidor está presente en niveles inferiores a 10 Unidades Bethesda (U.B.) por ml, la
+administración adicional de factor VIII de coagulación de origen recombinante puede neutralizarlo y
+permitir el tratamiento continuado clinicamente eficaz con Helixate NexGen. No obstante, en
+presencia de un inhibidor, las dosis requeridas son variables y deben ajustarse a la respuesta clínica, y
+a los valores de la actividad plasmática de factor VIII que se observen. En pacientes con títulos de
+inhibidores superiores a 10 U.B. o con una respuesta anamnésica alta deberá considerarse la
+utilización del concentrado de complejo protrombínico (activado) (CCPa) o de preparados de factor
+VII activado recombinante (rFVIIa). Estos tratamientos deberán ser dirigidos por médicos con
+experiencia en el tratamiento de pacientes hemofílicos.
+ Administración
+Disolver el preparado según se indica en la sección 6.6.
+Helixate NexGen debe administrarse por vía intravenosa durante varios minutos. La velocidad de
+administración se determinará en función del grado de bienestar del paciente (velocidad máxima de
+perfusión: 2 ml/min).
+Helixate NexGen puede administrarse mediante perfusión continua. La velocidad de perfusión debe
+calcularse en función del aclaramiento y del nivel deseado de FVIII.
+Ejemplo: para un paciente de 75 Kg con un aclaramiento de 3 ml/Kg/h, la velocidad de perfusión
+inicial debería ser de 3 UI/Kg/h para obtener un nivel de FVIII del 100%. Para el cálculo de los
+ml/hora, multiplicar la velocidad de infusión en UI/Kg/h por los Kg de peso corporal/concentración de
+la solución (UI/ml).
+                                                    13
+Nivel plasmático      Velocidad de      Velocidad de perfusión para un
+requerido de          perfusión         paciente de 75 Kg
+FVIII                 IU/h/kg           ml/h
+Aclaramiento:                                              Concentraciones de la solución de
+3 ml/h/kg                                                  FVIIIr
+100 % (1 UI/ml)       3,0               2,25         1,125       0,56
+ Puede requerirse una mayor velocidad de perfusión en situaciones de aclaramiento acelerado durante
+hemorragias importantes o en caso de daño tisular extenso durante intervenciones quirúrgicas.
+Las velocidades de perfusión subsiguientes deberán calcularse en función del nivel de FVIII real y
+aclaramiento recalculada para cada día post-cirugía a partir de la ecuación: aclaramiento = velocidad
+de perfusión/nivel de FVIII real.
+ 4.3   Contraindicaciones
+ Hipersensibilidad conocida al principio activo, a las proteínas de ratón o hámster, o a alguno de los
+excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Como con cualquier otro medicamento proteico para administración intravenosa, es posible que se
+produzcan reacciones de hipersensibilidad de tipo alérgico. Los pacientes deben ser informados de que la
+posible aparición de opresión torácica, vértigo, hipotensión leve y náusea durante la perfusión pueden ser
+signos precoces de hipersensibilidad y reacción anafiláctica. Cuando sea necesario, se deberá instituir
+tratamiento para la hipersensibilidad, incluyendo un tratamiento sintomático. Si se produjera una reacción
+anafiláctica, se interrumpirá inmediatamente la inyección o la perfusión y los pacientes deben contactar
+con su médico. En caso de shock, se seguirán las pautas médicas habituales para su tratamiento.
+ La formación de anticuerpos neutralizantes del factor VIII (inhibidores) es una complicación conocida
+en el tratamiento de pacientes con hemofilia A. Estos inhibidores son exclusivamente
+inmunoglobulinas IgG dirigidas contra la actividad procoagulante del factor VIII, y se cuantifican en
+Unidades Bethesda (U.B.) modificadas, por ml de plasma. El riesgo de desarrollo de inhibidores está
+correlacionado con la exposición al factor VIII antihemofílico y con factores genéticos entre otros,
+siendo el riesgo mayor en los primeros 20 días de tratamiento. Los inhibidores raramente se forman
+después de los primeros 100 días de tratamiento.
+Se han observado casos recurrentes de inhibidores (con título bajo), después de cambiar de un Factor
+VIII recombinante a otro en los pacientes que tienen un tratamiento previo de más de 100 días de
+exposición y que tienen antecedentes de desarrollo de inhibidores.
+Los pacientes tratados con factor VIII de coagulación de origen recombinante deben ser controlados
+cuidadosamente mediante observación clínica y pruebas de laboratorio adecuadas para determinar la
+presencia de inhibidores. Ver también la sección 4.8 Reacciones adversas.
+ En un ensayo clínico sobre el uso de la perfusión continua en cirugía, se utilizó como en cualquier
+perfusión intravenosa prolongada, heparina para prevenir una tromboflebitis en la zona de perfusión.
+ En beneficio de los pacientes se recomienda que, siempre que sea posible, cada vez que se les
+administre Helixate NexGen, se deje constancia del nombre del medicamento y de su número de lote.
+ Este medicamento contiene menos de 1 mmol de sodio (23 mg) por dosis , esto es, esencialmente
+""exento de sodio"".
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se conocen interacciones de Helixate NexGen con con otros medicamentos.
+ 4.6   Embarazo y lactancia
+ No se han llevado a cabo estudios de reproducción animal con Helixate NexGen.
+ Puesto que la hemofilia A es excepcional en mujeres, no se dispone de experiencia sobre el uso de
+Helixate NexGen durante el embarazo y el periodo de lactancia. Por consiguiente, Helixate NexGen sólo
+se utilizará en estos casos si está estrictamente indicado.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La influencia de Helixate NexGen sobre la capacidad para conducir y utilizar máquinas es nula.
+ 4.8   Reacciones adversas
+ Después de la administración de Helixate NexGen, se han observado efectos adversos de leves a
+moderados en casos excepcionales según se presenta en la tabla siguiente:,
+ Clasificación de órganos del sistema MedDRA       Término preferente en MedDRA
+Trastornos de la sangre y del sistema linfático   Inhibición del factor VIII
+Trastornos gastrointestinales                     Disgeusia
+Trastornos generales y alteraciones en el lugar   Reacción local en el lugar de administración
+de administración                                 de la inyección
+Trastornos del sistema inmunológico               Reacción alérgica/anafiláctica
+Investigaciones                                   Alteración de la presión arterial
+Trastornos del sistema nervioso                   Mareo
+Trastornos de la piel y del tejido subcutáneo     Prurito
+ La formación de anticuerpos neutralizantes del factor VIII (inhibidores) es una complicación conocida en
+el tratamiento de pacientes con hemofilia A. En estudios con preparados de factor VIII recombinante, el
+desarrollo de inhibidores se observó principalmente en pacientes hemofílicos no tratados previamente.
+Por este motivo, los pacientes deben someterse a una monitorización estrecha mediante pruebas de
+laboratorio y exámenes clínicos apropiados para determinar la formación de dichos inhibidores.
+ Helixate NexGen ha sido utilizado en ensayos clínicos para el tratamiento de episodios hemorrágicos en
+37 pacientes no tratados previamente (PUPs) y 23 pacientes mínimamente tratados previamente (MTPs,
+definidos como aquellos pacientes con menos de 4 días de exposición al tratamiento). Cinco de los 37
+pacientes PUPs (14%) y 4 de los 23 MTPs (17%) tratados con Helixate NexGen desarrollaron
+inhibidores: en general, 6 de 60 (10%) presentaron un título superior a 10 U.B. y 3 de 60 (5%) un
+título inferior a 10 U.B. El valor de la mediana de los días de exposición en la detección de inhibidores
+para estos pacientes fue de 9 días (rango 3-18 días).
+ La mediana de los días de exposición en los ensayos clínicos fue de 114 (rango 4-478 días). Cuatro de
+cinco pacientes, que no alcanzaron los 20 días de exposición al final del ensayo, los alcanzaron
+posteriormente en el seguimiento posterior al ensayo y uno de los pacientes desarrolló inhibidores con
+título bajo. El quinto paciente se perdió en el seguimiento.
+ En ensayos clínicos con 73 pacientes tratados previamente (PTPs, definidos como aquellos pacientes con
+más de 100 días de exposición al tratamiento), no se observaron inhibidores de-novo tras un seguimiento
+durante cuatro años.
+                                                    15
+En amplios estudios post-comercialización con más de 1.000 pacientes tratados con Helixate NexGen, se
+observó que menos del 0,2% de los pacientes tratados previamente (PTPs) habían desarrollado
+inhibidores de-novo. En un subgrupo de pacientes con menos de 20 días de exposición al inicio del
+estudio, menos del 11% desarrollaron inhibidores de-novo.
+ Durante los ensayos, ningún paciente desarrolló títulos de anticuerpos con repercusión clínica frente a
+las cantidades mínimas de proteína de ratón y hámster presentes en el medicamento. Sin embargo,
+existe la posibilidad de reacción alérgica a los componentes del medicamento, como por ejemplo, a las
+pequeñas cantidades de proteína de ratón y hámster, en pacientes con cierta predisposición (ver
+secciones 4.3 y 4.4).
+ 4.9   Sobredosis
+ No se han notificado síntomas de sobredosis con factor VIII de la coagulación de origen recombinante.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Factor VIII de la coagulación, código ATC: B02B D02.
+ El complejo de factor VIII/factor de von Willebrand (vWF) está formado por dos moléculas (factor VIII
+y vWF) con funciones fisiológicas diferentes. Cuando se perfunde a un paciente hemofílico, el factor VIII
+se une al vWF presente en la circulación del paciente. El factor VIII activado actúa como cofactor del
+factor IX activado, acelerando la conversión del factor X en factor X activado. El factor X activado
+convierte la protrombina en trombina. Seguidamente, la trombina convierte el fibrinógeno en fibrina,
+formándose el coágulo. La hemofilia A es una alteración de la coagulación sanguínea hereditaria ligada al
+sexo y se debe a la presencia de niveles reducidos de factor VIII:C que da lugar a un sangrado profuso en
+las articulaciones, músculos u órganos internos, ya sea de forma espontánea o a causa de un traumatismo
+accidental o quirúrgico. El tratamiento de sustitución aumenta los niveles plasmáticos de factor VIII,
+obteniéndose una corrección temporal del déficit de este factor y de la diatesis hemorrágica.
+ La determinación del tiempo de tromboplastina parcial activada (TTPa) es un método de ensayo in vitro
+convencional para determinar la actividad biológica del factor VIII. El TTPa está alargado en todos los
+pacientes hemofílicos. El grado y duración de la normalización del TTPa observados tras la
+administración de Helixate NexGen son similares a los obtenidos con factor VIII derivado del plasma.
+ 5.2   Propiedades farmacocinéticas
+ El análisis de los valores de recuperación in vivo registrados en pacientes tratados previamente ha
+demostrado un incremento promedio del 2% por UI/Kg de peso corporal para Helixate NexGen. Este
+valor es similar a los valores registrados con el factor VIII derivado del plasma humano.
+ Tras la administración de Helixate NexGen, la actividad máxima del factor VIII disminuye siguiendo una
+curva exponencial de dos fases con un promedio desemivida terminal de 15 horas, aproximadamente.
+Este valor es similar al observado con el factor VIII derivado del plasma, cuya semivida terminal media
+es de 13 horas, aproximadamente. Otros parámetros farmacocinéticos de Helixate NexGen para la dosis
+de carga como perfusión son: tiempo medio de residencia [TMR (0 - 48)] 22 horas, aproximadamente;
+aclaramiento: 160 ml/h, aproximadamente. El aclaramiento basal medio para 14 pacientes adultos
+sometidos a cirugía mayor con perfusión continua es de 188 ml/h, que corresponde a 3,0 ml/Kg/h
+(intervalo 1,6-4,6 ml/Kg/h).
+ 5.3   Datos preclínicos sobre seguridad
+ Incluso a dosis varias veces superiores a la dosis clínica recomendada (en relación al peso corporal), no
+se evidenció ningún efecto tóxico agudo o subagudo de Helixate NexGen en animales de laboratorio
+(ratón, rata, conejo y perro).
+ No se han llevado a cabo estudios específicos de administración repetida de octocog alfa tales como la
+toxicidad de reproducción, toxicidad crónica y carcinogénesis, debido a la respuesta inmune a las
+proteínas heterólogas entre las especies de mamíferos distintas al hombre.
+ No se han realizado estudios sobre el potencial mutagénico de Helixate NexGen, ya que no se ha
+detectado ningún potencial mutagénico in vivo o in vitro del compuesto precursor de Helixate NexGen.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Polvo
+Glicina
+Cloruro de sodio
+Cloruro de calcio
+Histidina
+Polisorbato 80
+Sacarosa
+ Disolvente
+Agua para preparaciones inyectables
+ 6.2   Incompatibilidades
+ Este medicamento no debe mezclarse con otros fármacos o disolventes.
+Sólo debe utilizarse para la reconstitución y administración el equipo que se suministra, ya que pueden
+producirse fallos en el tratamiento debido a la adsorción del factor VIII de la coagulación a la
+superficie interna de algunos equipos de perfusión.
+ 6.3   Periodo de validez
+ 30 meses.
+ Tras la reconstitución, el medicamento debe utilizarse inmediatamente. Se ha demostrado, no obstante, la
+estabilidad química y física en el uso durante 48 horas a 30ºC.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2°C y 8°C). No congelar. Conservar los viales en el embalaje exterior para
+protegerlos de la luz..
+ El medicamento envasado puede conservarse a temperatura ambiente (inferior a 25°C) durante un
+periodo máximo de 3 meses. En este caso, el medicamento caduca al finalizar el periodo de 3 meses;
+deberá anotarse la nueva fecha de caducidad en la parte superior del embalaje exterior.
+ No refrigerar una vez reconstituido. Utilizar el contenido en una sola ocasión. Desechar la solución no
+utilizada.
+ Para las condiciones de conservación del medicamento reconstituido, ver sección 6.3.
+ 6.5   Naturaleza y contenido del envase
+ Cada envase de Helixate NexGen contiene:
+·     un vial con polvo (vial de vidrio tipo 1, transparente, de 10 ml con tapón de mezcla de caucho
+bromobutílico gris exento de látex y cierre de aluminio)
+·     un vial con disolvente (vial de vidrio tipo 2, transparente, de 10 ml con tapón de mezcla de caucho
+clorobutílico gris exento de látex y cierre de aluminio)
+·     un envase adicional con:
+- 1 trasvasador con filtro
+- 1 equipo para venopunción
+- 1 jeringa de un solo uso de 5 ml
+- dos toallitas estériles impregnadas de alcohol, de un solo uso.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ El prospecto incluido en el envase de Helixate NexGen contiene las instrucciones para su preparación y
+administración.
+ El polvo de Helixate NexGen debe reconstituirse únicamente con el disolvente suministrado (2,5 ml de
+agua para preparaciones inyectables) utilizando para ello el Mix2Vial, equipo de transferencia estéril
+suministrado. La reconstitución debe realizarse según los procedimientos de buenas prácticas, con
+especial atención a las normas de asepsia. Girar suavemente el vial, sin agitar, hasta que se haya disuelto
+todo el medicamento. Tras la reconstitución, la solución es transparente. No utilizar Helixate NexGen si
+se observan partículas o turbidez en su interior.
+ Una vez reconstituido, la solución se transfiere a la jeringa estéril desechable suministrada, utilizando
+el Mix2Vial, equipo de transferencia estéril suministrado.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Bayer HealthCare AG
+D-51368 Leverkusen
+Alemania
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/00/144/002
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 04 de agosto de 2000
+Fecha de la última renovación: 04 de agosto de 2005
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu/.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Helixate NexGen 1000 UI Polvo y disolvente para solución inyectable.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Factor VIII de coagulación de origen recombinante, 1000 UI/vial.
+DCI: octocog alfa
+El factor VIII de coagulación de origen recombinante se produce mediante ingeniería genética a partir de
+células de riñón de crías de hámster que contienen el gen del factor VIII humano.
+ Disolvente: Agua para preparaciones inyectables
+ El medicamento reconstituido con los 2,5 ml de agua para preparaciones inyectables que le acompaña
+contiene aproximadamente 400 UI de octocog alfa/ml.
+ La potencia (UI) se determina utilizando el ensayo de coagulación en una etapa, en comparación con
+el estándar Mega de la FDA, que ha sido calibrado frente al estándar de la OMS en UI.
+La actividad específica es, aproximadamente, de 4000 UI/mg de proteína.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo y disolvente para solución inyectable.
+ El polvo seco se presenta en un vial en forma de polvo suelto o sólido friable de color blanco o
+ligeramente amarillento.
+El disolvente es agua para preparaciones inyectables.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento y profilaxis de las hemorragias en pacientes con hemofilia A (déficit congénito de factor
+VIII).
+Este medicamento no contiene factor de von Willebrand y por lo tanto no está indicado en la
+enfermedad de von Willebrand.
+ 4.2   Posología y forma de administración
+ El tratamiento debe iniciarse bajo la supervisión de un médico con experiencia en el tratamiento de la
+hemofilia.
+ Posología
+El número de unidades de factor VIII administradas se expresa en Unidades Internacionales (UI), que
+se corresponden con el estándar actual de la OMS para medicamentos de factor VIII. La actividad del
+factor VIII en plasma puede expresarse en porcentaje (referido al plasma humano normal) o bien, en
+Unidades Internacionales (referido al estándar internacional para el factor VIII en plasma). Una
+Unidad Internacional (UI) de actividad de factor VIII equivale a la cantidad de factor VIII presente en
+un ml de plasma humano normal. El cálculo de la dosis necesaria de factor VIII se basa en el hallazgo
+empírico de que 1 Unidad Internacional (UI) de factor VIII por kg de peso corporal aumenta la
+actividad plasmática de factor VIII en 1,5% - 2,5% de la actividad normal. La dosis requerida se
+determina utilizando las fórmulas siguientes:
+                                                     20
+I.      UI requeridas = peso corporal(kg) x aumento deseado de factor VIII (% del normal) x 0,5
+ II.     Aumento previsto del factor VIII (% del normal) = 2 x UI administradas
+ La posología y duración del tratamiento sustitutivo deberá individualizarse según las necesidades del
+paciente (peso, gravedad del trastorno de la función hemostática, localización e intensidad de la
+hemorragia, titulación de inhibidores y del nivel deseado de FVIII).
+ La tabla siguiente proporciona una guía de los niveles sanguíneos mínimos de factor VIII en diferentes
+situaciones clínicas. En el caso de las hemorragias que aparecen en la lista, el nivel de actividad del factor
+VIII no podrá ser inferior al nivel indicado (en % del normal), en el período correspondiente:
+       Grado de la hemorragia/Tipo Nivel de factor VIII            Frecuencia de dosificación
+de procedimiento quirúrgico requerido (%)                   (horas)/Duración de la terapia
+Hemorragia
+                                                 20 - 40           Repetir cada 12 - 24 horas. Al
+Hemartrosis precoz, sangrado
+muscular o sangrado de la
+cavidad oral
+Hemartrosis más extensa,                  30 - 60           Repetir la perfusión cada 12 - 24
+sangrado muscular o                                         horas durante 3 - 4 días o hasta que
+hematoma                                                    el dolor y discapacidad se hayan
+Sangrados con riesgo vital,              60 - 100           Repetir la perfusión cada 8 - 24
+como sangrado intracraneal, de                              horas hasta que el riesgo
+garganta, sangrado                                          desaparezca.
+gastrointestinal grave
+Cirugía
+                                                 30 - 60           Cada 24 horas, al menos 1 día, hasta
+Menor
+Incluyendo extracciones
+dentales
+Mayor                                    80 - 100           a) Como dosis en bolo
+                                                       21
+La cantidad y frecuencia de la administración se debe adaptar a la respuesta clínica en cada caso
+individual. En determinadas circunstancias pueden requerirse cantidades superiores a las calculadas,
+especialmente en el caso de la dosis inicial.
+ Durante el tratamiento se recomienda controlar el nivel de factor VIII para determinar la dosis a
+administrar y la frecuencia con la que se debe repetir la perfusión. En el caso especial de las
+intervenciones de cirugía mayor, es indispensable controlar con precisión el tratamiento de sustitución
+mediante pruebas de la coagulación (actividad del factor VIII plasmático). La respuesta individual de
+cada paciente frente al factor VIII puede variar y alcanzar distintos niveles de recuperación in vivo y
+presentar semividas diferentes.
+En un ensayo clínico, realizado en pacientes adultos con hemofilia A sometidos a cirugía mayor, se ha
+demostrado que Helixate NexGen puede utilizarse como perfusión continua en intervenciones
+quirúrgicas (antes, durante y después de la operación). En este ensayo, como con otras perfusiones
+intravenosas de larga duración, se utilizó heparina para prevenir una tromboflebitis en la zona de
+perfusión. Para el cálculo de la velocidad de perfusión inicial, el aclaramiento puede obtenerse
+realizando una curva de eliminación previa a la cirugía o bien empezar con un valor promedio (3,0-3,5
+ml/Kg/h) y después ajustar en función del paciente.
+Velocidad de perfusión (en UI/Kg/h) = Aclaramiento (en ml/h/Kg) x nivel deseado de factor VIII (en
+UI/ml)
+La estabilidad clínica e in vitro durante la perfusión continua ha sido demostrada empleando bombas
+ambulatorias con un reservorio de PVC. Helixate NexGen contiene un nivel bajo de polisorbato 80
+como excipiente, del cual se sabe que incrementa la tasa de extracción del di- (2-etilhexil) ftalato
+(DEHF) de los materiales de PVC. Este aspecto deberá tenerse en cuenta en la administración por
+perfusión continua.
+ En la profilaxis programada para prevenir hemorragias en pacientes con hemofilia A grave, deben
+administrarse dosis de 20 a 60 UI de Helixate NexGen por kg de peso corporal, a intervalos de 2 a 3
+días. En algunos casos, especialmente en los pacientes más jóvenes, puede ser necesario un intervalo
+de dosificación más corto o dosis mayores. Se han obtenido datos en 61 niños menores de 6 años.
+ Pacientes con inhibidores
+Debe controlarse en los pacientes el desarrollo de inhibidores del factor VIII. Si no se alcanzan los
+niveles de actividad plasmática de factor VIII esperados, o si no se controla la hemorragia con una
+dosis adecuada, debe realizarse una prueba para determinar la presencia de inhibidores del factor VIII.
+Si el inhibidor está presente en niveles inferiores a 10 Unidades Bethesda (U.B.) por ml, la
+administración adicional de factor VIII de coagulación de origen recombinante puede neutralizarlo y
+permitir el tratamiento continuado clinicamente eficaz con Helixate NexGen. No obstante, en
+presencia de un inhibidor, las dosis requeridas son variables y deben ajustarse a la respuesta clínica, y
+a los valores de la actividad plasmática de factor VIII que se observen. En pacientes con títulos de
+inhibidores superiores a 10 U.B. o con una respuesta anamnésica alta deberá considerarse la
+utilización del concentrado de complejo protrombínico (activado) (CCPa) o de preparados de factor
+VII activado recombinante (rFVIIa). Estos tratamientos deberán ser dirigidos por médicos con
+experiencia en el tratamiento de pacientes hemofílicos.
+ Administración
+Disolver el preparado según se indica en la sección 6.6.
+Helixate NexGen debe administrarse por vía intravenosa durante varios minutos. La velocidad de
+administración se determinará en función del grado de bienestar del paciente (velocidad máxima de
+perfusión: 2 ml/min).
+Helixate NexGen puede administrarse mediante perfusión continua. La velocidad de perfusión debe
+calcularse en función del aclaramiento y del nivel deseado de FVIII.
+Ejemplo: para un paciente de 75 Kg con un aclaramiento de 3 ml/Kg/h, la velocidad de perfusión
+inicial debería ser de 3 UI/Kg/h para obtener un nivel de FVIII del 100%. Para el cálculo de los
+ml/hora, multiplicar la velocidad de infusión en UI/Kg/h por los Kg de peso corporal/concentración de
+la solución (UI/ml).
+                                                    22
+Nivel plasmático      Velocidad de      Velocidad de perfusión para un
+requerido de          perfusión         paciente de 75 Kg
+FVIII                 IU/h/kg           ml/h
+Aclaramiento:                                              Concentraciones de la solución de
+3 ml/h/kg                                                  FVIIIr
+100 % (1 UI/ml)       3,0               2,25         1,125       0,56
+ Puede requerirse una mayor velocidad de perfusión en situaciones de aclaramiento acelerado durante
+hemorragias importantes o en caso de daño tisular extenso durante intervenciones quirúrgicas.
+Las velocidades de perfusión subsiguientes deberán calcularse en función del nivel de FVIII real y
+aclaramiento recalculada para cada día post-cirugía a partir de la ecuación: aclaramiento = velocidad
+de perfusión/nivel de FVIII real.
+ 4.3   Contraindicaciones
+ Hipersensibilidad conocida al principio activo, a las proteínas de ratón o hámster, o a alguno de los
+excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Como con cualquier otro medicamento proteico para administración intravenosa, es posible que se
+produzcan reacciones de hipersensibilidad de tipo alérgico. Los pacientes deben ser informados de que la
+posible aparición de opresión torácica, vértigo, hipotensión leve y náusea durante la perfusión pueden ser
+signos precoces de hipersensibilidad y reacción anafiláctica. Cuando sea necesario, se deberá instituir
+tratamiento para la hipersensibilidad, incluyendo un tratamiento sintomático. Si se produjera una reacción
+anafiláctica, se interrumpirá inmediatamente la inyección o la perfusión y los pacientes deben contactar
+con su médico. En caso de shock, se seguirán las pautas médicas habituales para su tratamiento.
+ La formación de anticuerpos neutralizantes del factor VIII (inhibidores) es una complicación conocida
+en el tratamiento de pacientes con hemofilia A. Estos inhibidores son exclusivamente
+inmunoglobulinas IgG dirigidas contra la actividad procoagulante del factor VIII, y se cuantifican en
+Unidades Bethesda (U.B.) modificadas, por ml de plasma. El riesgo de desarrollo de inhibidores está
+correlacionado con la exposición al factor VIII antihemofílico y con factores genéticos entre otros,
+siendo el riesgo mayor en los primeros 20 días de tratamiento. Los inhibidores raramente se forman
+después de los primeros 100 días de tratamiento.
+Se han observado casos recurrentes de inhibidores (con título bajo), después de cambiar de un Factor
+VIII recombinante a otro en los pacientes que tienen un tratamiento previo de más de 100 días de
+exposición y que tienen antecedentes de desarrollo de inhibidores.
+Los pacientes tratados con factor VIII de coagulación de origen recombinante deben ser controlados
+cuidadosamente mediante observación clínica y pruebas de laboratorio adecuadas para determinar la
+presencia de inhibidores. Ver también la sección 4.8 Reacciones adversas.
+ En un ensayo clínico sobre el uso de la perfusión continua en cirugía, se utilizó como en cualquier
+perfusión intravenosa prolongada, heparina para prevenir una tromboflebitis en la zona de perfusión.
+ En beneficio de los pacientes se recomienda que, siempre que sea posible, cada vez que se les
+administre Helixate NexGen, se deje constancia del nombre del medicamento y de su número de lote.
+ Este medicamento contiene menos de 1 mmol de sodio (23 mg) por dosis , esto es, esencialmente
+""exento de sodio"".
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se conocen interacciones de Helixate NexGen con con otros medicamentos.
+ 4.6   Embarazo y lactancia
+ No se han llevado a cabo estudios de reproducción animal con Helixate NexGen.
+ Puesto que la hemofilia A es excepcional en mujeres, no se dispone de experiencia sobre el uso de
+Helixate NexGen durante el embarazo y el periodo de lactancia. Por consiguiente, Helixate NexGen sólo
+se utilizará en estos casos si está estrictamente indicado.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La influencia de Helixate NexGen sobre la capacidad para conducir y utilizar máquinas es nula.
+ 4.8   Reacciones adversas
+ Después de la administración de Helixate NexGen, se han observado efectos adversos de leves a
+moderados en casos excepcionales según se presenta en la tabla siguiente:,
+ Clasificación de órganos del sistema MedDRA       Término preferente en MedDRA
+Trastornos de la sangre y del sistema linfático   Inhibición del factor VIII
+Trastornos gastrointestinales                     Disgeusia
+Trastornos generales y alteraciones en el lugar   Reacción local en el lugar de administración
+de administración                                 de la inyección
+Trastornos del sistema inmunológico               Reacción alérgica/anafiláctica
+Investigaciones                                   Alteración de la presión arterial
+Trastornos del sistema nervioso                   Mareo
+Trastornos de la piel y del tejido subcutáneo     Prurito
+ La formación de anticuerpos neutralizantes del factor VIII (inhibidores) es una complicación conocida en
+el tratamiento de pacientes con hemofilia A. En estudios con preparados de factor VIII recombinante, el
+desarrollo de inhibidores se observó principalmente en pacientes hemofílicos no tratados previamente.
+Por este motivo, los pacientes deben someterse a una monitorización estrecha mediante pruebas de
+laboratorio y exámenes clínicos apropiados para determinar la formación de dichos inhibidores.
+ Helixate NexGen ha sido utilizado en ensayos clínicos para el tratamiento de episodios hemorrágicos en
+37 pacientes no tratados previamente (PUPs) y 23 pacientes mínimamente tratados previamente (MTPs,
+definidos como aquellos pacientes con menos de 4 días de exposición al tratamiento). Cinco de los 37
+pacientes PUPs (14%) y 4 de los 23 MTPs (17%) tratados con Helixate NexGen desarrollaron
+inhibidores: en general, 6 de 60 (10%) presentaron un título superior a 10 U.B. y 3 de 60 (5%) un
+título inferior a 10 U.B. El valor de la mediana de los días de exposición en la detección de inhibidores
+para estos pacientes fue de 9 días (rango 3-18 días).
+ La mediana de los días de exposición en los ensayos clínicos fue de 114 (rango 4-478 días). Cuatro de
+cinco pacientes, que no alcanzaron los 20 días de exposición al final del ensayo, los alcanzaron
+posteriormente en el seguimiento posterior al ensayo y uno de los pacientes desarrolló inhibidores con
+título bajo. El quinto paciente se perdió en el seguimiento.
+ En ensayos clínicos con 73 pacientes tratados previamente (PTPs, definidos como aquellos pacientes con
+más de 100 días de exposición al tratamiento), no se observaron inhibidores de-novo tras un seguimiento
+durante cuatro años.
+                                                    24
+En amplios estudios post-comercialización con más de 1.000 pacientes tratados con Helixate NexGen, se
+observó que menos del 0,2% de los pacientes tratados previamente (PTPs) habían desarrollado
+inhibidores de-novo. En un subgrupo de pacientes con menos de 20 días de exposición al inicio del
+estudio, menos del 11% desarrollaron inhibidores de-novo.
+ Durante los ensayos, ningún paciente desarrolló títulos de anticuerpos con repercusión clínica frente a
+las cantidades mínimas de proteína de ratón y hámster presentes en el medicamento. Sin embargo,
+existe la posibilidad de reacción alérgica a los componentes del medicamento, como por ejemplo, a las
+pequeñas cantidades de proteína de ratón y hámster, en pacientes con cierta predisposición (ver
+secciones 4.3 y 4.4).
+ 4.9   Sobredosis
+ No se han notificado síntomas de sobredosis con factor VIII de la coagulación de origen recombinante.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Factor VIII de la coagulación, código ATC: B02B D02.
+ El complejo de factor VIII/factor de von Willebrand (vWF) está formado por dos moléculas (factor VIII
+y vWF) con funciones fisiológicas diferentes. Cuando se perfunde a un paciente hemofílico, el factor VIII
+se une al vWF presente en la circulación del paciente. El factor VIII activado actúa como cofactor del
+factor IX activado, acelerando la conversión del factor X en factor X activado. El factor X activado
+convierte la protrombina en trombina. Seguidamente, la trombina convierte el fibrinógeno en fibrina,
+formándose el coágulo. La hemofilia A es una alteración de la coagulación sanguínea hereditaria ligada al
+sexo y se debe a la presencia de niveles reducidos de factor VIII:C que da lugar a un sangrado profuso en
+las articulaciones, músculos u órganos internos, ya sea de forma espontánea o a causa de un traumatismo
+accidental o quirúrgico. El tratamiento de sustitución aumenta los niveles plasmáticos de factor VIII,
+obteniéndose una corrección temporal del déficit de este factor y de la diatesis hemorrágica.
+ La determinación del tiempo de tromboplastina parcial activada (TTPa) es un método de ensayo in vitro
+convencional para determinar la actividad biológica del factor VIII. El TTPa está alargado en todos los
+pacientes hemofílicos. El grado y duraci
+ 
+	Prospectos de medicamentos.

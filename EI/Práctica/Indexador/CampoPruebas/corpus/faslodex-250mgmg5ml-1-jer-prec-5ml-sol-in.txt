@@ -1,0 +1,640 @@
+FASLODEX 250MGMG/5ML 1 JER PREC 5ML SOL IN
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Faslodex 250 mg/5 ml solución inyectable.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Una jeringa precargada contiene 250 mg de fulvestrant en 5 ml de solución.
+Para excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Solución inyectable.
+Líquido viscoso, transparente, de incoloro a amarillo.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Faslodex está indicado para el tratamiento de mujeres postmenopáusicas con cáncer de mama localmente
+avanzado o metastásico y con receptor estrogénico positivo, cuya enfermedad ha recidivado durante o
+después del tratamiento adyuvante con antiestrógenos o bien cuya enfermedad ha progresado a un
+tratamiento antiestrogénico.
+ 4.2   Posología y forma de administración
+ Mujeres adultas (incluyendo geriátricas):
+ La dosis recomendada es 250 mg a intervalos de 1 mes.
+ Niñas y adolescentes:
+ Faslodex no está recomendado para su uso en niñas ni adolescentes, dado que no se ha establecido la
+seguridad ni la eficacia en este grupo de edad.
+ Pacientes con insuficiencia renal:
+ No se recomiendan ajustes de la dosis para las pacientes con insuficiencia renal de leve a moderada
+(aclaramiento de creatinina  30 ml/min). No se ha evaluado la seguridad ni la eficacia en pacientes con
+insuficiencia renal grave (aclaramiento de creatinina < 30 ml/min) (ver apartado 4.4).
+ Pacientes con insuficiencia hepática:
+ No se recomienda realizar ajustes en la dosis de pacientes con insuficiencia hepática de leve a moderada.
+No obstante, Faslodex debe utilizarse con precaución en estas pacientes ya que puede aumentar la
+exposición a fulvestrant. No existen datos en pacientes con insuficiencia hepática grave (ver secciones
+4.3, 4.4 y 5.2).
+ Forma de administración:
+ Administrar lentamente por vía intramuscular en el glúteo. Para las instrucciones de administración
+detalladas, ver sección 6.6.
+ 4.3   Contraindicaciones
+ Faslodex está contraindicado en:
+·     pacientes con hipersensibilidad conocida al principio activo o a alguno de los excipientes.
+·     el embarazo y la lactancia (ver apartado 4.6).
+·     insuficiencia hepática grave.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Emplear Faslodex con precaución en pacientes con insuficiencia hepática leve a moderada (ver secciones
+4.2, 4.3 y 5.2).
+ Usar Faslodex con precaución en pacientes con insuficiencia renal grave (aclaramiento de creatinina
+inferior a 30 ml/min) (ver apartado 5.2).
+ Dada la vía de administración, utilizar Faslodex con precaución cuando se trate a pacientes con diátesis
+hemorrágica, trombocitopenia, o en tratamiento con anticoagulantes.
+ En mujeres con cáncer de mama avanzado se observan frecuentemente accidentes tromboembólicos,
+como se ha demostrado en los ensayos clínicos (ver apartado 4.8). Deberá considerarse este hecho cuando
+se prescriba Faslodex a pacientes en riesgo.
+ No existen datos a largo plazo del efecto de fulvestrant sobre el hueso. Debido al mecanismo de acción de
+este fármaco, existe un riesgo potencial de osteoporosis.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Un estudio clínico de interacción con midazolam demostró que fulvestrant no inhibe el CYP 3A4.
+ Estudios clínicos de interacción con rifampicina (inductor del CYP 3A4) y ketoconazol (inhibidor del
+CYP 3A4) no han mostrado un cambio clínicamente importante en la eliminación de fulvestrant. Por
+consiguiente, no es necesario un ajuste de dosis en pacientes a las que se les ha prescrito de forma
+concomitante fulvestrant e inhibidores o inductores del CYP 3A4.
+ 4.6   Embarazo y lactancia
+ Faslodex está contraindicado durante el embarazo (ver apartado 4.3). Fulvestrant ha mostrado que
+atraviesa la placenta tras dosis únicas intramusculares en ratas y conejos hembra. Los estudios en
+animales han mostrado toxicidad reproductiva, incluyendo una mayor incidencia de anomalías y muertes
+fetales (ver apartado 5.3). Si se presenta un embarazo mientras se toma Faslodex, la paciente deberá ser
+informada de los posibles riesgos para el feto y del riesgo potencial de aborto espontáneo.
+ Fulvestrant se excreta en la leche de las ratas lactantes. No se conoce si fulvestrant se excreta en la leche
+humana. Teniendo en cuenta las potenciales reacciones adversas graves debidas a fulvestrant en los
+lactantes, la lactancia está contraindicada (ver apartado 4.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+                                                      3
+La influencia de Faslodex sobre la capacidad para conducir y utilizar máquinas es nula o insignificante.
+No obstante, se ha comunicado astenia durante el tratamiento con Faslodex; por consiguiente, las
+pacientes que experimenten este síntoma cuando conduzcan o utilicen maquinaria deberán proceder con
+precaución.
+ 4.8   Reacciones adversas
+ Aproximadamente el 47% de las pacientes experimentó reacciones adversas en el programa de ensayos
+clínicos; sin embargo, sólo el 0,9% de ellas interrumpió la terapia por una reacción adversa. Las
+reacciones adversas comunicadas con más frecuencia son sofocos, náuseas y reacciones en el lugar de la
+inyección.
+ Las reacciones adversas se resumen a continuación:
+           Sistema              Muy                     Frecuentes               Poco frecuentes
+corporal /         frecuentes               (>1/100, <1/10)           (>1/1.000, <1/100)
+frecuencia           (>1/10)
+                            · Sofocos
+Cardiovascular
+Gastrointestinal
+Hepatobiliar
+                                                                               · Hemorragia
+Reproductor y
+mama                                                                      vaginal
+Piel
+Urogenital
+Vascular
+ · Reacciones en el lugar de la
+Sistema corporal
+total                inyección, incluyendo dolor
+· Cefalea
+· Astenia
+· Dolor de espalda
+ 4.9   Sobredosis
+ No existe experiencia de sobredosis en humanos. Los estudios en animales sugieren que no se pusieron de
+manifiesto, con las dosis más altas de fulvestrant, efectos distintos de los relacionados directa o
+indirectamente con la actividad antiestrogénica. En caso de sobredosis, tratar sintomáticamente.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antiestrógeno, código ATC: L02BA03
+ Fulvestrant es un antagonista del receptor estrogénico y se une a estos receptores estrogénicos de forma
+competitiva con una afinidad comparable a la de estradiol. Fulvestrant bloquea las acciones tróficas de los
+estrógenos sin que él mismo posea actividad agonista parcial (de tipo estrógeno). El mecanismo de acción
+está asociado con la regulación a la baja de la proteína del receptor de estrógeno (RE).
+ Los ensayos clínicos en mujeres postmenopáusicas con cáncer de mama primario han mostrado que
+fulvestrant regula significativamente a la baja la proteína del RE en los tumores RE positivos, en
+comparación con placebo. Existió además un descenso significativo en la expresión del receptor de
+progesterona, consecuente con una falta de efectos estrogénicos agonistas intrínsecos.
+ Efectos sobre el cáncer de mama avanzado:
+ Se completaron dos ensayos clínicos Fase III en un total de 851 mujeres postmenopáusicas con cáncer de
+mama avanzado que presentaban recurrencia de la enfermedad durante o después de terapia endocrina
+adyuvante, o progresión tras terapia endocrina para la enfermedad avanzada. El 77% de la población bajo
+estudio presentaba cáncer de mama receptor estrogénico positivo. Estos ensayos compararon la seguridad
+y la eficacia de la administración mensual de 250 mg de fulvestrant con un inhibidor de la aromatasa de
+tercera generación, anastrozol, a una dosis diaria de 1 mg.
+ Globalmente, fulvestrant a la dosis mensual de 250 mg fue al menos tan eficaz como anastrozol en
+términos de tiempo hasta la progresión, respuesta objetiva y tiempo hasta el fallecimiento. No se
+produjeron diferencias estadísticamente significativas en ninguno de estos parámetros de valoración entre
+los dos grupos de tratamiento. El tiempo hasta la progresión fue el parámetro de valoración principal. El
+análisis combinado de ambos ensayos mostró que el 83% de las pacientes que recibieron fulvestrant
+progresó, en comparación con el 85% de las tratadas con anastrozol. La proporción de riesgo entre
+fulvestrant y anastrozol para el tiempo hasta la progresión fue de 0,95 (IC del 95%: 0,82 a 1,10). La tasa
+de respuesta objetiva para fulvestrant fue del 19,2%, en comparación con el 16,5% para anastrozol. La
+mediana del tiempo hasta el fallecimiento fue de 27,4 meses en las pacientes tratadas con fulvestrant y de
+27,6 meses en las tratadas con anastrozol. La proporción de riesgo entre fulvestrant y anastrozol para el
+tiempo hasta el fallecimiento fue de 1,01 (IC del 95%: 0,86 a 1,19). El análisis de los resultados según el
+estado del RE mostró que el empleo de fulvestrant deberá restringirse a pacientes con cáncer de mama RE
+positivo.
+ Efectos sobre el endometrio después de la menopausia:
+ Los datos preclínicos sugieren que fulvestrant no presentará un efecto estimulante sobre el endometrio
+postmenopáusico. Un estudio de 2 semanas en voluntarias postmenopáusicas sanas mostró que, en
+comparación con placebo, el tratamiento previo con 250 mg de fulvestrant tuvo por resultado una
+disminución significativa de la estimulación del endometrio postmenopáusico, como se valoró mediante
+la determinación ecográfica del grosor del endometrio en voluntarias tratadas con 20 microgramos diarios
+de etinilestradiol.
+ No existen datos sobre los efectos a largo plazo de fulvestrant sobre el endometrio postmenopáusico. No
+hay datos disponibles respecto a la morfología del endometrio.
+ En dos estudios con pacientes premenopáusicas con enfermedad ginecológica benigna, no se observaron
+diferencias significativas en el grosor endometrial (determinado por ecografía) entre fulvestrant y
+placebo; no obstante, la duración del tratamiento fue breve (1, y 12 semanas, respectivamente).
+ Efectos sobre el hueso:
+ No existen datos a largo plazo sobre el efecto de fulvestrant sobre el hueso.
+ 5.2   Propiedades farmacocinéticas
+ Absorción:
+ Después de la administración de la inyección intramuscular de Faslodex de acción prolongada, fulvestrant
+se absorbe lentamente, y las concentraciones plasmáticas máximas se alcanzan después de unos 7 días. La
+absorción continúa durante un mes, y la administración mensual da lugar a una acumulación aproximada
+del doble. Los niveles en estado de equilibrio se alcanzan después de unas 6 dosis durante inyecciones
+mensuales, produciéndose la mayor parte de la acumulación tras 3-4 dosis. La vida media terminal se rige
+por la velocidad de absorción y se ha estimado que es de 50 días. En estado de equilibrio, las
+concentraciones plasmáticas de fulvestrant se mantienen en un intervalo relativamente estrecho, con una
+diferencia aproximada de 2 a 3 veces entre las concentraciones máxima y mínima.
+ Tras la administración intramuscular, la exposición es aproximadamente proporcional a la dosis en el
+intervalo posológico de 50 a 250 mg.
+ Distribución:
+ Fulvestrant está sometido a una distribución rápida y extensa. El volumen de distribución aparente en
+estado de equilibrio es elevado (aproximadamente 3 a 5 l/kg), lo que indica que la distribución del
+compuesto es en gran medida extravascular. Fulvestrant está altamente unido (99%) a las proteínas
+plasmáticas. Las fracciones de lipoproteína de muy baja densidad (VLDL), lipoproteína de baja densidad
+(LDL) y lipoproteína de alta densidad (HDL) son los componentes de unión principales; por consiguiente,
+no se han realizado estudios de interacción farmacológica sobre la unión competitiva a proteínas. No se
+ha determinado el papel de la globulina de unión a hormonas sexuales.
+ Metabolismo:
+ El metabolismo de fulvestrant no se ha evaluado completamente, pero implica un número de
+combinaciones de posibles vías de biotransformación análogas a las de los esteroides endógenos (incluye
+los metabolitos 17-cetona, sulfona, 3-sulfato, 3- y 17-glucurónido). Los metabolitos identificados son
+menos activos, o bien muestran una actividad similar a la de fulvestrant en modelos antiestrogénicos. Los
+                                                      7
+estudios utilizando preparaciones hepáticas humanas y enzimas recombinantes humanos indican que
+CYP 3A4 es el único isoenzima de P450 involucrado en la oxidación de fulvestrant; sin embargo, las vías
+que no son P450 parecen predominar in vivo. Los datos in vitro indican que fulvestrant no inhibe los
+isoenzimas CYP450.
+ Eliminación:
+ Fulvestrant se elimina principalmente por metabolismo. La vía de excreción principal es la fecal, con
+menos del 1% excretado en la orina. Fulvestrant presenta una eliminación elevada, 11±1,7 ml/min/kg,
+sugiriendo un cociente de extracción hepática elevado.
+ Poblaciones especiales:
+ En un análisis farmacocinético de población de los datos recabados en los estudios Fase III no se detectó
+ninguna diferencia en el perfil farmacocinético de fulvestrant por lo que se refiere a la edad (intervalo de
+33 a 89 años), el peso (40-127 kg) o la raza.
+ Insuficiencia renal
+ La alteración de la función renal leve a moderada no influenció en la farmacocinética de fulvestrant de
+ninguna forma clínicamente importante.
+ Insuficiencia hepática
+ La farmacocinética de fulvestrant se ha evaluado en un ensayo clínico a dosis única realizado en sujetos
+con insuficiencia hepática de grado A y B de Child-Pugh debida a cirrosis. Se utilizóuna dosis elevada en
+formulación inyectable por vía intramuscular de acción corta. En estos sujetos con insuficiencia hepática
+se produjo un incremento de hasta 2,5 veces en el AUC, en comparación con los individuos sanos. En las
+pacientes en tratamiento con Faslodex se espera que un aumento de esta magnitud en la exposición sea
+bien tolerado. No se han evaluado pacientes con grado C de Child-Pugh.
+ 5.3   Datos preclínicos sobre seguridad
+ La toxicidad aguda de fulvestrant es baja.
+ Faslodex y otras formulaciones de fulvestrant fueron bien toleradas en las especies animales empleadas
+en estudios de dosis múltiples. Las reacciones locales, incluyendo miositis y granuloma en el lugar de la
+inyección se atribuyeron al vehículo, pero la gravedad de la miositis en conejos aumentó con fulvestrant,
+en comparación con la solución salina de control. En estudios de toxicidad con dosis múltiples
+intramusculares de fulvestrant en ratas y perros, la actividad antiestrogénica de este fármaco fue
+responsable de la mayoría de los efectos observados, en concreto, sobre el sistema reproductor femenino,
+pero también en otros órganos sensibles a las hormonas en ambos sexos.
+ En estudios en perros tras la administración oral e intravenosa se observaron efectos sobre el sistema
+cardiovascular (ligeras elevaciones del segmento S-T del ECG [oral] y parada sinusal en un perro
+[intravenosa]). Estos tuvieron lugar a niveles de exposición más elevados que en pacientes (Cmax
+>40 veces), y es probable que sean de importancia limitada para la seguridad a la dosis clínica en
+humanos.
+ Fulvestrant no mostró potencial genotóxico.
+                                                     8
+Fulvestrant mostró efectos sobre la reproducción y el desarrollo embrionario/fetal consecuentes con su
+actividad antiestrogénica, a dosis similares a la dosis clínica. En ratas, se observó una reducción
+reversible de la fertilidad de las hembras y de la supervivencia embrionaria, distocia y una mayor
+incidencia de anomalías fetales, incluyendo flexión tarsal. Conejos tratados con fulvestrant fracasaron en
+mantener la gestación. Se apreciaron aumentos en el peso placentario y pérdida fetal tras la implantación.
+Existió una mayor incidencia de variaciones fetales en conejos (desplazamiento de la cintura pélvica
+hacia atrás y la vértebra presacra 27).
+ Un estudio de oncogenicidad a dos años en ratas (administración intramuscular de Faslodex) reveló una
+mayor incidencia de tumores ováricos benignos de las células de la granulosa en ratas hembra a la dosis
+alta de 10 mg/rata/15 días, así como una mayor incidencia de tumores testiculares de las células de Leydig
+en los machos. La inducción de tales tumores es consecuente con las alteraciones de la retroalimentación
+endocrina relacionadas con la farmacología. Estos resultados no son de importancia clínica para el uso de
+fulvestrant en mujeres postmenopáusicas con cáncer de mama avanzado.
+ 
+6.    DATOS FARMACÉUTICOS
+	"6.1   Lista de excipientes
+ Etanol 96%
+Alcohol bencílico
+Benzoato de bencilo
+Aceite de ricino
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros.
+ 6.3   Periodo de validez
+ 4 años
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2 °C y 8 °C)
+Conservar en el embalaje original para protegerlo de la luz.
+ 6.5   Naturaleza y contenido del recipiente
+ Una jeringa precargada de vidrio neutro transparente (Tipo 1) de 5 ml con émbolo de poliestireno. La
+jeringa tiene un contenido nominal de 5 ml de solución y está equipada con un cierre a prueba de
+manipulación.
+Se proporciona además una aguja con sistema de seguridad (SafetyGlide) para su conexión al cuerpo de
+la jeringa.
+ 6.6   Instrucciones de uso y manipulación y eliminación
+ Retire el cuerpo de vidrio de la jeringa de la bandeja y compruebe que no está dañado.
+Abra retirando el acondicionamiento exterior de la aguja con sistema de seguridad (SafetyGlide). (Ver a
+continuación las instrucciones de la aguja con sistema de seguridad).
+ Rompa el precinto del protector de plástico blanco del conector Luer de la jeringa para retirar este
+protector junto con la tapa de goma de la punta (ver Figura 1). Gire la aguja para acoplarla al conector
+Luer.
+Retire el capuchón de la aguja.
+Antes de su administración, se deben inspeccionar visualmente las soluciones parenterales en cuanto al
+contenido en partículas y al cambio de color.
+Retire el exceso de gas de la jeringa (puede permanecer una pequeña burbuja de gas). Administre
+lentamente vía intramuscular en el glúteo.
+Active el dispositivo de protección de la aguja inmediatamente después de extraerla de la paciente,
+empujando completamente hacia delante el brazo de la palanca, hasta que la punta de la aguja quede
+totalmente protegida (ver Figura 2).
+ Compruebe visualmente que el brazo de la palanca ha avanzado completamente y que la punta de la aguja
+está protegida. Si no se puede activar la aguja con sistema de seguridad, deséchela inmediatamente en un
+contenedor autorizado para objetos punzantes.
+ Información de Becton Dickinson sobre SafetyGlide
+ ADVERTENCIA: No esterilizar la aguja con sistema de seguridad antes de su uso. Las manos deben
+permanecer por detrás de la aguja en todo momento durante su uso y eliminación.
+ Instrucciones de uso de la aguja con sistema de seguridad
+ Retire el acondicionamiento de la aguja con sistema de seguridad, rompa el precinto del protector de
+plástico blanco del conector Luer de la jeringa y acople la aguja con sistema de seguridad al cierre Luer
+de la jeringa girándola.
+ Lleve la jeringa cargada al punto de administración.
+ Tire del capuchón de la aguja en línea recta para no dañar el extremo de la aguja.
+ Administre la inyección según las instrucciones del envase.
+Para una mayor comodidad, la posición de la aguja con el bisel ""hacia arriba"" tiene la misma orientación
+que el brazo de la palanca levantado, tal y como se muestra en la Figura 3.
+ Active el dispositivo de protección de la aguja inmediatamente después de extraerla de la paciente,
+empujando completamente hacia delante el brazo de la palanca, hasta que la punta de la aguja quede
+totalmente protegida (ver Figura 2).
+ Compruebe visualmente que el brazo de la palanca ha avanzado completamente y que la punta de la aguja
+está protegida. Si no se puede activar, deséchela inmediatamente en un contenedor autorizado para
+objetos punzantes.
+ La activación del mecanismo de protección puede originar que el fluido remanente en la aguja después de
+la inyección, salpique ligeramente.
+ Para mayor seguridad, emplee la técnica de una sola mano y active lejos de su cuerpo y de los demás.
+ Después de usar una sola vez, deseche en un contenedor autorizado para objetos punzantes, de acuerdo
+con las exigencias locales y la política del centro.
+                                                     10
+ Figura 2
+ "
+7.   TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	AstraZeneca UK Limited
+Alderley Park
+Macclesfield
+Cheshire
+SK10 4TG
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/03/269/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+ 10 Marzo 2004
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ ANEXO II
+ A.   TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN
+RESPONSABLE DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A   TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE DE LA
+LIBERACIÓN DE LOS LOTES
+     Nombre o razón social del fabricante responsable de la liberación de los lotes
+     AstraZeneca UK Limited
+Silk Road Business Park
+Macclesfield, SK10 2NA
+Reino Unido
+ B   CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·   CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+     Medicamento sujeto a receta médica
+ ·   OTRAS CONDICIONES
+     El titular de la autorización de comercialización informará a la Comisión Europea sobre los planes
+de comercialización para el medicamento autorizado mediante la presente decisión.
+ ANEXO III
+ ETIQUETADO Y POSPECTO
+ 15
+A. ETIQUETADO
+ 16
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR, O, EN SU DEFECTO,
+EN EL ACONDICIONAMIENTO PRIMARIO
+ CARTONAJE
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Faslodex 250 mg/5 ml solución inyectable.
+fulvestrant
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Una jeringa precargada contiene 250 mg de fulvestrant en 5 ml de solución.
+ 
+3.    LISTA DE EXCIPIENTES
+	Etanol 96%
+Alcohol bencílico
+Benzoato de bencilo
+Aceite de ricino
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	"1x5 ml. Solución inyectable en una jeringa precargada.
+ Este envase contiene una aguja con sistema de seguridad (SafetyGlide).
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía intramuscular. Sólo para un único uso.
+ Leer el prospecto antes de la utilización.
+ Para las instrucciones completas sobre la administración de Faslodex y el empleo de la aguja con sistema
+de seguridad, vea la ""Instrucciones de uso"" que se incluyen en el envase.
+ "
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.     OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.     FECHA DE CADUCIDAD
+	CAD
+ 
+9.     CONDICIONES ESPECIALES DE CONSERVACIÓN
+	Conservar en nevera, en el embalaje original para protegerlo de la luz.
+ 10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL PRODUCTO NO UTILIZADO
+O DE LOS MATERIALES QUE ESTÉN EN CONTACTO DIRECTO CON EL
+PRODUCTO (CUANDO CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ AstraZeneca UK Limited
+Alderley Park
+Macclesfield
+Cheshire
+SK10 4TG
+Reino Unido
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/03/269/001
+ 13.    NÚMERO DE LOTE DEL FABRICANTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ ETIQUETA DE LA JERINGA PRECARGADA
+ 1.     DENOMINACIÓN DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Faslodex 250 mg/5 ml solución inyectable
+fulvestrant
+IM
+ 
+2.     FORMA DE ADMINISTRACIÓN
+	
+3.     FECHA DE CADUCIDAD
+	CAD
+ 
+4.     NÚMERO DE LOTE DEL FABRICANTE
+	"Lote
+ 5.     CONTENIDO EN PESO, VOLUMEN O EN UNIDADES
+ 5 ml
+ B. PROSPECTO
+ 20
+ Lea todo el prospecto detenidamente antes de empezar a usar el medicamento.
+-     Conserve este prospecto. Puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico, enfermera o farmacéutico.
+-     Este medicamento se le ha recetado a Vd. personalmente y no debe Vd. pasarlo a otras personas.
+Puede perjudicarles, aún cuando sus síntomas sean los mismos que los suyos.
+ En este prospecto:
+Composición y fabricante de Faslodex
+Qué es Faslodex y para qué se utiliza
+Antes de usar Faslodex
+Alergias
+Otras afecciones clínicas
+Embarazo y lactancia
+Conducción y uso de máquinas
+Toma de con otros medicamentos
+Cómo se administra Faslodex
+Posibles efectos adversos
+Conservación de Faslodex
+Información adicional
+ Composición y fabricante de Faslodex
+ FASLODEX 250 mg/5 ml solución inyectable.
+Fulvestrant
+ El principio activo es fulvestrant. Cada jeringa precargada (5 ml) contiene 250 mg de fulvestrant.
+ Los demás componentes son etanol 96%, alcohol bencílico, benzoato de bencilo y aceite de ricino.
+ Titular de la autorización de comercialización:
+ AstraZeneca UK Limited
+Alderley Park
+Macclesfield
+Cheshire
+SK10 4TG
+Reino Unido
+ Responsable de la fabricación:
+ AstraZeneca UK Limited
+Silk Road Business Park
+Macclesfield
+Cheshire
+SK10 2NA
+Reino Unido
+ Qué es Faslodex y para qué se utiliza
+ Faslodex se utiliza para tratar el cáncer de mama únicamente en mujeres postmenopáusicas.
+ Faslodex es un medicamento que bloquea algunas de las acciones de la hormona sexual femenina, el
+estrógeno, en el organismo. El estrógeno está implicado en el mantenimiento del crecimiento de órganos
+como las mamas, el útero y el hueso. El estrógeno está vinculado con el desarrollo del cáncer de mama.
+ Faslodex se presenta en un envase con una jeringa que está cargada y lista para la inyección en el músculo
+del glúteo. Cada envase contiene una aguja para inyección.
+ Antes de usar Faslodex
+ No use Faslodex:
+ -     Si es hipersensible (alérgica) a fulvestrant o a cualquiera de los demás componentes de Faslodex.
+-     Si Vd. está embarazada o en periodo de lactancia.
+-     Si Vd. presenta problemas hepáticos graves.
+ Tenga especial cuidado con Faslodex:
+ Informe a su médico si Vd presenta alguna de estas afecciones clínicas:
+-     Si Vd. presenta problemas en los riñones o en el hígado.
+-     Si Vd. presenta un recuento bajo de plaquetas en sangre, una alteración hemorrágica, o si utiliza
+anticoagulantes (medicamentos para prevenir los coágulos sanguíneos).
+-     Si Vd. ha presentado problemas de coágulos sanguíneos.
+-     Si Vd. ha presentado problemas de pérdida del contenido mineral de los huesos (osteoporosis).
+ Embarazo y lactancia
+ No utilice Faslodex si está Vd. embarazada o en periodo de lactancia.
+ Conducción y uso de máquinas:
+ No se espera que Faslodex afecte a su capacidad para conducir o utilizar máquinas. Sin embargo, Vd.
+puede sentirse cansada después del tratamiento con este medicamento; si esto le ocurre, no conduzca ni
+utilice máquinas.
+ Toma de con otros medicamentos:
+ Informe a su médico, enfermera o farmacéutico si está tomando o ha tomado recientemente con otros medicamentos, incluso los adquiridos sin receta. Esto es importante, ya que la utilización de más de un
+medicamento al mismo tiempo puede aumentar o reducir el efecto de los mismos. Su médico puede
+necesitar tener cuidado especial o cambiar la dosis.
+ Cómo se administra Faslodex
+ Su médico o enfermera le administrará la inyección de Faslodex. Se le inyectará de forma lenta en el
+músculo del glúteo.
+ La dosis usual es:
+ ·     una inyección administrada una vez al mes.
+ Posibles efectos adversos
+ Al igual que todos los medicamentos, Faslodex puede tener efectos adversos. No se alarme por esta lista
+de posibles efectos. Puede que no presente ninguno de ellos, pero informe a su médico lo antes posible si
+le preocupa o persiste cualquiera de los siguientes efectos adversos:
+ Efectos muy frecuentes (los presentan más de 10 de cada 100 pacientes):
+ ·     Sofocos
+ Efectos frecuentes (los presentan de 1 a 10 de cada 100 pacientes):
+ ·     Reacciones en el lugar de la inyección, como dolor y/o inflamación
+·     Dolor de cabeza
+·     Debilidad y cansancio
+·     Síntomas gastrointestinales (síntomas en el estómago o el intestino), tales como náuseas (sensación
+de malestar), vómitos (ganas de vomitar), diarrea o pérdida del apetito
+·     Erupción
+·     Infecciones del tracto urinario
+·     Dolor de espalda
+·     Aumento del riesgo de coágulos sanguíneos
+·     Cambios en los niveles de los enzimas hepáticos (observados cuando se realiza un análisis de
+sangre)
+ Poco frecuentes (los presentan menos de 1 de cada 100 pacientes):
+ ·     Reacciones alérgicas, incluyendo hinchazón de los labios
+·     Hemorragia vaginal
+·     Candidiasis vaginal
+·     Flujo vaginal
+ Otros efectos
+ Si aprecia efectos adversos no mencionados en este prospecto, comuníqueselo a su médico, enfermera o
+farmacéutico lo antes posible.
+ Conservación de Faslodex
+ Mantener fuera del alcance y de la vista de los niños.
+Conservar en nevera (entre 2ºC y 8ºC).
+Conservar Faslodex en el embalaje original, para protegerlo de la luz.
+No usar una vez superada la fecha de caducidad que figura en el cartonaje o en la etiqueta de la jeringa.
+ Normalmente, su médico u hospital se encargarán de conservar Faslodex. El personal sanitario es
+responsable de la conservación, uso y eliminación correctos de Faslodex.
+                                                     23
+Información adicional
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización.
+ België/Belgique/Belgien
+NV AstraZeneca SA
+ Rue Egide Van Ophem Straat
+B-1180 Brussel/Bruxelles
+Tel: +32 2 370 48 11
+ Ceská republika                                  Danmark
+AstraZeneca Czech Republic s.r.o.                AstraZeneca A/S
+Smíchov Gate - Prague                            Roskildevej 22
+Plzeská 3217/16                                  DK-2620 Albertslund
+CZ-150 00 Praha 5
+Tel: 00420222807232
+ Deutschland                                      Eesti
+AstraZeneca GmbH                                 AstraZeneca
+Tinsdaler Weg 183                                Järvevana tee 9
+D-22880 Wedel                                    EE-11314 Tallinn
+Tel: +49 41 03 7080
+                                                  España
+AstraZeneca A.E.                                 AstraZeneca Farmacéutica Spain, S.A.
+4 &                                             C/ Serrano Galvache, 56
+GR-151 25 ,                                      Edificio Roble
+: + 30 2 106871500                               E-28033 Madrid
+ France                                           Ireland
+AstraZeneca                                      AstraZeneca Pharmaceuticals (Ireland) Ltd
+1, place Renault                                 College Park House
+F-92844 Rueil-Malmaison Cedex                    20 Nassau Street
+Tél: + 33 1 41 29 40 00                          IRL-Dublin 2
+                                                  Italia
+Ísland
+Vistor hf.                                       AstraZeneca S.p.A.
+Hörgatúni 2                                      Palazzo Volta
+IS-210 Garðabær                                  Via Francesco Sforza
+Tel: + 354 535 7000                              I-20080 Basiglio (Mi)
+                                                  Latvija
+µ                                               AstraZeneca AB prstvniecba Latvij
+25                                             Skanstes iela 13
+                                                 24
+CY-2006                                    Rga, LV-1013
+: +357 22490305                            Tel: +371 7377100
+ Lietuva                                    Luxembourg/Luxemburg
+Jogailos Str.4                             NV AstraZeneca SA
+LT-01116 Vilnius                           Rue Egide Van Ophem Straat
+Tel.: +3705 2660550                        B-1180 Brussel/Bruxelles
+ Magyarország                               Malta
+AstraZeneca Kft
+2045 Törökbálint, Park u. 3.
+H-Magyarország
+Tel: +36 23 517 300
+                                            Norge
+Nederland
+AstraZeneca BV                             AstraZeneca AS
+Postbus 599                                Boks 200 Vinderen
+NL-2700 AN Zoetermeer                      N-0319 Oslo
+Tel: +31 79 363 2222                       Tel: +47 21 00 64 00
+                                            Polska
+Österreich
+AstraZeneca Österreich GmbH                AstraZeneca Pharma Poland Sp. z o.o.
+Schwarzenbergplatz 7                       ul. Postpu 18
+A-1037 Wien
+Tel: +43 1 711 31 310                      Tel.: + 48 22 874 35 00
+ Portugal                                   România
+AstraZeneca Produtos Farmacêuticos, Lda.
+Rua Humberto Madeira, 7
+Valejas
+P-2745-663 Barcarena
+Tel: +351 21 434 61 00                     Tel: + 40 21 317 60 41
+ Slovenija                                  Slovenská republika
+AstraZeneca UK Limited
+Podruznica v Sloveniji
+Einspielerjeva 6
+SI-1000 Ljubljana
+Tel: +386 1 30 94 500
+ Suomi/Finland                              Sverige
+AstraZeneca Oy                             AstraZeneca AB
+Luomanportti 3/Bäckporten 3                S-151 85 Södertälje
+FIN-002200 Espoo/Esbo
+Puh/Tel: + 358 10 23 010
+ United Kingdom
+AstraZeneca UK Ltd
+600 Capability Green
+Luton
+LU1 3LU-UK
+                                            25
+Tel: + 44 1582 836 836
+ Este prospecto fue aprobado el {fecha}
+ Esta información está destinada únicamente a médicos o profesionales del sector sanitario:
+ Faslodex 250 mg/5 ml solución inyectable. Jeringa precargada.
+ Instrucciones de uso
+ Retire el cuerpo de vidrio de la jeringa de la bandeja y compruebe que no está dañado.
+Abra retirando el acondicionamiento exterior de la aguja con sistema de seguridad (SafetyGlide). (Ver a
+continuación las instrucciones de la aguja con sistema de seguridad).
+Rompa el precinto del protector de plástico blanco del conector Luer de la jeringa para retirar este
+protector junto con la tapa de goma de la punta (ver Figura 1). Gire la aguja para acoplarla al conector
+Luer.
+Retire el capuchón de la aguja.
+Antes de su administración, se deben inspeccionar visualmente las soluciones parenterales en cuanto al
+contenido en partículas y al cambio de color.
+Retire el exceso de gas de la jeringa (puede permanecer una pequeña burbuja de gas). Administre
+lentamente vía intramuscular en el glúteo.
+Active el dispositivo de protección de la aguja inmediatamente después de extraerla de la paciente,
+empujando completamente hacia delante el brazo de la palanca, hasta que la punta de la aguja quede
+totalmente protegida (ver Figura 2).
+ Compruebe visualmente que el brazo de la palanca ha avanzado completamente y que la punta de la aguja
+está protegida. Si no se puede activar la aguja con sistema de seguridad, deséchela inmediatamente en un
+contenedor autorizado para objetos punzantes.
+ Información de Becton Dickinson sobre SafetyGlide
+ ADVERTENCIA: No esterilizar la aguja con sistema de seguridad antes de su uso. Las manos deben
+permanecer por detrás de la aguja en todo momento durante su uso y eliminación.
+ Instrucciones de uso de la aguja con sistema de seguridad
+ Retire el acondicionamiento de la aguja con sistema de seguridad, rompa el precinto del protector de
+plástico blanco del conector Luer de la jeringa y acople la aguja con sistema de seguridad al cierre Luer
+de la jeringa girándola.
+ Lleve la jeringa cargada al punto de administración.
+ Tire del capuchón de la aguja en línea recta para no dañar el extremo de la aguja.
+ Administre la inyección según las instrucciones mostradas con anterioridad
+Para una mayor comodidad, la posición de la aguja con el bisel ""hacia arriba"" tiene la misma orientación
+que el brazo de la palanca levantado, tal y como se muestra en la Figura 3.
+ Active el dispositivo de protección de la aguja inmediatamente después de extraerla de la paciente,
+empujando completamente hacia delante el brazo de la palanca, hasta que la punta de la aguja quede
+totalmente protegida (ver Figura 2).
+ Compruebe visualmente que el brazo de la palanca ha avanzado completamente y que la punta de la aguja
+está protegida. Si no se puede activar, deséchela inmediatamente en un contenedor autorizado para
+objetos punzantes.
+ La activación del mecanismo de protección puede originar que el fluido remanente en la aguja después de
+la inyección, salpique ligeramente.
+ Para mayor seguridad, emplee la técnica de una sola mano y active lejos de su cuerpo y de los demás.
+ Después de usar una sola vez, deseche en un contenedor autorizado para objetos punzantes, de acuerdo
+con las exigencias locales y la política del centro.
+ Figura 2
+"
+	Prospectos de medicamentos.

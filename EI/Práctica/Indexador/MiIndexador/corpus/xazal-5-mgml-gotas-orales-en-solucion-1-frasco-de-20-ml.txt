@@ -1,0 +1,303 @@
+Xazal 5 mg/ml gotas orales en solucion, 1 frasco de 20 ml
+	Información Basica del medicamento Toda la información del medicamento 
+1.      NOMBRE DEL MEDICAMENTO
+	Xazal 5 mg/ml gotas orales en solución.
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada ml (equivalente a 20 gotas), contiene 5 mg de levocetirizina dihidrocloruro.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	Gotas orales en solución.
+Líquido transparente e incoloro.
+ 
+
+
+4.      DATOS CLÍNICOS
+	"4.1     Indicaciones terapéuticas
+ Tratamiento sintomático de la rinitis alérgica (incluyendo la rinitis alérgica persistente) y de la
+urticaria idiopática crónica.
+ 4.2     Posología y forma de administración
+ Las gotas se deben verter en una cuchara o diluirse en agua y tomarse por vía oral.
+Si se diluyen, debería considerarse, especialmente para administrar a niños, que el volumen de
+agua al que se le añaden las gotas, debe estar adaptado a la cantidad de agua que puede ingerir el
+paciente. La solución diluida debe tomarse inmediatamente.
+Cuando se cuenten las gotas, el frasco debe sostenerse totalmente invertido. En el caso en que
+dejen de salir gotas, si todavía no se han dispensado el número de gotas adecuado, girar el frasco
+en su posición original y volver a invertirlo, para seguir contando el número de gotas.
+ Las gotas pueden tomarse con o sin alimento.
+ Adultos y adolescentes a partir de 12 años:
+La dosis diaria recomendada es de 5 mg (20 gotas).
+ Ancianos:
+Se recomienda ajustar la dosis en ancianos con insuficiencia renal de moderada a grave (ver más
+abajo ""Uso en pacientes con insuficiencia renal"").
+ Niños de 6 a 12 años:
+La dosis diaria recomendada es de 5 mg (20 gotas).
+ Niños de 2 a 6 años:
+La dosis diaria recomendada es de 2,5 mg administrada en dos tomas de 1,25 mg (5 gotas dos
+veces al día).
+ Pacientes adultos con insuficiencia renal:
+ Los intervalos de dosificación se deberán individualizar de acuerdo con la función renal. Consulte
+la siguiente tabla y ajuste la dosis según proceda. Para utilizar esta tabla de dosificación, es
+preciso disponer de una estimación del aclaramiento de creatinina (CLcr) del paciente, en ml/min.
+El valor de CLcr (en ml/min) se puede estimar a partir de la determinación de creatinina en suero
+(mg/dl) mediante la siguiente fórmula:
+                  [140 - edad (años)] x peso (kg ) (x 0,85 para mujeres )
+CLcr =
+72 x creatinina en suero (mg / dl )
+ Ajuste de la dosis en pacientes con insuficiencia renal:
+ Grupo                               Aclaramiento de creatinina              Dosis y frecuencia
+Normal                                                             5 mg una vez al día
+Leve                                         50 ­ 79               5 mg una vez al día
+Moderada                                     30 ­ 49               5 mg una vez cada 2 días
+Severa                                        < 30                 5 mg una vez cada 3 días
+Enfermedad renal terminal ­                   < 10                 Contraindicado
+pacientes que precisan diálisis
+ En pacientes pediátricos con insuficiencia renal, la dosis deberá ajustarse de modo individual en
+cada caso teniendo en cuenta el aclaramiento renal del paciente y su peso. No hay datos
+específicos de niños con insuficiencia renal.
+ Pacientes con insuficiencia hepática
+No es preciso ajustar la dosis en pacientes que sólo tengan insuficiencia hepática. Sí se
+recomienda ajustar la dosis en pacientes con insuficiencia renal y hepática (ver más arriba, ""Uso
+en pacientes con insuficiencia renal"").
+ Duración del tratamiento:
+La rinitis alérgica intermitente (síntomas durante < 4 días/semana o durante menos de 4 semanas)
+ha de tratarse acorde con la enfermedad y su historia; puede interrumpirse el tratamiento una vez
+los síntomas hayan desaparecido y puede reanudarse de nuevo cuando los síntomas reaparezcan.
+En el caso de rinitis alérgica persistente (síntomas durante > 4 días/semana y durante más de 4
+semanas) se puede proponer un tratamiento continuo al paciente durante el periodo de exposición
+a los alérgenos. Actualmente se dispone de experiencia clínica con comprimidos con cubierta
+pelicular de 5 mg de levocetirizina durante un periodo de tratamiento de 6 meses. Para urticaria
+crónica y rinitis alérgica crónica existe experiencia clínica de hasta un año con el compuesto
+racémico.
+ 4.3      Contraindicaciones
+ Hipersensibilidad a levocetirizina, a cualquier derivado piperazínico, a parahidroxibenzoato de
+metilo, a parahidroxibenzoato de propilo, o a alguno de los excipientes de la formulación.
+ Pacientes con enfermedad renal terminal con un aclaramiento de creatinina inferior a 10 ml/min.
+ 4.4      Advertencias y precauciones especiales de empleo
+Se recomienda precaución con la ingesta de alcohol (ver apartado 4.5).
+ El parahidroxibenzoato de metilo y parahidroxibenzoato de propilo pueden causar reacciones
+alérgicas (posiblemente retardadas).
+ No se recomienda la administración de levocetirizina a niños menores de 2 años al no disponer de
+datos en esta población.
+ 4.5     Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado ensayos de interacción con levocetirizina (incluyendo ensayos con inductores
+del CYP 3A4), ensayos realizados con el compuesto racémico cetirizina han demostrado que no
+había interacciones adversas clínicamente relevantes (con pseudoefedrina, cimetidina,
+ketoconazol, eritromicina, azitromicina, glipizida y diazepam). En un ensayo de dosis múltiples
+con teofilina (400 mg, una vez al día) se observó una ligera disminución (16%) en el aclaramiento
+de cetirizina, mientras que la disposición de teofilina no se alteró con la administración
+concomitante de cetirizina.
+ La absorción de levocetirizina no se reduce con la comida, pero la velocidad de absorción sí
+disminuye.
+ En pacientes sensibles la administración simultánea de cetirizina o levocetirizina y alcohol u otros
+depresores del SNC puede producir efectos sobre el sistema nervioso central, aunque se ha
+demostrado que el compuesto racémico cetirizina no potencia el efecto del alcohol.
+ 4.6     Embarazo y lactancia
+ No se dispone de datos clínicos de levocetirizina en mujeres embarazadas. Estudios realizados en
+animales no indican efectos nocivos directos o indirectos sobre el embarazo, desarrollo
+embrional/fetal, parto o desarrollo post natal. Se deberán tomar precauciones al prescribirse a
+mujeres embarazadas o en periodo de lactancia.
+ 4.7     Efectos sobre la capacidad para conducir y utilizar máquinas
+ Estudios clínicos comparativos no han mostrado evidencias que levocetirizina, produzca
+alteraciones de la atención, la capacidad de reacción y la habilidad para conducir a la dosis
+recomendada.
+Sin embargo, algunos pacientes pueden experimentar somnolencia, fatiga y astenia durante su
+tratamiento con levocetirizina. Por tanto, los pacientes que vayan a conducir, realizar actividades
+potencialmente peligrosas o utilizar maquinaria deberán tener en cuenta su respuesta al fármaco.
+ 4.8     Reacciones adversas
+ En los ensayos terapéuticos realizados en hombres y mujeres de 12 a 71 años, el 15,1% de los
+pacientes del grupo tratado con 5 mg de levocetirizina presentaron al menos una reacción adversa
+en comparación con el 11,3% de los pacientes del grupo tratado con placebo. El 91,6% de esas
+reacciones adversas al fármaco fueron entre leves y moderadas.
+En los ensayos terapéuticos, la tasa de abandono debida a acontecimientos adversos fue de 1,0%
+(9/935) con 5 mg de levocetirizina y de 1,8%, (14/771) con placebo.
+                                                                                                        MINISTERIO
+Los ensayos clínicos terapéuticos con levocetirizina incluyeron a 935 pacientes, que recibieron la
+dosis recomendada de 5 mg de fármaco al día. En este conjunto de pacientes, y con un tratamiento
+de 5 mg de levocetirizina o placebo, se observaron las siguientes reacciones adversas relacionadas
+con el fármaco y con una incidencia igual o superior al 1% (frecuente: >1/100, <1/10):
+                  Reacciones adversas     Placebo              5 mg de levocetirizina
+(WHOART)                (n = 771)            (n = 935)
+Cefalea                 25 (3,2 %)           24 (2,6 %)
+Somnolencia             11 (1,4 %)           49 (5,2 %)
+Sequedad de boca        12 (1,6 %)           24 (2,6 %)
+Fatiga                  9 (1,2 %)            23 (2,5 %)
+ Se observaron otras reacciones adversas no frecuentes (poco frecuentes >1/1000, <1/100), como
+astenia o dolor abdominal.
+La incidencia de reacciones adversas sedativas debidas al fármaco, como somnolencia, fatiga y
+astenia, fueron más comunes con 5 mg de levocetirizina (8,1 %) que con placebo (3,1 %).
+ El parahidroxibenzoato de metilo y el parahidroxibenzoato de propilo pueden producir reacciones
+alérgicas, posiblemente retardadas.
+ Además de las reacciones adversas reportadas durante los ensayos clínicos y anteriormente
+mencionadas, en la experiencia post-comercialización se han reportado casos muy raros de las
+siguientes reacciones adversas al fármaco.
+       ·   Trastornos del sistema inmunológico: hipersensibilidad, incluyendo anafilaxia.
+·   Trastornos psiquiátricos: agresión, agitación.
+·   Trastornos del sistema nervioso: convulsión.
+·   Trastornos oculares: alteraciones visuales.
+·   Trastornos cardiacos: palpitaciones.
+·   Trastornos respiratorios, torácicos y mediastínicos: disnea.
+·   Trastornos gastrointestinales: náuseas.
+·   Trastornos hepatobiliares: hepatitis.
+·   Trastornos de la piel o del tejido subcutáneo: edema angioneurótico, erupcion fija debida
+al medicamento, prurito, erupción, urticaria.
+·   Trastornos músculo esqueléticos y del tejido conjuntivo: mialgia.Exploraciones
+complementarias: incremento de peso.
+ 4.9       Sobredosis
+ a) Síntomas
+ Los síntomas de sobredosis pueden incluir somnolencia en adultos y en niños inicialmente
+agitación e inquietud, seguido por somnolencia.
+ b) Tratamiento de la sobredosis
+ No existe ningún antídoto específico conocido contra la levocetirizina.
+De producirse sobredosis, se recomienda seguir un tratamiento sintomático o de apoyo. El lavado
+gástrico se podrá realizar tras una ingesta a corto plazo. La levocetirizina no se elimina de forma
+efectiva por hemodiálisis.
+"
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1     Propiedades farmacodinámicas
+ Grupo terapéutico: antihistamínico de uso sistémico, derivado piperazínico, código de ATC:
+R06A E09.
+ La levocetirizina, el enantiómero (R) de la cetirizina, es un antagonista potente y selectivo de los
+receptores H1 periféricos.
+ Los estudios de afinidad han demostrado que la levocetirizina presenta una elevada afinidad por
+los receptores H1 humanos (Ki = 3,2 nmol/l). La afinidad de la levocetirizina es dos veces mayor
+que la de la cetirizina (Ki = 6,3 nmol/l). La levocetirizina se disocia de los receptores H1 con una
+vida media de 115 ± 38 min.
+ Después de una única administración, la levocetirizina muestra una ocupación del receptor del
+90% a las 4 horas y del 57% a las 24 horas.
+ Los estudios farmacodinámicos realizados en voluntarios sanos han demostrado que a la mitad de
+dosis, la levocetirizina presenta una actividad comparable a la de la cetirizina tanto en la piel
+como en la nariz.
+ Se ha estudiado la actividad farmacodinámica de la levocetirizina en ensayos aleatorizados y
+controlados.
+ En un ensayo se comparó los efectos de 5 mg de levocetirizina, 5 mg de desloratidina y placebo,
+sobre el habón y el eritema inducidos por histamina, el resultado del tratamiento con
+levocetirizina disminuyó significativamente la formación del habón y eritema, siendo mayor en
+las primeras 12 horas y se mantuvo durante 24 horas (p<0,001), en comparación con el placebo y
+la desloratidina.
+ En los ensayos controlados con placebo empleando el modelo de cámaras de exposición a los
+alérgenos, se ha observado el inicio de la acción de 5 mg de levocetirizina, 1 hora después de la
+toma del medicamento, para controlar los síntomas inducidos por el polen.
+ Los estudios in vitro (Cámaras de Boyden y técnicas de capas celulares) demuestran que la
+levocetirizina inhibe la migración transendotelial de los eosinófilos, inducida por la eotaxina, a
+través de las células dérmicas y pulmonares. Un estudio farmacodinámico experimental in vivo
+(técnica de cámara cutánea) demostró tres efectos principales de inhibición de la levocetirizina 5
+mg en las primeras 6 horas de la reacción inducida por el polen comparada con placebo en 14
+pacientes adultos: inhibición de la liberación de VCAM-1, modulación de la permeabilidad
+vascular y disminución del reclutamiento de eosinófilos.
+ Se ha demostrado la eficacia y seguridad de la levocetirizina en varios ensayos clínicos, con
+diseño doble-ciego y controlados con placebo en pacientes adultos que padecían de rinitis alérgica
+estacional, rinitis alérgica perenne o rinitis alérgica persistente. La levocetirizina ha mostrado en
+algunos estudios una mejora significativa de los síntomas de la rinitis alérgica, incluido la
+obstrucción nasal.
+ En un ensayo clínico de 6 meses de duración en 551 pacientes adultos (incluyendo 276 pacientes
+que se trataron con levocetirizina) que padecían rinitis alérgica persistente (síntomas presentes
+durante 4 días a la semana durante al menos 4 semanas consecutivas) y sensibilizados a ácaros del
+polvo doméstico y polen de gramíneas, la levocetirizina 5 mg fue de forma clínica y
+estadísticamente significativa más potente que el placebo en la mejora de la puntuación total de
+los síntomas de la rinitis alérgica a lo largo de todo el estudio, sin presentar taquifilaxia. Durante
+todo el estudio, levocetirizina mejoró significativamente la calidad de vida de los pacientes.
+ Se han estudiado la seguridad y eficacia pediátrica de los comprimidos de levocetirizina en dos
+ensayos clínicos controlados con placebo incluyendo pacientes entre 6 y 12 años y que sufren de
+rinitis estacional o rinitis alérgica perenne, respectivamente. En ambos ensayos, la levocetirizina
+mejoró significativamente los síntomas y aumentó la relación salud/calidad de vida.
+ En un ensayo clínico controlado con placebo que incluía 166 pacientes que sufrían de urticaria
+idiopática crónica, 85 pacientes fueron tratados con placebo y 81 pacientes con 5 mg de
+levocetirizina una vez al día durante seis semanas. El tratamiento con levocetirizina provocó una
+disminución significativa en la gravedad del prurito durante la primera semana y durante todo el
+periodo del tratamiento en comparación con el placebo. La levocetirizina también provocó un
+aumento en la mejora de la relación salud/calidad de vida como se evaluó con el Índice de Calidad
+de Vida Dermatológico, en comparación con el placebo.
+ Relación farmacocinética/farmacodinámica:
+La acción sobre las reacciones cutáneas inducidas por la histamina no está relacionada con las
+concentraciones en plasma.
+ Los electrocardiogramas no mostraron ningún efecto relevante de la levocetirizina sobre el
+intervalo QT.
+ 5.2     Propiedades farmacocinéticas
+ Las propiedades farmacocinéticas de la levocetirizina son lineales respecto a la dosis e
+independientes del tiempo, con una baja variabilidad entre sujetos. El perfil farmacocinético es el
+mismo cuando se administra como enantiómero único o como cetirizina. No se produce inversión
+quiral durante el proceso de absorción y eliminación.
+ Absorción:
+La levocetirizina es rápida y ampliamente absorbida tras ser administrada por vía oral. En adultos,
+las concentraciones máximas en plasma se alcanzan 0,9 horas tras la administración. El estado
+estacionario se alcanza dos días más tarde. Las concentraciones máximas suelen ser 270 ng/ml y
+308 ng/ml tras la administración de una dosis única de 5 mg y una dosis repetida de 5 mg diarios,
+respectivamente. El grado de absorción es independiente de la dosis y no se modifica con la
+comida, pero reduce y retrasa el pico de concentración.
+ Distribución:
+No se dispone de datos sobre la distribución del fármaco en tejidos humanos, así como tampoco
+de datos referentes al traspaso de la barrera hematoencefálica. En ratas y perros, los niveles
+tisulares más elevados se encuentran en hígado y riñones, y los más bajos en el compartimento del
+SNC. La levocetirizina se une a proteínas plasmáticas en un 90%. La distribución de la
+levocetirizina es restrictiva, ya que el volumen de distribución es 0,4 l/kg.
+ Biotransformación:
+                                                                                                          MINISTERIO
+El grado de metabolismo de la levocetirizina en humanos es inferior al 14% de la dosis, y por ello
+se espera que las diferencias derivadas del polimorfismo genético o de la administración
+concomitante de los inhibidores enzimáticos sean insignificantes. Las vías metabólicas
+comprenden la oxidación de compuestos aromáticos, la N-desalquilación y O-desalquilación y la
+conjugación de taurina. El principal mediador de las vías de desalquilación es el CYP 3A4,
+mientras que en la oxidación de compuestos aromáticos participan múltiples isoformas de CYP
+y/o isoformas que aún no han sido identificadas. La levocetirizina no tuvo ningún efecto sobre la
+actividad de las isoenzimas CYP 1A2, 2C9, 2C19, 2D6, 2E1 y 3A4 a concentraciones por encima
+de las concentraciones máximas en plasma tras una dosis oral de 5 mg.
+Debido a su bajo metabolismo y a la ausencia de un potencial de inhibición metabólico, es poco
+probable que la levocetirizina interaccione con otras sustancias o viceversa.
+ Eliminación:
+La vida media en plasma en adultos es de 7,9 ± 1,9 horas. La vida media es inferior en niños
+pequeños. El aclaramiento corporal total aparente medio es de 0,63 ml/min/kg. La orina es la
+principal vía de excreción de levocetirizina y sus metabolitos, por ella se elimina alrededor del
+85,4% de la dosis. Sólo el 12,9% de la dosis se excreta por las heces. Levocetirizina se excreta
+tanto por filtración glomerular como por secreción tubular activa.
+ Insuficiencia renal:
+El aclaramiento corporal aparente de la levocetirizina se correlaciona con el aclaramiento de la
+creatinina. Por tanto, se recomienda ajustar los intervalos de administración de las dosis de
+levocetirizina, tomando como base el aclaramiento de creatinina en pacientes con insuficiencia
+renal moderada o grave. En sujetos anúricos con enfermedad renal terminal, el aclaramiento
+corporal total es aproximadamente un 80% menor que en sujetos normales. La cantidad de
+levocetirizina eliminada durante un procedimiento de hemodiálisis estándar de 4 horas es <10%.
+ 5.3    Datos preclínicos sobre seguridad
+ Los datos preclínicos disponibles indican que no existe un riesgo especial para humanos basados
+en ensayos convencionales de seguridad farmacológica, toxicidad a dosis repetidas, toxicidad en
+reproducción, genotoxicidad o carcinogenicidad.
+ 
+6.     DATOS FARMACÉUTICOS
+	"6.1    Lista de excipientes
+ Acetato de sodio
+Ácido acético
+Propilenglicol
+Glicerol 85%
+Parahidroxibenzoato de metilo (E 218)
+Parahidroxibenzoato de propilo (E 216)
+Sacarina de sodio
+Agua purificada
+ 6.2    Incompatibilidades
+ No procede.
+ 6.3     Periodo de validez
+ Antes de la primera apertura del frasco: 2 años.
+Después de la primera apertura del frasco: 3 meses.
+ 6.4     Precauciones especiales de conservación
+ Conservar en el envase original para mantenerlo protegido de la luz.
+ 6.5     Naturaleza y contenido del envase
+ Frasco de vidrio topacio (Ph. Eur. tipo III) provisto de cuentagotas insertado en polietileno natural
+de baja densidad y cerrado con un tapón a ""prueba de niños"" de polipropileno blanco.
+Envases de 10, 15 y 20 ml de gotas orales en solución.
+Es posible que no se comercialicen todos los tamaños de envase.
+ 6.6     Instrucciones de uso y manipulación
+ Ninguna en especial.
+ "
+7.      TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	UCB Pharma, S.A.
+Pº de la Castellana, 141. - Planta 15
+28046- Madrid
+ 
+8.      NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN
+	Octubre de 2004
+ 10.     FECHA DE REVISIÓN DEL TEXTO
+ Diciembre 2007
+
+	Prospectos de medicamentos.

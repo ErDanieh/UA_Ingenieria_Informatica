@@ -1,0 +1,365 @@
+RABIPUR,1 x 1 ml con jeringa
+	Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ Rabipur®
+(Vacuna antirrábica CEPP)
+ 
+1.     NOMBRE DEL MEDICAMENTO
+	       Rabipur®  2,5 UI/ml, polvo y disolvente para solución inyectable.
+Vacuna antirrábica preparada en cultivos celulares para uso en humanos
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       Tras la reconstitución, 1 dosis (1 ml) contiene:
+Virus de la rabia* (Inactivados, cepa Flury LEP)................................. 2,5 UI
+* producidos en células embrionarias de pollo purificadas
+Para excipientes, consúltese la sección 6.1.
+ 
+3.     FORMA FARMACÉUTICA
+	       Polvo y disolvente para solución inyectable.
+Tras la reconstitución del polvo liofilizado de color blanco con el disolvente transparente
+e incoloro se obtiene una solución transparente e incolora.
+ 
+
+ 
+4.     DATOS CLÍNICOS
+	4.1    Indicaciones terapéuticas
+a) Profilaxis preexposición (antes del posible riesgo de exposición al virus de la rabia)
+b) Tratamiento postexposición (tras sospecha o conocimiento de exposición al virus de la
+rabia)
+        Se deben tener en cuenta las directrices nacionales y/o de la OMS relativas a la
+prevención de la rabia.
+ 4.2   Posología y forma de administración
+Posología
+La posología recomendada para todos los grupos de edad es de 1 ml por vía
+intramuscular.
+       En la medida de lo posible, y en función de la disponibilidad de la vacuna, se recomienda
+la utilización de una vacuna del mismo tipo de cultivo celular durante todo el ciclo de
+inmunización pre o postexposición. No obstante, en el tratamiento postexposición, se
+considera de capital importancia la adherencia a las pautas recomendadas, aún cuando
+deba usarse una vacuna de otro tipo de cultivo celular.
+       PROFILAXIS PREEXPOSICIÓN
+Inmunización primaria
+En personas no vacunadas previamente, el ciclo inicial de profilaxis preexposición
+consiste en 3 dosis (de 1 ml cada una) los días 0, 7 y 21 ó 28.
+       Dosis de recuerdo
+La necesidad de realizar determinaciones serológicas periódicas para determinar la
+presencia de anticuerpos  0,5 UI/ml (mediante la prueba de inhibición rápida de focos
+fluorescentes [rapid focus-fluorescent inhibition test]) y la administración de dosis de
+recuerdo debe evaluarse según las recomendaciones oficiales.
+A continuación se muestra la pauta general:
+· Se recomienda habitualmente la determinación de anticuerpos neutralizantes a
+intervalos de 6 meses si el riesgo de exposición es alto (p. ej., personal de laboratorio
+que trabaja con el virus de la rabia).
+· En personas consideradas en riesgo continuo de exposición a la rabia (p. ej.
+veterinarios y sus ayudantes, trabajadores en contacto con animales salvajes,
+cazadores), en general deberán someterse a un análisis serológico al menos cada 2
+años; se reducirá dicho intervalo si se considera adecuado en función del grado de
+riesgo percibido.
+· En los casos citados previamente, se debe administrar una dosis de recuerdo si el
+título de anticuerpos es inferior a 0,5 UI/ml.
+· Alternativamente, en función del riesgo percibido, se pueden administrar dosis de
+recuerdo a los intervalos recomendados oficialmente sin la evaluación serológica
+previa. La experiencia demuestra que, generalmente, se necesitan dosis de refuerzo
+cada 2-5 años.
+Rabipur se puede utilizar como vacuna de recuerdo tras la inmunización previa con
+vacuna antirrábica cultivada en células diploides humanas.
+       TRATAMIENTO POSTEXPOSICIÓN
+       La inmunización postexposición debe comenzar lo antes posible después de la
+exposición y debe acompañarse de las medidas terapéuticas locales en el punto de
+inoculación para reducir el riesgo de infección. Se deben respetar las
+recomendaciones oficiales relativas a las medidas concomitantes adecuadas que
+                                                                                                        MINISTERIO
+deben adoptarse para prevenir la aparición de una infección (ver también la sección
+4.4).
+             Individuos totalmente inmunizados previamente:
+Para las categorías de exposición II y III de la OMS y en los casos de la categoría I
+en los que la clasificación de la exposición sea incierta (ver Tabla 1), se deben
+administrar dos dosis (de 1 ml cada una) los días 0 y 3. Tras una evaluación
+individualizada, puede aplicarse la pauta A (consúltese la Tabla 2 siguiente) si la
+última dosis de la vacuna se administró hace más de 2 años.
+ Tabla 1: Pautas de inmunización adecuadas a los distintos tipos de exposición (OMS 2002)
+ Categoría de Tipo de contacto con un animal doméstico                            Tratamiento recomendado
+Exposición o salvaje con sospecha o confirmación de
+rabia o con un animal no disponible para
+su observación(a)
+                 Tocar o alimentar animales                     Ninguno, si la historia del caso es fiable.
+I
+Lamedura en piel intacta                       Si la historia del caso no es fiable, tratar conforme a la pauta A
+Contacto de la piel intacta con restos
+animales infectados con el virus de la rabia
+Mordisqueo en piel descubierta
+II
+Rasguños o abrasiones menores sin
+hemorragia                                     En caso de incertidumbre y/o exposición en una zona de alto
+Lamedura en piel no intacta                    B (consúltese la Tabla 2).
+Contacto de la piel no intacta con restos      (Consúltese también la nota al pie c)
+animales infectados con el virus de la rabia
+Mordeduras o rasguños transdérmicos            Administrar inmunoglobulina antirrábica y vacunar
+III
+únicos o múltiples
+Contaminación con saliva de la membrana
+mucosa (p.ej., lamedura)
+Contacto de la membrana mucosa o una
+herida cutánea reciente con restos animales
+infectados con el virus de la rabia
+ a)
+La exposición a roedores, conejos y liebres raramente requiere tratamiento antirrábico específico.
+b)
+Si se mantiene en observación a un perro o un gato aparentemente sano residente o procedente de una zona de bajo
+riesgo, puede estar justificado el retraso del tratamiento específico.
+c)
+Interrumpir el tratamiento si el animal es un gato o perro y se mentiene sano durante el periodo de observación de
+10 días o si se sacrifica al animal y se confirma el resultado negativo de rabia mediante técnicas de laboratorio
+adecuadas. Excepto en el caso de especies amenazadas o en peligro de extinción, se sacrificará a los animales
+domésticos y salvajes con sospecha de rabia y sus tejidos se examinarán utilizando las técnicas de laboratorio
+adecuadas.
+ Individuos no inmunizados o con un estado de inmunidad dudoso
+De acuerdo con la categoría de la OMS, como en la Tabla 1, las personas previamente no
+inmunizadas y las que hayan recibido menos de 3 dosis de vacuna o que hayan recibido
+una vacuna de dudosa eficacia pueden precisar tratamiento según las pautas A o B
+(consúltese la Tabla 2 siguiente).
+ Tabla 2: Tratamiento postexposición de los sujetos no inmunizados o con inmunización
+dudosa
+      Pauta A                                       Pauta B
+Se requiere inmunización activa tras la       Se requiere inmunización activa y pasiva tras
+exposición.                                   la exposición
+ Una inyección IM de Rabipur los días: 0,     Administrar Rabipur según la pauta A +
+3, 7, 14, 28 (pauta de 5 dosis)
+O
+Se administra una dosis de Rabipur en el
+músculo deltoides derecho y una dosis en está disponible en el momento de la primera
+el músculo deltoides izquierdo el día 0 y se vacunación, se debe administrar antes de los 7
+administra una dosis en el músculo
+deltoides los días 7 y 21 (pauta 2-1-1). En
+niños, la vacuna debe administrarse en los
+muslos.
+     * Respetar las instrucciones de administración del fabricante
+ Pacientes inmunodeprimidos y pacientes con un riesgo particularmente alto de contraer
+la rabia
+En pacientes inmunocomprometidos, pacientes con heridas múltiples y/o heridas
+craneofaciales o de otras zonas ricamente inervadas y pacientes en que se retrase el inicio
+del tratamiento, se recomienda:
+En estos casos, aplicar la pauta de inmunización de los días 0, 3, 7, 14 y 28
+-
+El día 0 se pueden administrar dos dosis de vacuna. Es decir, debe inyectarse en el
+-
+deltoides derecho una dosis de 1 ml de vacuna y otra dosis en el músculo deltoides
+izquierdo. En niños debe administrarse una dosis en la región anterolateral de cada
+muslo.
+Es posible que los pacientes con inmunodepresión grave no desarrollen respuesta
+inmunológica tras la vacunación antirrábica. Por tanto, el tratamiento rápido y apropiado
+de la herida es esencial para prevenir la muerte. Además, debe administrarse globulina
+inmune antirrábica a todos los pacientes inmunodeprimidos que presenten las lesiones
+incluidas en las Categorías II y III
+En pacientes inmunocomprometidos, el título de anticuerpos neutralizantes se debe
+determinar a los 14 días siguientes a la primera inyección. Los pacientes que exhiban un
+título inferior a 0,5 UI/ml deben recibir otras dos dosis de vacuna simultáneamente y lo
+antes posible. Deberá determinarse ulteriormente el título de anticuerpos y se
+administrarán dosis adicionales de vacuna según sea preciso.
+                                                                                                    MINISTERIO
+En todos los casos, se deberá seguir la pauta de inmunización exactamente según lo
+recomendado, aún cuando el paciente acuda para recibir tratamiento después de haber
+transcurrido un periodo de tiempo considerable desde la exposición.
+       Forma de administración
+       La vacuna se debe administrar mediante inyección intramuscular en el músculo deltoides
+y en niños, en la región anterolateral del muslo.
+No se debe administrar mediante inyección intraglútea.
+No administrar mediante inyección intravascular (consúltese el Apartado 4.4).
+ 4.3   Contraindicaciones
+Tratamiento postexposición
+No existen contraindicaciones para la vacunación cuando está indicado el tratamiento
+postexposición. No obstante, los sujetos con riesgo de una reacción de hipersensibilidad
+grave deben recibir una vacuna antirrábica alternativa si se dispone de un producto
+adecuado (consúltese también el apartado 4.4 relativo a las reacciones de
+hipersensibilidad previas).
+       Profilaxis preexposición
+Rabipur no se debe administrar a sujetos con antecedentes de reacción de
+hipersensibilidad grave a cualquiera de los componentes de la vacuna. Obsérvese que la
+vacuna puede contener poligelina, trazas de neomicina, clortetraciclina, anfotericina B y
+proteínas de pollo (consúltese también el apartado 4.4).
+Se debe retrasar la vacunación en los sujetos que padezcan una enfermedad febril aguda.
+Las infecciones menores no representan una contraindicación para la vacunación.
+ 4.4   Advertencias y precauciones especiales de uso
+Al igual que con todas las vacunas, se debe disponer del tratamiento médico adecuado
+para uso inmediato en el caso raro de que se produzca una reacción anafiláctica frente a la
+vacuna.
+Los antecedentes de alergia al huevo o una prueba cutánea positiva a ovoalbúmina no
+indican necesariamente que el paciente sea alérgico a Rabipur. No obstante, los sujetos
+con antecedentes de reacción de hipersensibilidad grave a los huevos o a sus derivados no
+deben recibir la vacuna como profilaxis preexposición. Dichos sujetos no deben recibir la
+vacuna para el tratamiento postexposición a menos que no se disponga de una vacuna
+adecuada alternativa, en cuyo caso, todas las inyecciones deben administrarse bajo
+estrecha vigilancia en dependencias dotadas para el tratamiento de emergencia.
+Del mismo modo, los sujetos con antecedentes de reacción de hipersensibilidad grave a
+cualquiera de los otros componentes contenidos en Rabipur, como la poligelina
+(estabilizante) o a la anfotericina B, clortetraciclina o neomicina (que pueden estar
+presentes como trazas) no deben recibir la vacuna como profilaxis preexposición. La
+vacuna no se debe administrar a dichas personas para el tratamiento postexposición a
+menos que no se disponga de otra vacuna adecuada alternativa, en cuyo caso se adoptarán
+las precauciones detalladas previamente .
+ No administrar mediante inyección intravascular.
+Si la vacuna se administra inadvertidamente en un vaso sanguíneo existe el riesgo de
+reacciones adversas graves, incluyendo el shock.
+       Tras el contacto con animales sospechosos de ser portadores de la rabia, es esencial
+observar los siguientes procedimientos (según la OMS 1997):
+       Tratamiento inmediato de la herida
+Para eliminar el virus de la rabia, limpiar inmediatamente la herida con jabón e irrigarla
+con bastante agua. A continuación, tratar con alcohol (70%) o solución de yodo. En la
+medida de lo posible, las lesiones por mordedura no deben suturarse o sólo suturarse para
+asegurar la aposición.
+       Vacunación antitetánica y administración de la inmunoglobulina antirrábica
+Si es necesario, se administrará profilaxis antitetánica.
+Si está indicada la inmunización pasiva, se administrará en el interior y alrededor de la
+herida, tan profundamente como sea posible, la mayor cantidad anatómicamente posible
+del total de la dosis recomendada de inmunoglobulina antirrábica humana. El resto de la
+inmunoglobulina se debe inyectar por vía intramuscular en un lugar separado del punto de
+vacunación, preferentemente en el glúteo. Para información más detallada, consúltese la
+Ficha Técnica y/o el prospecto de la inmunoglobulina antirrábica.
+ 4.5   Interacciones con con otros medicamentos y otras formas de interacción
+Los pacientes inmunocomprometidos, incluyendo los que reciben tratamiento
+inmunosupresor, posiblemente no desarrollen una respuesta adecuada a la vacuna
+antirrábica. Por tanto, se recomienda la vigilancia de la respuesta serológica de dichos
+pacientes y la administración de dosis adicionales si se juzga necesario (consúltese el
+apartado 4.2 para más detalles).
+La administración de inmunoglobulina antirrábica puede ser necesaria para el tratamiento,
+pero puede atenuar los efectos de la vacuna antirrábica cuando se administra de manera
+concomitante. Por consiguiente, es importante que la inmunoglobulina antirrábica se
+administre sólo una vez para tratar cada exposición de riesgo y en la dosis recomendada.
+Se pueden administrar otras vacunas inactivadas imprescindibles al mismo tiempo que
+Rabipur. Las distintas vacunas inactivadas inyectables se deben administrar en puntos de
+inyección separados.
+ 4.6   Embarazo y lactancia
+No se han detectado casos de lesiones atribuibles al uso de Rabipur durante el embarazo.
+Como se desconoce si Rabipur se excreta por la leche materna, no se ha identificado
+riesgo en lactantes. Rabipur se puede administrar a mujeres embarazadas y en periodo de
+lactancia si se requiere tratamiento postexposición.
+       La vacuna se puede utilizar también como profilaxis preexposición en mujeres
+embarazadas o en periodo de lactancia si se considera que el beneficio potencial excede
+cualquier posible riesgo en el feto/lactante.
+ 4.7   Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+                                                                                                    MINISTERIO
+Es improbable que la vacuna produzca efectos sobre la capacidad de conducir y de utilizar
+maquinaria.
+ 4.8   Reacciones adversas
+En los estudios clínicos las reacciones adversas más frecuentemente notificadas fueron
+dolor en el punto de inyección (30 ­85 %, principalmente, dolor por la inyección) o
+induración en el punto de inyección (15 - 35 %). La mayoría de las reacciones en el punto
+de inyección no fueron graves y se resolvieron entre las 24 y 48 horas siguientes a la
+inyección. Además, se observaron los siguientes efectos indeseables en los ensayos
+clínicos y/o durante el periodo postcomercialización:
+       Clasificación normalizada por
+sistema orgánico
+Trastornos generales y                             punto de inyección
+trastornos en el punto de
+administración                    Frecuente
+Trastornos cardiacos              > 1/10.000, <
+Trastornos del sistema            Fecuente
+sanguíneo y linfático             > 1/100, < 1/10
+Trastornos del oído y del         Muy raro
+laberinto                         < 1/10.000
+Trastornos oculares                                Alteración visual
+Trastornos del sistema
+nervioso*
+Trastornos cutáneos                               Exantema
+Trastornos del sistema
+inmunitario
+Trastornos del tejido
+musculoesquelético y del tejido                 Mialgia, artralgia
+conjuntivo
+Trastornos gastrointestinales
+ * Estadísticamente no se ha indicado un aumento de la frecuencia de las manifestaciones
+primarias ni de desencadenamiento de brotes de enfermedades autoinmunitarias (p. ej.,
+esclerosis múltiple) tras la vacunación. No obstante, en casos aislados no puede
+descartarse absolutamente que la vacunación pueda desencadenar un episodio en
+pacientes predispuestos genéticamente. De acuerdo con el estado actual de
+conocimientos científicos, las vacunaciones no causan enfermedades autoinmunitarias.
+ 4.9   Sobredosificación
+Se desconocen los síntomas de sobredosis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+Código ATC: J07B G01
+       Profilaxis preexposición
+En los ensayos clínicos en sujetos no inmunizados previamente, casi todos los sujetos
+alcanzaron un título protector de anticuerpos ( 0,5 UI/ml) hacia el día 28 de la serie
+primaria de tres inyecciones de Rabipur, administradas según la pauta recomendada, por
+vía intramuscular.
+Como los títulos de anticuerpos descienden lentamente, es preciso administrar dosis de
+recuerdo para mantener las concentraciones de anticuerpos por encima de 0,5 UI/ml. No
+obstante, en ensayos clínicos se ha observado que la persistencia de títulos protectores de
+anticuerpos durante los 2 años siguientes a la inmunización con Rabipur, sin dosis de
+recuerdo adicionales, es del 100%.
+En los ensayos clínicos, la dosis de recuerdo de Rabipur incrementó en 10 veces o más los
+títulos de la media geométrica (GMT, Geometric Mean Titres) hacia el día 30. También
+se ha demostrado que los individuos que habían sido previamente inmunizados con la
+vacuna de células diploides humanas (HDCV, human diploid cell vaccine) desarrollaban
+una respuesta anamnésica rápida cuando recibieron dosis de recuerdo de Rabipur.
+       En un número limitado (n = 28) de sujetos evaluados se demostró la persistencia de títulos
+de anticuerpos durante 14 años.
+No obstante, debe evaluarse individualizadamente la necesidad y la periodicidad de las
+dosis de recuerdo, considerando las directrices oficiales al respecto (consúltese también el
+apartado 4.2).
+       Tratamiento postexposición
+En los estudios clínicos, Rabipur indujo anticuerpos neutralizantes ( 0,5 UI/ml) en el
+98% de los pacientes en un periodo de 14 días y en el 99-100% de los pacientes hacia los
+días 28 ­ 38, cuando fue administrado según la pauta recomendada por la OMS de cinco
+inyecciones intramusculares de 1 ml, administradas los días 0, 3, 7, 14 y 28.
+       La administración concomitante de cualquier inmunoglobulina antirrábica humana o
+inmunoglobulina antirrábica equina con la primera dosis de la vacuna antirrábica redujo
+ligeramente los GMT. Sin embargo, esto no se consideró clínicamente relevante.
+ 5.2   Propiedades farmacocinéticas
+No aplicable
+ 5.3   Datos preclínicos de seguridad
+Los datos preclínicos, incluidos los estudios de dosis única, dosis repetida y de
+tolerabilidad local no demostraron resultados inesperados ni toxicidad en órganos
+concretos. No se han realizado estudios de genotoxicidad ni de toxicidad de la
+reproducción.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Relación de excipientes
+Polvo:
+TRIS-(hidroximetil)-aminometano
+Cloruro sódico
+Edetato disódico (Titriplex III)
+L-glutamato potásico
+Poligelina
+Sacarosa
+       Disolvente:
+Agua para inyección
+ 6.2   Incompatibilidades
+Esta vacuna no se debe mezclar con otros productos farmacéuticos.
+ 6.3   Periodo de validez
+4 años
+ 6.4   Precauciones especiales de conservación
+Conservar entre +2° y +8° C (en nevera).
+ 6.5   Naturaleza y contenido del envase
+Envase que contiene
+Polvo en un vial (vidrio de tipo I) provisto de tapón (clorobutilo)
+1 ml de disolvente para solución contenido en una ampolla (vidrio de tipo I)
+con o sin jeringa desechable (de polipropileno, émbolo con tope de goma natural)
+Es posible que no se comercialicen todos los tamaños de envase.
+ 6.6   Instrucciones de uso/manipulación
+La vacuna debe inspeccionarse visualmente antes y después de la reconstitución para
+detectar cualquier partícula extraña y/o modificación del aspecto físico. La vacuna no se
+debe utilizar si se ha detectado cualquier cambio de su aspecto. Para el aspecto, consúltese
+el Apartado 3.
+                                                                                                      MINISTERIO
+El polvo para solución se debe reconstituir con el diluyente para solución suministrado,
+agitando la mezcla con cuidado antes de la inyección. La vacuna reconstituida se debe
+utilizar inmediatamente. Todas las vacunas no utilizadas o el material residual se deben
+eliminar de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	      Chiron Behring GmbH & Co
+P.O. Box 16 30
+D-35006 Marburg
+Alemania
+ 
+8.    NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	9.    FECHA DE LA PRIMERA APROBACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+       Mayo 2004
+ 10.   FECHA DE LA REVISIÓN (PARCIAL) DEL TEXTO
+
+	 
+      RABIPUR, 1 x 1 ml sin jeringa
+         Prospectos de medicamentos.

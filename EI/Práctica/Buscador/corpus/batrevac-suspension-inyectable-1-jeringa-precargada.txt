@@ -1,0 +1,158 @@
+BATREVAC suspensión inyectable, 1 JERINGA PRECARGADA
+	Información Basica del medicamento Toda la información del medicamento 1.3.1 - RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+
+1.     NOMBRE DEL MEDICAMENTO
+	
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	"        - A/Wisconsin/67/2005 (H3N2) o equivalente
+(A/Wisconsin/67/2005 NYMCX-161-B)                                        15 microgramos HA**
+- A/Solomon Islands/3/2006 (H1N1) o equivalente
+(A/Solomon Islands/3/2006 IVR-145)                                       15 microgramos HA**
+- B/Malaysia/2506/2004 o equivalente
+(B/Malaysia/2506/2004)                                                              15 microgramos HA**
+                                                                                               por dosis de 0,5 ml.
+        * propagados en huevos fertilizados de gallina procedentes de un conjunto de pollos sanos
+** Hemaglutinina
+        Esta vacuna cumple con la recomendación de la Organización Mundial de la Salud
+(hemisferio norte) y la decisión de la Unión Europea para la campaña 2007/2008.
+ Para la ""Lista completa de excipientes"", ver sección 6.1
+ "
+3.     FORMA FARMACÉUTICA
+	
+4.     DATOS CLÍNICOS
+	4.1.   Indicaciones terapéuticas
+Profilaxis de la gripe, especialmente en aquellas personas que presenten un riesgo mayor de
+complicaciones asociadas.
+Batrevac debería emplearse según las recomendaciones oficiales
+ 4.2.   Posología y forma de administración
+- Adultos y niños mayores de 36 meses: 0,5 ml.
+- Niños de 6 meses a 35 meses: La experiencia clínica es limitada. Se han administrado
+dosificaciones de 0,25 ml ó 0,50 ml.
+- Para niños que no hayan sido previamente vacunados, se recomienda administrar una
+segunda dosis, dejando como mínimo un período de tiempo de 4 semanas.
+        La vacunación debe realizarse mediante inyección intramuscular o subcutánea
+profunda.
+Para las instrucciones de preparación, ver sección 6.6.
+ 4.3. Contraindicaciones
+Hipersensibilidad a los principios activos, excipientes y a los residuos de huevos, proteínas
+de pollo (Batrevac no contiene más de 1 microgramo de ovoalbúmina por dosis),
+formaldehído, bromuro de cetiltrimetilamonio, polisorbato 80 o gentamicina.
+ Se pospondrá la inmunización en pacientes con enfermedad febril o infección aguda.
+ 4.4.   Advertencias y precauciones especiales de empleo
+Como con cualquier otra vacuna inyectable, es recomendable disponer de supervisión y
+tratamiento médico adecuado en caso de ocurrir una reacción anafiláctica tras la
+administración de la vacuna.
+        No administrar nunca Batrevac por vía intravascular bajo ninguna circunstancia.
+        La respuesta de anticuerpos en pacientes con inmunosupresión endógena o yatrogénica
+puede ser insuficiente.
+ 4.5.   Interacciones con con otros medicamentos y otras formas de interacción
+Batrevac puede administrarse al mismo tiempo que otras vacunas. La inmunización debe
+realizarse en extremidades distintas. Debe tenerse en cuenta que las reacciones adversas
+pueden intensificarse.
+        La respuesta inmunológica puede verse disminuida si el paciente está siguiendo un
+tratamiento inmunosupresor.
+        Tras la vacunación, se han observado falsos positivos en pruebas serológicas ELISA para
+detectar anticuerpos frente a HIV1, virus de hepatitis C y, en particular, HTLV1. Mediante
+Western Blot pueden desenmascararse los resultados falsos positivos del test ELISA. Estos
+falsos positivos transitorios podrían ser debidos a la respuesta IgM de la vacuna.
+ 4.6.   Embarazo y lactancia
+Los datos sobre un número limitado de embarazos no muestran reacciones adversas sobre el
+embarazo y la salud del feto o del recién nacido. Debería prestarse atención en la
+prescripción a mujeres embarazadas durante el segundo o el tercer trimestre de embarazo.
+En mujeres embarazadas consideradas de alto riesgo, se deben sopesar los riesgos
+potenciales de la vacunación frente a los de una infección.
+        Batrevac puede administrarse durante la lactancia.
+ 4.7.   Efectos sobre la capacidad de conducir y utilizar máquinas
+No es probable que Batrevac influya sobre la capacidad para conducir o manejar
+maquinaria.
+ 4.8.   Reacciones adversas
+EFECTOS ADVERSOS OBSERVADOS EN LOS ENSAYOS CLÍNICOS:
+La seguridad de las vacunas trivalentes del virus de la gripe se ha evaluado en ensayos
+abiertos no controlados, realizados según los requisitos anuales actualizados, que incluyen
+como mínimo a 50 adultos, de edad comprendida entre 18 y 60 años, y 50 personas de edad
+avanzada, de 61 años o más. La seguridad se evalúa durante los tres días siguientes a la
+vacunación.
+Los efectos adversos que a continuación se describen se han observado en los ensayos
+clínicos según la frecuencia siguiente: Muy frecuentes (>1/10); Frecuentes (1/100, <1/10);
+Poco frecuentes (1/1.000, <1/100); Raras (> 1/10.000, <1/1.000); Muy raras (<1/10.000),
+incluyendo notificaciones aisladas.
+ Clasificación de órganos   Muy                                      Poco frecuentes   Raras (>    Muy raras
+del sistemas de            frecuentes                                                 1/10.000,   (<1/10.000),
+MedDRA                     (>1/10)                                                    <1/1.000)   incluyendo
+Trastornos del sistema                  dolor de cabeza*
+nervioso
+Trastornos de la piel y                 sudoración*
+del tejido subcutáneo
+Trastornos                              mialgia, artralgia*
+musculoesqueléticos y
+del tejido conectivo
+Trastornos generales y                  fiebre, malestar,
+alteraciones en el lugar                escalofríos, cansancio.
+de administración                       Reacciones locales:
+* Estas reacciones suelen desaparecer en 1-2 días sin necesidad de tratamiento.
+ REACCIONES ADVERSAS OBSERVADAS EN LOS ESTUDIOS POST-
+COMERCIALIZACIÓN
+ Las reacciones adversas observadas en los estudios post-comercialización son, además de las
+reacciones observadas durante los ensayos clínicos, las siguientes:
+ Trastornos de la sangre y del sistema linfático:
+Trombocitopenia transitoria, linfadenopatía transitoria.
+ Trastornos del sistema inmunológico:
+Reacciones alérgicas que conducen a shock en muy raras ocasiones, angioedema
+ Trastornos del sistema nervioso:
+Neuralgia, parestesia, convulsions febriles, trastornos neurológicos, tales como encefalomielitis,
+neuritis y síndrome de Guillain Barré
+ Trastornos vasculares:
+Vasculitis relacionada en casos muy raros con afectación renal transitoria
+ Trastornos de la piel y del tejido subcutáneo:
+Reacciones cutáneas generalizadas, que incluyen prurito, urticaria o rash inespecífico.
+4.9.   Sobredosis
+Es poco probable que una sobredosificación produzca efectos adversos.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.   Propiedades farmacodinámicas
+Grupo farmacoterapéutico: Vacunas de la gripe
+Código ATC: J07BB02
+El efecto seroprotector de la vacuna se produce generalmente al cabo de 2-3 semanas. La
+duración de la inmunidad a cepas homólogas o a cepas muy estrechamente relacionadas con
+las cepas de la vacuna varía, pero suele oscilar entre 6 - 12 meses.
+ 5.2.   Propiedades farmacocinéticas
+No procede.
+ 5.3.   Datos preclínicos sobre seguridad
+No procede.
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1.   Lista de excipientes
+Cloruro de potasio, potasio dihidrógeno fosfato, sodio hidrógeno fosfato dihidrato, cloruro
+de sodio, cloruro de calcio, cloruro de magnesio hexahidrato y agua para inyección.
+ 6.2.   Incompatibilidades
+En ausencia de estudios de compatibilidad, este producto no debe mezclarse con
+otros productos.
+ 6.3.   Periodo de validez
+1 año.
+ 6.4.   Precauciones especiales de conservación
+Batrevac debe conservarse en la nevera (+2 - +8°C). No debe congelarse. Proteger
+de la luz.
+ 6.5.   Naturaleza y contenido del envase
+0,5 ml de suspensión inyectable en jeringas precargadas (vidrio tipo I). Envase con 1 ó 10*
+jeringas.
+        *No todos los formatos se comercializan.
+ 6.6.   Precauciones especiales de eliminación y otras manipulaciones
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en
+contacto con él, se realizará de acuerdo con las normativas locales.
+Antes de la inyección, debe dejarse que Batrevac alcance la temperatura ambiente.
+Agitar antes de usarla.
+Si se desea administrar únicamente 0,25 ml, debe empujarse la parte frontal del émbolo
+hasta el límite del cartucho (señalado por el anillo sobresaliente de polipropileno): un
+volumen reproducible de vacuna permanece en la jeringa, apropiado para la inyección. Ver
+también la sección 4.2.
+                                                                                                      MINISTERIO
+
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+8.    NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN
+Febrero 2001
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+Junio 2007
+
+	Prospectos de medicamentos.

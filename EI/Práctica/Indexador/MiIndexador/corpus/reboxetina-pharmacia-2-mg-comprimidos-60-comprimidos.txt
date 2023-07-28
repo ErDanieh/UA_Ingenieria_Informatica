@@ -1,0 +1,298 @@
+REBOXETINA PHARMACIA 2 mg comprimidos, 60 comprimidos
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA
+1.       Nombre del medicamento
+ Reboxetina PHARMACIA 2 mg comprimidos
+ 2.       Composición cualitativa y cuantitativa
+ Reboxetina 2,0 mg (como metanosulfonato).
+ Excipientes, ver apartado 6.1.
+ 3.       Forma farmacéutica
+ Comprimido.
+Comprimidos blancos, planos, con forma de cápsula, de 4 mm x 8 mm con una ranura en ambas
+caras.
+ 4.       Datos clínicos
+ 4.1.     Indicaciones terapéuticas
+ La reboxetina está indicada en el tratamiento agudo de la depresión/depresión mayor y en el
+mantenimiento de la mejoría clínica en pacientes que han respondido inicialmente al tratamiento.
+ 4.2.     Posología y forma de administración
+ Reboxetina PHARMACIA 2 mg comprimidos se debe administrar por vía oral.
+ Uso en adultos
+La dosis terapéutica recomendada es de 4 mg dos veces al día (8 mg/día) por vía oral. Esta dosis
+total se puede administrar desde el comienzo del tratamiento. Al cabo de 3-4 semanas, esta dosis
+se puede incrementar hasta 10 mg/día si la respuesta clínica es insuficiente. La dosis diaria
+máxima no debe exceder los 12 mg. La dosis efectiva mínima aún no ha sido establecida.
+ Uso en ancianos
+La administración a ancianos de 2 mg de reboxetina dos veces al día se ha estudiado en ensayos
+clínicos. Sin embargo, su seguridad y eficacia no se han evaluado en ensayos controlados con
+placebo. Por tanto, al igual que ocurre con otros antidepresivos que no se han estudiado en
+ensayos controlados con placebo, no se puede recomendar utilizar reboxetina en este grupo de
+pacientes.
+ Uso en la infancia
+No se recomienda administrar reboxetina a los niños, puesto que no se han evaluado su seguridad
+ni tampoco su eficacia en esta población.
+ Uso en pacientes con insuficiencia hepática o renal
+La dosis inicial en pacientes con insuficiencia hepática o renal debe ser de 2 mg dos veces al día.
+Esta dosis puede incrementarse según la tolerancia del paciente.
+ 4.3.     Contraindicaciones
+ Hipersensibilidad conocida a reboxetina o a alguno de los componentes de esta formulación.
+Reboxetina está contraindicada en el embarazo y en la lactancia.
+ 4.4.    Advertencias y precauciones especiales de empleo
+ Puesto que no se ha realizado ningún estudio con la reboxetina en pacientes con trastornos
+convulsivos, y dado que se han descrito casos raros de crisis en los ensayos clínicos, este
+medicamento debe administrarse bajo estrecha supervisión a los pacientes con antecedentes de
+convulsiones e interrumpir el tratamiento si el paciente presentara crisis.
+ Debe evitarse el uso concomitante de reboxetina e IMAO, dado el riesgo potencial que existe para
+el paciente como consecuencia de su mecanismo de acción (efecto similar al de la tiramina).
+ No se ha evaluado el uso concomitante de reboxetina con otros antidepresivos (tricíclicos, IMAO,
+SSRI y litio) en ensayos clínicos.
+ Al igual que sucede con todos los antidepresivos, durante los ensayos clínicos se han descrito
+cambios en el curso de la enfermedad hacia estados de manía/hipomanía. Se recomienda, por
+tanto, vigilar estrechamente a los pacientes con trastornos bipolares.
+ El riesgo de intento de suicidio es inherente a la depresión y puede persistir hasta que se consiga
+controlar la enfermedad; por tanto, se aconseja supervisar cuidadosamente a los pacientes durante
+la fase inicial del tratamiento.
+ La experiencia clínica con reboxetina en pacientes con enfermedades sistémicas graves asociadas
+es aún limitada. De aquí que se deba vigilar estrechamente a los pacientes con signos claros de
+retención urinaria, hipertrofia prostática, glaucoma y antecedentes de enfermedad cardiaca.
+ Se ha observado que cuando se administra reboxetina a dosis superiores a la máxima
+recomendada, se produce hipotensión ortostática con una frecuencia mayor que la observada a las
+dosis recomendadas. Se recomienda especial cuidado cuando se administra la reboxetina junto
+con con otros medicamentos que reducen la presión arterial.
+ De momento, la experiencia clínica del tratamiento a largo plazo con reboxetina en ancianos es
+limitada. Se ha comunicado un descenso de los niveles de potasio en este grupo a partir de la 14ª
+semana de tratamiento; la magnitud de esta reducción no excedió de 0,8 mmol/litro y los niveles
+de potasio nunca disminuyeron por debajo de los límites normales.
+ 4.5.    Interacción con con otros medicamentos y otras formas de interacción
+ Los estudios de metabolismo in vitro indican que la reboxetina se metaboliza principalmente por
+el isoenzima CYP3A4 del citocromo P450. La reboxetina no se metaboliza mediante el isoenzima
+CYP2D6. Por consiguiente, puede esperarse que los inhibidores potentes del isoenzima CYP3A4
+(ketoconazol, nefazodona, eritromicina y fluvoxamina), incrementen las concentraciones
+plasmáticas de reboxetina. En un estudio en voluntarios sanos, se observó que el ketoconazol, un
+inhibidor potente del isoenzima CYP3A4, aumentaba las concentraciones plasmáticas de los
+enantiómeros de reboxetina un 50% aproximadamente. Dado que reboxetina tiene un margen
+terapéutico estrecho, es preocupante el hecho de que se pueda inhibir su eliminación. La
+reboxetina no debe administrarse junto a fármacos que inhiben el isoenzima CYP3A4, como
+antifúngicos azólicos, antibióticos macrólidos como la eritromicina, o la fluvoxamina.
+ Los estudios in vitro han mostrado que la reboxetina no inhibe la actividad de los siguientes
+isoenzimas P450: CYP1A2, CYP2C9, CYP2C19 y CYP2E1. No debe esperarse que se produzcan
+interacciones farmacocinéticas con los compuestos que son metabolizados por estos enzimas. A
+concentraciones superiores a las utilizadas en los ensayos clínicos, la reboxetina inhibe los
+isoenzimas CYP2D6 y CYP3A4. Sin embargo, los resultados de los estudios in vivo sugieren que
+las interacciones con otros fármacos metabolizados por estos enzimas son improbables.
+ No se conoce ningún tipo de interacción farmacocinética recíproca significativa entre la
+reboxetina y el lorazepam. Si se administran ambos de forma conjunta a voluntarios sanos puede
+observarse somnolencia de leve a moderada, así como taquicardia ortostática de corta duración.
+ Parece que la reboxetina no potencia los efectos del alcohol sobre las funciones cognitivas de
+voluntarios sanos.
+ Debe evitarse el uso concomitante de reboxetina e IMAO, dado el riesgo potencial que existe para
+el paciente, como consecuencia de su mecanismo de acción (efecto similar al de la tiramina).
+ No se ha evaluado el uso concomitante de reboxetina con otros antidepresivos (tricíclicos, IMAO,
+SSRI y litio) en ensayos clínicos.
+ El uso concomitante de derivados de la ergotamina y reboxetina puede producir aumento de la
+presión arterial.
+ Aunque la toma de alimentos retrasa la absorción de la reboxetina, no influye significativamente en
+su tasa de absorción.
+ Aunque no se dispone de datos procedentes de ensayos clínicos, debe tenerse en cuenta que se
+puede producir hipopotasemia cuando se administre simultáneamente con diuréticos que eliminan
+potasio.
+ 4.6.       Embarazo y lactancia
+ Embarazo
+La experiencia en humanos es muy limitada, por lo que debe evitarse la administración de este
+medicamento durante el embarazo.
+ Pacientes con posibilidad de embarazo
+Si se produjera la concepción durante el tratamiento, éste se interrumpirá en cuanto se confirme el
+embarazo, con el fin de limitar la exposición del feto al medicamento.
+ Lactancia
+Hasta que no se disponga de información sobre la excreción de reboxetina en la leche materna
+humana, no se recomienda su empleo en las mujeres lactantes.
+ 4.7.       Efectos sobre la capacidad para conducir y utilizar maquinaria.
+ La reboxetina no es un sedante propiamente dicho. En los ensayos clínicos realizados con
+reboxetina no se ha descrito deterioro cognitivo ni psicomotor, ni siquiera cuando se administra
+junto con alcohol. No obstante, como ocurre con todos los fármacos psicoactivos, se debe advertir
+a los pacientes que deben extremar la precaución al utilizar maquinaria o conducir vehículos.
+ 4.8.       Reacciones adversas
+ Durante los estudios clínicos se administró Reboxetina a más de 2.100 pacientes, de los cuales
+aproximadamente 250 recibieron el tratamiento durante al menos un año.
+Reacciones adversas frecuentes, que motivaron la retirada del tratamiento como mínimo dos
+veces, tanto con reboxetina como con placebo, incluyeron insomnio, vértigo, sequedad de boca,
+náuseas, sudoración, sensación de vaciado incompleto de la vejiga (sólo en hombres), dificultad
+en la micción (sólo en hombres) y dolor de cabeza.
+ La información incluida a continuación se refiere a los ensayos controlados a corto plazo. A
+continuación se detallan reacciones adversas muy frecuentes o frecuentes, que tienen una
+incidencia al menos dos veces superior con reboxetina que con placebo:
+ Muy frecuentes (1/10), Frecuentes (1/100, <1/10)
+ Trastornos del sistema nervioso:
+Muy frecuentes: insomnio. Frecuentes: vértigo.
+ Trastornos cardíacos:
+Frecuentes: taquicardia, palpitaciones, vasodilatación, hipotensión postural.
+ Trastornos oculares:
+Frecuentes: alteración en la acomodación del ojo.
+ Trastornos gastrointestinales:
+Muy frecuentes: sequedad de boca, estreñimiento.
+Frecuentes: falta o pérdida de apetito.
+ Trastornos cutáneos y subcutáneos:
+Muy frecuentes: sudoración.
+ Trastornos renales y urinarios:
+Frecuentes: dificultad en la micción, sensación de vaciado incompleto de la vejiga, infección del
+tracto urinario.
+ Trastornos del sistema reproductor y de la mama:
+Frecuentes: disfunción eréctil (sólo en hombres), dolor en la eyaculación (sólo en hombres),
+retraso en la eyaculación (sólo en hombres), dolor relacionado con trastornos primarios
+testiculares (sólo en hombres).
+ Trastornos generales y en el lugar de administración:
+Frecuentes: escalofríos
+ Adicionalmente, se registraron notificaciones espontáneas de comportamiento agresivo,
+extremidades frías, náuseas, vómitos y dermatitis/rash alérgicos.
+ Por lo que respecta a la tolerancia a largo plazo, se dispone de un estudio controlado con placebo
+de larga duración, en el que participaron 143 pacientes adultos tratados con reboxetina y 140
+pacientes adultos tratados con placebo. Un 28% de los enfermos tratados con reboxetina y un 23%
+de los del grupo placebo presentaron acontecimientos adversos nuevos durante el tratamiento
+prolongado, que motivaron el abandono en el 4% y 1% de los casos, respectivamente. El riesgo de
+padecer cada uno de los acontecimientos fue similar con la reboxetina y con el placebo. En los
+estudios de larga duración, no se detectó ningún efecto adverso que no se hubiera manifestado
+durante los tratamientos cortos.
+ En los estudios controlados a corto plazo de pacientes con depresión, no se apreciaron diferencias
+clínicamente significativas en cuanto al sexo, en la frecuencia de los síntomas derivados del
+tratamiento, con la excepción de acontecimientos urológicos (como sensación de vaciado
+incompleto de la vejiga, dificultad en la micción y frecuencia urinaria), los cuales fueron
+notificados en un porcentaje más elevado de varones tratados con reboxetina (31,4% [143/456])
+que de mujeres tratadas con reboxetina (7% [59/847]). En contraposición, la frecuencia de
+acontecimientos urológicos fue similar entre los varones (5% [15/302]) y las mujeres (8,4%
+[37/440]) que fueron tratados con placebo.
+ La frecuencia total e individual de los acontecimientos adversos en ancianos no excedió en ningún
+caso a la indicada anteriormente.
+ Los signos y síntomas nuevos que aparecieron al suspender bruscamente la medicación fueron
+poco frecuentes y se presentaron con menor frecuencia en los enfermos tratados con reboxetina
+(4%) que en los que recibieron placebo (6%).
+ En los mencionados estudios a corto plazo en los que participaban pacientes con depresión, en los
+que se evaluó la frecuencia cardíaca con ECG, la reboxetina, en comparación con placebo, se
+asoció a incrementos medios de la frecuencia cardíaca de 6 a 12 latidos por minuto.
+ En todos los ensayos controlados a corto plazo en los que participaban pacientes con depresión, el
+cambio medio del pulso (en latidos por minuto) en los pacientes tratados con reboxetina fue de
+3,0, 6,4 y 2,9 en las posiciones erguida, sentada y supina, respectivamente, en comparación con
+los valores de 0, 0 y -0,5 en pacientes tratados con placebo en las mismas posiciones. En estos
+mismos ensayos, el 0,8% de los pacientes tratados con reboxetina suspendieron el tratamiento
+debido a la aparición de taquicardias, en comparación con el 0,1% de los pacientes tratados con
+placebo.
+ 4.9.    Sobredosis
+ Los estudios de toxicidad aguda realizados en animales indican que la toxicidad es muy baja y el
+margen de seguridad amplio para la dosis con actividad farmacológica. Los signos clínicos y las
+causas de muerte se relacionaron con estimulación del SNC (principalmente, convulsiones).
+ En muy pocos casos se han administrado a pacientes en ensayos clínicos dosis superiores a las
+recomendadas (de 12 mg a 20 mg/día) durante periodos de tiempo que oscilan desde unos días
+hasta varias semanas; en estos casos los acontecimientos adversos nuevos fueron hipotensión
+postural, ansiedad e hipertensión. Los pacientes ancianos pueden ser particularmente vulnerables
+a la sobredosificación.
+ En los estudios clínicos realizados con anterioridad a la comercialización, se comunicaron cinco
+casos de sobredosificación de reboxetina administrada sola o en combinación con otros agentes
+farmacológicos. La cantidad de reboxetina ingerida por 1 paciente fue de 52 mg como agente
+único, mientras que la cantidad ingerida por un segundo paciente fue de 20 mg en combinación
+con otros agentes. Los 3 pacientes restantes ingirieron cantidades desconocidas de reboxetina. En
+la totalidad de los cinco casos la recuperación fue completa. No hubo notificaciones de
+alteraciones del ECG, coma o convulsiones, después de la sobredosificación con reboxetina
+ingerida como agente único.
+ En la experiencia post-comercialización, se han comunicado unos pocos casos de
+sobredosificación en pacientes que tomaban reboxetina sola; en ninguno de estos casos se produjo
+un desenlace fatal. No se han notificado casos de sobredosificación fatal en pacientes que han
+tomado dosis de hasta 240 mg de reboxetina. Se informó de un caso de sobredosificación fatal en
+un paciente que ingirió reboxetina en combinación con amitriptilina (dosis desconocidas).
+Cuando se produzca sobredosificación por reboxetina se recomienda vigilar la función cardiaca y
+las constantes vitales. Es posible que necesiten medidas sintomáticas de soporte y/o inducción del
+vómito.
+ 5.      Propiedades farmacológicas
+ 5.1.    Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antidepresivos.
+Código ATC: NO6A X18.
+ La reboxetina es un inhibidor altamente selectivo y potente de la recaptación de noradrenalina.
+Tiene sólo un efecto débil sobre la recaptación de 5-HT y no afecta a la captación de la dopamina.
+ La inhibición de la recaptación de la noradrenalina, con el aumento consiguiente de su
+disponibilidad en el espacio sináptico y la modificación de la transmisión noradrenérgica,
+constituye uno de los mecanismos de acción más importantes de los antidepresivos conocidos.
+ En los estudios in vitro se ha demostrado que la reboxetina no posee afinidad significativa por los
+receptores adrenérgicos (1, 2, ) ni muscarínicos; el antagonismo de estos receptores explica los
+efectos cardiovasculares, anticolinérgicos y sedantes de los demás antidepresivos. La reboxetina
+está desprovista de afinidad para unirse in vitro tanto con 1, como con 2, adrenoreceptores, sin
+embargo, no se puede excluir una interferencia funcional in vivo con los -adrenoreceptores a
+altas dosis.
+ 5.2.    Propiedades farmacocinéticas
+ Después de administrar una dosis única de 4 mg de reboxetina por vía oral a voluntarios sanos, se
+alcanzaron niveles máximos de aproximadamente 130 ng/ml en las 2 primeras horas. Los datos
+obtenidos indican que la biodisponibilidad absoluta llega, como mínimo, al 60%.
+ Los niveles plasmáticos de la reboxetina disminuyen de manera monoexponencial y la semivida
+se aproxima a las 13 horas. El nivel estacionario se alcanza en 5 días. Se ha demostrado que la
+farmacocinética de las dosis orales únicas es lineal en el intervalo posológico recomendado en
+clínica.
+ Este medicamento se distribuye, en principio, en el agua corporal total. La reboxetina se une a las
+proteínas del plasma humano en un 97% en jóvenes y en un 92% en ancianos (la afinidad por la
+1-glucoproteína ácida es notablemente mayor que por la albúmina), sin que se observe una
+dependencia significativa de la concentración del fármaco.
+ La reboxetina se metaboliza predominantemente in vitro por vía del citocromo P4503A
+(CYP3A4). Los estudios in vitro han mostrado que la reboxetina no inhibe la actividad de los
+siguientes isoenzimas del citocromo P450: CYP1A2, CYP2C9, CYP2C19 y CYP2E1. La
+reboxetina inhibe los enzimas, CYP2D6 y CYP3A4, con una bajas afinidades de unión, pero no
+ha mostrado ningún efecto sobre el aclaramiento in vivo de medicamentos metabolizados por
+dichos enzimas. La reboxetina deberá ser prescrita con cuidado, si se prescribe en combinación
+con potentes inhibidores de CYP3A4.
+ La cantidad de radioactividad excretada en la orina representa el 78% de la dosis. Aunque en la
+circulación general se detecta fundamentalmente el medicamento intacto (70% de la radiactividad
+total en términos de AUC), solamente un 10% de la dosis se excreta en la orina sin modificar.
+Estos datos sugieren que la biotransformación gobierna el proceso general de eliminación de la
+reboxetina y que la excreción de los metabolitos está limitada por su formación. Las vías
+metabólicas principales conocidas son la 2-O-desalquilación, la hidroxilación del anillo
+etoxifenoxi y la oxidación del anillo morfolínico, seguidas de la conjugación parcial o completa
+con el ácido glucurónico o sulfúrico.
+ Este medicamento se encuentra en forma de mezcla racémica (ambos enantiómeros muestran
+actividad en los modelos experimentales): no se ha observado ningún tipo de inversión quiral ni
+tampoco interacciones farmacocinéticas recíprocas entre los enantiómeros. Los niveles
+plasmáticos del enantiómero SS más potente son casi dos veces más bajos y la excreción urinaria
+dos veces más alta que la del otro enantiómero. No se han apreciado diferencias significativas en
+la semivida terminal de los dos enantiómeros.
+ La exposición sistémica y la semivida de reboxetina se incrementan aproximadamente al doble en
+enfermos con insuficiencia renal e insuficiencia hepática. También se producen incrementos
+similares o algo mayores (del triple) en la exposición sistémica en pacientes ancianos en
+comparación con los voluntarios sanos jóvenes.
+ 5.3.    Datos preclínicos sobre seguridad
+ Los estudios preclínicos sobre seguridad no evidenciaron capacidad teratógena, genotóxica o
+carcinógena de la reboxetina. Únicamente en estudios de toxicidad en ratas se comunicaron casos
+de hemosiderosis.
+ Los estudios realizados en animales no han demostrado que la reboxetina sea teratógena ni tenga
+efecto sobre la función reproductora en general. Las dosis que produjeron concentraciones
+plasmáticas dentro de los márgenes terapéuticos para humanos, indujeron retrasos del crecimiento
+y cambios de comportamiento a largo plazo en la descendencia de las ratas.
+ La reboxetina se excreta en la leche de las ratas.
+ 6.      Datos farmacéuticos
+ 6.1.    Lista de excipientes
+ Celulosa microcristalina
+Fosfato cálcico dibásico dihidrato
+Crospovidona
+Silice, coloidal hidratado
+Estearato magnésico
+ 6.2.    Incompatibilidades
+ No procede.
+ 6.3.    Periodo de validez
+ 36 meses.
+ 6.4.    Precauciones especiales de conservación
+                                                                                                     MINISTERIO
+No conservar a temperatura superior a 25ºC.
+ 6.5.     Naturaleza y contenido del recipiente
+ Los comprimidos están envasados en frascos de vidrio ambarino tipo III con un tapón de rosca de
+aluminio de seguridad revestido de polietileno en su cara inferior o bien en tiras blister opacas de
+aluminio-PVDC/PVC-PVDC.
+ Cada envase contiene 10, 20, 50, 60, 100, 120 y 180 comprimidos en el caso de las tiras blister y
+60 comprimidos en el de los frascos de vidrio.
+ Posible comercialización solamente de algunos tamaños de envase.
+ 6.6.     Instrucciones de uso, manipulación y eliminación
+ No existe ninguna instrucción especial para la manipulación de este medicamento.
+ 7.       Titular de la autorización de comercialización
+ Pharmacia Spain, S.A.
+Ctra. de Rubí, 90-100
+08190 Sant Cugat del Vallés
+Barcelona (ESPAÑA)
+ 8.       Número de autorización de comercialización
+ 64.879
+ 9.       Fecha de la primera autorización/renovación de la autorización
+ 4 de julio de 2002
+ 10.      Fecha de revisión del texto
+ Diciembre de 2003
+  
+      REBOXETINA PHARMACIA 2 mg comprimidos, 20 comprimidos
+         Prospectos de medicamentos.

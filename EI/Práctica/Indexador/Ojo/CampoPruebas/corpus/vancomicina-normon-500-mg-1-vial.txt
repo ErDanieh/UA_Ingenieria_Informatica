@@ -1,0 +1,281 @@
+VANCOMICINA NORMON 500 mg, 1 vial
+	"Información Basica del medicamento Toda la información del medicamento VANCOMICINA NORMON 500 mg E.F.G.
+VANCOMICINA NORMON 1 g E.F.G.
+ 2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+       Cada vial de VANCOMICINA NORMON 500 mg contiene:
+Vancomicina (D.C.I.) (clorhidrato) ....... 500 mg
+       Cada vial de VANCOMICINA NORMON 1 g contiene:
+Vancomicina (D.C.I.) (clorhidrato) ....... 1 g
+                                     3. FORMA FARMACÉUTICA
+       Polvo liofilizado para administarción intravenosa.
+                                            4. DATOS CLÍNICOS
+                                      4.1. Indicaciones Terapéuticas
+       Tratamiento de infecciones graves producidas por microorganismos grampositivos
+resistentes a los antibióticos beta-lactámicos, entre las que cabe destacar:
+       -   Abscesos cerebrales.
+-   Endocarditis bacteriana.
+-   Infecciones óseas.
+-   Erisipela.
+-   Meningitis.
+-   Septicemia.
+       Vancomicina es el antibiótico de elección en el tratamiento de las infecciones graves
+producidas por: Staphylococcus aureus meticilin resistentes (MRSA), Staphylococcus coagulasa
+negativos, incluido Staphylococcus epidermidis (MRSE) y Enterococcus sp. resistentes a
+penicilinas. Puede realizarse tratamiento empírico cuando se sospecha infección por uno de estos
+microorganismos antes de conocerse el resultado del antibiograma.
+       Vancomicina es una alternativa a los antibióticos beta-lactámicos en el tratamiento de
+infecciones graves producidas por microorganismos grampositivos en pacientes alérgicos a
+estos antibióticos.
+       Profilaxis quirúrgica en ciertas intervenciones que comporten la implantación de material
+protésico en un entorno de alta incidencia de infecciones causadas por Staphylococcus
+meticilin resistentes.
+       Se recomienda el uso de vancomicina en la profilaxis de la endocarditis bacteriana en
+pacientes de alto-riesgo alérgicos a los antibióticos beta-lactámicos y que vayan a ser
+sometidos a ciertos procedimientos dentales o quirúrgicos.
+       La forma parenteral puede ser administrada por vía oral en el tratamiento de la colitis
+pseudomembranosa y enterocolitis estafilocócica asociadas a antibióticos en aquellos casos
+graves en los que esté en peligro la vida del paciente y cuando fracase el tratamiento con
+       metronidazol. Vancomicina no es eficaz por vía oral en el tratamiento de otro tipo de
+infecciones.
+                             4.2. Posología y forma de administración
+        Adultos: La dosis inicial se ajustará en función del peso corporal (30-50 mg/kg/día). La
+pauta posológica habitual en adultos con función renal normal es de 1 g/12 horas ó de 500 mg/6
+horas.
+        Niños: En niños la dosis inicial es de 10 mg/kg/6 horas (dosis total diaria de 40 mg/kg de
+peso). En prematuros y niños muy pequeños (de menos de 1 mes) la dosis debe ser más baja. Se
+recomienda una dosis inicial de 15 mg/kg seguido de 10 mg/kg cada 12 horas durante la primera
+semana y cada 8 horas hasta el mes de edad. Cada dosis debe administrarse en un período mínimo
+de 60 minutos. Se recomienda controlar los niveles plasmáticos en este grupo de pacientes y
+utilizar vancomicina únicamente para tratar infecciones graves.
+        Ancianos: Habitualmente presentan la función renal disminuida debido a la edad por lo que
+se recomienda ajustar las dosis en función del aclaramiento de creatinina. Puede ser recomendable
+asimismo un control en la función auditiva.
+       La eficacia y toxicidad de vancomicina están relacionadas con las concentraciones
+plasmáticas del fármaco. El rango terapéutico oscila entre 5 y 10 µg/ml para la concentración
+mínima (Cmin, determinada al final del intervalo de administración). La concentración máxima
+(Cmax, determinada unas 3 horas después del inicio de la administración intravenosa) no debe ser
+superior a los 40 µg/ml. Se recomienda ajustar la pauta posológica en función de los niveles
+plasmáticos del fármaco y del aclaramiento renal en los siguientes casos:
+ -     En insuficiencia renal o en pacientes con inestabilidad hemodinámica.
+-     Cuando se administren de forma concomitante otros fármacos nefrotóxicos u ototóxicos.
+-     En tratamientos prolongados.
+-     En los siguientes grupos de edad: pacientes de mas de 65 años, niños menores de 1 mes y
+prematuros.
+        Ajuste de dosis en situaciones especiales: Vancomicina se elimina principalmente vía
+renal, por lo tanto la posología deberá individualizarse en aquellos pacientes que presenten
+alteraciones de la función renal para evitar que se produzcan acumulaciones del fármaco. Se
+recomienda medir las concentraciones séricas de creatinina al inicio y periódicamente durante el
+tratamiento, especialmente en pacientes inestables o con insuficiencia renal grave. Se propone el
+siguiente esquema para modificar el intervalo de dosificación en función del aclaramiento de
+creatinina:
+     Cr Cl (ml/min)         Intervalo de dosificación (horas):
+> 50                   12
+25 ­ 50                24
+25                    48 o mayor pero se recomienda calcularlo a partir de las
+       Para calcular el aclaramiento de creatinina a partir de la creatinina sérica puede utilizarse la
+fórmula siguiente:
+ Cr Cl (ml/min) Hombres =
+                 Cr Cl (ml/min) Mujeres        = 0,85 x Cr Cl (ml/min) Hombres
+        Esta fórmula no debe emplearse en determinados estados (shock, insuficiencia cardíaca
+severa, oliguria, obesidad, malnutrición, edema o ascitis) ya que daría una sobreestimación del
+valor real.
+        Duración del tratamiento: Dependerá de la gravedad de la infección y de la respuesta
+clínica del paciente. En el caso de la endocarditis estafilocócica la duración del tratamiento no
+será inferior a 3 semanas.
+        Forma de administración: Vancomicina se administra por vía intravenosa. Puesto que los
+efectos adversos que se producen durante la administración están relacionados con la
+concentración y la velocidad de administración, la dosis debe diluirse hasta una concentración
+máxima de 5 mg/ml y administrarse lentamente. El tiempo de administración será igual o superior
+a una hora. La velocidad de infusión debe disminuirse en el caso de que el paciente experimentara
+el ""síndrome del hombre rojo"" (ver ""Reacciones adversas"").
+       En los pacientes en los que sea preciso una restricción de líquidos, podrán emplearse
+concentraciones de 10 mg/ml pero se deberá tener en cuenta que el uso de concentraciones tan
+elevadas puede aumentar el riesgo de efectos indeseables.
+       Administración oral: La forma parenteral de vancomicina puede administrase por vía oral
+únicamente para el tratamiento de colitis pseudomembranosa y enterocolitis estafilocócica:
+       Adultos: La dosis usual es de 500 mg divididos en 4 administraciones durante 7 y 10 días.
+En casos graves puede aumentarse hasta 2 g al día.
+        Niños: La dosis usual es de 40 mg/kg al día divididos en 3 ó 4 tomas durante 7 a 10 días. La
+dosis total no debe exceder de 2 g al día. La dosis a administrar puede reconstituirse en 30 ml de
+agua y puede administrarse por boca o por sonda nasogástrica. Pueden añadirse edulcorantes a la
+solución reconstituida para mejorar su sabor.
+                                      4.3. Contraindicaciones
+        Vancomicina está contraindicada en pacientes con hipersensibilidad conocida a este
+antibiótico.
+                      4.4. Advertencias y precauciones especiales de empleo
+        Vancomicina no debe administrarse por vía intramuscular y debe evitarse la extravasación
+en la infusión intravenosa ya que es muy irritante y existe el riesgo de necrosis tisular. Con la
+administración de vancomicina puede presentarse tromboflebitis, cuya frecuencia y gravedad
+puede minimizarse administrando el fármaco lentamente y diluido (2,5 a 5 mg/ml) y alternando el
+lugar de administración.
+        Puesto que vancomicina es potencialmente ototóxica y nefrotóxica debe administrarse con
+precaución a individuos con la función renal alterada y a pacientes que hayan padecido con
+anterioridad pérdidas auditivas. Debe tenerse precaución cuando se administre
+concomitantemente con otros fármacos ototóxicos o nefrotóxicos. En pacientes ancianos, las
+pruebas seriadas de la función auditiva pueden ser de utilidad a fin de minimizar el riesgo de
+ototoxicidad. Se advierte que tras la administración oral de dosis múltiples, vancomicina puede
+absorberse parcialmente por esta vía, especialmente si existen lesiones en la mucosa gástrica.
+       Se han descrito casos aislados de colitis pseudomembranosa debida a C. difficile en
+pacientes que recibieron vancomicina intravenosa.
+        Se han comunicado casos de neutropenia reversible en pacientes tratados con vancomicina
+(ver apartado de ""Reacciones adversas""). En los pacientes que reciban tratamientos prolongados
+con vancomicina o que reciban vancomicina concomitantemente con fármacos que puedan causar
+neutropenia, deben realizarse hemogramas periódicos.
+       El uso concomitante de vancomicina y agentes anestésicos en niños se ha asociado a
+eritema y reacciones anafilactoides. Si ha de administrarse vancomicina en la profilaxis quirúrgica
+se aconseja administrar los anestésicos una vez finalizado la infusión de vancomicina.
+             4.5. Interacción con con otros medicamentos y otras formas de interacción
+      Vancomicina potencia el efecto nefrotóxico y neurotóxico de con otros medicamentos que
+pueden producir así mismo efectos neurotóxicos y/o nefrotóxicos (tales como anfotericina B,
+aminoglucósidos, bacitracina, polimixina B, colistina, viomicina o cisplatino).
+        En caso de administración oral ha de tenerse en cuenta que las resinas de intercambio
+iónico (colestiramina y colestipol) pueden reducir la actividad antibacteriana de vancomicina en el
+intestino.
+                                    4.6. Embarazo y lactancia
+        Embarazo: La seguridad de vancomicina en el embarazo no ha sido establecida en ensayos
+clínicos controlados. Dado que los estudios en animales de experimentación son insuficientes para
+valorar la seguridad del medicamento con respecto a la reproducción, desarrollo embrio-fetal, el
+curso de la gestación y el desarrollo peri y post-natal, vancomicina únicamente se administrará en
+el embarazo después de una cuidadosa evaluación riesgo-beneficio.
+       Lactancia: Puesto que vancomicina es excretada a través de leche materna, se valorará el
+paso a lactancia artificial en el caso de estar indicado su uso.
+          4.7. Efectos sobre la capacidad de conducir vehículos y utilizar maquinaria
+      No existe evidencia de efectos sobre la capacidad de conducir vehículos o utilizar
+maquinaria; sin embargo, dicha capacidad puede verse alterada si aparecen reacciones adversas
+como mareo y vértigo.
+                                     4.8. Reacciones adversas
+        Relacionadas con la administración: Durante la infusión rápida de vancomicina o
+después de ésta, los pacientes pueden manifestar reacciones anafilactoides, incluida hipotensión,
+sibilancias, disnea, urticaria o prurito, dolor y espasmo muscular del pecho y la espalda.
+Vancomicina puede producir el llamado ""síndrome de cuello rojo"" o del ""hombre rojo"" que cursa
+con la aparición durante la administración de hormigueos, prurito intenso y una erupción
+maculopapular en la parte superior del cuello, cara y extremidades superiores. En general estas
+reacciones cesan en 20 minutos, pero pueden persistir varias horas y se relacionan con la
+velocidad de administración y la concentración de la solución. Cuando vancomicina se administra
+en infusión diluida lenta durante 60 minutos, tales eventos son poco frecuentes.
+       Ototoxicidad: Se ha descrito neurotoxicidad del nervio acústico con tinnitus y pérdida de
+audición de tonos altos, que pueden desembocar en sordera, no siempre reversible, al suspender el
+tratamiento. Se ha relacionado con el mantenimiento de concentraciones elevadas durante un
+período prolongado y con la asociación de otros fármacos ototóxicos o con la presencia de
+pérdidas auditivas previas. Esporádicamente se han descrito casos de toxicidad vestibular con
+vértigos y mareos.
+       Nefrotoxicidad: En raras ocasiones se han descrito casos de insuficiencia renal,
+manifestada sobre todo por un incremento de la creatinina sérica o del BUN, principalmente en
+pacientes que recibieron dosis elevadas de vancomicina durante un período prolongado.
+Raramente se han producido casos de nefritis intersticial en pacientes que recibieron
+aminoglucósidos concomitantemente o que tenían alguna disfunción renal previa.
+      Reacciones hematológicas: Se han descrito casos raros de leucopenia, eosinofilia y
+trombocitopenia reversibles al suspender el tratamiento.
+       Flebitis: Se han descrito casos de inflamación en el lugar de administración.
+       Miscelánea: Se han comunicado casos de anafilaxia, fiebre medicamentosa, náuseas,
+escalofríos, eosinofilia, exantemas, incluso dermatitis exfoliativa, síndrome de Steven-Johnson y
+más raramente vasculitis asociados al tratamiento con vancomicina.
+                                        4.9. Sobredosificación
+        En caso de sobredosis es recomendable instaurar terapia de apoyo con especial control de la
+función renal. La eliminación de vancomicina mediante diálisis es deficiente. Se ha informado
+que la hemofiltración y la hemoperfusión con resinas o carbón activado consiguen eliminar hasta
+un 35% de vancomicina. En el manejo de la sobredosis, se debe considerar siempre la posibilidad
+de acumulación del fármaco, las interacciones entre fármacos y la posibilidad de una
+farmacocinética particular en un paciente determinado.
+                            5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+                                5.1. Propiedades farmacodinámicas
+        Vancomicina pertenece al grupo farmacoterapéutico JO1J. Es un antibiótico glicopeptídico
+derivado del microorganismo Nocardia orientalis, con acción frente a la mayoría de bacterias
+grampositivas (tanto aerobias como anaerobias): Staphylococcus sp., Streptococcus sp.,
+Corynebacterium sp., Clostridium sp., Enterococcus sp., Listeria sp., algunas especies de Bacillus
+y algunas cepas de Actinomyces. Vancomicina es bactericida a concentraciones de 0,5 a 3 mg/l
+frente a la mayoría de bacterias susceptibles. Concentraciones de 10 mg/l son bactericidas frente a
+los Staphylococcus productores de beta-lactamasas y las especies meticilin resistentes. En algunas
+especies de Enterococcus actúa como bacteriostático. Es eficaz en el tratamiento de infecciones
+producidas por bacterias resistentes a los antibióticos beta-lactámicos.
+        Su acción bactericida es debida a que inhibe la biosíntesis de la pared celular, interfiere en
+la síntesis de RNA y daña las membranas citoplasmáticas. La multiplicidad de lugares de acción
+puede explicar el escaso desarrollo de resistencias a este antibiótico, aunque recientemente se ha
+detectado un incremento de Enterococcus resistentes. No se conocen resistencias cruzadas entre
+vancomicina y otros antibióticos.
+        Si se determina la sensibilidad bacteriana utilizando el método de difusión homologado por
+NCCLS con un disco de 30 µg de vancomicina, los microorganismos sensibles producen zonas de
+inhibición de 12 mm o más, los resistentes de 9 mm o menos y los de sensibilidad intermedia
+entre 10 y 11 mm.
+                               5.2. Propiedades farmacocinéticas
+       Vancomicina se absorbe muy poco por vía oral y debe administrarse vía intravenosa.
+Después de la administración oral se alcanzan concentraciones plasmáticas de 1 µg/ml, aunque
+pueden ser superiores en casos de lesión de la mucosa gástrica. La administración intramuscular
+tampoco es posible ya que por tratarse de un fármaco muy irritante la inyección es muy dolorosa e
+incluso puede provocar necrosis tisular.
+         Vancomicina es ampliamente distribuida tras la administración intravenosa alcanzándose
+concentraciones elevadas en hígado, pulmón, corazón y riñones. En el estado de equilibrio
+estacionario (que se produce a los 1-2 días, dependiendo de la semivida de eliminación), el
+volumen de distribución es de 0,4 a 0,9 l/kg. La concentración plasmática máxima 3 horas
+después del inicio de la administración de 15 mg/kg es de 20 a 40 µg/ml. Difunde a través de la
+membrana placentaria pero muy poco a través de las meninges (en ausencia de inflamación). Se
+une poco a proteínas plasmáticas (30 a 60%), eliminándose fundamentalmente por vía renal, por
+filtración glomerular pasiva, recogiéndose hasta un 90% de la dosis inalterada en la orina. La
+semivida de eliminación es de 3 a 9 horas en pacientes con la función renal normal.
+       El aclaramiento renal y sistémico total de vancomicina puede hallarse reducido en las
+personas de edad avanzada.
+       Vancomicina no se elimina por hemodiálisis ni tampoco mediante diálisis peritoneal.
+Únicamente mediante hemofiltración continua se consigue aclarar un porcentaje significativo de
+fármaco.
+        La administración intraperitoneal ofrece una biodisponibilidad del 50-65%. En pacientes en
+diálisis peritoneal crónica, una dosis de carga de 30 mg/kg por esta vía, seguida de 1,5 mg/kg en
+cada recambio de líquido de diálisis (aproximadamente 2 litros) puede dar lugar a concentraciones
+plasmáticas superiores a 10 µg/ml durante 180 horas.
+                             5.3. Datos preclínicos sobre seguridad
+       La DL50 por vía intravenosa es de 319 mg/kg y 400 mg/kg en ratas y ratones,
+respectivamente.
+Carcinogénesis, mutagenicidad y alteraciones de la fertilidad:
+       No se han realizado estudios a largo plazo en animales para evaluar el potencial
+carcinogénico de vancomicina. No se ha observado capacidad mutagénica en las pruebas
+habituales de laboratorio.
+       Por otro lado, después de una dilatada experiencia con el uso de vancomicina en humanos
+no se han detectado efectos carcinogénicos ni mutagénicos. Por el mismo motivo tampoco es
+probable que vancomicina afecte a la fertilidad.
+                                                                                                     MINISTERIO
+                                    6.1. Relación de excipientes
+       Esta formulación no precisa excipientes.
+                                      6.2. Incompatibilidades
+        La solución de vancomicina tiene un pH bajo y puede causar inestabilidad química o física
+de otros compuestos. Se recomienda no asociar en la misma solución vancomicina con
+aminofilina, cloranfenicol succinato sódico, heparina sódica y penicilina G potásica ya que
+pueden producirse precipitados.
+        Se ha comunicado también incompatibilidad con: aztreonam, barbitúricos, bencilpenicilina
+(en soluciones de dextrosa), ceftazidima, ceftriaxona, clorotiazida sódica, fosfato sódico de
+dexametasona, expansores del plasma de gelatina y poligelina, iradubicina, meticilina sódica,
+bicarbonato sódico, ticarcilina y warfarina sódica.
+                                      6.3. Período de validez
+      El período de validez de VANCOMICINA NORMON 500 mg y 1 g es de 2 años cuando se
+almacena en sus envases originales.
+                           6.4. Precauciones especiales de conservación
+       Los viales pueden conservarse a la temperatura ambiente (15°C a 30°C). Una vez
+reconstituida la solución guardarla en el refrigerador, en estas condiciones el preparado conserva
+sus propiedades durante 96 horas.
+       Vancomicina diluida en las soluciones para infusión recomendadas a concentraciones
+iguales o inferiores a 5 mg/ml es estable durante 24 horas.
+                            6.5. Naturaleza y contenido del recipiente
+       VANCOMICINA NORMON 500 mg: Envase unitario con un vial de vidrio Tipo II
+conteniendo 500 mg de vancomicina, con tapón de clorobutilo de color gris y cápsula de aluminio
+y un prospecto. Envase clínico con 100 viales.
+        VANCOMICINA NORMON 1 g: Envase unitario con un vial de vidrio Tipo II conteniendo
+1 g de vancomicina, con tapón de clorobutilo de color gris y cápsula de aluminio y un prospecto.
+Envase clínico con 100 viales.
+                            6.6. Instrucciones de uso y manipulacion
+        Administración intravenosa: Reconstituir en el momento de su empleo. Añádanse 10 ml
+de agua para inyección al contenido de un vial de 500 mg de polvo seco y estéril ó 20 ml en los
+viales de 1 g. Diluir la solución obtenida con 100 ó 200 ml de solución de cloruro sódico al 0,9%
+o de solución glucosada al 5%, respectivamente, hasta conseguir diluciones inferiores a 5 mg/ml,
+aproximadamente.
+ Vancomicina es compatible con las siguientes soluciones para infusión: dextrosa al 5% y
+cloruro sódico al 0,9%; solución Ringer-lactato y dextrosa al 5%; solución Ringer-acetato.
+Vancomicina es también compatible con las soluciones para diálisis peritoneal. Antes de la
+administración parenteral debe inspeccionarse visualmente la solución. Administrar únicamente
+soluciones claras y libres de partículas.
+       Administración oral: La dosis apropiada puede reconstituirse con 30 ml de agua y darse a
+beber al paciente. Pueden agregarse edulcorantes a la solución a fin de mejorar su sabor.
+    6.7. Nombre y domicilio permanente del titular de la autorización de comercialización
+       LABORATORIOS NORMON, S.A.
+Ronda de Valdecarrizo, 6
+- 28760- Tres Cantos (Madrid)
+  
+      VANCOMICINA NORMON 500 mh, 100 viales
+         Prospectos de medicamentos."

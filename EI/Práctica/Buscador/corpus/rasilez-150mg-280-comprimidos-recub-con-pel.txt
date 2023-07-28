@@ -1,0 +1,1070 @@
+RASILEZ 150MG 280 COMPRIMIDOS RECUB CON PEL
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                             1
+1.    NOMBRE DEL MEDICAMENT0
+ Rasilez 150 mg comprimidos recubiertos con película
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 150 mg de aliskiren.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido recubierto con película
+ Comprimido redondo, rosa claro, biconvexo, marcado con `IL' en una cara y `NVR' en la otra.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+ 4.2   Posología y forma de administración
+ La dosis recomendada de Rasilez es de 150 mg una vez al día. En pacientes en los que la presión arterial no
+esté adecuadamente controlada, la dosis puede aumentarse hasta 300 mg una vez al día.
+ El 85-90% del efecto antihipertensivo se alcanza dentro de las dos primeras semanas de tratamiento con
+150 mg una vez al día.
+ Rasilez puede usarse solo o en combinación con otros agentes antihipertensivos (ver secciones 4.4 y 5.1).
+ Rasilez debe tomarse con una comida ligera una vez al día, preferiblemente a la misma hora cada día.
+ Insuficiencia renal
+No se requiere un ajuste de la dosis inicial en pacientes con insuficiencia renal leve a grave (ver secciones
+4.4 y 5.2).
+ Insuficiencia hepática
+No se requiere un ajuste de la dosis inicial en pacientes con insuficiencia hepática leve a grave (ver apartado
+5.2).
+ Pacientes de edad avanzada (mayores de 65 años)
+No se requiere un ajuste de la dosis inicial en pacientes de edad avanzada.
+ Pacientes pediátricos (menores de 18 años)
+Rasilez no está recomendado para uso en niños y adolescentes menores de 18 años debido a la falta de datos
+sobre seguridad y eficacia (ver apartado 5.2).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ Segundo y tercer trimestre del embarazo (ver apartado 4.6).
+4.4   Advertencias y precauciones especiales de empleo
+ Los pacientes que estén tomando con otros medicamentos que inhiban el sistema renina-angiotensina (SRA), y/o
+aquéllos con una función renal comprometida y/o diabetes mellitus tienen un mayor riesgo de hiperpotasemia
+durante el tratamiento con aliskiren.
+ Aliskiren debe utilizarse con precaución en pacientes con insuficiencia cardiaca debido a la escasez de datos
+sobre seguridad y eficacia.
+ En el caso de diarrea grave y persistente, debe interrumpirse el tratamiento con Rasilez.
+ Pacientes con depleción de sodio y/o de volumen
+Los pacientes con depleción marcada de volumen y/o de sodio (p. ej. los que reciben dosis elevadas de
+diuréticos) pueden sufrir hipotensión sintomática después de iniciar el tratamiento con Rasilez. Esta situación
+debe corregirse antes de administrar Rasilez, o se debe iniciar el tratamiento bajo estrecha supervisión
+médica.
+ Insuficiencia renal
+En los ensayos clínicos, Rasilez no se ha estudiado en pacientes hipertensos con insuficiencia renal grave
+(creatinina sérica  150 micromol/l o 1,70 mg/dl en mujeres y  177 micromol/l o 2,00 mg/dl en hombres y/o
+una tasa de filtración glomerular (TFG) estimada < 30 ml/min), antecedentes de diálisis, síndrome nefrótico o
+hipertensión renovascular. Se debe tener precaución en pacientes hipertensos con insuficiencia renal grave
+debido a la falta de datos sobre la seguridad de Rasilez.
+ Estenosis de la arteria renal
+No hay datos sobre el uso de Rasilez en pacientes con estenosis unilateral o bilateral de la arteria renal o
+estenosis en pacientes con un único riñón.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se conocen interacciones clínicamente relevantes de Rasilez con medicamentos utilizados comúnmente
+en el tratamiento de la hipertensión o la diabetes.
+ En ensayos clínicos de farmacocinética se han estudiado los siguientes compuestos: acenocumarol, atenolol,
+celecoxib, pioglitazona, alopurinol, isosorbida-5-mononitrato, ramipril e hidroclorotiazida. No se han
+identificado interacciones.
+ La administración concomitante de aliskiren con valsartán (28%), metformina (28%), amlodipino (29%)
+o cimetidina (19%) provocó un cambio entre el 20% y el 30% en la Cmax o el AUC de Rasilez. Cuando se
+administró con atorvastatina, el AUC y la Cmax en estado estacionario de Rasilez aumentaron en un 50%. La
+administración concomitante de Rasilez no tuvo un impacto significativo sobre la farmacocinética de
+atorvastatina, valsartán, metformina o amlodipino. Por tanto, no es necesario un ajuste de dosis ni de Rasilez
+ni de estos medicamentos cuando se administran conjuntamente.
+ La biodisponibilidad de digoxina puede reducirse ligeramente con Rasilez.
+ Los datos preliminares sugieren que irbesartán puede disminuir el AUC y la Cmax. de Rasilez.
+ En experimentos con animales, se ha demostrado que la glicoproteína P (gpP) es un factor determinante de la
+biodisponibilidad de Rasilez. Los inductores de la gpP (hierba de San Juan, rifampicina) pueden, por tanto,
+disminuir la biodisponibilidad de Rasilez.
+ Aliskiren no inhibe los isoenzimas CYP450 (CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 y
+CYP3A). Aliskiren no induce el CYP3A4. Aliskiren se metaboliza marginalmente por los enzimas del
+citocromo P450, por tanto no cabe esperar interacciones con agentes que inhiban, induzcan o se metabolicen
+por estos enzimas. No se necesita, pues, un ajuste de dosis de aliskiren.
+                                                        3
+En base a la experiencia de uso con otras sustancias que afectan al sistema renina-angiotensina, el uso
+concomitante con diuréticos ahorradores de potasio, suplementos de potasio, sustitutos de la sal que
+contengan potasio, u otras sustancias que puedan aumentar los niveles séricos de potasio (p. ej. heparina)
+pueden provocar un aumento de los niveles séricos de potasio. Se debe tener precaución si la comedicación
+se considera necesaria.
+ Furosemida
+Cuando se administró concomitantemente Rasilez con furosemida, se redujo el AUC y la Cmax de furosemida
+en un 28% y un 49%, respectivamente. Por ello se recomienda monitorizar los efectos de furosemida cuando
+se inicia o se modifica el tratamiento para evitar la posible utilización subóptima en casos de hipervolemia.
+ Ketoconazol
+La administración concomitante de ketoconazol 200 mg dos veces al día con Rasilez provocó un aumento de
+1,8 veces de los niveles plasmáticos de Rasilez (AUC y Cmax). Es de esperar que los niveles plasmáticos
+aumentados en presencia de ketoconazol estén dentro del rango que se alcanzaría si se doblara la dosis. En
+ensayos clínicos controlados se demostró la seguridad de dosis de Rasilez de hasta 600 mg, lo que
+corresponde al doble de la dosis máxima recomendada en terapéutica. Los estudios preclínicos indican que la
+administración conjunta de Rasilez y ketoconazol aumenta la absorción gastrointestinal de Rasilez y
+disminuye su excreción biliar.
+ Warfarina
+No se han evaluado los efectos de Rasilez sobre la farmacocinética de warfarina.
+ Ingesta de alimentos
+Se ha demostrado que las comidas con un alto contenido en grasa reducen la absorción de Rasilez de forma
+significativa.
+ 4.6   Embarazo y lactancia
+ Embarazo
+No existen datos suficientes sobre la utilización de aliskiren en mujeres embarazadas. Rasilez no fue
+teratogénico en ratas o conejos (ver apartado 5.3). Sin embargo, otras sustancias que actúan directamente
+sobre el SRA se han asociado con graves malformaciones fetales y letalidad neonatal. Como cualquier
+medicamento que actúe directamente sobre el SRA, Rasilez no debe utilizarse durante el primer trimestre del
+embarazo o en mujeres que planeen quedarse embarazadas y está contraindicado durante el segundo y tercer
+trimestre del embarazo (ver apartado 4.3). Los médicos que prescriban medicamentos que actúen sobre el
+SRA deben advertir a las mujeres que puedan quedarse embarazadas de los potenciales riesgos de estos
+medicamentos durante el embarazo. Por consiguiente, si se detecta un embarazo durante el tratamiento, debe
+interrumpirse el tratamiento con Rasilez.
+ Lactancia
+Se desconoce si aliskiren se excreta en la leche materna. Rasilez se excretó en la leche de ratas en periodo de
+lactancia. Por tanto, no se recomienda su uso en mujeres que estén dando el pecho.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar maquinaria
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas. Sin embargo, debe tenerse
+en cuenta cuando se conduzca o se maneje maquinaria que ocasionalmente pueden producirse mareos o
+fatiga asociados a la medicación antihipertensiva. La influencia de Rasilez sobre la sobre la capacidad para
+conducir y utilizar máquinas es insignificante.
+ 4.8   Reacciones adversas
+ Se ha evaluado la seguridad de Rasilez en más de 7.800 pacientes, entre los que se incluyen más de 2.300
+tratados durante más de 6 meses, y más de 1.200 tratados durante más de 1 año. La incidencia de reacciones
+adversas no se asoció con el sexo, edad, índice de masa corporal, raza u origen étnico. El tratamiento con
+                                                       4
+Rasilez a dosis de hasta 300 mg tuvo una incidencia global de reacciones adversas similar a placebo. Las
+reacciones adversas fueron en general leves y transitorias y sólo en raras ocasiones requirieron la
+interrupción del tratamiento. La reacción adversa más frecuente es la diarrea.
+ La incidencia de tos fue similar entre el grupo placebo (0,6%) y los pacientes tratados con Rasilez (0,9%).
+ Las reacciones adversas (Tabla 1) se enumeran bajo cada epígrafe de frecuencia en orden decreciente de
+frecuencia, utilizando la siguiente convención: muy frecuentes (1/10); frecuentes (1/100, <1/10); poco
+frecuentes (1/1.000, <1/100); raras (1/10.000, <1/1.000); muy raras (<1/10.000), incluyendo casos
+aislados. Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+ Tabla 1
+  Trastornos gastrointestinales
+Frecuentes:             Diarrea
+Trastornos de la piel y del tejido subcutáneo
+Poco frecuentes:        Rash
+ Se han notificado casos de angioedema durante el tratamiento con Rasilez. En ensayos clínicos controlados,
+raramente se notificaron casos de angioedema durante el tratamiento con Rasilez, con una incidencia
+comparable a la registrada con el tratamiento con placebo o hidroclorotiazida. Si aparecen signos que
+sugieran una reacción alérgica (en particular dificultades en la respiración, o al tragar, o hinchazón de la cara,
+extremidades, ojos, labios y/o lengua), los pacientes deben interrumpir el tratamiento y contactar con el
+médico.
+ Datos de laboratorio
+En ensayos clínicos controlados, la administración de Rasilez raramente se asoció con cambios clínicamente
+relevantes en los parámetros estándar de laboratorio. En ensayos clínicos en pacientes hipertensos, Rasilez no
+provocó efectos clínicamente importantes sobre el colesterol total, el colesterol asociado a lipoproteínas de
+alta densidad (HDL-C), los triglicéridos en ayunas, la glucosa en ayunas o el ácido úrico.
+ Hemoglobina y hematocrito: Se han observado pequeños descensos en los valores de hemoglobina y
+hematocrito (descensos medios de aproximadamente 0,05 mmol/l y 0,16 en el porcentaje de volumen,
+respectivamente). Ningún paciente interrumpió el tratamiento debido a una anemia. Este efecto también se
+observa con otros fármacos que actúan sobre el sistema renina angiotensina, como los inhibidores de la
+enzima convertidora de angiotensina (IECA) y los antagonistas de los receptores de la angiotensina.
+ Niveles séricos de potasio: En pacientes con hipertensión esencial tratados con Rasilez en monoterapia, los
+aumentos de los niveles séricos de potasio fueron pequeños y poco frecuentes (0,9% comparado con 0,6% en
+el grupo placebo). Sin embargo, en un ensayo clínico en que Rasilez se usó en combinación con un IECA en
+pacientes diabéticos, los aumentos de los niveles séricos de potasio fueron frecuentes (5,5%). Por tanto,
+como con cualquier agente que actúe sobre el SRA, se recomienda el control rutinario de los electrolitos y de
+la función renal en los pacientes con diabetes mellitus, enfermedad renal o insuficiencia cardiaca.
+ 4.9   Sobredosis
+ Se dispone de datos limitados acerca de la sobredosis en humanos. La manifestación más probable de una
+sobredosis sería hipotensión, relacionada con el efecto antihipertensivo de aliskiren. Si se produce
+hipotensión sintomática, se debe iniciar un tratamiento de soporte.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Inhibidor de la renina, código ATC: C09XA02
+ Aliskiren es un inhibidor directo, selectivo y potente de la renina humana, de naturaleza no peptídica y activo
+por vía oral.
+ Mediante la inhibición del enzima renina, aliskiren inhibe el SRA en el punto de activación, bloqueando la
+conversión de angiotensinógeno a angiotensina I, y disminuyendo, por consiguiente, los niveles de
+angiotensina I y angiotensina II. A diferencia de otros inhibidores del SRA (IECA y antagonistas de los
+receptores de la angiotensina II (ARA II)) que causan un aumento compensatorio en la actividad de la renina
+plasmática (ARP), el tratamiento con aliskiren disminuye la ARP en pacientes hipertensos en
+aproximadamente un 50-80%. Se observaron reducciones similares con aliskiren en combinación con otros
+agentes antihipertensivos. La ARP elevada se ha asociado de forma independiente con un aumento del riesgo
+cardiovascular en pacientes hipertensos y normotensos. Actualmente se desconocen las implicaciones
+clínicas de las diferencias en el efecto sobre ARP.
+ Hipertensión
+En pacientes hipertensos, la administración una vez al día de Rasilez a dosis de 150 mg y 300 mg produjo
+una reducción dosis-dependiente en la presión arterial sistólica y diastólica, que se mantenía durante todo el
+intervalo de administración de 24 horas (manteniendo el beneficio hasta la mañana siguiente) con un índice
+T/P medio (peak to trough ratio) para la respuesta diastólica de hasta el 98% para la dosis de 300 mg. Tras
+2 semanas de tratamiento se alcanzó el 85-90% del máximo efecto hipotensor. El efecto hipotensor se
+mantuvo durante el tratamiento de larga duración y fue independiente de la edad, sexo, índice de masa
+corporal y origen étnico. Rasilez se ha estudiado en 1.864 pacientes de 65 años o mayores y en 426 pacientes
+de 75 años o mayores.
+ Los ensayos clínicos de Rasilez en monoterapia han mostrado un efecto hipotensor comparable al de otras
+clases de agentes antihipertensivos, incluyendo los IECA y los ARA II. Comparado con un diurético
+(hidroclorotiazida - HCTZ), Rasilez 300 mg disminuyó la presión sistólica/diastólica en 17,0/12,3 mmHg, en
+comparación con una disminución de 14,4/10,5 mmHg con HCTZ 25 mg tras 12 semanas de tratamiento. En
+pacientes diabéticos hipertensos, Rasilez en monoterapia demostró ser seguro y eficaz.
+ Se han realizado ensayos clínicos de las combinaciones terapéuticas de Rasilez con el diurético
+hidroclorotiazida, el IECA ramipril, el bloqueante de canales de calcio amlodipino, el antagonista de los
+receptores de angiotensina valsartán y el betabloqueante atenolol. Estas combinaciones fueron bien toleradas.
+Rasilez indujo un efecto hipotensor aditivo cuando se combinó con hidroclorotiazida y con ramipril. En
+pacientes que no respondieron adecuadamente a 5 mg del bloqueante de canales de calcio amlodipino, la
+coadministración de Rasilez 150 mg tuvo un efecto hipotensor similar al obtenido al aumentar la dosis de
+amlodipino a 10 mg, pero con una menor incidencia de edema (2,1% con aliskiren 150 mg/amlodipino 5 mg
+frente a 11,2% con amlodipino 10 mg). En el ensayo clínico específicamente diseñado para estudiar el efecto
+de la terapia de combinación con el antagonista de los receptores de angiotensina valsartán, Rasilez mostró
+un efecto hipotensor aditivo.
+ En pacientes hipertensos obesos que no respondieron adecuadamente a HCTZ 25 mg, la adición de Rasilez
+300 mg indujo una reducción adicional de la presión arterial comparable a la obtenida con la adición de
+irbesartán 300 mg o amlodipino 10 mg. En pacientes hipertensos diabéticos, la combinación de Rasilez con
+ramipril indujo una reducción adicional de la presión arterial, a la vez que una menor incidencia de tos
+(1,8%) que ramipril en monoterapia (4,7%).
+ No se han registrado casos de hipotensión tras la primera dosis ni tampoco efectos sobre la frecuencia
+cardiaca en los pacientes tratados en ensayos clínicos controlados. Se ha observado poco frecuentemente un
+efecto hipotensor excesivo (0,1%) en pacientes con hipertensión no complicada tratados con Rasilez en
+monoterapia. La hipotensión también fue poco frecuente (< 1%) durante el tratamiento de combinación con
+otros agentes antihipertensivos. Tras la interrupción del tratamiento, las cifras de presión arterial revirtieron
+gradualmente al valor inicial al cabo de varias semanas, sin evidencia de efecto rebote en la presión arterial
+ni en la ARP.
+ No se conoce aún si Rasilez tiene efectos beneficiosos en términos de mortalidad, morbilidad cardiovascular
+y daño a órganos diana.
+ Electrofisiología cardiaca
+No se han registrado efectos sobre el intervalo QT en un ensayo aleatorizado, doble ciego, controlado con
+placebo y comparador activo, utilizando electrocardiografía estándar y Holter.
+ 5.2   Propiedades farmacocinéticas
+ Absorción
+Tras la absorción oral, las concentraciones plasmáticas máximas de aliskiren se alcanzan después de
+1-3 horas. La biodisponibilidad absoluta de aliskiren es aproximadamente del 2-3%. Las comidas con un alto
+contenido en grasa reducen la Cmax en un 85% y el AUC en un 70%. Tras la administración de una dosis
+única diaria, las concentraciones plasmáticas en el estado estacionario se alcanzan en un plazo de 5-7 días;
+dichas concentraciones son aproximadamente el doble de la concentración obtenida con la dosis inicial.
+ Distribución
+Tras la administración intravenosa, el volumen de distribución medio en el estado estacionario es de
+aproximadamente 135 litros, lo que indica que aliskiren se distribuye ampliamente en el espacio
+extravascular. La unión de aliskiren a las proteínas plasmáticas es moderada (47-51%) e independiente de la
+concentración.
+ Metabolismo y eliminación
+La semivida de eliminación es de aproximadamente 40 horas (rango 34-41 horas). Aliskiren se elimina
+principalmente inalterado con las heces (78%). Se metaboliza aproximadamente el 1,4% de la dosis oral
+total. El enzima responsable de este metabolismo es el CYP3A4. Aproximadamente el 0,6% de la dosis se
+recupera en orina tras la administración oral. Tras la administración intravenosa, el aclaramiento plasmático
+medio es de aproximadamente 9 l/h.
+ Linealidad/no-linealidad
+La exposición a aliskiren aumentó más que proporcionalmente respecto al incremento en la dosis. Tras la
+administración de una dosis única en el intervalo de dosis de 75 a 600 mg, la administración subsiguiente de
+una dosis doble dio como resultado un incremento de ~2,3 y 2,6 veces en el AUC y la Cmax, respectivamente.
+La no-linealidad puede ser más pronunciada en el estado estacionario. No se han identificado los
+mecanismos responsables de la desviación de la linealidad. Un posible mecanismo es la saturación de los
+transportadores en el lugar de la absorción o en la vía del aclaramiento hepatobiliar.
+ Características en pacientes
+Aliskiren es un tratamiento antihipertensivo eficaz que se administra una vez al día en pacientes adultos,
+independientemente del sexo, edad, índice de masa corporal y origen étnico.
+ El AUC es un 50% más elevado en pacientes de edad avanzada (> 65 años) que en pacientes jóvenes. El
+sexo, peso y origen étnico no tienen influencia clínicamente relevante sobre la farmacocinética de aliskiren.
+ Se evaluó la farmacocinética de aliskiren en pacientes con diferentes grados de insuficiencia renal. La Cmax y
+el AUC relativos de aliskiren en individuos con insuficiencia renal oscilaron entre 0,8 y 2 veces los valores
+en el estado estacionario en individuos sanos tras la administración de dosis únicas. Sin embargo, la
+variabilidad observada no se correlaciona con la gravedad de la insuficiencia renal. No se requiere un ajuste
+de la dosis inicial de Rasilez en pacientes con insuficiencia renal leve a grave; sin embargo, debe tenerse
+precaución en pacientes con insuficiencia renal grave.
+ La farmacocinética de aliskiren no se vio afectada significativamente en pacientes con enfermedad hepática
+leve a grave. Por lo tanto, no se requiere un ajuste de la dosis inicial de aliskiren en pacientes con
+insuficiencia hepática leve a grave.
+                                                       7
+5.3   Datos preclínicos sobre seguridad
+ El potencial carcinógeno se evaluó en un estudio de 2 años en ratas y en un estudio de 6 meses en ratones
+transgénicos. No se observó potencial carcinógeno. Se registraron un caso de adenoma de colon y otro de
+adenocarcinoma de ciego en ratas a dosis de 1.500 mg/kg/día, pero no fueron estadísticamente significativos.
+Aunque aliskiren tiene potencial irritativo conocido, los márgenes de seguridad en humanos se consideraron
+apropiados, obtenidos durante un ensayo en voluntarios sanos con la dosis de 300 mg, estableciéndose un
+margen de 9 a 11 veces en base a concentraciones fecales, o de 6 veces en base a las concentraciones en
+mucosa, en comparación con 250 mg/kg/día en el estudio de carcinogénesis en ratas.
+ Aliskiren no mostró potencial mutagénico en los estudios de mutagenicidad in vitro e in vivo. Entre los
+estudios realizados se incluyeron estudios in vitro en células bacterianas y de mamíferos y estudios in vivo en
+ratas.
+ Los estudios de toxicidad reproductiva con aliskiren no revelaron evidencias de toxicidad embriofetal o
+teratogenicidad con dosis de hasta 600 mg/kg/día en ratas o 100 mg/kg/día en conejos. En ratas no se
+observó afectación de la fertilidad, ni del desarrollo prenatal y postnatal con dosis de hasta 250 mg/kg/día.
+Las dosis administradas a ratas y conejos dieron lugar a exposiciones sistémicas de 1 a 4 y 5 veces
+superiores, respectivamente, a la dosis máxima recomendada en humanos (300 mg).
+ Los estudios farmacológicos de seguridad no revelaron ningún efecto adverso sobre la función nerviosa
+central, respiratoria o cardiovascular. Los hallazgos durante los estudios de toxicidad de dosis repetidas en
+animales fueron consistentes con el potencial irritativo local conocido o los efectos farmacológicos esperados
+de aliskiren.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Crospovidona
+Estearato de magnesio
+Celulosa microcristalina
+Povidona
+Sílice coloidal anhidra
+Hipromelosa
+Macrogol
+Talco
+Óxido de hierro, negro (E 172)
+Óxido de hierro, rojo (E 172)
+Dióxido de titanio (E 171)
+ 6.2   Incompatibilidades
+ No procede
+ 6.3   Período de validez
+ 2 años
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC. Conservar en el embalaje original para protegerlo de la
+humedad.
+ 6.5      Naturaleza y contenido del envase
+                                                        8
+Blister de PA/Alu/PVC
+ Envases con 7, 14, 28, 30, 50, 56, 84, 90, 98 o 280 comprimidos.
+Los envases con 84 (3x28), 98 (2x49) o 280 (20x14) comprimidos son envases múltiples.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él
+se realizará de acuerdo con las normativas locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 1.    NOMBRE DEL MEDICAMENT0
+ Rasilez 300 mg comprimidos recubiertos con película
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 300 mg de aliskiren.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido recubierto con película
+ Comprimido ovalado, rojo claro, biconvexo, marcado con `IU' en una cara y `NVR' en la otra.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+ 4.2   Posología y forma de administración
+ La dosis recomendada de Rasilez es de 150 mg una vez al día. En pacientes en los que la presión arterial no
+esté adecuadamente controlada, la dosis puede aumentarse hasta 300 mg una vez al día.
+ El 85-90% del efecto antihipertensivo se alcanza dentro de las dos primeras semanas de tratamiento con
+150 mg una vez al día.
+ Rasilez puede usarse solo o en combinación con otros agentes antihipertensivos (ver secciones 4.4 y 5.1).
+ Rasilez debe tomarse con una comida ligera una vez al día, preferiblemente a la misma hora cada día.
+ Insuficiencia renal
+No se requiere un ajuste de la dosis inicial en pacientes con insuficiencia renal leve a grave (ver secciones
+4.4 y 5.2).
+ Insuficiencia hepática
+No se requiere un ajuste de la dosis inicial en pacientes con insuficiencia hepática leve a grave (ver apartado
+5.2).
+ Pacientes de edad avanzada (mayores de 65 años)
+No se requiere un ajuste de la dosis inicial en pacientes de edad avanzada.
+ Pacientes pediátricos (menores de 18 años)
+Rasilez no está recomendado para uso en niños y adolescentes menores de 18 años debido a la falta de datos
+sobre seguridad y eficacia (ver apartado 5.2).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ Segundo y tercer trimestre del embarazo (ver apartado 4.6).
+4.4   Advertencias y precauciones especiales de empleo
+ Los pacientes que estén tomando con otros medicamentos que inhiban el sistema renina-angiotensina (SRA), y/o
+aquéllos con una función renal comprometida y/o diabetes mellitus tienen un mayor riesgo de hiperpotasemia
+durante el tratamiento con aliskiren.
+ Aliskiren debe utilizarse con precaución en pacientes con insuficiencia cardiaca debido a la escasez de datos
+sobre seguridad y eficacia.
+ En el caso de diarrea grave y persistente, debe interrumpirse el tratamiento con Rasilez.
+ Pacientes con depleción de sodio y/o de volumen
+Los pacientes con depleción marcada de volumen y/o de sodio (p. ej. los que reciben dosis elevadas de
+diuréticos) pueden sufrir hipotensión sintomática después de iniciar el tratamiento con Rasilez. Esta situación
+debe corregirse antes de administrar Rasilez, o se debe iniciar el tratamiento bajo estrecha supervisión
+médica.
+ Insuficiencia renal
+En los ensayos clínicos, Rasilez no se ha estudiado en pacientes hipertensos con insuficiencia renal grave
+(creatinina sérica  150 micromol/l o 1,70 mg/dl en mujeres y  177 micromol/l o 2,00 mg/dl en hombres y/o
+una tasa de filtración glomerular (TFG) estimada < 30 ml/min), antecedentes de diálisis, síndrome nefrótico o
+hipertensión renovascular. Se debe tener precaución en pacientes hipertensos con insuficiencia renal grave
+debido a la falta de datos sobre la seguridad de Rasilez.
+ Estenosis de la arteria renal
+No hay datos sobre el uso de Rasilez en pacientes con estenosis unilateral o bilateral de la arteria renal o
+estenosis en pacientes con un único riñón.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se conocen interacciones clínicamente relevantes de Rasilez con medicamentos utilizados comúnmente
+en el tratamiento de la hipertensión o la diabetes.
+ En ensayos clínicos de farmacocinética se han estudiado los siguientes compuestos: acenocumarol, atenolol,
+celecoxib, pioglitazona, alopurinol, isosorbida-5-mononitrato, ramipril e hidroclorotiazida. No se han
+identificado interacciones.
+ La administración concomitante de aliskiren con valsartán (28%), metformina (28%), amlodipino (29%)
+o cimetidina (19%) provocó un cambio entre el 20% y el 30% en la Cmax o el AUC de Rasilez. Cuando se
+administró con atorvastatina, el AUC y la Cmax en estado estacionario de Rasilez aumentaron en un 50%. La
+administración concomitante de Rasilez no tuvo un impacto significativo sobre la farmacocinética de
+atorvastatina, valsartán, metformina o amlodipino. Por tanto, no es necesario un ajuste de dosis ni de Rasilez
+ni de estos medicamentos cuando se administran conjuntamente.
+ La biodisponibilidad de digoxina puede reducirse ligeramente con Rasilez.
+ Los datos preliminares sugieren que irbesartán puede disminuir el AUC y la Cmax. de Rasilez.
+ En experimentos con animales, se ha demostrado que la glicoproteína P (gpP) es un factor determinante de la
+biodisponibilidad de Rasilez. Los inductores de la gpP (hierba de San Juan, rifampicina) pueden, por tanto,
+disminuir la biodisponibilidad de Rasilez.
+ Aliskiren no inhibe los isoenzimas CYP450 (CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 y
+CYP3A). Aliskiren no induce el CYP3A4. Aliskiren se metaboliza marginalmente por los enzimas del
+citocromo P450, por tanto no cabe esperar interacciones con agentes que inhiban, induzcan o se metabolicen
+por estos enzimas. No se necesita, pues, un ajuste de dosis de aliskiren.
+                                                        11
+En base a la experiencia de uso con otras sustancias que afectan al sistema renina-angiotensina, el uso
+concomitante con diuréticos ahorradores de potasio, suplementos de potasio, sustitutos de la sal que
+contengan potasio, u otras sustancias que puedan aumentar los niveles séricos de potasio (p. ej. heparina)
+pueden provocar un aumento de los niveles séricos de potasio. Se debe tener precaución si la comedicación
+se considera necesaria.
+ Furosemida
+Cuando se administró concomitantemente Rasilez con furosemida, se redujo el AUC y la Cmax de furosemida
+en un 28% y un 49%, respectivamente. Por ello se recomienda monitorizar los efectos de furosemida cuando
+se inicia o se modifica el tratamiento para evitar la posible utilización subóptima en casos de hipervolemia.
+ Ketoconazol
+La administración concomitante de ketoconazol 200 mg dos veces al día con Rasilez provocó un aumento de
+1,8 veces de los niveles plasmáticos de Rasilez (AUC y Cmax). Es de esperar que los niveles plasmáticos
+aumentados en presencia de ketoconazol estén dentro del rango que se alcanzaría si se doblara la dosis. En
+ensayos clínicos controlados se demostró la seguridad de dosis de Rasilez de hasta 600 mg, lo que
+corresponde al doble de la dosis máxima recomendada en terapéutica. Los estudios preclínicos indican que la
+administración conjunta de Rasilez y ketoconazol aumenta la absorción gastrointestinal de Rasilez y
+disminuye su excreción biliar.
+ Warfarina
+No se han evaluado los efectos de Rasilez sobre la farmacocinética de warfarina.
+ Ingesta de alimentos
+Se ha demostrado que las comidas con un alto contenido en grasa reducen la absorción de Rasilez de forma
+significativa.
+ 4.6   Embarazo y lactancia
+ Embarazo
+No existen datos suficientes sobre la utilización de aliskiren en mujeres embarazadas. Rasilez no fue
+teratogénico en ratas o conejos (ver apartado 5.3). Sin embargo, otras sustancias que actúan directamente
+sobre el SRA se han asociado con graves malformaciones fetales y letalidad neonatal. Como cualquier
+medicamento que actúe directamente sobre el SRA, Rasilez no debe utilizarse durante el primer trimestre del
+embarazo o en mujeres que planeen quedarse embarazadas y está contraindicado durante el segundo y tercer
+trimestre del embarazo (ver apartado 4.3). Los médicos que prescriban medicamentos que actúen sobre el
+SRA deben advertir a las mujeres que puedan quedarse embarazadas de los potenciales riesgos de estos
+medicamentos durante el embarazo. Por consiguiente, si se detecta un embarazo durante el tratamiento, debe
+interrumpirse el tratamiento con Rasilez.
+ Lactancia
+Se desconoce si aliskiren se excreta en la leche materna. Rasilez se excretó en la leche de ratas en periodo de
+lactancia. Por tanto, no se recomienda su uso en mujeres que estén dando el pecho.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar maquinaria
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas. Sin embargo, debe tenerse
+en cuenta cuando se conduzca o se maneje maquinaria que ocasionalmente pueden producirse mareos o
+fatiga asociados a la medicación antihipertensiva. La influencia de Rasilez sobre la sobre la capacidad para
+conducir y utilizar máquinas es insignificante.
+ 4.8   Reacciones adversas
+ Se ha evaluado la seguridad de Rasilez en más de 7.800 pacientes, entre los que se incluyen más de 2.300
+tratados durante más de 6 meses, y más de 1.200 tratados durante más de 1 año. La incidencia de reacciones
+adversas no se asoció con el sexo, edad, índice de masa corporal, raza u origen étnico. El tratamiento con
+                                                       12
+Rasilez a dosis de hasta 300 mg tuvo una incidencia global de reacciones adversas similar a placebo. Las
+reacciones adversas fueron en general leves y transitorias y sólo en raras ocasiones requirieron la
+interrupción del tratamiento. La reacción adversa más frecuente es la diarrea.
+ La incidencia de tos fue similar entre el grupo placebo (0,6%) y los pacientes tratados con Rasilez (0,9%).
+ Las reacciones adversas (Tabla 1) se enumeran bajo cada epígrafe de frecuencia en orden decreciente de
+frecuencia, utilizando la siguiente convención: muy frecuentes (1/10); frecuentes (1/100, <1/10); poco
+frecuentes (1/1.000, <1/100); raras (1/10.000, <1/1.000); muy raras (<1/10.000), incluyendo casos
+aislados. Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+ Tabla 1
+  Trastornos gastrointestinales
+Frecuentes:             Diarrea
+Trastornos de la piel y del tejido subcutáneo
+Poco frecuentes:        Rash
+ Se han notificado casos de angioedema durante el tratamiento con Rasilez. En ensayos clínicos controlados,
+raramente se notificaron casos de angioedema durante el tratamiento con Rasilez, con una incidencia
+comparable a la registrada con el tratamiento con placebo o hidroclorotiazida. Si aparecen signos que
+sugieran una reacción alérgica (en particular dificultades en la respiración, o al tragar, o hinchazón de la cara,
+extremidades, ojos, labios y/o lengua), los pacientes deben interrumpir el tratamiento y contactar con el
+médico.
+ Datos de laboratorio
+En ensayos clínicos controlados, la administración de Rasilez raramente se asoció con cambios clínicamente
+relevantes en los parámetros estándar de laboratorio. En ensayos clínicos en pacientes hipertensos, Rasilez no
+provocó efectos clínicamente importantes sobre el colesterol total, el colesterol asociado a lipoproteínas de
+alta densidad (HDL-C), los triglicéridos en ayunas, la glucosa en ayunas o el ácido úrico.
+ Hemoglobina y hematocrito: Se han observado pequeños descensos en los valores de hemoglobina y
+hematocrito (descensos medios de aproximadamente 0,05 mmol/l y 0,16 en el porcentaje de volumen,
+respectivamente). Ningún paciente interrumpió el tratamiento debido a una anemia. Este efecto también se
+observa con otros fármacos que actúan sobre el sistema renina angiotensina, como los inhibidores de la
+enzima convertidora de angiotensina (IECA) y los antagonistas de los receptores de la angiotensina.
+ Niveles séricos de potasio: En pacientes con hipertensión esencial tratados con Rasilez en monoterapia, los
+aumentos de los niveles séricos de potasio fueron pequeños y poco frecuentes (0,9% comparado con 0,6% en
+el grupo placebo). Sin embargo, en un ensayo clínico en que Rasilez se usó en combinación con un IECA en
+pacientes diabéticos, los aumentos de los niveles séricos de potasio fueron frecuentes (5,5%). Por tanto,
+como con cualquier agente que actúe sobre el SRA, se recomienda el control rutinario de los electrolitos y de
+la función renal en los pacientes con diabetes mellitus, enfermedad renal o insuficiencia cardiaca.
+ 4.9   Sobredosis
+ Se dispone de datos limitados acerca de la sobredosis en humanos. La manifestación más probable de una
+sobredosis sería hipotensión, relacionada con el efecto antihipertensivo de aliskiren. Si se produce
+hipotensión sintomática, se debe iniciar un tratamiento de soporte.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Inhibidor de la renina, código ATC: C09XA02
+ Aliskiren es un inhibidor directo, selectivo y potente de la renina humana, de naturaleza no peptídica y activo
+por vía oral.
+ Mediante la inhibición del enzima renina, aliskiren inhibe el SRA en el punto de activación, bloqueando la
+conversión de angiotensinógeno a angiotensina I, y disminuyendo, por consiguiente, los niveles de
+angiotensina I y angiotensina II. A diferencia de otros inhibidores del SRA (IECA y antagonistas de los
+receptores de la angiotensina II (ARA II)) que causan un aumento compensatorio en la actividad de la renina
+plasmática (ARP), el tratamiento con aliskiren disminuye la ARP en pacientes hipertensos en
+aproximadamente un 50-80%. Se observaron reducciones similares con aliskiren en combinación con otros
+agentes antihipertensivos. La ARP elevada se ha asociado de forma independiente con un aumento del riesgo
+cardiovascular en pacientes hipertensos y normotensos. Actualmente se desconocen las implicaciones
+clínicas de las diferencias en el efecto sobre ARP.
+ Hipertensión
+En pacientes hipertensos, la administración una vez al día de Rasilez a dosis de 150 mg y 300 mg produjo
+una reducción dosis-dependiente en la presión arterial sistólica y diastólica, que se mantenía durante todo el
+intervalo de administración de 24 horas (manteniendo el beneficio hasta la mañana siguiente) con un índice
+T/P medio (peak to trough ratio) para la respuesta diastólica de hasta el 98% para la dosis de 300 mg. Tras
+2 semanas de tratamiento se alcanzó el 85-90% del máximo efecto hipotensor. El efecto hipotensor se
+mantuvo durante el tratamiento de larga duración y fue independiente de la edad, sexo, índice de masa
+corporal y origen étnico. Rasilez se ha estudiado en 1.864 pacientes de 65 años o mayores y en 426 pacientes
+de 75 años o mayores.
+ Los ensayos clínicos de Rasilez en monoterapia han mostrado un efecto hipotensor comparable al de otras
+clases de agentes antihipertensivos, incluyendo los IECA y los ARA II. Comparado con un diurético
+(hidroclorotiazida - HCTZ), Rasilez 300 mg disminuyó la presión sistólica/diastólica en 17,0/12,3 mmHg, en
+comparación con una disminución de 14,4/10,5 mmHg con HCTZ 25 mg tras 12 semanas de tratamiento. En
+pacientes diabéticos hipertensos, Rasilez en monoterapia demostró ser seguro y eficaz.
+ Se han realizado ensayos clínicos de las combinaciones terapéuticas de Rasilez con el diurético
+hidroclorotiazida, el IECA ramipril, el bloqueante de canales de calcio amlodipino, el antagonista de los
+receptores de angiotensina valsartán y el betabloqueante atenolol. Estas combinaciones fueron bien toleradas.
+Rasilez indujo un efecto hipotensor aditivo cuando se combinó con hidroclorotiazida y con ramipril. En
+pacientes que no respondieron adecuadamente a 5 mg del bloqueante de canales de calcio amlodipino, la
+coadministración de Rasilez 150 mg tuvo un efecto hipotensor similar al obtenido al aumentar la dosis de
+amlodipino a 10 mg, pero con una menor incidencia de edema (2,1% con aliskiren 150 mg/amlodipino 5 mg
+frente a 11,2% con amlodipino 10 mg). En el ensayo clínico específicamente diseñado para estudiar el efecto
+de la terapia de combinación con el antagonista de los receptores de angiotensina valsartán, Rasilez mostró
+un efecto hipotensor aditivo.
+ En pacientes hipertensos obesos que no respondieron adecuadamente a HCTZ 25 mg, la adición de Rasilez
+300 mg indujo una reducción adicional de la presión arterial comparable a la obtenida con la adición de
+irbesartán 300 mg o amlodipino 10 mg. En pacientes hipertensos diabéticos, la combinación de Rasilez con
+ramipril indujo una reducción adicional de la presión arterial, a la vez que una menor incidencia de tos
+(1,8%) que ramipril en monoterapia (4,7%).
+ No se han registrado casos de hipotensión tras la primera dosis ni tampoco efectos sobre la frecuencia
+cardiaca en los pacientes tratados en ensayos clínicos controlados. Se ha observado poco frecuentemente un
+efecto hipotensor excesivo (0,1%) en pacientes con hipertensión no complicada tratados con Rasilez en
+monoterapia. La hipotensión también fue poco frecuente (< 1%) durante el tratamiento de combinación con
+otros agentes antihipertensivos. Tras la interrupción del tratamiento, las cifras de presión arterial revirtieron
+gradualmente al valor inicial al cabo de varias semanas, sin evidencia de efecto rebote en la presión arterial
+ni en la ARP.
+ No se conoce aún si Rasilez tiene efectos beneficiosos en términos de mortalidad, morbilidad cardiovascular
+y daño a órganos diana.
+ Electrofisiología cardiaca
+No se han registrado efectos sobre el intervalo QT en un ensayo aleatorizado, doble ciego, controlado con
+placebo y comparador activo, utilizando electrocardiografía estándar y Holter.
+ 5.2   Propiedades farmacocinéticas
+ Absorción
+Tras la absorción oral, las concentraciones plasmáticas máximas de aliskiren se alcanzan después de
+1-3 horas. La biodisponibilidad absoluta de aliskiren es aproximadamente del 2-3%. Las comidas con un alto
+contenido en grasa reducen la Cmax en un 85% y el AUC en un 70%. Tras la administración de una dosis
+única diaria, las concentraciones plasmáticas en el estado estacionario se alcanzan en un plazo de 5-7 días;
+dichas concentraciones son aproximadamente el doble de la concentración obtenida con la dosis inicial.
+ Distribución
+Tras la administración intravenosa, el volumen de distribución medio en el estado estacionario es de
+aproximadamente 135 litros, lo que indica que aliskiren se distribuye ampliamente en el espacio
+extravascular. La unión de aliskiren a las proteínas plasmáticas es moderada (47-51%) e independiente de la
+concentración.
+ Metabolismo y eliminación
+La semivida de eliminación es de aproximadamente 40 horas (rango 34-41 horas). Aliskiren se elimina
+principalmente inalterado con las heces (78%). Se metaboliza aproximadamente el 1,4% de la dosis oral
+total. El enzima responsable de este metabolismo es el CYP3A4. Aproximadamente el 0,6% de la dosis se
+recupera en orina tras la administración oral. Tras la administración intravenosa, el aclaramiento plasmático
+medio es de aproximadamente 9 l/h.
+ Linealidad/no-linealidad
+La exposición a aliskiren aumentó más que proporcionalmente respecto al incremento en la dosis. Tras la
+administración de una dosis única en el intervalo de dosis de 75 a 600 mg, la administración subsiguiente de
+una dosis doble dio como resultado un incremento de ~2,3 y 2,6 veces en el AUC y la Cmax, respectivamente.
+La no-linealidad puede ser más pronunciada en el estado estacionario. No se han identificado los
+mecanismos responsables de la desviación de la linealidad. Un posible mecanismo es la saturación de los
+transportadores en el lugar de la absorción o en la vía del aclaramiento hepatobiliar.
+ Características en pacientes
+Aliskiren es un tratamiento antihipertensivo eficaz que se administra una vez al día en pacientes adultos,
+independientemente del sexo, edad, índice de masa corporal y origen étnico.
+ El AUC es un 50% más elevado en pacientes de edad avanzada (> 65 años) que en pacientes jóvenes. El
+sexo, peso y origen étnico no tienen influencia clínicamente relevante sobre la farmacocinética de aliskiren.
+ Se evaluó la farmacocinética de aliskiren en pacientes con diferentes grados de insuficiencia renal. La Cmax y
+el AUC relativos de aliskiren en individuos con insuficiencia renal oscilaron entre 0,8 y 2 veces los valores
+en el estado estacionario en individuos sanos tras la administración de dosis únicas. Sin embargo, la
+variabilidad observada no se correlaciona con la gravedad de la insuficiencia renal. No se requiere un ajuste
+de la dosis inicial de Rasilez en pacientes con insuficiencia renal leve a grave; sin embargo, debe tenerse
+precaución en pacientes con insuficiencia renal grave.
+ La farmacocinética de aliskiren no se vio afectada significativamente en pacientes con enfermedad hepática
+leve a grave. Por lo tanto, no se requiere un ajuste de la dosis inicial de aliskiren en pacientes con
+insuficiencia hepática leve a grave.
+                                                       15
+5.3   Datos preclínicos sobre seguridad
+ El potencial carcinógeno se evaluó en un estudio de 2 años en ratas y en un estudio de 6 meses en ratones
+transgénicos. No se observó potencial carcinógeno. Se registraron un caso de adenoma de colon y otro de
+adenocarcinoma de ciego en ratas a dosis de 1.500 mg/kg/día, pero no fueron estadísticamente significativos.
+Aunque aliskiren tiene potencial irritativo conocido, los márgenes de seguridad en humanos se consideraron
+apropiados, obtenidos durante un ensayo en voluntarios sanos con la dosis de 300 mg, estableciéndose un
+margen de 9 a 11 veces en base a concentraciones fecales, o de 6 veces en base a las concentraciones en
+mucosa, en comparación con 250 mg/kg/día en el estudio de carcinogénesis en ratas.
+ Aliskiren no mostró potencial mutagénico en los estudios de mutagenicidad in vitro e in vivo. Entre los
+estudios realizados se incluyeron estudios in vitro en células bacterianas y de mamíferos y estudios in vivo en
+ratas.
+ Los estudios de toxicidad reproductiva con aliskiren no revelaron evidencias de toxicidad embriofetal o
+teratogenicidad con dosis de hasta 600 mg/kg/día en ratas o 100 mg/kg/día en conejos. En ratas no se
+observó afectación de la fertilidad, ni del desarrollo prenatal y postnatal con dosis de hasta 250 mg/kg/día.
+Las dosis administradas a ratas y conejos dieron lugar a exposiciones sistémicas de 1 a 4 y 5 veces
+superiores, respectivamente, a la dosis máxima recomendada en humanos (300 mg).
+ Los estudios farmacológicos de seguridad no revelaron ningún efecto adverso sobre la función nerviosa
+central, respiratoria o cardiovascular. Los hallazgos durante los estudios de toxicidad de dosis repetidas en
+animales fueron consistentes con el potencial irritativo local conocido o los efectos farmacológicos esperados
+de aliskiren.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Crospovidona
+Estearato de magnesio
+Celulosa microcristalina
+Povidona
+Sílice coloidal anhidra
+Hipromelosa
+Macrogol
+Talco
+Óxido de hierro, negro (E 172)
+Óxido de hierro, rojo (E 172)
+Dióxido de titanio (E 171)
+ 6.2   Incompatibilidades
+ No procede
+ 6.3   Período de validez
+ 2 años
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC. Conservar en el embalaje original para protegerlo de la
+humedad.
+ 6.5      Naturaleza y contenido del envase
+                                                       16
+Blister de PA/Alu/PVC
+ Envases con 7, 14, 28, 30, 50, 56, 84, 90, 98 o 280 comprimidos.
+Los envases con 84 (3x28), 90 (3x30), 98 (2x49) o 280 (20x14) comprimidos son envases múltiples.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él
+se realizará de acuerdo con las normativas locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ A.   TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN
+RESPONSABLE DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE DE LA
+LIBERACIÓN DE LOS LOTES
+ Nombre y dirección del fabricante responsable de la liberación de los lotes
+ Novartis Farma S.p.A.
+Via Provinciale Schito 131
+I-80058 Torre Annunziata/NA
+Italia
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica.
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN SEGURA Y
+EFICAZ DEL MEDICAMENTO
+ No procede.
+ ·     OTRAS CONDICIONES
+ Sistema de Farmacovigilancia
+El Titular de la Autorización de Comercialización (TAC) debe garantizar que el sistema de
+farmacovigilancia, descrito en la versión 2 (con fecha del 5 Julio 2006) presentada en el Módulo 1.8.1. de la
+Solicitud de Autorización de Comercialización, esté implementado y en funcionamiento antes de que el
+producto salga al mercado y mientras el producto se comercialice.
+ Plan de Gestión de Riesgos
+El TAC se compromete a realizar los estudios y las actividades adicionales de farmacovigilancia detalladas
+en el Plan de Farmacovigilancia, tal como se acordó en la versión del Plan de Gestión de Riesgos (PGR) con
+fecha del 30 Mayo 2007 presentado en el Módulo 1.8.2. de la Solicitud de Autorización de Comercialización
+y considerando cualquier actualización posterior del PGR acordado por el CHMP.
+ De acuerdo con la Directriz del CHMP sobre Sistemas de Gestión de Riesgos para medicamentos de uso
+humano, la actualización del PGR debe presentarse al mismo tiempo que el siguiente Informe Periódico de
+Seguridad (IPS).
+ Además, debe presentarse una actualización del PGR:
+·   Cuando se reciba nueva información que pueda afectar a las Especificaciones de Seguridad vigentes,
+al Plan de Farmacovigilancia o a las actividades de minimización de riesgos.
+·   en los 60 días siguientes a la fecha de consecución de un hito importante (Farmcovigilancia o
+minimización de riesgos).
+·   A petición de la EMEA.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 20
+A. ETIQUETADO
+ 21
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ CAJA PARA ENVASE UNITARIO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 150 mg comprimidos recubiertos con película
+Aliskiren
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Cada comprimido recubierto con película contiene 150 mg de aliskiren.
+ 
+3.    LISTA DE EXCIPIENTES
+	
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	7 comprimidos recubiertos con película
+14 comprimidos recubiertos con película
+28 comprimidos recubiertos con película
+30 comprimidos recubiertos con película
+50 comprimidos recubiertos con película
+56 comprimidos recubiertos con película
+90 comprimidos recubiertos con película
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral.
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE FUERA
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIAL(es), SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 30°C.
+                                                          22
+Conservar en el embalaje original para protegerlo de la humedad.
+ 10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 12.    NUMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/0/00/000/000
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Rasilez 150 mg
+ INFORMACIÓN MÍNIMA A INCLUIR EN BLÍSTERS O TIRAS
+ BLÍSTER
+BLÍSTER (CALENDARIO)
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 150 mg comprimidos recubiertos con película
+Aliskiren
+ 
+2.    NOMBRE DEL TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Novartis Europharm Limited
+ 
+3.    FECHA DE CADUCIDAD
+	EXP
+ 
+4.    NÚMERO DE LOTE
+	Lot
+ 
+5.    OTROS
+	Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
+ INFORMACIÓN QUE DEBE APARECER EN EL EMBALAJE EXTERIOR
+ CAJA INTERMEDIA PARA ENVASES MÚLTIPLES (SIN BLUE BOX)
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 150 mg comprimidos recubiertos con película
+Aliskiren
+ 2.    PRINCIPIO(S) ACTIVOS
+ Cada comprimido recubierto con película contiene 150 mg de aliskiren.
+ 
+3.    LISTA DE EXCIPIENTES
+	
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	14 comprimidos recubiertos con película
+Componente de un envase múltiple que contiene 20 envases, cada uno con14 comprimidos.
+28 comprimidos recubiertos con película
+Componente de un envase múltiple que contiene 3 envases, cada uno con 28 comprimidos.
+49 comprimidos recubiertos con película
+Componente de un envase múltiple que contiene 2 envases, cada uno con49 comprimidos.
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral.
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE FUERA
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIAL(ES), SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 30°C.
+Conservar en el embalaje original para protegerlo de la humedad.
+                                                          25
+10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/0/00/000/000
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Rasilez 150 mg
+ INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ EMBALAJE EXTERIOR DE ENVASES MÚLTIPLES (INCLUYE BLUE BOX)
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 150 mg comprimidos recubiertos con película
+Aliskiren
+ 2.    PRINCIPIO(S) ACTIVOS
+ Cada comprimido recubierto con película contiene 150 mg de aliskiren.
+ 
+3.    LISTA DE EXCIPIENTES
+	
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	84 comprimidos recubiertos con película
+Envase múltiple que contiene 3 envases, cada uno con28 comprimidos.
+98 comprimidos recubiertos con película
+Envase múltiple que contiene 2 envases, cada uno con 49 comprimidos.
+280 comprimidos recubiertos con película
+Envase múltiple que contiene 20 envases, cada uno con14 comprimidos.
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral.
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE FUERA
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 30°C.
+Conservar en el embalaje original para protegerlo de la humedad.
+                                                          27
+10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SUS USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/0/00/000/000
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Rasilez 150 mg
+ INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ CAJA PARA ENVASE UNITARIO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 300 mg comprimidos recubiertos con película
+Aliskiren
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Cada comprimido recubierto con película contiene 300 mg de aliskiren.
+ 
+3.    LISTA DE EXCIPIENTES
+	
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	7 comprimidos recubiertos con película
+14 comprimidos recubiertos con película
+28 comprimidos recubiertos con película
+30 comprimidos recubiertos con película
+50 comprimidos recubiertos con película
+56 comprimidos recubiertos con película
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral.
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE FUERA
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIAL(es), SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 30°C.
+Conservar en el embalaje original para protegerlo de la humedad.
+                                                          29
+10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 12.    NUMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/0/00/000/000
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Rasilez 300 mg
+ INFORMACIÓN MÍNIMA A INCLUIR EN BLÍSTERS O TIRAS
+ BLÍSTER
+BLÍSTER (CALENDARIO)
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 300 mg comprimidos recubiertos con película
+Aliskiren
+ 
+2.    NOMBRE DEL TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Novartis Europharm Limited
+ 
+3.    FECHA DE CADUCIDAD
+	EXP
+ 
+4.    NÚMERO DE LOTE
+	Lot
+ 
+5.    OTROS
+	Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
+ INFORMACIÓN QUE DEBE APARECER EN EL EMBALAJE EXTERIOR
+ CAJA INTERMEDIA PARA ENVASES MÚLTIPLES (SIN BLUE BOX)
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 300 mg comprimidos recubiertos con película
+Aliskiren
+ 2.    PRINCIPIO(S) ACTIVOS
+ Cada comprimido recubierto con película contiene 300 mg de aliskiren.
+ 
+3.    LISTA DE EXCIPIENTES
+	
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	14 comprimidos recubiertos con película
+Componente de un envase múltiple que contiene 20 envases, cada uno con14 comprimidos.
+28 comprimidos recubiertos con película
+Componente de un envase múltiple que contiene 3 envases, cada uno con 28 comprimidos.
+30 comprimidos recubiertos con película
+Componente de un envase múltiple que contiene 3 envases, cada uno con 30 comprimidos.
+49 comprimidos recubiertos con película
+Componente de un envase múltiple que contiene 2 envases, cada uno con49 comprimidos.
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral.
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE FUERA
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIAL(ES), SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	                                                         32
+No conservar a temperatura superior a 30°C.
+Conservar en el embalaje original para protegerlo de la humedad.
+ 10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/0/00/000/000
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Rasilez 300 mg
+ INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ EMBALAJE EXTERIOR DE ENVASES MÚLTIPLES (INCLUYE BLUE BOX)
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rasilez 300 mg comprimidos recubiertos con película
+Aliskiren
+ 2.    PRINCIPIO(S) ACTIVOS
+ Cada comprimido recubierto con película contiene 300 mg de aliskiren.
+ 
+3.    LISTA DE EXCIPIENTES
+	
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	84 comprimidos recubiertos con película
+Envase múltiple que contiene 3 envases, cada uno con28 comprimidos.
+90 comprimidos recubiertos con película
+Envase múltiple que contiene 3 envases, cada uno con 30 comprimidos.
+98 comprimidos recubiertos con película
+Envase múltiple que contiene 2 envases, cada uno con 49 comprimidos.
+280 comprimidos recubiertos con película
+Envase múltiple que contiene 20 envases, cada uno con14 comprimidos.
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral.
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE FUERA
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	                                                         34
+No conservar a temperatura superior a 30°C.
+Conservar en el embalaje original para protegerlo de la humedad.
+ 10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SUS USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/0/00/000/000
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Rasilez 300 mg
+ B. PROSPECTO
+ 36
+                            Rasilez 150 mg comprimidos recubiertos con película
+ Lea todo el prospecto detenidamente antes de empezar a tomar el medicamento.
+-     Conserve este prospecto, ya que puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico.
+-     Este medicamento se le ha recetado a usted y no debe dárselo a otras personas aunque tengan los
+mismos síntomas, ya que puede perjudicarles.
+-     Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ Contenido del prospecto:
+1.   Qué es Rasilez y para qué se utiliza
+2.   Antes de tomar
+ 
+	Prospectos de medicamentos.

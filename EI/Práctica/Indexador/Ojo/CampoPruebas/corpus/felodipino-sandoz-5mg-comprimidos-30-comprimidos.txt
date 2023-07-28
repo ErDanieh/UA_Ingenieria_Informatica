@@ -1,0 +1,294 @@
+FELODIPINO SANDOZ 5MG COMPRIMIDOS, 30 comprimidos
+	"Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA
+ Nombre del Medicamento
+Felodipino Géminis 5 mg comprimidos
+ Composición Cualitativa y Cuantitativa
+Cada comprimido de liberación prolongada contiene 5 mg de Felodipino.
+       Para excipientes, ver sección 6.1.
+ Forma Farmacéutica
+Comprimidos de liberación prolongada.
+       Comprimidos redondos, biconvexos y rosados con un ""5"" impreso.
+ Datos Clínicos
+ Indicaciones terapéuticas
+Hipertensión esencial.
+ Posología y forma de administración
+La dosificación debe ajustarse a los requerimientos individuales del paciente.
+Felodipino Géminis debe administrarse, por norma general, de la siguiente
+manera:
+La dosis inicial recomendada es de 5 mg de felodipino una vez al día.
+Si es necesario podrá aumentarse la dosis a 10 mg de felodipino al día, o bien
+añadir otro agente antihipertensivo. Los incrementos de dosis deben realizarse a
+intervalos de al menos dos semanas.
+La dosis de mantenimiento habitual corresponde a 5-10 mg al día.
+La dosis máxima diaria de felodipino es de 10 mg.
+        Ancianos
+En pacientes ancianos debe adaptarse la dosis inicial recomendada.
+Incrementos posteriores de la dosificación deben realizarse con especial
+precaución.
+        Insuficiencia renal
+La farmacocinética no se ve afectada significativamente en pacientes con
+insuficiencia renal de leve a moderada. Se debe tener precaución con la
+administración de felodipino a pacientes con insuficiencia renal grave (ver
+apartado 4.4 y 5.2)
+        Insuficiencia hepática
+En pacientes con insuficiencia hepática de leve a moderada se recomienda
+empezar el tratamiento con la mínima dosis terapéutica eficaz de felodipino. La
+dosis sólo debe incrementarse tras sopesar los efectos beneficiosos frente a los
+ riesgos (ver 5.2 Propiedades farmacocinéticas). Está contraindicado en
+pacientes con insuficiencia hepática grave.
+        Niños
+Felodipino no se debe utilizar en niños, ya que su seguridad y eficacia no se ha
+establecido en este grupo de población.
+        Método de administración:
+Los comprimidos de liberación prolongada deben administrarse por la mañana
+con ayuda de suficiente cantidad de líquido (ej.: un vaso de agua, pero NO con
+zumo de pomelo) (ver 4.5 Interacción con con otros medicamentos y otras formas de
+interacción).
+Los comprimidos de liberación prolongada deben tragarse enteros, y no se
+deben masticar ni fraccionar.
+Los comprimidos pueden tomarse con el estómago vacío o con una comida
+ligera, evitando comidas pesadas ricas en grasas (ver 5.2 Propiedades
+farmacocinéticas).
+ Contraindicaciones
+Felodipino está contraindicado en casos de:
+- hipersensibilidad a felodipino (u otras dihidropiridinas) o cualquiera de los
+excipientes.
+- shock cardiogénico (como con otros antagonistas de los canales de calcio, el
+tratamiento debe interrumpirse en pacientes que desarrollen shock cardiogénico).
+- estenosis aórtica o mitral grave.
+- cardiomiopatía obstructiva hipertrófica.
+- angina de pecho inestable.
+- infarto de miocardio agudo (durante las últimas 4-8 semanas).
+- insuficiencia cardíaca descompensada.
+- insuficiencia hepática grave .
+- durante el embarazo.
+ Advertencias y precauciones especiales de empleo
+Se recomienda precaución en pacientes con:
+-   alteraciones de la conducción cardíaca, insuficiencia cardíaca compensada,
+taquicardia y estenosis aórtica y mitral.
+-   insuficiencia hepática de leve a moderada, ya que el efecto antihipertensivo puede
+incrementarse. Puede ser necesario ajustar la dosis.
+-   insuficiencia renal grave (GFR < 30 ml/min)
+bloqueo aurículoventricular de 2º o 3er grado.
+-
+        En casos aislados, la interrupción repentina del tratamiento con felodipino puede
+producir una crisis hipertensiva.
+        Felodipino puede producir hipotensión significativa (efecto vasodilatador) con
+taquicardia secundaria, provocando isquemia miocárdica en pacientes
+susceptibles, y por tanto, los pacientes predispuestos pueden sufrir infarto de
+miocardio (ver 5.1 Propiedades farmacodinámicas).
+Las dihidropiridinas pueden causar hipotensión aguda. En algunos casos existe
+el riesgo de hipoperfusión acompañada de taquicardia refleja (angor paradójico)
+(ver 5.1 Propiedades farmacodinámicas)
+       Felodipino se metaboliza a través de enzimas CYP3A4 y por ello debe evitarse la
+combinación con medicamentos inhibidores o inductores potentes del CYP3A4
+(ver apartado 4.5). Por la misma razón debe evitarse la ingestión concomitante
+de zumo de pomelo (ver 4.5).
+ Interacción con con otros medicamentos y otras formas de interacción
+Felodipino es un sustrato de CYP3A4. Los medicamentos que induzcan o
+inhiban el CYP3A4 tendrán una gran influencia sobre las concentraciones de
+felodipino.
+       Los fármacos antihipertensivos y los antidepresivos tricíclicos pueden aumentar
+el efecto hipotensor de felodipino.
+       La administración conjunta de felodipino y medicamentos inhibidores del
+isoenzima 3A4 del sistema citocromo P450 hepático (ej.: cimetidina, antifúngicos
+azoles (itraconazol, ketoconazol), antibióticos macrólidos (eritromicina), o
+inhibidores de la proteasa VIH) conlleva a un aumento en las concentraciones
+plasmáticas de felodipino (ver 4.4 Advertencias y precauciones especiales de
+empleo).
+El zumo de pomelo aumenta los niveles plasmáticos y la biodisponibilidad de
+felodipino, posiblemente debido a la interacción con flavonoides presentes en el
+zumo de pomelo. Es por ello, que no se debe tomar zumo de pomelo junto con
+felodipino.
+       La administración concomitante de inductores enzimáticos (sistema citocromo
+P450) como carbamazepina, fenitoína, barbitúricos (ej.: fenobarbital) y rifampicina
+reduce la concentración plasmática de felodipino y, por tanto se requerirá un
+incremento de la dosificación de felodipino.
+       Hidroclorotiazida puede potenciar el efecto antihipertensivo de felodipino.
+       Felodipino puede inducir un incremento en la Cmax de ciclosporina.
+Adicionalmente, ciclosporina puede inhibir el metabolismo de felodipino, lo cual
+puede suponer un riesgo de toxicidad potencial.
+       Los niveles plasmáticos de digoxina se incrementan durante la administración
+concomitante de felodipino. Por tanto, se debe considerar una posible reducción
+de la dosis de digoxina cuando se administren ambos medicamentos
+conjuntamente.
+ Embarazo y Lactancia
+Felodipino está contraindicado durante el embarazo, debido a que la
+experimentación animal ha evidenciado daño fetal (ver 5.3 Datos preclínicos de
+seguridad). La posibilidad de embarazo debe ser descartada antes de empezar
+el tratamiento con felodipino.
+       Felodipino pasa a la leche materna, pero considerando que a las dosis
+terapéuticas empleadas la cantidad de principio activo presente en la leche
+materna es muy baja, es improbable que ello afecte al lactante. No hay
+experiencia disponible relativa al riesgo en el lactante y por ello, de manera
+preventiva debe interrumpirse la lactancia durante el tratamiento con felodipino.
+ Efectos sobre la capacidad para conducir o utilizar maquinaria
+El tratamiento con felodipino requiere supervisión médica regular. En algunos
+casos felodipino puede alterar los reflejos hasta tal punto, que la capacidad para
+conducir, operar maquinaria o trabajar sin un apoyo firme puede verse
+seriamente afectada. Esto es particularmente notable al inicio del tratamiento,
+cuando se incrementa la dosis, o cuando se cambia la medicación, así como con
+la administración conjunta de alcohol.
+ Reacciones adversas
+Muy frecuentes ( 10%):
+Puede aparecer rubor, cefalea o tinnitus, especialmente al inicio del tratamiento,
+al aumentar la dosis o a altas dosis. Generalmente, estos síntomas desaparecen
+con el tratamiento continuado.
+       Frecuentes ( 1% - < 10%):
+Edema periférico (el grado de inflamación del tobillo es dosis-dependiente).
+En especial al inicio del tratamiento, pueden producirse ataques de angina de
+pecho.
+En pacientes con angina de pecho preexistente puede producirse un incremento
+en la frecuencia, duración y gravedad de los ataques.
+       Infrecuentes ( 0.1% - < 1%):
+Somnolencia
+Fatiga
+Hipotensión
+Síncope
+Palpitaciones
+Taquicardia y disnea
+Nerviosismo
+Parestesia
+Temblores
+Mialgia
+Artralgia
+Alteraciones gastrointestinales (ej.: nauseas, vómitos, diarrea, estreñimiento)
+Aumento de peso
+Sudoración
+Polaquiuria
+Reacciones cutáneas y reacciones de hipersensibilidad, tales como prurito,
+urticaria, exantema, fotosensibilidad.
+Hiperplasia gingival y gingivitis.
+       Raramente ( 0.01% - < 0.1%):
+Vasculitis leucocitoclástica
+          Muy raramente, incluyendo casos aislados (< 0.01%):
+Alteración de la función hepática (transaminasas elevadas)
+Dermatitis exfoliativa
+Angioedema
+Fiebre
+Alteración eréctil
+Ginecomastia
+Infarto de miocardio
+Menorragia
+ Sobredosificación
+Síntomas de sobredosis
+La sobredosis de felodipino puede ocasionar vasodilatación periférica excesiva
+con hipotensión marcada y, en algunos casos, bradicardia.
+          Tratamiento de la sobredosis
+Las medidas terapéuticas deben estar dirigidas a eliminar el principio activo y
+reestablecer los parámetros cardiovasculares.
+Si aparece hipotensión grave se instaurará tratamiento sintomático y se
+mantendrá al paciente en posición supina con las piernas elevadas. En caso de
+que, simultáneamente aparezca bradicardia se administrará 0,5-1,0 mg de
+atropina por vía intravenosa. Para prevenir la saturación cardiaca se pueden
+administrar fluidos intravenosos adicionales con precaución y bajo control
+hemodinámico. También se pueden administrar fármacos simpaticomiméticos
+con efecto predominante sobre los receptores 1 (como dobutamina, dopamina,
+norepinefrina o adrenalina). La dosificación dependerá de la respuesta obtenida.
+          Felodipino es ligeramente dializable (9 % aproximadamente).
+ Propiedades Farmacológicas
+ Propiedades farmacodinámicas
+Grupo farmacoterapéutico: Derivado de 1,4-Dihidropiridina / Antagonista del
+calcio
+          Código ATC:C08C A02
+          Felodipino es un antagonista del calcio del grupo de las dihidropiridinas. Los
+antagonistas del calcio interfieren con los canales de calcio voltaje dependientes
+de tipo L (lentos) de las membranas plasmáticas de las células del músculo liso,
+reduciendo la entrada del ión calcio. Este efecto produce vasodilatación como
+resultado.
+Felodipino es un antagonista del calcio vasoselectivo: su efecto es mayor sobre
+la musculatura lisa vascular que sobre el miocardio. Felodipino dilata de forma
+selectiva las arteriolas, sin producir efecto alguno sobre los vasos venosos.
+Felodipino produce una reducción, vía vasodilatación, de la presión sanguínea
+de forma dosis-dependiente, y como consecuencia produce una reducción de la
+resistencia vascular periférica. Disminuye tanto la presión sanguínea sistólica
+como diastólica. El efecto hemodinámico de felodipino se acompaña de
+taquicardia refleja (mediada por barorreceptores).
+A dosis terapéuticas, felodipino no ejerce efecto directo alguno sobre la
+contractibilidad cardíaca ni sobre la conducción cardíaca.
+Felodipino disminuye la resistencia vascular renal, pero no influye sobre la
+filtración glomerular.
+       Felodipino posee un débil efecto natriurético/diurético y no produce retención de
+fluidos.
+       Felodipino puede usarse como monoterapia, pero también concomitantemente
+con betabloqueantes, diuréticos e inhibidores de la ECA.
+ Propiedades farmacocinéticas
+Absorción:
+Felodipino se absorbe completamente tras la administración oral. Con los
+comprimidos de liberación prolongada, la fase de absorción se prolonga
+obteniendo concentraciones plasmáticas dentro del margen terapéutico durante
+24 horas. Con la formulación de liberación prolongada, la concentración
+plasmática máxima se alcanza a las 3-5 horas tras la administración. El estado
+estacionario se alcanza aproximadamente a los 3 días del inicio del tratamiento.
+Debido al elevado efecto de primer paso, únicamente el 15% de la dosis
+administrada se encuentra disponible a nivel sistémico.
+       Distribución:
+Felodipino se une a proteínas plasmáticas en más del 99 %. El volumen de
+distribución es de aproximadamente 10 l/kg en el estado estacionario, lo que
+indica que felodipino se distribuye ampliamente por los tejidos. Durante el
+tratamiento a largo plazo no existe acumulación significativa.
+       Metabolismo:
+Felodipino es ámpliamente metabolizado en el hígado por CYP3A4. Todos los
+metabolitos identificados son inactivos.
+       Eliminación:
+No se detecta principio activo inalterado en orina. La semivida de eliminación de
+felodipino en la fase terminal es de 25 horas. Los metabolitos hidrofílicos
+inactivos derivados de la biotransformación hepática, se excretan principalmente
+por vía renal (alrededor del 70 %), mientras que el resto se excreta por las
+heces.
+El aclaramiento plasmático es de 1100 ml/l y depende del flujo sanguíneo
+hepático.
+       Ancianos:
+En ancianos se han observado concentraciones plasmáticas más elevadas.
+       Insuficiencia hepática:
+En pacientes con insuficiencia hepática se han observado concentraciones
+plasmáticas hasta 100% más elevadas.
+       Insuficiencia renal:
+La cinética de felodipino no se ve afectada en pacientes con insuficiencia renal,
+aunque pueden acumularse sus metabolitos inactivos en caso de fallo renal.
+       Efecto de los alimentos:
+La ingesta simultánea de alimentos grasos afecta a la velocidad de absorción,
+pero no a la cantidad absorbida de felodipino. Concretamente, se ha observado
+una concentración plasmática máxima de 2 a 2,5 veces superior con la
+administración de felodipino después de una comida rica en grasas comparado
+con la administración en ayunas.
+ 5.3   Datos preclínicos de seguridad
+       Los estudios preclínicos, basados en estudios convencionales de seguridad
+farmacológica, toxicidad a dosis repetidas, genotoxicidad y potencial
+carcinogénico, no evidencian riesgo específico sobre los humanos. Se han
+presentado efectos adversos sobre la reproducción en estudios en animales.
+Efectos encontrados en ratas (prolongación del embarazo y dificultad en el parto)
+y en conejos (menor desarrollo de las falanges distales, presumiblemente debido
+a una disminución de la perfusión uteroplacental) no revelaron un efecto
+teratógeno directo, pero sí indican secundariamente consecuencias del efecto
+farmacodinámico. Se ha observado una posición anormal de las falanges
+distales en monos. Se desconoce la importancia que estos resultados pueden
+tener para el hombre.
+ Datos Farmacéuticos
+ Relación de excipientes
+Celulosa microcristalina, hipromelosa, lactosa monohidrato, estearato de
+magnesio, povidona, propilenglicol, propilgalato, sílice coloidal anhidro, talco,
+dióxido de titanio (E 171) óxido de hierro amarillo (E 172), óxido de hierro rojo (E
+172).
+ Incompatibilidades
+No procede.
+ Caducidad
+3 años
+ Precauciones especiales de conservación
+No conservar a temperatura superior a 25 °C.
+ Naturaleza y contenido del recipiente
+Blister de PVC/PE/PVDC/Al
+       Envases de 20 (N1), 50 (N2) ó 100 (N3) comprimidos de liberación prolongada.
+No todos los formatos serán comercializados.
+España: envase de 20 comprimidos.
+ Instrucciones de uso/manipulación
+No requiere instrucciones especiales de uso o manipulación.
+ Titular de la Autorización de Comercialización
+Laboratorios Géminis, S.A.
+Gran Via de les Corts Catalanes, 764
+08013 Barcelona - España
+ 8       Número(s) de la Autorización de Comercialización
+ 9       Fecha de la Primera Autorización/Revalidación de la Autorización
+ 10      Fecha de la Última Revisión del Texto
+14 Mayo 2002
+ Prospectos de medicamentos."

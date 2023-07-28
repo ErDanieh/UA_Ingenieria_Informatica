@@ -1,0 +1,398 @@
+·	Guiones: MS-DOS OS/2 high/low: los almacenaría como un término completo y por separado (p.ej. como MS-DOS y como MS y como DOS)
+·	URL, e-mails: http://intime.dlsi.ua.es:8080/dossierct/index.jsp?lang=es&status=probable&date=22-01-2013&newspaper= catedraTelefonicaUA@iuii.ua.es
+·	Detección de abreviaturas (U.S.A) : los almacenaría como un solo término
+·	Apóstrofes como parte de palabras: can’t, it’s (los almacenaría como un solo término)
+·	Números decimales: .103 5,6 1,000,000 (los almacenaría como un solo término)
+·	Porcentajes: 55 % 75% (los almacenaría como un solo término)
+·	Cantidades monetarias: 103$ 55€ (los almacenaría como un solo término)
+Fechas: 16/12/2012, 2011-12-1 
+
+A.A.S. 100 MG comprimidos, 20 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1. NOMBRE DEL MEDICAMENTO
+	AAS 100 mg comprimidos.
+AAS 500 mg comprimidos.
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	   Cada comprimido de A.A.S. 100 mg contiene:
+    Ácido acetilsalicílico................................100 mg
+Manitol y otros excipientes .......................c.s.
+    Cada comprimido de A.A.S. 500 mg contiene:
+    Ácido acetilsalicílico................................500 mg
+Manitol y otros excipientes .......................c.s.
+ Relación de excipientes: ver Apdo. 6.1.
+ 
+3. FORMA FARMACÉUTICA
+	Los comprimidos de A.A.S. 100 mg son redondos, biconvexos, de color amarillo a naranja y están
+ranurados.
+ Los comprimidos de A.A.S. 500 mg son redondos, biconvexos, de color blanco y están
+doblemente ranurados.
+ 
+
+
+4. DATOS CLÍNICOS
+	4.1. Indicaciones terapéuticas
+    AAS 100 mg comprimidos:
+    En base a su efecto antiagregante plaquetario está indicado en la profilaxis de:
+    - Infarto de miocardio o reinfarto de miocardio en pacientes con angina de pecho inestable y
+para prevenir la recurrencia del mismo en pacientes con historia de infarto de miocardio.
+- Prevención de la oclusión del by pass aortocoronario.
+- Tromboflebitis, flebotrombosis y riesgo de trombosis arteriales.
+- Tromboembolismo post-operatorio en pacientes con prótesis vasculares biológicas o con
+shunts arteriovenosos.
+- Tratamiento de ataques isquémicos transitorios en varones con isquemia cerebral transitoria
+para reducir el riesgo de accidente cerebrovascular. Estas indicaciones requieren siempre un
+control médico.
+- Tratamiento o alivio sintomático del dolor (dolores de cabeza, dentales, menstruales);
+tratamiento de la fiebre. (En todas estas indicaciones, la administración del preparado está
+ supeditada a la aparición de los síntomas dolorosos o febriles. A medida que éstos
+desaparecen debe suspenderse la medicación).
+    AAS 500 mg comprimidos:
+    - Tratamiento o alivio sintomático del dolor (dolores de cabeza, dentales, menstruales).
+- Tratamiento de la fiebre. (En todas estas indicaciones, la administración del preparado está
+supeditada a la aparición de los síntomas dolorosos o febriles. A medida que éstos
+desaparecen debe suspenderse la medicación).
+- Tratamiento de la inflamación no reumática (dolor músculo-esquelético, lesiones
+deportivas, bursitis, capsulitis, tendinitis, tenosinovitis aguda no específica).
+- Tratamiento de la artritis reumatoide, artritis juvenil, osteoartritis y fiebre reumática.
+ 4.2. Posología y forma de administración
+    Como analgésico y antipirético:
+    Dosis media recomendada:
+    - Adultos y mayores de 16 años: 1 comprimido de A.A.S. 500 mg cada cuatro o seis horas, o
+bien 1 ó 2 comprimidos de A.A.S. 500 mg inicialmente, siguiendo con 1 comprimido de
+A.A.S. 500 mg cada cuatro horas si es necesario, mientras persistan los síntomas. No
+deberán administrarse más de 8 comprimidos de A.A.S. 500 mg diarios, es decir, 4 gramos
+de ácido acetilsalicílico al día.
+       El medicamento deberá administrarse junto con las comidas o con leche, especialmente si
+se notan molestias digestivas. Si el dolor se mantiene durante más de 10 días, la fiebre
+durante más de 3 días o bien el dolor o la fiebre empeoran o aparecen otros síntomas, se
+deberá evaluar la situación clínica.
+    Como antiinflamatorio:
+    La dosis debe ser individualizada y ajustada de acuerdo con el efecto antiinflamatorio deseado
+y la tolerancia del paciente.
+    - Adultos: La dosis habitual es de alrededor de 4 g de ácido acetilsalicílico al día repartidos
+en cuatro tomas.
+    Como inhibidor de la agregación plaquetaria: En la prevención de accidentes tromboembólicos
+    (infarto, angina de pecho, prótesis valvulares biológicas, by pass arteriales, tromboflebitis,
+flebotrombosis y riesgo de trombosis arterial).
+    - Dosis media recomendada: 100 mg a 300 mg/día. Dosis superiores no han mostrado mayor
+eficacia y aumentan el número de complicaciones.
+    Pacientes con insuficiencia renal, hepática o cardíaca: Deberá reducirse la dosis (ver Apdo. 4.4.
+    Advertencias y precauciones especiales de empleo).
+ 4.3. Contraindicaciones
+ No se debe administrar ácido acetilsalicílico en los siguientes casos:
+                                                                                                        MINISTERIO
+Pacientes con úlcera gastroduodenal activa, crónica o recurrente; molestias gástricas de
+    repetición.
+Pacientes con antecedentes de hemorragia o perforación gástrica tras el tratamiento con ácido
+    acetilsalicílico u otros antiinflamatorios no esteroideos.
+Pacientes con asma.
+    Pacientes con historial de hipersensibilidad a ácido acetilsalicílico, a cualquiera de los
+    componentes de esta Especialidad, a antiinflamatorios no esteroideos o a tartrazina (reacción
+cruzada).
+Pacientes con enfermedades que cursen con trastornos de la coagulación, principalmente,
+    hemofilia o hipoprotrombinemia.
+Pacientes con insuficiencia renal o hepática grave.
+    Pacientes con pólipos nasales asociados a asma que sean inducidos o exacerbados por ácido
+    acetilsalicílico.
+Niños menores de 16 años ya que el uso de ácido acetilsalicílico se ha relacionado con el
+    Síndrome de Reye, enfermedad poco frecuente pero grave.
+Tercer trimestre del embarazo a dosis superiores a 100 mg/día.
+ 4.4. Advertencias y precauciones especiales de empleo
+ La utilización de ácido acetilsalicílico en pacientes que consumen habitualmente alcohol (tres o
+más bebidas alcohólicas al día) puede provocar hemorragia gástrica. El alcohol incrementa los
+efectos adversos gastrointestinales del ácido acetilsalicílico, y es un factor desencadenante en la
+irritación crónica producida por ácido acetilsalicílico.
+ Debe evitarse la administración de ácido acetilsalicílico antes o después de una extracción dental
+o intervención quirúrgica, siendo conveniente suspender su administración una semana antes de
+dichas intervenciones.
+ El tratamiento con antiinflamatorios no esteroideos se asocia con la aparición de hemorragia,
+ulceración y perforación del tramo digestivo alto. Estos episodios pueden aparecer en cualquier
+momento a lo largo del tratamiento, sin síntomas previos y en pacientes sin antecedentes de
+trastornos gástricos. El riesgo aumenta con la dosis, en pacientes ancianos y en pacientes con
+antecedentes de úlcera gástrica, especialmente si se complicó con hemorragia o perforación. Se
+debe de advertir de estos riesgos a los pacientes, instruyéndoles de que acudan a su médico en
+caso de aparición de melenas, hematemesis, astenia acusada o cualquier otro signo o síntoma
+sugerente de hemorragia gástrica. Si aparece cualquiera de estos episodios, el tratamiento debe de
+interrumpirse inmediatamente.
+ Siempre que sea posible deberá evitarse el tratamiento concomitante con medicamentos que
+puedan aumentar el riesgo de hemorragias, especialmente digestivas altas, tales como corticoides,
+antiinflamatorios no esteroideos, antidepresivos del tipo inhibidores selectivos de la recaptación
+de serotonina, antiagregantes plaquetarios, anticoagulantes. En el caso de que se juzgue necesario
+el tratamiento concomitante, éste deberá realizarse con precaución, advirtiendo al paciente de
+posibles signos y síntomas (melenas, hematemesis, hipotensión, sudoración fría, dolor abdominal,
+mareos) así como la necesidad de interrumpir el tratamiento y acudir inmediatamente al médico.
+Además, este medicamento deberá administrarse bajo estrecha supervisión médica en caso de:
+-        hipersensibilidad a otros antiinflamatorios/antirreumáticos
+-        deficiencia de glucosa-6-fosfato deshidrogenasa
+-        urticaria
+-        rinitis
+-        hipertensión arterial
+                                                                                                       MINISTERIO
+Se recomienda precaución en ancianos, sobre todo con insuficiencia renal, o que presenten niveles
+plasmáticos de albúmina reducidos, debido al riesgo de una toxicidad elevada.
+ No debe de administrarse ácido acetilsalicílico sistemáticamente como preventivo de las posibles
+molestias originadas por vacunaciones.
+ La administración de ácido acetilsalicílico está desaconsejada en caso de gota, metrorragias o
+menorragias.
+ 4.5. Interacción con con otros medicamentos y otras formas de interacción
+ INTERACCIONES FARMACODINÁMICAS:
+Otros antiinflamatorios no esteroideos (AINEs): la administración simultánea de varios AINEs
+puede incrementar el riesgo de úlceras y de hemorragias gastrointestinales, debido a un efecto
+sinérgico. No se debe administrar concomitantemente ácido acetilsalicílico con otros AINEs.
+    Corticoides: la administración simultánea de ácido acetilsalicílico con corticoides puede
+    incrementar el riesgo de úlceras y de hemorragias gastrointestinales, debido a un efecto
+sinérgico, por lo que no se recomienda su administración concomitante (ver Apdo. 4.4
+Advertencias y precauciones especiales de empleo).
+    Diuréticos: los AINEs pueden ocasionar un fallo renal agudo, especialmente en pacientes
+    deshidratados. En caso de que se administren de forma simultánea ácido acetilsalicílico y un
+diurético, es preciso asegurar una hidratación correcta del paciente y monitorizar la función
+renal al iniciar el tratamiento.
+    Inhibidores selectivos de la recaptación de serotonina: su administración simultánea aumenta
+    el riesgo de hemorragia en general y digestiva alta en particular, por lo que deben evitarse en
+lo posible su uso concomitante.
+    Anticoagulantes orales: su administración simultánea aumenta el riesgo de hemorragia, por lo
+    que no se recomienda. Si resulta imposible evitar una asociación de este tipo, se requiere una
+monitorización cuidadosa del INR (International Normalized Ratio) (ver Apdo. 4.4
+Advertencias y Precauciones especiales de empleo).
+    Trombolíticos y antiagregantes plaquetarios: su administración simultánea aumenta el riesgo
+    de hemorragia, por lo que no se recomienda. (ver Apdo. 4.4 Advertencias y precauciones
+especiales de empleo).
+    Inhibidores de la enzima convertidora de la angiotensina (ECA) y antagonistas de los
+    receptores de la angiotensina II: los AINEs y antagonistas de la angiotensina II ejercen un
+efecto sinérgico en la reducción de la filtración glomerular, que puede ser exacerbado en caso
+de alteración de la función renal. La administración de esta combinación a pacientes ancianos
+o deshidratados, puede llevar a un fallo renal agudo por acción directa sobre la filtración
+glomerular. Se recomienda una monitorización de la función renal al iniciar el tratamiento así
+como una hidratación regular del paciente. Además, esta combinación puede reducir el efecto
+antihipertensivo de los inhibidores de la ECA y de los antagonistas de los receptores de la
+angiotensina II, debido a la inhibición de prostaglandinas con efecto vasodilatador.
+ Otros antihipertensivos (-bloqueantes): el tratamiento con AINEs puede disminuir el efecto
+    antihipertensivo de los -bloqueantes debido a una inhibición de las prostaglandinas con efecto
+vasodilatador.
+    Insulina y sulfonilureas: la administración concomitante del ácido acetilsalicílico con insulina
+    y sulfonilureas aumenta el efecto hipoglucemiantes de estas últimas.
+    Ciclosporina: los AINEs pueden aumentar la nefrotoxicidad de la ciclosporina debido a
+    efectos mediados por las prostaglandinas renales. Se recomienda una monitorización cuidadosa
+de la función renal, especialmente en pacientes ancianos.
+    Vancomicina: el ácido acetilsalicílico aumenta el riesgo de ototoxicidad de la vancomicina.
+    Interferón : el ácido acetilsalicílico disminuye la actividad del interferón-.
+    Alcohol: la administración conjunta de alcohol con ácido acetilsalicílico aumenta el riesgo de
+    hemorragia digestiva.
+ INTERACCIONES FARMACOCINÉTICAS:
+    Litio: se ha demostrado que los AINEs disminuyen la excreción de litio, aumentando los
+    niveles de litio en sangre, que pueden alcanzar valores tóxicos. No se recomienda el uso
+concomitante de litio y AINEs. Las concentraciones de litio en sangre deben ser
+cuidadosamente monitorizadas durante el inicio, ajuste y suspensión del tratamiento con ácido
+acetilsalicílico, en caso de que esta combinación sea necesaria.
+    Metotrexato: los AINEs disminuyen la secreción tubular de metotrexato incrementando las
+    concentraciones plasmáticas del mismo y por tanto su toxicidad. Por esta razón no se
+recomienda el uso concomitante con AINEs en pacientes tratados con altas dosis de
+metotrexato.
+También deberá tenerse en cuenta el riesgo de interacción entre el metotrexato y los AINEs en
+pacientes sometidos a bajas dosis de metotrexato, especialmente aquellos con la función renal
+alterada. En casos en que sea necesario el tratamiento combinado debería monitorizarse el
+hemograma y la función renal, especialmente los primeros días de tratamiento.
+    Uricosúricos: la administración conjunta de ácido acetilsalicílico y uricosúricos además de una
+    disminución del efecto de estos últimos produce una disminución de la excreción del ácido
+acetilsalicilico alcanzándose niveles plasmáticos más altos.
+    Antiácidos: los antiácidos pueden aumentar la excreción renal de los salicilatos por
+    alcalinización de la orina.
+    Digoxina: los AINEs incrementan los niveles plasmáticos de digoxina que pueden alcanzar
+    valores tóxicos. No se recomienda el uso concomitante de digoxina y AINEs. En caso de que
+su administración simultánea sea necesaria, deben de monitorizarse los niveles plasmáticos de
+digoxina durante el inicio, ajuste y suspensión del tratamiento con ácido acetilsalicílico.
+    Barbitúricos: el ácido acetilsalicílico aumenta las concentraciones plasmáticas de los
+    barbitúricos.
+Zidovudina: el ácido acetilsalicílico puede aumentar las concentraciones plasmáticas de
+    zidovudina al inhibir de forma competitiva la glucuronidación o directamente inhibiendo el
+metabolismo microsomal hepático. Se debe prestar especial atención a las posibles
+interacciones medicamentosas antes de utilizar ácido acetilsalicílico, particularmente en
+tratamiento crónico, combinado con zidovudina.
+    Ácido valproico: la administración conjunta de ácido acetilsalicílico y ácido valproico produce
+    una disminución de la unión a proteínas plasmáticas y una inhibición del metabolismo de ácido
+valproico.
+    Fenitoína: el ácido acetilsalicílico puede incrementar los niveles plasmáticos de fenitoína.
+ Interferencias con pruebas de diagnóstico:
+ Ácido acetilsalicílico puede alterar los valores de las siguientes determinaciones analíticas:
+    Sangre:
+    - Aumento biológico de transaminasas (ALT y AST), fosfatasa alcalina, amoníaco,
+bilirrubina, colesterol, creatininfosfokinasa (CPK), creatinina, digoxina, tiroxina libre (T4),
+globulina de unión de la tiroxina (TBG), lactato deshidrogenasa (LDH), triglicéridos, ácido
+úrico y ácido valproico.
+- Reducción biológica de T4 libre, hormona estimuladora del tiroides (TSH), hormona
+liberadora de tirotropina (TSH-RH), T3 libre, glucosa, fenitoína, triglicéridos, ácido úrico,
+aclaramiento de creatinina.
+- Aumento por interferencia analítica de glucosa, paracetamol y proteínas totales.
+- Reducción por interferencia analítica de transaminasas (ALT), albúmina, fosfatasa alcalina,
+colesterol, CPK, LDH y proteínas totales.
+    Orina:
+    - Reducción biológica de estriol.
+- Reducción por interferencia analítica de ácido 5-hidroxi-indolacético, ácido 4-hidroxi-3-
+metoxi- mandélico, estrógenos totales y glucosa.
+ 4.6. Embarazo y lactacia
+ Embarazo:
+ El ácido acetilsalicílico atraviesa la barrera placentaria.
+ Estudios epidemiológicos sugieren un aumento del riesgo de abortos y de malformaciones
+congénitas (incluyendo malformaciones cardiacas y gastrosquisis). Durante el primer y segundo
+trimestre del embarazo, no se debería administrar ácido acetilsalicílico a menos que sea
+estrictamente necesario.
+Los salicilatos sólo deben tomarse durante el embarazo tras una estricta evaluación de la relación
+beneficio-riesgo.
+ Si se administra ácido acetilsalicílico durante el primer y segundo trimestre del embarazo, la dosis
+debería ser lo más baja posible y la duración del tratamiento lo más corto posible.
+ Está contraindicado su uso en el tercer trimestre del embarazo, ya que su administración en el
+tercer trimestre puede prolongar el parto y contribuir al sangrado maternal o neonatal y al cierre
+prematuro del ductus arterial.
+Estudios en animales han mostrado toxicidad reproductiva. (ver apartado 5.3).
+ Lactancia:
+Se excreta a través de la leche materna, por lo que no se recomienda su utilización durante el
+período de lactancia debido al riesgo de que se produzcan en el niño efectos adversos.
+ 4.7. Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+ No se han descrito.
+ 4.8. Reacciones adversas
+ Los efectos adversos del ácido acetilsalicílico, en la mayor parte de los casos, son una
+consecuencia del mecanismo de su acción farmacológica y afectan principalmente al aparato
+digestivo. El 5-7% de los pacientes experimenta algún tipo de efecto adverso.
+ Las reacciones adversas se presentan agrupadas según su frecuencia (muy frecuentemente:  10
+%; frecuentemente:  1% < l0%; poco frecuentemente:  0,1% < 1%; raramente:  0,01% < 0,1%;
+muy raramente: < 0,01 %) y según la clasificación de órganos y sistemas.
+ Los efectos adversos más característicos son:
+    Trastornos del sistema linfático y sanguíneo:
+    - Frecuentes (1-9%): Hipoprotrombinemia (a dosis elevadas).
+- Poco frecuentes (< 1%): Anemia.
+- También se han descrito efectos hematológicos, tales como síndromes hemorrágicos
+(epistaxis, gingivorragias, púrpura, etc.) con aumento del tiempo de sangría. Esta acción
+persiste de 4 a 8 días después de cesar el tratamiento con ácido acetilsalicílico.
+    Trastornos del sistema nervioso:
+    - Con dosis elevadas prolongadas pueden aparecer sudoración, cefalea, confusión.
+    Trastornos auditivos y laberínticos:
+    - Con dosis elevadas prolongadas pueden aparecer mareos, tinnitus, sordera. El tratamiento
+debe suspenderse inmediatamente en el caso de que el paciente experimente algún episodio
+de sordera, tinnitus o mareos.
+    Trastornos respiratorios, torácicos y mediastínicos:
+    - Frecuentes (1-9%): Rinitis, espasmo bronquial paroxístico, disnea grave.
+    Trastornos gastrointestinales:
+    - Frecuentes (1-9%): Hemorragia gastrointestinal (melenas, hematemesis). Dolor abdominal,
+náuseas, dispepsia, vómitos, úlcera gástrica, úlcera duodenal.
+    Trastornos hepatobiliares:
+ - Poco frecuentes (< 1%): Hepatotoxicidad, particularmente en pacientes con artritis juvenil.
+    Trastornos del tejido de la piel y subcutáneos:
+    - Frecuentes (1-9%): Urticaria, erupciones exantemáticas, angioedema.
+    Trastornos renales y urinarios:
+    - Con dosis elevadas prolongadas puede producirse insuficiencia renal y nefritis intersticial
+aguda.
+    Trastornos generales:
+    - Poco frecuentes (< 1%): Síndrome de Reye (en menores de 16 años).
+- En pacientes con historia de hipersensibilidad a ácido acetilsalicílico y/o a otros
+antiinflamatorios no esteroideos pueden producirse reacciones anafilácticas o
+anafilactoides. Esto también podría suceder en pacientes que no han mostrado previamente
+hipersensibilidad a estos fármacos.
+ 4.9. Sobredosificación
+    Diagnóstico: Los síntomas del salicilismo (náuseas, vómitos, tinnitus, sordera, sudores,
+    vasodilatación e hiperventilación, cefalea, visión borrosa y ocasionalmente diarrea) son
+indicios de sobredosis. La mayoría de estas reacciones son producidas por el efecto directo del
+compuesto. No obstante, la vasodilatación y los sudores son el resultado de un metabolismo
+acelerado.
+    Son comunes las alteraciones en el equilibrio ácido-base, lo que puede influir en la toxicidad
+de los salicilatos, cambiando su distribución entre plasma y tejidos. La estimulación de la
+respiración produce hiperventilación y alcalosis respiratoria. La fosforilación oxidativa
+deteriorada produce acidosis metabólica.
+    En el cuadro de intoxicación por salicilatos ocurren hasta cierto grado los dos síntomas, pero
+tiende a predominar el componente metabólico en los niños hasta los 4 años, mientras que en
+los niños mayores y adultos es más común la alcalosis respiratoria.
+    La aparición de trastornos neurológicos, tales como la confusión, delirio, convulsiones y coma,
+son indicios de intoxicación aguda.
+    Cuando las concentraciones plasmáticas de salicilato sobrepasan 300 mg/l aparecen signos de
+salicismo.
+    Se necesitan medidas de apoyo para adultos con concentraciones plasmáticas de salicilato de
+más de 500 mg/l.
+    Medidas terapéuticas y de apoyo: No hay antídoto contra la intoxicación por salicilatos. En el
+    caso de una supuesta sobredosis, el paciente debe mantenerse bajo observación durante por lo
+menos 24 horas, puesto que durante varias horas pueden no ponerse en evidencia los síntomas
+y niveles de salicilato en sangre. En caso de sobredosis deberá realizarse lavado gástrico,
+diuresis alcalina forzada y tratamiento de soporte. En los casos agudos puede precisarse la
+restauración del equilibrio ácido-base junto con hemodiálisis.
+                                                                                                      MINISTERIO
+
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1. Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Analgésicos y antipiréticos, derivados de ácido salicílico. Código
+ATC: N02BA.
+ Ácido acetilsalicílico pertenece al grupo de fármacos analgésicos antipiréticos y antiinflamatorios
+no esteroideos (AINEs).
+ El efecto analgésico de ácido acetilsalicílico se realiza periféricamente a causa de la inhibición de
+la síntesis de las prostaglandinas, lo que impide la estimulación de los receptores del dolor por la
+bradiquinina y otras sustancias. Asimismo, debido a posibles efectos centrales sobre el
+hipotálamo, produce alivio del dolor.
+ El efecto antipirético parece ser debido a la inhibición de la síntesis de las prostaglandinas,
+aunque los núcleos del hipotálamo tienen un papel significativo en el control de estos mecanismos
+periféricos.
+ Ácido acetilsalicílico inhibe la formación del tromboxano A2, por la acetilación de la
+ciclooxigenasa de las plaquetas. Este efecto antiagregante es irreversible durante la vida de las
+plaquetas.
+ 5.2. Propiedades farmacocinéticas
+    Absorción: La absorción es generalmente rápida y completa tras la administración oral. El
+    alimento disminuye la velocidad pero no el grado de absorción. La concentración plasmática
+máxima se alcanza, generalmente, al cabo de 1 ­ 2 horas con dosis únicas.
+    Distribución: Ácido acetilsalicílico y ácido salicílico se unen parcialmente a proteínas séricas,
+    y principalmente a la albúmina. El valor normal de la unión de ácido salicílico a proteínas es
+del 80 al 90%, administrado en concentraciones plasmáticas terapéuticas. Ácido acetilsalicílico
+y ácido salicílico se distribuyen en el fluido sinovial, el sistema nervioso central y la saliva.
+Ácido salicílico atraviesa fácilmente la placenta, y a dosis elevadas, se excreta por la leche
+materna.
+    Metabolismo-Excreción: Ácido acetilsalicílico se convierte rápidamente en ácido salicílico,
+    con una vida media de 15-20 minutos, independientemente de la dosis. Ácido salicílico se
+excreta parcialmente inalterado, y se metaboliza parcialmente en conjugación con la glicina y
+ácido glucurónico, y por oxidación. La tasa de formación de los metabolitos de la glicina y de
+ácido glucurónico es saturable. La vida media de ácido salicílico depende de la dosis. Se lleva
+a cabo la excreción renal de ácido salicílico y sus metabolitos por filtración glomerular y
+secreción tubular.
+    Efectos según la edad: No existe ninguna diferencia significativa entre la farmacocinética
+    observada en ancianos y adultos jóvenes.
+ 5.3. Datos preclínicos sobre seguridad
+ Los salicilatos poseen efecto teratógeno sobre diversas especies de animales. Se han publicado
+datos sobre alteraciones en la implantación, efectos embriotóxicos y fetotóxicos, incremento en la
+letalidad embrio-fetal y alteraciones de la capacidad de aprendizaje en la descendencia de los
+animales expuestos a los salicilatos en vida prenatal. Además, aumenta la incidencia de varias
+malformaciones, incluyendo cardiovasculares, en animales que habían recibido inhibidores de la
+síntesis de prostaglandinas durante el periodo de organogénesis.
+ Potencial mutagénico y carcinogénico:
+Los datos preclínicos no muestran riesgos especiales para los seres humanos según los estudios
+realizados sobre potencial mutagénico y carcinogénico.
+ 
+6. DATOS FARMACÉUTICOS
+	6.1. Lista de excipientes
+    AAS 100 mg comprimidos: Sacarina sódica, manitol, almidón de maíz, goma arábiga, sabor
+    naranja y colorante amarillo.
+    AAS 500 mg comprimidos: Sacarina sódica, manitol, almidón de maíz, goma arábiga y sabor
+    naranja.
+ 6.2. Incompatibilidades farmacéuticas
+ No procede.
+ 6.3. Período de validez
+ 5 años.
+ 6.4. Precauciones especiales de conservación
+ No extraer el comprimido de su acondicionamiento hermético hasta el momento de su
+administración.
+ 6.5. Naturaleza y contenido del envase
+ A.A.S 100 mg y A.A.S. 500 mg se presentan en estuches que contienen 20 comprimidos
+acondicionados en blísters de PVC/ Aluminio.
+ 6.6. Instrucciones de uso/manipulación
+ No procede.
+ 
+7. NOMBRE O RAZÓN SOCIAL Y DIRECCIÓN DEL                      TITULAR     DE LA
+	SANOFI AVENTIS S.A.
+Josep Plá, 2
+08019 Barcelona
+ 
+8. NÚMERO DE LA AUTORIZACIÓN DE LA COMERCIALIZACIÓN
+	   A.A.S. 100 mg comprimidos: 42.991.
+    A.A.S. 500 mg comprimidos: 42.956.
+ 9. FECHA  DE   LA           PRIMERA        AUTORIZACIÓN/RENOVACIÓN       DE    LA
+AUTORIZACIÓN
+ Fecha de la última Revalidación Quinquenal: Enero 2.001.
+ 10. FECHA DE REVISIÓN DEL TEXTO
+ Texto revisado en Diciembre 2.004.
+
+	 AAS 
+  100 Mg comprimidos, 500 comprimidos 

@@ -1,0 +1,214 @@
+ICODIAL 7.5G 2500ML SOL DIALISIS PERITONEA
+	"Información Basica del medicamento Toda la información del medicamento Ficha Técnica
+1. Nombre del medicamento
+ ICODIAL (Icodextrina 7,5%)
+ 2. Composición cualitativa y cuantitativa
+ Solución estéril para diálisis peritoneal con Icodextrina como principio activo a una concentración
+de 7,5% (p/v) en una solución electrolítica.
+ Cada litro contiene
+ Icodextrina            75 g
+Cloruro sódico         5,4 g
+Lactato sódico         4,5 g
+Cloruro cálcico        257 mg
+Cloruro magnésico      51 mg
+ Osmolaridad teórica 284 (miliosmoles por litro)
+ Solución electrolítica que contiene por 1000 ml:
+ Sodio                  133 mmol
+Calcio                 1,75 mmol
+Magnesio               0,25 mmol
+Cloruro                96 mmol
+Lactato                40 mmol
+ 3. Forma farmacéutica
+ Solución para diálisis peritoneal.
+ 
+
+4. Datos clínicos
+ 4.1. Indicaciones terapéuticas
+ Icodial está recomendado como sustitución diaria de un único intercambio de glucosa, como parte
+de un régimen de diálisis peritoneal ambulatoria continua (DPAC) o de un régimen de diálisis
+peritoneal automatizada (DPA) para el tratamiento de la insuficiencia renal crónica,
+particularmente en pacientes que han perdido ultrafiltración con soluciones de glucosa, ya que
+puede prolongar el tiempo en terapia de DPAC en dichos pacientes.
+ 4.2. Posología y forma de administración
+ Icodial está recomendado para utilizarse durante el período más largo de permanencia, en DPAC
+normalmente por la noche y en DPA en el período largo de permanencia diurno.
+ Adultos. Administración por vía intraperitoneal limitada a un único intercambio en cada período
+de 24 horas como parte de un régimen de DPAC o DPA.
+ Personas de edad avanzada: Igual que para adultos.
+ Niños: No recomendado para su uso en niños (menores de 18 años).
+ Debe seguirse una técnica aséptica a lo largo de todo el procedimiento.
+ Antes de su utilización puede calentarse la bolsa a la temperatura corporal utilizando una placa
+calefactora diseñada al efecto. El volumen a infundir debe ser administrado a lo largo de un
+período de 10 a 20 minutos aproximadamente, a una velocidad que resulte cómoda para el
+paciente. En pacientes adultos con un tamaño corporal normal, el volumen infundido no debe
+exceder de 2 l. Para pacientes con un tamaño corporal mayor (más de 70-75 kg.), puede utilizarse
+un volumen de llenado de 2,5 l. Si el volumen infundido causa malestar debido a la tensión
+abdominal, el volumen infundido se debe reducir. El período de permanencia recomendado está
+entre 6 y 12 horas en DPAC y 14-16 horas en DPA. El drenaje de la solución se realiza por
+gravedad, a una velocidad cómoda para el paciente. Se debe inspeccionar la solución drenada para
+detectar la presencia de fibrina o turbidez que podría indicar la presencia de infección.
+ 4.3. Contraindicaciones
+ Icodial no debe usarse en pacientes con alergia conocida a polímeros a base de almidón ni en
+pacientes con intolerancia a la maltosa o isomaltosa ni en pacientes con enfermedad por
+acumulación de glucógeno.
+ Icodial está también contraindicado en pacientes con historial de cirugía abdominal en el
+mes anterior al inicio de la terapia, o en pacientes con fístula abdominal, tumores, heridas
+abiertas, hernias u otras patologías que comprometan la integridad de la pared abdominal,
+la superficie abdominal o la cavidad intra-abdominal.
+ 4.4. Advertencias y precauciones especiales de empleo
+ Icodial no está recomendado durante el embarazo ni la lactancia (ver apartado 4.6), en niños o en
+pacientes con insuficiencia renal aguda
+ Al igual que con otras soluciones de diálisis peritoneal, la Icodextrina debe utilizarse con
+precaución, después de evaluar cuidadosamente sus riesgos potenciales y beneficios, en pacientes
+con patologías que impidan una nutrición normal, con disfunciones respiratorias o con deficiencia
+de potasio.
+ Los pacientes deberán ser monitorizados cuidadosamente para evitar la sobrehidratación o
+deshidratación. Deberá mantenerse un registro exacto del equilibrio de fluidos y monitorizar el
+peso corporal de los pacientes.
+ A intervalos regulares deben monitorizarse los parámetros químicos y hematológicos de la sangre
+y la osmolalidad del plasma.
+ Durante la diálisis peritoneal se pueden perder proteínas, aminoácidos, vitaminas hidrosolubles y
+con otros medicamentos, por lo que puede ser necesaria su sustitución.
+Los pacientes con diabetes mellitus, con frecuencia necesitan insulina adicional para mantener el
+control glucémico durante la Diálisis Peritoneal (DP) y, por ello, el paso a Icodial puede hacer
+necesario un cambio en la dosis de insulina. La insulina puede administrarse intraperitonealmente.
+La determinación de glucosa en sangre debe hacerse con un método específico para la glucosa,
+para prevenir la interferencia de la maltosa. No deben utilizarse métodos basados en la glucosa
+deshidrogenasa pirrolquinolinaquinona (GDH-PQQ). Se recomienda revisar la sección apropiada
+del prospecto del kit de ensayo de glucosa para asegurarse de que no se describen interferencias
+al utilizar una terapia de diálisis con icodextrina.
+ En algunos pacientes se ha observado un descenso en los niveles de sodio y de cloruro sérico.
+Aunque estos descensos se han considerado como clínicamente insignificantes, se recomienda que
+se monitoricen regularmente los niveles de electrolitos séricos.
+ También se ha detectado un descenso en los niveles de amilasa sérica como un aspecto habitual
+en los pacientes en diálisis peritoneal en tratamiento a largo plazo. No se ha notificado que el
+descenso se acompañe de alguna reacción adversa. Sin embargo, no se conoce si los niveles
+inferiores a los normales de amilasa pueden enmascarar la elevación de la amilasa sérica que se
+observa comunmente durante la pancreatitis aguda.
+ Se ha detectado un incremento de la fosfatasa alcalina media. No se ha observado un
+incremento asociado de los enzimas hepáticos.
+ Debe seguirse una técnica aséptica a lo largo de todo el procedimiento de la diálisis peritoneal.
+ Con objeto de reducir las molestias durante la administración, se puede calentar la solución, en la
+sobrebolsa sellada, a una temperatura de 37ºC antes de su utilización. Esto deberá realizarse con
+calor seco, preferentemente con una placa calefactora especialmente diseñada para ello. Para
+evitar la contaminación de los conectores, la bolsa no debe sumergirse en agua para calentarla.
+ El tratamiento debe iniciarse bajo la supervisión de un médico de hospital.
+ 4.5. Interacción con con otros medicamentos y otras formas de interacción
+ No se conocen. Sin embargo, la diálisis puede reducir las concentraciones en sangre de fármacos
+dializables. Si se precisa, deberá instaurarse una terapia correctora. Los niveles plasmáticos de
+potasio y calcio deben ser comprobados cuidadosamente en aquellos pacientes que utilicen
+glucósidos cardíacos. En caso de niveles anormales, se deberán tomar las acciones oportunas.
+ 4.6. Embarazo y lactancia
+ No se recomienda el uso de Icodial durante el embarazo o la lactancia.
+El tratamiento con Icodial en mujeres en edad reproductora sólo deben realizarse si se han
+adoptado las precauciones anticonceptivas adecuadas.
+ 4.7. Efectos sobre la capacidad para conducir y utilizar maquinaria
+ No se conocen
+                                                                                                       MINISTERIO
+4.8. Reacciones adversas
+ Se listan a continuación, reacciones que pueden ocurrir en pacientes tratados con Icodial según
+estudios clínicos realizados:
+                              Reacciones adversas a medicamentos                  Frecuencia (*)
+Cuerpo en general            Dolor abdominal                                     Común
+Sistema cardiovascular       Hipertensión                                        Común
+Metabolismo y nutrición      Hipovolemia y deshidratación                        Común
+Sistema nervioso             Vértigos                                            Común
+Cutáneo                      Erupción                                            Común
+ (*) El término ""común"" hace referencia a una frecuencia entre un 1 y un 10%
+Se indican a continuación otros efectos no deseados debido a la diálisis peritoneal, estos
+efectos están relacionados con el procedimiento y/o la solución y están a menudos
+reportados espontáneamente y en literatura.
+Los efectos relacionados con el procedimiento incluyen peritonitis, que puede continuar
+con dolor abdominal, líquido de drenaje turbio y en algunas ocasiones fiebre,
+hemorragias, obstrucción del catéter, infección alrededor del catéter (signos de
+inflamación, enrojecimiento y secreción), hipervolemia, hipovolemia, hipertensión,
+hipotensión, deshidratación, edema, estreñimiento, hernia de la cavidad abdominal,
+cólico, pérdida de apetito, dispepsia, nauseas y vómitos, vértigos, fatiga, dolor de cabeza,
+dolor en el hombro, prurito y resultados de ensayo de laboratorio anormales.
+Los que están relacionados con la solución de diálisis peritoneal son menos frecuentes que los
+relacionados con el procedimientos e incluyen alteraciones electrolíticas (p.e. hipocaliemia,
+hipocalcemia y hipercalcemia), mareos, calambres musculares, síntomas respiratorios asociados
+con fatiga y debilidad.
+Además, se han producido comunicados frecuentes de reacciones de la piel, que incluyen
+exantemas y prurito, en pacientes tratados con Icodial. Ocasionalmente, estos exantemas se han
+asociado a exfoliación.
+ 4.9. Sobredosificación
+ No se dispone de datos sobre los efectos de la sobredosificación. No obstante, la administración
+continua de más de una bolsa de Icodial en 24 horas podría aumentar los niveles plasmáticos de
+metabolitos de carbohidratos y maltosa. Se desconocen los efectos de dicho incremento, aunque
+puede producirse un aumento de la osmolalidad del plasma. El tratamiento puede hacerse
+mediante diálisis peritoneal con una solución sin Icodextrina o por hemodiálisis.
+ 5. Propiedades farmacológicas
+                                                                                                    MINISTERIO
+5.1. Propiedades farmacodinámicas
+ La Icodextrina es un polímero de la glucosa derivado del almidón que actúa como agente
+osmótico cuando se administra por vía intraperitoneal durante la diálisis peritoneal ambulatoria
+continua. Una solución al 7,5% es aproximadamente iso-osmolar con el suero, pero produce una
+ultrafiltración sostenida durante un período de hasta 12 horas en DPAC. El aporte de calorías es
+menor, en comparación con las soluciones hiperosmolares de glucosa. El volumen de ultrafiltrado
+producido es equiparable al de las soluciones con glucosa al 3,86% cuando se utilizan en DPAC.
+Los niveles sanguíneos de glucosa e insulina permanecen inalterados.
+La ultrafiltración se mantiene durante los episodios de peritonitis.
+ 5.2. Propiedades farmacocinéticas
+ Los niveles de polímeros de carbohidratos en la sangre alcanzan un estado estable después de
+unos 7-10 días, cuando se emplea la solución con una posología diaria en diálisis nocturnas. El
+polímero es hidrolizado por una amilasa a fragmentos más pequeños que se eliminan por diálisis
+peritoneal. Se han medido niveles estables en plasma de 1,8 mg/ml de oligómeros de glucosa que
+superan las 9 unidades (G9) y hay un aumento de la maltosa sérica (G2) a 1,1 mg/ml, pero no se
+produce un cambio significativo de la osmolalidad del suero. Se han medido niveles de maltosa de
+1,4 mg/ml cuando se utiliza para el período largo de permanencia diaria en DPA pero sin cambios
+significativos en la osmolalidad sérica. Se desconocen los efectos a largo plazo del aumento del
+nivel plasmático de maltosa y polímeros de glucosa, pero no hay razón que haga suponer que sean
+nocivos.
+ 5.3. Datos preclínicos sobre seguridad
+ Las diferencias entre los animales de experimentación con función renal normal y los pacientes en
+DPAC/DPA con insuficiencia renal avanzada o completa limitan el valor de los estudios
+preclínicos. No obstante, los estudios agudos por administración intravenosa e intraperitoneal en
+ratones y ratas no han demostrado efectos cuando se emplean dosis de hasta 2000 mg/Kg. La
+administración intraperitoneal de una solución de Icodextrina al 20% dos veces al día durante 28
+días en ratas y perros no ha demostrado toxicidad en el órgano diana o tejido. El efecto principal
+fue sobre la dinámica del equilibrio de fluido.
+ Los estudios de mutagenicidad ""in vitro"" e ""in vivo"" dieron resultados negativos. No son factibles
+los estudios sobre propiedades carcinogénicas con el producto, aunque los efectos carcinogénicos
+son improbables debido a la naturaleza química de la molécula, su falta de efecto farmacológico,
+su falta de toxicidad en el órgano diana y a los resultados negativos en los estudios de
+mutagenicidad.
+ Un estudio de toxicidad de la reproducción en ratas ha demostrado no tener efectos en la fertilidad
+o desarrollo embrionario.
+ 6. Datos farmacéuticos
+ 6.1. Lista de excipientes
+ Agua para preparaciones inyectables
+Hidróxido sódico o ácido clorhídrico c.s. para ajuste de pH.
+6.2. Incompatibilidades
+ No se conocen
+ Un rango de antibióticos que incluye vancomicina, cefazolina, ampicilina/flucloxacilina,
+ceftazidima, gentamicina, amfotericina e insulina no han dado evidencias de incompatibilidad con
+Icodial.
+ 6.3. Período de validez
+ 2 años
+ 6.4. Precauciones especiales de conservación
+ Conservar a temperatura inferior a 30ºC. No utilizar si la solución no está transparente y el envase
+intacto.
+ 6.5. Naturaleza y contenido del envase
+ Envase de PVC flexible conteniendo 1,5 litros, 2 litros ó 2,5 litros.:
+ 6.6. Instrucciones de uso/manipulación
+ Ver 4.2.
+ 7. Datos Administrativos
+ Nombre y sede social del titular de la autorización
+ ML Laboratories PLC
+Rutherford Close
+Wavertree Technology Park, Liverpool
+L13 1EJ
+Reino Unido
+ 8. Número de Autorización de Comercialización
+ 60.397
+ 9. Fecha de la Primera Autorización/Renovación de la Autorización
+ Noviembre 1997
+                                                                                                        MINISTERIO
+10. Fecha de la revisión (parcial) del texto
+ Junio 2001
+  
+      ICODIAL 7.5G 1500ML SOL DIALISIS PERITONEA
+          
+      ICODIAL 7.5G 2000ML SOL DIALISIS PERITONEA
+         Prospectos de medicamentos."

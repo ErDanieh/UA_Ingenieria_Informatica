@@ -1,0 +1,228 @@
+TAMOXIFENO CINFA 20MG 60 COMPRIMIDOS EFG
+	Información Basica del medicamento Toda la información del medicamento 
+1.      NOMBRE DEL MEDICAMENTO
+	      tamoxifeno cinfa® 10 mg comprimidos EFG
+tamoxifeno cinfa® 20 mg comprimidos EFG
+ 
+2.      COMPOSICION CUALITATIVA Y CUANTITATIVA
+	Cada comprimido de tamoxifeno cinfa® 10 mg comprimidos contiene:
+Citrato de tamoxifeno..................................15,2 mg
+Equivalente a tamoxifeno (DOE)...................10 mg
+ Excipientes, ver apartado 6.1.
+ Cada comprimido de tamoxifeno cinfa® 20 mg comprimidos contiene:
+Citrato de tamoxifeno..................................30,4 mg
+Equivalente a tamoxifeno (DOE)...................15 mg
+ Excipientes, ver apartado 6.1.
+ 
+3.      FORMA FARMACEUTICA
+	Comprimidos
+ 
+4.      DATOS CLÍNICOS
+	"4.1     Indicaciones terapéuticas
+ Tamoxifeno está indicado en el tratamiento del cáncer de mama.
+ 4.2     Posología y forma de administración
+ Adultos (incluyendo pacientes geriátricas): La dosis varía de 20 mg a 40 mg administrando 10 ó
+20 mg dos veces al día, ó 20 mg una vez al día. Se recomienda administrar el tratamiento durante
+al menos 5 años. No obstante, la duración óptima de la terapia con tamoxifeno sigue estando por
+determinar.
+ Pediatría: Tamoxifeno no está indicado para el tratamiento en niños.
+ 4.3     Contraindicaciones
+ No debe administrarse tamoxifeno durante el embarazo. Existe un número
+reducido de informes sobre abortos espontáneos, defectos de nacimiento y
+muertes fetales después de la administración de tamoxifeno a mujeres, aunque
+no se ha establecido relación causal. (Ver ""Embarazo y lactancia"", en el apartado
+4.6.).
+ No se administrará tamoxifeno a pacientes que hayan experimentado hipersensibilidad
+al producto o a cualquiera de sus componentes.
+ MINISTERIO
+DE SANIDAD
+Y CONSUMO
+Agencia Española de
+Medicamentos y
+Productos Sanitarios
+4.4.   Advertencias y precauciones especiales de empleo
+ En una proporción de mujeres pre-menopáusicas que recibieron tamoxifeno, la
+menstruación fue suprimida.
+ Se ha comunicado una mayor incidencia de cáncer de endometrio y sarcoma
+uterino (principalmente tumores Müllerianos mixtos malignos) en asociación con
+tamoxifeno. Se desconoce el mecanismo fundamental, pero puede estar
+relacionado con el efecto similar al estrogénico de tamoxifeno; por lo tanto,
+cualquier mujer a la que se esté administrando o que previamente se le haya
+administrado tamoxifeno y que comunique síntomas ginecológicos anormales,
+especialmente hemorragia vaginal, deberá ser examinada inmediatamente. (Ver
+""Reacciones adversas"", en el apartado 4.8.).
+ Se deberá advertir a las mujeres de no quedarse embarazadas mientras toman
+tamoxifeno, por lo que deberán utilizar métodos de barrera u otros métodos
+anticonceptivos no hormonales, si son potencialmente fértiles. Las pacientes
+premenopáusicas serán examinadas cuidadosamente antes de comenzar el
+tratamiento, para excluir la posibilidad de embarazo. Igualmente, se deberá
+informar a las mujeres de los riesgos potenciales para el feto, si se quedaran
+embarazadas mientras se les administra tamoxifeno o en un período de dos
+meses desde la suspensión del tratamiento. (Ver ""Embarazo y lactancia"", en el
+apartado 4.6.).
+ En estudios clínicos se ha comunicado un número de segundos tumores
+primarios en zonas diferentes al endometrio y la mama contralateral, después del
+tratamiento con tamoxifeno en pacientes con cáncer de mama. El significado
+clínico de esas observaciones permanece sin aclarar.
+ Cuando se administra tamoxifeno en combinación con anticoagulantes tipo
+cumarínicos, puede presentarse un incremento significativo del efecto
+anticoagulante, por lo que en este caso se recomienda vigilar cuidadosamente a
+la paciente. (Ver ""Interacción con con otros medicamentos y otras formas de
+interacción"", en el apartado 4.5.).
+ Cuando se emplea tamoxifeno en combinación con agentes citotóxicos existe un
+mayor riesgo de aparición de efectos adversos tromboembólicos. (Ver
+""Interacción con con otros medicamentos y otras formas de interacción"" y
+""Reacciones adversas"", en los apartados 4.5. y 4.8, respectivamente).
+ Un pequeño número de pacientes con metástasis óseas ha desarrollado
+hipercalcemia cuando se inició la terapia. (Ver ""Reacciones adversas"", en el
+apartado 4.8.).
+ Antes de iniciar tratamiento con tamoxifeno el médico deberá valorar los
+antecedentes familiares y factores de riesgo de trombosis que presenta la
+paciente. En pacientes con un mayor riesgo protrombótico se deberá valorar la
+                                                                                    MINISTERIO
+pertinencia de instaurar tratamiento anticoagulante profiláctico que estaría
+siempre justificado en caso de cirugía e inmovilidad prolongada.
+ Si la paciente presenta un episodio de tromboembolismo venoso, deberá
+retirarse tamoxifeno de forma inmediata e iniciar tratamiento anticoagulante. La
+decisión de reintroducir tamoxifeno deberá tomarse tras el análisis ponderado de
+la relación beneficio-riesgo para la paciente. En caso de que se decidiera
+reinstaurar el tratamiento con este fármaco, deberán instaurarse medidas
+anticoagulantes.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+ Cuando se administra tamoxifeno en combinación con anticoagulantes tipo
+cumarínicos, puede presentarse un incremento significativo del efecto
+anticoagulante, por lo que en este caso se recomienda vigilar cuidadosamente a
+la paciente. (Ver ""Advertencias y precauciones especiales de empleo"", en el
+apartado 4.4.).
+ Cuando se emplea tamoxifeno en combinación con agentes citotóxicos existe un
+mayor riesgo de aparición de efectos adversos tromboembólicos. (Ver
+""Advertencias y precauciones especiales de empleo"" y ""Reacciones adversas"",
+en los apartados 4.4. y 4.8, respectivamente).
+ La principal ruta para el metabolismo de tamoxifeno identificada en humanos, es
+la demetilación catalizada por los enzimas CYP3A4. Se ha comunicado
+interacción farmacocinética con el agente inductor de CYP3A4, rifampicina,
+mostrando una reducción en los niveles plasmáticos de tamoxifeno. Se
+desconoce la relevancia clínica de esta interacción con otros fármacos
+inductores o inhibidores de CYP3A4.
+ 4.6.   Embarazo y lactancia
+ Embarazo: Tamoxifeno no debe administrarse durante el embarazo. Existe un
+número escaso de informes sobre abortos espontáneos, defectos de nacimiento
+y muertes fetales, después de administrar tamoxifeno a mujeres gestantes,
+aunque no ha sido establecida relación causal. (Ver ""Contraindicaciones"", en el
+apartado 4.3.).
+ Los estudios toxicológicos de reproducción en ratas, conejos y monos no han
+mostrado potencial teratogénico.
+ En modelos de roedores del desarrollo del tracto reproductivo fetal, tamoxifeno
+estuvo asociado con cambios similares a los causados por estradiol,
+etinilestradiol, clomifeno y dietilestilbestrol (DES). Aunque se desconoce la
+relevancia clínica de estos cambios, algunos de ellos, especialmente la adenosis
+vaginal, son similares a los observados en mujeres jóvenes, expuestas intraútero
+a DES y que presentan un riesgo en una proporción de 1 en 1000 de desarrollar
+carcinoma de células claras de vagina o cérvix. Únicamente un reducido número
+de mujeres embarazadas ha sido expuesto a tamoxifeno, no comunicándose que
+tal exposición cause adenosis vaginal posterior o carcinoma de células claras de
+la vagina o cérvix en mujeres jóvenes expuestas intraútero a tamoxifeno.
+ Se deberá advertir a las mujeres de no quedarse embarazadas mientras toman
+tamoxifeno por lo que deberán utilizar métodos de barrera u otros métodos
+anticonceptivos no hormonales, si son potencialmente fértiles. Las pacientes pre-
+menopáusicas serán examinadas cuidadosamente antes de comenzar el tratamiento,
+para excluir la posibilidad de embarazo. Igualmente, se deberá informar a las mujeres de
+los riesgos potenciales para el feto, si se quedaran embarazadas mientras se les
+administra tamoxifeno o en un período de dos meses desde la suspensión del
+tratamiento. (Ver ""Advertencias y precauciones especiales de empleo"", en el apartado
+4.4.).
+ Lactancia: No se conoce si tamoxifeno es excretado en leche humana y, por
+tanto, el fármaco no se recomienda a mujeres durante la lactancia. La decisión
+de suspender la lactancia o la terapia con tamoxifeno debe ser tomada, teniendo
+en cuenta la importancia del fármaco para la madre.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar maquinaria
+ No existe evidencia en relación a la alteración de estas habilidades por tamoxifeno.
+ 4.8.     Reacciones adversas
+ Sistema corporal           Frecuencia         Acontecimiento adverso
+Cardiovascular               Frecuentes (>1%)       · Sofocos
+Reproductor y mama           Frecuentes (> 1 %)     · Hemorragia vaginal
+Gastrointestinal             Frecuentes (>1%)       · Intolerancia gastrointestinal
+Dermatológico                Frecuentes (>1%)       · Alopecia
+Nervioso                     Frecuentes (>1%)       · Cefalea
+Generales                    Frecuentes (>l%)       · Síntomas relacionados con el tumor
+Oftalmológico                Poco frecuentes        · Cataratas
+Laboratorio                  Poco frecuentes        · Trombocitopenia
+Hepático y biliar            Raras (0,01%-0, 1 %)   · Hígado, graso
+ Pulmonar                 Muy raras              · Neumonía intersticial
+   4.9.   Sobredosificación
+   Teóricamente, se podría esperar que la sobredosificación intensificara las
+reacciones adversas farmacológicas mencionadas anteriormente. Las
+observaciones en animales muestran que una sobredosificación extrema (100-
+200 veces la dosis diaria recomendada) puede producir efectos estrogénicos.
+   No existe antídoto específico y el tratamiento debe ser sintomático.
+   5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+   5.1.   Propiedades farmacodinámicas
+   Tamoxifeno es un fármaco no esteroideo basado en trifeniletileno que muestra un
+espectro complejo de antagonista estrogénico y efectos farmacológicos similares a los
+agonistas de los estrógenos en diferentes tejidos. En pacientes con cáncer de mama, a
+nivel tumoral, tamoxifeno actúa principalmente como un anti-estrógeno, previniendo la
+unión del estrógeno al receptor estrogénico. Sin embargo, los estudios clínicos han
+mostrado algún beneficio en los tumores receptor estrógeno negativo, lo cual puede
+indicar otros mecanismos de acción. En la situación clínica, se reconoce que tamoxifeno
+produce reducciones, del orden del 10-20%, en los niveles de colesterol sanguíneo total
+y en las lipoproteínas de baja densidad en mujeres post-menopáusicas. Adicionalmente,
+se ha comunicado que tamoxifeno mantiene la densidad mineral ósea en mujeres post-
+menopáusicas.
+   5.2.   Propiedades farmacocinéticas
+   Después de la administración oral, tamoxifeno es absorbido rápidamente, alcanzando
+concentraciones séricas máximas a las 4-7 horas. Las concentraciones en estado de
+equilibrio (alrededor de 300 ng/ml) se alcanzan después de administrar 40 mg al día,
+durante 4 semanas. El fármaco posee una fuerte unión a albúmina sérica (>99%). El
+metabolismo es por hidroxilación, desmetilación y conjugación, dando lugar a elevación
+de diferentes metabolitos, los cuales poseen un perfil farmacológico similar al
+compuesto original, contribuyendo al efecto terapéutico. La excreción tiene lugar
+principalmente por heces con una vida media de eliminación de unos 7 días para el
+fármaco y de 14 días para el metabolito principal circulante N-desmetiltamoxifeno.
+   5.3.   Datos preclínicos sobre seguridad
+   En una serie de estudios mutagénicos ""in vitro"" e ""in vivo"", tamoxifeno no fue
+mutagénico; pero en algunas pruebas de genotoxicidad ""in vitro"" e ""in vivo"" en
+roedores fue genotóxico. Se han comunicado tumores gonadales en ratones y
+tumores hepáticos en ratas, que recibieron tamoxifeno en estudios de larga
+duración. La relevancia clínica de esos hallazgos no ha sido establecida.
+                                                                                             MINISTERIO
+Tamoxifeno es un fármaco del que se dispone de una amplia experiencia clínica.
+Toda la información relevante para el prescriptor se proporciona en esta Ficha
+Técnica. (Ver ""Embarazo y lactancia"", en el apartado 4.6.).
+ "
+6.     DATOS FARMACÉUTICOS
+	6.1.   Relación de excipientes
+ Hidrógeno fosfato de calcio dihidrato, celulosa microcristalina, carboximetilamidón de sodio tipo
+A, povidona, estearato de magnesio y sílice coloidal anhidra.
+ 6.2    Incompatibilidades
+ No se han descrito.
+ 6.3.   Periodo de validez
+ 5 años
+ 6.4.   Precauciones especiales de conservación
+ tamoxifeno cinfa® 10 mg comprimidos: no se precisan condiciones especiales de conservación
+tamoxifeno cinfa® 20 mg comprimidos: no conservar a temperatura superior a 30ºC
+ 6.5.   Naturaleza y contenido del recipiente
+ Blister de PVC/Aluminio.
+ tamoxifeno cinfa® 10 mg comprimidos se presenta en estuches que contienen 30 ó 100
+comprimidos.
+tamoxifeno cinfa® 20 mg comprimidos se presenta en estuches que contienen 30 ó 60
+comprimidos.
+ 6.6.   Instrucciones de uso/manipulación
+ No se precisan.
+ 
+7.     NOMBRE O RAZÓN SOCIAL Y DOMICILIO PERMANENTE O SEDE SOCIAL DEL TITULAR DE
+	Laboratorios Cinfa, S.A.
+Olaz-Chipi, 10. Polígono Areta.
+31620 HUARTE-PAMPLONA (Navarra) España.
+ 
+8.     NÚMERO DE REGISTRO
+	tamoxifeno cinfa® 10 mg comprimidos, nº de registro: 63.754.
+tamoxifeno cinfa® 20 mg comprimidos, nº de registro: 63.774.
+ 
+9.     FECHA DE LA PRIMERA AUTORIZACIÓN O DE LA REVALIDACIÓN DE LA AUTORIZACIÓN
+	Marzo de 2001.
+ 10.   FECHA DE LA APROBACIÓN/REVISIÓN DE LA FICHA TÉCNICA
+ Diciembre de 2003.
+
+	 
+      TAMOXIFENO CINFA 20MG 30 COMPRIMIDOS EFG
+         Prospectos de medicamentos.

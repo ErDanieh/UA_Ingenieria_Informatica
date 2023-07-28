@@ -1,0 +1,899 @@
+EBIXA 10MG/G 50 GOTAS ORALES EN SOLUCION
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Ebixa 10 mg comprimidos recubiertos con película.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 10 mg de clorhidrato de memantina (que equivalen
+a 8,31 mg de memantina).
+ Excipiente: Cada comprimido recubierto con película contiene 166 mg de lactosa, ver sección 4.4.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimidos recubiertos con película.
+Los comprimidos recubiertos con película tienen un color de blanco a blanquecino y son alargados,
+fusiformes y biconvexos con una única línea de rotura en ambos lados.
+El comprimido se puede dividir en mitades iguales.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento de pacientes con enfermedad de Alzheimer de moderada a grave.
+ 4.2   Posología y forma de administración
+ El tratamiento debe ser iniciado y supervisado por un médico con experiencia en el diagnóstico y
+tratamiento de la demencia de Alzheimer. El tratamiento se debe iniciar únicamente si se dispone de
+un cuidador que monitorice regularmente la toma del fármaco por parte del paciente. Se debe realizar
+el diagnóstico siguiendo las directrices actuales.
+ Ebixa debe administrarse una vez al día, siempre a la misma hora. Los comprimidos recubiertos con
+película pueden tomarse con o sin alimentos.
+ Adultos:
+ Escalado de dosis
+ La dosis máxima diaria es de 20 mg al día. Para reducir el riesgo de sufrir efectos adversos s, la dosis de
+mantenimiento se alcanza incrementando la dosis 5 mg cada semana durante las primeras 3 semanas de
+la siguiente manera:
+ Semana 1 (día 1-7):
+El paciente debe tomar la mitad de un comprimido recubierto con película de 10 mg (5mg) al día durante
+7 días.
+ Semana 2 (día 8-14):
+El paciente debe tomar un comprimido recubierto con película de 10 mg (10 mg) al día durante 7 días.
+ Semana 3 (día 15-21):
+                                                      2
+El paciente debe tomar un comprimido recubierto con película de 10 mg y medio (15 mg) al día durante
+7 días.
+ A partir de la semana 4:
+El paciente debe tomar dos comprimidos recubiertos con película de 10 mg (20 mg) al día.
+ Dosis de mantenimiento
+ La dosis recomendada de mantenimiento es de 20 mg al día.
+ Ancianos: Basándose en estudios clínicos, la dosis recomendada para los pacientes mayores de
+65 años es de 20 mg al día (dos comprimidos administrados una vez al día), tal como se ha descrito
+anteriormente.
+ Niños y adolescentes: No se recomienda el uso de Ebixa en niños menores de 18 años debido a una
+falta de datos de seguridad y eficacia.
+ Insuficiencia renal: En pacientes con función renal levemente afectada (aclaramiento de creatinina de
+50 - 80 ml/min), no es necesario ajustar la dosis. En pacientes con insuficiencia renal moderada
+(aclaramiento de creatinina 30 - 49 ml/min), la dosis diaria debe ser de 10 mg al día. Si se tolera bien
+después de, al menos 7 días de tratamiento, la dosis podría aumentarse hasta 20 mg/día de acuerdo con
+el esquema de titulación estándar. En pacientes con insuficiencia renal grave (aclaramiento de
+creatinina de 5-29 ml/min.) la dosis diaria debe ser de 10 mg al día.
+ Insuficiencia hepática: En pacientes con insuficiencia hepática leve o moderada (Child-Pugh A y
+Child-Pugh B) no es necesario ajustar la dosis. No existen datos disponibles sobre el uso de
+memantina en pacientes con insuficiencia hepática grave. No se recomienda la administración de
+Ebixa a pacientes con insuficiencia hepática grave.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se recomienda precaución en el tratamiento de pacientes con epilepsia, antecedentes de crisis
+convulsivas o en pacientes con factores de riesgo para padecer epilepsia.
+ Se debe evitar la administración concomitante de antagonistas del N-metil-D-aspartato (NMDA) como
+la amantadina, la ketamina y el dextrometorfano. Estos compuestos actúan sobre el mismo sistema
+receptor que memantina y, por lo tanto, las reacciones adversas (principalmente relacionadas con el
+sistema nervioso central [SNC]) pueden ser más frecuentes o más intensas (ver apartado 4.5).
+ Todos aquellos factores que aumenten el pH urinario (ver apartado 5.2 ""Eliminación"") pueden requerir
+una monitorización rigurosa del paciente. Entre estos factores se incluyen cambios drásticos en la
+dieta, por ejemplo de carnívora a vegetariana, o una ingesta masiva de tampones gástricos
+alcalinizantes. Asimismo, el pH urinario puede estar elevado en estados de acidosis tubular renal
+(ATR) o infecciones graves del tracto urinario por bacterias del género Proteus.
+ En la mayoría de los ensayos clínicos, se excluyeron aquellos pacientes con antecedentes de infarto de
+miocardio reciente, enfermedad cardíaca congestiva (NYHA III-IV) o hipertensión no controlada.
+Como consecuencia, los datos en estos pacientes son limitados y los pacientes que presentan estas
+condiciones deben supervisarse cuidadosamente.
+ Excipientes: Los comprimidos contienen lactosa monohidrato.
+Los pacientes con problemas hereditarios poco frecuentes de intolerancia a galactosa, deficiencia de
+Lapp lactasa o malabsorción de glucosa-galactosa no deben tomar este medicamento.
+                                                     3
+4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Debido a los efectos farmacológicos y al mecanismo de acción de la memantina, pueden producirse las
+siguientes interacciones:
+ ·     El mecanismo de acción sugiere que los efectos de la L-dopa, los agonistas dopaminérgicos y
+los anticolinérgicos pueden aumentar con el tratamiento concomitante de antagonistas del
+NMDA como memantina. Se pueden reducir los efectos de los barbitúricos y de los
+neurolépticos. La administración concomitante de memantina y agentes antiespasmódicos,
+como el dantroleno o el baclofeno, puede modificar sus efectos y hacer necesario un ajuste de la
+dosis.
+·     Se debe evitar el uso concomitante de memantina y amantadina, por el riesgo de psicosis
+farmacotóxica. Los dos compuestos están químicamente relacionados con los antagonistas del
+NMDA. Esto mismo podría aplicarse para la ketamina y el dextrometorfano (ver apartado 4.4).
+También hay un caso clínico publicado sobre el posible riesgo de la combinación de memantina
+y fenitoína.
+·     Otros principios activos, como cimetidina, ranitidina, procainamida, quinidina, quinina y
+nicotina, que utilizan el mismo sistema de transporte catiónico renal que la amantadina,
+posiblemente también interaccionen con la memantina lo que conlleva un riesgo potencial de
+aumento de los niveles plasmáticos.
+·     Cuando se co-administra memantina junto con hidroclorotiazida (HCT) o con cualquier
+combinación con HCT existe la posibilidad de que se produzca una disminución en los niveles
+séricos de la HCT.
+·     En la experiencia post-comercialización, se ha informado de casos aislados de incremento del
+cociente internacional normalizado (INR), en pacientes tratados concomitantemente con
+warfarina. Aunque no se ha establecido relación causal, es aconsejable realizar una
+monitorización estrecha del tiempo de protrombina o INR, en pacientes tratados
+concomitantemente con anticoagulantes orales.
+ En estudios farmacocinéticos (FC) a dosis únicas realizados en sujetos jóvenes sanos, no se han
+observado interacciones relevantes principio activo-principio activo entre memantina y
+gliburida/metformina o donepezilo.
+ En un ensayo clínico realizado en sujetos jóvenes sanos, no se han observado efectos relevantes de
+memantina sobre la farmacocinética de la galantamina.
+ Memantina no inhibió las isoformas CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, la flavina monooxigenasa, la
+epóxido hidrolasa o la sulfonación in vitro.
+ 4.6   Embarazo y lactancia
+ No se dispone de datos clínicos sobre la utilización de memantina durante el embarazo. Estudios con
+animales indican un riesgo potencial de disminución del crecimiento intrauterino con niveles de
+exposición idénticos o ligeramente más altos que los niveles de exposición en humanos (ver apartado
+5.3). No se conoce el riesgo potencial para humanos. Memantina no debe utilizarse durante el
+embarazo excepto que sea considerado claramente necesario.
+ Se desconoce si memantina se excreta por la leche materna pero, teniendo en cuenta la lipofilia del
+principio activo, es probable que así sea. Las mujeres que tomen memantina deben suspender la
+lactancia materna.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La enfermedad de Alzheimer de moderada a grave afecta normalmente la capacidad de conducción y
+compromete la capacidad para utilizar máquinas. Además, Ebixa presenta una influencia de leve a
+                                                    4
+moderada sobre la capacidad de para conducir y de utilizar máquinas, de forma que se debe advertir
+especialmente a los pacientes ambulatorios para que tomen precauciones especiales.
+ 4.8      Reacciones adversas
+ En los ensayos clínicos en pacientes con demencia de leve a grave, en los que se incluyeron 1784
+pacientes tratados con Ebixa y 1595 pacientes tratados con placebo, la incidencia global de reacciones
+adversas con Ebixa no difirió de la de aquellos tratados con placebo; las reacciones adversas fueron,
+por lo general de leves a moderadas en gravedad. Las reacciones adversas con mayor frecuencia de
+aparición que se observaron con una incidencia superior en el grupo de Ebixa respecto al grupo
+placebo fueron vértigo (6,3% frente a 5,6%, respectivamente), dolor de cabeza (5,2% frente a 3,9%),
+estreñimiento (4,6% frente a 2,6%), somnolencia (3,4% frente a 2,2%) e hipertensión (4,1% frente a
+2,8%).
+ Las reacciones adversas enumeradas en la siguiente tabla proceden de los ensayos clínicos realizados
+con Ebixa y la experiencia postcomercialización. Las reacciones adversas se enumeran en orden
+decreciente de gravedad dentro de cada intervalo de frecuencia.
+ Las reacciones adversas se categorizan conforme al sistema de clasificación por órganos, usando el
+siguiente convenio: muy frecuentes ( 1/10), frecuentes (de 1/100 a < 1/10), poco frecuentes (de
+1/1.000 a < 1/100), raras (de 1/10.000 a < 1/1.000), muy raras (< 1/10.000), frecuencia no conocida
+(no puede estimarse a partir de los datos disponibles).
+ Trastornos del sistema nervioso                  Frecuentes                 Vértigo
+Trastornos gastrointestinales                    Frecuentes                 Estreñimiento
+Infecciones e infestaciones                      Poco frecuentes            Infecciones fúngicas
+Trastornos vasculares                            Frecuentes                 Hipertensión
+Trastornos generales y alteraciones en
+el lugar de administración                       Frecuentes                  Dolor de cabeza
+Trastornos psiquiátricos                         Frecuentes                  Somnolencia
+1
+Las alucinaciones se han observado principalmente en pacientes con enfermedad de Alzheimer grave.
+2
+Se han notificado casos aislados en la experiencia post-comercialización.
+ La enfermedad de Alzheimer ha sido asociada con depresión, ideación suicida y suicidio. En la
+experiencia post-comercialización, se ha notificado la aparición de éstos acontecimientos en pacientes
+tratados con Ebixa.
+ 4.9      Sobredosis
+ Solo se dispone de experiencia limitada en casos de sobredosis de los ensayos clínicos y de la
+experiencia post-comercialización.
+                                                    5
+Síntomas: Sobredosis relativamente altas (200 mg y 105 mg/día durante 3 días respectivamente) se han
+asociado únicamente con síntomas como cansancio, debilidad y/o diarrea o han sido asintomáticas. En
+casos de sobredosis por debajo de 140 mg o dosis no conocida aparecieron en los pacientes síntomas a
+nivel del sistema nervioso central (confusión, adormecimiento, somnolencia, vértigo, agitación,
+agresividad, alucinaciones y alteraciones de la marcha) y/o de origen gastrointestinal (vómitos y
+diarreas).
+ En el caso más extremo de sobredosis, el paciente sobrevivió a la ingesta oral de un total de 2000 mg
+de memantina con efectos a nivel del sistema nervioso central (coma durante 10 días, y posterior
+diplopía y agitación). El paciente recibió tratamiento sintomático y plasmaféresis, recuperándose sin
+secuelas permanentes.
+ En otro caso de sobredosis grave, el paciente también sobrevivió y se recuperó. Dicho paciente había
+recibido 400 mg de memantina por vía oral, y experimentó síntomas a nivel del sistema nervioso
+central tales como inquietud, psicosis, alucinaciones visuales, proconvulsividad, somnolencia, estupor
+e inconsciencia.
+ Tratamiento: En caso de sobredosis, el tratamiento debe ser sintomático. No existe antídoto específico
+para la intoxicación o sobredosis. Se deben utilizar procedimientos clínicos estándar para la
+eliminación del principio activo de forma apropiada, por ej.: lavado gástrico, carbón activado
+(interrupción de la recirculación enterohepática potencial), acidificación de la orina, diuresis forzada.
+ En caso de aparición de signos y síntomas de sobrestimulación general del sistema nervioso central
+(SNC), se debe considerar llevar a cabo un tratamiento clínico sintomático cuidadoso.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Otros fármacos anti-demencia, código ATC: N06DX01.
+ Existe una evidencia cada vez más clara de que el mal funcionamiento de la neurotransmisión
+glutamatérgica, en particular en los receptores NMDA, contribuye tanto a la expresión de los síntomas
+como a la progresión de la enfermedad hacia demencia neurodegenerativa.
+ Memantina es un antagonista no competitivo de los receptores NMDA, de afinidad moderada y voltaje
+dependiente. Modula los efectos de los niveles tónicos de glutamato elevados patológicamente que
+pueden ocasionar disfunción neuronal.
+ Ensayos clínicos
+Un ensayo pivotal de monoterapia en pacientes que padecían enfermedad de Alzheimer de moderada a
+grave (puntuación total en el miniexamen cognoscitivo (MMSE, mini mental state examination) al
+inicio del estudio 3 - 14) incluyó un total de 252 pacientes. El estudio mostró los efectos beneficiosos
+del tratamiento con memantina respecto al tratamiento con placebo después de 6 meses (análisis de
+casos observados para el estudio CIBIC-plus (siglas en inglés que corresponden a la escala de
+impresión de cambio basada en la entrevista del médico, mas los comentarios del cuidador): p=0,025;
+ADCS-ADLsev (siglas en inglés que corresponden al estudio cooperativo de la enfermedad de
+Alzheimer ­ actividades de la vida diaria): p=0,003; SIB (siglas en inglés que corresponden a la
+batería de deterioro grave): p=0,002).
+ Un estudio pivotal de memantina en monoterapia en el tratamiento de la enfermedad de Alzheimer de
+leve a moderada (puntuación total MMSE al inicio del estudio de 10 a 22) incluyó a 403 pacientes.
+Los pacientes tratados con memantina mostraron un efecto superior a placebo estadísticamente
+significativo, en las variables principales: ADAS-cog (siglas en inglés que corresponden a la escala de
+valoración de la enfermedad de Alzheimer-subescala cognitiva) (p=0,003) y CIBIC-plus (p=0,004) en
+la semana 24 LOCF (siglas en inglés que corresponden al método de arrastre de la última observación
+                                                    6
+realizada). En otro ensayo de monoterapia en enfermedad de Alzheimer de leve a moderada se
+aleatorizaron un total de 470 pacientes (puntuación total MMSE al inicio del estudio de 11 ­ 23). En el
+análisis primario definido prospectivamente no se encontró diferencia estadísiticamente significativa
+en las variables primarias de eficacia en la semana 24.
+ Un meta-análisis de los pacientes con enfermedad de Alzheimer de moderada a grave (puntuación
+total MMSE < 20) de seis estudios en fase III, controlados con placebo en estudios a 6 meses
+(incluyendo estudios de monoterapia y estudios con pacientes con una dosis estable de un inhibidor de
+la acetilcolinesterasa), mostró que había un efecto estadísticamente significativo a favor del
+tratamiento con memantina en las áreas cognitiva, global y funcional. Cuando los pacientes fueron
+identificados con un empeoramiento conjunto en las tres áreas, los resultados mostraron un efecto
+estadísticamente significativo de memantina en la prevención del empeoramiento, el doble de los
+pacientes tratados con placebo en comparación con los pacientes tratados con memantina mostraron
+empeoramiento en las tres áreas (21% frente 11%, p<0,0001).
+ 5.2   Propiedades farmacocinéticas
+ Absorción: Memantina tiene una biodisponibilidad absoluta de aproximadamente el 100%. La tmáx está
+entre 3 y 8 horas. No hay indicios de la influencia de alimentos en la absorción de memantina.
+ Distribución: Las dosis diarias de 20 mg producen concentraciones plasmáticas constantes de
+memantina que oscilan entre 70 y 150 ng/ml (0,5 - 1 µmol) con importantes variaciones
+interindividuales. Cuando se administraron dosis diarias de 5 a 30 mg, se obtuvo un índice medio de
+líquido cefalorraquídeo (LCR)/suero de 0,52. El volumen de distribución es de aproximadamente 10
+l/kg. Alrededor del 45% de memantina se une a proteínas plasmáticas.
+ Biotransformación: En el hombre, aproximadamente el 80% del material circulante relacionado con
+memantina está presente como compuesto inalterado. Los principales metabolitos en humanos son N-
+3,5-dimetil-gludantano, la mezcla isomérica de 4- y 6-hidroxi-memantina y 1-nitroso-3,5-dimetil-
+adamantano. Ninguno de estos metabolitos muestra actividad antagonista NMDA. No se ha detectado
+in vitro metabolismo catalizado por citocromo P 450.
+ En un estudio con 14C-memantina administrado vía oral, se recuperó una media del 84% de la dosis
+dentro de los 20 días, excretándose más del 99% por vía renal.
+ Eliminación: Memantina se elimina de manera monoexponencial con una t½ terminal de 60 a
+100 horas. En voluntarios con función renal normal, el aclaramiento total (Cltot) asciende a
+170 ml/min/1,73 m2 y parte del aclaramiento total renal se logra por secreción tubular.
+ La función renal también incluye la reabsorción tubular, probablemente mediada por proteínas
+transportadoras de cationes. La tasa de eliminación renal de la memantina en condiciones de orina
+alcalina puede reducirse en un factor entre 7 y 9 (ver apartado 4.4). La alcalinización de la orina se
+puede producir por cambios drásticos en la dieta, por ejemplo de carnívora a vegetariana, o por una
+ingesta masiva de tampones gástricos alcalinizantes.
+ Linealidad: Los estudios en voluntarios han demostrado una farmacocinética lineal en el intervalo de
+dosis de 10 a 40 mg.
+ Relación farmacocinética/farmacodinámica: A una dosis de memantina de 20mg al día los niveles en
+LCR concuerdan con el valor ki (ki=constante de inhibición) de memantina, que es de 0,5µmol en la
+corteza frontal humana.
+ 5.3   Datos preclínicos sobre seguridad
+ En estudios a corto plazo en ratas, memantina al igual que otros antagonistas del NMDA, indujo
+vacuolización neuronal y necrosis (lesiones de Olney) únicamente tras dosis que producían picos muy
+altos de concentraciones séricas. La ataxia y otros signos preclínicos precedieron a la vacuolización y
+                                                    7
+a la necrosis. Como estos efectos no se observaron en roedores ni en no roedores en estudios a largo
+plazo, se desconoce la importancia clínica de estos hallazgos.
+ Se observaron cambios oculares en estudios de toxicidad de dosis repetidas en roedores y perros, pero
+no en monos. Los exámenes específicos oftalmoscópicos realizados en estudios clínicos con
+memantina no revelaron cambios oculares.
+ En roedores se observó fosfolipidosis en macrófagos pulmonares producido por la acumulación de
+memantina en lisosomas. Este efecto se ha observado en otros principios activos con propiedades
+anfifílicas catiónicas. Existe una posible relación entre esta acumulación y la vacuolización observada
+en los pulmones. Este efecto se observó solamente en roedores a dosis altas. Se desconoce la
+importancia clínica de estos hallazgos.
+ No se observó genotoxicidad en los ensayos estándar realizados con memantina. No hubo evidencias
+de carcinogenicidad en los estudios en ratones y ratas hasta su muerte. Memantina no resultó
+teratogénica ni en ratas ni en conejos, incluso a dosis tóxicas para la madre y no se observó ningún
+efecto adverso de memantina sobre la fertilidad. En ratas, se observó una reducción del crecimiento
+fetal a niveles de exposición idénticos o ligeramente más altos que los niveles de exposición humana.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo del comprimido:
+Lactosa monohidrato
+Celulosa microcristalina
+Sílice coloidal anhidra
+Talco
+Estearato de magnesio
+ Cubierta del comprimido:
+Copolímero de ácido metacrílico y acrilato de etilo (1:1)
+Laurilsulfato de sodio
+Polisorbato 80
+Talco
+Triacetín
+Simeticona
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 4 años.
+ 6.4   Precauciones especiales de conservación
+ No requiere condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del envase
+ Los envases de blisters contienen 7, 10, 14 ó 20 comprimidos por cada tira de blister. Los envases se
+presentan en tamaños de 14, 28, 30, 42, 49 x 1, 50, 56, 56 x 1,70, 84, 94, 98 x 1, 100, 100 x 1, 112,
+980 (10 x 98) ó 1000 (20 x 50) comprimidos. Los envases de 49 x 1, 56 x 1, 98 x 1 y 100 x 1
+comprimidos recubiertos con película se presentan en blisters monodosis.
+                                                    8
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	H. Lundbeck A/S
+Ottiliavej 9,
+DK-2500 Valby
+Dinamarca
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/02/219/001-3
+EU/1/02/219/007-012
+EU/1/02/219/014-021
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 15/05/2002
+Fecha de la última renovación: 15/05/2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ Para obtener más información sobre este producto, se puede consultar la página web de la Agencia
+Europea del Medicamento (EMEA) http://www.emea.europa.eu
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Ebixa 10 mg/g gotas orales en solución.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	1 g de solución contiene 10 mg de clorhidrato de memantina (que equivalen a 8,31 mg de memantina).
+Una gota de solución equivale a 0,5 mg de clorhidrato de memantina.
+ Excipientes: 1 g de solución contiene 100 mg de sorbitol E420 y 0,5 mg de potasio, ver sección 4.4.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Gotas orales en solución.
+La solución es transparente y de incolora a ligeramente amarillenta.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento de pacientes con enfermedad de Alzheimer de moderada a grave.
+ 4.2   Posología y forma de administración
+ El tratamiento debe ser iniciado y supervisado por un médico con experiencia en el diagnóstico y
+tratamiento de la demencia de Alzheimer. El tratamiento se debe iniciar únicamente si se dispone de
+un cuidador que monitorice regularmente la toma del fármaco por parte del paciente. Se debe realizar
+el diagnóstico siguiendo las directrices actuales.
+ Ebixa debe administrarse una vez al día, siempre a la misma hora. Las gotas pueden tomarse con o sin
+alimentos.
+ Adultos:
+ Ajuste de la dosis
+ La dosis máxima diaria es de 20 mg al día. Para reducir el riesgo de sufrir efectos indeseados, la dosis de
+mantenimiento se alcanza incrementando la dosis 5 mg cada semana durante las primeras 3 semanas de
+la siguiente manera:
+ Semana 1 (día 1-7):
+El paciente debe tomar 10 gotas (5mg) al día durante 7 días.
+ Semana 2 (día 8-14):
+El paciente debe tomar 20 gotas (10 mg) al día durante 7 días.
+ Semana 3 (día 15-21):
+ El paciente debe tomar 30 gotas (15 mg) al día durante 7 días.
+ A partir de la semana 4:
+El paciente debe tomar 40 gotas (20 mg) al día administradas de una sola vez.
+ Dosis de mantenimiento
+ La dosis recomendada de mantenimiento es de 20 mg al día.
+ Ancianos: Basándose en estudios clínicos, la dosis recomendada para los pacientes mayores de
+65 años es de 20 mg al día (40 gotas una vez al día), tal como se ha descrito anteriormente.
+ Niños y adolescentes: No se recomienda el uso de Ebixa en niños menores de 18 años debido a una
+falta de datos de seguridad y eficacia..
+ Insuficiencia renal: En pacientes con función renal levemente afectada (aclaramiento de creatinina 50
+- 80 ml/min.), no es necesario ajustar la dosis. En pacientes con insuficiencia renal moderada
+(aclaramiento de creatinina 30 - 49 ml/min), la dosis diaria debe ser de 10 mg al día. Si se tolera bien
+después de, al menos 7 días de tratamiento, la dosis podría aumentarse hasta 20 mg/día de acuerdo con
+el esquema de titulación estándar. En pacientes con insuficiencia renal grave (aclaramiento de
+creatinina de 5-29 ml/min.) la dosis diaria debe ser de 10 mg al día.
+ Insuficiencia hepática: En pacientes con insuficiencia hepática leve o moderada (Child-Pugh A y
+Child-Pugh B) no es necesario ajustar la dosis. No existen datos disponibles sobre el uso de
+memantina en pacientes con insuficiencia hepática grave. No se recomienda la administración de
+Ebixa a pacientes con insuficiencia hepática grave.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se recomienda precaución en el tratamiento de pacientes con epilepsia, antecedentes de crisis
+convulsivas o en pacientes con factores de riesgo para padecer epilepsia.
+ Se debe evitar la administración concomitante de otros antagonistas del N-metil-D-aspartato (NMDA)
+como la amantadina, la ketamina y el dextrometorfano. Estos compuestos actúan sobre el mismo
+sistema receptor que memantina y, por lo tanto, las reacciones adversas (principalmente relacionadas
+con el Sistema Nervioso Central [SNC]) pueden ser más frecuentes o más intensas (ver apartado 4.5).
+ Todos aquellos factores que aumenten el pH urinario (ver apartado 5.2 ""Eliminación"") pueden requerir
+una monitorización rigurosa del paciente. Entre estos factores se incluyen cambios drásticos en la
+dieta, por ejemplo de carnívora a vegetariana, o una ingesta masiva de tampones gástricos
+alcalinizantes. Asimismo, el pH urinario puede estar elevado en estados de acidosis tubular renal
+(ATR) o infecciones graves del tracto urinario por bacterias del género Proteus.
+ En la mayoría de los ensayos clínicos, se excluyeron aquellos pacientes con antecedentes de infarto de
+miocardio reciente, enfermedad cardíaca congestiva (NYHA III-IV) o hipertensión no controlada.
+Como consecuencia, los datos en estos pacientes son limitados y los pacientes que presentan estas
+condiciones deben supervisarse cuidadosamente.
+ Excipientes: Las gotas orales contienen sorbitol.
+Los pacientes con intolerancia hereditaria a la fructosa, no deben tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Debido a los efectos farmacológicos y al mecanismo de acción de memantina, pueden producirse las
+siguientes interacciones:
+ ·     El mecanismo de acción sugiere que los efectos de la L-dopa, los agonistas dopaminérgicos y
+los anticolinérgicos pueden aumentar con el tratamiento concomitante de antagonistas del
+NMDA como memantina. Se pueden reducir los efectos de los barbitúricos y de los
+neurolépticos. La administración concomitante de memantina y agentes antiespasmódicos,
+como el dantroleno o el baclofeno, puede modificar sus efectos y hacer necesario un ajuste de la
+dosis.
+·     Se debe evitar el uso concomitante de memantina y amantadina, por el riesgo de psicosis
+farmacotóxica. Los dos compuestos están químicamente relacionados con los antagonistas del
+NMDA. Esto mismo podría aplicarse para la ketamina y el dextrometorfano (ver apartado 4.4).
+También hay un caso clínico publicado sobre el posible riesgo de la combinación de memantina
+y fenitoína.
+·     Otros principios activos, como cimetidina, ranitidina, procainamida, quinidina, quinina y
+nicotina, que utilizan el mismo sistema de transporte catiónico renal que la amantadina,
+posiblemente también interaccionen con la memantina lo que conlleva un riesgo potencial de
+aumento de los niveles plasmáticos.
+·     Cuando se co-administra memantina junto con hidroclorotiazida (HCT) o con cualquier
+combinación con HCT existe la posibilidad de que se produzca una disminución en los niveles
+séricos de la HCT.
+En la experiencia post-comercialización, se ha informado de casos aislados de incremento del
+cociente internacional normalizado (INR), en pacientes tratados concomitantemente con
+warfarina. Aunque no se ha establecido relación causal, es aconsejable realizar una
+monitorización estrecha del tiempo de protrombina o INR, en pacientes tratados
+concomitantemente con anticoagulantes orales.
+ En estudios farmacocinéticos (FC) a dosis únicas realizados en sujetos jóvenes sanos, no se han
+observado interacciones relevantes fármaco-fármaco entre memantina y gliburida/metformina o y
+donepezilo.
+ En un ensayo clínico realizado en sujetos jóvenes sanos, no se han observado efectos relevantes de
+memantina sobre la farmacocinética de la galantamina.
+ Memantina no inhibió las isoformas CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, la flavina monooxigenasa, la
+epóxido hidrolasa o la sulfonación in vitro.
+ 4.6   Embarazo y lactancia
+ No se dispone de datos clínicos sobre la utilización de memantina durante el embarazo. Estudios con
+animales indican un riesgo potencial de disminución del crecimiento intrauterino a niveles de
+exposición idénticos o ligeramente más altos que los niveles de exposición en humanos (ver apartado
+5.3). No se conoce el riesgo potencial para humanos. Memantina no debe utilizarse durante el
+embarazo excepto que sea considerado claramente necesario.
+ Se desconoce si memantina se excreta por la leche materna pero, teniendo en cuenta la lipofilia del
+principio activo, es probable que así sea. Las mujeres que tomen memantina deben suspender la
+lactancia materna.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La enfermedad de Alzheimer de moderada a grave afecta normalmente la capacidad de conducción y
+compromete la capacidad para utilizar máquinas. Además, Ebixa presenta una influencia de leve a
+moderada en la capacidad de conducción y utilización de máquinas de forma que se debe advertir a los
+pacientes ambulatorios para que tomen precauciones especiales.
+ 4.8      Reacciones adversas
+ En los ensayos clínicos en pacientes con demencia de leve a grave en los que se incluyeron 1784
+pacientes tratados con Ebixa y 1595 pacientes tratados con placebo, la incidencia global de reacciones
+adversas con Ebixa no difirió de la de aquellos tratados con placebo; las reacciones adversas fueron
+por lo general de leves a moderadas en gravedad. Las reacciones adversas con mayor frecuencia de
+aparición que se observaron con una incidencia superior en el grupo de Ebixa respecto al grupo
+placebo fueron vértigo (6,3% frente a 5,6%, respectivamente), dolor de cabeza (5,2% frente a 3,9%),
+estreñimiento (4,6% frente a 2,6%), somnolencia (3,4% frente a 2,2%) e hipertensión (4,1% frente a
+2,8%).
+ Las reacciones adversas al medicamento (RAM) enumeradas en la siguiente tabla proceden de los
+ensayos clínicos realizados con Ebixa y la experiencia postcomercialización. Las reacciones adversas
+se enumeran en orden decreciente de gravedad dentro de cada intervalo de frecuencia.
+ Las reacciones adversas se categorizan conforme al sistema de clasificación por órganos, usando el
+siguiente convenio: muy frecuentes (1/10), frecuentes (1/100 a <1/10), poco frecuentes (1/1.000 a
+<1/100), raras (1/10.000 a <1/1.000), muy raras (<1/10.000), frecuencia no conocida (no puede
+estimarse a partir de los datos disponibles).
+ Trastornos del sistema nervioso                  Frecuentes                 Vértigo
+Trastornos gastrointestinales                    Frecuentes                 Estreñimiento
+Infecciones e infestaciones                      Poco frecuentes            Infecciones fúngicas
+Trastornos vasculares                            Frecuentes                 Hipertensión
+Trastornos generales y alteraciones en
+el lugar de administración                       Frecuentes                  Dolor de cabeza
+Trastornos psiquiátricos                         Frecuentes                  Somnolencia
+1
+Las alucinaciones se han observado principalmente en pacientes con enfermedad de Alzheimer grave.
+2
+Se han notificado casos aislados en la experiencia post-comercialización.
+ La enfermedad de Alzheimer ha sido asociada con depresión, ideación suicida y suicidio. En la
+experiencia post-comercialización, se ha notificado la aparición de éstos acontecimientos en pacientes
+tratados con Ebixa.
+ 4.9      Sobredosis
+ Solo se dispone de experiencia limitada en casos de sobredosis de los ensayos clínicos y de la
+experiencia post-comercialización.
+ Síntomas: Sobredosis relativamente altas (200 mg y 105 mg/día durante 3 días respectivamente) se
+han asociado únicamente con síntomas como cansancio, debilidad y/o diarrea o han sido
+asintomáticas. En casos de sobredosis por debajo de 140 mg o dosis no conocida aparecieron en los
+pacientes síntomas a nivel del sistema nervioso central (confusión, adormecimiento, somnolencia,
+vértigo, agitación, agresividad, alucinaciones y alteraciones de la marcha) y/o de origen
+gastrointestinal (vómitos y diarrea).
+                                                    13
+En el caso más extremo de sobredosis, el paciente sobrevivió a la ingesta oral de un total de 2000 mg
+de memantina con efectos a nivel del sistema nervioso central (coma durante 10 días, y posterior
+diplopía y agitación). El paciente recibió tratamiento sintomático y plasmaféresis, recuperándose sin
+secuelas permanentes.
+ En otro caso de sobredosis grave, el paciente también sobrevivió y se recuperó. Dicho paciente había
+recibido 400 mg de memantina por vía oral, y experimentó síntomas a nivel del sistema nervioso
+central tales como inquietud, psicosis, alucinaciones visuales, proconvulsividad, somnolencia, estupor
+e inconsciencia.
+ Tratamiento: En caso de sobredosis, el tratamiento debe ser sintomático. No existe antídoto específico
+para la intoxicación o sobredosis. Se deben utilizar procedimientos estándar clínicos para la extracción
+del principio activo de forma apropiada, por Ej.: lavado gástrico, carbón activado (interrupción de la
+recirculación enterohepática potencial), acidificación de la orina, diuresis forzada.
+ En caso de aparición de signos y síntomas de sobrestimulación general del sistema nervioso central
+(SNC), se debe considerar llevar a cabo un tratamiento clínico sintomático cuidadoso.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Otros fármacos anti-demencia, código ATC: N06DX01.
+ Existe una evidencia cada vez más clara de que el mal funcionamiento de la neurotransmisión
+glutamatérgica, en particular en los receptores NMDA, contribuye tanto a la expresión de los síntomas
+como a la progresión de la enfermedad hacia demencia neurodegenerativa.
+ Memantina es un antagonista no competitivo de los receptores NMDA, de afinidad moderada y voltaje
+dependiente. Modula los efectos de los niveles tónicos de glutamato elevados patológicamente que
+pueden ocasionar disfunción neuronal.
+ Ensayos clínicos:
+Un ensayo pivotal de monoterapia en pacientes que padecían enfermedad de Alzheimer de moderada a
+grave (puntuación total en el miniexamen cognoscitivo (MMSE, mini mental state examination) al
+inicio del estudio 3 - 14) incluyó un total de 252 pacientes. El estudio mostró los efectos beneficiosos
+del tratamiento con memantina respecto al tratamiento con placebo después de 6 meses (análisis de
+casos observados para el estudio CIBIC-plus (siglas en inglés que corresponden a la escala de
+impresión de cambio basada en la entrevista del médico, mas los comentarios del cuidador): p=0,025;
+ADCS-ADLsev (siglas en inglés que corresponden al estudio cooperativo de la enfermedad de
+Alzheimer ­ actividades de la vida diaria): p=0,003; SIB (siglas en inglés que corresponden a la
+batería de deterioro grave): p=0,002).
+ Un estudio pivotal de memantina en monoterapia en el tratamiento de la enfermedad de Alzheimer de
+leve a moderada (puntuación total MMSE al inicio del estudio de 10 a 22) incluyó a 403 pacientes.
+Los pacientes tratados con memantina mostraron un efecto superior a placebo estadísticamente
+significativo, en las variables principales: ADAS-cog (siglas en inglés que corresponden a la escala de
+valoración de la enfermedad de Alzheimer-subescala cognitiva) (p=0,003) y CIBIC-plus (p=0,004) en
+la semana 24 LOCF (siglas en inglés que corresponden al método de arrastre de la última observación
+realizada). En otro ensayo de monoterapia en enfermedad de Alzheimer de leve a moderada se
+aleatorizaron un total de 470 pacientes (puntuación total MMSE al inicio del estudio de 11 ­ 23). En el
+análisis primario definido prospectivamente no se encontró diferencia estadísiticamente significativa
+en las variables primarias de eficacia en la semana 24.
+                                                    14
+Un meta-análisis de los pacientes con enfermedad de Alzheimer de moderada a grave (puntuación
+total MMSE < 20) de seis estudios en fase III, controlados con placebo en estudios a 6 meses
+(incluyendo estudios de monoterapia y estudios con pacientes con una dosis estable de un inhibidor de
+la acetilcolinesterasa), mostró que había un efecto estadísticamente significativo a favor del
+tratamiento con memantina en las áreas cognitiva, global y funcional. Cuando los pacientes fueron
+identificados con un empeoramiento conjunto en las tres áreas, los resultados mostraron un efecto
+estadísticamente significativo de memantina en la prevención del empeoramiento, el doble de los
+pacientes tratados con placebo en comparación con los pacientes tratados con memantina mostraron
+empeoramiento en las tres áreas (21% frente 11%, p<0,0001).
+ 5.2   Propiedades farmacocinéticas
+ Absorción: Memantina tiene una biodisponibilidad absoluta de aproximadamente el 100%. La tmáax
+está entre 3 y 8 horas. No hay indicios de la influencia de alimentos en la absorción de memantina.
+ Distribución: Las dosis diarias de 20 mg producen concentraciones plasmáticas constantes de
+memantina que oscilan entre 70 y 150 ng/ml (0,5 - 1 µmol) con importantes variaciones
+interindividuales. Cuando se administraron dosis diarias de 5 a 30 mg, se obtuvo un índice medio de
+líquido cefalorraquídeo (LCR)/suero de 0,52. El volumen de distribución es de aproximadamente
+10 l/kg. Alrededor del 45% de memantina se une a proteínas plasmáticas.
+ Biotransformación: En el hombre, aproximadamente el 80% del material circulante relacionado con
+memantina está presente como compuesto inalterado. Los principales metabolitos en humanos son N-
+3,5-dimetil-gludantano, la mezcla isomérica de 4- y 6-hidroxi-memantina y 1-nitroso-3,5-dimetil-
+adamantano. Ninguno de estos metabolitos muestra actividad antagonista NMDA. No se ha detectado
+in vitro metabolismo catalizado por citocromo P 450.
+ En un estudio con 14C-memantina administrado vía oral, se recuperó una media del 84% de la dosis
+dentro de los 20 días, excretándose más del 99% por vía renal.
+ Eliminación: Memantina se elimina de manera monoexponencial con una t½ terminal de 60 a
+100 horas. En voluntarios con función renal normal, el aclaramiento total (Cltot) asciende a
+170 ml/min/1,73 m2 y parte del aclaramiento total renal se logra por secreción tubular.
+ La función renal también incluye la reabsorción tubular, probablemente mediada por proteínas
+transportadoras de cationes. La tasa de eliminación renal de la memantina en condiciones de orina
+alcalina puede reducirse en un factor entre 7 y 9 (ver apartado 4.4). La alcalinización de la orina se
+puede producir por cambios drásticos en la dieta, por ejemplo de carnívora a vegetariana, o por una
+ingesta masiva de tampones gástricos alcalinizantes.
+ Linealidad: Los estudios en voluntarios han demostrado una farmacocinética lineal en el intervalo de
+dosis de 10 a 40 mg.
+ Relación farmacocinética/farmacodinámica: A una dosis de memantina de 20 mg al día los niveles en
+LCR concuerdan con el valor ki (ki=constante de inhibición) de memantina, que es de 0,5 µmol en la
+corteza frontal humana.
+ 5.3   Datos preclínicos sobre seguridad
+ En estudios a corto plazo en ratas, memantina al igual que otros antagonistas del NMDA indujo
+vacuolización neuronal y necrosis (lesiones de Olney) únicamente tras dosis que producían picos muy
+altos de concentraciones séricas. La ataxia y otros signos preclínicos precedieron a la vacuolización y
+a la necrosis. Como estos efectos no se observaron en roedores ni en no roedores en estudios a largo
+plazo, se desconoce la importancia clínica de estos hallazgos.
+ Se observaron cambios oculares en estudios de toxicidad de dosis repetidas en roedores y perros, pero
+no en monos. Los exámenes específicos oftalmoscópicos realizados en estudios clínicos con
+memantina no revelaron cambios oculares.
+ En roedores se observó fosfolipidosis en macrófagos pulmonares producido por la acumulación de
+memantina en lisosomas. Este efecto se ha observado en otros principios activos con propiedades
+anfifílicas catiónicas. Existe una posible relación entre esta acumulación y la vacuolización observada
+en los pulmones. Este efecto se observó solamente en roedores a dosis altas. Se desconoce la
+importancia clínica de estos hallazgos.
+ No se observó genotoxicidad en los ensayos estándar realizados con memantina. No hubo evidencias
+de carcinogenicidad en los estudios en ratones y ratas hasta su muerte. Memantina no resultó
+teratogénica ni en ratas ni en conejos, incluso a dosis tóxicas para la madre y no se observó ningún
+efecto adverso de memantina sobre la fertilidad. En ratas, se observó una reducción del crecimiento
+fetal a niveles de exposición idénticos o ligeramente más altos que los niveles de exposición humana.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Sorbato potásico
+Sorbitol E420
+Agua purificada
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 4 años.
+Una vez abierto, el contenido del frasco debe ser utilizado en 3 meses.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30°C.
+ 6.5   Naturaleza y contenido del envase
+ Frascos cuentagotas de vidrio de color ámbar (Hidrolítico de Clase III) que contienen 20, 50, 100 g ó
+10 x 50 g de solución.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	H. Lundbeck A/S
+Ottiliavej 9,
+DK-2500 Valby
+Dinamarca
+                                                    16
+8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/02/219/004-06
+EU/1/02/219/013
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 15/05/2002
+Fecha de la última renovación: 15/05/2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ Para obtener más información sobre este producto, se puede consultar la página web de la Agencia
+Europea del Medicamento (EMEA) http://www.emea.europa.eu
+ 
+1.         NOMBRE DEL MEDICAMENTO
+	Ebixa 5 mg comprimidos recubiertos con película.
+Ebixa 10 mg comprimidos recubiertos con película.
+Ebixa 15 mg comprimidos recubiertos con película.
+Ebixa 20 mg comprimidos recubiertos con película.
+ 
+2.         COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 5 mg de clorhidrato de memantina, que equivalen a
+4,15 mg de memantina.
+Cada comprimido recubierto con película contiene 10 mg de clorhidrato de memantina, que equivalen
+a 8,31 mg de memantina.
+Cada comprimido recubierto con película contiene 15 mg de clorhidrato de memantina, que equivalen
+a 12,46 mg de memantina.
+Cada comprimido recubierto con película contiene 20 mg de clorhidrato de memantina, que equivalen
+a 16,62 mg de memantina
+.
+Excipiente: El comprimido recubierto de 10 mg contiene 166 mg de lactosa, ver sección 4.4.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.         FORMA FARMACÉUTICA
+	"Comprimidos recubiertos con película
+Los comprimidos recubiertos con película de 5 mg tienen un color de blanco a blanquecino y son
+alargados y fusiformes con el número ""5"" impreso en una cara y ""MEM"" en la otra.
+Los comprimidos recubiertos con película de 10 mg tienen un color de blanco a blanquecino y
+sonalargados, fusiformes y biconvexos con una única línea de rotura en ambos lados. El comprimido
+se puede dividir en mitades iguales.
+Los comprimidos recubiertos con película de 15 mg tienen un color de naranja pálido a naranja
+grisáceo, son fusiformes y presentan el número ""15"" impreso en una cara y ""MEM"" en la otra.
+Los comprimidos recubiertos con película de 20 mg tienen un color de rojo pálido a rojo grisáceo y
+son fusiformes con el número ""20"" impreso en una cara y ""MEM"" en la otra.
+ "
+4.         DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento de pacientes con enfermedad de Alzheimer de moderada a grave.
+ 4.2   Posología y forma de administración
+ El tratamiento debe ser iniciado y supervisado por un médico con experiencia en el diagnóstico y
+tratamiento de la demencia de Alzheimer. El tratamiento se debe iniciar únicamente si se dispone de
+un cuidador que monitorice regularmente la toma del fármaco por parte del paciente. Se debe realizar
+el diagnóstico siguiendo las directrices actuales.
+ Ebixa debe administrarse una vez al día, siempre a la misma hora. Los comprimidos recubiertos con
+película pueden tomarse con o sin alimentos.
+ Adultos:
+ Ajuste de la dosis
+La dosis recomendada de inicio es de 5 mg al día que se incrementa de forma gradual durante las
+primeras 4 semanas de tratamiento alcanzando la dosis recomendada de mantenimiento de la siguiente
+manera:
+ Semana 1 (día 1-7):
+El paciente debe tomar un comprimido recubierto con película de 5 mg al día (de blanco a
+blanquecino, alargado y fusiforme) durante 7 días.
+ Semana 2 (día 8-14):
+El paciente debe tomar un comprimido recubierto con película de 10 mg al día (de blanco a
+blanquecino, alargado, fusiforme y biconvexo con una única línea de rotura en ambos lados) durante
+7 días.
+ Semana 3 (día 15-21):
+El paciente debe tomar un comprimido recubierto con película de 15 mg al día (de naranja pálido a
+naranja grisáceo,fusiformes) durante 7 días.
+ Semana 4 (día 22-28):
+El paciente debe tomar un comprimido recubierto con película de 20 mg al día (de rojo pálido a rojo
+grisaceo, fusiforme) durante 7 días.
+ La dosis máxima diaria es de 20 mg
+ Dosis de mantenimiento
+ La dosis recomendada de mantenimiento es de 20 mg al día.
+ Ancianos: Basándose en estudios clínicos, la dosis recomendada para los pacientes mayores de 65
+años es de 20 mg al día (20 mg una vez al día), tal como se ha descrito anteriormente.
+ Niños y adolescentes: No se recomienda el uso de Ebixa en niños menores de 18 años debido a una
+falta de datos de seguridad y eficacia.
+ Insuficiencia renal: En pacientes con función renal levemente afectada (aclaramiento de creatinina de
+50 - 80 ml/min), no es necesario ajustar la dosis. En pacientes con insuficiencia renal moderada
+(aclaramiento de creatinina de 30 - 49 ml/min), la dosis diaria debe ser de 10 mg al día. Si se tolera
+bien después de, al menos 7 días de tratamiento, la dosis podría aumentarse hasta 20 mg/día de
+acuerdo con el esquema de titulación estándar. En pacientes con insuficiencia renal grave
+(aclaramiento de creatinina de 5-29 ml/min.) la dosis diaria debe ser de 10 mg al día.
+ Insuficiencia hepática: En pacientes con insuficiencia hepática leve o moderada (Child-Pugh A y
+Child-Pugh B) no es necesario ajustar la dosis. No existen datos disponibles sobre el uso de
+memantina en pacientes con insuficiencia hepática grave. No se recomienda la administración de
+Ebixa a pacientes con insuficiencia hepática grave.
+.
+4.3 Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se recomienda precaución en el tratamiento de pacientes con epilepsia, antecedentes de crisis
+convulsivas o en pacientes con factores de riesgo para padecer epilepsia.
+ Se debe evitar la administración concomitante de antagonistas del N-metil-D-aspartato (NMDA) como
+la amantadina, la ketamina y el dextrometorfano. Estos compuestos actúan sobre el mismo sistema
+receptor que memantina y, por lo tanto, las reacciones adversas (principalmente las relacionadas con el
+sistema nervioso central [SNC] pueden ser más frecuentes o más intensas (ver apartado 4.5).
+ Todos aquellos factores que aumenten el pH urinario (ver apartado 5.2 ""Eliminación"") pueden requerir
+una monitorización rigurosa del paciente. Entre estos factores se incluyen cambios drásticos en la
+dieta, por ejemplo de carnívora a vegetariana, o una ingesta masiva de tampones gástricos
+alcalinizantes. Asimismo, el pH urinario puede estar elevado en estados de acidosis tubular renal
+(ATR) o infecciones graves del tracto urinario por bacterias del género Proteus.
+ En la mayoría de los ensayos clínicos, se excluyeron aquellos pacientes con antecedentes de infarto de
+miocardio reciente, enfermedad cardíaca congestiva (NYHA III-IV) o hipertensión no controlada.
+Como consecuencia, los datos en estos pacientes son limitados y los pacientes que presenten estas
+condiciones deben supervisarse cuidadosamente.
+ Excipientes: Los comprimidos recubiertos con película de 10 mg contienen lactosa monohidrato. Los
+pacientes con problemas hereditarios poco frecuentes de intolerancia a galactosa, deficiencia de Lapp
+lactasa o malabsorción de glucosa-galactosa no deben tomar este medicamento
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+Debido a los efectos farmacológicos y al mecanismo de acción de la memantina, pueden producirse las
+siguientes interacciones:
+ ·     El mecanismo de acción sugiere que los efectos de la L-dopa, los agonistas dopaminérgicos y
+los anticolinérgicos pueden aumentar con el tratamiento concomitante de antagonistas del
+NMDA como memantina. Se pueden reducir los efectos de los barbitúricos y de los
+neurolépticos. La administración concomitante de memantina y agentes antiespasmódicos,
+como el dantroleno o el baclofeno, puede modificar sus efectos y hacer necesario un ajuste de la
+dosis.
+·     Se debe evitar el uso concomitante de memantina y amantadina, por el riesgo de psicosis
+farmacotóxica. Los dos compuestos están químicamente relacionados con los antagonistas del
+NMDA. Esto mismo podría aplicarse para la ketamina y el dextrometorfano (ver apartado 4.4).
+También hay un caso clínico publicado sobre el posible riesgo de la combinación de memantina
+y fenitoína.
+·     Otras susutancias activas, como cimetidina, ranitidina, procainamida, quinidina, quinina y
+nicotina, que utilizan el mismo sistema de transporte catiónico renal que la amantadina,
+posiblemente también interaccionen con la memantina lo que conlleva un riesgo potencial de
+aumento de los niveles plasmáticos.
+·     Cuando se co-administra memantina junto con hidroclorotiazida (HCT) o con cualquier
+combinación con HCT existe la posibilidad de que se produzca una disminución en los niveles
+séricos de la HCT.
+·     En la experiencia post-comercialización, se ha informado de casos aislados de incremento del
+cociente internacional normalizado (INR), en pacientes tratados concomitantemente con
+warfarina. Aunque no se ha establecido relación causal, es aconsejable realizar una
+monitorización estrecha del tiempo de protrombina o INR, en pacientes tratados
+concomitantemente con anticoagulantes orales.
+ En estudios farmacocinéticos (FC) a dosis únicas realizados en sujetos jóvenes sanos, no se han
+observado interacciones relevantes sustancia activa-sustancia activa entre memantina y
+gliburida/metformina o donepezilo.
+ En un ensayo clínico realizado en sujetos jóvenes sanos, no se han observado efectos relevantes de la
+memantina sobre la farmacocinética de la galantamina.
+ Memantina no inhibió las isoformas CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, la flavina monooxigenasa, la
+epóxido hidrolasa o la sulfonación in vitro.
+                                                   20
+4.6   Embarazo y lactancia
+ No se dispone de datos clínicos sobre la utilización de memantina durante el embarazo. Estudios con
+animales indican un riesgo potencial de disminución del crecimiento intrauterino con niveles de
+exposición idénticos o ligeramente más altos que los niveles de exposición en humanos (ver apartado
+5.3). No se conoce el riesgo potencial para humanos. Memantina no debe utilizarse durante el
+embarazo excepto que sea considerado claramente necesario.
+ Se desconoce si memantina se excreta por la leche materna pero, teniendo en cuenta la lipofilia del
+principio activo, es probable que así sea. Las mujeres que tomen memantina deben suspender la
+lactancia materna.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La enfermedad de Alzheimer de moderada a grave afecta normalmente la capacidad de conducción y
+compromete la capacidad para utilizar máquinas. Además, Ebixa presenta una influencia de leve a
+moderada sobre la capacidad de conducción y de utilizar máquinas, de forma que se debe advertir
+especialmente a los pacientes ambulatorios para que tomen las precauciones adecuadas.
+ 4.8   Reacciones adversas
+ En los ensayos clínicos en pacientes con demencia de leve a grave, en los que se incluyeron 1784
+pacientes tratados con Ebixa y 1595 pacientes tratados con placebo, la incidencia global de reacciones
+adversas con Ebixa no difirió de la de aquellos tratados con placebo; las reacciones adversas fueron,
+por lo general, de leves a moderados en gravedad. Las reacciones adversas con mayor frecuencia de
+aparición que se observaron con una incidencia superior en el grupo de Ebixa respecto al grupo
+placebo fueron vértigo (6,3% frente a 5,6%, respectivamente), dolor de cabeza (5,2% frente a 3,9%),
+estreñimiento (4,6% frente a 2,6%), somnolencia (3,4% frente a 2,2%) e hipertensión (4.1% frente a
+2.8%).
+Las reacciones adversas enumeradas en la siguiente tabla proceden de los ensayos clínicos realizados
+con Ebixa y la experiencia postcomercialización., Las reacciones adversas se enumeran en orden
+decreciente de gravedad dentro de cada intervalo de frecuencia.
+Las reacciones adversasse categorizar conforme al sitema de clasificación de órganos usando el
+siguiente convenio: muy frecuentes ( 1/10), frecuentes (de 1/100 a < 1/10), poco frecuentes (de
+1/1.000 a < 1/100), raras (de 1/10.000 a < 1/1.000), muy raras (< 1/10.000), frecuencia no conocida
+(no puede estimarse a partir de los datos disponibles).
+ Trastornos del sistema nervioso                 Frecuentes              Vértigo
+Trastornos gastrointestinales                   Frecuentes              Estreñimiento
+Infecciones e infestaciones                     Poco frecuentes           Infecciones fúngicas
+Trastornos vasculares                           Frecuentes                Hipertensión
+Trastornos generales y alteraciones en el lugar Frecuentes                Dolor de cabeza
+de administración                               Poco frecuentes           Fatiga
+ Trastornos psiquiátricos                          Frecuentes            Somnolencia
+                                                   21
+1
+Las alucinaciones se han observado principalmente en pacientes con enfermedad de Alzheimer grave.
+2
+Se han notificado casos aislados en la experiencia post-comercialización.
+ La enfermedad de Alzheimer ha sido asociada con depresión, ideación suicida y suicidio. En la
+experiencia post-comercialización, se ha notificado la aparición de éstos acontecimientos en pacientes
+tratados con Ebixa.
+ 4.9      Sobredosis
+ Solo se dispone de experiencia limitada en casos de sobredosis de los ensayos clínicos y de la
+experiencia post-comercialización.
+ Síntomas: Sobredosis relativamente altas (200 mg y 105 mg/día durante 3 días respectivamente) se han
+asociado únicamente con síntomas como cansancio, debilidad y/o diarrea. o han sido asintomáticas. En
+casos de sobredosis por debajo de 140 mg o dosis no conocida aparecieron en los pacientes síntomas a
+nivel del sistema nervioso central (confusión, adormecimiento, somnolencia, vértigo, agitación,
+agresividad, alucinaciones y alteraciones de la marcha) y/o de origen gastrointestinal (vómitos y
+diarreas).
+ En el caso más extremo de sobredosis, el paciente sobrevivió a la ingesta oral de un total de 2000 mg
+de memantina con efectos a nivel del sistema nervioso central (coma durante 10 días, y posterior
+diplopía y agitación). El paciente recibió tratamiento sintomático y plasmaféresis, recuperándose sin
+secuelas permanentes.
+ En otro caso de sobredosis grave, el paciente también sobrevivió y se recuperó. Dicho paciente había
+recibido 400 mg de mamantina por vía oral, y experimentó síntomas a nivel del sistema nervioso
+central tales como inquietud, psicosis, alucinaciones visuales, proconvulsividad, somnolencia, estupor
+e inconsciencia.
+ Tratamiento: En caso de sobredosis, el tratamiento debe ser sintomático. No existe antídoto específico
+para la intoxicación o sobredosis. Se deben utilizar procedimientos clínicos estándar para la
+eliminación del principio activo de forma apropiada, por ej.: lavado gástrico, carbón activado
+(interrupción de la recirculación enterohepática potencial), acidificación de la orina, diuresis forzada.
+ En caso de aparición de signos y síntomas de sobrestimulación general del Sistema Nervioso Central
+(SNC), se debe considerar llevar a cabo un tratamiento clínico sintomático cuidadoso.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1      Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Otros fármacos anti-demencia, código ATC: N06DX01.
+ Existe una evidencia cada vez más clara de que el mal funcionamiento de la neurotransmisión
+glutamatérgica, en particular en los receptores NMDA, contribuye tanto a la expresión de los síntomas
+como a la progresión de la enfermedad hacia demencia neurodegenerativa.
+ Memantina es un antagonista no competitivo de los receptores NMDA, de afinidad moderada y voltaje
+dependiente. Modula los efectos de los niveles tónicos de glutamato elevados patológicamente que
+pueden ocasionar disfunción neuronal.
+ Ensayos clínicos:
+Un ensayo pivotal de monoterapia en pacientes que padecían enfermedad de Alzheimer de moderada a
+grave (puntuación total en el miniexamen cognoscitivo (MMSE, mini mental state examination) al
+inicio del estudio 3 - 14) incluyó un total de 252 pacientes. El estudio mostró los efectos beneficiosos
+                                                    22
+del tratamiento con memantina respecto al tratamiento con placebo después de 6 meses (análisis de
+casos observados para el estudio CIBIC-plus (siglas en inglés que corresponden a la escala de
+impresión de cambio basada en la entrevista del médico, más los comentarios del cuidador): p=0,025;
+ADCS-ADLsev (siglas en inglés que corresponden al estudio cooperativo de la enfermedad de
+Alzheimer ­ actividades de la vida diaria): p=0,003; SIB (siglas en inglés que corresponden a la
+batería de deterioro grave): p=0,002).
+ Un estudio pivotal de memantina en monoterapia en el tratamiento de la enfermedad de Alzheimer de
+leve a moderada (puntuación total MMSE al inicio del estudio de 10 a 22) incluyó a 403 pacientes.
+Los pacientes tratados con memantina mostraron un efecto superior a placebo estadísticamente
+significativo, en las variables principales: ADAS-cog (siglas en inglés que corresponden a la escala de
+valoración de la enfermedad de Alzheimer-subescala cognitiva) (p=0,003) y CIBIC-plus (p=0,004) en
+la semana 24 LOCF (siglas en inglés que corresponden al método de arrastre de la última observación
+realizada). En otro ensayo de monoterapia en enfermedad de Alzheimer de leve a moderada se
+aleatorizaron un total de 470 pacientes (puntuación total MMSE al inicio del estudio de 11 ­ 23). En el
+análisis primario definido prospectivamente no se encontró diferencia estadísiticamente significativa
+en las variables primarias de eficacia en la semana 24.
+ Un meta-análisis de los pacientes con enfermedad de Alzheimer de moderada a grave (puntuación
+total MMSE < 20) de seis estudios en fase III, controlados con placebo en estudios a 6 meses
+(incluyendo estudios de monoterapia y estudios con pacientes con una dosis estable de un inhibidor de
+la acetilcolinesterasa), mostró que había un efecto estadísticamente significativo a favor del
+tratamiento con memantina en las áreas cognitiva, global y funcional. Cuando los pacientes fueron
+identificados con un empeoramiento conjunto en las tres áreas, los resultados mostraron un efecto
+estadísticamente significativo de memantina en la prevención del empeoramiento, el doble de los
+pacientes tratados con placebo en comparación con los pacientes tratados con memantina mostraron
+empeoramiento en las tres áreas (21% frente 11%, p<0,0001).
+ 5.2   Propiedades farmacocinéticas
+ Absorción: Memantina tiene una biodisponibilidad absoluta de aproximadamente el 100%. La tmáx está
+entre 3 y 8 horas. No hay indicios de la influencia de alimentos en la absorción de memantina.
+ Distribución: Las dosis diarias de 20 mg producen concentraciones plasmáticas constantes de
+memantina que oscilan entre 70 y 150 ng/ml (0,5 - 1 µmol) con importantes variaciones
+interindividuales. Cuando se administraron dosis diarias de 5 a 30 mg, se obtuvo un índice medio de
+líquido cefalorraquídeo (LCR)/suero de 0,52. El volumen de distribución es de aproximadamente 10
+l/kg. Alrededor del 45% de memantina se une a proteínas plasmáticas.
+ Biotransformación: En el hombre, aproximadamente el 80% del material circulante relacionado con
+memantina está presente como compuesto inalterado. Los principales metabolitos en humanos son N-
+3,5-dimetil-gludantano, la mezcla isomérica de 4- y 6-hidroxi-memantina y 1-nitroso-3,5-dimetil-
+adamantano. Ninguno de estos metabolitos muestra actividad antagonista NMDA. No se ha detectado
+in vitro metabolismo catalizado por citocromo P 450.
+ En un estudio con 14C-memantina administrado vía oral, se recuperó una media del 84% de la dosis
+dentro de los 20 días, excretándose más del 99% por vía renal.
+ Eliminación: Memantina se elimina de manera monoexponencial con una t½ terminal de 60 a
+100 horas. En voluntarios con función renal normal, el aclaramiento total (Cltot) asciende a 170
+ml/min/1,73 m2 y parte del aclaramiento total renal se logra por secreción tubular.
+ La función renal también incluye la reabsorción tubular, probablemente mediada por proteínas
+transportadoras de cationes. La tasa de eliminación renal de la memantina en condiciones de orina
+alcalina puede reducirse en un factor entre 7 y 9 (ver apartado 4.4). La alcalinización de la orina se
+puede producir por cambios drásticos en la dieta, por ejemplo, de carnívora a vegetariana, o por una
+ingesta masiva de tampones gástricos alcalinizantes.
+                                                    23
+Linealidad: Los estudios en voluntarios han demostrado una farmacocinética lineal en el intervalo de
+dosis de 10 a 40 mg.
+ Relación farmacocinética/farmacodinámica: A una dosis de memantina de 20 mg al día los niveles en
+LCR concuerdan con el valor ki (ki = constante de inhibición) de memantina, que es de 0,5 µmol en la
+corteza frontal humana.
+ 5.3   Datos preclínicos sobre seguridad
+ En estudios a corto plazo en ratas, memantina, al igual que otros antagonistas del NMDA, indujo
+vacuolización neuronal y necrosis (lesiones de Olney) únicamente tras dosis que producían picos muy
+altos de concentraciones séricas. La ataxia y otros signos preclínicos precedieron a la vacuolización y
+a la necrosis. Como estos efectos no se observaron en roedores ni en no roedores en estudios a largo
+plazo, se desconoce la importancia clínica de estos hallaz
+ 
+	Prospectos de medicamentos.

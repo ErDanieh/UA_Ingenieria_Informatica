@@ -1,0 +1,739 @@
+XAGRID 0,5MG 1 FRASCO 100 CAPSULAS DURAS
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Xagrid 0,5 mg cápsulas duras
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula contiene 0,5 mg de anagrelida (en forma de 0,61 mg de clorhidrato de anagrelida)
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Cápsulas duras
+Cápsulas duras opacas de color blanco con la inscripción `S 063' impresa
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Xagrid está indicado para la reducción del recuento elevado de plaquetas en pacientes de riesgo con
+trombocitemia esencial (TE) que no toleran el tratamiento que están siguiendo o cuyo recuento de
+plaquetas no disminuye hasta un nivel aceptable con dicho tratamiento.
+ Paciente de riesgo
+Un paciente de riesgo con trombocitemia esencial se define por una o más de las siguientes
+características:
+>60 años de edad o
+Recuento de plaquetas >1000 x 109/l ó
+Antecedentes de acontecimientos trombohemorrágicos.
+ 4.2   Posología y forma de administración
+ El tratamiento con Xagrid Cápsulas debe ser iniciado por un médico con experiencia en el control de la
+trombocitemia esencial.
+La dosis inicial recomendada de anagrelida es de 1 mg/día administrada por vía oral dividida en dos
+tomas (0,5 mg/toma).
+La dosis inicial se debe mantener durante un mínimo de una semana. Tras una semana, la dosis se
+puede ajustar de forma individual hasta obtener la dosis eficaz mínima para reducir y/o mantener un
+recuento de plaquetas inferior a 600 x 109/l, el nivel ideal es entre 150 x 109/l y 400 x 109/l. El
+aumento de la dosis no puede superar los 0,5 mg/día en una sola semana y la dosis única máxima
+recomendada no puede superar los 2,5 mg (ver apartado 4.9). Durante el desarrollo clínico se utilizaron
+dosis de 10 mg/día.
+ Los efectos del tratamiento con anagrelida se deben controlar de forma periódica (ver apartado 4.4). Si
+la dosis inicial es >1 mg/día, el recuento de plaquetas se debe realizar cada dos días durante la primera
+semana de tratamiento y después una vez a la semana, como mínimo, hasta alcanzar una dosis de
+mantenimiento estable. Por regla general, se observará un descenso en el recuento de plaquetas en un
+período de 14 a 21 días a partir del inicio del tratamiento y en la mayoría de los pacientes se observará
+una respuesta terapéutica mantenida adecuada con una dosis de 1 a 3 mg/día (para más información
+sobre los efectos clínicos, ver sección 5.1).
+ Ancianos
+No se han realizado estudios farmacocinéticos específicos en esta población de pacientes. No obstante,
+durante el desarrollo clínico, aproximadamente el 50% de los pacientes tratados con anagrelida tenían
+                                                     2
+más de 60 años y no fue necesaria una modificación de la dosis debida a la edad. Sin embargo, como
+se esperaba, los pacientes en este grupo de edad presentaron una incidencia dos veces mayor de
+acontecimientos adversos graves (principalmente cardiacos). Las dosis se ajustan de forma individual
+para cada paciente.
+ Insuficiencia renal
+Actualmente, no hay datos farmacocinéticos específicos disponibles para esta población de pacientes y
+se deben valorar los riesgos y los beneficios potenciales del tratamiento con anagrelida en un paciente
+con insuficiencia renal antes de iniciar el tratamiento.
+ Insuficiencia hepática
+Actualmente, no hay datos farmacocinéticos específicos disponibles para esta población de pacientes.
+No obstante, el metabolismo hepático es la principal vía de aclaramiento del medicamento y se prevé,
+por tanto, que la función hepática influya en este proceso. Por lo tanto, se recomienda que los
+pacientes con insuficiencia hepática moderada o grave no sean tratados con anagrelida. Se deben
+valorar los riesgos y beneficios potenciales del tratamiento con anagrelida en un paciente con
+insuficiencia hepática leve antes de iniciar el tratamiento (ver secciones 4.3 y 4.4).
+ Niños y adolescentes:
+La experiencia en niños es limitada.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a anagrelida o a alguno de los excipientes del medicamento.
+Pacientes con insuficiencia hepática moderada o grave. Pacientes con insuficiencia renal moderada o
+grave (aclaramiento de creatinina <50 ml/min).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Insuficiencia hepática: (ver secciones 4.2 y 4.3) se deben valorar los riesgos y beneficios potenciales
+del tratamiento con anagrelida en un paciente con insuficiencia hepática leve antes de iniciar el
+tratamiento. No se recomienda el uso del medicamento en pacientes con transaminasas altas (>5 veces
+el límite superior del nivel normal).
+ Insuficiencia renal: (ver secciones 4.2 y 4.3) se deben valorar los riesgos y beneficios potenciales del
+tratamiento con anagrelida en un paciente con insuficiencia renal antes de iniciar el tratamiento.
+ General: el tratamiento requiere una supervisión clínica exhaustiva del paciente, la cual incluye un
+hemograma completo (hemoglobina y recuentos de leucocitos y plaquetas) y pruebas de valoración de
+la función hepática (ALT y AST) y la función renal (creatinina sérica y urea).
+ Plaquetas: el recuento de plaquetas aumentará en el plazo de 4 días tras interrumpir el tratamiento con
+Xagrid cápsulas y volverá a los niveles previos al tratamiento tras un período de 10 a 14 días.
+ Cardiovascular: se han descrito casos de cardiomegalia y casos de insuficiencia cardíaca congestiva
+(ver apartado 4.8). La anagrelida se debe usar con precaución en pacientes de cualquier edad con alguna
+afección cardíaca manifiesta o sospechada y sólo si los beneficios potenciales del tratamiento son
+mayores que los riesgos potenciales. La anagrelida es un inhibidor de la fosfodiesterasa III
+dependiente de AMP cíclico y debido a sus efectos inótropos positivos, se recomienda realizar una
+exploración cardiovascular previa al tratamiento (que incluya investigaciones adicionales, como
+ecocardiografía y electrocardiograma). Se debe vigilar a los pacientes durante el tratamiento para
+determinar si hay pruebas de efectos cardiovasculares que puedan requerir una exploración e
+investigación cardiovasculares adicionales.
+ Niños y adolescentes: (ver apartado 5.1) el volumen de datos disponibles sobre el uso de anagrelida en
+esta población es escaso, y la anagrelida debe utilizarse con precaución en este grupo de pacientes.
+ Interacciones clínicamente relevantes: la anagrelida es un inhibidor de la fosfodiesterasa III (PDE III)
+dependiente de AMP (monofosfato de adenosina) cíclico. No se recomienda el uso concomitante de
+anagrelida con otros inhibidores de la PDE III como milrinona, amrinona, enoximona, olprinona y
+cilostazol. Antes de iniciar el tratamiento, se deben evaluar los riesgos y beneficios posibles del uso
+concomitante de ácido acetilsalicílico en pacientes con un recuento de plaquetas superior a 1500 x
+109/l y/o antecedentes de hemorragias.
+ Excipientes: este producto contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, de
+insuficiencia de lactasa Lapp (insuficiencia observada en ciertas poblaciones de Laponia) o
+malabsorción de glucosa o galactosa no deben tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Se ha realizado un número limitado de estudios farmacocinéticos y/o farmacodinámicos para
+investigar las posibles interacciones entre la anagrelida y con otros medicamentos.
+ Interacciones con con otros medicamentos: efectos de otras sustancias sobre anagrelida
+·     La anagrelida se metaboliza principalmente por la enzima CYP1A2. Se sabe que la enzima
+CYP1A2 se inhibe con varios medicamentos como fluvoxamina y omeprazol y que dichos
+medicamentos pueden, en teoría, influir negativamente en el aclaramiento de la anagrelida.
+·     Los estudios de interacción in vivo realizados con seres humanos han demostrado que la
+digoxina y la warfarina no afectan a las propiedades farmacocinéticas de la anagrelida.
+ Interacciones con con otros medicamentos: efectos de la anagrelida sobre otras sustancias
+·     La anagrelida presenta una ligera actividad inhibidora con respecto a la enzima CYP1A2, lo que
+puede representar un potencial teórico de interacción con con otros medicamentos administrados
+conjuntamente que compartan el mismo mecanismo de aclaramiento (por ejemplo, teofilina).
+·     La anagrelida es un inhibidor de la PDE III. Los efectos de los medicamentos con propiedades
+similares, como es el caso de los inótropos milrinona, enoximona, amrinona, olprinona y
+cilostazol, se pueden agravar con el uso de anagrelida.
+·     Un estudio in vitro en sangre humana total ha demostrado que los efectos anticoagulantes del
+ácido acetilsalicílico aumentaron de forma aditiva pero no sinérgica debido a la presencia de la
+anagrelida.
+·     Los estudios de interacción in vivo realizados con seres humanos han demostrado que la
+anagrelida no afecta a las propiedades farmacocinéticas de la digoxina o warfarina.
+·     A las dosis recomendadas para el tratamiento de la trombocitemia esencial, la anagrelida puede
+potenciar en teoría los efectos de con otros medicamentos que inhiben o modifican la función
+plaquetaria (por ejemplo, el ácido acetilsalicílico). Sin embargo, durante el desarrollo clínico, no
+se observaron dichos efectos en el caso del ácido acetilsalicílico.
+·     La anagrelida puede provocar trastornos intestinales en algunos pacientes e impedir la absorción
+de los anticonceptivos hormonales orales.
+·     En un estudio preclínico de interacción farmacocinética in vivo realizado con perros para
+investigar los posibles efectos de la anagrelida e hidroxiurea administradas conjuntamente no
+hubo efectos adversos en la cinética de ambos medicamentos.
+ Interacciones con los alimentos:
+·     Los alimentos retrasan la absorción de la anagrelida, pero no alteran significativamente la
+exposición sistémica a la misma.
+·     Los efectos de los alimentos en la biodisponibilidad no se consideran clínicamente relevantes
+para el uso de la anagrelida.
+·     Se ha demostrado que el zumo de pomelo inhibe la enzima CYP1A2 y podría, por tanto, reducir
+asimismo el aclaramiento de la anagrelida.
+ 4.6   Embarazo y lactancia
+ Uso en el embarazo:
+No existen datos suficientes sobre el uso de anagrelida en mujeres embarazadas.
+Los estudios realizados con animales han demostrado toxicidad en la reproducción (ver apartado 5.3).
+Se desconoce el riesgo potencial en seres humanos.
+No se recomienda el uso de Xagrid durante el embarazo. En caso de utilizar Xagrid durante el
+embarazo o si la paciente se queda embarazada mientras está utilizando el medicamento, se le debe
+informar sobre los posibles riesgos para el feto.
+ Las mujeres en edad fértil deben tomar medidas anticonceptivas adecuadas durante el tratamiento con
+anagrelida.
+ Uso durante la lactancia. Se desconoce si el clorhidrato de anagrelida se excreta en la leche materna.
+Debido a que muchos medicamentos se excretan en la leche materna y a las posibles reacciones
+adversas en los lactantes, las madres deben interrumpir la lactancia mientras estén tomando Xagrid.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+Durante el desarrollo clínico, se han descrito con frecuencia casos de mareo.
+Se recomienda a los pacientes no conducir ni utilizar máquinas mientras estén tomando Xagrid si
+experimentan mareos.
+ 4.8   Reacciones adversas
+ La seguridad de anagrelida se ha analizado en 4 estudios clínicos abiertos. En 3 de estos estudios, se
+analizó la seguridad en 942 pacientes que recibieron anagrelida a una dosis media de
+aproximadamente 2 mg/día. En estos estudios, 22 pacientes recibieron anagrelida durante un período
+máximo de 4 años.
+En el estudio posterior, se analizó la seguridad en 3660 pacientes que recibieron anagrelida a una dosis
+media de aproximadamente 2 mg/día. En este estudio, 34 pacientes recibieron anagrelida durante un
+período máximo de 5 años.
+Las reacciones adversas relacionadas con el medicamento descritas con más frecuencia fueron dolor de
+cabeza en aproximadamente un 14%, palpitaciones en aproximadamente un 9%, retención de líquidos
+y náuseas en aproximadamente un 6% y diarrea en un 5% de los casos. Estas reacciones
+farmacológicas adversas son previsibles teniendo en cuenta la farmacología de anagrelida (inhibición
+de la PDE III). El ajuste gradual de la dosis puede ayudar a reducir estas reacciones (ver apartado 4.2).
+Se ha utilizado la siguiente convención para determinar la frecuencia de las reacciones adversas al
+medicamento: muy frecuentes (1/10), frecuentes (1/100, <1/10), poco frecuentes (1/1.000,
+<1/100); raras (1/10.000, <1/1.000); desconocida (no puede estimarse a partir de los datos
+disponibles).
+ Trastornos de la sangre y del sistema linfático
+Frecuentes:               anemia
+Poco frecuentes:          trombocitopenia, pancitopenia, equimosis, hemorragia
+ Trastornos del metabolismo y de la nutrición
+Frecuentes:              retención de líquidos
+Poco frecuentes:         edema, pérdida de peso
+Raros:                   aumento de peso
+ Trastornos del sistema nervioso
+Muy frecuentes:           dolor de cabeza
+Frecuentes:               mareo
+ Poco frecuentes:           parestesia, insomnio, depresión, confusión, hipoestesia, nerviosismo,
+Raros:                     somnolencia, descoordinación, disartria, migraña
+ Órganos de los sentidos
+Raros:                     visión anormal, acúfenos, diplopía
+ Trastornos cardíacos
+Frecuentes:                palpitaciones, taquicardia
+Poco frecuentes:           insuficiencia cardíaca congestiva, hipertensión, arritmia, fibrilación
+Raros:                     angina de pecho, infarto de miocardio, cardiomegalia, cardiomiopatía,
+ Trastornos respiratorios y torácicos
+Poco frecuentes:          disnea, epistaxis, efusión pleural, neumonía
+Raros:                    hipertensión pulmonar, infiltraciones pulmonares
+Frecuencia desconocida: alveolitis alérgica
+ Trastornos gastrointestinales
+Frecuentes:               náuseas, diarrea, dolor abdominal, flatulencias, vómitos
+Poco frecuentes:          dispepsia, anorexia, pancreatitis, estreñimiento, hemorragia
+Raros:                    colitis, gastritis, hemorragia gingival
+ Trastornos hepatobiliares
+Poco frecuentes:          aumento de las enzimas hepáticas
+ Trastornos de la piel y el tejido subcutáneo
+Frecuentes:                 erupción
+Poco frecuentes:            alopecia, coloración anormal de la piel, prurito
+Raros:                      sequedad de la piel
+ Trastornos musculoesqueléticos y del tejido conjuntivo
+Poco frecuentes:        mialgia, artralgia, dolor de espalda
+ Trastornos urogenitales
+Poco frecuentes:        impotencia
+Raros:                  nocturia, insuficiencia renal
+ Exploraciones complementarias
+Raros:                 aumento de creatinina en sangre
+ Trastornos generales y alteraciones en el lugar de administración
+Frecuentes:               fatiga
+Poco frecuentes:          dolor torácico, debilidad, escalofríos, malestar, fiebre
+Raros:                    astenia, dolor, síndrome seudogripal
+ 4.9   Sobredosis
+ Se han notificado un número reducido de casos tras la comercialización de sobredosis intencionada
+con anagrelida. Los síntomas notificados incluyen taquicardia sinusal y vómitos. Los síntomas
+remitieron con el tratamiento convencional.
+ No se ha identificado ningún antídoto específico para la anagrelida. En caso de sobredosis, se requiere
+una supervisión clínica exhaustiva del paciente; esto incluye el control del recuento de plaquetas para
+ detectar trombocitopenia. Se debe reducir la dosis o interrupir la administración, según sea necesario,
+hasta que el recuento de plaquetas vuelva a estar dentro del intervalo normal.
+Se ha demostrado que el uso de Xagrid a dosis superiores a las recomendadas tiene como resultado
+una disminución de la tensión arterial y casos ocasionales de hipotensión. Una dosis única de 5 mg de
+anagrelida puede provocar una disminución de la tensión arterial acompañada por lo general de mareo.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico:
+Código ATC: L01XX35 (Otros agentes antineoplásicos)
+ El mecanismo de acción específico por el que la anagrelida reduce el recuento de plaquetas todavía no
+se conoce en profundidad, aunque sí se ha confirmado, a partir de la información de los estudios in
+vitro e in vivo, que la anagrelida es selectiva para las plaquetas.
+ Los estudios in vitro sobre la megacariocitopoyesis humana han determinado que la acción inhibidora
+de la anagrelida en la formación de plaquetas en el hombre está mediada por el retraso en la
+maduración de los megacariocitos y la reducción de su tamaño y ploidía. En las muestras de biopsia de
+médula ósea de los pacientes tratados, se observaron indicios de acciones similares in vivo.
+ La anagrelida es un inhibidor de la fosfodiesterasa III dependiente de AMP cíclico.
+ Se han analizado la seguridad y eficacia de la anagrelida como agente reductor de plaquetas en cuatro
+ensayos clínicos abiertos no controlados (números de estudio 700-012, 700-014, 700-999 y 13970-
+301) en los que participaron más de 4000 pacientes con trastornos mieloproliferativos (MPD). En los
+pacientes con trombocitemia esencial, la respuesta completa se definió como una reducción del
+recuento de plaquetas hasta 600 x 109/l ó 50% del valor basal y un mantenimiento de dicha
+reducción durante un mínimo de 4 semanas. En los estudios 700-012, 700-014, 700-999 y el estudio
+13970-301, el tiempo hasta la respuesta completa fue de 4 a 12 semanas. No se ha demostrado de
+forma convincente beneficio clínico en términos de episodios trombohemorrágicos.
+ Niños y adolescentes:
+Un estudio clínico abierto con un periodo de tratamiento de 3 meses no dio lugar a preocupaciones en
+cuanto a la seguridad de la anagrelida en 17 pacientes niños/adolescentes con TE (intervalo de edad: 7-
+14 años) en comparación con 18 pacientes adultos. Anteriormente, durante el desarrollo clínico, un
+número limitado (12) de niños (intervalo de edad: 5-17 años) con trombocitemia esencial recibieron
+tratamiento con anagrelida.
+ 5.2   Propiedades farmacocinéticas
+ Tras la administración oral de anagrelida en el hombre, al menos un 70% se absorbe desde el tracto
+gastrointestinal. En el caso de los sujetos en ayunas, los niveles plasmáticos máximos se observan
+aproximadamente 1 hora después de una dosis de 0,5 mg; la semivida plasmática es corta (1,3 horas
+aproximadamente). Se ha comprobado que la farmacocinética es lineal en el intervalo de dosis de
+0,5 mg a 2 mg.
+ La anagrelida se metaboliza principalmente por la enzima CYP1A2; menos del 1% se recupera en la
+orina en forma de anagrelida. Se han identificado los dos metabolitos urinarios principales: 2-amino-5,
+6-dicloro-3, 4-dihidroquinazolina y N-(5,6-dicloro-3,4-dihidroquinazolin-2-il)-2-oxoacetamida. La
+recuperación media de 2-amino-5, 6-dicloro-3, 4-dihidroquinazolina en orina equivale
+aproximadamente al 18-35% de la dosis administrada.
+ Los datos farmacocinéticos de sujetos sanos determinaron que, con la comida, la Cmáx de la anagrelida
+se reduce un 14%, pero el AUC aumenta un 20%. La comida tuvo un efecto más significativo en el
+metabolito activo y redujo la Cmáx en un 29%, aunque no afectó al AUC.
+ Tal y como se había previsto en relación con la semivida, no existen pruebas de la acumulación de
+anagrelida en el plasma. Asimismo, estos resultados no ofrecieron pruebas de la autoinducción del
+aclaramiento de la anagrelida.
+ Poblaciones especiales
+ Niños y adolescentes
+Los datos farmacocinéticos de niños y adolescentes en ayunas (intervalo de edad: 7-14 años) con
+trombocitemia esencial indican que la exposición normalizada a la dosis y al peso corporal, la Cmáx y
+el AUC de la anagrelida fueron inferiores en los niños/adolescentes en comparación con los adultos.
+También hubo una tendencia a una exposición inferior al metabolito activo. Estas observaciones
+podrían ser reflejo de una depuración metabólica más eficaz en los pacientes más jóvenes.
+ 5.3     Datos preclínicos sobre seguridad
+ Toxicidad de dosis repetidas.
+Tras la administración de dosis repetidas de anagrelida de 1 mg/kg/día o superiores, se produjo
+hemorragia subendocárdica y necrosis miocárdica focal en perros.
+ Toxicidad en la reproducción.
+Las dosis de anagrelida tóxicas para la madre (60 mg/kg/día o superior) en los estudios realizados con
+ratas y conejos se asociaron con un aumento de la reabsorción embrionaria y de las muertes de los
+fetos
+ Potencial mutagénico y carcinogénico.
+Los estudios sobre el potencial genotóxico de la anagrelida no identificaron ningún efecto mutagénico
+o clastogénico.
+ En un estudio de carcinogenicidad en ratas con una duración de 2 años, se observaron hallazgos
+neoplásicos y no neoplásicos y se relacionaron o atribuyeron a un efecto farmacológico exagerado.
+Entre éstos, aumentó la incidencia de feocromocitomas adrenales en relación con el control en los
+machos en todos los niveles de dosis ( 3 mg/kg/día) y en las hembras que recibían 10 mg/kg/día o
+dosis más altas. La dosis más baja en los machos (3 mg/kg/día) corresponde a 37 veces la exposición
+en el AUC humana después de una dosis de 1 mg dos veces al día. Los adenocarcinomas uterinos, de
+origen epigenético, se podrían relacionar con una inducción enzimática de la familia CYP1. Éstos se
+observaron en hembras a las que se administraban 30 mg/kg/día, correspondientes a 572 veces la
+exposición en el AUC humana después de una dosis de 1 mg dos veces al día.
+ Actualmente no hay evidencias clínicas de que estos hallazgos sean relevantes para el uso en seres
+humanos.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Contenido de la cápsula
+Povidona (E1201)
+Lactosa anhidra
+Lactosa monohidrato
+Celulosa microcristalina (E460)
+Crospovidona
+Estearato de magnesio
+                                                    8
+Envoltorio de la cápsula
+Gelatina
+Dióxido de titanio (E171)
+ Tinta de impresión
+Goma laca
+Solución fuerte de amonio
+Hidróxido de potasio (E525)
+Óxido de hierro negro (E172)
+ 6.2   Incompatibilidades
+ No aplicable
+ 6.3   Periodo de validez
+ 3 años
+ 6.4   Precauciones especiales de conservación
+ No se precisan condiciones especiales de conservación
+ 6.5   Naturaleza y contenido del envase
+ Frascos de polietileno de alta densidad (HDPE) con desecante y cierre de seguridad para niños con un
+contenido de 100 cápsulas
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Shire Pharmaceutical Contracts Ltd
+Hampshire International Business Park
+Chineham
+Basingstoke
+Hampshire RG24 8EP
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/04/295/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+ 16-11-2004
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ A.   TITULAR(ES) DE LA AUTORIZACIÓN DE FABRICACIÓN
+RESPONSABLE(S) DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ C.   OBLIGACIONES ESPECÍFICAS QUE DEBERÁ CUMPLIR
+EL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.       TITULAR(ES) DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE(S) DE
+LA LIBERACIÓN DE LOS LOTES
+ Nombre y dirección del(de los) fabricante(s) responsable(s) de la liberación de los lotes
+ Wasdell Packaging Limited, Upper Mills Estate, Bristol Road, Stonehouse, Gloucestershire,
+GL10 2BJ, Reino Unido
+ B.       CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·      CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Ver Anexo I: Ficha Técnica o Resumen de las
+Características del Producto, ver sección 4.2).
+ ·      OTRAS CONDICIONES
+ El titular de la autorización de comercialización informará a la Comisión Europea sobre los planes de
+comercialización del medicamento autorizado mediante la presente decisión.
+ C.       OBLIGACIONES ESPECÍFICAS QUE DEBERÁ CUMPLIR EL TITULAR DE LA
+AUTORIZACIÓN DE COMERCIALIZACIÓN
+ El titular de la autorización de comercialización llevará a cabo el siguiente programa de estudios en el
+período especificado, cuyos resultados servirán de base para la reevaluación anual del perfil
+beneficio/riesgo.
+ Aspectos clínicos:
+      1. Shire realizará un estudio de seguridad post-autorización, el estudio SPD422-401: estudio de
+seguridad, post-autorización, no intervencionista, para controlar de forma continua los
+aspectos referentes a seguridad y embarazos en una cohorte de pacientes de riesgo con
+trombocitemia esencial (TE) expuestos a Xagrid en comparación con otros tratamientos
+citorreductores convencionales.
+Objetivos:
+Principales
+Controlar de forma continua los aspectos referentes a seguridad y embarazos en una cohorte de
+pacientes de riesgo con TE expuestos a Xagrid en comparación con otros tratamientos
+citorreductores convencionales.
+Secundarios
+Eficacia (reducción de plaquetas, incidencia de acontecimientos trombohemorrágicos).
+Utilización del fármaco (tipo de fármaco, dosis del fármaco, duración de la exposición).
+Se proporcionarán informes y actualizaciones cada 6 meses durante 5 años después de la
+autorización sobre el progreso de los pacientes tratados con Xagrid. Después de la revisión a los
+5 años, el estudio podrá continuar durante 5 años más para obtener información concreta sobre los
+efectos en el embarazo y para el seguimiento de las mujeres en edad fértil, y los cambios
+hemáticos.
+      La inscripción de pacientes al estudio comenzó en mayo de 2005. El sexto y séptimo informe de
+seguridad actualizados semestrales se esperan en mayo de 2008 y noviembre de 2008,
+respectivamente.
+                                                    11
+2. Shire realizará un estudio aleatorizado, comparativo en pacientes con TE. Estudio SPD422-
+403: estudio aleatorizado, de fase IIIb, para comparar la eficacia, la tolerabilidad y la seguridad
+del clorhidrato de anagrelida en comparación con la hidroxiurea en pacientes de alto riesgo con
+trombocitemia esencial (TE).
+Objetivos:
+Principales:
+Comparar la seguridad de la anagrelida y la hidroxiurea con relación al uso a corto y a largo plazo
+(de hasta tres años), en lo referente concretamente a la seguridad cardiovascular (valorada
+mediante ecocardiografía).
+Secundarios:
+Comparar la eficacia de la anagrelida y la hidroxiurea en lo referente al recuento de plaquetas
+después de 6 meses de tratamiento.
+Comparar la eficacia de la anagrelida y la hidroxiurea en lo referente al recuento de plaquetas
+después de 3 meses de tratamiento.
+Comparar la eficacia de la anagrelida y la hidroxiurea en lo referente al número de pacientes que
+logran la respuesta completa.
+Comparar el efecto citorreductor de la anagrelida y la hidroxiurea en las líneas de leucocitos y
+eritrocitos.
+Investigar la tolerabilidad de la anagrelida y la hidroxiurea con relación al uso a corto y a largo
+plazo (de hasta tres años).
+Investigar los efectos de la anagrelida y la hidroxiurea en la incidencia de los acontecimientos
+trombóticos y hemorrágicos relacionados con la enfermedad.
+Comparar el tiempo medio hasta la respuesta después del tratamiento con anagrelida o
+hidroxiurea.
+El estudio incluirá una revisión centralizada y ciega de las ecocardiografías como parte de la
+valoración del efecto de ambos tratamientos en la fracción de eyección ventricular izquierda.
+(FEVI).
+Se emitirán informes de seguridad provisionales cada 6 meses. Se facilitarán actualizaciones sobre
+el progreso y la inscripción de pacientes junto con los informes periódicos de seguridad (PSURs)
+normales. El informe final del estudio se entregará 4 meses después de cerrar la base de datos.
+La inscripción de pacientes al estudio comenzó en enero de 2006. El sexto y séptimo informe de
+seguridad actualizados semestrales se esperan en mayo de 2008 y noviembre de 2008,
+respectivamente.
+ 3. Shire llevará a cabo un estudio farmacocinético en pacientes jóvenes y de edad avanzada con
+trombocitemia esencial (TE). El estudio se denomina SPD422-203: estudio de seguridad, de
+farmacocinética y farmacodinámica, multicéntrico, abierto, de fase II, del clorhidrato de
+anagrelida en pacientes jóvenes (18 ­ 50 años) y de edad avanzada (65 años) con
+trombocitemia esencial (TE).
+ Objetivos:
+Principales:
+Comparar el perfil farmacocinético en estado estacionario de la anagrelida y su metabolito activo
+en pacientes jóvenes (18 ­ 50 años) y en pacientes de edad avanzada (65 años) con
+trombocitemia esencial (TE).
+Secundarios:
+Evaluar la correlación, si la hay, entre la dosis diaria de anagrelida, las concentraciones resultantes
+de anagrelida en plasma y los cambios desde el inicio en el recuento de plaquetas en pacientes
+                                                12
+jóvenes (18 ­ 50 años) y de edad avanzada (65 años) con TE.
+Evaluar la correlación, si la hay, entre la concentración de anagrelida y su metabolito activo en
+plasma y la frecuencia cardiaca y la tensión arterial en pacientes jóvenes (18 ­ 50 años) y de edad
+avanzada (65 años) con TE.
+Evaluar la seguridad y la tolerancia de la anagrelida en pacientes jóvenes (18 ­ 50 años) y de edad
+avanzada (65 años) con TE.
+Se inscribirá en el estudio a 24 pacientes (12 por grupo de edad).
+Shire facilitará datos farmacocinéticos derivados de una cohorte de pacientes de edad avanzada.
+Se proporcionarán actualizaciones e informes sobre el progreso y la inscripción de pacientes
+junto con los PSURs normales. El informe final del estudio se entregará 4 meses después de cerrar
+la base de datos.
+ La inscripción de pacientes en el estudio comenzó en septiembre de 2006.
+ 4. Shire facilitará una actualización anual de todos los datos publicados relativos a la eficacia y la
+seguridad de la anagrelida en los pacientes con TE junto con los PSURs anuales (años 1 a 4
+después de la aprobación y como parte de la solicitud de renovación).
+La cuarta actualización anual se espera como parte del cuarto Informe de reevaluación anual en
+noviembre de 2008.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 14
+A. ETIQUETADO
+ 15
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR, O, EN SU DEFECTO,
+EN EL ACONDICIONAMIENTO PRIMARIO
+ (ENVASE EXTERIOR Y ETIQUETA)
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Xagrid 0,5 mg Cápsulas duras
+Anagrelida (en forma de clorhidrato)
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Cada cápsula contiene 0,5 mg de anagrelida (en forma de clorhidrato).
+ 
+3.    LISTA DE EXCIPIENTES
+	Las cápsulas de Xagrid también contienen lactosa. Para mayor información consultar el prospecto
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	100 cápsulas duras
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral
+Leer el prospecto antes de utilizar este medicamento
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIAL(ES), SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD {MM/AAAA}
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No se precisan condiciones especiales de conservación.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Shire Pharmaceutical Contracts Ltd
+Basingstoke, RG24 8EP, Reino Unido
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/04/295/001
+ 13.    NÚMERO DE LOTE DEL FABRICANTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Xagrid
+ B. PROSPECTO
+ 18
+                                     Xagrid 0,5 mg cápsulas duras
+ Lea todo el prospecto detenidamente antes de empezar a tomar el medicamento.
+·     Conserve este prospecto, ya que puede tener que volver a leerlo.
+·     Si tiene alguna duda, consulte a su médico o farmacéutico.
+·     Este medicamento se le ha recetado a usted y no debe dárselo a otras personas, aunque tengan
+los mismos síntomas, ya que puede perjudicarles.
+·     Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ Contenido del prospecto:
+1.   Qué es Xagrid y para qué se utiliza
+2.   Antes de tomar Xagrid
+3.   Cómo tomar Xagrid
+4.   Posibles efectos adversos
+5.   Conservación de Xagrid
+6.   Información adicional
+ 
+1.    QUÉ ES XAGRID Y PARA QUÉ SE UTILIZA
+	Xagrid es un medicamento que interfiere en el desarrollo de las plaquetas. Reduce el número de
+plaquetas producidas por la médula ósea lo que da lugar a una reducción en el recuento de plaquetas en
+sangre que se aproxima a un nivel más normal. Por este motivo, se utiliza para tratar a los pacientes
+con trombocitemia esencial.
+ La trombocitemia esencial es una afección que tiene lugar cuando la médula ósea produce un número
+excesivo de las células de la sangre conocidas como plaquetas. Un elevado número de plaquetas en la
+sangre puede provocar graves problemas de circulación y coagulación sanguínea.
+ 
+2.    ANTES DE TOMAR XAGRID
+	No tome Xagrid:
+·    Si es alérgico (hipersensible) a la anagrelida o a cualquiera de los demás componentes de
+Xagrid. Compruebe cuáles son los componentes de Xagrid en la sección 6 de este prospecto.
+Las reacciones alérgicas pueden manifestarse por erupción, picor, hinchazón de cara y labios o
+dificultad para respirar (disnea).
+·    Si tiene problemas moderados o graves de hígado
+·    Si tiene problemas moderados o graves de riñón
+ Tenga especial cuidado con Xagrid:
+Antes de iniciar el tratamiento con Xagrid, indique a su médico:
+·     Si tiene o cree que podría tener un problema cardíaco
+·     Si tiene problemas de hígado o de riñón
+·     Si está embarazada o en período de lactancia
+·     Si un médico le ha indicado que padece una intolerancia a ciertos azúcares.
+ Uso de con otros medicamentos
+Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente con otros medicamentos, incluso los adquiridos sin receta.
+                                                   19
+Informe a su médico si está usando alguno de los siguientes medicamentos:
+·     Fluvoxamina para tratar la depresión
+·     Omeprazol para tratar problemas gastrointestinales como esofagitis por reflujo y úlcera
+duodenal o gástrica
+·     Teofilina para tratar el asma y los problemas respiratorios graves
+·     Medicamentos para tratar afecciones cardíacas como, por ejemplo, milrinona, enoximona,
+amrinona, olprinona y cilostazol
+·     Ácido acetilsalicílico (aspirina) para tratar el dolor de leve a moderado como, por ejemplo, el
+dolor de cabeza
+·     con otros medicamentos para tratar afecciones que afectan a las plaquetas en la sangre.
+ Si se usan conjuntamente puede que, bien Xagrid o bien estos medicamentos, no funcionen
+correctamente.
+ Consulte a su médico o farmacéutico si tiene dudas.
+ Toma de Xagrid con los alimentos y bebidas:
+Las cápsulas se pueden tomar con alimentos, después de una comida o con el estómago vacío. Sin
+embargo, no tome Xagrid con pomelo o zumo de pomelo, ya que pueden influir en el efecto del
+medicamento. Para más información sobre cómo tomar el medicamento, consulte la sección 3.
+ Niños y adolescentes:
+Los datos sobre el uso de Xagrid en niños son limitados y, por lo tanto, Xagrid debe usarse con
+precaución.
+ Embarazo y lactancia:
+Consulte a su médico si está o planea quedarse embarazada. Si está embarazada, no debe tomar
+Xagrid. Las mujeres con posibilidades de quedarse embarazadas deben asegurarse de tomar medidas
+anticonceptivas eficaces mientras estén tomando Xagrid. Consulte a su médico si necesita consejo
+sobre anticonceptivos.
+ Consulte a su médico si está dando el pecho o planea darle el pecho a su hijo. No puede tomar Xagrid
+mientras esté dando el pecho. Si está tomando Xagrid, deberá dejar de dar el pecho.
+ Conducción y uso de máquinas:
+Algunos pacientes que estaban tomando Xagrid han comunicado síntomas de mareo. No conduzca ni
+maneje máquinas si experimenta este síntoma.
+ Información importante sobre algunos de los componentes de Xagrid
+La lactosa es un componente de Xagrid. Si su médico le ha indicado que padece una intolerancia a
+ciertos azúcares, consulte con él antes de tomar este medicamento.
+ 
+3.    CÓMO TOMAR XAGRID
+	Siga exactamente las instrucciones de administración de Xagrid indicadas por su médico. Consulte a
+su médico o farmacéutico si tiene dudas.
+ La cantidad de Xagrid que pueden tomar los distintos pacientes puede variar, pues dicha cantidad
+depende de la afección. El médico le recetará la dosis más conveniente en su caso.
+ La dosis inicial normal de Xagrid equivale a 1 mg (2 cápsulas) al día, repartida en tomas de una
+cápsula dos veces al día durante una semana como mínimo.
+ Tras este período, su médico puede aumentar o disminuir el número de cápsulas que debe tomar hasta
+encontrar la dosis que mejor se ajuste a su caso y que trate la afección del modo más eficaz.
+                                                    20
+Las cápsulas se deben tragar enteras con un vaso de agua. Se pueden tomar junto con los alimentos,
+después de las comidas o con el estómago vacío. Se recomienda tomar las cápsulas siempre a la misma
+hora.
+ No tome más cápsulas de las que le haya recomendado el médico.
+ Su médico le indicará que se someta a análisis de sangre con regularidad para comprobar si el
+medicamento es eficaz.
+ Si toma más Xagrid del que debiera:
+Si toma más Xagrid del que debiera o si otra persona ha tomado este medicamento, informe a su
+médico o farmacéutico inmediatamente. Deberá mostrarles el envase de Xagrid.
+ Si olvidó tomar Xagrid:
+Tome las cápsulas tan pronto como se acuerde. Tome la siguiente dosis a la hora habitual. No tome
+una dosis doble para compensar las dosis olvidadas.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	"Al igual que todos los medicamentos, Xagrid puede producir efectos adversos, aunque no todas las
+personas los sufran. Si le preocupa este aspecto, consulte a su médico.
+ Efectos adversos muy frecuentes (pueden producirse en más de 1 de cada 10 pacientes): dolor de
+cabeza.
+ Efectos adversos frecuentes (pueden producirse en menos de 1 de cada 10 pacientes, pero en más de
+1 de cada 100 pacientes):
+Mareo (raramente al ponerse de pie o levantarse de la cama), cansancio, palpitaciones (latido fuerte
+que puede ser rápido o irregular), náuseas, diarrea, dolor de estómago, indigestión y gases, vómitos,
+anemia (ligera disminución del recuento de hematíes y déficit de hierro), retención de líquidos
+(incluyendo hinchazón de los tobillos) o erupción.
+ Efectos adversos graves. Si observa alguno de los síntomas que se indican a continuación, póngase
+en contacto con su médico inmediatamente:
+dolor fuerte en el pecho,
+palpitaciones asociadas a mareo o sensación de desmayo, desmayo,
+dolor fuerte en la tripa o en el estómago,
+vómitos con sangre o heces oscuras o sanguinolentas,
+dificultad para respirar o jadeos, particularmente si los labios o la piel se vuelven de color azulado.
+Éstos no se han producido frecuentemente, pero son afecciones graves.
+ Efectos adversos poco frecuentes (pueden producirse en menos de 1 de cada 100 pacientes, pero en
+más de 1 de cada 1.000 pacientes):
+Sensación de debilidad o malestar, hipertensión, escalofríos o fiebre, ardor de estómago, falta de
+apetito, estreñimiento, cardenales, hinchazón localizada con líquido (edema), pérdida de peso, dolor
+muscular, dolor de articulaciones, dolor de espalda, pérdida de sensibilidad u hormigueo en dedos de
+manos y pies, insomnio, depresión, confusión, nerviosismo, sequedad de boca, pérdida de memoria,
+tos alérgica, sensación de falta de aire, hemorragia nasal, infección pulmonar, caída de pelo, picazón
+en la piel, cambios del color de la piel e impotencia. El médico puede hacerle unos análisis de sangre
+que podrían indicar un aumento de enzimas hepáticas. Si experimenta alguno de estos efectos
+adversos, consulte a su médico.
+ Efectos adversos raros (pueden producirse en menos de 1 de cada 1.000 pacientes): Ataque al
+corazón, encías sangrantes, aumento de peso, enfermedad muscular cardiaca pérdida de coordinación,
+ dificultad para hablar, sequedad de piel, migraña, alteraciones visuales o visión doble, zumbidos en los
+oídos, aumento de la necesidad de orinar durante la noche, dolor, síntomas ""pseudogripales"".
+ Si aprecia efectos adversos no mencionados en este prospecto, comuníqueselo a su médico o
+farmacéutico.
+ "
+5.    CONSERVACIÓN DE XAGRID
+	Mantener fuera del alcance y de la vista de los niños.
+ No se precisan condiciones especiales de conservación para Xagrid en los países europeos.
+ No utilice Xagrid después de la fecha de caducidad que aparece en el envase. La fecha de caducidad es
+el último día del mes que se indica.
+ Si su médico interrumpe el tratamiento, no conserve las cápsulas sobrantes a menos que el médico le
+indique lo contrario. Los medicamentos no se deben tirar por los desagües ni a la basura. Pregunte a su
+farmacéutico cómo deshacerse de los envases y de los medicamentos que no necesita. De esta forma
+ayudará a proteger el medio ambiente.
+ 
+6.    INFORMACIÓN ADICIONAL
+	Composición de Xagrid
+ - El principio activo es anagrelida. Cada cápsula contiene 0,5 mg de anagrelida (en forma de
+clorhidrato).
+ - Los demás componentes son:
+Povidona (E1201), crospovidona, lactosa anhidra, lactosa monohidrato, celulosa microcristalina
+(E460), estearato de magnesio.
+ Vaina de la cápsula: gelatina y dióxido de titanio (E171)
+Tinta de impresión: goma laca, solución fuerte de amonio, hidróxido de potasio (E525), óxido de
+hierro negro (E172).
+ Aspecto del producto y contenido del envase
+Xagrid se presenta en forma de cápsulas duras opacas de color blanco con la inscripción `S 063'
+impresa.
+ Las cápsulas se presentan en frascos de 100 cápsulas duras.
+ Titular de la autorización de comercialización y responsable de la fabricación
+ Titular de la autorización de comercialización          Responsable de la fabricación
+Shire Pharmaceutical Contracts Limited                  Wasdell Packaging Limited
+Hampshire International Business Park                   Upper Mills Estate
+Chineham, Basingstoke                                   Bristol Road, Stonehouse
+Hampshire                                               Gloucestershire
+RG24 8EP                                                GL10 2BJ
+Reino Unido                                             Reino Unido
+ Tel:    +44(0) 1256 894000
+Fax: +44(0) 1256 894711
+E-mail: medinfo@uk.shire.com
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización.
+ België/Belgique/Belgien, , Ceská
+Republika, Eesti, Ireland, Latvija, Lietuva,
+Luxembourg/Luxemburg, Magyarország,
+Malta, Nederland, Österreich,
+Polska, România, Slovenija, Slovenská
+republika, Suomi/Finland, Sverige, United
+Kingdom
+ Shire Pharmaceuticals Ltd
+Hampshire International Business Park,
+Chineham, Basingstoke
+Hampshire, RG24 8EP,
+Tel/Tlf/T/Puh: +44 1256 894 894
+ Vereinigtes Königreich/Royaume-Uni,
+Verenigd Kononkrijk, , Velká
+Británie, Ühendkuningriik, United Kingdom,
+Anglija, Jungtin Karalyst, Vereinigtes
+Königreich/Royaume-Uni, Nagy-Britannia,
+Ir-Renju Unit, Verenigd Koninkrijk, Vereinigtes
+Königreich, Wielka Brytania, Marea
+Britanie,Velika Britanija,Vel'ká Británia, Iso-
+Britannia, Storbritannien, Vereinigtes
+Königreich, United Kinngdom
+ Danmark                                                Italia
+Swedish Orphan A/S                                     Shire Italia S.p.A
+Wilders Plads 5                                        Corso Italia, 29
+1403 København K                                       50123, Firenze
+Tel: +45 32 96 68                                      Tel: +39 055 288860
+ Deutschland                                            K
+Shire Deutschland GmbH                                 Genesis Pharma (Cyprus) Ltd
+Seigburger Strasse 229b                                2, Amfipoleos Street
+D-50679 Koeln
+Tel: +49 221 8 02 500                                  : +357 22 76 99 46
+                                                        Norge
+Genesis Pharma S.A.                                    Swedish Orphan AS
+274, Kifissias Avenue                                  Trollåsveien 6
+Halandri, GR-152 32                                    1414 Trollåsen
+Athens                                                 Tlf: +47 66 82 34 00
+: +30 210 877 1500
+ España
+Shire Pharmaceuticals Ibérica, S.L.
+Paseo Pintor Rosales, 40 Bajo Izda.
+28008 Madrid
+Tel: +34 915 500 691
+ France                                               Suomi/Finland
+Shire France S.A.                                    Oy Swedish Orphan Ab
+88, rue du Dome                                      Råtorpsvägen 41
+92514 Boulogne-Billancourt Cedex                     016 40 Vanda
+Tél: +33 1 46 10 90 00                               Puh/Tel: +358 9 8520 2150
+ Ísland                                               Sverige
+Swedish Orphan A/S                                   Swedish Orphan AB
+Wilders Plads 5                                      Drottninggatan 98
+DK-1403 Kaupmannahöfn K                              111 60 Stockholm
+Danmörk                                              Tel: +46 8 412 9800
+Tel: +45 32 96 68 69
+ Este prospecto ha sido aprobado en
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu. También presenta enlaces con otras páginas
+web sobre enfermedades raras y medicamentos huérfanos.
+
+	Prospectos de medicamentos.

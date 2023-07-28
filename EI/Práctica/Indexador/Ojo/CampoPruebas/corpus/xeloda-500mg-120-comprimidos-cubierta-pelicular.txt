@@ -1,0 +1,921 @@
+XELODA 500MG 120 COMPRIMIDOS CUBIERTA PELICULAR
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Xeloda 150 mg comprimidos recubiertos con película.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	150 mg de capecitabina
+ Excipiente: 15,6 mg de lactosa anhidra.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimidos recubiertos con película.
+ Comprimidos recubiertos con película de color melocotón claro, de forma oblonga, biconvexa, con la
+marca ""150"" en uno de los lados y ""Xeloda"" en el otro.
+ 
+
+"
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Xeloda está indicado para el tratamiento adyuvante tras cirugía en pacientes con cáncer de colon
+estadio III (estadio C de Dukes) (ver apartado 5.1).
+ Xeloda está indicado para el tratamiento del cáncer colorrectal metastásico (ver apartado 5.1).
+ Xeloda está indicado en el tratamiento en primera línea del cáncer gástrico avanzado en combinación
+con un régimen que incluya platino (ver apartado 5.1).
+ Xeloda en combinación con docetaxel (ver apartado 5.1) está indicado para el tratamiento de pacientes
+con cáncer de mama localmente avanzado o metastásico tras fallo de quimioterapia citotóxica. La
+terapia previa debe haber incluido una antraciclina.
+Xeloda está también indicado en monoterapia para el tratamiento de pacientes con cáncer de mama
+localmente avanzado o metastásico tras fallo a taxanos y a un régimen quimioterápico que incluya una
+antraciclina o bien para aquellos pacientes en los que no esté indicada una terapia posterior con
+antraciclinas.
+ 4.2   Posología y forma de administración
+ Xeloda solamente debe ser prescrito por un clínico con experiencia en el empleo de agentes
+antineoplásicos. Los comprimidos de Xeloda se deben ingerir con agua dentro de los 30 minutos
+siguientes a una comida. El tratamiento se interrumpirá si se observa enfermedad progresiva o una
+toxicidad intolerable. El cálculo de la dosis estándar y reducida según la superficie corporal para dosis
+iniciales de Xeloda de 1.250 mg/m2 y 1.000 mg/m2 se recogen en las tablas 1 y 2, respectivamente.
+ Posología recomendada (ver apartado 5.1):
+ Monoterapia
+Cáncer de colon, colorrectal y de mama
+La dosis inicial recomendada de Xeloda cuando se administra en monoterapia en el tratamiento
+adyuvante del cáncer de colon, en el tratamiento del cáncer colorrectal metastásico o del cáncer de
+mama localmente avanzado o metastásico es de 1.250 mg/m2 administrados dos veces al día (por la
+                                                     2
+mañana y la noche; equivalente a una dosis diaria total de 2.500 mg/m2) durante 14 días, seguidos de
+un periodo de descanso de 7 días.
+ La duración recomendada del tratamiento adyuvante en pacientes con cáncer de colon estadio III es de
+6 meses.
+ Tratamiento en combinación
+Cáncer gástrico y colorrectal
+En el tratamiento en combinación, la dosis inicial de Xeloda debe reducirse a 800 ­ 1000 mg/m2
+cuando se administra dos veces al día durante 14 días seguido de un periodo de descanso de 7 días, o a
+625 mg/m2 dos veces al día cuando se administra de forma continuada (ver apartado 5.1). La inclusión
+de agentes biológicos en un régimen en combinación no influye en la dosis inicial de Xeloda.
+Para aquellos pacientes que reciban Xeloda en combinación con cisplatino, la premedicación para
+mantener la hidratación y el tratamiento antiemético apropiado, de acuerdo con la ficha técnica del
+cisplatino, deberán ser iniciadas antes de la administración de cisplatino.
+ Cáncer de mama
+En combinación con docetaxel, la dosis inicial recomendada de Xeloda en el tratamiento del cáncer de
+mama metastásico es de 1.250 mg/m2 dos veces al día durante 14 días seguidos de 7 días de descanso,
+combinada con docetaxel a dosis de 75 mg/m2 en perfusión intravenosa, administrada durante 1 hora,
+cada 3 semanas. De acuerdo con la Ficha Técnica de docetaxel, la premedicación con un corticoide
+por vía oral, como dexametasona, se iniciará antes de administrar docetaxel a pacientes tratados con la
+combinación Xeloda más docetaxel.
+ Cálculo de la Dosis de Xeloda
+ Tabla 1 Cálculo de la dosis estándar y reducida según la superficie corporal para una dosis inicial de
+Xeloda de 1250 mg/m2
+                                                                 Dosis reducida
+Superficie          Dosis por
+2
+corporal (m )
+1,26                  1500              -            3            1150                   800
+1,27 - 1,38           1650              1            3            1300                   800
+1,39 - 1,52           1800              2            3            1450                   950
+1,53 - 1,66           2000              -            4            1500                  1000
+1,67 - 1,78           2150              1            4            1650                  1000
+1,79 - 1,92           2300              2            4            1800                  1150
+1,93 - 2,06           2500              -            5            1950                  1300
+2,07 - 2,18           2650              1            5            2000                  1300
+2,19                  2800              2            5            2150                  1450
+ Tabla 2 Cálculo de la dosis estándar y reducida según la superficie corporal para una dosis inicial de
+Xeloda de 1000 mg/m2
+                     Dosis completa          Número de             Dosis reducida       Dosis reducida
+Superficie        Dosis por                                     Dosis por              Dosis por
+2
+corporal (m )
+1,26                1150              1            2               800                    600
+1,27 - 1,38         1300              2            2              1000                    600
+1,39 - 1,52         1450              3            2              1100                    750
+1,53 - 1,66         1600              4            2              1200                    800
+1,67 - 1,78         1750              5            2              1300                    800
+1,79 - 1,92         1800              2            3              1400                    900
+1,93 - 2,06         2000              -            4              1500                   1000
+2,07 - 2,18         2150              1            4              1600                   1050
+2,19                2300              2            4              1750                   1100
+ Ajustes posológicos durante el tratamiento:
+ General
+La toxicidad debida a la administración de Xeloda se puede controlar mediante tratamiento
+sintomático y/o modificación de la dosis (interrupción del tratamiento o reducción de la dosis). Una
+vez que se reduzca la dosis, no deberá incrementarse en ningún momento posterior. Para aquellas
+toxicidades que el médico considere que es poco probable que empeoren o lleguen a ser amenazantes
+para la vida, como por ej., alopecia, alteraciones del gusto o lesiones ungueales, se podrá continuar el
+tratamiento con la misma dosis, sin reducción o interrupción del mismo. Se debe informar a los
+pacientes en tratamiento con Xeloda sobre la necesidad de interrumpir inmediatamente el tratamiento
+en caso de que se presente toxicidad moderada o grave. Las dosis de Xeloda no administradas debido a
+toxicidad no serán sustituidas. A continuación se incluyen las modificaciones posológicas
+recomendadas en función de la toxicidad:
+ Tabla 3 Pauta de Reducción de Dosis de Xeloda (Ciclo de 3 semanas o Tratamiento Continuo)
+Grados de        Cambios de dosis dentro de un ciclo de      Ajuste de dosis para el
+toxicidad*                    tratamiento                      próximo ciclo/dosis
+· Grado 1                  Mantener el nivel de dosis             Mantener el nivel de
+· Grado 2
+ -1ª aparición          Interrumpir hasta que remita a grado 0-1               100%
+-2ª aparición                                                                  75%
+-3º aparición                                                                  50%
+-4ª aparición             Interrumpir el tratamiento de forma               No procede
+·     Grado 3
+ Grados de              Cambios de dosis dentro de un ciclo de                 Ajuste de dosis para el
+toxicidad*                         tratamiento                                 próximo ciclo/dosis
+-1ª aparición              Interrumpir hasta que remita a grado 0-1                        75%
+-2ª aparición                                                                              50%
+-3ª aparición                 Interrumpir el tratamiento de forma                      No procede
+·   Grado 4
+-1ª aparición                  Interrumpir de forma permanente
+-2ª aparición                  Interrumpir de forma permanente                           No procede
+*Según los Criterios Comunes de Toxicidad del Clinical Trial Group del National Cancer Institute de Canadá
+(NCIC CTG) (versión 1) o los Criterios Terminológicos Comunes para Reacciones Adversas (CTCAE) del Programa de
+Evaluación de la Terapia del Cáncer del US Nacional Cancer Institute, versión 3.0. Para el síndrome mano-pie e
+hiperbilirrubinemia, ver sección 4.4.
+ Hematología: Los pacientes con un recuento basal de neutrófilos < 1,5 x 109/L y/o recuento de
+trombocitos < 100 x 109/L no deberán ser tratados con Xeloda. Si alguna prueba de laboratorio no
+prevista es realizada durante un ciclo de tratamiento y se observa que el recuento de neutrófilos cae
+por debajo de 1,0 x 109/L o que el recuento de plaquetas cae por debajo de 75 x 109/L, se debe
+interrumpir el tratamiento con Xeloda.
+ Modificaciones de la dosis por toxicidad cuando se utiliza Xeloda en un ciclo de 3 semanas en
+combinación con otros agentes:
+Las modificaciones de la dosis por toxicidad cuando se utiliza Xeloda en un ciclo de 3 semanas en
+combinación con otros agentes se deben realizar de acuerdo a la Tabla 3 anterior para Xeloda y
+conforme a lo indicado en su ficha técnica para el(los) otro(s) agente(s).
+ Si al comienzo de un ciclo de tratamiento es necesario retrasar el tratamiento, bien debido a Xeloda o a
+otro(s) agente(s), entonces la administración de todos los agentes se retrasará hasta que se cumplan los
+requerimientos necesarios para reiniciar la administración de todos los agentes.
+ Si durante el ciclo de tratamiento el médico considera que estas toxicidades no están relacionadas con
+Xeloda, se debe continuar el tratamiento con Xeloda y se debe ajustar la dosis del otro agente de
+acuerdo a lo indicado en su ficha técnica.
+ Si el tratamiento con el(los) otro(s) agente(s) tiene que ser interrumpido permanentemente, se podrá
+reanudar el tratamiento con Xeloda cuando se cumplan los requerimientos para reiniciar el tratamiento
+con Xeloda.
+ Esta advertencia es de aplicación para todas las indicaciones y para todas las poblaciones especiales.
+ Modificaciones de dosis por toxicidad cuando se utiliza Xeloda de forma continua en combinación con
+otros agentes:
+Las modificaciones de la dosis por toxicidad cuando se utiliza Xeloda de forma continua en
+combinación con otros agentes se deben realizar según lo indicado en la Tabla 3 para Xeloda y de
+acuerdo a lo indicado en su ficha técnica para el(los) otro(s) agente(s).
+ Ajustes posológicos en poblaciones especiales:
+ Insuficiencia hepática: No se dispone de datos de seguridad y eficacia suficientes en pacientes con
+insuficiencia hepática para recomendar un ajuste de dosis. No se dispone de información relativa a
+insuficiencia hepática por cirrosis o hepatitis.
+ Insuficiencia renal: Xeloda está contraindicado en pacientes con insuficiencia renal grave
+(aclaramiento de creatinina basal por debajo de 30 ml/min [Cockcroft y Gault]). La incidencia de las
+reacciones adversas de grado 3 o 4 en pacientes con insuficiencia renal moderada (aclaramiento de
+creatinina basal de 30-50 ml/min) está aumentada con respecto a la población general. En pacientes
+con insuficiencia renal basal moderada se recomienda administrar una dosis reducida que consistirá en
+un 75% de la dosis inicial de 1250 mg/m2. En pacientes con insuficiencia renal basal moderada no es
+necesaria una reducción de dosis para una dosis inicial de 1000 mg/m2.En pacientes con insuficiencia
+renal basal leve (aclaramiento de creatinina basal de 51-80 ml/min) no se precisa ajuste de la dosis
+inicial. Se recomienda realizar una cuidadosa monitorización e interrumpir rápidamente el tratamiento
+si el paciente desarrolla una reacción adversa de grado 2, 3 o 4 durante el tratamiento, especificándose
+en la Tabla 3, incluida más arriba, el posterior ajuste de dosis necesario. Si durante el tratamiento, el
+aclaramiento de creatinina calculado disminuye por debajo de 30 ml/min, se debe interrumpir el
+tratamiento con Xeloda. Estas recomendaciones sobre ajuste posológico en caso de insuficiencia renal
+son aplicables tanto para la monoterapia como para el tratamiento en combinación (ver también la
+sección siguiente ""Ancianos"").
+ No hay experiencia en niños (menores de 18 años).
+ Ancianos:
+Durante el tratamiento con Xeloda en monoterapia no es necesario ajustar la dosis inicial. Sin
+embargo, las reacciones adversas de grado 3 o 4 relacionadas con el tratamiento fueron más frecuentes
+en pacientes  60 años si se compara con los pacientes más jóvenes.
+Cuando Xeloda se utilizó en combinación con otros agentes, los pacientes ancianos ( 65 años)
+desarrollaron más reacciones adversas a medicamentos de grado 3 y 4, incluyendo aquellas que
+conducen a la interrupción del tratamiento, en comparación con pacientes más jóvenes. Se aconseja
+una cuidadosa monitorización de los pacientes  60 años.
+-     En combinación con docetaxel: se ha observado una mayor incidencia de reacciones adversas de
+grado 3 o 4 relacionadas con el tratamiento y de reacciones adversas graves relacionadas con el
+tratamiento entre pacientes de 60 o más años (ver apartado 5.1). Para pacientes de 60 o más años
+se aconseja empezar el tratamiento con una reducción de dosis de Xeloda al 75% (950 mg/m2
+dos veces al día) cuando se vaya a combinar este medicamento con docetaxel. Si no se observa
+toxicidad en pacientes  60 años tratados con una dosis inicial reducida de Xeloda en
+combinación con docetaxel, la dosis de Xeloda podría aumentarse con precaución a 1250 mg/m2
+dos veces al día.
+-     En combinación con irinotecan: para pacientes de 65 o más años tratados con la combinación de
+Xeloda con irinotecan se recomienda una reducción de la dosis inicial de Xeloda a 800 mg/m2
+dos veces al día.
+ 4.3   Contraindicaciones
+ Antecedentes de reacciones graves e inesperadas al tratamiento con fluoropirimidinas,
+Hipersensibilidad a capecitabina, a alguno de los excipientes o a fluorouracilo,
+En pacientes con probada deficiencia de dihidropirimidina dehidrogenasa (DPD),
+Durante el embarazo y la lactancia,
+En pacientes con leucopenia, neutropenia o trombocitopenia graves,
+En pacientes con insuficiencia hepática grave,
+En pacientes con insuficiencia renal grave (aclaramiento de creatinina por debajo de 30 ml/min),
+Tratamiento con sorivudina o sus análogos químicamente relacionados, tal como la brivudina,
+Si existen contraindicaciones a cualquiera de los agentes del régimen combinado, no se deberá utilizar
+ese agente.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Los efectos tóxicos que limitan la dosis incluyen diarrea, dolor abdominal, náuseas, estomatitis y el
+síndrome mano-pie (reacción cutánea mano-pie, eritrodisestesia palmo-plantar). La mayoría de las
+reacciones adversas son reversibles y no requieren la interrupción permanente del tratamiento, aunque
+puede ser necesario suspender o reducir las dosis.
+                                                     6
+Diarrea. Xeloda puede inducir la aparición de diarrea, esto ha sido observado en el 50% de los
+pacientes. Se debe monitorizar cuidadosamente a los pacientes con diarrea severa y administrarles
+fluidos y reposición de electrolitos si llegaran a deshidratarse. Se pueden emplear los tratamientos
+antidiarreicos estándar (ej. loperamida). La NCIC CTC define la diarrea de grado 2 como un aumento
+de 4 a 6 deposiciones/día ó deposiciones nocturnas, diarrea de grado 3 como un aumento de 7 a 9
+deposiciones/día o incontinencia y malabsorción, y diarrea de grado 4 como un aumento de  10
+deposiciones/día o melenas o la necesidad de un soporte parenteral. La reducción de dosis se realizará
+según sea necesario (ver apartado 4.2).
+ Deshidratación. La deshidratación se debe prevenir o corregir desde el inicio. Los pacientes con
+anorexia, astenia, náuseas, vómitos o diarrea pueden deshidratarse con mayor rapidez. Si se observa
+una deshidratación de grado 2 (o mayor), deberá interrumpirse de inmediato el tratamiento con Xeloda
+y se corregirá la deshidratación. No se reiniciará el tratamiento hasta que no se haya rehidratado al
+paciente y se hayan corregido o controlado las causas desencadenantes. Las modificaciones de dosis se
+realizarán según sea necesario en función de la reacción adversa desencadenante (ver apartado 4.2).
+ Síndrome mano-pie (también conocido como reacción cutánea mano-pie, eritrodisestesia palmo-
+plantar o eritema acral inducido por quimioterapia). El síndrome mano-pie de grado 1 se define como
+entumecimiento, disestesia/parestesia, hormigueo, tumefacción indolora o eritema de las manos y/o los
+pies y/o incomodidad que no altera las actividades normales del paciente.
+El síndrome mano-pie de grado 2 se define como un eritema doloroso y tumefacción de manos y/o
+pies produciendo una incomodidad que afecta a las actividades de la vida diaria del paciente.
+El síndrome mano-pie de grado 3 se define como una descamación húmeda, ulceración, aparición de
+vesículas y dolor intenso de manos y/o pies y/o fuerte malestar que causa en el paciente incapacidad
+para trabajar o realizar las actividades de la vida diaria. Si se presenta síndrome mano-pie de grado 2 ó
+3, se debe interrumpir la administración de Xeloda hasta que desaparezca el efecto o disminuya en
+intensidad a grado 1. Después del síndrome mano-pie de grado 3, las dosis posteriores de Xeloda
+deben disminuirse. Cuando Xeloda y cisplatino se utilizan en combinación, no se recomienda el uso de
+la vitamina B6 (piridoxina) para el tratamiento profiláctico secundario o sintomático del síndrome
+mano-pie, ya que existen informes publicados en los que se recoge que su uso podría disminuir la
+eficacia del cisplatino.
+ Cardiotoxicidad. Se ha asociado la cardiotoxicidad con la terapia con fluoropirimidinas, la cual
+incluye infarto de miocardio, angina, disritmias, shock cardiogénico, muerte súbita y cambios en el
+electrocardiograma. Estas reacciones adversas fueron más comunes en pacientes con un historial
+previo de enfermedad arterial coronaria. En pacientes tratados con Xeloda se ha descrito arritmias
+cardiacas, angina de pecho, infarto de miocardio, fallo cardiaco y cardiomiopatía. Se debe tener
+precaución en pacientes con antecedentes de enfermedad cardiaca importante, arritmias y angina de
+pecho (ver apartado 4.8).
+ Hipo- o hipercalcemia. Se ha observado hipo- e hipercalcemia durante el tratamiento con Xeloda. Se
+debe tener precaución en pacientes con hipo- o hipercalcemia pre-existente (ver apartado 4.8).
+ Enfermedad del sistema nervioso central o periférico. Se debe tener precaución en pacientes con
+enfermedad del sistema nervioso central o periférico, p.ej. metástasis cerebrales o neuropatía (ver apartado 4.8).
+ Diabetes mellitus o alteraciones de los electrolitos. Se debe tener precaución en pacientes con diabetes
+mellitus o con alteración de los electrolitos ya que éstos pueden agravarse durante el tratamiento con
+Xeloda.
+ Anticoagulación con derivados de cumarina. En un estudio de interacción medicamentosa con la
+administración de dosis única de warfarina se observó un incremento significativo en el AUC medio
+(+57%) de la S-warfarina. Estos resultados sugieren una interacción, probablemente debida a una
+inhibición por capecitabina del sistema isoenzimático citocromo P450 2C9. En los pacientes que
+reciban terapia concomitante con Xeloda y anticoagulantes derivados de cumarina por vía oral se debe
+                                                    7
+monitorizar estrechamente su respuesta anticoagulante (INR o tiempo de protrombina) y se ajustará
+convenientemente la dosis de anticoagulante (ver apartado 4.5).
+ Insuficiencia hepática. En ausencia de datos de seguridad y eficacia en pacientes con insuficiencia
+hepática, se debe monitorizar cuidadosamente el uso de Xeloda en pacientes con disfunción hepática
+de leve a moderada, independientemente de que existan o no metástasis hepáticas. Se debe interrumpir
+la administración de Xeloda en caso de que se presenten aumentos relacionados con el tratamiento de
+la bilirrubina >3,0 x ULN o de las aminotransferasas hepáticas (ALT, AST) de >2,5 x ULN. El
+tratamiento con Xeloda en monoterapia se podrá reanudar si la bilirrubina desciende hasta 3,0 x ULN
+o las aminotransferasas hepáticas disminuyen hasta 2,5 x ULN. Para el tratamiento en combinación
+de Xeloda más docetaxel, ver también sección 4.2.
+ Insuficiencia renal. La incidencia de reacciones adversas grado 3 o 4 está aumentada en pacientes con
+insuficiencia renal moderada (aclaramiento de creatinina 30-50 ml/min) con respecto a la población
+normal (ver secciones 4.2 y 4.3).
+ Como este medicamento contiene lactosa anhidra como excipiente, los pacientes con problemas
+hereditarios raros de intolerancia a la galactosa, deficiencia de lactasa de los lapones (Lapp lactasa) o
+malabsorción de glucosa-galactosa no deben tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Los estudios de interacciones se han realizado sólo en adultos.
+ Interacción con con otros medicamentos:
+ Anticoagulantes derivados de cumarina: se ha observado alteración de los parámetros de coagulación
+y/o sangrado en pacientes tratados con Xeloda concomitantemente con anticoagulantes derivados de
+cumarina tales como warfarina o fenprocumon. Estas reacciones se producen en algunos días hasta
+varios meses tras iniciar la terapia con Xeloda y, en unos pocos casos, dentro del primer mes tras
+finalizar el tratamiento con Xeloda. En un estudio clínico de interacción farmacocinética, en el que se
+administró una dosis única de 20 mg de warfarina, el tratamiento con Xeloda aumentó el AUC de la S-
+warfarina un 57% y el valor de INR, un 91%. Dado que el metabolismo de R-warfarina no se afectó,
+estos resultados indican que la capecitabina inhibe el isoenzima 2C9 pero no tiene efecto sobre las
+isoenzimas 1A2 y 3A4. Aquellos pacientes que tomen anticoagulantes derivados de cumarina
+concomitantemente con Xeloda deben monitorizarse de forma regular para detectar alteraciones en sus
+parámetros de coagulación (TP o INR) y la dosis del anticoagulante se ajustará convenientemente.
+ Fenitoina: se ha observado un incremento en las concentraciones plasmáticas de fenitoina que, en
+casos aislados, ha conllevado síntomas de intoxicación por fenitoina durante el uso concomitante de
+Xeloda con fenitoina. Se debe monitorizar regularmente a aquellos pacientes que tomen fenitoina
+concomitantemente con Xeloda para detectar aumento de la concentración plasmática de fenitoina.
+ Ácido folínico: un estudio de combinación de Xeloda y ácido folínico (leucovorina) mostró que el
+ácido folínico no tiene un efecto importante sobre la farmacocinética de Xeloda y sus metabolitos. Sin
+embargo, el ácido folínico tiene un efecto sobre la farmacodinamia de Xeloda y su toxicidad puede
+verse aumentada por el ácido folínico: la dosis máxima tolerada (DMT) de Xeloda en monoterapia
+empleando el régimen intermitente es de 3000 mg/m2 por día mientras que es de sólo 2000 mg/m2 por
+día cuando se combina con ácido folínico (30 mg dos veces al día por vía oral).
+ Sorivudina y análogos: se ha descrito una interacción medicamento-medicamento clínicamente
+significativa entre la sorivudina y el 5-FU originada por la inhibición de la dihidropirimidin
+dehidrogenasa por la sorivudina. Esta interacción, que provoca un aumento de la toxicidad de la
+fluoropirimidina, es potencialmente fatal. Por lo tanto, Xeloda no debe administrarse con sorivudina o
+sus análogos químicamente relacionados, tal como la brivudina (ver apartado 4.3).
+                                                      8
+Antiácido: se estudió el efecto de un antiácido que contiene hidróxido de aluminio e hidróxido de
+magnesio sobre la farmacocinética de capecitabina. Hubo un pequeño aumento de las concentraciones
+plasmáticas de capecitabina y de un metabolito (5'-DFCR); no hubo ningún efecto sobre los 3
+principales metabolitos (5'-DFUR, 5-FU y FBAL).
+ Alopurinol: se han observado interacciones del 5-FU con alopurinol que pueden disminuir la eficacia
+del 5-FU. Se debe evitar el uso concomitante de alopurinol con Xeloda.
+ Interacción con citocromo P-450: Para interacciones potenciales con las isoenzimas 1A2, 2C9 y 3A4,
+ver interacciones con anticoagulantes derivados de cumarina.
+ Interferón alfa: cuando se combinó con interferón alfa-2a (3 MUI/m2 por día), la DMT de Xeloda fue
+de 2000 mg/m2 por día mientras que fue de 3000 mg/m2 por día cuando se empleó Xeloda sola.
+ Radioterapia: la dosis máxima tolerada (MTD) de Xeloda en monoterapia usando el régimen
+intermitente es de 3000 mg/m2 mientras que, cuando se combina con radioterapia para el cáncer rectal,
+la MTD es de 2000 mg/m2 por día independientemente de que se siga una pauta continua de
+tratamiento o que se administre diariamente de lunes a viernes durante un ciclo de radioterapia de 6
+semanas.
+ Oxaliplatino: cuando se administró capecitabina en combinación con oxaliplatino o en combinación
+con oxaliplatino y bevacizumab, no se produjeron diferencias clínicamente significativas en la
+exposición a capecitabina o sus metabolitos, a platino libre o a platino total.
+ Bevacizumab: bevacizumab en presencia de oxaliplatino no produjo ningún efecto clínicamente
+significativo en los parámetros farmacocinéticos de la capecitabina o sus metabolitos.
+ Interacción con alimentos: En todos los ensayos clínicos, se les dio instrucción a los pacientes para
+tomar Xeloda dentro de los 30 minutos después de una comida. Como los datos actuales de seguridad
+y eficacia están basados en la administración con alimentos, se recomienda administrar Xeloda con
+alimentos. La administración con alimentos disminuye el índice de absorción de capecitabina (ver apartado 5.2).
+ 4.6   Embarazo y lactancia
+ No existen estudios sobre Xeloda en mujeres embarazadas, sin embargo, cabe admitir que Xeloda
+puede causar daño fetal si se administra a mujeres embarazadas. La administración de Xeloda produjo
+mortalidad embrionaria y teratogenia en los estudios sobre toxicidad reproductora en los animales.
+Estos datos constituyen efectos previsibles de los derivados de la fluoropirimidina. Xeloda está
+contraindicado durante el embarazo. Las mujeres en edad fértil deben ser advertidas para evitar el
+embarazo mientras son tratadas con Xeloda y deben ser informadas acerca del riesgo potencial para el
+feto.
+ Se desconoce si Xeloda se elimina en la leche materna. En ratones lactantes, se han detectado
+cantidades considerables de capecitabina y sus metabolitos en la leche. Se debe interrumpir la
+lactancia mientras se reciba tratamiento con Xeloda.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La influencia de Xeloda sobre la capacidad para conducir y utilizar máquinas es pequeña o moderada.
+Xeloda puede causar mareos, fatiga y náuseas.
+ 4.8   Reacciones adversas
+ Las reacciones adversas consideradas por el investigador como posible, probable o remotamente
+relacionadas con la administración de Xeloda provienen de los ensayos clínicos realizados en > 3000
+pacientes con Xeloda en monoterapia (como tratamiento adyuvante en cáncer de colon, en cáncer
+                                                    9
+colorrectal metastásico y en cáncer de mama metastásico), con Xeloda en combinación con docetaxel
+en cáncer de mama metastásico tras fracaso de quimioterapia citotóxica, con Xeloda en combinación
+con oxaliplatino con o sin bevacizumab en cáncer colorrectal metastásico y con Xeloda en
+combinación con varios agentes en cáncer gástrico avanzado. En esta sección se recogen los datos de
+seguridad obtenidos de la población de los ensayos clínicos tanto con el tratamiento en monoterapia
+como en combinación. A continuación se recoge la experiencia post-comercialización. En la sección
+5.1, se detallan los principales ensayos realizados, incluyendo el diseño de los mismos y los
+principales resultados de eficacia.
+ Las reacciones adversas relacionadas con el tratamiento más frecuentemente observadas fueron
+alteraciones gastrointestinales (especialmente diarrea, náuseas, vómitos, dolor abdominal, estomatitis),
+fatiga y síndrome mano-pie (eritrodisestesia palmo-plantar).
+ Para clasificar las reacciones adversas por frecuencia se utilizan las siguientes categorías: Muy
+frecuentes (1/10), frecuentes (1/100, < 1/10) y poco frecuentes (1/1,000, < 1/100). Las reacciones
+adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de frecuencia.
+ Xeloda en Monoterapia:
+ Los datos de seguridad de Xeloda en monoterapia se han obtenido de >1900 pacientes. En la Tabla 4
+se incluyen las reacciones adversas asociadas con el uso de Xeloda en monoterapia en los tres
+principales ensayos clínicos en el tratamiento adyuvante del cáncer de colon y del cáncer colorrectal
+metastásico. Cada una de las reacciones adversas se ha añadido en el grupo de frecuencia apropiado en
+función de la incidencia global obtenida a partir de un análisis combinado de los resultados de
+seguridad de estos tres principales ensayos clínicos en cáncer colorrectal.
+ Las reacciones adversas relacionadas con el tratamiento más frecuentemente observadas en estos
+ensayos fueron alteraciones gastrointestinales, especialmente diarrea, náuseas, vómitos, estomatitis y
+síndrome mano-pie (eritrodisestesia palmo-plantar). Los perfiles de seguridad de Xeloda en
+monoterapia son comparables entre las poblaciones con cáncer de mama metastásico, con cáncer
+colorrectal metastásico y con cáncer de colon adyuvante.
+ Tabla 4 Resumen de las reacciones adversas observadas en pacientes tratados con Xeloda en
+monoterapia para el tratamiento adyuvante del cáncer de colon y del cáncer colorrectal
+metastásico
+Sistema de            Muy Frecuentes              Frecuentes              Poco Frecuentes
+Clasificación de               ( 1/10)             ( 1/100 < 1/10)          (1/1.000 < 1/100)
+Órganos
+Infecciones e
+infestaciones
+                                                    10
+Sistema de
+Clasificación de                                    ( 1/100 < 1/10)      (1/1.000 < 1/100)
+Órganos
+Neoplasias benignas,
+malignas y no
+especificadas
+Trastornos de la
+sangre y del sistema
+linfático
+Trastornos del sistema
+inmunológico
+Trastornos del
+metabolismo y de la
+nutrición
+Trastornos
+psquiátricos
+Trastornos del sistema
+nervioso
+Trastornos oculares
+Trastornos del oído y
+del laberinto
+Trastornos cardíacos
+ Sistema de
+Clasificación de                                         ( 1/100 < 1/10)          (1/1.000 < 1/100)
+Órganos
+Trastornos vasculares
+Trastornos
+respiratorios, torácicos
+y mediastínicos
+Trastornos
+gastrointestinales
+Trastornos
+hepatobiliares
+Trastornos de la piel y
+del tejido subcutáneo
+ Sistema de
+Clasificación de                                        ( 1/100 < 1/10)        (1/1.000 < 1/100)
+Órganos
+Trastornos
+musculoesqueléticos y
+del tejido conjuntivo
+Trastornos renales y
+urinarios
+Trastornos del aparato
+reproductor y de la
+mama
+Trastornos generales y
+alteraciones en el lugar
+de la administración
+Exploraciones
+complementariass
+Lesiones traumáticas,
+intoxicaciones y
+complicaciones de
+procedimientos
+terapéuticos
+ Anormalidades de laboratorio observadas con Xeloda en Monoterapia:
+ En la Tabla 5 se incluyen las anormalidades de laboratorio, de todos los grados, observadas cuando se
+administró Xeloda en monoterapia en los tres principales ensayos en el tratamiento adyuvante de
+cáncer de colon y en el cáncer colorrectal metastásico. Cada una de las anormalidades de laboratorio
+se ha incluido en el grupo de frecuencia apropiado en función de la incidencia global obtenida a partir
+de un análisis combinado de los datos de seguridad de estos tres principales ensayos clínicos en cáncer
+colorrectal.
+ Tabla 5 Anormalidades de laboratorio observadas en pacientes tratados con Xeloda en monoterapia
+Grado de               Muy frecuentes                 Frecuentes            Poco frecuentes
+Anormalidad                  ( 1/10)                                         (1/1.000 < 1/100)
+Pacientes con
+anormalidades de
+grado 1 a 4
+Pacientes con grado
+3/4
+Pacientes con grado 4 -                             Disminución de
+ Xeloda en terapia de combinación:
+ Las Tablas 6, 7, y 8 recogen aquellas reacciones adversas que se notificaron en pacientes tratados con
+Xeloda en combinación con otro agente y que difieren de las observadas con Xeloda en monoterapia
+(ver Tabla 4) o que se han observado con una mayor frecuencia en comparación con Xeloda en
+monoterapia (ver Tabla 4). La Tabla 9 recoge aquellas reacciones adversas que se notificaron en
+pacientes tratados con Xeloda en combinación con dos agentes (oxaliplatino y bevacizumab) que
+difieren de las observadas con Xeloda en monoterapia y de las observadas con Xeloda en
+combinación con oxaliplatino (ver Tabla 8), o que se han observado con una mayor frecuencia en
+comparación con Xeloda en monoterapia y con Xeloda en combinación con oxaliplatino (ver Tabla 8).
+ Cada una de las reacciones adversas se ha añadido en el grupo de frecuencia apropiado en función de
+la incidencia observada en el principal ensayo clínico (para las combinaciones con cisplatino, con
+docetaxel, y con oxaliplatino y bevacizumab) o en el análisis global de seguridad (para la combinación
+con oxaliplatino).
+ Las reacciones adversas poco frecuentes notificadas con la terapia de combinación de Xeloda con
+otro agente concuerdan con las reacciones adversas a medicamentos notificadas con Xeloda en
+monoterapia o notificadas con Xeloda en monoterapia junto con el agente de combinación (en la
+literatura y/o en la ficha técnica correspondiente).
+ Xeloda en combinación con cisplatino:
+Los resultados de seguridad de Xeloda en combinación con cisplatino se han obtenido de
+> 150 pacientes. La Tabla 6 recoge las reacciones adversas relacionadas con el uso de Xeloda en
+combinación con cisplatino en el principal ensayo clínico en cáncer gástrico.La incidencia del
+síndrome mano-pie para el tratamiento con Xeloda más cisplatino fue del 22% (todos los grados) y del
+4% (grado 3) en el ensayo ML17032 (ver apartado 5.1).
+ Tabla 6 Resumen de las reacciones adversas relacionadas con el tratamiento, notificadas en pacientes
+tratados con Xeloda en combinación con cisplatino que difieren de las observadas con
+Xeloda en monoterapia o que se han observado con una mayor frecuencia en comparación
+con Xeloda en monoterapia
+Sistema de Clasificación de          Muy Frecuentes                         Frecuentes
+Órganos                        ( 1/10)                        ( 1/100 - < 1/10)
+                                       TODOS LOS GRADOS                 TODOS LOS GRADOS
+Infecciones e infestaciones
+Trastornos de la sangre y del
+sistema linfático
+Trastornos del metabolismo y
+de la nutrición
+Trastornos psquiátricos
+Trastornos del sistema
+nervioso
+Trastornos del oído y del
+laberinto
+Trastornos gastrointestinales
+Trastornos hepatobiliares
+Trastornos de la piel y del
+tejido subcutáneo
+Trastornos
+musculoesqueléticos y del
+tejido conjuntivo
+Trastornos generales y
+alteraciones en el lugar de la
+administración
+Exploraciones
+complementarias
+ Xeloda en combinación con docetaxel:
+Los datos de seguridad de Xeloda en combinación con docetaxel se han obtenido de > 250 pacientes.
+La Tabla 7 recoge las reacciones adversas relacionadas con el uso de Xeloda en combinación con
+docetaxel en el principal ensayo clínico en cáncer de mama metastásico.
+                                                      15
+Tabla 7 Resumen de las reacciones adversas relacionadas con el tratamiento, notificadas en pacientes
+tratados con Xeloda en combinación con docetaxel que difieren de las observadas con
+Xeloda en monoterapia o que se han observado con una mayor frecuencia en comparación
+con Xeloda en monoterapia
+Sistema de Clasificación de           Muy Frecuentes                        Frecuentes
+Órganos                         ( 1/10)                        ( 1/100 - < 1/10)
+                                     TODOS LOS GRADOS                    TODOS LOS GRADOS
+Infecciones e infestaciones
+Trastornos de la sangre y del
+sistema linfático
+Trastornos del metabolismo y
+de la nutrición
+Trastornos del sistema
+nervioso
+Trastornos oculares
+Trastornos vasculares
+Trastornos respiratorios,
+torácicos y mediastínicos
+Trastornos gastrointestinales
+Trastornos de la piel y del
+tejido subcutáneo
+Trastornos
+musculoesquléticos y del
+tejido conjuntivo
+Trastornos generales y
+alteraciones en el lugar de la
+administración
+ Xeloda en combinación con oxaliplatino:
+Los datos de seguridad de Xeloda en combinación con oxaliplatino se han obtenido de
+> 900 pacientes. La Tabla 8 recoge las reacciones adversas relacionadas con el uso de Xeloda en
+combinación con oxaliplatino procedentes de un análisis global de los datos de seguridad de los dos
+ensayos clínicos principales en primera y segunda línea de tratamiento del cáncer colorrectal
+metastásico.
+ Tabla 8 Resumen de las reacciones adversas relacionadas con el tratamiento, notificadas en pacientes
+tratados con Xeloda en combinación con oxaliplatino para el tratamiento en primera y en
+segunda línea del cáncer colorrectal metastásico. Las reacciones adversas que se recogen son
+aquellas que difieren de las observadas con Xeloda en monoterapia o que se han observado
+con una mayor frecuencia en comparación con Xeloda en monoterapia
+Sistema de                     Muy Frecuentes                         Frecuentes
+Clasificación de                       ( 1/10)                       ( 1/100 - < 1/10)
+Órganos
+                                  -                                  Infección del tracto urinario,
+Infecciones e infestaciones
+Trastornos de la sangre y del
+sistema linfático
+Trastornos del sistema
+inmunológico
+                                                   16
+Sistema de
+Clasificación de                                                    ( 1/100 - < 1/10)
+Órganos
+                                  -                                 Hipopotasemia, Hipomagnesemia,
+Trastornos del metabolismo y
+de la nutrición
+Trastornos psquiátricos
+Trastornos del sistema
+nervioso
+Trastornos oculares
+Trastornos vasculares
+Trastornos respiratorios,
+torácicos y mediastínicos
+Trastornos gastrointestinales
+Trastornos de la piel y del
+tejido subcutáneo
+Trastornos
+musculoesqueléticos y del
+tejido conjuntivo
+Trastornos renales y urinarios
+Trastornos generales y
+alteraciones en el lugar de la
+administración
+ Xeloda en combinación con oxaliplatino y bevacizumab:
+Los datos de seguridad de Xeloda en combinación con oxaliplatino y bevacizumab se han obtenido de
+> 350 pacientes. La Tabla 9 recoge las reacciones adversas relacionadas con el uso de Xeloda en
+combinación con oxaliplatino y bevacizumab en un ensayo clínico en el tratamiento en primera línea
+del cáncer colorrectal metastásico.
+ Tabla 9    Resumen de las reacciones adversas relacionadas con el tratamiento notificadas en
+pacientes tratados con Xeloda en combinación con oxaliplatino y bevacizumab para el
+tratamiento en primera línea del cáncer colorrectal metastásico. Las reacciones adversas
+que se recogen son aquellas que difieren de las observadas con Xeloda en monoterapia y
+con Xeloda en combinación con oxaliplatino o que se han observado con una mayor
+frecuencia en comparación con Xeloda en monoterapia y con Xeloda en combinación
+con oxaliplatino.
+Sistema de                     Muy Frecuentes                          Frecuentes
+Clasificación de                       ( 1/10)                        ( 1/100 - < 1/10)
+Órganos
+                                  -                                Rinitis, Gripe
+Infecciones e infestaciones
+Trastornos de la sangre y del
+sistema linfático
+Trastornos del metabolismo y
+de la nutrición
+                                                   17
+Sistema de
+Clasificación de                                                     ( 1/100 - < 1/10)
+Órganos
+                                  Cefalea                           -
+Trastornos del sistema
+nervioso
+Trastornos cardíacos
+Trastornos vasculares
+Trastornos respiratorios,
+torácicos y mediastínicos
+Trastornos gastrointestinales
+                                  -                                 Sudores nocturnos
+Trastornos de la piel y del
+tejido subcutáneo
+Trastornos
+musculoesqueléticos y del
+tejido conjuntivo
+Trastornos renales y urinarios
+Trastornos generales y
+alteraciones en el lugar de la
+administración
+Exploraciones
+complementarias
+Lesiones traumáticas,
+intoxicaciones y
+complicaciones de
+procedimientos terapéuticos
+ Xeloda en combinación con irinotecan:
+Las reacciones adversas notificadas en pacientes tratados con Xeloda en combinación con irinotecan
+que difieren de las observadas con Xeloda en monoterapia o que se han observado con una mayor
+frecuencia en comparación con Xeloda en monoterapia incluyen: Reacciones adversas de todos los
+grados muy frecuentes: trombosis/embolia; Reacciones adversas de todos los grados frecuentes:
+reacciones de hipersensibilidad, isquemia cardiaca/infarto; Reacciones adversas de grado 3 y grado 4
+frecuentes: neutropenia febril.
+ Xeloda en combinación con irinotecan y bevacizumab:
+Las reacciones adversas de grado 3 y grado 4 notificadas en pacientes tratados con Xeloda en
+combinación con irinotecan y bevacizumab que difieren de las observadas con Xeloda en
+monoterapia o que se han observado con una mayor frecuencia en comparación con Xeloda en
+monoterapia incluyen: Reacciones adversas de grado 3 y grado 4 frecuentes: neutropenia,
+trombosis/embolia, hipertensión e isquemia cardiaca/infarto.
+ Xeloda en combinación con epirubicina y oxaliplatino:
+Las reacciones adversas de grado 3 y grado 4 notificadas en pacientes tratados con Xeloda en
+combinación con epirubicina y oxaliplatino que difieren de las observadas con Xeloda en
+monoterapia o que se han observado con una mayor frecuencia en comparación con Xeloda en
+monoterapia incluyen: Reacciones adversas de grado 3 y grado 4 muy frecuentes: leucopenia,
+neutropenia, letargo; Reacciones adversas de grado 3 y grado 4 frecuentes: anemia, trombocitopenia,
+neutropenia febril, neuropatía periférica, infección, fiebre, tromboembolia.
+ Xeloda en combinación con epirubicina y cisplatino:
+Las reacciones adversas de Grado 3 y Grado 4 notificadas en pacientes tratados con Xeloda en
+combinación con epirubicina y cisplatino que difieren de las observadas con Xeloda en monoterapia o
+que se han observado con una mayor frecuencia en comparación con Xeloda en monoterapia
+incluyen: Reacciones adversas de grado 3 y grado 4 muy frecuentes: leucopenia, neutropenia, anemia,
+letargo, tromboembolia; Reacciones adversas de grado 3 y grado 4 frecuentes: trombocitopenia,
+neutropenia febril, neuropatía periférica, infección, fiebre.
+ Experiencia post-comercialización:
+Se han identificado las siguientes reacciones adversas adicionales durante los tratamientos post-
+comercialización:
+-     Muy raras: estenosis del conducto lagrimal.
+-     Muy raras: durante los ensayos clínicos y los tratamientos post-comercialización se han
+notificado casos de insuficiencia hepática y hepatitis colestásica.
+ 4.9   Sobredosis
+ Las manifestaciones de sobredosis agudas incluyen náuseas, vómitos, diarrea, mucositis, irritación
+gastrointestinal y sangrado, así como depresión de la médula ósea. El manejo médico de la sobredosis
+debe incluir terapia individualizada e intervención médica de soporte encaminadas a corregir las
+manifestaciones clínicas y prevenir sus posibles complicaciones.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: citostático (antimetabolito), código ATC: L01BC06
+ La capecitabina es un carbamato de fluoropirimidina no citotóxica que, administrado por vía oral,
+actúa como un precursor del citotóxico 5-fluorouracil (5-FU). La capecitabina se activa a través de
+varios pasos enzimáticos (ver apartado 5.2). La enzima responsable de la conversión final a 5-FU, la
+timidina fosforilasa (ThyPasa), se encuentra en tejidos tumorales así como en tejidos normales aunque
+con niveles generalmente más bajos. En modelos de xenotrasplante de cáncer humano, capecitabina
+mostró un efecto sinérgico en combinación con docetaxel lo cual puede estar relacionado con la
+estimulación (upregulation) de la timidina fosforilasa producida por el docetaxel.
+ Existen pruebas de que el metabolismo de 5-FU por vía anabólica bloquea la reacción de metilación
+del ácido desoxiuridílico hacia el ácido timidílico, por ello interfiere con la síntesis del ácido
+desoxirribonucleico (ADN). La incorporación del 5-FU también conduce a la inhibición del ARN y
+síntesis proteica. Dado que tanto el ADN como el ARN son esenciales para la división y el
+crecimiento celular, el efecto de 5-FU puede crear una deficiencia de timidina que provoca un
+crecimiento no equilibrado y la muerte celular. Los efectos de la privación del ADN y el ARN se
+acentúan en las células que proliferan más rápidamente y que metabolizan 5-FU con mayor velocidad.
+ Cáncer de colon y colorrectal:
+ Terapia adyuvante con Xeloda en cáncer de colon
+Los datos provenientes de un ensayo clínico fase III, multicéntrico, aleatorizado, controlado (ensayo
+XACT; M66001) realizado en pacientes con cáncer de colon estadio III (estadio C de Dukes) apoyan
+el empleo de Xeloda para el tratamiento adyuvante de pacientes con cáncer de colon. En este ensayo,
+se aleatorizaron 1987 pacientes en tratamiento con Xeloda (1250 mg/m2 dos veces al día durante 2
+semanas seguidas de 1 de descanso, administrándose en ciclos de 3 semanas durante 24 semanas) ó 5-
+FU y leucovorin (régimen de la Clínica Mayo: 20 mg/m2 de leucovorin por vía IV seguidos de
+425 mg/m2 de 5-FU en bolus por vía IV, los días 1 a 5, cada 28 días durante 24 semanas). Xeloda fue
+al menos equivalente a 5-FU/LV intravenoso en cuanto a la supervivencia libre de enfermedad en la
+población incluida en el protocolo (índice de riesgo 0,92; IC del 95%: 0,80-1,06). En toda la población
+aleatorizada, las pruebas para diferenciar la supervivencia libre de enfermedad y supervivencia global
+de Xeloda versus 5-FU/LV dieron unos índices de riesgo de 0,88 (IC del 95%: 0,77 ­ 1,01; p = 0,068)
+y de 0,86 (IC del 95%: 0,74-1,01; p = 0,060), respectivamente. La mediana de seguimiento en el
+                                                    19
+momento del análisis fue de 6,9 años. En un análisis multivariante de Cox predefinido se demostró la
+superioridad de Xeloda frente a 5-FU/LV administrado en bolo. En el plan de análisis estadístico se
+pre-especificaron los siguientes factores para su inclusión en el modelo: edad, tiempo desde la cirugía
+hasta la aleatorización, sexo, niveles basales de antígeno carcinoembriogénico (CEA), nódulos
+linfáticos al inicio, y país. Para toda la población aleatorizada, Xeloda demostró ser superior a 5FU/LV
+en términos de supervivencia libre de progresión (índice de riesgo 0,849 [IC del 95%: 0,739 - 0,976],
+p = 0,0212), así como en términos de supervivencia global (índice de riesgo 0,828 [IC del 95%: 0,705
+- 0,971], p = 0,0203). En la actualidad, no existen datos acerca del uso de Xeloda en combinación con
+otros agentes quimioterapéuticos en el tratamiento adyuvante del cáncer de colon.
+ Monoterapia con Xeloda en el cáncer colorrectal metastásico
+Los datos provenientes de dos ensayos clínicos fase III controlados, idénticamente diseñados,
+multicéntricos y aleatorizados (SO14695; SO14796) apoyan el uso de Xeloda para el tratamiento en
+primera línea del cáncer colorrectal metastásico. En estos ensayos, se aleatorizaron 603 pacientes en
+tratamiento con Xeloda (1250 mg/m2 dos veces al día durante 2 semanas seguidas de 1 semana de
+reposo, considerándose ciclos de 3 semanas). Otros 604 pacientes se aleatorizaron en el tratamiento
+con 5-FU y leucovorin (régimen Mayo: 20 mg/m2 de leucovorin IV seguido de un bolus IV de 5-FU
+425 mg/m2 los días 1 y 5, cada 28 días). Los índices de respuesta global objetiva en toda la población
+aleatorizada (evaluación de investigador) fueron 25,7% (Xeloda) versus 16,7% (régimen Mayo);
+p<0,0002. La mediana del tiempo hasta progresión fue de 140 días (Xeloda) versus 144 días (régimen
+Mayo). La mediana de supervivencia fue de 392 días (Xeloda) versus 391 días (régimen Mayo).
+Actualmente no se dispone de datos comparativos de Xeloda en monoterapia en cáncer colorrectal con
+regímenes de combinación en primera línea.
+ Terapia de combinación en el tratamiento en primera línea del cáncer colorrectal metastásico
+Los datos procedentes de un ensayo clínico fase III (NO16966) controlado, multicéntrico y
+aleatorizado apoyan el uso de Xeloda en combinación con oxaliplatino o en combinación con
+oxaliplatino y bevacizumab para el tratamiento en primera línea del cáncer colorrectal metastásico. El
+ensayo tuvo dos etapas: una etapa inicial con 2 brazos donde 634 pacientes fueron aleatorizados a dos
+grupos de tratamiento diferentes, que incluyeron XELOX o FOLFOX-4, y una etapa posterior con un
+diseño factorial 2x2 en la cual 1401 pacientes fueron aleatorizados a cuatro grupos de tratamiento
+diferentes que incluyeron XELOX + placebo, FOLFOX-4 + placebo, XELOX + bevacizumab, y
+FOLFOX-4 + bevacizumab. En la Tabla 10 se incluyen los distintos regímenes de tratamiento.
+ Tabla 10     Regímenes de tratamiento en el Ensayo NO16966 (CCRm)
+FOLFOX-4          Oxaliplatino                             Oxaliplatino el Día 1, cada 2 semanas
+o                                                      Leucovorin los Días 1 y 2, cada 2 semanas
+FOLFOX-4 +         Leucovorin
+Bevacizumab                                2h               5-fluorouracilo IV bolus/perfusión,
+XELOX           Oxaliplatino                             Oxaliplatino el Día 1, cada 3 semanas
+o                                                     Capecitabina oral dos veces al día durante
+XELOX+           Capecitabina
+Bevacizumab                           veces al día
+5-Fluorouracilo:     IV en bolus inmediatamente después de leucovorin
+ En la comparación global realizada sobre la población de pacientes aptos y sobre la población por
+intención de tratar se demostró la no-inferioridad en términos de supervivencia libre de progresión de
+los brazos que contenían XELOX frente a los brazos que contenían FOLFOX-4 (ver Tabla 11). Los
+resultados indican que XELOX es equivalente a FOLFOX-4 en términos de supervivencia global (ver
+Tabla 11). Se realizó un análisis exploratorio preespecificado comparando XELOX + bevacizumab
+frente a FOLFOX-4 + bevacizumab. En esta comparación por subgrupos de tratamiento, XELOX +
+bevacizumab fue similar a FOLFOX-4 + bevacizumab en términos de supervivencia libre de
+progresión (índice de riesgo 1,01 [IC del 97,5% 0,84; 1,22]). El seguimiento medio en el momento de
+los análisis principales en la población por intención de tratar fue de 1,5 años; los datos procedentes
+del análisis tras un año adicional de seguimiento también se han incluido en la Tabla 11. Sin embargo,
+el análisis de la supervivencia libre de progresión durante el tratamiento no confirmó los resultados del
+análisis general de supervivencia libre de progresión y del análisis de supervivencia global: el índice
+de riesgo (HR) de XELOX frente a FOLFOX-4 fue de 1,24 con un intervalo de confianza del 97,5%:
+de 1,07 a 1,44. Aunque los análisis de sensibilidad muestran que las diferencias en los esquemas de
+régimen y el momento de la evaluación del tumor influyen en el análisis de la supervivencia libre de
+progresión durante el tratamiento, no se ha encontrado una explicación completa de este resultado.
+ Tabla 11     Resultados principales de eficacia del análisis de no-inferioridad del Ensayo NO16966
+(EPP*: N=967; ITT**: N=1017)    (EPP*: N = 937; ITT**: N= 1017)
+Población                 Mediana del Tiempo hasta Acontecimiento (Días)          (IC del 97,5% )
+Parámetro: Supervivencia libre de progresión
+EPP                                                           259               1,05 (0,94; 1,18)
+ITT                                                           259               1,04 (0,93; 1,16)
+Parámetro: Supervivencia global
+EPP                        577                                549               0,97 (0,84; 1,14)
+ITT                        581                                553               0,96 (0,83; 1,12)
+Población                 Mediana del Tiempo hasta Acontecimiento (Días)          (IC del 97,5% )
+Parámetro: Supervivencia libre de progresión
+EPP                                                           259               1,02 (0,92; 1,14)
+ITT                                                           259               1,01 (0,91; 1,12)
+Parámetro: Supervivencia global
+EPP                        600                                594               1,00 (0,88; 1,13)
+ITT                        602                                596               0,99 (0,88; 1,12)
+*EPP=población de pacientes aptos; **ITT=población por intención de tratar
+ Los datos de un ensayo fase III (CAIRO) controlado y aleatorizado apoyan el uso de Xeloda a una
+dosis inicial de 1000 mg/m2 durante 2 semanas en combinación con irinotecan cada 3 semanas para el
+tratamiento en primera línea de pacientes con cáncer colorrectal metastásico. Se aleatorizaron 820
+pacientes para recibir bien tratamiento secuencial (n=410) o bien tratamiento de combinación (n=410).
+El tratamiento secuencial consistía en tratamiento en primera línea con Xeloda (1250 mg/m2 dos veces
+al día durante 14 días), tratamiento en segunda línea con irinotecan (350 mg/m2 en el día 1), y
+tratamiento combinado en tercera línea de capecitabina (1000 mg/m2 dos veces al día durante 14 días)
+con oxaliplatino (130 mg/m2 en el día 1). El tratamiento de combinación consistió en tratamiento de
+primera línea con Xeloda (1000 mg/m2 dos veces al día durante 14 días) combinado con irinotecan
+(250 mg/m2 en el día 1) (XELIRI) y en segunda línea con capecitabina (1000 mg/m2 dos veces al día
+durante 14 días) junto con oxaliplatino (130 mg/m2 en el día 1). Todos los ciclos de tratamiento fueron
+administrados a intervalos de 3 semanas. En el tratamiento en primera línea la mediana de
+supevivencia libre de progresión en la población por intención de tratar fue de 5,8 meses (IC del
+95%,5,1 - 6,2 meses) con Xeloda en monoterapia y de 7,8 meses (IC del 95%, 7,0-8,3 meses;
+p=0,0002) con XELIRI.
+ Los datos procedentes de un análisis intermedio en un ensayo fase II (AIO KRK 0604) controlado,
+multicéntrico y aleatorizado apoyan el uso de Xeloda a la dosis inicial de 800 mg/m2 durante 2
+semanas en combinación con irinotecan y bevacizumab cada 3 semanas en el tratamiento en primera
+                                                       21
+línea de pacientes con cáncer colorrectal metastásico. Se aleatorizaron 115 pacientes para recibir
+tratamiento con Xeloda en combinación con irinotecan (XELIRI) y bevacizumab: Xeloda (800 mg/m2
+dos veces al día durante dos semanas seguido de un período de descanso de 7 días), irinotecan (200
+mg/m2 en perfusión durante 30 minutos, el día 1 cada 3 semanas), y bevacizumab (7,5 mg/kg en
+perfusión durante 30 a 90 minutos el día 1 cada 3 semanas); un total de 118 pacientes fueron
+aleatorizados para recibir tratamiento con Xeloda en combinación con oxaliplatino + bevacizumab:
+Xeloda (1000 mg/m2 dos veces al día durante dos semanas seguido de un periodo de descanso de 7
+días), oxaliplatino (130 mg/m2 en perfusión durante 2 horas, el día 1 cada 3 semanas), y bevacizumab
+(7,5 mg/kg en perfusión de 30 a 90 minutos, el día 1 cada 3 semanas). La supervivencia libre de
+progresión a los 6 meses en la población por intención de tratar fue de un 80% (XELIRI +
+bevacizumab) frente a un 74% (XELOX + bevacizumab). El índice de respuesta global (respuesta total
++ respuesta parcial) fue de un 45% (XELOX + bevacizumab) frente a un 47% (XELIRI +
+bevacizumab).
+ Terapia de combinación en el tratamiento en segunda línea del cáncer colorrectal metastásico
+Los datos procedentes de un ensayo clínico fase III (NO16967) controlado, multicéntrico y
+aleatorizado apoyan el uso de Xeloda en combinación con oxaliplatino para el tratamiento en segunda
+línea del cáncer colorrectal metastásico. En este ensayo, 627 pacientes con carcinoma colorrectal
+metastásico que habían recibido tratamiento previo con irinotecan en combinación con un régimen de
+fluoropirimidina como tratamiento de primera línea, fueron aleatorizados para recibir tratamiento con
+XELOX o FOLFOX-4. Para el esquema de dosificación de XELOX y FOLFOX-4 (sin la adición de
+placebo o bevacizumab), ver la Tabla 10. En la población por protocolo y en la población por
+intención de tratar se demostró la no-inferioridad de XELOX frente a FOLFOX-4 en términos de
+supervivencia libre de progresión (ver Tabla 12). Los resultados indicaron que XELOX es equivalente
+a FOLFOX-4 en términos de supervivencia global (ver Tabla 12). La mediana de seguimiento en los
+análisis principales en la población por intención de tratar fue de 2,1 años; en la Tabla 12 también se
+incluyen datos procedentes de los análisis realizados tras un periodo de seguimiento adicional de 6
+meses.
+ Tabla 12     Resultados principales de eficacia en el análisis de no-inferioridad del Ensayo NO16967
+(PPP*: N=251; ITT**: N=313)    (PPP*: N = 252; ITT**: N= 314)
+Población                 Mediana del Tiempo hasta Acontecimiento (Días)         (IC del 95% )
+Parámetro: Supervivencia libre de progresión
+PPP                                                           168             1,03 (0,87; 1,24)
+ITT                                                           146             0,97 (0,83; 1,14)
+Parámetro: Supervivencia global
+PPP                        388                                401             1,07 (0,88; 1,31)
+ITT                        363                                382             1,03 (0,87; 1,23)
+Población                 Mediana del Tiempo hasta Acontecimiento (Días)         (IC del 95% )
+Parámetro: Supervivencia libre de progresión
+PPP                                                           166             1,04 (0,87; 1,24)
+ITT                                                           146             0,97 (0,83; 1,14)
+Parámetro: Supervivencia global
+PPP                        393                                402             1,05 (0,88; 1,27)
+ITT                        363                                382             1,02 (0,86; 1,21)
+*PPP=población por protocolo; **ITT=población por intención de tratar
+ Cáncer gástrico avanzado:
+ Los resultados de un ensayo clínico fase III multicéntrico, aleatorizado, controlado en pacientes con
+cáncer gástrico avanzado respaldan la utilización de Xeloda para el tratamiento en primera línea del
+cáncer gástrico avanzado (ML17032). En este ensayo, se aleatorizaron 160 pacientes a un tratamiento
+con Xeloda (1000 mg/m2 dos veces al día durante 2 semanas, seguido de un periodo de descanso de 7
+días) y cisplatino (80 mg/m2 durante una infusión de 2 horas cada 3 semanas). Se aleatorizaron un total
+de 156 pacientes a un tratamiento con 5-FU (800 mg/m2 por día, en infusión continua los días 1-5 cada
+                                                       22
+3 semanas) y cisplatino (80 mg/m2 durante una infusión de 2 horas el día 1, cada 3 semanas). Xeloda
+en combinación con cisplatino fue no inferior a 5-FU en combinación con cisplatino en términos de
+supervivencia libre de progresión en el análisis por protocolo (índice de riesgo 0,81; IC del 95%: 0,63
+­ 1,04). La mediana de la superviviencia libre de progresión fue de 5,6 meses (Xeloda + cisplatino)
+frente a 5,0 meses (5-FU + cisplatino). El índice de riesgo de la duración de supervivencia
+(supervivencia global) fue similar al índice de riesgo de la supervivencia libre de progresión (índice de
+riesgo 0,85; IC del 95%: 0,64 ­ 1,13). La mediana de la duración de supervivencia fue de 10,5 meses
+(Xeloda + cisplatino) frente a 9,3 meses (5-FU + cisplatino).
+ Los resultados de un ensayo fase III multicéntrico, aleatorizado, que comparaba capecitabina con 5-
+FU y oxaliplatino con cisplatino en pacientes con cáncer gástrico avanzado respaldan la utilización de
+Xeloda para el tratamiento en primera línea del cáncer gástrico avanzado (REAL-2). En este ensayo,
+mediante un diseño factorial, se aleatorizaron 1002 pacientes 2x2 a cada uno de los siguientes 4
+brazos:
+       ECF: epirubicina (50 mg/ m2 como bolus en el día 1 cada 3 semanas), cisplatino (60 mg/m2
+-
+como perfusión de dos horas en el día 1 cada 3 semanas) y 5-FU (200 mg/m2 administrado
+diariamente mediante perfusión continua a través de una vía central).
+ECX: epirubicina (50 mg/m2 como bolus en el día 1 cada 3 semanas), cisplatino (60 mg/m2
+-
+como perfusión de 2 horas en el día 1 cada 3 semanas), y Xeloda (625 mg/m2 dos veces al día
+de forma continuada).
+EOF: epirubicina (50 mg/m2 como bolus en el día 1 cada 3 semanas), oxaliplatino (130 mg/m2
+-
+administrado como perfusión de 2 horas en el día 1 cada tres semanas), y 5-FU (200 mg/m2
+administrado diariamente mediante perfusión continua a través de una vía central).
+EOX: epirubicina (50 mg/m2 como bolus en el día 1 cada 3 semanas), oxaliplatino (130 mg/m2
+-
+administrado cono perfusión de 2 horas en el día 1 cada tres semanas), y Xeloda (625 mg/m2
+dos veces al día de forma continuada).
+ Los análisis principales de eficacia en la población por protocolo demostraron la no inferioridad de la
+capecitabina frente a los regímenes basados en 5-FU (índice de riesgo 0,86, IC del 95%: 0,75 ­ 0,99) y
+del oxaliplatino frente a los regímenes basados en cisplatino (índice de riesgo 0,92, IC del 95%: 0,80 ­
+1,05). La mediana de supervivencia global fue de 10,9 meses en los regímenes basados en
+capecitabina y de 9,6 meses en los regímenes basados en 5-FU. La mediana de la supervivencia global
+fue de 10,1 meses en los regímenes basados en cisplatino y de 10,4 meses en los regímenes basados en
+oxaliplatino.
+ Xeloda también se ha utilizado en combinación con oxaliplatino para el tratamiento del cáncer gástrico
+avanzado. Los ensayos con Xeloda en monoterapia indican que Xeloda tiene actividad en el cáncer
+gástrico avanzado.
+ Cáncer de colon, colorrectal y gástrico avanzado: metaanálisis
+Un metaanálisis de seis ensayos clínicos (ensayos SO14695, SO14796, M66001, NO16966, NO16967,
+M17032) apoya la utilización de Xeloda en sustitución de 5-FU en monoterapia y en el tratamiento de
+combinación en cáncer gastrointestinal. El análisis conjunto incluye 3097 pacientes tratados con
+regímenes que contienen Xeloda y 3074 pacientes tratados con regímenes que contienen 5-FU. La
+mediana del tiempo de supervivencia global fue de 703 días (IC del 95%: 671; 743) en los pacientes
+tratados con regímenes que contenían Xeloda y de 683 días (IC del 95%: 648; 715) en los pacientes
+que fueron tratados con regímenes que contenían 5-FU. El índice de riesgo para la supervivencia
+global fue de 0,96 (IC del 95%: 0,90; 1,02) indicando que los regímenes que contienen Xeloda son
+equivalentes a los regímenes que contienen 5-FU.
+ Cáncer de mama:
+ Terapia de combinación con Xeloda y docetaxel en el cáncer de mama localmente avanzado o
+metastásico
+Los datos provenientes de un ensayo clínico fase III, controlado, multicéntrico, aleatorizado, apoyan el
+uso de Xeloda en combinación con docetaxel para el tratamiento de pacientes con cáncer de mama
+                                                    23
+localmente avanzado o metastásico tras fallo a terapia citotóxica que incluya una antraciclina. En ese
+ensayo, se aleatorizaron 255 pacientes en tratamiento con Xeloda (1250 mg/m2 dos veces al día
+durante 2 semanas seguidas de 1 semana de descanso y docetaxel en dosis de 75 mg/m2 en perfusión
+intravenosa durante 1 hora cada 3 semanas). Otros 256 pacientes fueron aleatorizados para ser tratados
+con docetaxel sólo (100 mg/m2 en perfusión intravenosa durante 1 hora cada 3 semanas). La
+supervivencia resultó mayor en la rama de tratamiento combinado con Xeloda + docetaxel (p=0,0126).
+La mediana de supervivencia fue de 442 días (Xeloda + docetaxel) frente a 352 días (docetaxel solo).
+Los índices de respuesta objetiva globales en toda la población aleatorizada (evaluación del
+investigador) fue del 41,6% (Xeloda + docetaxel) versus 29,7% (docetaxel sólo); p=0,0058. El tiempo
+hasta progresión de la enfermedad fue superior en el brazo tratado con la combinación Xeloda +
+docetaxel (p<0,0001). La mediana de tiempo hasta la progresión fue 186 días (Xeloda + docetaxel)
+versus 128 días (docetaxel sólo).
+ Monoterapia con Xeloda tras fallo a taxanos, quimioterapia que contenga antraciclinas o para
+aquellos pacientes en los que la terapia con antraciclinas no es
+ 
+	Prospectos de medicamentos.

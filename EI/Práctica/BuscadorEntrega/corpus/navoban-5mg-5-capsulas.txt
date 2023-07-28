@@ -1,0 +1,278 @@
+NAVOBAN 5MG 5 CAPSULAS
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA
+                                    NAVOBAN® ampollas
+ 
+1.     NOMBRE DE LOS MEDICAMENTOS
+	       Navoban® ampollas, tropisetron (DCI) clorhidrato
+Navoban® cápsulas, tropisetron (DCI) clorhidrato
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       Navoban ampollas              1 amp. (5ml) = tropisetron (DCI) clorhidrato 5,64 mg
+Navoban cápsulas              1 cáp. = tropisetron (DCI) clorhidrato 5,64 mg
+ 
+3.     FORMA FARMACÉUTICA
+	       Navoban ampollas : Solución inyectable en ampollas para administración intravenosa
+(adultos y niños) y oral (niños).
+Navoban cápsulas : Cápsulas para administración oral (adultos y niños de más de 25 kg
+de peso).
+ 
+
+
+4.     DATOS CLÍNICOS
+	"4.1.   Indicaciones terapéuticas
+        Prevención de náuseas y vómitos inducidos por la quimioterapia del cáncer.
+ 4.2.   Posología y forma de administración
+        Niños
+En niños de más de 2 años de edad la dosis recomendada de Navoban es de 0,2 mg/kg
+hasta una dosis máxima diaria de 5 mg. Se recomienda la administración de Navoban por
+vía intravenosa el día 1, antes de la quimioterapia, bien en forma de infusión (diluida en
+una solución de infusión normal, como suero salino, solución de Ringer, glucosa 5%, o
+levulosa 5%) o bien en forma de inyección lenta (no inferior a 1 minuto), seguida de una
+administración oral durante los días 2 a 6.
+ Navoban puede administrarse en forma de solución bebible, inmediatamente después de
+diluir la cantidad apropiada de tropisetron procedente de la ampolla, en zumo de naranja o
+cola, y deberá ingerirse por la mañana, una hora antes de ingerir cualquier alimento. Las
+cápsulas deberán ingerirse con agua por la mañana, inmediatamente después de
+despertarse, y una hora antes de ingerir cualquier alimento.
+        Adultos
+En adultos la dosis recomendada de Navoban es de 5 mg/día durante 6 días, administrado
+por vía intravenosa el día 1, antes de la quimioterapia, bien en forma de infusión (diluida
+en una solución de infusión normal, como suero salino, solución de Ringer, glucosa 5%, o
+levulosa 5%) o bien en forma de inyección lenta (no inferior a 1 minuto), seguida de una
+administración oral durante los días 2 a 6. Las cápsulas deberán ingerirse con agua por la
+mañana, inmediatamente después de despertarse, y una hora antes de ingerir cualquier
+alimento.
+        La eficacia terapéutica de tropisetron puede verse incrementada por la dexametasona.
+ 4.3.   Contraindicaciones
+        Hipersensibilidad conocida al tropisetron, a otros antagonistas de los receptores 5-HT3, o
+a cualquier otro componente de la fórmula (ver 6.1. ""Lista de excipientes""). Navoban no
+debe administrarse a mujeres embarazadas (ver 4.6. ""Embarazo y lactancia"").
+ 4.4.   Advertencias y precauciones especiales de empleo
+        Metabolizadores lentos de esparteína/debrisoquina
+En los pacientes que pertenecen a este grupo (aprox. el 8% de la población caucasiana), se
+prolonga la vida media de eliminación del tropisetron (4-5 veces más larga que en los
+metabolizadores rápidos). No obstante, cuando Navoban se administró por vía i.v. a dosis
+de hasta 40 mg dos veces al día, durante un período de 7 días a voluntarios sanos que eran
+metabolizadores lentos, no se produjeron reacciones adversas graves.
+        Estas observaciones indican que en los pacientes con metabolismo lento, sometidos a
+tratamientos de 6 días, no es necesario reducir la dosis diaria habitual de 5 mg.
+        Pacientes con trastornos de la función hepática o renal
+No se produce ningún cambio en la farmacocinética de tropisetron en los pacientes con
+hepatitis aguda o esteatosis hepática. En contraposición, los pacientes con cirrosis
+hepática o disfunción renal pueden presentar concentraciones plasmáticas hasta en un
+50% superiores a las halladas en voluntarios sanos correspondientes al grupo de
+metabolizadores rápidos de esparteína/debrisoquina. No obstante, no es necesario reducir
+la dosis en estos pacientes, cuando se administra la dosis recomendada de 5 mg/día
+durante 6 días.
+        Niños
+Se ha observado que Navoban se tolera bien en niños de más de 2 años de edad (ver apartado 4.2. Posología y forma de administración: niños).
+ Pacientes de edad avanzada
+No se ha observado que los pacientes de edad avanzada requieran dosis diferentes o
+experimenten efectos secundarios distintos a los de pacientes más jóvenes.
+        Pacientes con hipertensión
+En pacientes con hipertensión no controlada, deberán evitarse dosis diarias de Navoban
+superiores a 10 mg, dado que puede causar un mayor aumento de la presión sanguínea.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+        La administración concomitante de Navoban con rifampicina o con otros fármacos
+inductores de enzimas hepáticos (p.ej. fenobarbital) produce concentraciones plasmáticas
+más bajas de tropisetron, lo que hace necesario un aumento de la dosis en
+metabolizadores rápidos (pero no en metabolizadores lentos).
+        Los efectos de los inhibidores del enzima citocromo P450, como cimetidina, sobre los
+niveles plasmáticos de tropisetron, son insignificantes y no requieren ajuste de dosis.
+        La ingestión de la cápsula con comida puede producir un ligero aumento de la
+biodisponibilidad, del 60 al 80% aprox., que no es clínicamente significativo.
+                Se han observado prolongaciones del intervalo QTc no significativas
+clínicamente. Por lo tanto, debe tenerse precaución cuando se administra tropisetron
+concomitantemente con otros fármacos susceptibles de prolongar el intervalo QTc.
+ 4.6.   Embarazo y lactancia
+        Dado que Navoban no ha sido estudiado durante el embarazo en humanos, no debe
+administrarse a mujeres embarazadas.
+En la rata, tras la administración de tropisetron marcado se excretó radioactividad en la
+leche. No se sabe si tropisetron pasa a la leche materna, por lo que las madres bajo
+tratamiento con Navoban deberán suspender la lactancia.
+ 4.7.   Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+        No existen datos del efecto de este fármaco sobre la capacidad para conducir vehículos.
+Deberá tenerse en cuenta la aparición de sensación de mareo como efecto secundario.
+ 4.8.   Reacciones adversas
+        En general, las reacciones adversas son pasajeras a la dosis recomendada. Las reacciones
+adversas descritas con mayor frecuencia fueron cefalea, estreñimiento, y menos
+frecuentemente se observó, sensación de mareo, fatiga y trastornos gastrointestinales,
+tales como dolor abdominal y diarrea.
+        Como con otros antagonistas de los receptores 5-HT3, se han observado en raras
+ocasiones, reacciones de hipersensibilidad (""reacciones tipo I"") con uno o más de los
+                                                                                                    MINISTERIO
+síntomas siguientes: ruborización facial y/o urticaria generalizada, tensión cardíaca,
+disnea, broncoespasmo agudo, hipotensión.
+        En muy raras ocasiones, se ha descrito colapso, síncope o paro cardíaco, pero no se ha
+establecido la relación con Navoban. Algunas pueden ser causadas por el tratamiento
+concomitante o a la propia enfermedad.
+ 4.9.   Sobredosificación
+        Síntomas: A dosis repetidas muy altas, se han observado alucinaciones visuales, y en los
+pacientes con hipertensión previa, un aumento de la presión sanguínea.
+        Tratamiento: Se recomienda un tratamiento sintomático con monitorización frecuente de
+los signos vitales, así como una estrecha vigilancia del paciente.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1.   Propiedades farmacodinámicas
+        Grupo farmacoterapéutico: Antagonista de los receptores 5-HT3.
+        Mecanismo de acción: Tropisetron es un antagonista competitivo selectivo muy potente
+de los receptores 5-HT3, una subclase de los receptores de la serotonina localizados en las
+neuronas periféricas y dentro del SNC.
+        Se cree que algunas substancias, incluyendo ciertos agentes quimioterápicos provocan la
+liberación de la serotonina (5-HT) de las células tipo enterocromafines en la mucosa
+visceral e inician el reflejo de la emesis, junto con su correspondiente sensación de
+náuseas.
+        Tropisetron bloquea selectivamente la excitación de los receptores 5-HT3 presinápticos de
+las neuronas periféricas durante este reflejo, y puede ejercer acciones directas adicionales
+dentro del SNC sobre los receptores 5-HT3, mediando las acciones del estímulo vagal
+hacia el área postrema.
+        Estos efectos se consideran el principal mecanismo de acción del efecto antiemético del
+tropisetron.
+        Navoban posee una duración de acción de 24 horas que permite una administración única
+al día.
+        En los estudios en los que Navoban ha sido administrado durante ciclos múltiples de
+quimioterapia, el tratamiento ha seguido siendo efectivo. Navoban previene las náuseas y
+vómitos inducidos por la quimioterapia del cáncer sin causar efectos secundarios
+extrapiramidales.
+ 5.2.   Propiedades farmacocinéticas
+        Absorción
+Navoban se absorbe casi completamente (más de un 95%) en el tracto gastrointestinal,
+con una vida media de absorción de aproximadamente 20 minutos.
+Distribución
+El tropisetron se une en un 71% a las proteínas plasmáticas (especialmente 1-
+glicoproteínas) de forma no específica.
+        En adultos el volumen de distribución es de 400-600 L; en niños de 3 a 6 años es de 145
+L aproximadamente y en niños de 7 a 15 años es de 265 L aproximadamente.
+        Biotransformación
+La concentración plasmática máxima se alcanza al cabo de 3 horas. La biodisponibilidad
+absoluta es dependiente de la dosis y es del 60% a una dosis de 5 mg y mayor (hasta
+100%) a una dosis de 45 mg.
+        En niños la biodisponibilidad absoluta y semivida terminal fue similar a la de los
+voluntarios sanos.
+        El metabolismo de tropisetron se produce por hidroxilación en las posiciones 5, 6 ó 7 del
+anillo indol, seguida de una reacción de conjugación, dando glucurónidos o sulfatos, y
+excreción en la orina o bilis (relación orina/heces, 5:1). Los metabolitos presentan una
+potencia muy reducida frente a los receptores 5-HT3 y no contribuyen a la acción
+farmacológica del fármaco. El metabolismo de tropisetron está ligado al polimorfismo de
+esparteína/debrisoquina determinado genéticamente. Se sabe que aproximadamente el 8%
+de la población caucasiana son metabolizadores lentos para la vía
+esparteína/debrisoquina.
+        Eliminación
+La vida media de eliminación (fase ) es de aprox. 8 horas en los metabolizadores
+rápidos; en los metabolizadores lentos podría llegar a 45 horas (ver 4.4. ""Advertencias y
+precauciones especiales de empleo""). El aclaramiento total de tropisetron es de
+aproximadamente 1 L/min. con un aclaramiento renal de aproximadamente el 10%. En los
+metabolizadores lentos, el aclaramiento total se reduce a 0,1-0,2 L/min., aunque el
+aclaramiento renal permanece inalterado. Esta reducción del aclaramiento no renal
+provoca una vida media de eliminación de 4 a 5 veces más larga y valores AUC de 5 a 7
+veces más altos. Los valores de Cmáx y volumen de distribución no muestran diferencia
+alguna en comparación con los metabolizadores rápidos. En los metabolizadores lentos,
+se excreta en orina una mayor proporción de tropisetron inalterado que en los
+metabolizadores rápidos.
+        Los enzimas hepáticos que intervienen en el metabolismo de tropisetron pueden saturarse
+durante dosis múltiples, lo que podría conducir a un aumento de los niveles plasmáticos
+del fármaco de forma dosis-dependiente, durante administraciones repetidas. Esta
+acumulación es sólo farmacocinéticamente relevante a dosis superiores a 10 mg de
+Navoban, dos veces al día. No obstante, incluso en los metabolizadores lentos la
+exposición total al fármaco bajo estas condiciones es permisible dentro de los niveles
+tolerados por los pacientes y no debe suponer ningún problema clínico, siempre y cuando
+no se exceda la dosis recomendada de 5 mg una vez al día durante 6 días.
+ 5.3.   Datos preclínicos sobre seguridad
+        Toxicidad aguda
+                                                                                                    MINISTERIO
+La dosis mínima letal fue de 30 mg/kg para ratones y ratas después de la administración
+i.v. y de 420 mg/kg para ratones y de 180 mg/kg para ratas después de la administración
+oral.
+Las correspondientes dosis no letales fueron de 18 y 24 mg vía i.v. en ratones y ratas y de
+300 y 100 mg/kg vía oral en ratones y ratas, respectivamente.
+ Toxicidad crónica y subcrónica
+Administración oral
+En estudios de toxicidad crónica en ratas y perros se investigó la tolerancia después de
+una administración oral durante 6 meses.
+ Con dosis elevadas de hasta 40 veces la dosis humana, se observó una ligera disminución
+del peso corporal y de la ingesta de comida. Los niveles de dosificación conseguidos sin
+efectos tóxicos fueron: 20 mg/kg al día en ratas y 20 mg/kg al día en perros.
+ Administración intravenosa
+En perros, la administración intravenosa de tropisetron durante un período de 6 a 26
+semanas produjo ligeras alteraciones clínicas tales como vómitos, incremento en la
+salivación, excitación y diarrea. Estos efectos indeseables, también observados en los
+grupos de control con placebo (aunque menos pronunciados), fueron reversibles después
+de la finalización del tratamiento.
+ En perros, la dosis sin efecto tóxico fue desde 3 hasta 10 mg/kg al día (administración en
+bolus).
+ Carcinogenicidad
+En estudios de carcinogenicidad de dos años de duración en ratas y ratones, la incidencia
+de adenomas hepáticos aumentó únicamente en ratones macho que recibieron 30 y 90
+mg/kg por día.
+ Estudios adicionales de investigación ""in-vitro"" e ""in-vivo"" sostuvieron que los efectos
+observados en el hígado de ratones macho, eran específicos de las especies y el sexo.
+ Toxicidad sobre la reproducción
+Se estudió la toxicidad sobre la reproducción tras la administración oral en ratas y
+conejos.
+ Los parámetros de reproducción en ratas macho no se vieron influenciados por tropisetron
+administrado, en dosis diarias de hasta 45 mg/kg.
+ En ratas hembra, dosis a partir de 15 mg/kg por día, tóxicas para la madre, (150 veces la
+dosis diaria humana) perjudicaron la capacidad reproductora. No se observaron efectos
+embriotóxicos con dosis diarias de hasta 20 mg/kg en ratas y de 60 mg/kg en conejos. Se
+observó la muerte de embriones con dosis extremadamente elevadas, de 60 mg/kg por día
+en ratas, que fueron también tóxicas para las madres. En conejos se obtuvieron resultados
+similares, con dosis diarias de 120 mg/kg. Como consecuencia del embarazo prolongado
+en ratas, se redujo el peso de los fetos, y la mortalidad peri y post-natal aumentó.
+ Mutagenicidad
+Investigaciones realizadas en ratones sobre la mutagenicidad in vivo e in vitro no
+proporcionaron evidencia alguna sobre el efecto mutagénico del tropisetron.
+                                                                                               MINISTERIO
+"
+6.     DATOS FARMACÉUTICOS
+	"6.1.   Lista de excipientes
+        Navoban ampollas : Ácido acético glacial, acetato de sodio trihidrato, cloruro de sodio,
+agua para inyección.
+Navoban cápsulas : Sílice coloidal anhidra, estearato magnésico, almidón de maíz,
+lactosa (52,86 mg/cáp.), óxido de hierro amarillo (E 172), óxido de hierro rojo (E 172),
+dióxido de titanio (E 171), gelatina, goma laca.
+ 6.2.   Incompatibilidades
+        Navoban ampollas
+Las soluciones para inyección que muestran ser compatibles con la solución de Navoban
+ampollas se describen en el apartado 6.6 ""Instrucciones de uso/manipulación"".
+        Navoban cápsulas
+Ninguna.
+ 6.3.   Período de validez
+        El período de validez es de 3 años tanto para Navoban ampollas como para Navoban
+cápsulas.
+        La fecha de caducidad está indicada en el envase.
+        Las soluciones diluidas son física y químicamente estables durante al menos 24 horas.
+Desde un punto de vista microbiológico, el producto debería utilizarse inmediatamente. Si
+no se utiliza inmediatamente, el tiempo y las condiciones de conservación antes de su
+utilización son responsabilidad del manipulador y no debe exceder las 24 horas a 2-8 ºC.
+ 6.4.   Precauciones especiales de conservación
+        Ninguna.
+ 6.5.   Naturaleza y contenido del recipiente
+        Navoban ampollas: Las ampollas son de vidrio incoloro con una línea de ruptura por
+debajo del punto coloreado y dos anillos de color azul.
+        ESPECIALIDAD DE USO HOSPITALARIO / H
+        Navoban cápsulas: Las cápsulas se acondicionan en blisters de PVC/PVDC. Las
+cápsulas son de gelatina dura del tamaño nº 3 con la parte superior de color amarillo
+opaco con el triángulo Sandoz grabado en rojo y la parte inferior de color blanco opaco
+con la inscripción Navoban y la concentración 5 mg impresa en rojo.
+                                                                                                    MINISTERIO
+ESPECIALIDAD DE DIAGNOSTICO HOSPITALARIO / DH
+ 6.6.   Instrucciones de uso / manipulación
+        Las ampollas de vidrio de Navoban contienen una solución acuosa de 5 mg/5 ml. Esta
+solución es compatible con las siguientes soluciones de infusión (1 mg de tropisetron
+diluido en 20 ml): glucosa 5% (p/v); manitol 10% (p/v); solución de Ringer; cloruro de
+sodio 0,9% (p/v) y cloruro de potasio 0,3% (p/v); y levulosa 5% (p/v). Las soluciones son
+también compatibles con los tipos de envase habituales (vidrio, PVC) y sus
+correspondientes equipos de infusión.
+        Navoban ampollas:
+ Ampolla rompible.                               Colocar el pulgar por encima
+Línea de ruptura por debajo                     del punto coloreado y romper
+del punto coloreado.                            la ampolla presionando hacia atrás.
+ 6.7.   Nombre o razón social y domicilio permanente o sede social del titular de la
+autorización de comercialización
+        Novartis Farmacéutica, S.A.
+Gran Via de les Corts Catalanes, 764
+08013 - Barcelona
+Director Técnico : J.L. Faura Sanmartín
+        Fecha de publicación : Noviembre 2002
+"
+	Prospectos de medicamentos.

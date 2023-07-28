@@ -1,0 +1,223 @@
+BAYPRESOL 20, 500 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1.   DENOMINACIÓN DEL MEDICAMENTO
+	BAYPRESOL-20
+ 
+2.   COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	     Nitrendipino 20 mg.
+Ver Lista de excipientes en 6.1.
+ 
+3.   FORMA FARMACÉUTICA
+	     Comprimidos ranurados de color amarillo
+ 
+4.   DATOS CLÍNICOS
+	4.1 Indicaciones terapéuticas
+      Tratamiento de la hipertensión arterial y de la hipertensión arterial sistólica aislada del anciano.
+ 4.2 Posología y forma de administración
+      El tratamiento se realizará de forma individual, según la gravedad de la enfermedad. Se
+recomienda iniciar el tratamiento con 10 mg diarios. La dosis habitual es 1 comprimido, una
+vez al día (por la mañana). Si se necesitaran dosis más elevadas, se recomienda un aumento
+gradual de la dosis diaria hasta 2 comprimidos de nitrendipino 20 mg (1 comprimido con el
+desayuno y otro con la cena).
+En casos especiales, como el paciente anciano, o en pacientes con insuficiencia hepática, se
+aconseja iniciar el tratamiento con una dosis de 5 - 10 mg diarios y, si es necesario, aumentar
+la posología a 20 mg diarios en una o dos tomas.
+En pacientes con insuficiencia renal, no es necesario adaptar la posología.
+      Administración y duración tratamiento:
+      En general, el comprimido se ingiere sin masticar con ayuda de un poco de líquido (que no
+sea zumo de pomelo) después de las comidas.
+ 4.3 Contraindicaciones
+      Antecedentes de hipersensibilidad al nitrendipino.
+Shock cardiovascular.
+Embarazo y lactancia.
+En base a la experiencia con otros calcioantagonistas, no se administrará nitrendipino
+conjuntamente con rifampicina.
+ 4.4 Advertencias y precauciones especiales de empleo
+      En pacientes ancianos, pacientes con insuficiencia hepática, y aquellos que ya han sido
+tratados con antihipertensivos, es necesario iniciar el tratamiento con una dosis baja, con
+estricto control médico (Ver Posología y Forma de administración).
+En pacientes con insuficiencia coronaria leve, con hipertensión y enfermedad cerebrovascular
+grave o de edad avanzada que, debido a su bajo peso corporal o a una medicación
+concomitante con otros fármacos antihipertensivos, pueden reaccionar de forma excesiva al
+ nitrendipino, se recomienda iniciar el tratamiento con dosis bajas. También, en aquellos casos
+cuyos efectos secundarios precisen de un ajuste individual de la dosis.
+     En caso de precisar suspender el tratamiento, se recomienda disminuir la dosificación de
+forma gradual.
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+     El efecto antihipertensivo de nitrendipino se puede potenciar por acción de los
+betabloqueadores y/u con otros medicamentos antihipertensivos.
+En caso de administración concomitante con agentes bloqueadores alfaadrenérgicos como la prazosina, se han observado casos
+de hipotensión ortostática.
+     La administración concomitante con diuréticos puede aumentar inicialmente la natriuresis.
+La duración e intensidad de acción de los relajantes musculares como el pancuronio pueden
+aumentar en pacientes tratados con nitrendipino.
+La cimetidina y, en menor medida la ranitidina, pueden aumentar los niveles plasmáticos de
+nitrendipino y potenciar así los efectos de éste último.
+La administración simultánea de nitrendipino y digoxina puede producir una disminución de
+la eliminación de la digoxina y, en consecuencia, un incremento de los niveles plasmáticos de
+esta última. En estos casos, debe tenerse la precaución de buscar síntomas de
+sobredosificación digitálica y, en caso de necesidad, debe reducirse la dosis de digoxina en
+función de los niveles plasmáticos observados.
+El zumo de pomelo inhibe el metabolismo oxidativo del nitrendipino. La ingestión
+simultánea de éste último con zumo de pomelo aumenta su concentración plasmática, lo que
+puede incrementar el efecto hipotensor del preparado. En base a la experiencia con otros
+calcioantagonistas, este efecto puede durar hasta tres días desde la toma del zumo de pomelo.
+Por ello, los pacientes tratados con nitrendipino no deberían tomar zumo de pomelo.
+ Posibles interacciones
+Fenitoína, Fenobarbitona, Carbamazepina
+Dado que la fenitoína, fenobarbitona y carbamazepina son inductores potentes del sistema
+citocromo P450 3A4, la administración concomitante de nitrendipino conllevará una
+reducción importante de la biodisponibilidad de este último. Si se aumenta la dosis de
+nitrendipino durante el tratamiento conjunto con fenitoína, fenobarbitona o carbamazepina,
+se deberá tener en cuenta la reducción de la dosis de nitrendipino una vez finalice el
+tratamiento anticonvulsivante.
+Ketoconazol, Itraconazol, Fluconazol
+Ketoconazol, itraconazol y fluconazol son inhibidores del sistema citocromo P450 3A4, por
+lo que cuando se administran conjuntamente con nitrendipino, no puede excluirse un
+aumento importante de la biodisponibilidad sistémica de éste, por lo que deberá
+monitorizarse la tensión arterial del paciente y valorar una reducción de la dosis de
+nitrendipino.
+ Nefadozona
+Este antidepresivo es un inhibidor potente del sistema citocromo P450 3A4, por lo
+que no puede excluirse un aumento de las concentraciones plasmáticas de
+nitrendipino si el paciente está tomando este medicamento.
+Acido valproico
+Debido a una inhibición enzimática, el ácido valproico aumenta la concentración plasmática
+del antagonista del calcio nimodipino, cuya estructura es similar a la del nitrendipino; por
+este motivo, puede producirse un efecto similar con el nitrendipino.
+ Eritromicina, troleandromicina, claritromicina, roxitromicina
+Estos antibióticos macrólidos inhiben el metabolismo mediado por el citocromo P450 3 A4
+de determinados fármacos, por lo que en el tratamiento conjunto puede producirse un
+aumento de la concentración plasmática de nitrendipino.
+ Amprenavir, ritonavir, indinavir, nelfinavir, saquinavir
+Estos inhibidores de proteasas, son inhibidores potentes del sistema citocromo P450 3 A4,
+por lo que en el tratamiento conjunto cabe esperar un aumento de la concentración plasmática
+de nitrendipino.
+     Quinupristina/Dalfopristina
+El tratamiento conjunto de quinupristina/dalfopristina con nitrendipino puede producir un
+aumento de la concentración plasmática de este último.
+     No se han observado interacciones en el tratamiento conjunto con enalapril o midazolam.
+ 4.6 Embarazo y lactancia
+     Embarazo:
+     El nitrendipino está contraindicado durante el embarazo.
+     Fertilidad:
+     En casos aislados de fertilización in vitro, se ha asociado a los calcioantagonistas como el
+nitrendipino con cambios bioquímicos reversibles en la cabeza de los espermatozoides que
+pueden llegar a producir una alteración de la función espermática. En hombres en los que
+existen antecedentes de fracaso repetidos de paternidad mediante fertilización in vitro y en
+los que no pueda encontrarse otra explicación, los calcioantagonistas deben ser considerados
+como una razón posible.
+     Lactancia:
+     El nitrendipino está contraindicado durante la lactancia.
+ 4.7 Efectos sobre la capacidad para conducir y utilizar máquinas
+El nitrendipino puede, variando la intensidad según el individuo, limitar la capacidad para
+conducir automóviles o manejar maquinaria. Esto suele ocurrir al inicio del tratamiento, al
+cambiar de medicación. El riesgo se acentúa si se ingieren simultáneamente bebidas
+alcohólicas.
+4.8 Reacciones adversas
+     Incidencia:  10%
+Sistema cardiovascular                                 Vasodilatación
+Sistema nervioso                                       Dolor de cabeza
+     Incidencia:  1%<10%
+General                                                        Astenia
+Sistema cardiovascular                                 Palpitación, taquicardia
+Sistema digestivo                                      Náusea
+Trastornos metabólicos y de nutrición                  Edema periférico
+Sistema nervioso                                       Mareo
+     Incidencia:  0,1%<1%
+Sistema cardiovascular                      Angina de pecho, dolor torácico, hipotensión.
+Sistema digestivo                                  Dolor abdominal, estreñimiento, diarrea, dispepsia,
+Sistema músculo-óseo                               Mialgia
+Sistema nervioso                                   Nerviosismo, parestesia, temblor, vértigo.
+Sistema respiratorio                               Disnea
+Piel y anejos                                      Prurito, erupción, urticaria.
+Sentidos                                           Alteración visión, visión borrosa.
+Sistema urogenital                                 Aumento excreción urinaria, poliuria.
+     Incidencia:  0,01%<0,1%
+Sistema digestivo                                      Trastornos función hepática.
+ Incidencia:  0,01%
+Sistema digestivo                                      Hiperplasia gingival
+Piel y anejos                                          Ginecomastia
+Sistema hemolinfático                                  Leucopenia, agranulocitosis
+ 4.9 Sobredosis
+     Se han observado los siguientes síntomas en caso de sobredosificación severa o intoxicación:
+incremento de erupciones cutáneas, dolor de cabeza, reducción de la presión arterial (con
+colapso circulatorio) y alteración del ritmo cardiaco (taquicardia o bradicardia).
+Se aconseja como medida terapéutica inicial, el lavado gástrico seguido de instilación de
+carbón vegetal activo. Se deberán vigilar las funciones vitales. En caso de disminución
+extrema de la presión arterial, se recomienda la administración de dopamina y noradrenalina.
+Se deberán vigilar posibles efectos secundarios de las catecolaminas (en particular
+alteraciones del ritmo cardiaco).
+En caso de bradicardia, como suele ocurrir en los casos de sobredosificación o intoxicación con otros antagonistas del calcio, se
+deberá administrar atropina u orciprenalina.
+     Se ha demostrado que en caso de intoxicación con otros antagonistas del calcio, la
+administración repetida por vía intravenosa de 10 ml de gluconato cálcico o cloruro cálcico al
+10%, seguido de infusión gota a gota (cuidado con la hipercalcemia) mejora rápidamente los
+síntomas. Las catecolaminas han sido ocasionalmente eficaces, únicamente a altas dosis. El
+tratamiento posterior sólo irá determinado por los síntomas más destacables. La
+desintoxicación extracorporea no es prometedora (ver apartado 5.2) y no hay experiencia con
+este tipo de tratamiento.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	    Grupo farma-coterapeutico: Antagonistas del calcio (código ATC: C08CA). El nitrendipino
+es un calcioantagonista del grupo de las dihidropiridinas 1-4 que actúa como agente
+antihipertensivo. El mecanismo de acción del nitrendipino reside en la inhibición del flujo de
+iones de calcio al tejido muscular liso vascular. Esto conlleva los efectos farmacológicos
+siguientes: protección contra un flujo aumentado de calcio en el tejido, inhibición de la
+contracción muscular vascular dependiente del calcio miogénico, reducción de la resistencia
+periférica vascular, disminución de la presión arterial patológicamente alta, efecto
+natriurético suave, particularmente al inicio del tratamiento.
+En un estudio europeo doble ciego y controlado con placebo (Syst-Eur) sobre la hipertensión
+arterial sistólica en pacientes mayores de 60 años, se han evaluado los efectos del tratamiento
+antihipertensivo en un total de 4.695 pacientes. El tratamiento se inició con dosis
+antihipertensivas de nitrendipino y se asoció, en caso necesario (es decir, aproximadamente
+en un 40% de los casos) con un inhibidor del enzima de conversión de la angiotensina,
+incluso con un diurético. El tratamiento antihipertensivo mejoró significativamente la
+morbilidad cardiovascular, observándose:
+- una reducción del 44% (IC del 95% 14-63) en el número de accidentes vasculares
+cerebrales no fatales,
+- una reducción del 42% (IC del 95% 17-60) en el número de accidentes vasculares
+cerebrales fatales y no fatales,
+- una reducción del 26% (IC del 95% 3-44) en el número de acontecimientos cardíacos
+fatales y no fatales.
+En la población estudiada, el tratamiento de 1.000 pacientes de edad avanzada con HTA
+sistólica durante 2 años previno, como promedio respecto a una población no tratada, 12
+accidentes vasculares cerebrales (IC del 95% 4-19) y 21 acontecimientos cardiovasculares
+importantes (IC del 95% 9-34).
+ 5.2 Propiedades farmacocinéticas
+     El nitrendipino se absorbe con rapidez y casi completamente (88%). Las concentraciones
+plasmáticas máximas se alcanzan entre 1 y 3 horas después de la administración,
+obteniéndose niveles plasmáticos entre 4,7 g/l (dosis: 10 mg) y 6,1 y 19 g/l (dosis: 20 mg).
+La biodisponibilidad es del 20-30% debido a un considerable efecto de 1er. paso. El
+nitrendipino se une a las proteínas plasmáticas (albúmina) entre el 96-98%, por lo tanto no es
+dializable. El volumen de distribución en estado de equilibrio estacionario es
+aproximadamente 5-9 l/kg, así que la hemoperfusión o la plasmaféresis no son eficaces.
+El nitrendipino se metaboliza casi completamente en el hígado, principalmente por procesos
+oxidativos. Los metabolitos son inactivos. Menos del 0,1% de la dosis oral se excreta como
+nitrendipino inalterado en la orina. El nitrendipino se excreta principalmente por vía renal en
+forma de metabolitos (alrededor del 77% de la dosis oral), y el resto por la vía biliar con las
+heces.
+La vida media de eliminación del nitrendipino comprimidos es entre 8 y 12 h. No se ha
+observado acumulación del principio activo o de sus metabolitos. En pacientes con
+enfermedad hepática crónica, puesto que el nitrendipino se elimina principalmente por vía
+metabólica, se observaron niveles plasmáticos elevados. Sin embargo, no es necesario ajustar
+la dosis en pacientes con función renal alterada.
+ 5.3 Datos preclínicos sobre seguridad
+      Los estudios toxicológicos efectuados en diferentes animales por vía oral para estudiar la
+toxicidad aguda, subaguda, crónica y subcrónica no evidenciaron efectos tóxicos. No se
+observaron efectos teratogénicos o embriotóxicos, ni se vio afectada la fertilidad de los
+animales. Unicamente, en un estudio piloto en monos y a dosis claramente tóxicas para la
+madre de 100 mg/kg, se observaron alteraciones teratogénicas a nivel de esqueleto. El
+nitrendipino no mostró propiedades mutogénicas.
+No existen estudios adecuados y bien controlados en mujeres embarazadas.
+ 
+6.   DATOS FARMACÉUTICOS
+	
+7.   TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+8.   NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACION
+	FECHA DE LA REVISIÓN DEL TEXTO:                                  SEPTIEMBRE 2004
+
+	 
+      BAYPRESOL 20, 30 comprimidos
+         Prospectos de medicamentos.

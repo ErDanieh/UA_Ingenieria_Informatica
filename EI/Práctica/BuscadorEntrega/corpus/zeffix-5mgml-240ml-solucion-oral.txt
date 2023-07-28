@@ -1,0 +1,862 @@
+ZEFFIX 5MG/ML 240ML SOLUCION ORAL
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.      NOMBRE DEL MEDICAMENTO
+	Zeffix 100 mg comprimidos con cubierta pelicular
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Los comprimidos con cubierta pelicular de Zeffix contienen 100 mg de lamivudina.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	"Comprimidos con cubierta pelicular.
+ Comprimidos de color caramelo, recubiertos con película, con forma de cápsulas, biconvexos y
+marcados ""GX CG5"" en una cara.
+ 
+
+"
+4.      DATOS CLÍNICOS
+	4.1     Indicaciones terapéuticas
+ Zeffix está indicado para el tratamiento de la hepatitis B crónica en adultos con:
+ ·     Enfermedad hepática compensada con evidencia de replicación viral, niveles de alanina
+aminotransferasa (ALT) sérica elevados de forma persistente y evidencia histológica de
+inflamación hepática activa y / o fibrosis.
+ ·     Enfermedad hepática descompensada.
+ 4.2     Posología y forma de administración
+ El tratamiento con Zeffix debe ser iniciado por un médico con experiencia en el tratamiento de la
+hepatitis B crónica.
+Adultos: la dosis recomendada de Zeffix es de 100 mg una vez al día. Zeffix puede administrarse con
+o sin alimentos.
+ Duración del tratamiento:
+ ·       En pacientes con hepatitis B crónica (HBC) HBeAg positivos, debe administrarse el tratamiento
+durante al menos 3-6 meses después de que se confirme la seroconversión de HBeAg (pérdida
+de HBeAg y ADN del VHB con detección de HBeAc) con el fin de reducir el riesgo de recaída
+virológica, o hasta que tenga lugar la seroconversión de HBsAg. Esta recomendación está
+basada en un número limitado de datos (véase sección 5.1).
+·       En pacientes con HBC HBeAg negativos (mutante pre-core), se desconoce la duración óptima
+del tratamiento. Debe considerarse la interrupción del tratamiento tras la seroconversión de
+HBsAg.
+·       En pacientes con HBC tanto HBeAg positivos como HBeAg negativos, el desarrollo de la
+variante YMDD del VHB puede dar lugar a una menor respuesta terapéutica a lamivudina,
+indicada por un aumento en el ADN del VHB y en ALT con respecto a los niveles anteriores
+durante el tratamiento. En pacientes con duración prolongada de la variante YMDD del VHB,
+debe considerarse el cambio a o la adición de un agente alternativo (véase sección 5.1).
+ ·     No se recomienda la interrupción del tratamiento en pacientes con enfermedad hepática
+descompensada y en receptores de transplante hepático. Si se produce una pérdida de eficacia
+atribuible a la aparición de la variante YMDD del VHB en estos pacientes, deben considerarse
+tratamientos adicionales o alternativos (véase sección 5.1).
+ Si se interrumpe el tratamiento con Zeffix los pacientes deben ser controlados periódicamente para
+comprobar la existencia de una hepatitis recurrente (véase sección 4.4).
+ Niños (menores de 12 años) y adolescentes (de 12 a 17 años): Zeffix no está recomendado para uso en
+niños menores de 12 años y adolescentes de 12 a 17 años, debido a la ausencia de datos sobre
+seguridad y eficacia (véase sección 5.2).
+ Insuficiencia renal: las concentraciones de lamivudina en suero (AUC) aumentan en pacientes con
+insuficiencia renal moderada a grave, debido a una disminución del aclaramiento renal. Por lo tanto,
+debe reducirse la dosis en pacientes con un aclaramiento de creatinina inferior a 50 ml/minuto. Cuando
+se precisen dosis inferiores a 100 mg, debe utilizarse Zeffix solución oral (ver Tabla 1 a continuación).
+ Tabla 1: Dosificación de Zeffix en pacientes con aclaramiento renal disminuido.
+ Aclaramiento de creatinina        Primera dosis de            Zeffix Dosis de mantenimiento
+ml/min                            solución oral *                    una vez al día
+30 a <50
+15 a <30
+5 a <15
+<5
+*Zeffix solución oral conteniendo 5 mg/ml de lamivudina.
+ Los datos disponibles de pacientes sometidos a hemodiálisis intermitente (diálisis menor o igual a 4 h
+2-3 veces a la semana), indican que tras la reducción de la dosis inicial de lamivudina para ajustar el
+aclaramiento de creatinina del paciente, no se precisan ajustes de dosis adicionales mientras se
+practique la diálisis.
+ Insuficiencia hepática: los datos obtenidos en pacientes con insuficiencia hepática, incluyendo
+aquellos con enfermedad hepática en fase terminal a la espera de trasplante, demuestran que la
+farmacocinética de lamivudina no se ve afectada de forma significativa por la disfunción hepática.
+Según estos datos no es necesario ajustar la dosis en pacientes con insuficiencia hepática, a menos que
+esté acompañada de insuficiencia renal.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se ha administrado lamivudina a niños (de 2 años y mayores) y adolescentes con hepatitis B crónica
+compensada. Sin embargo, debido a las limitaciones de los datos, la administración de lamivudina en
+esta población de pacientes no está recomendada actualmente (véase sección 5.1).
+ No se ha establecido la eficacia de lamivudina en pacientes coinfectados con hepatitis Delta o hepatitis
+C.
+ Los datos son limitados en relación al empleo de lamivudina en pacientes HBeAg negativos (con
+mutante pre-core) y en aquellos que reciben tratamientos inmunodepresores concurrentes, incluyendo
+quimioterapia en cáncer.
+                                                     3
+Durante el tratamiento con Zeffix, los pacientes deben ser controlados de forma regular. Deben
+monitorizarse los niveles de ALT sérica a intervalos de 3 meses y se deben determinar el ADN del
+VHB y los HBeAg cada 6 meses.
+ Exacerbaciones de la hepatitis
+Con el tratamiento prolongado, se han identificado subpoblaciones virales del VHB con una
+sensibilidad reducida a lamivudina (variante YMDD del VHB). En algunos pacientes el desarrollo de
+la variante YMDD del VHB puede dar lugar a exacerbación de la hepatitis, detectada principalmente
+por elevaciones de ALT sérica y re-emergencia del ADN del VHB. En pacientes con la variante
+YMDD del VHB y empeoramiento de enfermedad hepática (aumento de ALT con o sin cirrosis
+descompensada) o hepatitis B recurrente tras trasplante hepático, debe considerarse el cambio a o la
+adición de un agente alternativo.
+ Si se interrumpe el tratamiento con Zeffix o se produce una pérdida de eficacia debido al desarrollo de
+la variante YMDD del VHB (véase sección 4.2), algunos pacientes pueden presentar sintomatología
+de hepatitis recurrente, tanto desde el punto de vista clínico como de laboratorio. Si se interrumpe el
+tratamiento con Zeffix, los pacientes deben controlarse periódicamente tanto desde el punto de vista
+clínico, como a través de la evaluación de las pruebas de la función hepática en suero (niveles de ALT
+y bilirrubina) durante al menos cuatro meses, y luego según esté clínicamente indicado. La
+exacerbación de la hepatitis ha sido detectada principalmente por elevaciones de ALT sérica, además
+de la re-emergencia del ADN del VHB. Para más información referente a la frecuencia de elevaciones
+de ALT tras el tratamiento véase la Tabla 3 de la Sección 5.1. Experiencia Clínica. La mayoría de las
+reacciones han sido autolimitadas, sin embargo, se han observado algunas muertes.
+No existen datos suficientes sobre los beneficios de la reiniciación del tratamiento con lamivudina en
+pacientes que presenten sintomatología de hepatitis recurrente post tratamiento.
+ Los receptores de trasplante y los pacientes con enfermedad hepática avanzada presentan un mayor
+riesgo de replicación viral activa. Debido a la reducción de la función hepática en estos pacientes, la
+reactivación de la hepatitis al interrumpir el tratamiento con lamivudina o la pérdida de eficacia
+durante el tratamiento puede inducir una descompensación grave e incluso mortal. En estos pacientes
+se deberían controlar los parámetros clínicos, virológicos y serológicos asociados a la hepatitis B,
+funciones renal y hepática y respuesta antiviral durante el tratamiento (al menos cada mes) y, si se
+interrumpe el tratamiento por alguna razón, durante al menos 6 meses después del tratamiento. Los
+parámetros de laboratorio a controlar deberían incluir (como mínimo) ALT en suero, bilirrubina,
+albúmina, nitrógeno ureico en sangre, creatinina y situación virológica: antígeno/anticuerpo VHB y
+concentraciones en suero de ADN del VHB si es posible. Los pacientes que experimenten signos de
+insuficiencia hepática durante o después del tratamiento se deben controlar con más frecuencia según
+esté indicado.
+ Co-infección con VIH
+Para el tratamiento de pacientes infectados al mismo tiempo con el VIH y que estén recibiendo o esté
+en sus planes recibir tratamiento con lamivudina o con la combinación lamivudina/zidovudina, debe
+mantenerse la dosis de lamivudina prescrita para la infección por VIH (normalmente 150 mg/dos
+veces al día en combinación con otros antirretrovirales). En los pacientes infectados al mismo tiempo
+con el VIH que no precisen tratamiento antirretroviral, existe un riesgo de mutación del VIH al utilizar
+sólo lamivudina para el tratamiento de la hepatitis B crónica.
+ Transmisión de hepatitis B
+No se dispone de información sobre la transmisión materno fetal del virus de la hepatitis B en mujeres
+embarazadas que estén en tratamiento con lamivudina. Se deben seguir los procedimientos estándar
+recomendados de inmunización frente al virus de la hepatitis B en niños.
+ Debe informarse a los pacientes de que el tratamiento con lamivudina no ha demostrado reducir el
+riesgo de transmisión del virus de la hepatitis B a otras personas, por lo que deberán tomarse las
+precauciones adecuadas.
+                                                    4
+4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Los estudios de interacciones se han realizado sólo en adultos.
+La probabilidad de interacciones metabólicas es escasa debido al metabolismo y unión a proteínas
+limitados y a la casi completa eliminación renal de la sustancia inalterada.
+ La lamivudina se elimina predominantemente por secreción catiónica orgánica activa. Debe
+considerarse la posibilidad de interacciones con con otros medicamentos administrados al mismo tiempo,
+especialmente cuando su principal vía de eliminación sea la secreción renal activa por el sistema de
+transporte catiónico, por ejemplo trimetoprima. con otros medicamentos (por ej. ranitidina, cimetidina) se
+eliminan por este mecanismo sólo en parte y demostraron no interaccionar con lamivudina.
+ No es probable que sustancias que hayan demostrado excretarse principalmente bien por la vía
+aniónica orgánica activa o por filtración glomerular, den lugar a interacciones clínicamente
+significativas con lamivudina. La administración de trimetoprima/sulfametoxazol 160 mg/800 mg
+incrementó la exposición a lamivudina en alrededor de un 40 %. Lamivudina no ejerció ningún efecto
+sobre la farmacocinética de trimetoprima o sulfametoxazol. No obstante, a menos que el paciente
+presente insuficiencia renal, no es necesario ajustar la dosis de lamivudina.
+ Se observó un modesto incremento en el valor de Cmax (28 %) para zidovudina al administrarse con
+lamivudina, aunque la exposición general (AUC) no se alteró de forma significativa. Zidovudina
+carece de efecto sobre la farmacocinética de lamivudina (véase sección 5.2.).
+ Lamivudina no ejerce interacciones farmacocinéticas con interferón-alfa cuando ambos medicamentos
+se administran al mismo tiempo. No se observaron interacciones adversas clínicamente significativas
+en pacientes tomando lamivudina al mismo tiempo que medicamentos inmunodepresores comúnmente
+utilizados (p. ej. ciclosporina A). No obstante, no se han realizado estudios formales de interacción.
+ Lamivudina puede inhibir la fosforilación intracelular de zalcitabina cuando ambos medicamentos se
+utilizan al mismo tiempo. Por lo tanto, no se recomienda la utilización de Zeffix en combinación con
+zalcitabina.
+ 4.6   Embarazo y lactancia
+ Embarazo: no existen datos suficientes sobre la utilización de lamivudina en mujeres embarazadas.
+Los estudios en animales han mostrado toxicidad reproductiva (véase sección 5.3). Se desconoce el
+riesgo en seres humanos.
+Como consecuencia de la transmisión pasiva de la sustancia a través de la placenta, las
+concentraciones de lamivudina en el suero del niño al nacer fueron similares a las encontradas en el
+suero de la madre y del cordón umbilical en el parto.
+ Aunque los estudios de reproducción en animales no son siempre predictivos de la respuesta en
+humanos, no se recomienda la administración durante los tres primeros meses de embarazo (véase
+sección 4.4).
+ Lactancia: tras su administración oral, lamivudina fue excretada en la leche humana a
+concentraciones similares a las encontradas en suero. Se recomienda, por lo tanto, que las madres en
+tratamiento con lamivudina no amamanten a sus niños.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ Lamivudina fue bien tolerada en estudios clínicos en pacientes con hepatitis B crónica. La incidencia
+de efectos adversos y anormalidades de laboratorio (a excepción de los incrementos de ALT y CPK,
+ver a continuación) fue similar entre los pacientes tratados con placebo y los tratados con lamivudina.
+Los efectos adversos comunicados más comunes fueron malestar y fatiga, infecciones del tracto
+respiratorio, molestias en la garganta y amígdalas, cefalea, dolor y molestias abdominales, náuseas,
+vómitos y diarrea.
+ A continuación se presentan las reacciones adversas clasificadas por sistema corporal, órgano y
+frecuencia. Las categorías de frecuencia se asignan únicamente a aquellas reacciones adversas
+consideradas al menos posiblemente relacionadas con lamivudina. Las frecuencias se definen como:
+muy frecuentes ( 1/10), frecuentes ( 1/100, < 1/10), poco frecuentes ( 1/1000, < 1/100), raras
+( 1/10.000, < 1/1000), muy raras (< 1/10.000).
+ Las categorías de frecuencias asignadas a las siguientes reacciones adversas son estimadas: para la
+mayoría de las reacciones, no se dispone de datos adecuados para calcular la incidencia. Las
+frecuencias de las reacciones adversas clasificadas como muy frecuentes y frecuentes se determinaron
+a partir de datos de ensayos clínicos y no se tuvo en cuenta la incidencia previa en los grupos tratados
+con placebo. Las reacciones adversas al fármaco identificadas durante la vigilancia post-
+comercialización se clasificaron como raras o muy raras.
+Trastornos de la sangre y del sistema linfático:
+Muy raras:               Trombocitopenia
+ Trastornos hepatobiliares:
+Muy frecuentes:Incrementos de ALT (ver apartado 4.4).
+ Durante el tratamiento y tras la retirada de lamivudina se han notificado exacerbaciones de la hepatitis,
+detectadas principalmente por aumento en las concentraciones de ALT en suero. La mayoría han
+remitido, aunque muy raramente se han observado muertes (véase sección 4.4).
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Frecuentes:           Incrementos de CPK
+Muy raras:            Trastornos musculares, incluyendo mialgia, calambres y rabdomiolisis
+ En pacientes con infección por VIH, se han comunicado casos de pancreatitis y neuropatía periférica
+(o parestesia) En pacientes con hepatitis B crónica no se observaron diferencias en la incidencia de
+estos efectos entre los pacientes tratados con placebo y los tratados con lamivudina.
+ Se han comunicado casos, a veces mortales, de acidosis láctica normalmente relacionada con
+hepatomegalia grave y esteatosis hepática, con el uso de terapia de combinación de análogos de
+nucleósidos en pacientes con VIH. Se han comunicado raramente casos de acidosis láctica en
+pacientes que recibían lamivudina para el tratamiento de hepatitis B.
+ 4.9   Sobredosis
+ La administración, en estudios de toxicidad aguda en animales, de dosis muy elevadas de lamivudina
+no produjo toxicidad en ningún órgano. Se dispone de datos limitados sobre las consecuencias de la
+ingestión de sobredosis agudas en humanos. No hubo fallecimientos y todos los pacientes se
+recuperaron. No se han identificado síntomas o signos específicos después de tal sobredosis.
+ En caso de sobredosis, se vigilará al paciente y se aplicará el tratamiento de apoyo estándar que sea
+necesario. Dado que lamivudina es dializable, puede emplearse una hemodiálisis continua para el
+tratamiento de la sobredosificación, aunque ello no se ha estudiado.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	                                                   6
+5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: análogo de nucleósido, código ATC: J05AF05.
+ Lamivudina es un agente antiviral muy activo frente al virus de la hepatitis B en todas las líneas
+celulares estudiadas y en animales infectados experimentalmente.
+ Lamivudina es metabolizada tanto por células infectadas como por no infectadas al derivado trifosfato
+(TP) que es la forma activa del compuesto original. La semivida intracelular del trifosfato en los
+hepatocitos es de 17-19 horas in vitro. Lamivudina -TP actúa como sustrato para la polimerasa viral
+del VHB.
+ La formación de más ADN viral se bloquea por incorporación de lamivudina-TP a la cadena y
+posterior terminación de la misma.
+ Lamivudina-TP no interfiere con el metabolismo celular normal de los deoxinucleótidos. También es
+un débil inhibidor de las alfa y beta ADN polimerasas de mamíferos. Además, lamivudina-TP tiene un
+escaso efecto sobre el contenido de ADN en las células de mamíferos.
+ En los estudios relativos a los potenciales efectos de la sustancia sobre la estructura mitocondrial y
+sobre el contenido y función del ADN, se vio que lamivudina carecía de efectos tóxicos apreciables.
+Presenta un potencial muy bajo para disminuir el contenido de ADN mitocondrial, no se incorpora de
+forma permanente al ADN mitocondrial y no actúa como inhibidor de la ADN gamma polimerasa
+mitocondrial.
+ Experiencia Clínica
+ Experiencia en pacientes con HBC HBeAg positivos y enfermedad hepática compensada: en estudios
+controlados, el tratamiento durante 1 año con lamivudina suprimió de forma significativa la
+replicación del ADN del VHB [ 34-57 % de los pacientes estaban por debajo de los límites de
+detección (ensayo de hibridación en solución de Abbott Genostics, LLOD < 1,6pg/ml)}, normalizó el
+nivel de ALT (40-72 % de pacientes), indujo la seroconversión del HBeAg (pérdida de HBeAg y
+detección de HBeAc con pérdida de ADN del VHB [por ensayo convencional], 16-18 % de pacientes),
+mejoró la histología (38-52 % de pacientes tenían un descenso de o superior a 2 puntos en el Índice de
+Actividad Histológica de Knodell [IAH]), y redujo la progresión de la fibrosis (en 3-17 % de
+pacientes) y la progresión a cirrosis.
+ El tratamiento continuo con lamivudina durante 2 años más en pacientes que no lograron una
+seroconversión de HBeAg en el primer año en los estudios controlados, dio lugar a una mayor mejoría
+de la fibrosis en puente. En pacientes con variante YMDD del VHB, 41/82 (50%) mejoraron en la
+inflamación hepática y 40/56 (71%) de los pacientes sin variante YMDD del VHB mejoraron. La
+mejoría en la fibrosis en puente se produjo en 19/30 (63%) de los pacientes sin la variante YMDD y
+22/44 (50%) de los pacientes con la variante. El 5% de los pacientes (3/56) sin la variante YMDD y el
+13 % (11/82) de los pacientes con la variante YMDD mostraron empeoramiento en la inflamación
+hepática con respecto a los niveles pre-tratamiento. La progresión a cirrosis se produjo en 4/68 (6%)
+de los pacientes con la variante YMDD, mientras que ningún paciente sin la variante progresó a
+cirrosis.
+ En un estudio de tratamiento prolongado en pacientes asiáticos (NUCB3018) la tasa de seroconversión
+de HBeAg y la velocidad de normalización de ALT al final del periodo de tratamiento de 5 años,
+fueron de 48 % (28/58) y 47% (15/32), respectivamente. La seroconversión de HBeAg aumentó en
+pacientes con niveles elevados de ALT; seroconvirtieron el 77% (20/26) de los pacientes con niveles
+de ALT previos al tratamiento >2x LNS. Al final de los 5 años, todos los pacientes tuvieron niveles de
+ADN del VHB indetectables o menores que los niveles previos al tratamiento.
+ En la Tabla 2 se resumen los últimos resultados del ensayo según el estado de la variante YMDD.
+                                                   7
+Tabla 2: Resultados de eficacia de 5 años según el estado de YMDD (Estudio asiático)
+NUCB3018
+                                                                                YMDD1               No-YMDD1
+Estado variante YMDD HBV
+               Seroconversión de HBeAg
+                                                                           38       (15/40)          72      (13/18)
+- Todos los pacientes
+- ALT basal  1 x LNS2
+- ALT basal > 2 x LNS
+               ADN de VHB no detectable
+                                                                           5         (2/40)          6        (1/18)
+- Basal 3
+                  - Semana 260 4
+negativo
+positivo < nivel basal
+positivo > nivel basal
+                    Normalización ALT
+                  - Basal
+normal
+por encima de lo normal
+                  - Semana 260
+normal
+por encima de lo normal < nivel basal
+por encima de lo normal > nivel basal
+ Los pacientes categorizados como variante YMDD fueron aquellos con 5% variante YMDD del VHB en cualquier
+1
+instante del año durante el período de estudio de 5 años. Los pacientes categorizados como no variante -YMDD
+fueron aquellos con > 95% de tipo salvaje para cualquier momento del año durante el periodo de 5 años del estudio
+2     Límite normal superior
+3     Ensayo de hibridación en solución Abbott Genostics (LLOD < 1,6 pg/ml)
+4     Ensayo Chiron Quantiplex (LLOD 0,7 Meq/ml)
+ También se dispone de datos comparativos según el status YMDD para su evaluación histológica, pero
+sólo hasta 3 años. En pacientes con la variante YMDD del VHB, 18/39 (46%) experimentaron una
+mejoría en la actividad necroinflamatoria y 9/39 (23%) un empeoramiento. En los pacientes sin la
+variante, 20/27 (74%) experimentaron mejoría en la actividad necroinflamatoria, y 2/27 (7%)
+empeoramiento.
+ Después de la seroconversión del HBeAg, la respuesta serológica y la remisión clínica son
+generalmente duraderas tras interrumpir el tratamiento con lamivudina. Sin embargo, pueden ocurrir
+recaídas tras la seroconversión. En un estudio a largo plazo de seguimiento de pacientes que tuvieron
+seroconversión e interrumpieron el tratamiento con lamivudina, la recaída virológica posterior ocurrió
+en un 39% de los sujetos. Por tanto, tras la seroconversión de HBeAg, los pacientes deben ser
+controlados periódicamente para determinar si las respuestas serológica y clínica se mantienen. En
+pacientes que no mantengan una respuesta serológica constante, debería considerarse un re-
+                                                                8
+tratamiento, o bien con lamivudina, o bien con un agente antiviral alternativo para la reanudación del
+control clínico del VHB.
+ En pacientes bajo seguimiento hasta 16 semanas tras la interrupción del tratamiento un año después de
+iniciarlo, se han observado con mayor frecuencia elevaciones de ALT post-tratamiento en pacientes
+que habían recibido lamivudina que en pacientes que habían recibido placebo. En la Tabla 3 se
+muestra una comparación de las elevaciones de ALT post-tratamiento entre las semanas 52 y 68 en
+pacientes que interrumpieron el tratamiento en la semana 52 y pacientes en los mismos estudios que
+recibieron placebo a lo largo del período de tratamiento. La proporción de pacientes que tuvieron
+elevaciones de ALT post-tratamiento junto con un aumento de los niveles de bilirrubina fue baja y
+similar en pacientes que recibieron tanto lamivudina como placebo.
+ Tabla 3: Elevaciones de ALT post-tratamiento en 2 estudios controlados con placebo en adultos
+                                                               Pacientes con Elevación de ALT/
+Valor Anormal                             Lamivudina                 Placebo
+ALT 2 x valor basal                                       37/137 (27%)             22/116 (19%)
+ALT 3 x valor basal                                       29/137 (21%)              9/116 (8%)
+ALT 2 x valor basal y ALT absoluta>500 UI/l               21/137 (15%)              8/116 (7%)
+ALT 2 x valor basal; y bilirrubina >2 x LNS y 2 x
+valor basal
+* Cada paciente puede estar representado en una o más categorías.
+  Comparable a Toxicidad de Grado 3 de acuerdo al criterio modificado de la OMS.
+LNS = Límite normal superior.
+ Experiencia en pacientes con HBC HBeAg negativos: los datos iniciales indican que la eficacia de
+lamivudina en pacientes con HBC HBeAg negativos es similar a la de pacientes con HBC HBeAg
+positivos, obteniendo el 71% de pacientes ADN de VHB suprimido por debajo del límite de detección
+del ensayo; el 67% normalización de ALT; y el 38%, una mejoría del IAH tras un año de tratamiento.
+Cuando se interrumpió el tratamiento con lamivudina, la mayoría de los pacientes (70%) volvieron a
+presentar replicación viral. Se dispone de datos procedentes de un estudio de tratamiento prolongado
+en pacientes HBeAg negativos, tratados con lamivudina (NUCAB3017). Tras dos años de tratamiento
+en este estudio, se observó la normalización de los niveles de ALT y no se detectó ADN del VHB en
+30/69 (43%) y 32/68 (47%) de los pacientes, respectivamente, así como una mejoría en la tasa de
+necroinflamación en 18/49 (37%) pacientes. En pacientes sin la variante YMDD del VHB, 14/22
+(64%) mostraron mejoría en la tasa de necroinflamación y 1/22 (5%) empeoraron con respecto a los
+niveles pre-tratamiento. En pacientes con la variante, 4/26 (15%) mostraron mejoría en la tasa de
+necroinflamación, y 8/26 (31%) empeoraron con respecto a los niveles pre-tratamiento. Ningún
+paciente en ninguno de los grupos progresó a cirrosis.
+ Frecuencia de aparición de la variante YMDD del VHB e impacto en la respuesta al tratamiento: la
+monoterapia con lamivudina da lugar a la aparición de la variante YMDD del VHB en
+aproximadamente el 24% de los pacientes tras un año de terapia, aumentando hasta el 67% tras 4 años
+de terapia. El desarrollo de la variante YMDD del VHB está asociado con una reducción en la
+respuesta al tratamiento en algunos pacientes, lo cual se evidencia por un aumento de los niveles de
+ADN del VHB y por elevación de los niveles de ALT respecto a los niveles previos durante la terapia,
+progresión de signos y síntomas de enfermedad hepática y/o empeoramiento de hallazgos
+necroinflamatorios hepáticos. Todavía no se ha establecido el manejo terapéutico óptimo de los
+pacientes con la variante YMDD del VHB (véase sección 4.4).
+ En un estudio doble ciego en pacientes con HBC con la variante YMDD del VHB y enfermedad
+hepática compensada (NUC20904), con una respuesta virológica y bioquímica reducida a lamivudina
+(n=95), la adición de 10 mg de adefovir dipivoxilo una vez al día al tratamiento con 100 mg de
+lamivudina durante 52 semanas, dio lugar a una disminución media del ADN del VHB de 4,6 log10
+copias/ml en comparación con un aumento medio de 0,3 log10 copias/ml en aquellos pacientes que
+                                                   9
+recibieron lamivudina en monoterapia. La normalización de los niveles de ALT se produjo en un 31%
+(14/45) de los pacientes que recibieron terapia combinada, frente a un 6% (3/47) que recibieron
+lamivudina sola.
+ También se incluyeron en un brazo abierto del estudio cuarenta pacientes (HBeAg negativos o HBeAg
+positivos), bien con enfermedad hepática descompensada o con VHB recurrente tras un transplante
+hepático, y con la variante YMDD. La adición de 10 mg de adefovir dipivoxilo una vez al día al
+tratamiento con 100 mg de lamivudina durante 52 semanas dio lugar a un descenso medio en el ADN
+del VHB de 4,6 log10 copias/ml. También se observó una mejoría en la función hepática tras un año de
+tratamiento.
+ Experiencia en pacientes con enfermedad hepática descompensada: en pacientes con
+descompensación hepática no se han realizado estudios controlados con placebo por considerarse
+inapropiados. En estudios no controlados, en los que se administró lamivudina antes y durante el
+trasplante, se demostró la supresión eficaz del ADN del VHB y la normalización de los valores de
+ALT. Cuando se continuaba administrando lamivudina después del trasplante, la reinfección del
+injerto por el VHB era menor, tenía lugar una mayor pérdida del HBsAg y la tasa de supervivencia al
+cabo de 1 año era del 76-100%.
+ Como era de esperar, debido a la inmunodepresión concomitante, la tasa de aparición de la variante
+YMDD del VHB, al cabo de 52 semanas de tratamiento, fue superior (36% - 64%) en la población con
+trasplante de hígado que en los pacientes inmunocompetentes con HBC (14% - 32%).
+ Experiencia en pacientes con HBC con fibrosis avanzada o cirrosis: en un estudio controlado con
+placebo en 651 pacientes con hepatitis B crónica clínicamente compensada y fibrosis o cirrosis
+confirmadas histológicamente, el tratamiento con lamivudina (32 meses de duración media) redujo
+significativamente la velocidad de progresión global de la enfermedad (34/436, 7,8% para lamivudina,
+frente a 38/215, 17,7% para placebo, p=0,001), demostrado por un reducción significativa en el
+porcentaje de pacientes que experimentaron un aumento en la puntuación de Child-Pugh (15/436,
+3,4% frente a 19/215, 8,8%, p=0,023) o bien un desarrollo de carcinoma hepatocelular (17/436, 3,9%
+frente a 16/215, 7,4%, p=0,047). La velocidad de progresión global de la enfermedad en el grupo
+tratado con lamivudina fue mayor en aquellos pacientes en los que se detectó la variante YMDD del
+ADN del VHB (23/209, 11%), en comparación con aquellos en los que no se detectó la variante
+(11/221, 5%). Sin embargo, la progresión de la enfermedad en pacientes con YMDD en el grupo
+tratado con lamivudina fue menor que la progresión de la enfermedad en el grupo tratado con placebo
+(23/209, 11%, frente a 38/214, 18% respectivamente). La seroconversión de HBeAg fue confirmada
+en el 47% (118/252) de los pacientes tratados con lamivudina, y el 93% (320/345) de los pacientes que
+recibieron lamivudina se convirtieron en ADN del VHB negativos durante el estudio (VERSANT
+[versión 1], ensayo bDNA, LLOD < 0,7 mEq/ml).
+ Experiencia en niños y adolescentes: se ha administrado lamivudina a niños y adolescentes con HBC
+compensada en un estudio controlado con placebo en 286 pacientes de edades comprendidas entre los
+2 y los 17 años. La población estaba compuesta principalmente por niños con hepatitis B de grado
+mínimo. Se empleó una dosis de 3mg/kg una vez al día (hasta un máximo de 100 mg diarios) en niños
+de edades comprendidas entre 2 y 11 años y una dosis de 100 mg una vez al día en adolescentes de 12
+años y mayores. Se necesita conocer más datos acerca de esta dosis. La diferencia en los índices de
+seroconversión de HBeAg (pérdida de HBeAg y ADN del VHB con detección de HBeAc) entre
+placebo y lamivudina no fue estadísticamente significativa en esta población (los índices después de
+un año fueron del 13% (12/95) para placebo frente al 22% (42/191) para lamivudina; p=0,057). La
+incidencia de la variante YMDD del VHB fue similar a la observada en adultos, variando del 19% en
+la semana 52 hasta el 45% en pacientes tratados de forma continuada durante 24 meses.
+ 5.2   Propiedades farmacocinéticas
+ Absorción: Lamivudina se absorbe bien en el tracto gastrointestinal y la biodisponibilidad de
+lamivudina por vía oral en adultos está normalmente entre el 80-85 %. Tras la administración por vía
+oral, el tiempo medio (tmax) hasta las concentraciones séricas máximas (Cmax) es de aproximadamente
+una hora. A dosis terapéuticas, es decir, 100 mg una vez al día, la Cmax es del orden de 1,1-1,5 µg/ml
+siendo los niveles mínimos de 0,015-0,020 µg/ml.
+ La administración de lamivudina con alimentos dio lugar a un retraso de tmax y a una Cmax inferior
+(reducida en un 47 %). No obstante, la cantidad de lamivudina absorbida (en función del AUC) no se
+vio afectada, por lo que lamivudina se puede administrar con o sin alimentos.
+ Distribución: Según los estudios realizados con lamivudina por vía intravenosa, el volumen medio de
+distribución es de 1,3 l/kg. Lamivudina presenta una farmacocinética lineal a lo largo del intervalo de
+dosis terapéuticas y su unión a proteínas plasmáticas es baja. Los datos limitados de que se dispone
+muestran que lamivudina penetra en el sistema nervioso central y que alcanza el líquido
+cefalorraquídeo (LCR). El valor medio del ratio LCR/concentración sérica de lamivudina a las 2-4
+horas de la administración por vía oral fue, aproximadamente, de 0,12.
+ Metabolismo: Lamivudina se elimina principalmente por excreción renal de la sustancia inalterada.
+La probabilidad de interacciones metabólicas de lamivudina con otras sustancias es baja, debido al
+pequeño grado de metabolismo hepático (5-10%) y a la escasa unión a proteínas plasmáticas.
+ Eliminación: El aclaramiento sistémico medio de lamivudina es de, aproximadamente, 0,3 l/h/kg. La
+semivida de eliminación observada es de 5 a 7 horas. Lamivudina se excreta en su mayor parte
+inalterada en orina por filtración glomerular y secreción activa (sistema de transporte catiónico
+orgánico). El aclaramiento renal representa aproximadamente el 70 % de la eliminación de
+lamivudina.
+ Poblaciones especiales:
+Los estudios en pacientes con insuficiencia renal, demuestran que la eliminación de lamivudina se ve
+afectada por la disfunción renal. Es necesario reducir la dosis en pacientes con un aclaramiento de
+creatinina inferior a 50 ml/min (véase sección 4.2).
+ La farmacocinética de lamivudina no se ve afectada por la insuficiencia hepática. Los datos limitados
+de que se dispone en pacientes sometidos a trasplante hepático, demuestran que la insuficiencia en la
+función hepática no tiene un impacto significativo sobre la farmacocinética de lamivudina a menos
+que esté acompañada de disfunción renal.
+ En pacientes ancianos, el perfil farmacocinético de lamivudina indica que un envejecimiento normal
+con la disminución de la función renal que lo acompaña, carece de efecto clínicamente significativo
+sobre la exposición a lamivudina, excepto en pacientes con un aclaramiento de creatinina inferior a
+50 ml/min (véase sección 4.2).
+ 5.3   Datos preclínicos sobre seguridad
+ La administración de lamivudina en los estudios de toxicidad con animales a dosis elevadas no se
+asoció con toxicidad en ningún órgano principal. A las dosis más altas se observaron efectos menores
+sobre los indicadores de las funciones hepática y renal, junto a reducciones ocasionales en el peso del
+hígado. Los efectos clínicamente importantes apreciados fueron una reducción en el recuento de
+eritrocitos y neutropenia. Estos efectos se observaron con poca frecuencia en los estudios clínicos.
+ Lamivudina no fue mutagénica en los ensayos con bacterias pero, como muchos análogos de
+nucleósidos, mostró actividad en un ensayo citogenético in vitro y en el ensayo de linfoma de ratón.
+Lamivudina no fue genotóxica in vivo a dosis que dieron lugar a concentraciones plasmáticas
+aproximadamente 60-70 veces más elevadas que los niveles plasmáticos clínicos previstos. Como la
+actividad mutagénica in vitro de lamivudina no pudo confirmarse en las pruebas in vivo, se concluye
+                                                   11
+que lamivudina no representa un riesgo de aparición de genotoxicidad en pacientes sometidos a
+tratamiento.
+ Los estudios sobre la reproducción en animales no han mostrado evidencia de teratogenicidad y
+tampoco han mostrado efectos sobre la fertilidad en machos o hembras. Lamivudina induce
+embrioletalidad temprana cuando se administra a conejos preñados a niveles de exposición
+comparables a los alcanzados en el hombre, pero no en la rata incluso a exposiciones sistémicas muy
+altas.
+ Los resultados de los estudios de carcinogenicidad a largo plazo con lamivudina realizados con ratas y
+ratones mostraron la ausencia de potencial carcinogénico.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo del comprimido:
+Celulosa microcristalina
+Carboximetilalmidón de sodio
+Estearato de magnesio
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC.
+ 6.5   Naturaleza y contenido del recipiente
+ Estuches conteniendo 28 u 84 comprimidos con cubierta pelicular en embalaje alveolar (blister) de
+doble lámina, laminados con policloruro de vinilo.
+ 6.6   Precauciones especiales de eliminación
+ La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Glaxo Group Ltd
+Greenford Road
+Greenford
+Middlesex UB6 0NN
+Reino Unido
+                                                  12
+8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/99/114/001
+EU/1/99/114/002
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 29 Julio 1999
+Fecha de la renovación de la autorización: 29 julio 2004
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+de Medicamentos (EMEA) http://www.emea.europa.eu/
+ 
+1.       NOMBRE DEL MEDICAMENTO
+	Zeffix 5 mg/ml solución oral
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Zeffix solución oral contiene 5 mg/ml de lamivudina.
+ Excipientes:
+Azúcar (sacarosa) y conservantes: parahidroxibenzoato de metilo (E218) y parahidroxibenzoato de
+propilo (E216).
+Para la lista completa, ver sección 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	Solución oral.
+Límpida, incolora o de color amarillo pálido.
+ 
+4.      DATOS CLÍNICOS
+	4.1     Indicaciones terapéuticas
+ Zeffix está indicado para el tratamiento de la hepatitis B crónica en adultos con:
+ ·     Enfermedad hepática compensada con evidencia de replicación viral, niveles de alanina
+aminotransferasa (ALT) sérica elevados de forma persistente y evidencia histológica de
+inflamación hepática activa y / o fibrosis.
+ ·     Enfermedad hepática descompensada.
+ 4.2     Posología y forma de administración
+ El tratamiento con Zeffix debe ser iniciado por un médico con experiencia en el tratamiento de la
+hepatitis B crónica.
+ Adultos: la dosis recomendada de Zeffix es de 100 mg una vez al día. Zeffix puede administrarse con
+o sin alimentos.
+ Duración del tratamiento:
+ ·       En pacientes con hepatitis B crónica (HBC) HBeAg positivos, debe administrarse el tratamiento
+al menos durante al menos 3-6 meses después de que se confirme la seroconversión de HBeAg
+(pérdida de HBeAg y ADN del VHB con detección de HBeAc) con el fin de reducir el riesgo de
+recaída virológica, o hasta que tenga lugar la seroconversión de HBsAg. Esta recomendación
+está basada en un número limitado de datos (véase sección 5.1
+·       En pacientes con HBC HBeAg negativos (mutante pre-core), se desconoce la duración óptima
+del tratamiento. Debe considerarse la interrupción del tratamiento tras la seroconversión de
+HBsAg.
+·       En pacientes con HBC tanto HBeAg positivos como HBeAg negativos, el desarrollo de la
+variante YMDD del VHB puede dar lugar a una menor respuesta terapéutica a lamivudina,
+indicada por un aumento en el ADN del VHB y ALT, con respecto a los niveles anteriores
+durante el tratamiento. En pacientes con duración prolongada de la variante YMDD del VHB
+debe considerarse el cambio o la adición de un agente alternativo (véase sección 5.1).
+                                                    14
+·     No se recomienda la interrupción del tratamiento en pacientes con enfermedad hepática
+descompensada y en receptores de transplante hepático. Si se produce una pérdida de eficacia
+atribuible a la aparición de la variante YMDD del VHB en estos pacientes, deben considerarse
+tratamientos adicionales o alternativos (véase sección 5.1).
+ Si se interrumpe el tratamiento con Zeffix los pacientes deben ser controlados periódicamente para
+comprobar la existencia de una hepatitis recurrente (véase sección 4.4).
+ Niños (menores de 12 años) y adolescentes (de 12 a 17 años): Zeffix no está recomendado para uso en
+niños menores de 12 años y adolescentes de 12 a 17 años, debido a la ausencia de datos sobre
+seguridad y eficacia (véase sección 5.2).
+ Insuficiencia renal: las concentraciones de lamivudina en suero (AUC) aumentan en pacientes con
+insuficiencia renal moderada a grave, debido a una disminución del aclaramiento renal. Por lo tanto,
+debe reducirse la dosis en pacientes con un aclaramiento de creatinina inferior a 50 ml/minuto (ver
+Tabla 1 a continuación).
+ Tabla 1: Dosificación de Zeffix en pacientes con aclaramiento renal disminuido.
+ Aclaramiento de creatinina         Primera dosis        de    Zeffix Dosis de mantenimiento
+ml/min                             solución oral                     una vez al día
+30 a <50                           20 ml (100 mg)                    10 ml (50 mg)
+15 a <30
+5 a <15
+<5
+ Los datos disponibles de pacientes sometidos a hemodiálisis intermitente (diálisis menor o igual a 4 h
+2-3 veces a la semana), indican que tras la reducción de la dosis inicial de lamivudina para ajustar el
+aclaramiento de creatinina del paciente, no se precisan ajustes de dosis adicionales mientras se
+practique la diálisis.
+ Insuficiencia hepática: los datos obtenidos en pacientes con insuficiencia hepática, incluyendo
+aquellos con enfermedad hepática en fase terminal a la espera de trasplante, demuestran que la
+farmacocinética de lamivudina no se ve afectada de forma significativa por la disfunción hepática.
+Según estos datos no es necesario ajustar la dosis en pacientes con insuficiencia hepática, a menos que
+esté acompañada de insuficiencia renal.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se ha administrado lamivudina a niños (de 2 años y mayores) y adolescentes con hepatitis B crónica
+compensada. Sin embargo, debido a las limitaciones de los datos, la administración de lamivudina en
+esta población de pacientes no está recomendada actualmente (véase sección 5.1.).
+ No se ha establecido la eficacia de lamivudina en pacientes coinfectados con hepatitis Delta o hepatitis
+C.
+ Los datos son limitados en relación al empleo de lamivudina en pacientes HBeAg negativos (con
+mutante pre-core) y en aquellos que reciben tratamientos inmunodepresores, incluyendo quimioterapia
+en cáncer.
+ Durante el tratamiento con Zeffix, los pacientes deben ser controlados de forma regular. Debe
+monitorizarse los niveles de ALT sérica a intervalos de 3 meses y se debe determinar el ADN del
+VHB y los HBeAg cada 6 meses.
+ Exacerbaciones de la hepatitis
+Con el tratamiento prolongado, se han identificado subpoblaciones virales del VHB con una
+sensibilidad reducida a lamivudina (variante YMDD del VHB). En algunos pacientes el desarrollo de
+la variante YMDD del VHB puede dar lugar a exacerbación de la hepatitis, detectada principalmente
+por elevaciones de ALT sérica y re-emergencia del ADN del VHB. En pacientes con la variante
+YMDD del VHB y empeoramiento de enfermedad hepática (aumento de ALT con o sin cirrosis
+descompensada) o hepatitis B recurrente tras trasplante hepático, debe considerarse el cambio o la
+adición de un agente alternativo.
+ Si se interrumpe el tratamiento con Zeffix o se produce una pérdida de eficacia debido al desarrollo de
+la variante YMDD del VHB (véase sección 4.2), algunos pacientes pueden presentar sintomatología
+de hepatitis recurrente, tanto desde el punto de vista clínico como de laboratorio. Si se interrumpe el
+tratamiento con Zeffix, los pacientes deben controlarse periódicamente tanto desde el punto de vista
+clínico, como a través de la evaluación de las pruebas de la función hepática en suero (niveles de ALT
+y bilirrubina) durante al menos cuatro meses, y luego según esté clínicamente indicado. La
+exacerbación de la hepatitis ha sido detectada principalmente por elevaciones de ALT sérica, además
+de la re-emergencia del ADN del VHB. Para más información referente a la frecuencia de elevaciones
+de ALT tras el tratamiento véase la Tabla 3 de la Sección 5.1. Experiencia Clínica. La mayoría de las
+reacciones han sido auto­limitadas, sin embargo, se han observado algunas muertes.
+No existen datos suficientes sobre los beneficios de la reiniciación del tratamiento con lamivudina en
+pacientes que presenten sintomatología de hepatitis recurrente post tratamiento.
+ Los receptores de trasplante y los pacientes con enfermedad hepática avanzada presentan un mayor
+riesgo de replicación viral activa. Debido a la reducción de la función hepática en estos pacientes, la
+reactivación de la hepatitis al interrumpir el tratamiento con lamivudina o la pérdida de eficacia
+durante el tratamiento puede inducir una descompensación grave e incluso mortal. En estos pacientes
+se deberían controlar los parámetros clínicos, virológicos y serológicos asociados a la hepatitis B,
+funciones renal y hepática y respuesta antiviral durante el tratamiento (al menos cada mes) y, si se
+interrumpe el tratamiento por alguna razón, durante al menos 6 meses después del tratamiento. Los
+parámetros de laboratorio a controlar deberían incluir (como mínimo) ALT en suero, bilirrubina,
+albúmina, nitrógeno ureico en sangre, creatinina y situación virológica: antígeno/anticuerpo VHB y
+concentraciones en suero de ADN del VHB si es posible. Los pacientes que experimenten signos de
+insuficiencia hepática durante o después del tratamiento se deben controlar con más frecuencia según
+esté indicado.
+ Co-infección con VIH
+Para el tratamiento de pacientes infectados al mismo tiempo con el VIH y que estén recibiendo o esté
+en sus planes recibir tratamiento con lamivudina o con la combinación lamivudina/zidovudina, debe
+mantenerse la dosis de lamivudina prescrita para la infección por VIH (normalmente 150 mg/dos
+veces al día en combinación con otros antirretrovirales). En los pacientes infectados al mismo tiempo
+con el VIH que no precisen tratamiento antirretroviral, existe un riesgo de mutación del VIH al utilizar
+sólo lamivudina para el tratamiento de la hepatitis B crónica.
+ Transmisión de la hepatitis B
+No se dispone de información sobre la transmisión materno fetal del virus de la hepatitis B en mujeres
+embarazadas que estén en tratamiento con lamivudina. Se deben seguir los procedimientos estándar
+recomendados de inmunización frente al virus de la hepatitis B en niños.
+ Debe informarse a los pacientes de que el tratamiento con lamivudina no ha demostrado reducir el
+riesgo de transmisión del virus de la hepatitis B a otras personas, por lo que deberán tomarse las
+precauciones adecuadas.
+                                                   16
+Los pacientes con problemas raros de intolerancia hereditaria a la fructosa, problemas de absorción a
+la glucosa o galactosa, o insuficiencia de sacarasa-isomaltasa, no deben tomar este medicamento.
+ Los pacientes diabéticos deben ser informados de que cada dosis de solución oral (100 mg = 20 ml)
+contiene 4 g de sacarosa.
+ La solución oral contiene parahidroxibenzoato de metilo y de propilo. Estos productos pueden
+provocar una reacción alérgica en algunos individuos. Esta reacción puede ser retardada.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Los estudios de interacciones se han realizado sólo en adultos.
+La probabilidad de interacciones metabólicas es escasa debido al metabolismo y unión a proteínas
+limitados y a la casi completa eliminación renal de la sustancia inalterada.
+ La lamivudina se elimina predominantemente por secreción catiónica orgánica activa. Debe
+considerarse la posibilidad de interacciones con con otros medicamentos administrados al mismo tiempo,
+especialmente cuando su principal vía de eliminación sea la secreción renal activa por el sistema de
+transporte catiónico, por ejemplo trimetoprima. con otros medicamentos (por ej. ranitidina, cimetidina) se
+eliminan por este mecanismo sólo en parte y demostraron no interaccionar con lamivudina.
+ No es probable que sustancias que hayan demostrado excretarse principalmente bien por la vía
+aniónica orgánica activa o por filtración glomerular, den lugar a interacciones clínicamente
+significativas con lamivudina. La administración de trimetoprima/sulfametoxazol 160 mg/800 mg
+incrementó la exposición a lamivudina en alrededor de un 40 %. Lamivudina no ejerció ningún efecto
+sobre la farmacocinética de trimetoprima o sulfametoxazol. No obstante, a menos que el paciente
+presente insuficiencia renal, no es necesario ajustar la dosis de lamivudina.
+ Se observó un modesto incremento en el valor de Cmax (28 %) para zidovudina al administrarse con
+lamivudina, aunque la exposición general (AUC) no se alteró de forma significativa. Zidovudina
+carece de efecto sobre la farmacocinética de lamivudina (véase sección 5.2.).
+ Lamivudina no ejerce interacciones farmacocinéticas con interferón-alfa cuando ambos medicamentos
+se administran al mismo tiempo. No se observaron interacciones adversas clínicamente significativas
+en pacientes tomando lamivudina al mismo tiempo que medicamentos inmunodepresores comúnmente
+utilizados (p. ej. ciclosporina A). No obstante, no se han realizado estudios formales de interacción.
+ Lamivudina puede inhibir la fosforilación intracelular de zalcitabina cuando ambos medicamentos se
+utilizan al mismo tiempo. Por lo tanto, no se recomienda la utilización de Zeffix en combinación con
+zalcitabina.
+ 4.6   Embarazo y lactancia
+ Embarazo: no existen datos suficientes sobre la utilización de lamivudina en mujeres embarazadas.
+Los estudios en animales han mostrado toxicidad reproductiva (véase sección 5.3). Se desconoce el
+riesgo en seres humanos.
+Como consecuencia de la transmisión pasiva de la sustancia a través de la placenta, las
+concentraciones de lamivudina en el suero del niño al nacer fueron similares a las encontradas en el
+suero de la madre y del cordón umbilical en el parto.
+ Aunque los estudios de reproducción en animales no son siempre predictivos de la respuesta en
+humanos, no se recomienda la administración durante los tres primeros meses de embarazo (véase
+sección 4.4).
+ Lactancia: tras su administración oral, lamivudina fue excretada en la leche humana a
+concentraciones similares a las encontradas en suero. Se recomienda, por lo tanto, que las madres en
+tratamiento con lamivudina no amamanten a sus niños.
+                                                  17
+4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ Lamivudina fue bien tolerada en estudios clínicos en pacientes con hepatitis B crónica. La incidencia
+de efectos adversos y anormalidades de laboratorio (a excepción de los incrementos de ALT y CPK,
+ver a continuación) fue similar entre los pacientes tratados con placebo y los tratados con lamivudina.
+Los efectos adversos comunicados más comunes fueron malestar y fatiga, infecciones del tracto
+respiratorio, molestias en la garganta y amígdalas, cefalea, dolor y molestias abdominales, náuseas,
+vómitos y diarrea.
+ A continuación se presentan las reacciones adversas clasificadas por sistema corporal, órgano y
+frecuencia. Las categorías de frecuencia se asignan únicamente a aquellas reacciones adversas
+consideradas al menos posiblemente relacionadas con lamivudina. Las frecuencias se definen como:
+muy frecuentes ( 1/10), frecuentes ( 1/100, < 1/10), poco frecuentes ( 1/1000, < 1/100), raras
+( 1/10.000, < 1/1000), muy raras (< 1/10.000).
+ Las categorías de frecuencias asignadas a las siguientes reacciones adversas son estimadas: para la
+mayoría de las reacciones, no se dispone de datos adecuados para calcular la incidencia. Las
+frecuencias de las reacciones adversas clasificadas como muy frecuentes y frecuentes se determinaron
+a partir de datos de ensayos clínicos y no se tuvo en cuenta la incidencia previa en los grupos tratados
+con placebo. Las reacciones adversas al fármaco identificadas durante la vigilancia post-
+comercialización se clasificaron como raras o muy raras.
+ Trastornos de la sangre y el sistema linfático:
+Muy raras:               Trombocitopenia
+Trastornos hepatobiliares:
+Muy frecuentes:Incrementos de ALT (ver apartado 4.4).
+ Durante el tratamiento y tras la retirada de lamivudina se han notificado exacerbaciones de la hepatitis,
+detectadas principalmente por aumento en las concentraciones de ALT en suero. La mayoría han
+remitido, aunque muy raramente se han observado muertes (véase sección 4.4).
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Frecuentes:           Incrementos de CPK
+Muy raras:            Trastornos musculares, incluyendo mialgia, calambres y rabdomiolisis
+ En pacientes con infección por VIH, se han comunicado casos de pancreatitis y neuropatía periférica
+(o parestesia). En pacientes con hepatitis B crónica no se observaron diferencias en la incidencia de
+estos efectos entre los pacientes tratados con placebo y los tratados con lamivudina.
+ Se han comunicado casos, a veces mortales, de acidosis láctica normalmente relacionada con
+hepatomegalia grave y esteatosis hepática, con el uso de terapia de combinación de análogos de
+nucleósidos en pacientes con VIH. Se han comunicado raramente casos de acidosis láctica en
+pacientes que recibían lamivudina para el tratamiento de hepatitis B.
+ 4.9   Sobredosis
+ La administración, en estudios de toxicidad aguda en animales, de dosis muy elevadas de lamivudina
+no produjo toxicidad en ningún órgano. Se dispone de datos limitados sobre las consecuencias de la
+ingestión de sobredosis agudas en humanos. No hubo fallecimientos y todos los pacientes se
+recuperaron. No se han identificado síntomas o signos específicos después de tal sobredosis.
+                                                    18
+En caso de sobredosis, se vigilará al paciente y se aplicará el tratamiento de apoyo estándar que sea
+necesario. Dado que lamivudina es dializable, puede emplearse una hemodiálisis continua para el
+tratamiento de la sobredosificación, aunque ello no se ha estudiado.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: análogo de nucleósido, código ATC: J05AF05.
+ Lamivudina es un agente antiviral muy activo frente al virus de la hepatitis B en todas las líneas
+celulares estudiadas y en animales infectados experimentalmente.
+ Lamivudina es metabolizada tanto por células infectadas como por no infectadas al derivado trifosfato
+(TP) que es la forma activa del compuesto original. La semivida intracelular del trifosfato en los
+hepatocitos es de 17-19 horas in vitro. Lamivudina -TP actúa como sustrato para la polimerasa viral
+del VHB.
+ La formación de más ADN viral se bloquea por incorporación de lamivudina-TP a la cadena y
+posterior terminación de la misma.
+ Lamivudina-TP no interfiere con el metabolismo celular normal de los deoxinucleótidos. También es
+un débil inhibidor de las alfa y beta ADN polimerasas de mamíferos. Además, lamivudina-TP tiene un
+escaso efecto sobre el contenido de ADN en las células de mamíferos.
+ En los estudios relativos a los potenciales efectos de la sustancia sobre la estructura mitocondrial y
+sobre el contenido y función del ADN, se vio que lamivudina carecía de efectos tóxicos apreciables.
+Presenta un potencial muy bajo para disminuir el contenido de ADN mitocondrial, no se incorpora de
+forma permanente al ADN mitocondrial y no actúa como inhibidor de la ADN gamma polimerasa
+mitocondrial.
+ Experiencia Clínica
+ Experiencia en pacientes con HBC HBeAg positivos y enfermedad hepática compensada: en estudios
+controlados, el tratamiento durante 1 año con lamivudina suprimió de forma significativa la
+replicación del ADN del VHB [34-57 % de los pacientes estaban por debajo de los límites de
+detección del ensayo (ensayo de hibridación en solución de Abbott Genostics, LLOD < 1,6pg/ml)},
+normalizó el nivel de ALT (40-72 % de pacientes), indujo la seroconversión del HBeAg (pérdida de
+HBeAg y detección de HBeAc con pérdida de ADN del VHB [por ensayo convencional], 16-18 % de
+pacientes), mejoró la histología (38-52 % de pacientes tenían un descenso de o superior a 2 puntos en
+el Índice de Actividad Histológica de Knodell [IAH]), y redujo la progresión de la fibrosis (en 3-17 %
+de pacientes) y la progresión a cirrosis.
+ El tratamiento continuo con lamivudina durante 2 años más en pacientes que no lograron una
+seroconversión de HBeAg en el primer año en los estudios controlados, dio lugar a una mayor mejoría
+de la fibrosis en puente. En pacientes con variante YMDD del VHB, 41/82 (50%) mejoraron en la
+inflamación hepática, y 40/56 (71%) de los pacientes sin variante YMDD del VHB mejoraron. La
+mejoría en la fibrosis en puente se produjo en 19/30 (63%) de los pacientes sin la variante YMDD y en
+22/44 (50%) de los pacientes con la variante. El 5% de los pacientes (3/56) sin la variante YMDD y el
+13 % (11/82) de los pacientes con la variante YMDD mostraron un empeoramiento en la inflamación
+hepática con respecto a los niveles pre-tratamiento. La progresión a cirrosis se produjo en 4/68 (6%)
+de los pacientes con la variante YMDD, mientras que ningún paciente sin la variante progresó a
+cirrosis.
+ En un estudio de tratamiento prolongado en pacientes asiáticos (NUCB3018), la tasa de
+seroconversión de HBeAg y la velocidad de normalización de ALT al final del periodo de tratamiento
+                                                  19
+de 5 años, fueron de 48 % (28/58) y 47% (15/32), respectivamente. La seroconversión de HBeAg
+aumentó en pacientes con niveles elevados de ALT; seroconvirtieron el 77% (20/26) de los pacientes
+con niveles de ALT previos al tratamiento >2x LNS. Al final de los 5 años, todos los pacientes
+tuvieron niveles de ADN del VHB indetectables o menores que los niveles previos al tratamiento.
+ En la Tabla 2 se resumen los últimos resultados del ensayo según el estado de la variante YMDD.
+ Tabla 2: Resultados de eficacia de 5 años según el estado de YMDD (Estudio asiático)
+NUCB3018
+                                                                                 Pacientes, % (nº.)
+                                                                          YMDD1                  No YMDD1
+Estado de la variante YMDD del VHB
+            Seroconversión deHBeAg
+                                                                        38     (15/40)         72        (13/18)
+- Todos los pacientes
+- ALT basal  1 x LNS2
+- ALT basal > 2 x LNS
+            ADN del VHB no detectable
+                                                                         5      (2/40)         6          (1/18)
+- Basal 3
+             - Semana 260 4
+negativo
+positivo < nivel basal
+positivo >nivel basal
+               Normalización de ALT
+             - Basal
+normal
+por encima de lo normal
+              - Semana 260
+normal
+por encima de lo normal < nivel basal
+por encima de lo normal > nivel basal
+ Los pacientes categorizados como variante YMDD fueron aquellos con 5% de variante YMDD del VHB en
+1.
+cualquier instante del año durante el período de estudio de 5 años. Los pacientes categorizados como no variante -
+YMDD fueron aquellos con > 95% de tipo salvaje para cualquier momento del año durante el periodo de 5 años del
+estudio
+2.   Límite normal superior
+3.   Ensayo de hibridación en solución Abbott Genostics (LLOD < 1,6 pg/ml)
+4.   Ensayo Chiron Quantiplex (LLOD 0,7 Meq/ml)
+ También se dispone de datos comparativos según el status YMDD para su evaluación histológica, pero
+sólo hasta 3 años. . En pacientes con la variante YMDD del VHB, 18/39 (46%) experimentaron una
+mejoría en la actividad necroinflamatoria, y 9/39 (23%) un empeoramiento. En los pacientes sin la
+variante, 20/27 (74%) experimentaron mejoría en la actividad necroinflamatoria, y 2/27 (7%)
+empeoramiento.
+                                                               20
+Después de la seroconversión del HBeAg, la respuesta serológica y la remisión clínica son
+generalmente duraderas tras interrumpir el tratamiento con lamivudina. Sin embargo, pueden ocurrir
+recaídas tras la seroconversión. En un estudio a largo plazo de seguimiento de pacientes que tuvieron
+seroconversión e interrumpieron el tratamiento con lamivudina, la recaída virológica posterior ocurrió
+en un 39% de los sujetos. Por tanto, tras la seroconversión de HBeAg, los pacientes deben ser
+controlados periódicamente para determinar si las respuestas serológica y clínica se mantienen. En
+pacientes que no mantengan una respuesta serológica constante, debería considerarse un re-
+tratamiento, o bien con lamivudina, o bien con un agente antiviral alternativo para la reanudación del
+control clínico del VHB.
+ En pacientes bajo seguimiento hasta 16 semanas tras la interrupción del tratamiento un año después de
+iniciarlo, se han observado con mayor frecuencia elevaciones de ALT post-tratamiento en pacientes
+que habían recibido lamivudina que en pacientes que habían recibido placebo. En la Tabla 3 se
+muestra una comparación de las elevaciones de ALT post-tratamiento entre las semanas 52 y 68 en
+pacientes que interrumpieron el tratamiento en la semana 52 y pacientes en los mismos estudios que
+recibieron placebo a lo largo del período de tratamiento. La proporción de pacientes que tuvieron
+elevaciones de ALT post-tratamiento junto con un aumento de los niveles de bilirrubina fue baja y
+similar en pacientes que recibieron tanto lamivudina como placebo.
+ Tabla 3: Elevaciones de ALT post-tratamiento en 2 estudios controlados con placebo en adultos
+                                                               Pacientes con Elevación de ALT/
+Valor Anormal                             Lamivudina                 Placebo
+ALT 2 x valor basal                                       37/137 (27%)             22/116 (19%)
+ALT 3 x valor basal                                       29/137 (21%)              9/116 (8%)
+ALT 2 x valor basal y ALT absoluta>500 UI/l               21/137 (15%)              8/116 (7%)
+ALT 2 x valor basal; y bilirrubina >2 x LNS y 2 x
+valor basal
+* Cada paciente puede estar representado en una o más categorías.
+  Comparable a Toxicidad de Grado 3 de acuerdo al criterio modificado de la OMS.
+LNS = Límite normal superior.
+ Experiencia en pacientes con HBC HBeAg negativos: los datos iniciales indican que la eficacia de
+lamivudina en pacientes con HBC HBeAg negativos es similar a la de pacientes con HBC HBeAg
+positivos, obteniendoel71% de los pacientes ADN del VHB suprimido por debajo del límite de
+detección del ensayo; el 67%, normalización de ALT; y el 38%, una mejoría del IAH tras un año de
+tratamiento. Cuando se interrumpió el tratamiento con lamivudina, la mayoría de los pacientes (70%)
+volvieron a presentar replicación viral. Se dispone de datos procedentes de un estudio de tratamiento
+prolongado en pacientes HBeAg negativos, tratados con lamivudina (NUCAB3017). Tras dos años de
+tratamiento en este estudio, se observó la normalización de los niveles de ALT, y no se detectó ADN
+del VHB en 30/69 (43%) y 32/68 (47%) de los pacientes, respectivamente, así como una mejoría en la
+tasa de necroinflamación en 18/49 (37%) de los pacientes. En pacientes sin la variante YMDD del
+VHB, 14/22 (64%) mostraron mejoría en la tasa de necroinflamación y 1/22 (5%) empeoraron con
+respecto a los niveles pre-tratamiento. En pacientes con la variante, 4/26 (15%) mostraron mejoría en
+la tasa de necroinflamación, y 8/26 (31%) empeoraron con respecto a los niveles pre-tratamiento.
+Ningún paciente en ninguno de los grupos progresó a cirrosis.
+ Frecuencia de aparición de la variante YMDD del VHB e impacto en la respuesta al tratamiento: la
+monoterapia con lamivudina da lugar a la aparición de la variante YMDD del VHB en
+aproximadamente el 24% de los pacientes tras un año de terapia, aumentando hasta el 67% tras 4 años
+de terapia. El desarrollo de la variante YMDD del VHB está asociado con una reducción en la
+respuesta al tratamiento en algunos pacientes, lo cual se evidencia por un aumento de los niveles de
+ADN del VHB y por elevación de los niveles de ALT, con respecto a los niveles previos durante la
+terapia, progresión de signos y síntomas de enfermedad hepática y/o empeoramiento de hall
+ 
+	Prospectos de medicamentos.

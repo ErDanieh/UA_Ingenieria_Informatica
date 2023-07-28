@@ -1,0 +1,551 @@
+TACHOSIL 1 ESPONJA 9,5X4,8CM
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Tachosil Esponja medicamentosa
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Composición cualitativa y cuantitativa:
+TachoSil contiene por cm2:
+ Fibrinógeno humano        5,5 mg
+Trombina humana           2,0 UI
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Esponja medicamentosa
+ TachoSil es una esponja de color hueso. La cara activa de la esponja, que está recubierta con
+fibrinógeno y trombina, es de color amarillo.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ TachoSil está indicado como tratamiento de apoyo en cirugía para mejorar la hemostasia cuando las
+técnicas estándar demuestran ser insuficientes (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ Posología
+El uso de TachoSil está limitado a los cirujanos con experiencia.
+Su uso no está suficientemente documentado en pacientes pediátricos.
+ El número de esponjas TachoSil que se utilice debe establecerse siempre en función de las necesidades
+clínicas del paciente y vendrá determinado por el tamaño de la herida.
+ La aplicación de TachoSil debe adaptarse a cada paciente según el criterio del cirujano responsable.
+En ensayos clínicos, las dosis individuales han sido habitualmente de 1 a 3 esponjas (de 9,5 cm x 4,8
+cm); se ha informado de casos en los que se ha aplicado un total de 7 esponjas. En el caso de heridas
+de menor tamaño, por ejemplo en cirugía minimamente invasiva, se recomienda el uso de esponjas de
+menor tamaño (de 4,8 cm x 4,8 cm o de 3 cm x 2,5 cm).
+ Método y vía de administración
+Este medicamento es únicamente para uso local.
+Consulte la sección 6.6 para ver instrucciones más detalladas.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a los principios activos o a alguno de los excipientes.
+                                                     2
+4.4   Advertencias y precauciones especiales de empleo
+ Este medicamento es únicamente para uso local. No utilizar por vía intravascular.
+ No se han obtenido datos específicos sobre el uso de este producto en neurocirugía, en cirugía vascular
+ni en anastomosis gastrointestinales.
+ Pueden producirse complicaciones tromboembólicas con riesgo para la vida si el preparado se
+administra involuntariamente por vía intravascular.
+ Al igual que con otros productos proteínicos, pueden producirse reacciones de hipersensibilidad de
+tipo alérgico. Las reacciones de hipersensibilidad pueden presentarse bajo los siguientes síntomas:
+picores, urticaria generalizada, presión en el pecho, respiración dificultosa, hipotensión y anafilaxia. Si
+aparecen dichos síntomas, debe interrumpirse la administración inmediatamente.
+ En caso de shock, deben observarse los estándares médicos vigentes para el tratamiento de shocks.
+ Entre las medidas estándar para prevenir infecciones derivadas del uso de medicamentos preparados a
+partir de sangre o plasma humano se encuentran la selección de los donantes, el examen de las
+donaciones individuales y de las reservas de plasma con el fin de detectar marcadores específicos de
+infecciones y la inclusión de pasos de fabricación efectivos para la inactivación o eliminación de virus.
+A pesar de estas medidas, al administrar un medicamento preparado a partir de sangre o plasma
+humano, no se puede excluir por completo la posibilidad de transmisión de agentes infecciosos. Esto
+también es aplicable a virus desconocidos o de reciente aparición y a otros patógenos.
+ Las medidas adoptadas se consideran efectivas para virus con envoltura como el VIH, el VHB y el
+VHC, así como para el virus sin envoltura VHA. Estas medidas pueden tener un efecto limitado para
+virus sin envoltura como el parvovirus B19. La infección por parvovirus B19 puede ser grave en
+mujeres embarazadas (infección fetal) y en personas con inmunodeficiencia o aumento de la
+eritropoyesis (por ejemplo, anemia hemolítica).
+ Se recomienda encarecidamente que cada vez que se administre TachoSil a un paciente se registre el
+nombre y el número del lote del producto con el fin de establecer una relación entre el paciente y el
+lote.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios formales de interacciones farmacológicas.
+De manera similar a otros productos semejantes u otras soluciones a base de trombina, la esponja
+puede degradarse al entrar en contacto con soluciones que contengan alcohol, yodo o metales pesados
+(por ejemplo, soluciones antisépticas). Debe eliminarse estas sustancias en la mayor medida posible
+antes de aplicar la esponja.
+ 4.6   Embarazo y lactancia
+ No se ha establecido en ensayos clínicos controlados la seguridad de TachoSil para su uso durante el
+embarazo ni en la lactancia humana. Los estudios experimentales en animales son insuficientes para
+evaluar la seguridad en lo que concierne a la reproducción, el desarrollo del embrión o del feto, el
+curso de la gestación y el desarrollo perinatal y postnatal.
+ Por consiguiente, TachoSil debe administrarse a mujeres embarazadas o en período de lactancia
+únicamente cuando exista una clara necesidad.
+ 4.7    Efectos sobre la capacidad para conducir y utilizar máquinas
+ No procede.
+ 4.8    Reacciones adversas
+ A continuación se enumeran las reacciones adversas según la clase de órgano del sistema.
+ Afecciones del sistema inmunitario:
+En casos excepcionales, puede producirse hipersensibilidad o reacciones alérgicas en pacientes
+tratados con selladores de fibrina. En casos aislados, estas reacciones alérgicas pueden derivar hacia
+shocks anafilácticos. Dichas reacciones pueden darse particularmente si el preparado se administra de
+forma repetida o a pacientes hipersensibles a algún componente del producto.
+ Afecciones vasculares:
+Pueden producirse complicaciones tromboembólicas si el preparado se administra involuntariamente
+por vía intravascular.
+ Trastornos generales y alteraciones en el lugar de la administración:
+Frecuentemente puede aparecer fiebre.
+ Investigaciones:
+De manera excepcional, pueden crearse anticuerpos contra los componentes de los selladores de
+fibrina.
+ Para información sobre la seguridad antivírica, consulte la sección 4.4.
+ 4.9    Sobredosis
+ No se han descrito casos de sobredosis.
+ 5      PROPIEDADES FARMACOLÓGICAS
+ 5.1.   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico:
+Hemostático local, código ATC: B02BC30
+ TachoSil contiene fibrinógeno y trombina en forma de capa seca en la superficie de una esponja de
+colágeno. Al contacto con los fluidos fisiológicos (por ejemplo, sangre, linfa o una solución salina
+fisiológica), los componentes de dicha capa se disuelven y se esparcen parcialmente por la superficie
+de la herida. A continuación se produce una reacción del fibrinógeno y la trombina que inicia la última
+fase de la coagulación fisiológica de la sangre. El fibrinógeno se convierte en monómeros de fibrina
+que se polimerizan de manera espontánea para formar un coágulo de fibrina, que mantiene la esponja
+de colágeno fuertemente adherida a la superficie de la herida. La fibrina queda unida en enlaces
+cruzados por el factor endógeno XIII, creándose una red firme y mecánicamente estable con buenas
+propiedades adhesivas que al mismo tiempo sirve como sellador.
+ Se han realizado estudios clínicos que demuestran la hemostasia en un total de 240 pacientes que se
+sometieron a una intervención de resección parcial del hígado y en 185 pacientes que se sometieron a
+una intervención de resección de tumor renal superficial. Un posterior ensayo clínico controlado (n =
+189) para investigar el sellado de tejidos en cirugía pulmonar no ha podido documentar la superioridad
+sobre el tratamiento estándar medida por fuga de aire.
+ 5.2.   Propiedades farmacocinéticas
+ TachoSil sólo debe aplicarse localmente. No es posible la administración por vía intravascular.
+Por consiguiente, no se han realizado estudios farmacocinéticos en el hombre.
+ En estudios en animales, TachoSil mostró una biodegradación de carácter progresivo. El coágulo de
+fibrina se metabolizó de la misma manera que la fibrina endógena a través de un proceso de
+fibrinolisis y fagocitosis. La esponja de colágeno fue degradado por tejido de granulación
+reabsorbible. Aproximadamente 24 semanas después de la aplicación sólo quedaban algunos restos sin
+señales de irritación local.
+ 5.3    Datos preclínicos sobre seguridad
+ Los estudios de toxicidad de monodosis en distintas especies animales no han mostrado ningún
+síntoma de efecto tóxico agudo.
+ 6      DATOS FARMACÉUTICOS
+ 6.1    Lista de excipientes
+ Colágeno equino
+Albúmina humana
+Riboflavina (E-101)
+Cloruro sódico
+Citrato sódico
+Hidrocloruro de L-arginina
+ 6.2    Incompatibilidades
+ No procede.
+ 6.3    Periodo de validez
+ 3 años.
+Una vez abierta la bolsa de aluminio, debe utilizarse TachoSil inmediatamente.
+ 6.4    Precauciones especiales de conservación
+ No conservar a temperatura superior a 25ºC.
+ 6.5    Naturaleza y contenido del recipiente
+ TachoSil se presenta en un envase doble:
+Un envase exterior formado por una bolsa de papel de aluminio.
+Un envase interior (esterilizado) formado por un blister de poliestireno sellado con papel laminado en
+laca.
+Se incluye una bolsa desecante en el envase exterior.
+ Cada esponja está envasada por separado.
+ Presentaciones:
+Envase de 1 esponja de 9,5 cm x 4,8 cm
+Envase de 2 esponjas de 4,8 cm x 4,8 cm
+Envase de 1 esponja de 3 cm x 2,5 cm
+Envase de 5 esponjas de 3 cm x 2,5 cm
+                                                    5
+Posible comercialización solamente de algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ TachoSil se presenta listo para su uso en embalajes estériles y debe manipularse en consecuencia.
+Utilice únicamente embalajes intactos. Una vez abierto el embalaje no es posible la postesterilización.
+La bolsa exterior de aluminio puede abrirse en un entorno no esterilizado. El blister interior estéril
+debe abrirse en un entorno esterilizado. TachoSil debe utilizarse inmediatamente después de abrir el
+recubrimiento interior estéril.
+ TachoSil se utiliza en condiciones estériles. Antes de su aplicación, debe limpiarse la zona de la
+herida, por ejemplo, de sangre, desinfectantes y otros fluidos. Después de extraer TachoSil de su
+embalaje estéril, debe humedecerse la esponja en una solución salina y aplicarse justo a continuación.
+La cara activa de color amarillo de la esponja se aplica a la superficie de la hemorragia y se sujeta
+ejerciendo una ligera presión durante un periodo de 3 a 5 minutos. Este procedimiento permite que
+TachoSil se adhiera fácilmente a la superficie de la herida.
+La presión se aplica con ayuda de unos guantes humedecidos o de una compresa húmeda. Debido a la
+fuerte afinidad del colágeno con la sangre, TachoSil puede adherirse también a instrumentos
+quirúrgicos o guantes cubiertos de sangre. Esto puede evitarse humedeciendo previamente los
+instrumentos y guantes quirúrgicos con una solución fisiológica salina. Después de sujetar TachoSil
+sobre la herida, debe separarse el guante o la compresa con cuidado. Para evitar que la esponja se
+suelte, puede mantenerse en su sitio por uno de sus extremos, por ejemplo, con ayuda de un fórceps.
+ De manera alternativa, por ejemplo en caso de una hemorragia intensa, puede aplicarse TachoSil sin
+prehumedecimiento, presionando también ligeramente sobre la herida durante un periodo de entre 3 y
+5 minutos.
+ La esponja TachoSil debe aplicarse de manera que cubra toda la herida, dejando una separación de 1 ó
+2 cm entre los bordes de la herida y los de la esponja. Si se utilizan dos o más esponjas, éstas deberán
+superponerse. La esponja puede recortarse para ajustar su tamaño y su forma.
+ El producto no utilizado o el material de desecho se debe eliminar según los requerimientos locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Nycomed Austria GmbH
+St. Peter Strasse 25
+A-4020 Linz
+Austria
+ 
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/04/277/001-004
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 08.06.2004
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+                                                    6
+ANEXO II
+ A. FABRICANTE(S) DEL (DE LOS) PRINCIPIO (S) BIOLÓGICO
+(S) ACTIVO(S) Y TITULAR(ES) DE LA AUTORIZACIÓN DE
+FABRICACIÓN RESPONSABLE(S) DE LA LIBERACIÓN DE
+LOS LOTES
+ B. CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A     FABRICANTE(S) DEL (DE LOS) PRINCIPIO(S) BIOLÓGICO(S) ACTIVO(S) Y
+TITULAR(ES) DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE(S) DE
+LA LIBERACIÓN DE LOS LOTES
+ Nombre y razón social del (de los) fabricante(s) del (de los) principio(s) biológico(s) activo(s)
+ CSL Behring GmbH
+P.O. Box 1230
+D-35002 Marburg/Lahn
+Alemania
+ Nombre y razón social del (de los) fabricante(s) responsables de la liberación de los lotes
+ Nycomed Austria GmbH
+St. Peter Strasse 25
+A-4020 Linz
+Austria
+ B     CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Véase Anexo I: Resumen de las Características
+del Producto, sección 4.2)
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ·     OTRAS CONDICIONES
+ Liberación oficial de los lotes: de conformidad con el artículo 114 de la Directiva 2001/83/EC, la
+liberación oficial de los lotes será realizada por un laboratorio estatal o uno designado a tal efecto.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 9
+A. ETIQUETADO
+ 10
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ CAJA DE CARTÓN
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Tachosil, esponja medicamentosa
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Por cm2
+Fibrinógeno humano: 5,5 mg
+Trombina humana: 2,0 UI
+ 
+3.    LISTA DE EXCIPIENTES
+	Colágeno equino, albúmina humana, riboflavina (E101), cloruro sódico, citrato sódico, hidrocloruro de
+L-arginina
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Esponja medicamentosa
+1 esponja de 9,5 cm x 4,8 cm
+2 esponjas de 4,8 cm x 4,8 cm
+1 esponja de 3 cm x 2,5 cm
+5 esponjas de 3 cm x 2,5 cm
+ 5.    FORMA FARMACÉUTICA Y VÍA(S) DE ADMINISTRACIÓN
+ Para uso local
+Leer el prospecto antes de utilizar.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRA(S) ADVERTENCIA(S) ESPECIAL(ES), SI ES NECESARIO
+ Una vez abierta la bolsa de aluminio, utilizar inmediatamente. No volver a esterilizar.
+ 
+8.    FECHA DE CADUCIDAD
+	CAD {MM/AAAA}
+                                                    11
+
+9.     CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 25ºC
+ 10.    PRECAUCIONES ESPECIALES PARA LA ELIMINACIÓN DEL PRODUCTO NO
+UTILIZADO O DE LOS MATERIALES DE DESECHO DEARIVADOS DE DICHO
+PRODUCTO (CUANDO CORRESPONDA)
+ La eliminación de los productos no utilizados o de los materiales de desecho se establecerá de
+acuerdo con las exigencias locales.
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ NYCOMED Austria GmbH
+St. Peter Strasse 25
+A-4020 Linz, Austria
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/04/277/001   1 esponja de 9,5cm x 4,8cm
+EU/1/04/277/002   2 esponjas de 4,8cm x 4,8cm
+EU/1/04/277/003   1 esponja de 3,0cm x 2,5cm
+EU/1/04/277/004   5 esponjas de 3,0cm x 2,5cm
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ INFORMACIÓN MÍNIMA A INCLUIR EN BLÍSTERS O TIRAS
+(acondicionamiento primario)
+ 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	TachoSil
+ 
+2.     NOMBRE DEL TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	NYCOMED
+ 
+3.     FECHA DE CADUCIDAD
+	CAD {MM/AAAA}
+ 
+4.     NÚMERO DE LOTE
+	Lote
+ 
+5.     OTROS
+	INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ ETIQUETA DE LA BOLSA DE ALUMINIO (acondicionamiento secundario)
+ 1.     DENOMINACIÓN DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Tachosil, esponja medicamentosa
+Para uso local
+ 
+2.     FORMA DE ADMINISTRACIÓN
+	Leer el prospecto antes de utilizar.
+ 
+3.     FECHA DE CADUCIDAD
+	CAD {MM/AAAA}
+ 
+4.     NÚMERO DE LOTE
+	Lote
+ 5.     CONTENIDO EN PESO, VOLUMEN O EN UNIDADES
+ 1 esponja de 9,5 cm x 4,8 cm
+1 esponja de 4,8 cm x 4,8 cm
+1 esponja de 3 cm x 2,5 cm
+ 
+6.     OTROS
+	B. PROSPECTO
+ 15
+                                   TachoSil, esponja medicamentosa
+ Lea todo el prospecto detenidamente.
+Conserve este prospecto. Puede tener que volver a leerlo.
+- Si tiene alguna duda, consulte a su médico.
+- Si aprecia cualquier efecto adverso no mencionado en este prospecto o si sufre unos de los
+efectos adversos descritos de forma grave, informe a su médico.
+ En este prospecto:
+1. Qué es TachoSil y para qué se utiliza
+2. Antes de usar TachoSil
+3. Cómo usar TachoSil
+4. Posibles efectos adversos
+5. Conservación de TachoSil
+6. Información adicional
+ 
+1.    QUÉ ES TACHOSIL Y PARA QUÉ SE UTILIZA
+	¿Cómo actúa TachoSil?
+La cara amarilla de la esponja TachoSil contiene dos principios activos: fibrinógeno y
+trombina. La cara amarilla de la esponja es por tanto la cara activa. Cuando la esponja
+entra en contacto con algún fluido (por ejemplo, sangre, linfa o una solución salina) el
+fibrinógeno y la trombina se activan y forman una red de fibrina. Esto significa que la
+esponja se adhiere a la superficie del tejido, la sangre se coagula (hemostasia local) y el
+tejido queda sellado. TachoSil se disuelve en el cuerpo y desaparece por completo.
+ ¿Para qué se utiliza TachoSil?
+TachoSil se utiliza durante la cirugía para parar la hemorragia local (hemostasia) de
+órganos internos.
+ 
+2.    ANTES DE USAR TACHOSIL
+	No use TachoSil
+si es alérgico (hipersensible) al fibrinógeno humano, a la trombina humana o a cualquiera de los
+demás componentes de TachoSil.
+ Uso de con otros medicamentos
+Informe a su médico si está tomando o ha tomado recientemente con otros medicamentos, incluso los
+adquiridos sin receta.
+ Información importante sobre algunos de los componentes de TachoSil
+Cuando se fabrican medicamentos a partir de la sangre o del plasma humano, se adoptan determinadas
+medidas para evitar que se transmitan infecciones a otros pacientes. Entre dichas medidas están la
+selección cuidadosa de los donantes de sangre y plasma con el fin de garantizar la exclusión de las
+personas que puedan ser portadores de infecciones, así como la realización de pruebas de cada
+donación y de las reservas de plasma para detectar posibles indicios de virus o infecciones. Los
+fabricantes de este tipo de productos incluyen asimismo pasos en el procesamiento de la sangre o del
+plasma que puedan inactivar o eliminar los virus. A pesar de estas medidas, al administrar un
+medicamento preparado a partir de sangre o plasma humano, no se puede excluir por completo la
+                                                     16
+posibilidad de transmisión de alguna infección. Esto también es aplicable a virus desconocidos o de
+reciente aparición, o bien a otros tipos de infecciones.
+ Las medidas adoptadas se consideran efectivas para virus con envoltura como el virus de la
+inmunodeficiencia humana (VIH), el de la hepatitis B (VHB) y el de la hepatitis C (VHC), así como
+para el virus sin envoltura de la hepatitis A (VHA). Estas medidas pueden tener un efecto limitado
+para virus sin envoltura como el parvovirus B19. La infección por parvovirus B19 puede ser grave en
+mujeres embarazadas (infección fetal) y en personas cuyo sistema inmunitario esté debilitado o que
+padezcan determinados tipos de anemia (como la anemia drepanocítica o la anemia hemolítica).
+ Se recomienda encarecidamente que al recibir TachoSil se registre en el hospital el nombre y el
+número del lote del producto con la finalidad de mantener un registro de los lotes utilizados.
+ 
+3.     CÓMO USAR TACHOSIL
+	El médico que le esté tratando le administrará TachoSil durante la intervención. El médico colocará la
+esponja sobre el órgano para detener la hemorragia. Seguidamente, la esponja se disolverá y
+desaparecerá por completo.
+ 
+4.     POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, TachoSil puede tener efectos adversos, aunque no todas las
+personas lo sufran..
+ TachoSil se fabrica a partir de la sangre humana. Todos los medicamentos basados en la sangre
+humana pueden provocar reacciones alérgicas en casos excepcionales. En casos aislados, estas
+reacciones alérgicas pueden derivar hacia shocks anafilácticos.
+ Las reacciones alérgicas anteriores pueden producirse sobre todo si TachoSil se utiliza reiteradamente
+o si usted es alérgico a alguno de los componentes del medicamento.
+ En casos excepcionales podrían producirse anticuerpos contra los principios activos de TachoSil.
+Usted podrá tener fiebre tras la administración de TachoSil.
+ Si nota efectos adversos no mencionados en este prospecto o si sufre uno de los efectos adversos
+descritos de forma grave, comuníqueselo a su médico.
+ 
+5.     CONSERVACIÓN DE TACHOSIL
+	No requerirá almacenar el producto.
+ 
+6.     INFORMACIÓN ADICIONAL
+	"¿Que contiene TachoSil?
+      Los principios activos son fibrinógeno humano (5,5mg por cm2) y trombina humana (2.0 IU por
+-
+cm2).
+-    Los demás componentes son colágeno equino, albúmina humana, riboflavina (E-101), cloruro
+sódico, citrato sódico e hidrocloruro de L-arginina.
+ Aspecto del producto y contenido del envase
+ TachoSil es una esponja de colágeno recubierta por la cara amarilla con fibrinógeno humano y
+trombina humana.
+ Presentaciones
+El producto está disponible en diferentes tamaños y se presenta en envases de un total de 5 esponjas:
+ Envase de 1 esponja de 9,5cm x 4,8cm
+Envase de 2 esponjas de 4,8cm x 4,8cm
+Envase de 1 esponja de 3cm x 2,5cm
+Envase de 5 esponjas de 3cm x 2,5cm
+ Es posible que no estén disponibles todas las presentaciones en todos los países.
+ Titular de la autorización de comercialización y fabricante
+ Nycomed Austria GmbH
+St. Peter Strasse, 25
+A-4020 Linz, Austria
+ Puede solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización.
+ België/Belgique/Belgien                             Luxembourg/Luxemburg
+Nycomed Belgium                                     Nycomed Belgium
+Chaussée de Gand 615 Gentsesteenweg                 Chaussée de Gand 615 Gentsesteenweg
+B-1080 Brussels                                     B-1080 Brussels
+Tél/Tel: + 32 2 464 06 11                           Belgique/Belgien
+                                                     Magyarország
+Nycomed                                             Nycomed Pharma Kft.
+Langebjerg 1                                        Hermina út 17.
+DK-4000 Roskilde                                    H-1146 Budapest
+Te.: + 45 46 77 11 11
+ Ceská republika                                     Malta
+Nycomed s.r.o.                                      Nycomed
+Novodvorská 994                                     Langebjerg 1
+142 21 Praha 4                                      DK-4000 Roskilde
+Tel: +420 239 044 244                               Id-Danimarka
+ Danmark                                             Nederland
+Nycomed Danmark ApS                                 Nycomed bv
+Langebjerg 1                                        Postbus 31,
+DK-4000 Roskilde                                    NL-2130AA Hoofddorp
+Tlf: + 45 46 77 11 11                               Tel: (023) 566 8777
+ Deutschland                                         Norge
+Nycomed Deutschland GmbH                            Nycomed Pharma AS
+Moltkestr. 4                                        Drammensveien 852
+D-78467 Konstanz                                    N-1372 Asker
+Tel: +49 7531-36660                                 Tlf: + 47 6676 3030
+ Eesti                                               Österreich
+Nycomed SEFA AS
+Pirita tee 20T
+EE-10127 Tallinn
+Tel: +372 6112 569
+                             Polska
+Nycomed Hellas S.A.         Nycomed Sp. z o.o.
+.  196
+GR-152 31 ,
+T: + 30 210 672 9570
+ España                      Portugal
+Nycomed Pharma, S.A.        Nycomed
+Calle Alsasua 20            Langebjerg 1
+E-28023 Madrid              DK-4000 Roskilde
+Tlf: + 34 91 714 99 00      Dinamarca
+France                      România
+Nycomed France SAS          Nycomed România
+28 rue Pages                Strada Despot Vod nr.32A, Sect.2
+F-92150 Suresnes            Bucureti, Cod 020656-RO
+Tél: + 33 1 42 04 85 50     Tel: + 40212123848
+ Ireland                     Slovenija
+Nycomed Products Limited    Nycomed GmbH
+2051 Castledrive            Podruznica Ljubljana
+Citywest Business Campus    Dalmatinova ulica 2
+IRL-Dublin 24               SI-1000 Ljubljana
+Tel: +353 1 642 0021        Tel: + 386 1 23 96 110
+ Ísland                      Slovenská republika
+Nycomed                     Nycomed s.r.o.
+Langebjerg 1                Plynárenská 7B
+DK-4000 Roskilde            SK-821 02 Bratislava
+Danmörk                     Tel: + 421 2060 2600
+Sími: + 45 46 77 11 11
+ Italia                      Suomi/Finland
+Nycomed Italia S.r.l.       Oy Leiras Finland Ab
+Via Libero Temolo 4         P O Box 1406
+I-20126 Milano              FIN-00101 Helsinki
+Tel: +39 02 641601          Puh/Tel: + 358 20 746 5000
+                             Sverige
+Nycomed
+Langebjerg 1
+DK-4000 Roskilde
+ T: + 45 46 77 11 11
+ Latvija                     United Kingdom
+Nycomed Latvija SIA
+Duntes 6
+LV-1013 Riga
+                            19
+Tel: + 371 784 0082
+ Lietuva
+""Nycomed"", UAB
+Gynj 16
+LT-01109 Vilnius
+Tel: +370 521 09 070
+ Este prospecto fue aprobado en {MM/AAAA}
+ -------------------------------------------------------------------------------------------------------------------------------
+ Esta información está destinada únicamente a médicos o profesionales del sector sanitario:
+                                            INSTRUCCIONES DE USO
+ Lea lo siguiente antes de abrir el embalaje:
+TachoSil se presenta en embalajes estériles y por ello es importante:
+     ·    utilizar únicamente embalajes intactos que no se hayan abierto (no es posible la
+postesterilización).
+·    que una persona en condiciones no estériles abra el recubrimiento exterior de aluminio
+·    que una persona en condiciones estériles abra el embalaje interior estéril
+ Utilice TachoSil poco después de abrir el recubrimiento exterior de aluminio.
+Utilice TachoSil inmediatamente después de abrir el embalaje interior estéril.
+ Instrucciones
+Utilice la esponja TachoSil únicamente en condiciones estériles.
+ Averigüe el tamaño de esponja que se necesita. El tamaño de la esponja depende del tamaño de la
+herida. Observe que la esponja debe cubrir completamente la herida, quedando una separación de 1 ó 2
+cm entre los bordes de la herida y los de la esponja. Si se necesitan dos o más esponjas, éstas deberán
+superponerse. En el caso de heridas más pequeñas, se puede recortar la esponja al tamaño adecuado y
+darle forma si es demasiado grande.
+     1. Limpie cuidadosamente la superficie de la herida antes de colocar la esponja
+sobre la misma. Las hemorragias abundantes (ininterrumpidas) deben
+intervenirse quirúrgicamente.
+     2. Abra el embalaje interior estéril y extraiga la esponja. Humedézcala previamente con una
+solución salina y colóquela en la herida inmediatamente después (si la herida está
+completamente humedecida por la sangre y otros fluidos, no será necesario humedecer la
+esponja antes de su aplicación).
+     3. Humedezca previamente los instrumentos o guantes quirúrgicos con una solución salina, si
+fuera necesario. TachoSil puede quedar adherido a los instrumentos o guantes quirúrgicos que
+estén cubiertos de sangre.
+     4. Coloque la cara activa de color amarillo de la esponja sobre la herida. Sujete la esponja
+ejerciendo una suave presión durante un período de 3 a 5 minutos. Utilice un guante
+humedecido o una compresa húmeda para mantener la esponja en su sitio.
+ 5. Pasado el tiempo indicado (3 a 5 minutos), deje de presionar lentamente. Para asegurarse de
+que la esponja no queda adherida al guante o compresa humedecida y por tanto no se separa
+de la herida, puede sujetarla por un extremo, por ejemplo con ayuda de un fórceps. No es
+necesario retirar ningún componente residual, ya que se disuelve toda la esponja (se
+reabsorbe).
+ Se recomienda encarecidamente que cada vez que se administre TachoSil a un paciente se registre el
+nombre y el número del lote del producto con el fin de establecer una relación entre el paciente y el
+lote.
+ Conservación de TachoSil
+No conservar a temperatura superior a 25ºC.
+No usar una vez superada la fecha de caducidad que figura en la etiqueta y en el embalaje.
+Mantener fuera del alcance y de la vista de los niños.
+"
+	Prospectos de medicamentos.

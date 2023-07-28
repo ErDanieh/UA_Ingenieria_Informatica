@@ -1,0 +1,914 @@
+YONDELIS 1MG 1 VIAL POLVO SOL PERFUSION
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Yondelis 0,25 mg polvo para concentrado para solución para perfusión.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada vial contiene 0,25 mg de trabectedina.
+ 1 ml de solución reconstituida contiene 0,05 mg de trabectedina.
+ Excipientes:
+ Cada vial contiene 2 mg de potasio y 0,1 g de sacarosa.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo para concentrado para solución para perfusión.
+ Polvo blanco o blanquecino.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Yondelis está indicado para el tratamiento de pacientes con sarcoma de tejidos blandos en estadio
+avanzado en los que haya fracasado el tratamiento con antraciclinas e ifosfamida, o bien que no sean
+candidatos a recibir dichos productos. La eficacia se basa fundamentalmente en datos de pacientes con
+liposarcoma o leiomiosarcoma.
+ 4.2   Posología y forma de administración
+ Yondelis debe administrarse bajo la supervisión de un médico con experiencia en el uso de
+quimioterapia. Su uso debe limitarse a oncólogos cualificados y a otros profesionales sanitarios
+especializados en la administración de agentes citotóxicos.
+ La dosis recomendada es de 1,5 mg/m2 de superficie corporal, administrados mediante perfusión
+intravenosa durante un periodo de 24 horas, con un intervalo de tres semanas entre ciclos. Es muy
+recomendable la administración de este fármaco a través de una vía venosa central (ver apartado 6.6).
+ 30 minutos antes de recibir Yondelis, se les debe administrar a todos los pacientes 20 mg de
+dexametasona por vía intravenosa, no sólo como profilaxis antiemética, sino también porque parece
+que produce efectos hepatoprotectores. Si fuera necesario, se pueden administrar además otros
+antieméticos.
+ Para permitir el tratamiento con Yondelis, es necesario que se cumplan los siguientes criterios:
+       Recuento absoluto de neutrófilos (RAN)  1.500/mm3
+-
+Recuento de plaquetas  100.000/mm3
+-
+Bilirrubina  límite superior de la normalidad (LSN)
+-
+Fosfatasa alcalina  2,5 LSN (si la elevación pudiera ser de origen óseo, se deben considerar las
+-
+isoenzimas hepáticas 5-nucleotidasa o GGT).
+                                                     2
+Albúmina  25 g/l.
+-
+Alanina aminotransferasa (ALT) y aspartato aminotransferasa (AST)  2,5 x LSN
+-
+Aclaramiento de creatinina  30 ml/min
+-
+Creatina fosfoquinasa (CPK)  2,5 LSN
+-
+Hemoglobina  9 g/dl
+-
+ Antes de repetir el tratamiento, deben cumplirse estos mismos criterios. En caso contrario, el
+tratamiento debe retrasarse durante un periodo máximo de 3 semanas hasta que se cumplan los
+criterios.
+ Deben realizarse controles adicionales de los parámetros hematológicos bilirrubina, fosfatasa alcalina,
+aminotransferasa y CPK cada semana durante los dos primeros ciclos de tratamiento, y en los ciclos
+posteriores, deberán controlarse al menos una vez entre tratamientos.
+En todos los ciclos se administrará la misma dosis, siempre que no se observe toxicidad de grado 3-4 y
+que el paciente cumpla los criterios de repetición del tratamiento.
+ Ajuste de la dosis durante el tratamiento
+ Antes de repetir el tratamiento, los pacientes deben cumplir los criterios basales definidos
+anteriormente. En caso de que se produzca alguno de los siguientes acontecimientos en cualquier
+momento entre los ciclos, la dosis deberá reducirse a 1,2 mg/m2 para los ciclos siguientes.
+       Neutropenia < 500/mm3 de duración superior a 5 días o asociada con fiebre o infección
+-
+Trombocitopenia < 25.000/mm3
+-
+-     Incremento de los valores de bilirrubina > LSN y/o fosfatasa alcalina > 2,5 x LSN
+-     Incremento de los niveles de aminotransferasas (AST o ALT) > 2,5 x LSN que no se haya
+recuperado en el día 21
+-     Cualquier otro efecto adverso de grado 3 ó 4 (como náuseas, vómitos, cansancio)
+ Cuando una dosis se haya reducido por toxicidad, no se recomienda realizar un escalado de dosis en
+los ciclos siguientes. Si alguna de estas toxicidades reaparece en los ciclos posteriores en un paciente
+que muestre un beneficio clínico, la dosis podría reducirse hasta 1 mg/m2. En caso de que fuera
+necesario seguir reduciendo la dosis, debe considerarse la suspensión del tratamiento.
+ Duración del tratamiento
+ En los ensayos clínicos no hubo límites predefinidos en cuanto al número de ciclos administrados. El
+tratamiento continuó mientras persistió el beneficio clínico. La trabectedina se ha administrado durante
+6 o más ciclos a 168 de 569 (29,5 %) pacientes tratados con la dosis y la pauta propuestas. Este
+régimen se ha utilizado hasta 38 ciclos. No se han observado toxicidades acumuladas en pacientes a
+los que se les administraron múltiples ciclos.
+ Poblaciones de pacientes especiales
+ Pacientes pediátricos
+ La seguridad y eficacia de la utilización de trabectedina en pacientes pediátricos no se ha establecido
+todavía. Por tanto, este medicamento no debe utilizarse en niños ni adolescentes mientras no se
+disponga de más datos.
+ Pacientes ancianos
+ No se han realizado ensayos específicos en pacientes ancianos. En general, el 20 % de los
+1.164 pacientes del análisis de seguridad integrado tenían más de 65 años de edad. En esta población
+de pacientes, no se observaron diferencias relevantes en el perfil de seguridad. No parece que ni el
+aclaramiento plasmático ni el volumen de distribución de la trabectedina se vean afectados por la edad.
+                                                     3
+Por tanto, no se recomienda ajustar la dosis en función únicamente de criterios de edad de forma
+rutinaria.
+ Pacientes con insuficiencia hepática
+ No se han realizado ensayos con el régimen propuesto en pacientes con disfunción hepática. Por tanto,
+no se dispone de datos para recomendar una dosis de inicio menor en pacientes con insuficiencia
+hepática. No obstante, se aconseja adoptar precauciones especiales, y puede que sea necesario ajustar
+las dosis en estos pacientes, ya que es probable que se incremente la exposición sistémica, lo que
+podría aumentar el riesgo de hepatotoxicidad. Los pacientes con niveles elevados de bilirrubina no
+deben ser tratados con Yondelis (ver apartado 4.4).
+ Pacientes con insuficiencia renal
+ No se han realizado ensayos en pacientes con insuficiencia renal grave (aclaramiento de creatinina
+< 30 ml/min) y, por tanto, Yondelis no debe utilizarse en esta población de pacientes (ver apartado 4.4).
+Considerando las características farmacocinéticas de la trabectedina (ver apartado 5.2), no se
+recomienda realizar ajustes de dosis en pacientes con insuficiencia renal leve o moderada.
+ Ver las instrucciones para la reconstitución y dilución del medicamento antes de su administración en
+la sección 6.6.
+ 4.3   Contraindicaciones
+ -     Hipersensibilidad a la trabectedina o a alguno de los excipientes.
+-     Infección concurrente grave o no controlada
+-     Lactancia (ver apartado 4.6)
+-     Tratamiento combinado con la vacuna de la fiebre amarilla (ver apartado 4.4)
+ 4.4   Advertencias y precauciones especiales de empleo
+ Insuficiencia hepática
+ Los pacientes deben cumplir unos criterios específicos respecto a los parámetros de la función
+hepática para poder iniciar el tratamiento con Yondelis. Es probable que, debido a la insuficiencia
+hepática, aumente la exposición sistémica a la trabectedina y se incremente consecuentemente el
+riesgo de hepatotoxicidad. Por esta razón, los pacientes con hepatopatías clínicamente relevantes,
+como hepatitis crónica activa, deben someterse a una monitorización estrecha para, en caso necesario,
+realizar un ajuste de la dosis. Los pacientes con niveles elevados de bilirrubina no deben ser tratados
+con trabectedina (ver apartado 4.2).
+ Insuficiencia renal
+ El aclaramiento de creatinina debe monitorizarse antes y durante el tratamiento. No se debe utilizar
+trabectedina en pacientes con un aclaramiento de creatinina < 30 ml/min (ver apartado 4.2).
+ Neutropenia y trombocitopenia
+ Se han notificado con frecuencia casos de neutropenia y trombocitopenia de grado 3 ó 4 asociados al
+tratamiento con trabectedina. Se deben realizar hemogramas completos, que incluyan fórmula
+leucocitaria y recuento de plaquetas antes de iniciar el tratamiento (momento basal) cada semana
+durante los dos primeros ciclos de tratamiento y, posteriormente, al menos una vez entre ciclos (ver apartado 4.2). Los pacientes que presenten fiebre deben consultar al médico de inmediato. En este caso,
+se iniciará inmediatamente un tratamiento de soporte activo.
+ Náuseas y vómitos
+ Todos los pacientes deberán recibir tratamiento profiláctico antiemético con dexametasona (ver apartado 4.2).
+ Rabdomiolisis y elevaciones graves de la CPK (> 10 x LSN)
+ No se debe utilizar trabectedina en pacientes con CPK > 2,5 LSN (ver apartado 4.2). Raramente se han
+notificado casos de rabdomiolisis que generalmente se asociaron con mielotoxicidad, anomalías graves
+de la prueba de función hepática y/o insuficiencia renal. Por tanto, cuando un paciente pueda
+experimentar alguna de estas toxicidades se deben monitorizar estrechamente los niveles de CPK. .
+Como se ha indicado anteriormente, si se presentara rabdomiolisis, se deben establecer de inmediato
+medidas de apoyo como hidratación parenteral, alcalinización de la orina y diálisis. Asimismo, debe
+interrumpirse el tratamiento con Yondelis hasta que el paciente se recupere por completo.
+ Se deben tomar medidas de precaución si se administran de forma concomitante trabectedina junto con
+con otros medicamentos asociados con rabdomiolisis (p. ej., estatinas), ya que puede incrementar el riesgo
+de rabdomiolisis.
+ Anomalías en las pruebas de la función hepática (PFH)
+ En la mayoría de los pacientes se han notificado incrementos agudos reversibles de los niveles de
+aspartato aminotransferasa (AST) y alanina aminotransferasa (ALT). Yondelis no debe utilizarse en
+pacientes con niveles elevados de bilirrubina. Los pacientes con incrementos de los niveles de AST,
+ALT y fosfatasa alcalina entre ciclos pueden necesitar una reducción de la dosis (ver apartado 4.2).
+ Reacciones en el punto de inyección
+ Es muy recomendable que la administración se realice a través de una vía venosa central (ver apartado
+4.2). Cuando se administra la trabectedina a través de una vía venosa periférica, los pacientes pueden
+presentar una reacción potencialmente grave en el lugar de inyección.
+ Otros
+ Debe evitarse la administración concomitante de Yondelis con inhibidores potentes de la enzima
+CYP3A4 (ver apartado 4.5). Si esto no es posible, se requiere una monitorización estrecha de las
+toxicidades, y deberá considerarse la posibilidad de reducir de la dosis de trabectedina.
+ Se deben tomar medidas de precaución si se administran medicamentos asociados con hepatotoxicidad
+de forma concomitante con trabectedina, ya que se puede incrementar el riesgo de hepatotoxicidad.
+ El uso concomitante de trabectedina y fenitoína puede reducir la absorción de esta última y producir
+una exacerbación de las convulsiones. No se recomienda la combinación de trabectedina ni con
+fenitoína ni con vacunas que contengan microorganismos vivos atenuados. Está específicamente
+contraindicada la administración de trabectedina junto con la vacuna de la fiebre amarilla (ver
+secciones 4.3 y 4.5).
+ Debe evitarse el uso concomitante de trabectedina con alcohol (ver apartado 4.5).
+ Los varones y las mujeres en edad fértil deben utilizar medidas anticonceptivas eficaces durante el
+tratamiento. Además, las mujeres deben mantener las medidas anticonceptivas hasta 3 meses después
+de finalizar el tratamiento mientras que los varones deben prolongar estas medidas hasta 5 meses
+después del tratamiento. Asimismo, si se produce un embarazo, se debe informar al médico de
+inmediato. (ver apartado 4.6).
+ Este medicamento contiene menos de 1 mmol (39 mg) de potasio por vial; esto es, esencialmente
+""exento de potasio"".
+                                                    5
+4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Efecto de otras sustancias sobre la trabectedina
+ No se han realizado estudios de interacciones in vivo. La trabectedina se metaboliza principalmente a
+través del CYP3A4, por lo que la coadministración de sustancias que inhiben esta isoenzima, tales
+como ketoconazol, fluconazol, ritonavir o claritromicina, podría disminuir el metabolismo e
+incrementar las concentraciones de trabectedina. En el caso de que estas combinaciones fueran
+necesarias, se requeriría un control estrecho de las toxicidades (ver apartado 4.4). Asimismo, la
+coadministración con inductores potentes de esta enzima (p. ej., rifampicina, fenobarbital, hipérico o
+hierba de San Juan) puede disminuir la exposición sistémica a la trabectedina.
+ Durante el tratamiento con trabectedina debe evitarse el consumo de alcohol, debido a la
+hepatotoxicidad del medicamento (ver apartado 4.4).
+ Los datos preclínicos han demostrado que la trabectedina es un sustrato de la P-gp. La administración
+concomitante de inhibidores de la Pgp, por ejemplo ciclosporina y verapamilo, puede alterar la
+distribución de la trabectedina y/o su eliminación. Todavía no se ha establecido la relevancia de esta
+interacción, por ejemplo, en cuanto a la toxicidad para el SNC. En estas situaciones deberán tomarse
+medidas de precaución.
+ 4.6   Embarazo y lactancia
+ Embarazo
+ No se dispone de datos clínicos suficientes sobre exposición a este medicamento durante el embarazo.
+No obstante, dado su mecanismo de acción, la trabectedina puede producir defectos congénitos graves
+cuando se administra durante el embarazo. La trabectedina no debe utilizarse durante el embarazo
+salvo que fuera claramente necesario. Si se utiliza durante el embarazo, se informará al paciente del
+posible riesgo para el feto (ver apartado 5.3) y se monitorizará estrechamente. Si se administra
+trabectedina al final del embarazo, deberán monitorizarse cuidadosamente las posibles reacciones
+adversas en los neonatos.
+ Fertilidad
+ Tanto los varones como las mujeres en edad fértil deben utilizar medidas anticonceptivas eficaces
+durante el tratamiento con Yondelis. Además, las mujeres deben mantener las medidas anticonceptivas
+hasta 3 meses después de finalizar el tratamiento mientras que los varones deben prolongar estas
+medidas hasta 5 meses después del tratamiento (ver apartado 4.4). Asimismo, si se produce un
+embarazo, se debe informar al médico de inmediato. (ver apartado 5.3)
+ La trabectedina puede tener efectos genotóxicos. Puesto que existe la posibilidad de que el tratamiento
+con Yondelis produzca infertilidad irreversible, antes del tratamiento se debe proporcionar
+asesoramiento a los pacientes sobre la conservación de esperma. Si durante el tratamiento se produce
+un embarazo, deberá considerarse la posibilidad de proporcionar asesoramiento genético. El
+asesoramiento genético también está recomendado para aquellos pacientes que deseen tener hijos
+después del tratamiento.
+ Lactancia
+ Se desconoce si la trabectedina se excreta en la leche humana. No se ha estudiado la excreción de la
+trabectedina en la leche en animales. La lactancia está contraindicada durante el tratamiento y durante
+los 3 meses después de la finalización del mismo (ver apartado 4.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas. No
+obstante, se ha notificado la aparición de cansancio y astenia en pacientes en tratamiento con
+trabectedina. Los pacientes que experimenten cualquiera de estas reacciones durante el tratamiento no
+deben conducir ni utilizar máquinas.
+ 4.8   Reacciones adversas
+ Salvo que se indique lo contrario, el perfil de seguridad de Yondelis mostrado a continuación esta
+basado en la evaluación de los datos obtenidos de 569 pacientes incluidos en ensayos clínicos y
+tratados hasta abril de 2007 con la pauta posológica recomendada para el tratamiento de varios tipos
+de cáncer, incluidos sarcoma de los tejidos blandos, cáncer de mama, osteosarcoma, cáncer de ovario,
+GIST, melanoma y carcinoma renal.
+ Cabe esperar que aproximadamente el 91 % de los pacientes presente reacciones adversas de cualquier
+grado. Cabe esperar que aproximadamente el 40 % de los pacientes presente reacciones adversas de
+una intensidad de grado 3 ó 4. Las reacciones adversas más frecuentes de cualquier grado de
+intensidad fueron náuseas, fatiga, vómitos, anorexia, neutropenia e incrementos en los niveles de
+AST/ALT.
+ Se han producido reacciones adversas mortales en el 1,9 % de los pacientes. Con frecuencia, estas
+reacciones mortales fueron el resultado de una combinación de efectos adversos, entre los que se
+incluyen pancitopenia, neutropenia febril, en algunos casos con sepsis, afectación hepática,
+insuficiencia renal y rabdomiolisis.
+ Reacciones adversas
+ Las reacciones adversas que se indican a continuación se clasifican como muy frecuentes ( 1/10),
+frecuentes ( 1/100 a < 1/10) y poco frecuentes ( 1/1000 a < 1/100).
+ La siguiente tabla muestra las reacciones adversas comunicadas en  1 % de los pacientes de acuerdo
+con el sistema de clasificación de órganos MEdDRA. Para proporcionar frecuencias se han utilizado
+tanto las reacciones adversas como los valores de laboratorio. Los efectos adversos se presentan en
+orden decreciente de gravedad dentro de cada grupo de frecuencia.
+ Sistema de              Reacciones adversas notificadas en  1 % de los pacientes de los ensayos clínicos
+clasificación de
+órganos MedDra          (24 h c/3 semanas)]
+Exploraciones           Muy frecuentes
+complementarias         Incremento de la creatina fosfoquinasa en sangre, incremento de la creatinina en
+Trastornos de la        Muy frecuentes
+sangre y del sistema    Neutropenia, trombocitopenia, anemia, leucopenia
+linfático               Frecuentes
+Trastornos del          Muy frecuentes
+sistema nervioso        Dolor de cabeza
+Trastornos              Frecuentes
+respiratorios,          Disnea, tos
+torácicos y
+mediastínicos
+Trastornos              Muy frecuentes
+gastrointestinales      Vómitos, náuseas, estreñimiento
+Trastornos de la piel   Frecuentes
+y del tejido            Alopecia
+subcutáneo
+Trastornos              Frecuentes
+musculoesqueléticos     Mialgia, artralgia, dolor de espalda
+y del tejido
+conjuntivo
+Trastornos del        Muy frecuentes
+metabolismo y de la   Anorexia
+nutrición             Frecuentes
+Infecciones e         Frecuentes
+infestaciones         Infección
+Trastornos vasculares Frecuentes
+Trastornos generales Muy frecuentes
+y alteraciones en el  Cansancio, astenia
+lugar de              Frecuentes
+administración        Pirexia, edema, edema periférico, reacción en el lugar de inyección
+Trastornos            Muy frecuentes
+hepatobiliares        Hiperbilirrubinemia, incremento de alanina aminotransferasa, incremento de
+Trastornos            Frecuentes
+psiquiátricos         Insomnio
+ Reacciones adversas más frecuentes
+ Trastornos hematológicos y del sistema linfático
+ Neutropenia: En el 77 % de los pacientes se produjo neutropenia. En el 26 % y el 24 % de los
+pacientes se produjo neutropenia de grado 3 y grado 4, respectivamente. El análisis por ciclos mostró
+que la neutropenia de grados 3 y 4 se produjo en aproximadamente el 19 % y 8 % de los ciclos
+respectivamente. Se produjo neutropenia febril en el 2 % y en < 1 % de los ciclos.
+ La neutropenia siguió un patrón predecible de inicio rápido y reversibilidad, y rara vez se observó
+asociada con fiebre o infección.
+ Trombocitopenia: en el 11 % y el 2 % de los pacientes se produjo trombocitopenia de grado 3 y grado
+4, respectivamente. El análisis por ciclos mostró que la trombocitopenia de grados 3 y 4 se produjo en
+aproximadamente el 3 % y < 1 % de los ciclos, respectivamente. En < 1 % de los pacientes
+aparecieron reacciones hemorrágicas asociadas con trombocitopenia.
+ Anemia: en el 93 % de los pacientes se produjo anemia, aunque el 46 % de estos pacientes ya la
+presentaban en el momento basal. En el 10 % y el 3 % de los pacientes se produjo anemia de grados
+3 y 4, respectivamente. El análisis por ciclos mostró que la anemia de grados 3 y 4 se produjo en
+aproximadamente el 3 % y el 1 % de los ciclos, respectivamente.
+ Trastornos hepatobiliares
+ Incrementos de los niveles de AST/ALT: se notificaron incrementos transitorios de grado 3 de la
+aspartato aminotransferasa (AST) y de la alanina aminotransferasa (ALT) en el 38 % y el 44 % de los
+pacientes. Asimismo, se observaron elevaciones de grado 4 de dichas enzimas en el 3 % y el 7 %,
+respectivamente. El tiempo medio para alcanzar los valores máximos fue de 5 días tanto para la AST
+como para la ALT. En los días 14-15 de tratamiento, la mayoría de los casos habían disminuido hasta
+el grado 1 o se habían resuelto ver sección 4.4). Los incrementos de grado 3 de AST y ALT se
+produjeron en el 12 % y el 20 % de los ciclos, respectivamente. Las elevaciones de grado 4 de AST y
+ALT se produjeron en el 1 % y el 2 % de los ciclos, respectivamente. La mayoría de las elevaciones de
+las transaminasas mejoraron hasta el grado 1 o a los niveles pre-tratamiento en un plazo máximo de
+15 días, y en menos del 2 % de los ciclos se observaron tiempos de recuperación que superaron los
+25 días. Los incrementos de ALT y AST no siguieron un patrón acumulativo, sino que mostraron una
+tendencia hacia elevaciones menos acusadas en el tiempo.
+ Hiperbilirrubinemia: en el 23 % de los pacientes se observaron incrementos de la bilirrubina de grado
+1 a grado 2. En el 1 % de los pacientes se produjo hiperbilirrubinemia de grado 3. Los valores
+máximos de bilirrubina aparecen aproximadamente una semana después de iniciar el tratamiento y se
+resuelven en aproximadamente dos semanas después de su aparición.
+ Las manifestaciones clínicas de lesiones hepáticas graves fueron poco frecuentes, con una incidencia
+inferior al 1 % de los signos y síntomas individuales, entre los que se incluyen ictericia, hepatomegalia
+o dolor hepático. La mortalidad por lesión hepática se produjo en menos del 1 % de los pacientes.
+ Otras reacciones adversas
+ Náuseas, vómitos, diarrea y estreñimiento: se notificaron casos de náuseas y vómitos en el 63 % y el
+38,5 % de los pacientes, respectivamente. En el 6 % y el 6,5 % de los pacientes se notificaron náuseas
+y vómitos de grado 3-4, respectivamente. En menos del 1 % de los pacientes se notificó diarrea y
+estreñimiento de grado 3-4.
+ Estomatitis: en menos del 1 % de los pacientes se notificó mucositis de grado 3-4.
+ Cansancio/astenia: en el 9 % y el 1 % de los pacientes se produjo fatiga/astenia de grado 3-4.
+                                                     9
+Anorexia: en menos del 1 % de los pacientes se notificó anorexia de grado 3-4.
+ Elevaciones de CPK y rabdomiolisis: en el 26 % de los pacientes se observaron elevaciones de los
+niveles de CPK de cualquier grado. En el 4 % de los pacientes se observaron incrementos de los
+niveles de CPK de grado 3 ó 4. En menos del 1 % de los pacientes se notificaron incrementos de los
+niveles de CPK asociados con rabdomiolisis.
+ Disnea: en el 2 % de los pacientes se produjo disnea de grado 3-4 relacionada con el uso de
+trabectedina.
+ Alopecia: se notificó alopecia en alrededor del 3 % de todos los pacientes; en la mayor parte de ellos
+la alopecia fue de grado 1.
+ 4.9   Sobredosis
+ Se dispone de pocos datos sobre los efectos de una sobredosis de trabectedina. Las principales
+toxicidades previstas son de naturaleza gastrointestinal, supresión de médula ósea y hepática. En la
+actualidad, no se dispone de un antídoto específico para la trabectedina. En caso de sobredosis, se
+monitorizará estrechamente a los pacientes y se instaurarán medidas de apoyo sintomatológico cuando
+sea necesario.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antineoplásicos, código ATC: L01CX01.
+ Mecanismo de acción
+ La trabectedina se une al surco menor del ADN, haciendo que la hélice se doble hacia el surco mayor.
+Esta unión al ADN desencadena una cascada de acontecimientos que afectan a varios factores de
+transcripción, proteínas de unión al ADN y vías de reparación del ADN, lo que produce una
+perturbación del ciclo celular. Se ha demostrado que la trabectedina ejerce actividad antiproliferativa
+in vitro e in vivo contra un amplio rango de estirpes de células tumorales humanas y tumores
+experimentales, incluidas neoplasias malignas tales como sarcoma, cáncer de mama, cáncer pulmonar
+no microcítico, cáncer de ovario y melanoma.
+ Eficacia clínica
+ La eficacia y seguridad de la trabectedina se basa en un ensayo aleatorizado realizado en pacientes con
+liposarcoma o leiomiosarcoma metastásico o localmente avanzado, en los que la enfermedad ha
+progresado o recidivado después del tratamiento con al menos antraciclinas e ifosfamida. En este
+ensayo se administró a los pacientes una dosis de 1,5 mg/m2 de trabectedina mediante una perfusión
+intravenosa de 24 horas de duración cada 3 semanas o, alternativamente, se les administró una dosis
+semanal de 0,58 mg/m2 en forma de perfusión intravenosa de 3 horas de duración durante 3 semanas
+de un ciclo de 4 semanas. El análisis especificado en el protocolo para el tiempo hasta la progresión
+tumoral (TTP) mostró una reducción del 26,6 % del riesgo relativo de progresión para pacientes
+tratados en el grupo de perfusión durante 24 h c/ 3 semanas (HR = 0,734 IC 0,554 - 0,974). Las
+medianas del TTP fueron 3,7 meses (IC: 2,1-5,4 m) en el grupo que recibió la perfusión 24 h
+c/3 semanas, y de 2,3 meses (IC 2,0-3,5 m) en el grupo tratado con perfusión durante 3 h semanal
+(p = 0,0302). No se detectaron diferencias significativas en la supervivencia global (OS). La mediana
+de OS con el régimen de perfusión 24 h c/3 semanas fue de 13,9 meses (IC: 12,5-18,6) y el 60,2 % de
+los pacientes estaban vivos al año (IC: 52,0 %-68,5 %).
+                                                    10
+Se dispone de datos adicionales de eficacia procedentes de 3 ensayos de fase II no controlados (de
+brazo único) con poblaciones similares tratadas con la misma pauta. En estos ensayos se evaluaron un
+total de 100 pacientes con lipo y leiomiosarcoma y 83 pacientes con otros tipos de sarcoma.
+ Este medicamento se ha autorizado en ""Circunstancias excepcionales"". Esta modalidad de aprobación
+significa que debido a la rareza de la enfermedad no ha sido posible obtener información completa de
+este medicamento.
+ La Agencia Europea del Medicamento (EMEA) revisará anualmente la información nueva del
+medicamento que pueda estar disponible y esta Ficha Técnica o Resumen de las Características del
+Producto (RCP) se actualizará cuando sea necesario.
+ 5.2   Propiedades farmacocinéticas
+ La exposición sistémica tras una administración en forma de perfusión intravenosa a velocidad
+constante durante 24 horas es proporcional a la dosis administrada en un rango de dosis de hasta
+1,8 mg/m2, incluida. El perfil farmacocinético de la trabectedina es acorde con un modelo de
+distribución multicompartimental.
+ Tras la administración intravenosa, se ha demostrado que la trabectedina posee un volumen aparente
+de distribución elevado, acorde con una unión elevada a proteínas plasmáticas y tisulares (el 94 %-
+98 % de la trabectedina en plasma está unida a proteínas). El volumen de distribución en equilibrio de
+la trabectedina en humanos supera el valor de 5.000 l.
+ La isoenzima P450 3A4 del citocromo P450 responsable mayoritariamente del metabolismo oxidativo
+de la trabectedina a concentraciones clínicamente relevantes. Otras enzimas del P450 pueden
+contribuir al metabolismo. La trabectedina no induce ni inhibe las principales enzimas del citocromo
+P450.
+ La eliminación renal de la trabectedina inalterada en humanos es baja (menos del 1 %). La semivida
+terminal es larga (valor en la población de la fase de eliminación terminal: 180 h). Tras la
+administración de una dosis de trabectedina marcada radiactivamente a pacientes con cáncer, la media
+de la recuperación de la radioactividad total en heces (SD) esdel 58 % (17 %) y la media de la
+recuperación en orina (SD) es del 5,8 % (1,73 %). Basándose en la estimación poblacional del
+aclaramiento plasmático de la trabectedina (31,5 l/h) y la proporción sangre/plasma (0,89), el
+aclaramiento de trabectedina en sangre total es de aproximadamente 35 l/h. Este valor es alrededor de
+la mitad de la velocidad del flujo sanguíneo hepático humano. Por tanto, el índice de extracción de la
+trabectedina se puede considerar moderado. La variabilidad inter-individual de la estimación
+poblacional del aclaramiento plasmático de trabectedina fue del 51 %, y la variabilidad intra-
+individual fue del 28 %.
+ Poblaciones especiales
+ Un análisis de farmacocinética poblacional indicó que ni la edad (19-83 años) ni el sexo afectan al
+aclaramiento plasmático de la trabectedina. No se han estudiado los efectos de la raza ni la etnia sobre
+la farmacocinética de la trabectedina.
+ Insuficiencia renal
+ En los pacientes incluidos en los ensayos clínicos, no se observó que la función renal de los pacientes,
+medida mediante el aclaramiento de creatinina en un rango de valores ( 34,4 ml/min), tuviese una
+influencia relevante sobre la farmacocinética de la trabectedina. No se dispone de datos en pacientes
+con un aclaramiento de creatinina inferior a 34,4 ml/min. La baja recuperación (< 9 % en todos los
+pacientes estudiados) de la radiactividad total en orina después de una dosis única de trabectedina
+marcada con 14C indica que la insuficiencia renal afecta poco a la eliminación del fármaco o sus
+metabolitos.
+ Insuficiencia hepática
+ Aunque los análisis poblacionales no mostraron relación entre las concentraciones de enzimas
+hepáticas en suero y el aclaramiento plasmático de trabectedina, en pacientes con insuficiencia
+hepática puede aumentar la exposición sistémica a este fármaco, por lo que debe garantizarse una
+monitorización estrecha de la toxicidad.
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos preclínicos indican que la trabectedina posee un efecto limitado sobre los sistemas
+cardiovascular, respiratorio y nervioso central a exposiciones por debajo del intervalo clínico
+terapéutico en términos de AUC.
+ Los efectos de la trabectedina sobre la función cardiovascular y respiratoria se han investigado
+mediante estudios in vivo (en monos Cynomolgus anestesiados). Se seleccionó un régimen de infusión
+de 1 hora para alcanzar niveles máximos en plasma (valores de Cmáx) del orden de los observados en la
+práctica clínica. Los niveles plasmáticos de trabectedina alcanzados fueron 10,6 ± 5,4 (Cmáx),
+superiores a los obtenidos en los pacientes después de la infusión de 1.500 g/m2 durante 24 h (Cmáx de
+1,8 ± 1,1 ng/ml) y similares a los alcanzados después de la administración de la misma dosis mediante
+perfusión de 3 horas (Cmáx de 10,8 ± 3,7 ng/ml).
+ La mielosupresión y la hepatotoxicidad fueron los principales efectos tóxicos detectados con
+trabectedina. Los hallazgos observados incluyeron toxicidad hematopoyética (leucopenia grave,
+anemia y depleción linfoide y de médula ósea), así como incrementos en las pruebas de función
+pulmonar, degeneración hepatocelular, necrosis del epitelio intestinal y reacciones locales graves en el
+lugar de inyección. Se detectaron hallazgos toxicológicos renales en estudios de toxicidad en múltiples
+ciclos realizados con monos. Estas observaciones fueron secundarias a una reacción local grave en el
+lugar de administración y, por tanto, no se pueden atribuir con seguridad al uso de trabectedina; no
+obstante, hay que ser prudente a la hora de interpretar estas hallazgos renales, y no se puede excluir la
+toxicidad relacionada con el tratamiento.
+ La trabectedina es genotóxica tanto in vitro como in vivo. No se han realizado estudios de
+carcinogenicidad a largo plazo.
+ No se han realizado estudios de fertilidad con trabectedina, sin embargo, en los estudios de toxicidad a
+dosis repetidas se ha observado un número limitado de cambios histopatológicos en las gónadas. Dada
+la naturaleza del compuesto (citotóxico y mutagénico), es probable que afecte a la capacidad de
+reproducción.
+ "
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Sacarosa.
+ Dihidrogenofosfato de potasio.
+ Ácido fosfórico (para ajustar el pH).
+ Hidróxido de potasio (para ajustar el pH).
+ 6.2   Incompatibilidades
+ Yondelis no se debe mezclar ni diluir con otros fármacos, a excepción de los mencionados en la
+sección 6.6.
+ 6.3   Periodo de validez
+ Viales sin abrir: 36 meses.
+ Después de la reconstitución, se ha demostrado una estabilidad química y física de 30 horas hasta
+25 °C.
+ Desde el punto de vista microbiológico, la solución reconstituida deberá diluirse y usarse
+inmediatamente. Si no se diluye y utiliza inmediatamente, los tiempos y condiciones de conservación
+antes del uso del producto reconstituido son responsabilidad del usuario, y habitualmente no deberían
+ser superiores a 24 horas 2 °C - 8 °C , a menos que la reconstitución se haya realizado en condiciones
+de asepsia validadas y controladas.
+ Tras la dilución, se ha demostrado estabilidad química y física durante 30 horas hasta 25 °C.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (2 °C ­ 8 °C).
+ Para las condiciones de conservación del producto reconstituido y diluido, ver sección 6.3.
+ 6.5   Naturaleza y contenido del envase
+ Yondelis se suministra en un vial de vidrio incoloro de tipo I con un cierre de goma de bromobutilo
+sellado con una cápsula de aluminio de tipo flip-off.
+ Cada vial contiene 0,25 mg de trabectedina.
+ Cada envase contiene un vial.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ Preparación para perfusión intravenosa
+ Deben utilizarse las técnicas de asepsia adecuadas. Yondelis debe reconstituirse y diluirse antes de la
+perfusión. Cada vial con 0,25 mg de trabectedina se reconstituye con 5 ml de agua estéril para
+preparaciones inyectables. La solución obtenida posee una concentración de 0,05 mg/ml y está
+destinada aun solo uso.
+ Instrucciones para la reconstitución
+ Debe utilizarse una jeringa para inyectar 5 ml de agua estéril para preparaciones inyectables en el vial.
+Agitar el vial hasta que el fármaco se disuelva completamente. La solución reconstituida es
+transparente, incolora o ligeramente amarillenta in partículas visibles.
+ Esta solución reconstituida contiene 0,05 mg/ml de trabectedina. Requiere diluciones posteriores y
+esta indicada para un solo uso.
+ Instrucciones para la dilución
+ La solución reconstituida debe diluirse con una solución de cloruro sódico de 9 mg/ml (0,9 %) para
+perfusión o con una solución de glucosa de 50 mg/ml (5 %) para perfusión. El volumen necesario se
+calcula del siguiente modo:
+ Volumen (ml) = SC (m2) x dosis individual (mg/m2)
+ SC = superficie corporal
+ Se debe extraer del vial la cantidad de solución adecuada y añadirla a una bolsa de perfusión que
+contenga  500 ml de diluyente (solución de cloruro sódico de 9 mg/ml (0,9 %) para perfusión o
+solución de glucosa de 50 mg/ml (5 %) para perfusión) si la administración se va a realizar a través de
+una vía venosa central.
+ Si no se puede utilizar una vía venosa central y hay que recurrir a una vía venosa periférica, la
+solución reconstituida debe añadirse a una bolsa de perfusión que contenga  1.000 ml de diluyente
+(solución de cloruro sódico de 9 mg/ml (0,9 %) para perfusión o solución de glucosa de 50 mg/ml
+(5 %) para perfusión).
+ Antes de la administración se realizará una inspección visual de las soluciones parenterales para
+detectar la posible presencia de partículas. La solución para perfusión preparada deberá administrarse
+de inmediato.
+ Instrucciones de manipulación y eliminación
+ Yondelis es un medicamento antineoplásico citotóxico y, como otros compuestos potencialmente
+tóxicos, debe manipularse con precaución. Deben seguirse los procedimientos para una adecuada
+manipulación y eliminación de los medicamentos citotóxicos. El personal debe haber recibido
+formación en las técnicas correctas de reconstitución y dilución del medicamento y, durante la
+reconstitución y la dilución del fármaco, debe llevar ropa protectora, incluyendo mascarilla, gafas
+protectoras y guantes. Las mujeres de la plantilla que estén embarazadas no deben trabajar con este
+medicamento.
+ El contacto accidental con la piel, los ojos o las membranas mucosas debe tratarse inmediatamente con
+agua en abundancia.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con las normativas locales para medicamentos citotóxicos.
+ No se han observado incompatibilidades entre Yondelis y las bolsas y los tubos de policloruro de
+vinilo (PVC) y polietileno (PE) ni con los sistemas de acceso vascular implantables de titanio.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Pharma Mar, S.A.
+Avda. de los Reyes 1, Polígono Industrial La Mina
+28770 Colmenar Viejo (Madrid)
+España
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/07/417/001
+                                                   14
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 17 de septiembre de 2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Yondelis 1 mg polvo para concentrado para solución para perfusión.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada vial contiene 1 mg de trabectedina.
+ 1 ml de solución reconstituida contiene 0,05 mg de trabectedina.
+ Excipientes:
+ Cada vial contiene 8 mg de potasio y 0,4 g de sacarosa.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo para concentrado para solución para perfusión.
+ Polvo blanco o blanquecino.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Yondelis está indicado para el tratamiento de pacientes con sarcoma de tejidos blandos en estadio
+avanzado en los que haya fracasado el tratamiento con antraciclinas e ifosfamida, o bien que no sean
+candidatos a recibir dichos productos. La eficacia se basa fundamentalmente en datos de pacientes con
+liposarcoma o leiomiosarcoma.
+ 4.2   Posología y forma de administración
+ Yondelis debe administrarse bajo la supervisión de un médico con experiencia en el uso de
+quimioterapia. Su uso debe limitarse a oncólogos cualificados y a otros profesionales sanitarios
+especializados en la administración de agentes citotóxicos.
+ La dosis recomendada es de 1,5 mg/m2 de superficie corporal, administrados mediante perfusión
+intravenosa durante un periodo de 24 horas, con un intervalo de tres semanas entre ciclos. Es muy
+recomendable la administración de este fármaco a través de una vía venosa central (ver apartado 6.6).
+ 30 minutos antes de recibir Yondelis, se les debe administrar a todos los pacientes 20 mg de
+dexametasona por vía intravenosa , no sólo como profilaxis antiemética, sino también porque parece
+que produce efectos hepatoprotectores. Si fuera necesario, se pueden administrar además otros
+antieméticos.
+ Para permitir el tratamiento con Yondelis, es necesario que se cumplan los siguientes criterios:
+       Recuento absoluto de neutrófilos (RAN)  1.500/mm3
+-
+Recuento de plaquetas  100.000/mm3
+-
+Bilirrubina  límite superior de la normalidad (LSN)
+-
+Fosfatasa alcalina  2,5 LSN (si la elevación pudiera ser de origen óseo, se deben considerar las
+-
+isoenzimas hepáticas 5-nucleotidasa o GGT).
+                                                  16
+Albúmina  25 g/l.
+-
+Alanina aminotransferasa (ALT) y aspartato aminotransferasa (AST)  2,5 x LSN
+-
+Aclaramiento de creatinina  30 ml/min
+-
+Creatina fosfoquinasa (CPK)  2,5 LSN
+-
+Hemoglobina  9 g/dl
+-
+ Antes de repetir el tratamiento, deben cumplirse estos mismos criterios. En caso contrario, el
+tratamiento debe retrasarse durante un periodo máximo de 3 semanas hasta que se cumplan los
+criterios.
+ Deben realizarse controles adicionales de los parámetros hematológicos bilirrubina, fosfatasa alcalina,
+aminotransferasa y CPK cada semana durante los dos primeros ciclos de tratamiento, y en los ciclos
+posteriores, deberán controlarse al menos una vez entre tratamientos.
+En todos los ciclos se administrará la misma dosis, siempre que no se observe toxicidad de grado 3-4 y
+que el paciente cumpla los criterios de repetición del tratamiento.
+ Ajuste de la dosis durante el tratamiento
+ Antes de repetir el tratamiento, los pacientes deben cumplir los criterios basales definidos
+anteriormente. En caso de que se produzca alguno de los siguientes acontecimientos en cualquier
+momento entre los ciclos, la dosis deberá reducirse a 1,2 mg/m2 para los ciclos siguientes.
+       Neutropenia < 500/mm3 de duración superior a 5 días o asociada con fiebre o infección
+-
+Trombocitopenia < 25.000/mm3
+-
+-     Incremento de los valores de bilirrubina > LSN y/o fosfatasa alcalina > 2,5 x LSN
+-     Incremento de los niveles de aminotransferasas (AST o ALT) > 2,5 x LSN que no se haya
+recuperado en el día 21
+-     Cualquier otro efecto adverso de grado 3 ó 4 (como náuseas, vómitos, cansancio)
+ Cuando una dosis se haya reducido por toxicidad, no se recomienda realizar un escalado de dosis en
+los ciclos siguientes. Si alguna de estas toxicidades reaparece en los ciclos posteriores en un paciente
+que muestre un beneficio clínico, la dosis podría reducirse hasta 1 mg/m2. En caso de que fuera
+necesario seguir reduciendo la dosis, debe considerarse la suspensión del tratamiento.
+ Duración del tratamiento
+ En los ensayos clínicos no hubo límites predefinidos en cuanto al número de ciclos administrados. El
+tratamiento continuó mientras persistió el beneficio clínico. La trabectedina se ha administrado durante
+6 o más ciclos a 168 de 569 (29,5 %) pacientes tratados con la dosis y la pauta propuestas. Este
+régimen se ha utilizado hasta 38 ciclos. No se han observado toxicidades acumuladas en pacientes a
+los que se les administraron múltiples ciclos.
+ Poblaciones de pacientes especiales
+ Pacientes pediátricos
+ La seguridad y eficacia de la utilización de trabectedina en pacientes pediátricos no se ha establecido
+todavía. Por tanto, este medicamento no debe utilizarse en niños ni adolescentes mientras no se
+disponga de más datos.
+ Pacientes ancianos
+ No se han realizado ensayos específicos en pacientes ancianos. En general, el 20 % de los
+1.164 pacientes del análisis de seguridad integrado tenían más de 65 años de edad. En esta población
+de pacientes, no se observaron diferencias relevantes en el perfil de seguridad. No parece que ni el
+aclaramiento plasmático ni el volumen de distribución de la trabectedina se vean afectados por la edad.
+Por tanto, no se recomienda ajustar la dosis en función únicamente de criterios de edad de forma
+rutinaria.
+ Pacientes con insuficiencia hepática
+ No se han realizado ensayos con el régimen propuesto en pacientes con disfunción hepática. Por tanto,
+no se dispone de datos para recomendar una dosis de inicio menor en pacientes con insuficiencia
+hepática. No obstante, se aconseja adoptar precauciones especiales, y puede que sea necesario ajustar
+las dosis en estos pacientes, ya que es probable que se incremente la exposición sistémica, lo que
+podría aumentar el riesgo de hepatotoxicidad. Los pacientes con niveles elevados de bilirrubina no
+deben ser tratados con Yondelis (ver apartado 4.4).
+ Pacientes con insuficiencia renal
+ No se han realizado ensayos en pacientes con insuficiencia renal grave (aclaramiento de creatinina
+< 30 ml/min) y, por tanto, Yondelis no debe utilizarse en esta población de pacientes (ver apartado 4.4).
+Considerando las características farmacocinéticas de la trabectedina (ver apartado 5.2), no se
+recomienda realizar ajustes de dosis en pacientes con insuficiencia renal leve o moderada.
+ Ver las instrucciones para la reconstitución y dilución del medicamento antes de su administración en
+la sección 6.6.
+ 4.3   Contraindicaciones
+ -     Hipersensibilidad a la trabectedina o a alguno de los excipientes.
+-     Infección concurrente grave o no controlada
+-     Lactancia (ver apartado 4.6)
+-     Tratamiento combinado con la vacuna de la fiebre amarilla (ver apartado 4.4)
+ 4.4   Advertencias y precauciones especiales de empleo
+ Insuficiencia hepática
+ Los pacientes deben cumplir unos criterios específicos respecto a los parámetros de la función
+hepática para poder iniciar el tratamiento con Yondelis. Es probable que, debido a la insuficiencia
+hepática, aumente la exposición sistémica a la trabectedina y se incremente consecuentemente el
+riesgo de hepatotoxicidad. Por esta razón, los pacientes con hepatopatías clínicamente relevantes,
+como hepatitis crónica activa, deben someterse a una monitorización estrecha para, en caso necesario,
+realizar un ajuste de la dosis. Los pacientes con niveles elevados de bilirrubina no deben ser tratados
+con trabectedina (ver apartado 4.2).
+ Insuficiencia renal
+ El aclaramiento de creatinina debe monitorizarse antes y durante el tratamiento. No se debe utilizar
+trabectedina en pacientes con un aclaramiento de creatinina < 30 ml/min (ver apartado 4.2).
+ Neutropenia y trombocitopenia
+ Se han notificado con frecuencia casos de neutropenia y trombocitopenia de grado 3 ó 4 asociados al
+tratamiento con trabectedina. Se deben realizar hemogramas completos, que incluyan fórmula
+leucocitaria y recuento de plaquetas antes de iniciar el tratamiento (momento basal) cada semana
+durante los dos primeros ciclos de tratamiento y, posteriormente, al menos una vez entre ciclos (ver apartado 4.2). Los pacientes que presenten fiebre deben consultar al médico de inmediato. En este caso,
+se iniciará inmediatamente un tratamiento de soporte activo.
+ Náuseas y vómitos
+ Todos los pacientes deberán recibir tratamiento profiláctico antiemético con dexametasona (ver apartado 4.2).
+ Rabdomiolisis y elevaciones graves de la CPK (> 10 x LSN)
+ No se debe utilizar trabectedina en pacientes con CPK > 2,5 LSN (ver apartado 4.2). Raramente se han
+notificado casos de rabdomiolisis que generalmente se asociaron con mielotoxicidad, anomalías graves
+de la prueba de función hepática y/o insuficiencia renal. Por tanto, cuando un paciente pueda
+experimentar alguna de estas toxicidades se deben monitorizar estrechamente los niveles de CPK. .
+Como se ha indicado anteriormente, si se presentara rabdomiolisis, se deben establecer de inmediato
+medidas de apoyo como hidratación parenteral, alcalinización de la orina y diálisis. Asimismo, debe
+interrumpirse el tratamiento con Yondelis hasta que el paciente se recupere por completo.
+ Se deben tomar medidas de precaución si se administran de forma concomitante trabectedina junto con
+con otros medicamentos asociados con rabdomiolisis (p. ej., estatinas), ya que puede incrementar el riesgo
+de rabdomiolisis.
+ Anomalías en las pruebas de la función hepática (PFH)
+ En la mayoría de los pacientes se han notificado incrementos agudos reversibles de los niveles de
+aspartato aminotransferasa (AST) y alanina aminotransferasa (ALT). Yondelis no debe utilizarse en
+pacientes con niveles elevados de bilirrubina. Los pacientes con incrementos de los niveles de AST,
+ALT y fosfatasa alcalina entre ciclos pueden necesitar una reducción de la dosis (ver apartado 4.2).
+ Reacciones en el punto de inyección
+ Es muy recomendable que la administración se realice a través de una vía venosa central (ver apartado
+4.2). Cuando se administra la trabectedina a través de una vía venosa periférica, los pacientes pueden
+presentar una reacción potencialmente grave en el lugar de inyección.
+ Otros
+ Debe evitarse la administración concomitante de Yondelis con inhibidores potentes de la enzima
+CYP3A4 (ver apartado 4.5). Si esto no es posible, se requiere una monitorización estrecha de las
+toxicidades, y deberá considerarse la posibilidad de reducir de la dosis de trabectedina.
+ Se deben tomar medidas de precaución si se administran medicamentos asociados con hepatotoxicidad
+de forma concomitante con trabectedina, ya que se puede incrementar el riesgo de hepatotoxicidad.
+ El uso concomitante de trabectedina y fenitoína puede reducir la absorción de esta última y producir
+una exacerbación de las convulsiones. No se recomienda la combinación de trabectedina ni con
+fenitoína ni con vacunas que contengan microorganismos vivos atenuados. Está específicamente
+contraindicada la administración de trabectedina junto con la vacuna de la fiebre amarilla (ver
+secciones 4.3 y 4.5).
+ Debe evitarse el uso concomitante de trabectedina con alcohol (ver apartado 4.5).
+ Los varones y las mujeres en edad fértil deben utilizar medidas anticonceptivas eficaces durante el
+tratamiento. Además, las mujeres deben mantener las medidas anticonceptivas hasta 3 meses después
+de finalizar el tratamiento mientras que los varones deben prolongar estas medidas hasta 5 meses
+ después del tratamiento. Asimismo, si se produce un embarazo, se debe informar al médico de
+inmediato. (ver apartado 4.6).
+ Este medicamento contiene menos de 1 mmol (39 mg) de potasio por vial; esto es, esencialmente
+""exento de potasio"".
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Efecto de otras sustancias sobre la trabectedina
+ No se han realizado estudios de interacciones in vivo. La trabectedina se metaboliza principalmente a
+través del CYP3A4, por lo que la coadministración de sustancias que inhiben esta isoenzima, tales
+como ketoconazol, fluconazol, ritonavir o claritromicina, podría disminuir el metabolismo e
+incrementar las concentraciones de trabectedina. En el caso de que estas combinaciones fueran
+necesarias, se requeriría un control estrecho de las toxicidades (ver apartado 4.4). Asimismo, la
+coadministración con inductores potentes de esta enzima (p. ej., rifampicina, fenobarbital, hipérico o
+hierba de San Juan) puede disminuir la exposición sistémica a la trabectedina.
+ Durante el tratamiento con trabectedina debe evitarse el consumo de alcohol, debido a la
+hepatotoxicidad del medicamento (ver apartado 4.4).
+ Los datos preclínicos han demostrado que la trabectedina es un sustrato de la P-gp. La administración
+concomitante de inhibidores de la Pgp, por ejemplo ciclosporina y verapamilo, puede alterar la
+distribución de la trabectedina y/o su eliminación. Todavía no se ha establecido la relevancia de esta
+interacción, por ejemplo, en cuanto a la toxicidad para el SNC. En estas situaciones deberán tomarse
+medidas de precaución.
+ 4.6   Embarazo y lactancia
+ Embarazo
+ No se dispone de datos clínicos suficientes sobre exposición a este medicamento durante el embarazo.
+No obstante, dado su mecanismo de acción, la trabectedina puede producir defectos congénitos graves
+cuando se administra durante el embarazo. La trabectedina no debe utilizarse durante el embarazo
+salvo que fuera claramente necesario. Si se utiliza durante el embarazo, se informará al paciente del
+posible riesgo para el feto (ver apartado 5.3) y se monitorizará estrechamente. Si se administra
+trabectedina al final del embarazo, deberán monitorizarse cuidadosamente las posibles reacciones
+adversas en los neonatos.
+ Fertilidad
+ Tanto los varones como las mujeres en edad fértil deben utilizar medidas anticonceptivas eficaces
+durante el tratamiento con Yondelis. Además, las mujeres deben mantener las medidas anticonceptivas
+hasta 3 meses después de finalizar el tratamiento mientras que los varones deben prolongar estas
+medidas hasta 5 meses después del tratamiento (ver apartado 4.4). Asimismo, si se produce un
+embarazo, se debe informar al médico de inmediato. (ver apartado 5.3)
+ La trabectedina puede tener efectos genotóxicos. Puesto que existe la posibilidad de que el tratamiento
+con Yondelis produzca infertilidad irreversible, antes del tratamiento se debe proporcionar
+asesoramiento a los pacientes sobre la conservación de esperma. Si durante el tratamiento se produce
+un embarazo, deberá considerarse la posibilidad de proporcionar asesoramiento genético. El
+asesoramiento genético también está recomendado para aquellos pacientes que deseen tener hijos
+después del tratamiento.
+ Lactancia
+ Se desconoce si la trabectedina se excreta en la leche humana. No se ha estudiado la excreción de la
+trabectedina en la leche en animales. La lactancia está contraindicada durante el tratamiento y durante
+los 3 meses después de la finalización del mismo (ver apartado 4.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas. No
+obstante, se ha notificado la aparición de cansancio y astenia en pacientes en tratamiento con
+trabectedina. Los pacientes que experimenten cualquiera de estas reacciones durante el tratamiento no
+deben conducir ni utilizar máquinas.
+ 4.8   Reacciones adversas
+ Salvo que se indique lo contrario, el perfil de seguridad de Yondelis mostrado a continuación esta
+basado en la evaluación de los datos obtenidos de 569 pacientes incluidos en ensayos clínicos y
+tratados hasta abril de 2007 con la pauta posológica recomendada para el tratamiento de varios tipos
+de cáncer, incluidos sarcoma de los tejidos blandos, cáncer de mama, osteosarcoma, cáncer de ovario,
+GIST, melanoma y carcinoma renal.
+ Cabe esperar que aproximadamente el 91 % de los pacientes presente reacciones adversas de cualquier
+grado. Cabe esperar que aproximadamente el 40 % de los pacientes presente reacciones adversas de
+una intensidad de grado 3 ó 4. Las reacciones adversas más frecuentes de cualquier grado de
+intensidad fueron náuseas, fatiga, vómitos, anorexia, neutropenia e incrementos en los niveles de
+AST/ALT.
+ Se han producido reacciones adversas mortales en el 1,9 % de los pacientes. Con frecuencia, estas
+reacciones mortales fueron el resultado de una combinación de efectos adversos, entre los que se
+incluyen pancitopenia, neutropenia febril, en algunos casos con sepsis, afectación hepática,
+insuficiencia renal y rabdomiolisis.
+ Reacciones adversas
+ Las reacciones adversas que se indican a continuación se clasifican como muy frecuentes ( 1/10),
+frecuentes ( 1/100 a < 1/10) y poco frecuentes ( 1/1000 a < 1/100).
+ La siguiente tabla muestra las reacciones adversas comunicadas en  1 % de los pacientes de acuerdo
+con el sistema de clasificación de órganos MEdDRA. Para proporcionar frecuencias se han utilizado
+tanto las reacciones adversas como los valores de laboratorio. Los efectos adversos se presentan en
+orden decreciente de gravedad dentro de cada grupo de frecuencia.
+ Sistema de              Reacciones adversas notificadas en  1 % de los pacientes de los ensayos clínicos
+clasificación de
+órganos MedDra          (24 h c/3 semanas)]
+Exploraciones           Muy frecuentes
+complementarias         Incremento de la creatina fosfoquinasa en sangre, incremento de la creatinina en
+Trastornos de la        Muy frecuentes
+sangre y del sistema    Neutropenia, trombocitopenia, anemia, leucopenia
+linfático               Frecuentes
+Trastornos del          Muy frecuentes
+sistema nervioso        Dolor de cabeza
+Trastornos              Frecuentes
+respiratorios,          Disnea, tos
+torácicos y
+mediastínicos
+Trastornos              Muy frecuentes
+gastrointestinales      Vómitos, náuseas, estreñimiento
+Trastornos de la piel   Frecuentes
+y del tejido            Alopecia
+subcutáneo
+Trastornos              Frecuentes
+musculoesqueléticos     Mialgia, artralgia, dolor de espalda
+y del tejido
+conjuntivo
+Trastornos del        Muy frecuentes
+metabolismo y de la   Anorexia
+nutrición             Frecuentes
+Infecciones e         Frecuentes
+infestaciones         Infección
+Trastornos vasculares Frecuentes
+Trastornos generales Muy frecuentes
+y alteraciones en el  Cansancio, astenia
+lugar de              Frecuentes
+administración        Pirexia, edema, edema periférico, reacción en el lugar de inyección
+Trastornos            Muy frecuentes
+hepatobiliares        Hiperbilirrubinemia, incremento de alanina aminotransferasa, incremento de
+Trastornos            Frecuentes
+psiquiátricos         Insomnio
+ Reacciones adversas más frecuentes
+ Trastornos hematológicos y del sistema linfático
+ Neutropenia: En el 77 % de los pacientes se produjo neutropenia. En el 26 % y el 24 % de los
+pacientes se produjo neutropenia de grado 3 y grado 4, respectivamente. El análisis por ciclos mostró
+que la neutropenia de grados 3 y 4 se produjo en aproximadamente el 19 % y 8 % de los ciclos
+respectivamente. Se produjo neutropenia febril en el 2 % y en < 1 % de los ciclos.
+ La neutropenia siguió un patrón predecible de inicio rápido y reversibilidad, y rara vez se observó
+asociada con fiebre o infección.
+ Trombocitopenia: en el 11 % y el 2 % de los pacientes se produjo trombocitopenia de grado 3 y grado
+4, respectivamente. El análisis por ciclos mostró que la trombocitopenia de grados 3 y 4 se produjo en
+aproximadamente el 3 % y < 1 % de los ciclos, respectivamente. En < 1 % de los pacientes
+aparecieron reacciones hemorrágicas asociadas con trombocitopenia.
+ Anemia: en el 93 % de los pacientes se produjo anemia, aunque el 46 % de estos pacientes ya la
+presentaban en el momento basal. En el 10 % y el 3 % de los pacientes se produjo anemia de grados
+3 y 4, respectivamente. El análisis por ciclos mostró que la anemia de grados 3 y 4 se produjo en
+aproximadamente el 3 % y el 1 % de los ciclos, respectivamente.
+ Trastornos hepatobiliares
+ Incrementos de los niveles de AST/ALT: se notificaron incrementos transitorios de grado 3 de la
+aspartato aminotransferasa (AST) y de la alanina aminotransferasa (ALT) en el 38 % y el 44 % de los
+pacientes. Asimismo, se observaron elevaciones de grado 4 de dichas enzimas en el 3 % y el 7 %,
+respectivamente. El tiempo medio para alcanzar los valores máximos fue de 5 días tanto para la AST
+como para la ALT. En los días 14-15 de tratamiento, la mayoría de los casos habían disminuido hasta
+el grado 1 o se habían resuelto ver sección 4.4). Los incrementos de grado 3 de AST y ALT se
+produjeron en el 12 % y el 20 % de los ciclos, respectivamente. Las elevaciones de grado 4 de AST y
+ALT se produjeron en el 1 % y el 2 % de los ciclos, respectivamente. La mayoría de las elevaciones de
+las transaminasas mejoraron hasta el grado 1 o a los niveles pre-tratamiento en un plazo máximo de
+15 días, y en menos del 2 % de los ciclos se observaron tiempos de recuperación que superaron los
+25 días. Los incrementos de ALT y AST no siguieron un patrón acumulativo, sino que mostraron una
+tendencia hacia elevaciones menos acusadas en el tiempo.
+ Hiperbilirrubinemia: en el 23 % de los pacientes se observaron incrementos de la bilirrubina de grado
+1 a grado 2. En el 1 % de los pacientes se produjo hiperbilirrubinemia de grado 3. Los valores
+máximos de bilirrubina aparecen aproximadamente una semana después de iniciar el tratamiento y se
+resuelven en aproximadamente dos semanas después de su aparición.
+ Las manifestaciones clínicas de lesiones hepáticas graves fueron poco frecuentes, con una incidencia
+inferior al 1 % de los signos y síntomas individuales, entre los que se incluyen ictericia, hepatomegalia
+o dolor hepático. La mortalidad por lesión hepática se produjo en menos del 1 % de los pacientes.
+ Otras reacciones adversas
+ Náuseas, vómitos, diarrea y estreñimiento: se notificaron casos de náuseas y vómitos en el 63 % y el
+38,5 % de los pacientes, respectivamente. En el 6 % y el 6,5 % de los pacientes se notificaron náuseas
+y vómitos de grado 3-4, respectivamente. En menos del 1 % de los pacientes se notificó diarrea y
+estreñimiento de grado 3-4.
+ Estomatitis: en menos del 1 % de los pacientes se notificó mucositis de grado 3-4.
+ Cansancio/astenia: en el 9 % y el 1 % de los pacientes se produjo fatiga/astenia de grado 3-4.
+                                                    23
+Anorexia: en menos del 1 % de los pacientes se notificó anorexia de grado 3-4.
+ Elevaciones de CPK y rabdomiolisis: en el 26 % de los pacientes se observaron elevaciones de los
+niveles de CPK de cualquier grado. En el 4 % de los pacientes se observaron incrementos de los
+niveles de CPK de grado 3 ó 4. En menos del 1 % de los pacientes se notificaron incrementos de los
+niveles de CPK asociados con rabdomiolisis.
+ Disnea: en el 2 % de los pacientes se produjo disnea de grado 3-4 relacionada con el uso de
+trabectedina.
+ Alopecia: se notificó alopecia en alrededor del 3 % de todos los pacientes; en la mayor parte de ellos
+la alopecia fue de grado 1.
+ 4.9   Sobredosis
+ Se dispone de pocos datos sobre los efectos de una sobredosis de trabectedina. Las principales
+toxicidades previstas son de naturaleza gastrointestinal, supresión de médula ósea y hepática. En la
+actualidad, no se dispone de un antídoto específico para la trabectedina. En caso de sobredosis, se
+monitorizará estrechamente a los pacientes y se instaurarán medidas de apoyo sintomatológico cuando
+sea necesario.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antineoplásicos, código ATC: L01CX01.
+ Mecanismo de acción
+ La trabectedina se une al surco menor del ADN, haciendo que la hélice se doble hacia el surco mayor.
+Esta unión al ADN desencadena una cascada de acontecimientos que afectan a varios factores de
+transcripción, proteínas de unión al ADN y vías de reparación del ADN, lo que produce una
+perturbación del ciclo celular. Se ha demostrado que la trabectedina ejerce actividad antiproliferativa
+in vitro e in vivo contra un amplio rango de estirpes de células tumorales humanas y tumores
+experimentales, incluidas neoplasias malignas tales como sarcoma, cáncer de mama, cáncer pulmonar
+no microcítico, cáncer de ovario y melanoma.
+ Eficacia clínica
+ La eficacia y seguridad de la trabectedina se basa en un ensayo aleatorizado realizado en pacientes con
+liposarcoma o leiomiosarcoma metastásico o localmente avanzado, en los que la enfermedad ha
+progresado o recidivado después del tratamiento con al menos antraciclinas e ifosfamida. En este
+ensayo se administró a los pacientes una dosis de 1,5 mg/m2 de trabectedina mediante una perfusión
+intravenosa de 24 horas de duración cada 3 semanas o, alternativamente, se les administró una dosis
+semanal de 0,58 mg/m2 en forma de perfusión intravenosa de 3 horas de duración durante 3 semanas
+de un ciclo de 4 semanas. El análisis especificado en el protocolo para el tiempo hasta la progresión
+tumoral (TTP) mostró una reducción del 26,6 % del riesgo relativo de progresión para pacientes
+tratados en el grupo de perfusión durante 24 h c/ 3 semanas (HR = 0,734 IC 0,554 - 0,974). Las
+medianas del TTP fueron 3,7 meses (IC: 2,1-5,4 m) en el grupo que recibió la perfusión 24 h
+c/3 semanas, y de 2,3 meses (IC 2,0-3,5 m) en el grupo tratado con perfusión durante 3 h semanal
+(p = 0,0302). No se detectaron diferencias significativas en la supervivencia global (OS). La mediana
+de OS con el régimen de perfusión 24 h c/3 semanas fue de 13,9 meses (IC: 12,5-18,6) y el 60,2 % de
+los pacientes estaban vivos al año (IC: 52,0 %-68,5 %).
+ Se dispone de datos adicionales de eficacia procedentes de 3 ensayos de fase II no controlados (de
+brazo único) con poblaciones similares tratadas con la misma pauta. En estos ensayos se evaluaron un
+total de 100 pacientes con lipo y leiomiosarcoma y 83 pacientes con otros tipos de sarcoma.
+ Este medicamento se ha autorizado en ""Circunstancias excepcionales"". Esta modalidad de aprobación
+significa que debido a la rareza de la enfermedad no ha sido posible obtener información completa de
+este medicamento.
+ La Agencia Europea del Medicamento (EMEA) revisará anualmente la información nueva del
+medicamento que pueda estar disponible y esta Ficha Técnica o Resumen de las Características del
+Producto (RCP) se actualizará cuando sea necesario.
+ 5.2   Propiedades farmacocinéticas
+ La exposición sistémica tras una administración en forma de perfusión intravenosa a velocidad
+constante durante 24 horas es proporcional a la dosis administrada en un rango de dosis de hasta
+1,8 mg/m2, incluida. El perfil farmacocinético de la trabectedina es acorde con un modelo de
+distribución multicompartimental.
+ Tras la administración intravenosa, se ha demostrado que la trabectedina posee un volumen aparente
+de distribución elevado, acorde 
+ "
+	Prospectos de medicamentos.

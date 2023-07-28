@@ -1,0 +1,428 @@
+UFT capsulas, 140 capsulas
+	Información Basica del medicamento Toda la información del medicamento 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	      Para excipientes, ver 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	
+4.    DATOS CLÍNICOS
+	4.2   Posología y forma de administración
+Adultos: La dosis de UFT es de 300 mg/m2/día de tegafur y 672 mg/m2/día de uracilo
+combinada con 90 mg/día de folinato cálcico oral, y se administra dividida en tres dosis
+(preferiblemente cada 8 horas). El folinato cálcico debe tomarse al mismo tiempo que UFT.
+Las dosis deben tomarse al menos una hora antes o una hora después de las comidas
+durante 28 días consecutivos. Los ciclos siguientes deben iniciarse después de 7 días sin
+tomar UFT/folinato cálcico (es decir, cada ciclo de tratamiento comprende 35 días). A
+continuación se presenta la dosis diaria por área de superficie corporal (ASC).
+          ASC (m2)                   UFT                                       Régimen diario
+< 1,17                        3                            1            1              1
+1,17-1,49                       4                            2            1              1
+1,50-1,83                       5                            2            2              1
+> 1,83                        6                            2            2              2
+ Modificación de la dosis: Para controlar la toxicidad, se proporcionan las siguientes
+directrices de reducción e interrupción de dosis:
+Toxicidad no
+hematológica (incluida                2          Suspender el tratamiento hasta la resolución de
+diarrea)                                         la toxicidad a  grado 1. Sin cambios en la
+Toxicidad hematológica
+(basada en el recuento               2-4         Suspender      el     tratamiento    hasta   que
+de granulocitos o                                granulocitos  1500/mm y plaquetas
+plaquetas)                                       100.000/mm3.
+Toxicidad
+hematológica:                        3-4         Reducir la dosis siguiente en 1 cápsula/día.
+Retratamiento
+*La dosis de folinato cálcico se mantiene sin cambios, incluso si se necesitan < 3 cápsulas de
+UFT al día. Cuando se interrumpe el tratamiento con UFT, también debe interrumpirse el
+folinato cálcico. Si se interrumpe el tratamiento con UFT, no deben tomarse después las dosis
+no administradas durante los 28 días consecutivos de tratamiento.
+ Adolescentes, niños y lactantes: La seguridad y eficacia de la combinación de UFT y
+folinato cálcico no se ha establecido y no debe utilizarse en estos pacientes (ver 4.3.).
+ Ancianos: La población anciana ha sido bien estudiada ya que un 45% de los pacientes
+estudiados fueron al menos de 65 años y un 26% de al menos 75 años. Sin embargo, debe
+monitorizarse a los pacientes ancianos respecto del deterioro relacionado con la edad en las
+funciones renal, hepática o cardíaca o en presencia de medicamentos o enfermedades
+concomitantes (ver 4.4. y 4.8).
+ Insuficiencia renal: No se ha valorado el efecto de la insuficiencia renal sobre la
+eliminación de UFT. Aunque la ruta principal de eliminación de UFT no es la vía renal,
+deben manejarse con precaución los pacientes con insuficiencia renal. Estos pacientes
+deben ser cuidadosamente monitorizados ante la aparición de toxicidades (ver 4.4.).
+ Insuficiencia hepática: No se ha valorado el efecto de la insuficiencia hepática sobre la
+eliminación de UFT. (ver 4.3. y 4.4.)
+                                                                                                MINISTERIO
+4.3   Contraindicaciones
+UFT está contraindicado en pacientes que:
+- presentan hipersensibilidad conocida a 5-FU, tegafur, uracilo o a alguno de los
+excipientes.
+- están embarazadas o piensan estarlo
+- en periodo de lactancia
+- son adolescentes o niños
+- tienen insuficiencia hepática severa
+- presenten datos evidentes de supresión de la médula ósea por radioterapia previa o
+fármacos antineoplásicos
+- tienen una deficiencia conocida de CYP2A6 hepático
+ 4.4   Advertencias y precauciones especiales de empleo
+       Cumplimiento de los pacientes con el tratamiento oral: El médico debería instruir al
+paciente sobre la importancia del cumplimiento completo de la posología y método de
+administración de este medicamento. Deberían proporcionarse directrices específicas sobre
+la importancia del seguimiento de las recomendaciones médicas para reducciones de la
+dosis o interrupciones del tratamiento en los casos de aparición de toxicidad (ver 4.2. y
+4.8.). Las características individuales de los pacientes que pudieran afectar negativamente
+sobre este cumplimiento deberían considerarse en la selección del tratamiento para esta
+enfermedad.
+       Los pacientes que reciben la combinación de UFT/folinato cálcico deben ser monitorizados
+por un médico que tenga experiencia en el uso de agentes citotóxicos y que tenga las
+instalaciones adecuadas para una monitorización regular de los efectos clínicos,
+bioquímicos y hematológicos durante y después de la administración de la quimioterapia.
+Cualquier toxicidad que aparezca debe ser tratada como se describe en las modificaciones
+de la dosis (ver 4.2.).
+       UFT debe utilizarse con extremo cuidado en aquellos pocos pacientes que se sabe o
+sospecha que tienen una deficiencia en la dihidropirimidina dehidrogenasa, ya que estos
+pacientes tienen un riesgo alto de desarrollar toxicidad (ver 4.5.)
+       La combinación de UFT/folinato cálcico debe utilizarse con precaución en pacientes con
+insuficiencia renal o hepática, signos y síntomas de obstrucción intestinal y en pacientes
+ancianos.
+       Los pacientes tratados con anticoagulantes cumarínicos (como la warfarina) conjuntamente
+con UFT deben monitorizarse regularmente en cuanto a alteraciones en el tiempo de
+protrombina o el International Normalised Ratio.
+       En los pacientes que tomen fenitoína concomitantemente con UFT se deberá controlar
+regularmente los incrementos de las concentraciones plasmáticas de fenitoína.
+       Trastornos hepáticos: Dado que se han comunicado trastornos hepáticos, incluyendo
+hepatitis fulminante con desenlace mortal en pacientes que reciben UFT como agente
+único, deberá realizarse un análisis apropiado en cualquier paciente que reciba la
+combinación de UFT y folinato cálcico que presente signos y síntomas de hepatitis,
+cualquier otra enfermedad o trastorno hepático. La función hepática deberá ser
+monitorizada durante el tratamiento en pacientes con disfunción hepática leve a moderada.
+                                                                                                     MINISTERIO
+Insuficiencia renal: No existe experiencia con la combinación de UFT/folinato cálcico en
+pacientes con insuficiencia renal. Los médicos deberán tener precaución al administrar
+UFT/folinato cálcico a dichos pacientes.
+       Diarrea: UFT/folinato cálcico a menudo produce diarrea, sin embargo en la mayoría de los
+casos es de carácter leve. Los pacientes con diarrea severa deben ser cuidadosamente
+monitorizados y deben ser tratados con reposición hídrica y electrolítica para evitar las
+complicaciones potencialmente fatales de la deshidratación. (ver 4.2.). Debe prestarse
+especial atención a la necesidad de suspender el tratamiento con UFT/folinato cálcico
+después de la aparición de diarrea grado 2 o peor.
+       Enfermedad cardíaca significativa: Deben tomarse precauciones en pacientes con
+historial de enfermedad cardiaca significativa, ya que el tratamiento con fluoropirimidinas
+se ha asociado a aparición de isquemia miocárdica y angina de pecho, además la aparición
+de acontecimientos cardíacos raros de causalidad incierta, incluyendo infarto de miocardio,
+se ha comunicado en pacientes tratados con UFT.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+No se han investigado formalmente las interacciones farmacocinéticas de UFT con con otros medicamentos administrados concomitantemente.
+       UFT no debe administrarse conjuntamente con cualquier otro medicamento que actúe
+inhibiendo la dihidropirimidina dehidrogenasa, un enzima responsable del catabolismo de
+las pirimidinas fluoradas endógenas, debido al potencial de aumentar la toxicidad (ver 5.1.).
+En este sentido, se han comunicado varios casos con desenlace mortal, en pacientes tratados
+con la co-administración de UFT y el fármaco antiviral sorivudina.
+       Se han comunicado elevaciones marcadas en el tiempo de protrombina (PT) y el
+International Normalised Ratio (INR) en pacientes estabilizados con terapia de warfarina
+tras el inicio del tratamiento con UFT.
+       Se han notificado casos de elevación de los niveles plasmáticos de fenitoína con síntomas
+de intoxicación, en pacientes tratados concomitantemente con UFT y fenitoína. (ver 4.4).
+       In vitro, tegafur es parcialmente metabolizado por CYP2A6 (ver 4.3). UFT debe
+administrarse con precaución en combinación con sustratos o inhibidores de esta enzima,
+como cumarina, metoxipsoralen, clotrimazol, ketoconazol o miconazol. Ni tegafur ni
+uracilo inhiben significativamente la actividad in vitro de CYP3A4 o CYP2D6. Además, in
+vitro, tegafur no es metabolizado por CYP1A1, -1A2, -2B6, -2C8, -2C9, -2C19, -2D6, -2E1
+ó -3A4, lo que sugiere que es improbable que haya interacciones con los medicamentos
+metabolizados por estas enzimas.
+       La absorción de UFT se ve afectada por la ingestión de alimentos (ver 5.2).
+ 4.6   Embarazo y lactancia
+       Embarazo: Para UFT no se dispone de datos clínicos de exposición en embarazadas.
+Uracilo/Tegafur puede causar problemas graves en el feto cuando se administra durante el
+embarazo. Por ello UFT está contraindicado (ver 4.3) en el embarazo. Deben tomarse las
+medidas anticonceptivas adecuadas tanto en pacientes varones como mujeres durante el
+tratamiento (y hasta tres meses después). Si se diagnostica un embarazo durante el
+tratamiento con UFT, debe considerarse asesoramiento genético.
+Lactancia: No se sabe si tegafur, uracilo y 5-FU se excretan en la leche materna después de
+la administración de UFT. Debido al potencial de reacciones adversas graves en los
+lactantes; el uso de UFT en mujeres lactantes está contraindicado (ver 4.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+No se ha demostrado que la combinación UFT/folinato cálcico interfiera con la capacidad
+para conducir y utilizar maquinaria. Sin embargo, dado que ocasionalmente se ha
+comunicado confusión (ver 4.8.), deberá advertirse a los pacientes de que tomen
+precauciones.
+ 4.8   Reacciones adversas
+Mientras no se disponga de datos adicionales, la información sobre efectos adversos se
+refiere a los 594 pacientes que han sido tratados con UFT/folinato cálcico en combinación
+en dos ensayos clínicos en Fase III con una mediana de 3 a 3.5 ciclos (ver 5.1).
+       Como con todos los fármacos citotóxicos, pueden esperarse reacciones adversas en la
+mayoría de los pacientes. La mayoría de las reacciones adversas observadas, incluyendo
+diarrea, náuseas y vómitos, fueron reversibles y no requirieron la interrupción permanente
+del tratamiento, aunque fueron retrasadas o reducidas las dosis en algunos pacientes (ver
+4.2). Las reacciones adversas severas y clínicamente relevantes más frecuentes fueron
+diarrea (20%), náuseas/vómitos (12%), dolor abdominal (12%) y astenia (9%).
+       Aproximadamente el 45% de estos pacientes tenían  65 años, y casi un 26% de estos eran
+75 años. No se observaron diferencias clínicamente relevantes en la seguridad, aunque los
+pacientes de más edad tendían a tener una incidencia más alta de anemia, diarrea y
+estomatitis/mucositis.
+       La siguiente información especifica las reacciones adversas de cualquier severidad,
+comunicadas con una frecuencia  1% y atribuidas al tratamiento UFT/folinato cálcico.
+Además, los términos se indican con (*) cuando las reacciones adversas severas y
+clínicamente relevantes, con respecto a la atribución al tratamiento con UFT/folinato
+cálcico, se comunicaron en una proporción de pacientes a una frecuencia  0,1%.
+       [Convención MedDRA: muy frecuente ( 10%), frecuente ( 1% a < 10%), poco frecuente
+( 0,1% a < 1%), raramente ( 0,01% a < 0,1%), y muy raramente ( 0,001% a < 0,01% o
+casos aislados),]:
+       Infecciones e infestaciones:
+Frecuente:              moniliasis
+Poco frecuente:         infección*, sepsis*.
+       Trastornos del sistema linfático y sanguíneo:
+Muy frecuente          mielosupresión,     anemia,      trombocitopenia,      leucopenia,
+neutropenia
+Poco frecuente:        trastornos de coagulación*, neutropenia febril.
+       Trastornos de metabolismo y nutrición:
+Frecuente:    deshidratación*, caquexia*.
+       Trastornos del sistema nervioso:
+Frecuente:      alteración del gusto, pérdida del gusto, somnolencia, vértigo, insomnio,
+      Trastornos oculares:
+Frecuente:     lagrimeo, conjuntivitis.
+       Trastornos cardíacos:
+Frecuente:      edema periférico*.
+Poco frecuente: arritmia*, fallo cardíaco congestivo*, infarto de miocardio*, parada
+cardiaca*.
+      Trastornos vasculares:
+Frecuente:      trombosis venosa profunda*.
+Poco frecuente: shock*.
+      Trastornos respiratorios, torácicos y mediastinales:
+Frecuente:      disnea*, aumento de tos, faringitis.
+Poco frecuente: embolia pulmonar*.
+      Trastornos gastrointestinales:
+Muy frecuente: diarrea*, náuseas*, estomatitis*, anorexia, vómitos*, dolor abdominal*.
+Frecuente:      estreñimiento*, flatulencia, dispepsia, mucositis*, sequedad de boca,
+Poco frecuente: enteritis*, gastritis*, ileitis*, perforación intestinal*.
+      Trastornos hepato-biliares:
+Poco frecuente: hepatitis*, ictericia*, fallo hepático*.
+      Trastornos de la piel y tejido subcutáneo:
+Frecuente:     alopecia, rash, dermatitis exfoliativa, decoloración de la piel, prurito,
+      Trastornos musculoesqueléticos, óseos y del tejido conectivo:
+Frecuente:    mialgia, dolor de espalda*, artralgia*.
+      Trastornos renales y urinarios:
+Poco frecuente: función renal anormal*, retención urinaria*, hematuria*.
+      Trastornos del sistema reproductor y de la mama:
+Poco frecuente: impotencia*.
+      Trastornos generales y condiciones en el lugar de administración:
+Muy frecuente: astenia*.
+Frecuente:      fiebre*, cefalea, malestar, escalofríos, dolor*.
+Poco frecuente: dolor torácico*.
+      Investigaciones:
+Muy frecuente: incremento de la fosfatasa alcalina, incremento de SGPT (ALT),
+Frecuente:      pérdida de peso*.
+ **    La hiperbilirrubinemia se ha comunicado aproximadamente dos veces más a menudo
+en comparación con el brazo control de 5-FU/folinato cálcico en bolus. Cuando se
+comunicó, fue generalmente aislado, reversible y no se asoció con un resultado clínico
+adverso.
+ Después de la comercialización de UFT como agente único se han comunicado los
+siguientes efectos adversos. Están incluidas solamente aquellas reacciones adversas que no
+se han comunicado en las investigaciones clínicas con UFT más folinato cálcico.
+ Infecciones e infestaciones:
+Raramente:               leucoencefalopatía
+ Trastornos del sistema linfático y sanguíneo:
+Muy raramente: anemia hemolítica, síndrome mielodisplásico, leucemia aguda mieloica,
+leucemia aguda promielocítica, agranulocitosis, pancitopenia, coagulación
+intravascular diseminada
+ Trastornos del sistema nervioso:
+Raramente:       pérdida del olfato, parosmia
+Muy raramente: pérdida de memoria, alteración de los movimientos incluyendo síntomas
+extrapiramidales y parálisis en las extremidades, alteraciones del habla,
+alteraciones en la manera de andar, alteración de la conciencia,
+hipoestesia.
+ Trastornos cardíacos:
+Muy raramente: angina
+ Trastornos respiratorios, torácicos y mediastinales:
+Raramente:              neumonía intersticial
+Muy raramente:          neumonía
+ Trastornos gastrointestinales:
+Muy raramente: pancreatitis aguda, úlcera gastroduodenal, enterocolitis, íleo paralítico,
+ascitis, colitis isquémica.
+ Trastornos hepato-biliares:
+Muy raramente: cirrosis hepática, hepatitis fulminante, fibrosis hepática ***.
+ Trastornos de la piel y tejido subcutáneo:
+Muy raramente: lupus eritematoso discoide-como erupción, discrasia de la piel
+(incluyendo        vesicación y dermatitis), urticaria, síndrome de Stevens
+Johnson, eritrodisestesia palmo-plantar.
+ Trastornos renales y urinarios:
+Muy raramente: fallo renal agudo, síndrome nefrótico, incontinencia urinaria.
+ Trastornos generales y condiciones en el lugar de administración:
+Raramente:              fatiga.
+Muy raramente:          alteración multi-orgánica
+ (***) En pacientes con niveles séricos elevados de colágeno 7S y PIIINP tratados con UFT
+solo, se han notificado muy raramente casos de fibrosis hepática leve o moderada sin
+elevación de los niveles séricos de transaminasas.
+ 4.9   Sobredosis
+En caso de sobredosis, se pueden incrementar la frecuencia y severidad de los efectos
+adversos, pudiendo llegar a ser fatales. Los síntomas observados incluyen náuseas, vómitos,
+diarrea, ulcera gastrointestinal, hemorragia y supresión de la médula ósea (trombocitopenia,
+leucopenia y agranulocitosis). No existe antídoto específico; deberán aplicarse las medidas
+adecuadas de apoyo.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+Grupo farmacoterapéutico/código ATC: agentes antineoplásicos, antimetabolitos, análogos
+de pirimidina. L01B C.
+       UFT, una fluorpirimidina que administrada por vía oral inhibe a la dihidropirimidina
+deshidrogenasa (DPD), es una relación molar fija (1:4) de tegafur y uracilo. El uracilo es un
+inhibidor competitivo de la degradación del 5-FU
+       Las actividades individuales combinadas de uracilo y folinato cálcico dan lugar a la
+biomodulación dual:
+1)Tegafur es un profármaco oral de 5-FU y el uracilo es un inhibidor reversible de la DPD,
+la enzima que cataboliza principalmente el 5-FU.
+2)El folinato cálcico potencia la citotoxicidad de 5-FU mediante uno de sus metabolitos
+intracelulares, el 5,10-metilentetrahidrofolato.
+       5-FU experimenta activación intracelular en sus metabolitos activos, monofosfato de 5-
+fluor-deoxiuridina (FdUMP) y trifosfato de 5-fluoruridina (FUTP). FdUMP inhibe la
+síntesis del ADN formando complejos terciarios inhibitorios con la timidilato sintetasa (TS)
+y folatos intracelulares reducidos. FUTP se integra en el ARN celular, dando lugar a una
+interrupción de su función. Después de la inhibición competitiva de DPD por uracilo, las
+concentraciones plasmáticas de 5-FU derivadas de tegafur están elevadas.
+       La eficacia de la combinación UFT/folinato cálcico en el cáncer colorrectal metastásico se
+estableció en 2 ensayos aleatorizados y comparativos fase III frente al régimen Mayo (5-FU
+IV [425 mg/m2/día] y folinato cálcico [20 mg/m2/día]) administrados durante 5 días cada 4
+semanas(estudio-011) o cada 5 semanas (estudio-012).
+       En el estudio ­011 (n=816), no hubo diferencia estadísticamente significativa en la variable
+principal de supervivencia entre las dos ramas de tratamiento. La mediana de supervivencia
+fue de 12,4 meses (IC 95%: 11,2-13,6 meses) y 13,4 meses (IC 95%: 11,6-15,4 meses) en
+el grupo de UFT/folinato cálcico y el grupo de 5-FU/folinato cálcico, respectivamente. La
+razón de riesgo para 5-FU/folinato cálcico sobre UFT/folinato cálcico fue 0,96 (IC 95%:
+0,83-1,13). El análisis de la variable secundaria del tiempo a la progresión en este estudio
+fue complicado por la diferencia en la duración del ciclo entre los dos brazos de
+tratamiento. La mediana de tiempo a la progresión fue de 3,5 meses (IC 95%: 3,0-4,4
+meses) y 3,8 meses (IC 95%: 3,6-5,0 meses) en el grupo de UFT/folinato cálcico y el grupo
+de 5-FU/folinato cálcico, respectivamente (p=0,01).
+                                                                                                       MINISTERIO
+En el estudio ­012 (n=380), no hubo diferencia estadísticamente significativa en la variable
+principal de tiempo a la progresión, ni en la variable secundaria de supervivencia entre las
+dos ramas de tratamiento. La mediana de tiempo a la progresión fue de 3,4 meses (IC 95%:
+2,6-3,8 meses) y 3,3 meses (IC 95%: 2,5-3,7 meses) en el grupo de UFT/folinato cálcico y
+el grupo de 5-FU/folinato cálcico, respectivamente. La mediana de supervivencia fue de
+12,2 meses (IC 95%: 10,4-13,8 meses) y 10,3 meses (IC 95%: 8,2-13,0 meses) en el grupo
+de UFT/folinato cálcico y el grupo de 5-FU/folinato cálcico, respectivamente La razón de
+riesgo para 5-FU/folinato cálcico sobre UFT/folinato cálcico fue 1,14 (IC 95%: 0,92-1,42).
+       En el tratamiento de primera línea del cáncer colorrectal metastásico se han autorizado
+combinaciones de nuevos productos con 5-FU. Sin embargo, la utilización de UFT en
+combinación con nuevos fármacos está todavía en investigación.
+ 5.2   Propiedades farmacocinéticas
+       La dosis única y la farmacocinética plasmática en estado de equilibrio de UFT oral han sido
+evaluadas en pacientes con cáncer colorrectal.
+       Absorción
+Después de la administración de UFT, tegafur y uracilo se absorbieron rápidamente. Las
+Cmáx de tegafur, uracilo y 5-FU se alcanzaron entre 1 y 2 horas. La administración conjunta
+de folinato cálcico oral con UFT no alteró significativamente la farmacocinética plasmática
+de tegafur, uracilo o 5-FU. De manera similar, UFT no afectó la absorción del folinato
+cálcico oral. Después de una comida con alto contenido en grasas, las AUC plasmáticas de
+uracilo y 5-FU fueron un 66% y un 37% más bajas, respectivamente, en comparación con
+UFT en ayunas. La AUC plasmática de tegafur no se alteró significativamente. Las Cmáx de
+tegafur, uracilo y 5-FU se redujeron y se retrasaron.
+       Distribución
+Después de la administración oral de UFT, las concentraciones plasmáticas en el tiempo
+para UFT y uracilo generalmente muestran procesos de absorción y eliminación
+monoexponenciales. El volumen aparente medio de distribución de tegafur y uracilo tras
+una dosis de UFT en el equilibrio es 59 y 474 l, respectivamente. La unión a proteínas
+séricas es del 52% en el caso de tegafur y despreciable en el caso de uracilo.
+       Metabolismo
+La conversión de tegafur a 5-FU se produce por oxidación en C-5' (enzimas microsómicas)
+e hidrólisis en C-2' (enzimas citosólicas). La oxidación microsomal de tegafur está
+parcialmente mediada por CYP2A6. No se sabe cuáles son las enzimas citosólicas
+responsables del metabolismo de tegafur. Otros productos metabólicos de tegafur incluyen
+3'-hidroxi tegafur, 4'-hidroxi tegafur y dihidrotegafur, todos ellos significativamente menos
+citotóxicos que 5-FU. El metabolismo del 5-FU formado a partir de tegafur sigue las vías
+intrínsecas de novo existentes para la pirimidina natural uracilo.
+       Ni tegafur, ni uracilo ni 5-FU inhibieron la conversión catalítica del citocromo ADNc
+derivado P450 1A2, 2C9, 2C19, 2D6 y 3A4 a concentraciones de al menos 100 M. Estos
+datos sugieren que es improbable que UFT altere significativamente el aclaramiento
+metabólico de fármacos metabolizados por estas vías.
+                                                                                                       MINISTERIO
+Eliminación
+Menos del 20% de tegafur se excreta intacto en la orina. Las semividas de eliminación
+terminal de tegafur y uracilo después de UFT son de aproximadamente 11 horas y 20-40
+minutos, respectivamente. Los tres metabolitos hidroxi de tegafur se excretan en la orina.
+La semivida plasmática de S-tegafur (10,3 horas) es 4,4 veces más larga en relación con la
+de R-tegafur (2,4 horas).
+       Tras una administración de UFT 300 mg/m2/día, en tres dosis divididas, se mantuvieron las
+concentraciones plasmáticas de tegafur de > 1.000 ng/ml, mientras que las concentraciones
+de uracilo descendieron rápidamente tras la Cmax. El pico de concentración plasmática de 5-
+FU apareció en 30 a 60 minutos a aproximadamente 200 ng/ml y permaneció detectable (>
+1 ng/ml) durante cada intervalo de dosis de 8 horas. No se produjo acumulación
+significativa de tegafur, uracilo o 5-FU durante el ciclo de 28 días del tratamiento con UFT.
+       Linealidad/No linealidad
+Tras una dosis única de UFT (100 a 400 mg), los aumentos en las exposiciones plasmáticas
+(Cmax y AUC) de tegafur fueron generalmente proporcionales a la dosis. Los aumentos en
+las exposiciones plasmáticas de 5-FU y uracilo fueron superiores que en proporción a la
+dosis.
+       Farmacocinética en poblaciones especiales
+Un análisis estadístico de los datos farmacocinéticos (Cmax y AUC) de una dosis única de
+UFT (200 mg) de los tres estudios (46 pacientes, media de edad de 60 años, 28 varones, 18
+mujeres) no identificaron asociaciones clínicamente significativas entre la edad del
+paciente, el sexo y la presencia de metástasis hepáticas con respecto a la farmacocinética de
+tegafur, uracilo o 5-FU tras la dosis única de UFT. En vista del predominante papel del
+proceso hepático en el metabolismo y la eliminación tanto de tegafur como de uracilo, es
+improbable que los trastornos renales tengan un efecto significativo sobre la
+farmacocinética de UFT.
+ 5.3   Datos preclínicos sobre seguridad
+       En ratas y perros, dosis repetidas de UFT producen toxicidad en el tracto gastrointestinal,
+órganos linfoides, médula ósea, hígado, riñón y testículos. Las vacuolas redondas que se
+observan histológicamente en el cerebro de los perros no se relacionaron con signos
+clínicos. Con la excepción de los cambios testiculares y las vacuolas en el cerebro de los
+perros, todos los demás hallazgos fueron reversibles.
+       Tras la administración de UFT, tegafur, uracilo y 5-FU se excretan en la leche materna en
+ratas. También en ratas, UFT mostró toxicidad materna y una tasa de concepción reducida.
+En ratas, ratones y conejos se observó embriomortalidad, toxicidad fetal y teratogenicidad.
+UFT no fue mutagénico en las cepas bacterianas pero indujo aberraciones cromosómicas en
+células de ovario de hámster chino y fue genotóxico en la prueba de micronúcleos de la
+rata. No se han realizado estudios de carcinogenidad a largo plazo en animales. Sin
+embargo, los datos positivos de mutagenicidad son indicativos de un potencial
+carcinogénico.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Relación de excipientes
+Hidroxipropilcelulosa de baja sustitución, laurilsulfato sódico.
+                                                                                                       MINISTERIO
+Cápsula shell: gelatina, y dióxido de titanio (E171).
+       Impresión de la cápsula (tinta comestible): dióxido de titanio (E171), óxido de hierro rojo
+sintético (E172), cera carnauba, laca, y monooleato de glicerol.
+ 6.2   Incompatibilidades
+No se han descrito.
+ 6.3   Periodo de validez
+2 años.
+ 6.4   Precauciones especiales de conservación
+Conservar a temperatura no superior a 25°C
+ 6.5   Naturaleza y contenido del recipiente
+Las cápsulas de UFT se acondicionan en láminas blíster de PVC/PVDC/Al conteniendo
+21,28,35,36,42,56,70,84,112,120,140,o 168 cápsulas Puede que no todas las presentaciones
+estén comercializadas en todos los países.
+ 6.6   Instrucciones de uso y manipulación
+Deberán seguirse los procedimientos establecidos para la manipulación y eliminación
+adecuadas de fármacos citotóxicos.
+ 
+7.    NOMBRE O RAZÓN SOCIAL Y DOMICILIO PERMANENTE O SEDE SOCIAL
+	      Bristol-Myers Squibb, S.L.
+C/ Almansa 101
+28040 - Madrid
+ 
+8.    NÚMERO DE LA AUTORIZACION DE COMERCIALIZACION
+	      63.044
+ 9.    FECHA DE LA              PRIMERA         AUTORIZACIÓN/RENOVACIÓN                DE     LA
+AUTORIZACIÓN
+       Marzo 2000
+ 10.   FECHA DE LA APROBACION/REVISIÓN DEL TEXTO
+Marzo 2005
+
+	 
+      UFT capsulas , 84 capsulas
+          
+      UFT capsulas, 112 capsulas
+          
+      UFT capsulas, 120 capsulas
+          
+      UFT capsulas, 168 capsulas
+          
+      UFT capsulas, 21 capsulas
+          
+      UFT capsulas, 28 capsulas
+          
+      UFT capsulas, 35 capsulas
+          
+      UFT capsulas, 42 capsulas
+         Prospectos de medicamentos.

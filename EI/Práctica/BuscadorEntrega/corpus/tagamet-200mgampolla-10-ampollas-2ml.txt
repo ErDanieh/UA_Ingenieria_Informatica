@@ -1,0 +1,234 @@
+TAGAMET 200MG/AMPOLLA 10 AMPOLLAS 2ML
+	Información Basica del medicamento Toda la información del medicamento 
+1. NOMBRE DEL MEDICAMENTO
+	TAGAMET 200 mg, Inyectable
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	TAGAMET 200 mg, Inyectable:
+Cada ampolla contiene 200 mg de Cimetidina (D.O.E.) base.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3. FORMA FARMACÉUTICA
+	Formas parenterales: Ampollas.
+ 
+4. DATOS CLÍNICOS
+	4.1 Indicaciones terapéuticas
+ Tratamiento de las úlceras duodenal y gástrica activas y recurrentes; tratamiento del reflujo
+gastroesofágico.
+ Prevención de la úlcera de estrés en pacientes críticamente enfermos con riesgo de hemorragia
+digestiva alta; tratamiento del síndrome de Zollinger-Ellison, tratamiento de la hemorragia de la
+úlcera péptica o de las erosiones del tracto gastrointestinal superior.
+ Reducción del riesgo de síndrome de aspiración ácida durante la anestesia general, incluyendo
+cesárea y pacientes obstétricas durante el parto.
+ Tratamiento de la malabsorción y pérdida de fluidos en el síndrome de intestino corto.
+ 4.2 Posología y forma de administración
+ Adultos
+ Cimetidina puede administrarse por vía intramuscular o intravenosa para el tratamiento de
+pacientes que presenten riesgo elevado de hemorragia del tracto gastrointestinal (úlcera de estrés)
+y como medida de apoyo en el tratamiento de la hemorragia de la úlcera péptica o erosiones del
+tracto gastrointestinal superior.
+ La dosis de la inyección intramuscular es normalmente de 200 mg, que puede repetirse a
+intervalos de 4-6 horas. Se ha comunicado dolor pasajero en el lugar de la inyección.
+ La administración intravenosa puede ser mediante infusión intermitente o continua. Para infusión
+intermitente diluir 400 mg de cimetidina inyectable en 100 ml de solución dextrosa (5%) u otra
+solución intravenosa compatible e infundir en un período no inferior a 15 minutos. La
+dosificación total en 24 horas no debe exceder de 6 infusiones (2,4 g). Por infusión continua
+puede administrarse hasta un máximo de 74 mg/hora durante 24 horas.
+ En el caso de que sea necesaria una inyección intravenosa, 200 mg de cimetidina inyectable
+pueden diluirse en una solución de cloruro de sodio al 0,9% (u otra solución intravenosa
+ compatible) hasta un volumen total de 20 ml y administrar LENTAMENTE durante un período
+no inferior a 5 minutos (véase Advertencias y precauciones especiales de empleo). Dosis de 200
+mg pueden repetirse a intervalos de 3-6 horas, hasta un máximo de 2 g diarios. Este método de
+administración debería evitarse en pacientes con enfermedad cardiovascular y en pacientes
+críticamente enfermos.
+ Cuando la hemorragia activa se ha detenido, puede iniciarse un régimen de dosificación oral. La
+dosis usual es de 200 mg tres veces al día con las comidas y 400 mg al acostarse. Puede ser
+necesario aumentar la dosificación a 400 mg cuatro veces al día.
+ La dosis de cimetidina recomendada para adultos junto con anestesia general (incluyendo
+cesárea) es de 300 o 400 mg por vía parenteral (preferentemente intramuscular) aproximadamente
+una hora antes de la inducción de la anestesia general y se continuará con 200 o 300 mg cada 4
+horas según sea necesario. La premedicación con cimetidina la noche antes de la operación, en
+cirugía programada, reduce el volumen gástrico y la acidez.
+ Niños
+ Aunque la experiencia clínica con cimetidina en niños es muy limitada, se ha utilizado en aquellas
+situaciones en que, a juicio del médico, el posible beneficio justifique el riesgo potencial (véase
+sección 4.4 Advertencias y precauciones especiales de empleo).
+ Las dosis deben ajustarse según la edad de la forma siguiente:
+Edad entre: 1- 12 años: 20-40 mg/kg/día en dosis divididas cada 4 a 6 horas.
+Menores de 1 año: 20 mg/kg/día en dosis divididas cada 4 a 6 horas.
+Neonatos: 5 mg/kg/día en dosis divididas cada 4 a 6 horas.
+ En niños y neonatos con insuficiencia renal se deben reducir las dosis.
+ Ancianos
+ La misma posología que para adultos.
+ Insuficiencia hepática
+ En pacientes con insuficiencia hepática grave es recomendable reducir la dosis a un máximo de
+600 mg diarios.
+ Insuficiencia renal
+ En pacientes con insuficiencia renal la dosificación debe reducirse de acuerdo con el aclaramiento
+de creatinina. Se sugieren las siguientes dosificaciones:
+ Aclaramiento de creatinina              Reducción porcentual de la dosis diaria
+                                                                            66%
+ Habitualmente no se requiere un ajuste para dosis diarias totales de 400 mg o menos.
+4.3 Contraindicaciones
+ TAGAMET está contraindicado en pacientes con hipersensibilidad conocida a cimetidina o a sus
+excipientes.
+ 4.4 Advertencias y precauciones especiales de empleo
+ Se debe evitar la inyección intravenosa rápida de cimetidina (menos de 5 minutos) ya que se ha
+asociado con paro cardíaco y arritmias. Se ha observado hipotensión transitoria, particularmente
+en pacientes en estado crítico (véase Posología y forma de administración).
+ La experiencia clínica del uso de cimetidina en niños es limitada, por lo que se desaconseja su
+uso, salvo que el posible beneficio justifique el riesgo potencial.
+ Se han descrito casos de estados confusionales reversibles relacionados principalmente con la
+administración intravenosa de cimetidina, especialmente en pacientes ancianos, insuficientes
+renales o hepáticos y en pacientes críticos. Estos estados confusionales suelen ser leves y
+desaparecen tras la supresión del tratamiento.
+ En caso de insuficiencia renal, es conveniente reducir la dosis de TAGAMET en función del
+aclaramiento de creatinina (véase sección 4.2 Posología y forma de administración).
+ Antes de iniciar el tratamiento con TAGAMET (especialmente en el caso de las úlceras gástricas)
+es recomendable descartar lesiones malignas, ya que la cimetidina puede enmascarar los síntomas
+y retrasar el diagnóstico de una neoplasia gástrica.
+ En pacientes tales como los de edad avanzada, personas con enfermedad pulmonar crónica,
+diabetes o los inmunocomprometidos, puede que exista un aumento del riesgo de desarrollar
+neumonía adquirida en la comunidad. En un estudio epidemiológico grande se ha demostrado un
+aumento del riesgo de desarrollar neumonía adquirida en la comunidad en los pacientes que
+tomaban antagonistas de los receptores H2 frente a aquellos que habían finalizado el tratamiento,
+con un incremento del riesgo relativo ajustado observado del 1,63 (95% CI, 1,07-2,48).
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+ Cimetidina, aparentemente por medio de un efecto sobre ciertos sistemas enzimáticos
+microsomales, puede causar cambios clínicamente significativos en el metabolismo de algunos
+medicamentos, retrasando su eliminación y por lo tanto incrementando o prolongando las
+concentraciones sanguíneas de estos medicamentos. Algunos de estos medicamentos son
+anticoagulantes tipo warfarina, benzodiazepinas (diazepam, clordiazepóxido), fenitoína, teofilina,
+betabloqueantes con un porcentaje alto de metabolismo hepático (propranolol, metoprolol, etc.),
+lidocaína y nifedipino.
+ En el caso de administración conjunta de cimetidina con anticoagulantes tipo warfarina, se
+recomienda vigilar periódicamente el tiempo de protrombina ajustando si es preciso en función de
+éste la dosis de anticoagulante, con el fin de prevenir posibles hemorragias debidas a una
+potenciación del efecto anticoagulante.
+ En cuanto a su interacción con las benzodiazepinas (diazepam, clordiazepóxido), diversos
+estudios sugieren una alteración de los parámetros farmacocinéticos (reducción del aclaramiento).
+Aunque no se ha establecido claramente la importancia clínica de dichas interacciones, en algún
+caso podría ser necesario reducir la dosis de estos fármacos.
+ Para pacientes con un tratamiento establecido con fenitoína o teofilina, la administración de
+cimetidina puede dar lugar a un incremento de la concentración plasmática, por lo que podría ser
+necesario reducir la dosis de ambos fármacos. No obstante, la interrupción del tratamiento con
+cimetidina en estos pacientes puede provocar una disminución de la concentración plasmática, y
+en consecuencia podría requerirse un aumento de la dosis de fenitoína y teofilina para obtener un
+efecto terapéutico óptimo.
+ En el caso de betabloqueantes con un elevado porcentaje de metabolismo hepático (propranolol,
+metoprolol, etc.), el aclaramiento de dichos fármacos podría verse reducido tras la administración
+de cimetidina, por lo que puede requerirse una reducción de la dosis al inicio o al final del
+tratamiento con el fin de mantener niveles terapéuticos óptimos y seguros.
+ La administración conjunta de cimetidina y lidocaína puede dar lugar a un aumento de los niveles
+plasmáticos de la lidocaína, por lo que en pacientes tratados con cimetidina se deben monitorizar
+las concentraciones plasmáticas de lidocaína, disminuyendo la dosis de ésta si es preciso.
+ Se ha observado un aumento en los niveles plasmáticos de nifedipino durante la administración
+concomitante con cimetidina. Para la administración conjunta de estos dos medicamentos, es
+necesaria la titulación de la dosis de nifedipino, teniendo en cuenta la respuesta farmacodinámica
+a éste fármaco.
+ La absorción de cimetidina no se altera de forma significativa por la presencia de alimentos o por
+la administración simultánea de antiácidos a las dosis recomendadas habitualmente.
+ La alteración del pH gástrico puede afectar a la absorción de algunos medicamentos.
+ 4.6 Embarazo y lactancia
+ Embarazo
+ En la actualidad existe una experiencia limitada en cuanto al empleo de cimetidina en mujeres
+embarazadas. No se han detectado efectos adversos negativos. Los estudios teratogénicos en
+animales no han mostrado ningún peligro relacionado con la administración de cimetidina durante
+el embarazo. Cimetidina no debe emplearse durante el embarazo a menos que, a juicio del
+médico, los posibles beneficios superen el riesgo potencial.
+ Lactancia
+ No se dispone de datos suficientes en humanos sobre el uso de cimetidina durante la lactancia.
+Cimetidina se excreta en la leche materna, por lo tanto, este medicamento no debe administrarse
+durante la lactancia. En el caso de cesárea en pacientes que reciben cimetidina conjuntamente con
+la anestesia general, la vida media relativamente corta de cimetidina (2 horas) podría excluir la
+presencia de cantidades significativas de ésta en la leche materna cuando el tiempo de
+recuperación haya progresado lo suficiente para permitir la lactancia.
+ 4.7 Efectos sobre la capacidad de conducir vehículos y utilizar máquinas
+ No se han descrito.
+                                                                                                      MINISTERIO
+4.8 Reacciones adversas
+ Las reacciones adversas se relacionan por sistema corporal, órgano y frecuencia absoluta. Las
+frecuencias se definen como: Muy frecuentes ( 1/10), Frecuentes (1/100, < 1/10), Poco
+frecuentes ( 1/1000, < 1/100), Raras ( 1/10000, < 1/1000) o Muy raras (< 1/10000) incluyendo
+notificaciones aisladas
+ Trastornos de la sangre y del sistema linfático: raras: leucopenia (incluyendo agranulocitosis),
+anemia aplásica y trombocitopenia.
+Trastornos del sistema inmunológico: raras: vasculitis y anafilaxia, .
+Trastornos del sistema nervioso: poco frecuentes: depresión; raras: estados confusionales,
+cefalea, vértigo y cansancio; muy raras: alucinaciones.
+Trastornos cardiacos: raras: bradicardia sinusal, taquicardia y bloqueo cardíaco.
+Trastornos gastrointestinales: raras: diarrea.
+Trastornos hepatobiliares: muy raras: aumento de los niveles plasmáticos de transaminasas; raras:
+hepatitis o pancreatitis.
+Trastornos de la piel y del tejido subcutáneo: frecuentes: erupción cutánea; raras: alopecia.
+Trastornos musculoesqueléticos y del tejido conjuntivo: raras: mialgia.
+Trastornos renales y urinarios: raras: aumentos en los niveles plasmáticos de creatinina, nefritis
+intersticial y fiebre.
+Trastornos del aparato reproductor y de la mama: raras: impotencia reversible; muy raras:
+ginecomastia.
+ 4.9 Sobredosis
+ Se han notificado varios casos de sobredosis aguda con ingestas de hasta 100 comprimidos (20
+gramos) sin efectos significativos, siendo el más destacado la depresión respiratoria. La inducción
+al vómito y/o el lavado pueden emplearse junto con el tratamiento sintomático y de soporte.
+Puede ser de utilidad la respiración artificial y el uso de betabloqueantes para combatir la posible
+taquicardia. Se han comunicado síntomas graves a nivel del sistema nervioso central, tales como
+incapacidad de reaccionar, siguiendo a la ingestión de entre 20 y 40 g de cimetidina. Se han
+producido casos de muertes en adultos que habían ingerido dosis superiores a 40 g de cimetidina
+como dosis única.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1 Propiedades farmacodinámicas
+ La cimetidina (grupo farmacoterapéutico: antagonistas de receptores H2, código ATC: A02BA):
+· Es un antagonista del receptor H2 de la histamina.
+· Inhibe de forma competitiva la acción de la histamina en el receptor H2 de las células
+parietales.
+· Inhibe la secreción basal del ácido gástrico y la secreción ácida estimulada por los alimentos y
+reduce la producción de pepsina.
+· Posee propiedades citoprotectoras, teniendo así un efecto beneficioso en el mantenimiento de
+la integridad de la barrera mucosa gástrica.
+ 5.2 Propiedades farmacocinéticas
+ ·   Su biodisponibilidad por vía IM se sitúa en torno al 90-100%, y es equivalente por vía
+intravenosa.
+·   Cimetidina se distribuye ampliamente por todo el organismo, presentando un volumen de
+distribución de 1 l / Kg. Su unión a proteínas plasmáticas es débil, y no tiene significancia
+clínica o farmacocinética.
+·   Su vida media de eliminación es aproximadamente 2 horas, viéndose aumentada en casos de
+insuficiencia renal. Se metaboliza parcialmente a sus derivados sulfóxido e hidroximetil,
+aunque la mayor parte se elimina inalterado por la orina.
+ 5.3. Datos preclínicos de seguridad
+ Los datos preclínicos basados en estudios convencionales de farmacología, toxicología con dosis
+repetidas, genotoxicidad, potencial carcinogénico y estudios de reproducción no han revelado
+especial riesgo para los humanos.
+ 
+6. DATOS FARMACÉUTICOS
+	6.1 Relación de excipientes
+ Ampolla: Agua para inyección (2 ml), ácido clorhídrico (c.s.p. pH=4,9).
+ 6.2 Incompatibilidades
+ TAGAMET presenta incompatibilidad física con pentobarbital.
+ 6.3 Período de validez
+ Cinco años.
+ 6.4 Precauciones especiales de conservación
+ Cimetidina inyectable es estable durante una semana a temperatura ambiente cuando se diluye con
+la mayoría de las soluciones intravenosas más comúnmente empleadas, por ejemplo, solución de
+cloruro de sodio (0,9%), solución de dextrosa (5% ó 10%), solución de Ringer lactato.
+ 6.5 Naturaleza y contenido del envase
+ TAGAMET 200 mg, Inyectable. Envase de 10 ampollas.
+ 6.6 Precauciones especiales de eliminación y otras manipulaciones
+ Ver sección 4.4.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en
+contacto con él, se realizará de acuerdo con las normativas locales.
+ 
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	GLAXOSMITHKLINE, S.A.
+P.T.M. C/ Severo Ochoa, 2
+28760 Tres Cantos (Madrid).
+
+8. NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Nº Registro de TAGAMET 200 mg, Inyectable: 54.058.
+ 9. FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN       DE LA
+AUTORIZACIÓN
+ TAGAMET 200 mg, Inyectable: 18 de Marzo de 1977.
+ 10. FECHA DE REVISIÓN DEL TEXTO
+ Julio 2007.
+
+	Prospectos de medicamentos.

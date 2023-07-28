@@ -1,0 +1,256 @@
+CAFERGOT, 10 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	CAFERGOT comprimidos
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene: ergotamina (DOE) tartrato 1 mg, cafeína 100 mg.
+Relación de excipientes, ver sección 6.1 Lista de excipientes.
+ 
+3.     FORMA FARMACÉUTICA
+	Comprimidos.
+ 
+4.     DATOS CLÍNICOS
+	"       4.1    Indicaciones terapéuticas
+Tratamiento de los ataques agudos de migraña con o sin aura.
+        4.2     Posología y forma de administración
+Cafergot debe administrarse cuando aparecen los primeros síntomas de un ataque.
+Adultos:
+Cuando se utiliza Cafergot comprimidos por primera vez, se recomienda una
+dosis inicial de dos comprimidos. Si no se obtiene mejoría pasada media hora, se debe
+administrar un comprimido adicional; esto debe repetirse a intervalos de media hora sin
+sobrepasar la dosis diaria máxima recomendada.
+Para los siguientes ataques, la dosis inicial puede aumentarse a 3 comprimidos,
+dependiendo de la dosis total requerida en ataques previos. Si persiste el dolor, pueden
+tomarse dosis adicionales de 1 comprimido a intervalos de media hora hasta alcanzar la
+dosis máxima recomendada.
+        Niños (a partir de 6 años)
+La dosis inicial es de un comprimido de Cafergot. Si es necesario pueden administrarse
+dos dosis adicionales de 1 comprimido a intervalos de media hora en el transcurso del
+ataque.
+        Si se requiere medicación antimigrañosa adicional, se evitará el uso de preparados que
+contengan ergotamina, dihidroergotamina intranasal o parenteral, sumatriptán u otros
+agonistas del receptor 5HT1 (ver apartado 4.3 Contraindicaciones).
+                Dosis máxima diaria
+Adultos: 6 mg de ergotamina tartrato = 6 comprimidos.
+Niños: 3 mg de ergotamina tartrato = 3 comprimidos.
+Dosis máxima semanal
+Adultos: 10 mg de ergotamina tartrato = 10 comprimidos.
+Niños: 5 mg de ergotamina tartrato = 5 comprimidos.
+ El uso de dosis superiores a las recomendadas puede dar lugar a la aparición de vasoespasmo.
+Asimismo, el uso prolongado puede dar lugar a cambios fibróticos en la pleura, peritoneo y
+válvulas cardiacas (ver apartado 4.4 Advertencias y precauciones especiales de empleo).
+ 4.3     Contraindicaciones
+          Hipersensibilidad conocida a los alcaloides del cornezuelo de centeno, cafeína o a
+cualquier otro componente de la formulación (ver apartado 6.1 Lista de Excipientes).
+Trastornos circulatorios periféricos, enfermedad vascular obliterante, cardiopatía
+isquémica, hipertensión mal controlada, estado de sepsis, shock.
+Insuficiencia hepática o renal severa.
+Arteritis temporal.
+Migraña hemipléjica o basilar.
+Tratamiento concomitante con antibióticos macrólidos, antirretrovirales inhibidores de la
+proteasa o de la transcriptasa inversa, antifúngicos azólicos (ver apartado 4.5 Interacción
+con con otros medicamentos y otras formas de interacción).
+Tratamiento concomitante con agentes vasoconstrictores (incluyendo alcaloides del
+cornezuelo del centeno, sumatriptán, y otros agonistas del receptor 5HT1) (ver apartado 4.5
+Interacción con con otros medicamentos y otras formas de interacción). Asimismo, Cafergot
+comprimidos está contraindicado en el embarazo y la lactancia (ver apartado 4.6
+""Embarazo y lactancia"").
+ 4.4     Advertencias y precauciones especiales de empleo
+         Cafergot está sólo indicado para el tratamiento de los ataques agudos de migraña
+y no como tratamiento preventivo.
+Debe evitarse el uso continuado de Cafergot o su uso a dosis superiores a las
+recomendadas, ya que con dosis elevadas puede producirse vasoespasmo y con el uso
+continuado cambios fibróticos, en particular de la pleura y del retroperitoneo y más
+raramente de las válvulas cardíacas .
+Ergotamina puede provocar isquemia miocárdica o en casos raros, infarto, debido a sus
+propiedades vasoconstrictoras, incluso en pacientes sin historia previa conocida de
+enfermedades coronarias.
+Se deberá informar a los pacientes que están siendo tratados con Cafergot, de las dosis
+máximas permitidas y de los síntomas sugerentes de vasoespasmo: hipoestesia,
+parestesias (p.ej. entumecimiento, hormigueo) en los dedos de manos y pies, cefaleas y
+síntomas de isquemia miocárdica (p.ej. dolor precordial).
+Deberá advertirse a los pacientes de que si aparecen los síntomas señalados arriba, el
+tratamiento deberá interrumpirse inmediatamente y consultar al médico.
+Se controlará adecuadamente a los pacientes con insuficiencia hepática leve a moderada,
+especialmente los pacientes con un cuadro de tipo colestático (ver apartado 5.2
+""Propiedades farmacocinéticas"").
+ Este medicamento contiene un componente que puede establecer un resultado analítico de
+control de dopaje como positivo.
+ El uso prolongado de cualquier tipo de analgésicos para el tratamiento de cefaleas puede
+empeorar esta situación clínica. Si esto sucede o se sospecha, debe ser valorado por un
+médico e interrumpir el tratamiento. Se tendrá en cuenta el posible diagnóstico de cefalea
+por abuso de estos fármacos en aquellos pacientes que tienen cefaleas frecuentes o
+diarias, incluso a pesar de (o debido a) un uso regular de fármacos para el tratamiento de
+cefaleas.
+Uso en niños:
+No utilizar en niños menores de 6 años.
+        Uso en ancianos:
+Por el contenido de ergotamina se recomienda precaución en pacientes geriátricos, ya que
+son más propensos a sufrir enfermedad vascular periférica oclusiva y, por tanto, a padecer
+los efectos adversos de la vasoconstricción periférica que los adultos jóvenes. El riesgo de
+isquemia cardíaca también es mayor en estos pacientes.
+ 4.5    Interacciones con con otros medicamentos y otras formas de interacción
+        Se evitará el uso concomitante de inhibidores de la isoenzima 3 A 4 citocromo P450
+(CYP3A) como antibióticos macrólidos (p.ej. eritromicina, claritromicina), inhibidores de
+la proteasa o de la transcriptasa inversa (p.ej. ritonavir, indinavir, nelfinavir, amprenavir)
+o antifúngicos azólicos (p.ej. ketoconazol, itraconazol, voriconazol) y Cafergot (ver apartado 4.3 Contraindicaciones) ya que puede provocar un aumento de la exposición a
+ergotamina y por tanto de su toxicidad pudiendo aparecer cuadros de vasoespasmpo e
+isquemia de las extremidades, de las arterias coronarias o accidentes cerebrovasculares.
+No se conocen interacciones farmacocinéticas que impliquen otros isoenzimas del
+citocromo P450.
+Se han descrito algunos casos de reacciones vasoespásticas en pacientes tratados
+concomitantemente con preparados que contienen ergotamina y propranolol.
+Se evitará el uso concomitante de agentes vasoconstrictores incluyendo otros preparados
+que contienen alcaloides del cornezuelo del centeno, sumatriptán, otros agonistas del
+receptor 5HT1 y nicotina (p.ej. fumar en exceso) ya que puede aumentar el riesgo de
+vasoconstricción (ver apartado 4.3 Contraindicaciones).
+        4.6     Embarazo y lactancia
+        Embarazo
+Cafergot está contraindicado durante el embarazo debido a que la ergotamina tiene
+efectos oxitócicos y vasoconstrictores sobre la placenta y el cordón umbilical.
+        Lactancia
+La ergotamina se excreta en leche materna y puede causar vómitos, diarrea, pulso débil y
+presión arterial lábil en los niños. Por tanto, Cafergot está contraindicado en madres
+lactantes.
+ 4.7    Efectos sobre la capacidad para conducir y utilizar maquinaria
+        No se han descrito.
+ 4.8    Efectos adversos
+Los efectos adversos más frecuentes son nauseas y vómitos. En función de la dosis de
+ergotamina, puede aparecer signos y síntomas de vasoconstricción.
+Las reacciones adversas están clasificadas (Tabla 1) bajo títulos de frecuencias, la más
+frecuente se indica en primer lugar, utilizando la siguiente convención: Muy frecuentes
+( 1/10); frecuentes ( 1/100, < 1/10); poco frecuentes ( 1/1000, < 1/100); raras
+( 1/10.000), < 1/1.000); muy raras (< 1/10.000), incluyendo casos aislados.
+                                                                                                         MINISTERIO
+Tabla 1
+     Infecciones e infestaciones
+Raras :
+Trastornos del sistema nervioso
+Frecuentes:           Mareos
+Poco frecuentes:      Parestesias (p.ej. hormigueo), hipoestesia (p.ej. entumecimiento)
+Trastornos del oído y del laberinto
+Raras :               Vértigo
+Trastornos cardíacos
+Poco frecuentes:      Cianosis
+Raras :               Bradicardia , taquicardia
+Muy raras :           Isquemia miocárdica, infarto de miocardio
+     Trastornos vasculares
+Poco frecuentes:      Vasoconstricción periférica
+Raras :               Aumento de la presión sanguínea
+Muy raras :           Gangrena
+Trastornos respiratorios, torácicos y mediastínicos s
+Raras :               Disnea
+Trastornos gastrointestinales
+Frecuentes:           Náuseas y vómitos no relacionados con la migraña. Dolor abdominal
+Poco frecuentes:      Diarrea
+Trastornos de la piel y del tejido subcutáneo
+Raras :               Rash cutáneo, edema facial, urticaria
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Poco frecuentes:      Dolor en las extremidades
+Raras :               Mialgia
+Trastornos generales y alteraciones en el lugar de administración
+Poco frecuentes:      Debilidad en las extremidades
+Investigations
+Raras :               Falta de pulso
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos
+Raras :
+1
+Reacciones de hipersensibilidad como rash cutáneo, edema en la cara, urticaria y disnea.
+2
+Ergotismo se define como una vasoconstricción arterial intensa, produciendo signos y síntomas
+de isquemia vascular periférica.
+,
+-       Se ha descrito la aparición de cefaleas inducidas por el fármaco durante el
+tratamiento prolongado e ininterrumpido con Cafergot (ver apartado 4.4 Advertencias y
+precauciones especiales de empleo).
+ 4.9       Sobredosificación
+                                                                                                     MINISTERIO
+Síntomas: náuseas, vómitos, somnolencia, confusión, taquicardia, mareo, depresión
+respiratoria, hipotensión, convulsión, shock, coma, síntomas y complicaciones del
+ergotismo.
+       El ergotismo se define como una vasoconstricción arterial intensa, produciendo signos y
+síntomas de isquemia vascular periférica tales como entumecimiento, hormigueo y dolor
+en las extremidades, cianosis, ausencia de pulso. Si se dejan sin tratar las situaciones
+anteriormente descritas, puede llevar a la aparición de gangrena. La mayoría de casos de
+ergotismo están asociados con intoxicación crónica y/o sobredosis.
+Tratamiento: En caso de ingestión de fármaco se recomienda la administración de carbón
+activado. Si la ingesta es muy reciente puede considerarse el lavado gástrico. El
+tratamiento debe ser sintomático. En el caso de reacciones vasoespásticas severas, se
+recomienda la administración i.v. de un vasodilatador periférico como nitroprusiato,
+fentolamina o dihidralazina, aplicación local de calor en la zona afectada y cuidados para
+prevenir daño tisular. En el caso de constricción coronaria, deberá iniciarse un tratamiento
+apropiado como nitroglicerina.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+       Grupo farmacoterapéutico: preparados antimigrañosos, código ATC: N02C A52
+La ergotamina aborta los ataques de migraña con o sin aura por su acción vasotónica
+específica sobre las arterias craneales distendidas. La cafeína acelera y aumenta la
+absorción entérica de la ergotamina.
+ 5.2   Propiedades farmacocinéticas
+       Estudios realizados con ergotamina marcada con tritio indican que el 62% de una dosis
+oral se absorbe en el tracto gastrointestinal. Los niveles plasmáticos máximos se alcanzan
+2 horas después de la ingestión. La ergotamina se metaboliza extensamente en el hígado.
+La biodisponibilidad absoluta de fármaco inalterado es de aprox. 2% cuando se administra
+por vía oral y de aprox. el 5% cuando se administra por vía rectal. Se ha sugerido que los
+efectos terapéuticos del fármaco son en parte debidos a los metabolitos activos. La unión
+a proteínas es del 98%. El fármaco original y sus metabolitos se excretan principalmente
+por la bilis. La eliminación del plasma es bifásica, con semividas de 2,7 y 21 horas,
+respectivamente.
+La absorción de la cafeína es rápida y prácticamente completa y se metaboliza en gran
+proporción. Los metabolitos se excretan principalmente en orina. La semivida de
+eliminación plasmática es de aprox. 3,5 horas; la unión a proteínas es del 35%.
+ 5.3   Datos preclínicos sobre seguridad
+       Toxicidad aguda
+Tras inyección intravenosa única de Cafergot (ergotamina/cafeína 1:50), los valores de
+DL50 eran de 40 mg/kg en conejos, 124 mg/kg en ratas y 111 mg/kg en ratones. Tras
+administración oral única en ratones la DL50 fue 474 mg/kg.
+                                                                                                      MINISTERIO
+Toxicidad crónica y subcrónica
+En un estudio de seguridad de administración oral en perros beagle de 26 semanas de
+duración, la ergotamina indujo vómitos, salivación y disminución del ritmo cardíaco.
+Además, se observó necrosis superficial en el borde de la oreja que es un hallazgo común
+en perros de orejas caídas debido, al marcado efecto vasoconstrictor del fármaco.
+       Cancerogénesis
+No se dispone de datos sobre el potencial cancerogénico de la ergotamina.
+       Toxicidad en la reproducción
+Ergotamina no mostró evidencia de mortalidad embrionaria o efectos teratogénicos en
+conejos a dosis de 1, 3 y 10 mg/kg/día y en ratas a dosis de hasta 3 mg/kg/día. Sin
+embargo, en ratas que recibieron dosis de 10 mg/kg/día, se inhibió el aumento de peso
+materno, se retrasó la osificación fetal y aumentó la mortalidad prenatal. Dosis altas de
+ergotamina constriñen los vasos uterinos, reducen el aporte sanguíneo induciendo hipoxia,
+efecto conocido como el responsable de los efectos teratogénicos en las crías.
+La combinación de ergotamina y cafeína (1:100) no reveló potencial teratogénico en ratas
+y conejos. En un estudio del comportamiento reproductor en ratas macho, la fertilidad no
+se vio alterada. En un estudio del comportamiento reproductor y en un estudio peri-/post-
+natal en ratas hembra se observó un aumento del número abortos y/o de la mortalidad
+peri-/post-natal.
+En estudios en animales se observó que la cafeína es teratogénica sólo a dosis muy
+elevadas.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Relación de excipientes
+Óxido de hierro amarillo (E172), ácido tartárico, estearato magnésico, talco, almidón de
+maíz, celulosa microcristalina.
+ 6.2   Incompatibilidades
+No procede.
+ 6.3   Período de validez
+3 años.
+ 6.4   Precauciones especiales de conservación
+Conservar protegido de la luz. No conservar a temperatura superior a 25ºC.
+ 6.5   Naturaleza y contenido del recipiente
+Blíster aluminio/PVC. Cada blíster contiene 10 comprimidos.
+ 6.6   Instrucciones de uso y manipulación
+Sin instrucciones especiales.
+ 
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	                                                                                                  MINISTERIO
+8. NÚMERO (S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+17.558
+ 9. FECHA DE LA PRIMERA        AUTORIZACIÓN/   RENOVACIÓN   DE   LA
+AUTORIZACIÓN
+10-06-54/ 30-11-08
+ 10. FECHA LA REVISIÓN DEL TEXTO
+
+	Prospectos de medicamentos.

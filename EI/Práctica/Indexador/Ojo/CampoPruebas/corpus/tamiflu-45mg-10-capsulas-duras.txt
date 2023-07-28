@@ -1,0 +1,959 @@
+TAMIFLU 45MG 10 CAPSULAS DURAS
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Tamiflu 30 mg cápsulas duras
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula dura contiene una cantidad de oseltamivir fosfato equivalente a 30 mg de oseltamivir.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Cápsula dura.
+Las cápsulas duras están formadas por un cuerpo opaco amarillo claro con la inscripción ""ROCHE"" y
+una tapa opaca amarilla clara con la inscripción ""30 mg"". Las inscripciones son de color azul.
+ 
+
+"
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la gripe
+En pacientes de uno o más años de edad que presentan los síntomas característicos de la gripe, cuando
+el virus influenza está circulando en la población. Se ha demostrado la eficacia cuando el tratamiento
+se inicia en el periodo de dos días tras la aparición de los primeros síntomas. Esta indicación se basa
+en los ensayos clínicos de gripe adquirida naturalmente en los que la infección predominante fue por el
+virus influenza A (ver apartado 5.1).
+ Prevención de la gripe
+-    Prevención post-exposición en personas de uno o más años de edad tras el contacto con un caso
+de gripe diagnosticado clínicamente, cuando el virus influenza está circulando en la población.
+ -     El uso apropiado de Tamiflu en la prevención de la gripe se determinará caso por caso en
+función de las circunstancias y la población que necesite protección. En situaciones
+excepcionales (p.ej. en caso de no coincidir las cepas del virus circulante y de la vacuna, y en
+situación de pandemia) se podría considerar una prevención estacional en personas de uno o
+más años de edad.
+ Tamiflu no es un sustituto de la vacuna de la gripe.
+ El uso de antivirales para el tratamiento y prevención de la gripe debe determinarse basándose en las
+recomendaciones oficiales. En la toma de decisiones relativas a la utilización de antivirales para el
+tratamiento y prevención, se deben tener en cuenta los datos disponibles acerca de las caracteristicas
+de los virus circulantes y el impacto de la enfermedad en las diferentes áreas geográficas y poblaciones
+de pacientes.
+ 4.2   Posología y forma de administración
+ Tamiflu cápsulas y Tamiflu suspensión son formulaciones bioequivalentes. Las dosis de 75 mg se
+pueden administrar en forma de
+-     una cápsula de 75 mg o
+-     una cápsula de 30 mg y otra de 45 mg o
+-     en forma de una dosis de 30 mg y otra de 45 mg de la suspensión.
+ Los adultos, adolescentes o niños (> 40 kg) que no puedan tragar las cápsulas pueden recibir las dosis
+apropiadas de Tamiflu suspensión.
+                                                        2
+Tamiflu no está recomendado para uso en niños menores de un año de edad debido a la escasez de
+datos sobre seguridad y eficacia (ver apartado 5.3).
+ Tratamiento de la gripe
+El tratamiento debe iniciarse tan pronto como sea posible dentro de los dos primeros días desde que
+aparecen los síntomas de la gripe.
+ Para adolescentes (de 13 a 17 años de edad) y adultos: La dosis oral recomendada de oseltamivir es de
+75 mg dos veces al día durante 5 días.
+ Para niños de 1 a 12 años de edad: Tamiflu se encuentra disponible en forma de cápsulas de 30 mg y
+45 mg y suspensión oral.
+ Se recomienda la siguiente posología en función del peso:
+          Peso corporal                     Posología recomendada para 5 días
+15 kg                                  30 mg dos veces al día
+> 15 kg a 23 kg                         45 mg dos veces al día
+> 23 kg a 40 kg                         60 mg dos veces al día
+> 40 kg                                 75 mg dos veces al día
+ Para el tratamiento, y como alternativa a la dosis recomendada de Tamiflu suspensión, los niños que
+pesen > 40 kg y puedan tragar las cápsulas pueden recibir la dosificación de adultos de una cápsula de
+75 mg dos veces al día durante 5 días.
+ Prevención de la gripe
+Prevención post-exposición
+Para adolescentes (de 13 a 17 años de edad) y adultos: La dosis recomendada para prevenir la gripe
+tras un contacto directo con un individuo infectado es de 75 mg de oseltamivir una vez al día durante
+10 días. El tratamiento debe iniciarse tan pronto como sea posible dentro de los dos días posteriores a
+la exposición a un individuo infectado.
+ Para niños de 1 a 12 años de edad: Tamiflu se encuentra disponible en forma de cápsulas de 30 mg y
+45 mg y suspensión oral.
+ La posología recomendada de Tamiflu para la prevención post-exposición es:
+          Peso corporal                     Posología recomendada para 10 días
+15 kg                                    30 mg una vez al día
+> 15 kg a 23 kg                           45 mg una vez al día
+> 23 kg a 40 kg                           60 mg una vez al día
+> 40 kg                                   75 mg una vez al día
+ Para la prevención, y como alternativa a la dosis recomendada de Tamiflu suspensión, los niños que
+pesen > 40 kg y puedan tragar las cápsulas pueden tomar una cápsula de 75 mg una vez al día durante
+10 días.
+ Prevención durante una epidemia de gripe en la población
+La dosis recomendada para la prevención de la gripe durante un brote en la población es de 75 mg de
+oseltamivir una vez al día hasta 6 semanas.
+ Poblaciones especiales
+Insuficiencia hepática
+No es necesario ajustar la dosis ni para el tratamiento ni para la prevención en los pacientes con
+insuficiencia hepática. No se han realizado ensayos en niños con alteraciones hepáticas.
+                                                     3
+Insuficiencia renal
+Tratamiento de la gripe: Se recomienda ajustar la dosis en adultos con insuficiencia renal grave. La
+posología recomendada se detalla en la tabla siguiente.
+   Aclaramiento de Creatinina             Posología recomendada para el
+> 30 (ml/min)                        75 mg dos veces al día
+> 10 a  30 (ml/min)                      75 mg una vez al día,
+10 (ml/min)                            No recomendado
+pacientes con diálisis                     No recomendado
+ Prevención de la gripe: Se recomienda ajustar la dosis en adultos con insuficiencia renal grave como
+se detalla en la tabla siguiente.
+   Aclaramiento de Creatinina             Posología recomendada para la
+> 30 (ml/min)                         75 mg una vez al día
+> 10 a  30 (ml/min)                      75 mg cada dos días,
+10 (ml/min)                            No recomendado
+pacientes con diálisis                     No recomendado
+ Ancianos
+No es necesario ajustar la dosis, a menos que exista evidencia de insuficiencia renal grave.
+ Niños
+No existen datos suficientes en niños con insuficiencia renal para poder establecer la dosis
+recomendada.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Oseltamivir es eficaz únicamente frente a la enfermedad causada por el virus influenza. No existe
+evidencia de la eficacia de oseltamivir en otras enfermedades causadas por agentes distintos del virus
+influenza.
+ No se han establecido la eficacia y seguridad de oseltamivir en el tratamiento y prevención de la gripe
+en niños de menos de 1 año de edad (ver apartado 5.3).
+ No hay información disponible respecto a la seguridad y eficacia de oseltamivir en pacientes con
+alguna afección médica suficientemente grave o inestable que se considere que están en riesgo
+inminente de requerir hospitalización.
+ No se han establecido la seguridad y eficacia de oseltamivir ni en el tratamiento ni en la prevención de
+la gripe en pacientes inmunocomprometidos.
+ No se ha establecido la eficacia de oseltamivir en el tratamiento de sujetos con enfermedad cardiaca
+crónica y/o enfermedad respiratoria. No se observó en esta población ninguna diferencia en la
+incidencia de complicaciones entre los grupos de tratamiento activo y placebo (ver apartado 5.1).
+                                                     4
+Tamiflu no es un sustituto de la vacuna de la gripe. El uso de Tamiflu no debe afectar a la valoración
+de las personas sobre la vacunación anual de la gripe. La protección frente a la gripe se mantiene
+solamente mientras se esté administrando Tamiflu. Sólo debe administrarse Tamiflu como tratamiento
+y prevención de la gripe cuando datos epidemiológicos fiables indiquen que el virus influenza está
+circulando en la población.
+ Insuficiencia renal grave
+Se recomienda ajustar las dosis de prevención y tratamiento en adultos con insuficiencia renal grave.
+No existen datos suficientes en niños con insuficiencia renal para poder establecer la dosis
+recomendada (ver secciones 4.2 y 5.2).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Las propiedades farmacocinéticas de oseltamivir, como son la escasa unión a proteínas y el
+metabolismo independiente de los sistemas del citocromo P450 y de la glucuronidasa (ver apartado
+5.2), sugieren que las interacciones clínicamente relevantes a través de estos mecanismos son poco
+probables.
+No se requieren ajustes de dosis en la administración concomitante con probenecid en pacientes con la
+función renal normal. La administración concomitante de probenecid, un potente inhibidor de los
+transportadores aniónicos de la secreción tubular renal, aproximadamente duplica la exposición al
+metabolito activo de oseltamivir.
+Oseltamivir no presenta ninguna interacción cinética con amoxicilina, que se elimina a través de la
+misma vía, lo que sugiere que la interacción de oseltamivir con esta vía es limitada.
+Las interacciones medicamentosas clínicamente importantes basadas en una competición por la
+secreción tubular renal son poco probables, dado el margen de seguridad conocido de la mayoría de
+estas sustancias, las características de eliminación del metabolito activo (filtración glomerular y
+secreción tubular aniónica) y la capacidad excretora de estas vías. Sin embargo, se deben tomar
+precauciones cuando se prescriba oseltamivir en sujetos que estén tomando fármacos con un estrecho
+margen terapéutico y que se eliminan conjuntamente (p.ej. clorpropamida, metotrexato,
+fenilbutazona).
+No se han observado interacciones farmacocinéticas entre oseltamivir o su principal metabolito
+cuando oseltamivir se administra conjuntamente con paracetamol, ácido acetilsalicílico, cimetidina o
+antiácidos (hidróxidos de aluminio o magnesio y carbonatos cálcicos).
+ 4.6   Embarazo y lactancia
+ No existen datos suficientes sobre la utilización de oseltamivir en mujeres embarazadas. Los estudios
+en animales no muestran efectos dañinos directos o indirectos sobre el embarazo, desarrollo
+embrionario/fetal, parto o desarrollo postnatal (ver apartado 5.3). No debe utilizarse oseltamivir durante
+el embarazo salvo que el beneficio potencial para la madre justifique el riesgo potencial para el feto.
+ En ratas lactantes, oseltamivir y el metabolito activo se excretan en la leche. Se desconoce si
+oseltamivir o el metabolito activo se excretan en la leche humana. Oseltamivir sólo debe administrarse
+durante la lactancia si el beneficio potencial para la madre lactante justifica el posible riesgo para el
+lactante.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Tamiflu no tiene influencia sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ El perfil general de seguridad de Tamiflu se basa en los datos obtenidos de los ensayos clínicos
+realizados en 2.107 adultos y 1.032 niños que recibieron Tamiflu para el tratamiento de la gripe y de
+2.914 adultos y 99 niños que tomaban Tamiflu para prevenir la gripe.
+Las reacciones adversas notificadas más frecuentemente en los adultos que participaron en los ensayos
+de tratamiento fueron vómitos y náuseas mientras que para los ensayos de prevención fueron náuseas
+                                                     5
+y dolor de cabeza. La mayoría de estas reacciones adversas se notificaron en una única ocasión bien el
+primer o segundo día de tratamiento y se resolvieron espontáneamente en 1-2 días. En niños, la
+reacción adversa notificada más frecuentemente fueron los vómitos.
+ Las reacciones adversas incluidas en la tablas que se presentan a continuación se han clasificado según
+las siguientes categorías: Muy frecuentes ( 1/10), Frecuentes ( 1/100, < 1/10), Poco frecuentes
+(1/1.000, <1/100), Raras (1/10.000, <1/1.000), Muy raras (<1/10.000) y frecuencia no conocida (no
+puede estimarse a partir de los datos disponibles). Las reacciones adversas se incluyen en las tablas
+dentro de la categoría correspondiente según el análisis conjunto de los datos procedentes de los
+ensayos clínicos. Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de
+cada intervalo de frecuencia.
+ Tratamiento y prevención de la gripe en adultos y adolescentes:
+ Reacciones adversas más frecuentes ( 1 % en el grupo de oseltamivir) notificadas durante los
+ensayos clínicos realizados con Tamiflu para el tratamiento y prevención de la gripe en adultos y
+adolescentes o mediante el sistema de vigilancia postcomercialización
+  Clasificación por Órganos y             Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                        adversa
+Intervalo de Frecuencia
+Reacción Adversa                      Oseltamivir     Placebo      Oseltamivir      Placebo
+Infecciones e infestaciones
+Frecuentes:
+Bronquitis                                4%             5%               1%             1%
+Bronquitis aguda                          1%             1%               0%             <1%
+Infecciones del tracto respiratorio       0%             0%               8%              8%
+superior
+Trastornos psiquiátricos
+Poco frecuentes:
+Alucinacionesa                           <1%             0%              <1%              0%
+Trastornos del sistema nervioso
+Muy Frecuentes:
+Dolor de cabeza                           2%             2%              20 %            18 %
+Frecuentes:
+Insomnio                                  1%             1%               1%              1%
+Poco frecuentes:
+Convulsionesa                            <1%             0%               0%              0%
+Trastornos del oído y del
+laberinto
+Frecuentes:
+Vertigo                                   1%             1%              <1%             <1%
+Trastornos respiratorios,
+torácicos y mediastínicos
+Frecuentes:
+Tos                                      1%              1%               6%              6%
+Rinorrea                                 <1%             0%               2%              1%
+Trastornos gastrointestinales
+Muy Frecuentes:
+Náuseasb,c                               11 %            7%               8%              4%
+Frecuentes:
+Vómitosc                                  8%             3%               2%              1%
+Dolor abdominal                           2%             2%               2%              2%
+Diarrea                                   6%             8%               3%              3%
+Dispepsia                                 1%             1%               2%              2%
+Clasificación por Órganos y             Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                        adversa
+Intervalo de Frecuencia
+Reacción Adversa                      Oseltamivir     Placebo      Oseltamivir      Placebo
+Trastornos de la piel y del téjido
+subcutáneo
+Poco frecuentes:
+Dermatitisa                              <1%             <1%              1%               1%
+Rasha                                    <1%             <1%            <1%               <1%
+Urticariaa                               <1%             <1%            <1%               <1%
+a
+Eccema                                   <1%              0%            <1%               <1%
+Trastornos generales
+Frecuentes:
+Mareo                                     2%              3%              2%               2%
+Cansancio                                 1%              1%              8%               8%
+Dolor                                    <1%             <1%             4%                3%
+a
+Estos acontecimientos se han identificado en la vigilancia postcomercialización. También se han
+notificado en el conjunto de ensayos clínicos con la frecuencia que aparece en la tabla de arriba.
+b
+Sujetos que experimentaron sólo náuseas; se excluyen los sujetos que experimentaron náuseas
+asociadas con vómitos.
+c
+La diferencia entre los grupos de placebo y oseltamivir fue estadísticamente significativa.
+ Tratamiento y prevención de la gripe en niños:
+ En la tabla siguiente se incluyen las reacciones adversas notificadas más frecuentemente durante los
+ensayos clínicos en población pediátrica.
+ Reacciones adversas más frecuentes notificadas en niños ( 1 % en el grupo de oseltamivir en
+ensayos de tratamiento y  10 % en ensayos de prevención)
+  Clasificación por Órganos y              Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                         adversa
+Intervalo de Frecuencia
+Reacción Adversa                                                  Oseltamivir
+Infecciones e infestaciones
+Frecuentes:
+Neumonia                                  2%              3%             0%               0%
+Sinusitis                                 2%             3%              0%               0%
+Bronquitis                                2%             2%              2%               0%
+Otitis media                              9%             11 %            1%               2%
+Trastornos de la sangre y del
+sistema linfático
+Frecuentes:
+Linfadenopatía                            1%             2%             <1%               0%
+Trastornos respiratorios,
+torácicos y mediastínicos
+Frecuentes:
+Asma (incluyendo                          4%             4%              0%               1%
+empeoramiento)
+Epistaxis                                 3%             3%              1%               1%
+ Clasificación por Órganos y              Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                         adversa
+Intervalo de Frecuencia
+Reacción Adversa                      Oseltamivir     Placebo     Oseltamivir   Oseltamivir
+Trastornos gastrointestinales
+Muy Frecuentes:
+Vómitos                                   15 %             9%          20 %              10 %
+Diarrea                                   10 %            11 %          3%               1%
+Frecuentes:
+Náuseas                                    3%              4%           6%                4%
+Dolor abdominal                            5%              4%           2%                1%
+Trastornos oculares
+Frecuentes:
+Conjuntivitis                              1%            <1%            0%               0%
+Trastornos del oído y del
+laberinto
+Frecuentes:
+Trastorno del oídoc                        2%             1%            0%               0%
+Trastorno de la membrana                   1%             1%            0%               0%
+timpánica
+Trastornos de la piel y del téjido
+subcutáneo
+Frecuentes:
+Dermatitis                                 1%             2%           <1%               0%
+a
+El ensayo de prevención no tenía brazo de placebo, es decir, era un ensayo no controlado.
+b
+Dosis unitaria = la posología es en función del peso (ver apartado 4.2).
+c
+Pacientes que tuvieron dolor de oídos.
+ En general, el perfil de acontecimientos adversos en los niños que ya tenían asma bronquial fue
+cualitativamente similar al de los niños sanos.
+ Datos adicionales procedentes de la vigilancia postcomercialización en relación con algunas
+reacciones adversas graves:
+ Trastornos del sistema inmunológico:
+Frecuencia no conocida: Reacciones de hipersensibilidad incluyendo reacciones
+anafilácticas/anafilactoides.
+ Trastornos psiquiátricos y trastornos del sistema nervioso:
+Frecuencia no conocida: Convulsiones y trastornos psiquiátricos tales como disminución del nivel de
+consciencia, alteraciones del comportamiento, alucinación y delirio. En raras ocasiones, el delirio dio
+como resultado lesiones por accidente. Estos síntomas se han notificado principalmente en niños y
+adolescentes. También se han notificado convulsiones y síntomas psiquiátricos en pacientes con gripe
+que no estaban tomando Tamiflu.
+ Trastornos gastrointestinales:
+Frecuencia no conocida: Hemorragia gastrointestinal y colitis hemorrágica.
+ Trastornos hepatobiliares:
+Frecuencia no conocida: Trastornos del sistema hepatobiliar, incluyendo hepatitis y aumento de las
+enzimas hepáticas en pacientes con enfermedad pseudogripal. Estos casos incluyen desde insuficiencia
+hepática a hepatitis fulminante mortal.
+ Trastornos de la piel y del tejido subcutáneo:
+Frecuencia no conocida: Trastornos graves de la piel, incluyendo el síndrome de Stevens-Johnson,
+necrólisis epidérmica tóxica, eritema multiforme y edema angioneurótico.
+ Información adicional en poblaciones especiales:
+No hubo diferencias clínicamente relevantes en la seguridad entre ancianos que recibieron oseltamivir
+o placebo y adultos de hasta 65 años de edad.
+ El perfil de acontecimientos adversos en adolescentes y en pacientes con enfermedad cardiaca y/o
+respiratoria crónica fue cualitativamente similar al de los adultos jóvenes sanos.
+ 4.9   Sobredosis
+ No se dispone de ninguna experiencia con casos de sobredosis. No obstante, cabe anticipar que las
+manifestaciones de intoxicación aguda consistirán en náuseas, con o sin vómitos, y vértigos. Los
+pacientes deben interrumpir el tratamiento en el caso de sobredosis. No se conoce el antídoto
+específico.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antiviral, código ATC: J05AH02
+ Oseltamivir fosfato es un profármaco del metabolito activo (oseltamivir carboxilato), que actúa como
+inhibidor selectivo de las enzimas neuraminidasas del virus influenza, que son glucoproteínas que se
+encuentran en la superficie del virión. La actividad de la neuraminidasa viral es importante para la
+entrada del virus en la célula no infectada y para la liberación de las partículas virales recién formadas
+a partir de las células infectadas, y para la diseminación posterior del virus infeccioso por el
+organismo.
+ Oseltamivir carboxilato inhibe in vitro las neuraminidasas del virus influenza A y B. Oseltamivir
+fosfato inhibe in vitro la infección y replicación del virus influenza. Oseltamivir administrado
+oralmente inhibe la replicación y la patogenicidad del virus influenza A y B in vivo, en modelos
+animales de infección de gripe, con exposiciones a antivirales similares a las alcanzadas en humanos
+con 75 mg dos veces al día.
+ La actividad antiviral de oseltamivir frente al virus influenza A y B se demostró con los ensayos de
+provocación experimental en voluntarios sanos.
+ Los valores de CI50 de oseltamivir para la neuraminidasa en las cepas de virus influenza A aisladas
+clínicamente estaban comprendidos entre 0,1 nM a 1,3 nM, y en las de influenza B fue 2,6 nM. Se han
+observado en los ensayos publicados valores superiores de CI50 para el virus influenza B, hasta una
+mediana de 8,5 nM.
+ Sensibilidad reducida de la neuraminidasa viral
+En los ensayos clínicos realizados hasta la fecha en la prevención de la gripe post-exposición (7 días),
+post-exposición en grupos familiares (10 días) y estacional (42 días), no hay evidencia de la aparición
+de resistencia al fármaco asociada al uso de Tamiflu.
+ El riesgo de aparición de cepas de virus influenza con susceptibilidad reducida o resistencia clara a
+oseltamivir ha sido estudiado en ensayos clínicos realizados por Roche. Todos aquellos pacientes que
+fueron portadores transitorios de cepas de virus resistentes a oseltamivir fueron capaces de eliminarlo
+de forma natural sin que se observara deterioro clínico.
+                                                     9
+Población de Pacientes        Fenotipado*            Geno- y Fenotipado*
+Adultos y adolescentes      4/1.245 (0,32%)             5/1.245 (0,4%)
+Niños (1-12 años)            19/464 (4,1%)               25/464 (5,4%)
+* El genotipado completo no se realizó en todos los ensayos.
+ La tasa de aparición de resistencias puede ser mayor en la población más joven y en pacientes
+inmunodeprimidos. Se ha obervado que las cepas resistentes a oseltamivir aisladas de pacientes
+tratados con oseltamivir así como las que fueron creadas en el laboratorio presentan mutaciones en las
+neuronaminidasas N1 y N2. Las mutaciones de resistencia parecen originar un subtipo de virus
+específico (incluyendo aquellas encontradas en variantes del H5N1).
+ Las mutaciones ocurridas de forma espontánea en el virus influenza A/H1N1 y que se asocian con una
+menor susceptibilidad a oseltamivir in vitro, han sido detectadas en pacientes que, según la
+información notificada, no habían sido expuestos a oseltamivir. El grado de reducción de la
+susceptibilidad a oseltamivir y la prevalencia de estos virus parece variar estacional y
+geográficamente.
+ Tratamiento de la infección gripal
+Oseltamivir es únicamente efectivo frente a la enfermedad causada por el virus influenza. Por lo tanto,
+los análisis estadísticos se presentan solamente para sujetos infectados por el virus influenza. En la
+población por intención de tratar (ITT) agrupada de los ensayos de tratamiento, que incluyó sujetos
+tanto positivos como negativos para el virus influenza, la eficacia primaria se redujo de forma
+proporcional al número de individuos negativos para el virus influenza. Globalmente, en la población
+tratada, se confirmó la infección gripal en el 67 % (rango de 46 % a 74 %) de los pacientes reclutados.
+De los pacientes ancianos, el 64 % fueron positivos para el virus influenza, y de los que tenían
+enfermedad respiratoria y/o cardiaca crónica, el 62 % fueron positivos para el virus influenza. En
+todos los ensayos fase III de tratamiento, los pacientes fueron reclutados únicamente durante el
+periodo en el que el virus influenza se encontraba circulando en la población local.
+ Adultos y adolescentes de 13 o más años de edad: Los pacientes cumplían los requisitos si
+presentaban, dentro de las 36 horas del inicio de los síntomas, fiebre  37,8ºC acompañada por al
+menos un síntoma respiratorio (tos, síntomas nasales o dolor de garganta) y al menos un síntoma
+sistémico (dolor muscular, escalofrío/sudor, malestar, cansancio o dolor de cabeza). En un análisis
+agrupado de todos los adultos y adolescentes positivos para el virus influenza (N = 2.413) que
+participaban en ensayos de tratamiento de la gripe, 75 mg de oseltamivir dos veces al día durante
+5 días redujeron la mediana de duración de la enfermedad gripal en aproximadamente un día, de
+5,2 días (IC 95 %: 4,9 ­ 5,5 días) en el grupo placebo a 4,2 días (IC 95 %: 4,0 ­ 4,4 días; p  0,0001).
+ La proporción de sujetos que desarrollaron complicaciones especificadas del tracto respiratorio
+inferior (principalmente bronquitis) tratados con antibióticos, se redujo del 12,7 % (135/1.063) en el
+grupo placebo al 8,6 % (116/1.350) en la población tratada con oseltamivir (p = 0,0012).
+ Tratamiento de la gripe en la población de alto riesgo: La mediana de la duración de la enfermedad de
+la gripe en sujetos ancianos ( 65 años) y en sujetos con enfermedad cardiaca y/o respiratoria crónicas
+que recibieron 75 mg de oseltamivir dos veces al día durante 5 días, no se redujo significativamente.
+La duración total de la fiebre se redujo en un día en los grupos tratados con oseltamivir. En los
+ancianos positivos para el virus influenza, oseltamivir redujo significativamente la incidencia de
+complicaciones especificadas del tracto respiratorio inferior (principalmente bronquitis) tratadas con
+antibióticos, desde el 19 % (52/268) en el grupo placebo al 12 % (29/250) en la población tratada con
+oseltamivir (p = 0,0156).
+ En los pacientes positivos para el virus influenza con enfermedad cardiaca y/o respiratoria crónicas, la
+incidencia combinada de las complicaciones del tracto respiratorio inferior (principalmente bronquitis)
+tratadas con antibióticos fue del 17 % (22/133) en el grupo placebo y del 14 % (16/188) en la
+población tratada con oseltamivir (p = 0,5976).
+ Tratamiento de la gripe en niños: En un ensayo de diferentes niños sanos (65 % positivos para el virus
+influenza) con edades de 1 a 12 años (edad media 5,3 años) que tenían fiebre ( 37,8 ºC) además de
+tos o catarro, el 67 % de los pacientes positivos para el virus influenza estaban infectados con virus
+influenza A y el 33 % con influenza B. El tratamiento con oseltamivir comenzado dentro de las 48
+horas del inicio de los síntomas redujo significativamente el tiempo libre de enfermedad (definido
+como la recuperación simultánea de la actividad y salud normal y el alivio de la fiebre, tos y catarro)
+en 1,5 días (IC 95 %: 0,6 ­ 2,2 días; p < 0,0001) comparado con el placebo. En niños oseltamivir
+redujo la incidencia de otitis media aguda de 26,5 % (53/200) en el grupo placebo a 16 % (29/183) en
+el tratado con oseltamivir (p = 0,013).
+ Se completó un segundo ensayo en 334 niños asmáticos con edades de 6 a 12 años de los cuales
+53,6 % fueron positivos para el virus influenza. En el grupo tratado con oseltamivir, la mediana de la
+duración de la enfermedad no se redujo significativamente. En el día 6 (último día de tratamiento) el
+volumen espiratorio forzado en un segundo (FEV1) había aumentado en un 10,8 % en el grupo tratado
+con oseltamivir, comparado con el 4,7 % en el grupo placebo (p = 0,0148) en esta población.
+ Tratamiento de la infección de gripe B: Globalmente, el 15 % de la población positiva para el virus
+influenza estaba infectada por el virus influenza B, oscilando entre el 1 al 33 % en los ensayos
+individuales. La mediana de la duración de la enfermedad en los sujetos infectados con el virus
+influenza B no fue significativamente diferente entre los grupos de tratamiento en los ensayos
+individuales. Se agruparon los datos de 504 sujetos infectados con el virus influenza B de todos los
+ensayos para su análisis. Oseltamivir redujo el tiempo hasta el alivio de todos los síntomas en 0,7 días
+(IC 95 %: 0,1 ­ 1,6 días; p = 0,022), y la duración de la fiebre ( 37,8°C), tos y coriza en un día (IC
+95 %: 0,4 ­ 1,7 días; p < 0,001) en comparación con placebo.
+ Prevención de la gripe
+La eficacia de oseltamivir en la prevención de la enfermedad gripal adquirida naturalmente se ha
+demostrado en un ensayo de prevención post-exposición en familias y en dos ensayos de prevención
+estacional. La variable primaria de eficacia de todos estos ensayos fue la incidencia de la gripe
+confirmada por análisis de laboratorio. La virulencia de las epidemias de gripe no es predecible y varía
+dentro de una región y de una a otra estación, por tanto, varía también el número necesario de sujetos a
+tratar (NNT) para prevenir un caso de enfermedad gripal.
+ Prevención post-exposición: En un ensayo en contactos (12,6 % vacunados frente a la gripe) con un
+caso de gripe manifiesto, el tratamiento con oseltamivir 75 mg una vez al día se inició dentro de los
+2 días del comienzo de los síntomas en el caso manifiesto, y se continuó durante siete días. La
+enfermedad gripal se confirmó en 163 de los 377 casos manifiestos. Oseltamivir redujo
+significativamente la incidencia de la enfermedad gripal clínica producida en los contactos de casos
+confirmados de enfermedad gripal de 24/200 (12 %) en el grupo placebo a 2/205 (1 %) en el grupo de
+oseltamivir (reducción del 92 % [IC 95 %: 6 - 16; p  0,0001]). El número necesario de sujetos a tratar
+(NNT) en contactos de casos de gripe verdaderos fue de 10 (IC 95 %: 9 ­ 12), frente a 16 (IC
+95 %: 15 - 19 ) en el total de la población por intención de tratar (ITT), independientemente del estatus
+de infección en el caso manifiesto.
+ En un ensayo de prevención post-exposición en familias en el que participaron adultos, adolescentes y
+niños de 1 a 12 años, se ha demostrado la eficacia de oseltamivir en la prevención de la gripe adquirida
+naturalmente tanto en los casos manifiestos como en los de contactos familiares. La variable primaria
+de eficacia para este ensayo fue la incidencia de gripe clínica confirmada por análisis de laboratorio en
+hogares. La profilaxis con oseltamivir duró 10 días. En el total de la población, la incidencia de gripe
+clínica confirmada por análisis de laboratorio en hogares se redujo de un 20 % (27/136) en el grupo
+que no recibió prevención a un 7 % (10/135) en el grupo que recibió prevención (reducción del 62,7 %
+[IC 95 %: 26,0 - 81,2; p = 0,0042]). En los casos manifiestos infectados por gripe en hogares, hubo
+una reducción de la incidencia de gripe de un 26 % (23/89) en el grupo que no recibió prevención a un
+11 % (9/84) en el grupo que recibió prevención (reducción del 58,5 % [IC 95 %: 15,6 - 79,6;
+p = 0,0114]).
+De acuerdo con el análisis del subgrupo de niños de 1 a 12 años de edad, la incidencia de gripe clínica
+en niños confirmada por análisis de laboratorio se redujo significativamente de un 19 % (21/111) en el
+                                                    11
+grupo que no recibió prevención a un 7 % (7/104) en el grupo que recibió prevención (reducción del
+64,4 % [IC 95 %: 15,8 - 85,0; p = 0,0188]). La incidencia de gripe clínica confirmada por análisis de
+laboratorio en niños que no estaban eliminando el virus en el momento de iniciar el ensayo, se redujo
+de un 21 % (15/70) en el grupo que no recibió prevención a un 4 % (2/47) en el grupo que recibió
+prevención (reducción del 80,1 % [IC 95 %: 22,0 - 94,9; p = 0,0206]). El NNT para la población total
+pediátrica fue de 9 (IC 95 %: 7 - 24) y 8 (IC 95 %: 6, límite superior no estimable) en la población por
+intención de tratar (ITT) global y en la de contactos pediátricos de casos manifiestos infectados (ITT-
+II), respectivamente.
+ Prevención durante una epidemia de gripe en la población: En un análisis agrupado de otros dos
+ensayos realizados en adultos sanos no vacunados, oseltamivir 75 mg una vez al día administrado
+durante 6 semanas redujo significativamente la incidencia de enfermedad gripal clínica de 25/519
+(4,8 %) en el grupo de placebo a 6/520 (1,2 %) en el grupo de oseltamivir (76 % de reducción [IC
+95 %: 1,6 - 5,7; p = 0,0006]) durante un brote de gripe en la población. El NNT en este ensayo fue de
+28 (IC 95 %: 24-50).
+En un ensayo en ancianos residentes en residencias geriátricas, donde el 80 % de los participantes
+habían sido vacunados en la estación del ensayo, oseltamivir 75 mg una vez al día administrado
+durante 6 semanas redujo significativamente la incidencia de enfermedad gripal clínica, de 12/272
+(4,4 %) en el grupo placebo, a 1/276 (0,4 %) en el de oseltamivir (reducción del 92 % [IC 95 %: 1,5 -
+6,6; p = 0,0015]). El NNT en este ensayo fue de 25 (IC 95 %: 23-62).
+ No se han realizado ensayos específicos para evaluar una posible reducción del riesgo de
+complicaciones.
+ 5.2   Propiedades farmacocinéticas
+ Absorción
+Oseltamivir se absorbe fácilmente en el tracto gastrointestinal después de la administración oral de
+oseltamivir fosfato (profármaco) y se transforma ampliamente en su metabolito activo (oseltamivir
+carboxilato), principalmente por las esterasas hepáticas. Como mínimo, el 75 % de la dosis oral llega a
+la circulación sistémica en forma del metabolito activo. La exposición al profármaco representa menos
+del 5 % de la exposición al metabolito activo. Las concentraciones plasmáticas del profármaco y del
+metabolito activo son proporcionales a la dosis y no se alteran con la administración concomitante de
+los alimentos.
+ Distribución
+El volumen medio de distribución en estado de equilibrio de oseltamivir carboxilato es de
+aproximadamente 23 litros en el ser humano, un volumen equivalente al líquido extracelular corporal.
+Puesto que la actividad de la neuraminidasa es extracelular, oseltamivir carboxilato se distribuye a
+todos los lugares de diseminación del virus influenza.
+ La unión de oseltamivir carboxilato a las proteínas del plasma humano es despreciable (aprox. 3 %).
+ Metabolismo
+Oseltamivir se convierte ampliamente en oseltamivir carboxilato por acción de las esterasas,
+principalmente en el hígado. Los estudios in vitro han demostrado que ni oseltamivir ni el metabolito
+activo son sustratos, ni tampoco son inhibidores, de las principales isoformas del citocromo P450. No
+se han identificado in vivo conjugados de fase 2 de ninguno de los compuestos.
+ Eliminación
+La fracción absorbida de oseltamivir se elimina principalmente (> 90 %) mediante su conversión en
+oseltamivir carboxilato que ya no se metaboliza más, sino que se elimina en la orina. Las
+concentraciones plasmáticas máximas de oseltamivir carboxilato disminuyen con una semivida de 6 a
+10 horas en la mayoría de las personas. El metabolito activo se elimina exclusivamente por excreción
+renal. El aclaramiento renal (18,8 l/h) es superior a la tasa de filtración glomerular (7,5 l/h), lo que
+indica que además de la filtración glomerular tiene lugar secreción tubular. Menos del 20 % de la dosis
+oral marcada radiactivamente se elimina en las heces.
+                                                    12
+Insuficiencia renal
+La administración de 100 mg de oseltamivir fosfato dos veces al día, durante 5 días, a pacientes con
+diferentes grados de insuficiencia renal demostró que la exposición a oseltamivir carboxilato es
+inversamente proporcional al deterioro de la función renal. Para ajustes posológicos, ver sección 4.2.
+ Insuficiencia hepática
+De los estudios in vitro se concluye que en los pacientes con insuficiencia hepática no cabe esperar un
+aumento significativo de la exposición al oseltamivir ni tampoco una disminución significativa de la
+exposición a su metabolito activo (ver apartado 4.2).
+ Ancianos
+La exposición al metabolito activo en el estado de equilibrio resultó un 25 a 35 % más alta en ancianos
+(edad entre 65 a 78 años) que en adultos menores de 65 años con dosis comparables de oseltamivir.
+Las semividas de eliminación observadas en ancianos se asemejaron a las de los adultos jóvenes.
+Teniendo en cuenta la exposición y la tolerabilidad de este medicamento, no se precisa ningún ajuste
+posológico en los pacientes ancianos, a menos que haya evidencia de insuficiencia renal grave
+(aclaramiento de creatinina inferior a 30 ml/min) (ver apartado 4.2).
+ Niños
+La farmacocinética de oseltamivir se ha investigado en estudios farmacocinéticos de dosis única en
+niños con edades de 1 a 16 años. La farmacocinética a dosis múltiples se estudió en un pequeño
+número de niños que participaban en un ensayo de eficacia clínica. Los niños más jóvenes eliminaron
+tanto el profármaco como su metabolito activo más rápidamente que los adultos, dando como
+resultado una exposición menor para una misma dosis mg/kg. Con dosis de 2 mg/kg se alcanzan
+exposiciones a oseltamivir carboxilato comparables a las alcanzadas en adultos que reciben una dosis
+única de 75 mg (aproximadamente 1 mg/kg). Los datos farmacocinéticos de oseltamivir en niños de
+más de 12 años de edad son similares a los obtenidos en adultos.
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos preclínicos no revelan ningún riesgo particular para el ser humano, de acuerdo con los
+estudios convencionales sobre seguridad farmacológica, toxicidad de dosis repetidas y genotoxicidad.
+Los resultados de los estudios convencionales de carcinogénesis en roedores mostraron una tendencia
+hacia un aumento dosis-dependiente de algunos tumores que son típicos en las cepas de roedores
+utilizadas. Considerando los márgenes de exposición con respecto a la exposición esperada en el uso
+humano, estos hallazgos no cambian el beneficio-riesgo de Tamiflu en sus indicaciones terapéuticas
+aprobadas.
+ Se realizaron estudios teratológicos en ratas y conejos a dosis de hasta 1.500 mg/kg/día y
+500 mg/kg/día, respectivamente. No se observaron efectos sobre el desarrollo fetal. Un estudio de
+fertilidad en ratas a dosis de hasta 1.500 mg/kg/día demostró que no hubo efectos adversos sobre ratas
+de ambos sexos. En los estudios pre- y post-natales en ratas se observó una prolongación del parto a
+1.500 mg/kg/día: el margen de seguridad entre la exposición en humanos y la dosis máxima sin efecto
+(500 mg/kg/día) en ratas es de 480 veces para oseltamivir y 44 veces para el metabolito activo,
+respectivamente. La exposición fetal en ratas y conejos fue aproximadamente el 15 al 20 % de la de la
+madre.
+ En ratas en periodo de lactancia, oseltamivir y el metabolito activo se excretan en la leche. No se sabe
+si oseltamivir o el metabolito activo se excretan en la leche humana, pero la extrapolación de los datos
+de los animales da una estimación de 0,01 mg/día y 0,3 mg/día para los compuestos respectivos.
+ Se observó para oseltamivir un potencial de sensibilización de la piel, en un ensayo de
+""maximización"" en cobayas. Aproximadamente el 50 % de los animales tratados con el principio
+activo sin formular mostraron eritema tras la exposición de los animales inducidos. Se detectó una
+irritación reversible de los ojos en conejos.
+ En un estudio de dos semanas en ratas no destetadas, una dosis única de 1.000 mg/kg de oseltamivir
+fosfato administrada a cachorros de 7 días de edad produjo casos de muerte asociada con una
+exposición inusualmente alta al pro-fármaco. Sin embargo, a 2.000 mg/kg en cachorros no destetados
+de 14 días de edad, no hubo muertes ni otros efectos significativos. No aparecieron efectos adversos a
+500 mg/kg/día administrados de 7 a 21 días post-parto. En un estudio exploratorio de dosis única
+realizado con ratas de 7, 14 y 24 días de edad, a las que se administró una dosis de 1.000 mg/kg, se
+obtuvo una exposición cerebral al profármaco de 1.500, 650 y 2 veces mayor, respectivamente, a la
+exposición encontrada en el cerebro de la rata adulta (42 días de edad).
+ "
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Contenido de la cápsula:
+Almidón pregelatinizado (derivado del almidón de maíz)
+Talco
+Povidona
+Croscarmelosa sódica
+Estearilfumarato sódico
+ Cubierta de la cápsula:
+Gelatina
+Óxido de hierro amarillo (E172)
+Óxido de hierro rojo (E172)
+Dióxido de titanio (E171)
+ Tinta de impresión:
+Goma laca
+Dióxido de titanio (E171)
+FD y C Blue 2 (índigo carmín, E132)
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 5 años
+ 6.4   Precauciones especiales de conservación
+ No requiere condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del envase
+ Una caja contiene 10 cápsulas en un envase blíster tríplex (PVC/PE/PVDC, sellado con una lámina de
+aluminio).
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Roche Registration Limited
+6 Falcon Way
+Shire Park
+Welwyn Garden City
+AL7 1TW
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/02/222/003
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 20 junio 2002
+Fecha de la última renovación: 20 junio 2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia
+Europea del Medicamento (EMEA) http://www.emea.europa.eu/.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Tamiflu 45 mg cápsulas duras
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula dura contiene una cantidad de oseltamivir fosfato equivalente a 45 mg de oseltamivir.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Cápsula dura.
+Las cápsulas duras están formadas por un cuerpo opaco gris con la inscripción ""ROCHE"" y una tapa
+opaca gris con la inscripción ""45 mg"". Las inscripciones son de color azul.
+ "
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la gripe
+En pacientes de uno o más años de edad que presentan los síntomas característicos de la gripe, cuando
+el virus influenza está circulando en la población. Se ha demostrado la eficacia cuando el tratamiento
+se inicia en el periodo de dos días tras la aparición de los primeros síntomas. Esta indicación se basa
+en los ensayos clínicos de gripe adquirida naturalmente en los que la infección predominante fue por el
+virus influenza A (ver apartado 5.1).
+ Prevención de la gripe
+-    Prevención post-exposición en personas de uno o más años de edad tras el contacto con un caso
+de gripe diagnosticado clínicamente, cuando el virus influenza está circulando en la población.
+ -     El uso apropiado de Tamiflu en la prevención de la gripe se determinará caso por caso en
+función de las circunstancias y la población que necesite protección. En situaciones
+excepcionales (p.ej. en caso de no coincidir las cepas del virus circulante y de la vacuna, y en
+situación de pandemia) se podría considerar una prevención estacional en personas de uno o
+más años de edad.
+ Tamiflu no es un sustituto de la vacuna de la gripe.
+ El uso de antivirales para el tratamiento y prevención de la gripe debe determinarse basándose en las
+recomendaciones oficiales. En la toma de decisiones relativas a la utilización de antivirales para el
+tratamiento y prevención, se deben tener en cuenta los datos disponibles acerca de las caracteristicas
+de los virus circulantes y el impacto de la enfermedad en las diferentes áreas geográficas y poblaciones
+de pacientes.
+ 4.2   Posología y forma de administración
+ Tamiflu cápsulas y Tamiflu suspensión son formulaciones bioequivalentes. Las dosis de 75 mg se
+pueden administrar en forma de
+-     una cápsula de 75 mg o
+-     una cápsula de 30 mg y otra de 45 mg o
+-     en forma de una dosis de 30 mg y otra de 45 mg de la suspensión.
+ Los adultos, adolescentes o niños (> 40 kg) que no puedan tragar las cápsulas pueden recibir las dosis
+apropiadas de Tamiflu suspensión.
+                                                    16
+Tamiflu no está recomendado para uso en niños menores de un año de edad debido a la escasez de
+datos sobre seguridad y eficacia (ver apartado 5.3).
+ Tratamiento de la gripe
+El tratamiento debe iniciarse tan pronto como sea posible dentro de los dos primeros días desde que
+aparecen los síntomas de la gripe.
+ Para adolescentes (de 13 a 17 años de edad) y adultos: La dosis oral recomendada de oseltamivir es de
+75 mg dos veces al día durante 5 días.
+ Para niños de 1 a 12 años de edad: Tamiflu se encuentra disponible en forma de cápsulas de 30 mg y
+45 mg y suspensión oral.
+ Se recomienda la siguiente posología en función del peso:
+          Peso corporal                     Posología recomendada para 5 días
+15 kg                                  30 mg dos veces al día
+> 15 kg a 23 kg                         45 mg dos veces al día
+> 23 kg a 40 kg                         60 mg dos veces al día
+> 40 kg                                 75 mg dos veces al día
+ Para el tratamiento, y como alternativa a la dosis recomendada de Tamiflu suspensión, los niños que
+pesen > 40 kg y puedan tragar las cápsulas pueden recibir la dosificación de adultos de una cápsula de
+75 mg dos veces al día durante 5 días.
+ Prevención de la gripe
+Prevención post-exposición
+Para adolescentes (de 13 a 17 años de edad) y adultos: La dosis recomendada para prevenir la gripe
+tras un contacto directo con un individuo infectado es de 75 mg de oseltamivir una vez al día durante
+10 días. El tratamiento debe iniciarse tan pronto como sea posible dentro de los dos días posteriores a
+la exposición a un individuo infectado.
+ Para niños de 1 a 12 años de edad: Tamiflu se encuentra disponible en forma de cápsulas de 30 mg y
+45 mg y suspensión oral.
+ La posología recomendada de Tamiflu para la prevención post-exposición es:
+          Peso corporal                     Posología recomendada para 10 días
+15 kg                                    30 mg una vez al día
+> 15 kg a 23 kg                           45 mg una vez al día
+> 23 kg a 40 kg                           60 mg una vez al día
+> 40 kg                                   75 mg una vez al día
+ Para la prevención, y como alternativa a la dosis recomendada de Tamiflu suspensión, los niños que
+pesen > 40 kg y puedan tragar las cápsulas pueden tomar una cápsula de 75 mg una vez al día durante
+10 días.
+ Prevención durante una epidemia de gripe en la población
+La dosis recomendada para la prevención de la gripe durante un brote en la población es de 75 mg de
+oseltamivir una vez al día hasta 6 semanas.
+ Poblaciones especiales
+Insuficiencia hepática
+No es necesario ajustar la dosis ni para el tratamiento ni para la prevención en los pacientes con
+insuficiencia hepática. No se han realizado ensayos en niños con alteraciones hepáticas.
+                                                    17
+Insuficiencia renal
+Tratamiento de la gripe: Se recomienda ajustar la dosis en adultos con insuficiencia renal grave. La
+posología recomendada se detalla en la tabla siguiente.
+   Aclaramiento de Creatinina             Posología recomendada para el
+> 30 (ml/min)                        75 mg dos veces al día
+> 10 a  30 (ml/min)                      75 mg una vez al día,
+10 (ml/min)                            No recomendado
+pacientes con diálisis                     No recomendado
+ Prevención de la gripe: Se recomienda ajustar la dosis en adultos con insuficiencia renal grave como
+se detalla en la tabla siguiente.
+   Aclaramiento de Creatinina             Posología recomendada para la
+> 30 (ml/min)                         75 mg una vez al día
+> 10 a  30 (ml/min)                      75 mg cada dos días,
+10 (ml/min)                            No recomendado
+pacientes con diálisis                     No recomendado
+ Ancianos
+No es necesario ajustar la dosis, a menos que exista evidencia de insuficiencia renal grave.
+ Niños
+No existen datos suficientes en niños con insuficiencia renal para poder establecer la dosis
+recomendada.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Oseltamivir es eficaz únicamente frente a la enfermedad causada por el virus influenza. No existe
+evidencia de la eficacia de oseltamivir en otras enfermedades causadas por agentes distintos del virus
+influenza.
+ No se han establecido la eficacia y seguridad de oseltamivir en el tratamiento y prevención de la gripe
+en niños de menos de 1 año de edad (ver apartado 5.3).
+ No hay información disponible respecto a la seguridad y eficacia de oseltamivir en pacientes con
+alguna afección médica suficientemente grave o inestable que se considere que están en riesgo
+inminente de requerir hospitalización.
+ No se han establecido la seguridad y eficacia de oseltamivir ni en el tratamiento ni en la prevención de
+la gripe en pacientes inmunocomprometidos.
+ No se ha establecido la eficacia de oseltamivir en el tratamiento de sujetos con enfermedad cardiaca
+crónica y/o enfermedad respiratoria. No se observó en esta población ninguna diferencia en la
+incidencia de complicaciones entre los grupos de tratamiento activo y placebo (ver apartado 5.1).
+                                                    18
+Tamiflu no es un sustituto de la vacuna de la gripe. El uso de Tamiflu no debe afectar a la valoración
+de las personas sobre la vacunación anual de la gripe. La protección frente a la gripe se mantiene
+solamente mientras se esté administrando Tamiflu. Sólo debe administrarse Tamiflu como tratamiento
+y prevención de la gripe cuando datos epidemiológicos fiables indiquen que el virus influenza está
+circulando en la población.
+ Insuficiencia renal grave
+Se recomienda ajustar las dosis de prevención y tratamiento en adultos con insuficiencia renal grave.
+No existen datos suficientes en niños con insuficiencia renal para poder establecer la dosis
+recomendada (ver secciones 4.2 y 5.2).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Las propiedades farmacocinéticas de oseltamivir, como son la escasa unión a proteínas y el
+metabolismo independiente de los sistemas del citocromo P450 y de la glucuronidasa (ver apartado
+5.2), sugieren que las interacciones clínicamente relevantes a través de estos mecanismos son poco
+probables.
+No se requieren ajustes de dosis en la administración concomitante con probenecid en pacientes con la
+función renal normal. La administración concomitante de probenecid, un potente inhibidor de los
+transportadores aniónicos de la secreción tubular renal, aproximadamente duplica la exposición al
+metabolito activo de oseltamivir.
+Oseltamivir no presenta ninguna interacción cinética con amoxicilina, que se elimina a través de la
+misma vía, lo que sugiere que la interacción de oseltamivir con esta vía es limitada.
+Las interacciones medicamentosas clínicamente importantes basadas en una competición por la
+secreción tubular renal son poco probables, dado el margen de seguridad conocido de la mayoría de
+estas sustancias, las características de eliminación del metabolito activo (filtración glomerular y
+secreción tubular aniónica) y la capacidad excretora de estas vías. Sin embargo, se deben tomar
+precauciones cuando se prescriba oseltamivir en sujetos que estén tomando fármacos con un estrecho
+margen terapéutico y que se eliminan conjuntamente (p.ej. clorpropamida, metotrexato,
+fenilbutazona).
+No se han observado interacciones farmacocinéticas entre oseltamivir o su principal metabolito
+cuando oseltamivir se administra conjuntamente con paracetamol, ácido acetilsalicílico, cimetidina o
+antiácidos (hidróxidos de aluminio o magnesio y carbonatos cálcicos).
+ 4.6   Embarazo y lactancia
+ No existen datos suficientes sobre la utilización de oseltamivir en mujeres embarazadas. Los estudios
+en animales no muestran efectos dañinos directos o indirectos sobre el embarazo, desarrollo
+embrionario/fetal, parto o desarrollo postnatal (ver apartado 5.3). No debe utilizarse oseltamivir durante
+el embarazo salvo que el beneficio potencial para la madre justifique el riesgo potencial para el feto.
+ En ratas lactantes, oseltamivir y el metabolito activo se excretan en la leche. Se desconoce si
+oseltamivir o el metabolito activo se excretan en la leche humana. Oseltamivir sólo debe administrarse
+durante la lactancia si el beneficio potencial para la madre lactante justifica el posible riesgo para el
+lactante.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Tamiflu no tiene influencia sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ El perfil general de seguridad de Tamiflu se basa en los datos obtenidos de los ensayos clínicos
+realizados en 2.107 adultos y 1.032 niños que recibieron Tamiflu para el tratamiento de la gripe y de
+2.914 adultos y 99 niños que tomaban Tamiflu para prevenir la gripe.
+Las reacciones adversas notificadas más frecuentemente en los adultos que participaron en los ensayos
+de tratamiento fueron vómitos y náuseas mientras que para los ensayos de prevención fueron náuseas
+                                                    19
+y dolor de cabeza. La mayoría de estas reacciones adversas se notificaron en una única ocasión bien el
+primer o segundo día de tratamiento y se resolvieron espontáneamente en 1-2 días. En niños, la
+reacción adversa notificada más frecuentemente fueron los vómitos.
+ Las reacciones adversas incluidas en la tablas que se presentan a continuación se han clasificado según
+las siguientes categorías: Muy frecuentes ( 1/10), Frecuentes ( 1/100, < 1/10), Poco frecuentes
+(1/1.000, <1/100), Raras (1/10.000, <1/1.000), Muy raras (<1/10.000) y frecuencia no conocida (no
+puede estimarse a partir de los datos disponibles). Las reacciones adversas se incluyen en las tablas
+dentro de la categoría correspondiente según el análisis conjunto de los datos procedentes de los
+ensayos clínicos. Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de
+cada intervalo de frecuencia.
+ Tratamiento y prevención de la gripe en adultos y adolescentes:
+ Reacciones adversas más frecuentes ( 1 % en el grupo de oseltamivir) notificadas durante los
+ensayos clínicos realizados con Tamiflu para el tratamiento y prevención de la gripe en adultos y
+adolescentes o mediante el sistema de vigilancia postcomercialización
+  Clasificación por Órganos y             Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                        adversa
+Intervalo de Frecuencia
+Reacción Adversa                      Oseltamivir     Placebo      Oseltamivir      Placebo
+Infecciones e infestaciones
+Frecuentes:
+Bronquitis                                4%             5%               1%             1%
+Bronquitis aguda                          1%             1%               0%             <1%
+Infecciones del tracto respiratorio       0%             0%               8%              8%
+superior
+Trastornos psiquiátricos
+Poco frecuentes:
+Alucinacionesa                           <1%             0%              <1%              0%
+Trastornos del sistema nervioso
+Muy Frecuentes:
+Dolor de cabeza                           2%             2%              20 %            18 %
+Frecuentes:
+Insomnio                                  1%             1%               1%              1%
+Poco frecuentes:
+Convulsionesa                            <1%             0%               0%              0%
+Trastornos del oído y del
+laberinto
+Frecuentes:
+Vertigo                                   1%             1%              <1%             <1%
+Trastornos respiratorios,
+torácicos y mediastínicos
+Frecuentes:
+Tos                                      1%              1%               6%              6%
+Rinorrea                                 <1%             0%               2%              1%
+Trastornos gastrointestinales
+Muy Frecuentes:
+Náuseasb,c                               11 %            7%               8%              4%
+Frecuentes:
+Vómitosc                                  8%             3%               2%              1%
+Dolor abdominal                           2%             2%               2%              2%
+Diarrea                                   6%             8%               3%              3%
+Dispepsia                                 1%             1%               2%              2%
+Clasificación por Órganos y             Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                        adversa
+Intervalo de Frecuencia
+Reacción Adversa                      Oseltamivir     Placebo      Oseltamivir      Placebo
+Trastornos de la piel y del téjido
+subcutáneo
+Poco frecuentes:
+Dermatitisa                              <1%             <1%              1%               1%
+Rasha                                    <1%             <1%            <1%               <1%
+Urticariaa                               <1%             <1%            <1%               <1%
+a
+Eccema                                   <1%              0%            <1%               <1%
+Trastornos generales
+Frecuentes:
+Mareo                                     2%              3%              2%               2%
+Cansancio                                 1%              1%              8%               8%
+Dolor                                    <1%             <1%             4%                3%
+a
+Estos acontecimientos se han identificado en la vigilancia postcomercialización. También se han
+notificado en el conjunto de ensayos clínicos con la frecuencia que aparece en la tabla de arriba.
+b
+Sujetos que experimentaron sólo náuseas; se excluyen los sujetos que experimentaron náuseas
+asociadas con vómitos.
+c
+La diferencia entre los grupos de placebo y oseltamivir fue estadísticamente significativa.
+ Tratamiento y prevención de la gripe en niños:
+ En la tabla siguiente se incluyen las reacciones adversas notificadas más frecuentemente durante los
+ensayos clínicos en población pediátrica.
+ Reacciones adversas más frecuentes notificadas en niños ( 1 % en el grupo de oseltamivir en
+ensayos de tratamiento y  10 % en ensayos de prevención)
+  Clasificación por Órganos y              Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                         adversa
+Intervalo de Frecuencia
+Reacción Adversa                                                  Oseltamivir
+Infecciones e infestaciones
+Frecuentes:
+Neumonia                                  2%              3%             0%               0%
+Sinusitis                                 2%             3%              0%               0%
+Bronquitis                                2%             2%              2%               0%
+Otitis media                              9%             11 %            1%               2%
+Trastornos de la sangre y del
+sistema linfático
+Frecuentes:
+Linfadenopatía                            1%             2%             <1%               0%
+Trastornos respiratorios,
+torácicos y mediastínicos
+Frecuentes:
+Asma (incluyendo                          4%             4%              0%               1%
+empeoramiento)
+Epistaxis                                 3%             3%              1%               1%
+ Clasificación por Órganos y              Porcentaje de pacientes que experimentaron la reacción
+Sistemas                                                         adversa
+Intervalo de Frecuencia
+Reacción Adversa                      Oseltamivir     Placebo     Oseltamivir   Oseltamivir
+Trastornos gastrointestinales
+Muy Frecuentes:
+Vómitos                                   15 %             9%          20 %              10 %
+Diarrea                                   10 %            11 %          3%               1%
+Frecuentes:
+Náuseas                                    3%              4%           6%                4%
+Dolor abdominal                            5%              4%           2%                1%
+Trastornos oculares
+Frecuentes:
+Conjuntivitis                              1%            <1%            0%               0%
+Trastornos del oído y del
+laberinto
+Frecuentes:
+Trastorno del oídoc                        2%             1%            0%               0%
+Trastorno de la membrana                   1%             1%            0%               0%
+timpánica
+Trastornos de la piel y del téjido
+subcutáneo
+Frecuentes:
+Dermatitis                                 1%             2%           <1%               0%
+a
+El ensayo de prevención no tenía brazo de placebo, es decir, era un ensayo no controlado.
+b
+Dosis unitaria = la posología es en función del peso (ver apartado 4.2).
+c
+Pacientes que tuvieron dolor de oídos.
+ En general, el perfil de acontecimientos adversos en los niños que ya tenían asma bronquial fue
+cualitativamente similar al de los niños sanos.
+ Datos adicionales procedentes de la vigilancia postcomercialización en relación con algunas
+reacciones adversas graves:
+ Trastornos del sistema inmunológico:
+Frecuencia no conocida: Reacciones de hipersensibilidad incluyendo reacciones
+anafilácticas/anafilactoides.
+ Trastornos psiquiátricos y trastornos del sistema nervioso:
+Frecuencia no conocida: Convulsiones y trastornos psiquiátricos tales como disminución del nivel de
+consciencia, alteraciones del comportamiento, alucinación y delirio. En raras ocasiones, el delirio dio
+como resultado lesiones por accidente. Estos síntomas se han notificado principalmente en niños y
+adolescentes. También se han notificado convulsiones y síntomas psiquiátricos en pacientes con gripe
+que no estaban tomando Tamiflu.
+ Trastornos gastrointestinales:
+Frecuencia no conocida: Hemorragia gastrointestinal y colitis hemorrágica.
+ Trastornos hepatobiliares:
+Frecuencia no conocida: Trastornos del sistema hepatobiliar, incluyendo hepatitis y aumento de las
+enzimas hepáticas en pacientes con enfermedad pseudogripal. Estos casos incluyen desde insuficiencia
+hepática a hepatitis fulminante mortal.
+ Trastornos de la piel y del tejido subcutáneo:
+Frecuencia no conocida: Trastornos graves de la piel, incluyendo el síndrome de Stevens-Johnson,
+necrólisis epidérmica tóxica, eritema multiforme y edema angioneurótico.
+ Información adicional en poblaciones especiales:
+No hubo diferencias clínicamente relevantes en la seguridad entre ancianos que recibieron oseltamivir
+o placebo y adultos de hasta 65 años de edad.
+ El perfil de acontecimientos adversos en adolescentes y en pacientes con enfermedad cardiaca y/o
+respiratoria crónica fue cualitativamente similar al de los adultos jóvenes sanos.
+ 4.9   Sobredosis
+ No se dispone de ninguna experiencia con casos de sobredosis. No obstante, cabe anticipar que las
+manifestaciones de intoxicació
+ 
+	Prospectos de medicamentos.

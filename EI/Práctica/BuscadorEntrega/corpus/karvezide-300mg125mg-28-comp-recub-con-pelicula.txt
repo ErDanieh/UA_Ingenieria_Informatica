@@ -1,0 +1,839 @@
+KARVEZIDE 300MG/12,5MG 28 COMP RECUB CON PELÍCULA
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Karvezide, 150 mg/12,5 mg, comprimidos.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 150 mg de irbesartan y 12,5 mg de hidroclorotiazida.
+ Excipiente: 26,65 mg de lactosa monohidrato por comprimido.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido.
+Blanco o blanquecino, biconvexo y de forma ovalada, con un corazón troquelado en una cara y el
+número 2775 grabado en la otra cara.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+Esta combinación a dosis fija está indicada en pacientes cuya presión arterial no se controla
+adecuadamente con irbesartan o hidroclorotiazida en monoterapia (ver apartado 5.1)
+ 4.2   Posología y forma de administración
+ Karvezide puede administrarse una vez al día, con o sin alimentos.
+Puede ser recomendable el ajuste de dosis mediante el empleo de los componentes individuales
+(irbesartan e hidroclorotiazida).
+ Se puede considerar el cambio directo de la monoterapia a las combinaciones fijas, cuando desde el
+punto de vista clínico se considere apropiado:
+Karvezide 150 mg/12,5 mg puede administrarse en pacientes cuya presión arterial no se controle
+adecuadamente con hidroclorotiazida o irbesartan 150 mg en monoterapia.
+Karvezide 300 mg/12,5 mg puede administrarse en pacientes cuya presión arterial no se controla
+adecuadamente con irbesartan 300 mg o con Karvezide 150 mg/12,5 mg.
+Karvezide 300 mg/25 mg puede administrarse en pacientes cuya presión arterial no se controla
+adecuadamente con Karvezide 300 mg/12,5 mg.
+ No se recomienda administrar dosis superiores a 300 mg de irbesartan/25 mg de hidroclorotiazida una
+vez al día.
+Cuando sea necesario, Karvezide puede administrarse junto con otro medicamento antihipertensivo
+(ver apartado 4.5).
+ Insuficiencia renal: en pacientes con deterioro grave de la función renal (aclaramiento de creatinina
+< 30 ml/min) no se recomienda utilizar Karvezide, debido al componente hidroclorotiazida. En esta
+población de pacientes es preferible administrar diuréticos del asa en lugar de diuréticos tiazídicos. No
+es preciso realizar un ajuste de dosis en aquellos pacientes con insuficiencia renal cuyo aclaramiento
+de creatinina sea  30 ml/min (ver secciones 4.3 y 4.4).
+ Depleción de volumen intravascular: antes de iniciar el tratamiento con Karvezide debe corregirse la
+depleción de sal y/o volumen.
+                                                     2
+Insuficiencia hepática: Karvezide no está indicado en pacientes con insuficiencia hepática grave. Las
+tiazidas deben utilizarse con precaución en pacientes con alteración de la función hepática. No es
+necesario realizar un ajuste de dosis de Karvezide en pacientes con alteración de la función hepática de
+leve a moderada (ver apartado 4.3).
+ Pacientes ancianos: no es necesario realizar un ajuste de dosis de Karvezide en pacientes ancianos.
+ Niños y adolescentes: no hay experiencia en niños y adolescentes.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a los principios activos, o a alguno de los excipientes (ver apartado 6.1) o a otros
+fármacos derivados de la sulfonamida (la hidroclorotiazida es un fármaco derivado de la sulfonamida).
+Segundo y tercer trimestre de embarazo (ver secciones 4.4 y 4.6).
+Lactancia (ver apartado 4.6).
+Insuficiencia renal grave (aclaramiento de creatinina < 30 ml/min),
+Hipopotasemia refractaria, hipercalcemia,
+Insuficiencia hepática grave, cirrosis biliar y colestasis.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Hipotensión - Pacientes con depleción de volumen: en raras ocasiones se ha relacionado Karvezide
+con hipotensión sintomática en pacientes hipertensos sin otros factores de riesgo para la hipotensión.
+Puede observarse hipotensión sintomática en pacientes con depleción de sal y/o volumen por
+tratamientos prolongados con diuréticos, dietas restrictivas en sal, diarrea o vómitos. Estas situaciones
+deben corregirse antes de iniciar el tratamiento con Karvezide.
+ Estenosis de la arteria renal - Hipertensión renovascular: existe un mayor riesgo de hipotensión grave
+e insuficiencia renal, cuando los pacientes que presentan estenosis bilateral de la arteria renal o
+estenosis de la arteria renal en riñón único funcionante se tratan con inhibidores de la enzima de
+conversión de la angiotensina o con antagonistas de los receptores de la angiotensina-II. Aunque esto
+no se ha descrito con Karvezide, puede preverse un efecto similar.
+ Insuficiencia renal y trasplante renal: cuando se utiliza Karvezide en pacientes con insuficiencia renal,
+se recomienda realizar controles periódicos de los niveles séricos de potasio, creatinina y ácido úrico.
+No existe experiencia con la administración de Karvezide en pacientes recientemente sometidos a
+trasplante renal. Karvezide no debe utilizarse en pacientes con insuficiencia renal grave (aclaramiento
+de creatinina < 30 ml/min) (ver apartado 4.3). En pacientes con deterioro de la función renal puede
+producirse uremia asociada a la utilización de diuréticos tiazídicos. No es necesario realizar ajuste de
+dosis en pacientes con insuficiencia renal cuyo aclaramiento de creatinina sea  30 ml/min. Sin
+embargo, en pacientes con insuficiencia renal de leve a moderada (aclaramiento de creatinina
+30 ml/min pero < 60 ml/min) esta combinación a dosis fija se deberá administrar con precaución.
+ Insuficiencia hepática: las tiazidas deben utilizarse con precaución en pacientes con deterioro de la
+función hepática o enfermedad hepática progresiva, ya que ligeras alteraciones del equilibrio
+hidroelectrolítico podrían precipitar un coma hepático. No existe experiencia clínica con Karvezide en
+pacientes con insuficiencia hepática.
+ Estenosis valvular aórtica y mitral, cardiomiopatía hipertrófica obstructiva: como sucede con otros
+vasodilatadores, se recomienda especial precaución en pacientes con estenosis aórtica o mitral, o con
+cardiomiopatía hipertrófica obstructiva.
+ Aldosteronismo primario: los pacientes con aldosteronismo primario generalmente no responden al
+tratamiento con medicamentos antihipertensivos que actúan por inhibición del sistema renina-
+angiotensina. Por tanto, no se recomienda el uso de Karvezide.
+ Efectos metabólicos y endocrinos: el tratamiento con tiazidas puede modificar la tolerancia a la
+glucosa. En pacientes diabéticos pueden ser necesarios ajustes de la dosificación de insulina o de
+agentes hipoglucemiantes. Durante la terapia con tiazidas puede manifestarse una diabetes mellitus
+latente.
+Se ha asociado el tratamiento con diuréticos tiazídicos con incrementos de los niveles de colesterol y
+triglicéridos; sin embargo, a la dosis de 12,5 mg de hidroclorotiazida contenida en Karvezide, estos
+efectos no se han observado o han sido mínimos.
+En algunos pacientes en tratamiento con tiazidas puede producirse hiperuricemia o precipitarse un
+ataque de gota.
+ Desequilibrio electrolítico: al igual que sucede con cualquier paciente en tratamiento con diuréticos,
+deben realizarse determinaciones periódicas de electrolitos séricos a los intervalos adecuados.
+Las tiazidas, incluyendo hidroclorotiazida, pueden producir desequilibrio hídrico o electrolítico
+(hipopotasemia, hiponatremia, y alcalosis hipoclorémica). Son signos que indican un desequilibrio
+hidroelectrolítico: sequedad de boca, sed, debilidad, letargo, adormecimiento, inquietud, dolores
+musculares o calambres, fatiga muscular, hipotensión, oliguria, taquicardia y alteraciones
+gastrointestinales como náuseas o vómitos.
+Aunque los diuréticos tiazídicos pueden producir hipopotasemia, la terapia concomitante con
+irbesartan puede reducir la hipopotasemia inducida por diuréticos. El riesgo de hipopotasemia es
+mayor en pacientes con cirrosis hepática, en pacientes con aumento de la diuresis, en pacientes que
+reciben una ingesta oral inadecuada de electrolitos y en pacientes en tratamiento concomitante con
+corticosteroides o ACTH. Por el contrario, debido al componente de Karvezide irbesartan puede
+aparecer hiperpotasemia, especialmente en presencia de insuficiencia renal y/o fallo cardiaco, y
+diabetes mellitus. En pacientes con riesgo se recomienda monitorizar los niveles plasmáticos de
+potasio. Debe realizarse con precaución la administración concomitante de Karvezide y diuréticos
+ahorradores de potasio, suplementos de potasio o sustitutos de la sal que contengan potasio (ver apartado 4.5).
+No hay evidencia de que irbesartan reduzca o prevenga la hiponatremia inducida por diuréticos. En
+general, el déficit de cloruros es leve y habitualmente no requiere tratamiento.
+Las tiazidas pueden disminuir la excreción urinaria de calcio y producir una elevación leve y
+transitoria del calcio sérico en ausencia de desequilibrios conocidos del metabolismo del calcio. Una
+marcada hipercalcemia puede ser indicativa de hiperparatiroidismo subclínico. Antes de realizar las
+pruebas de función paratiroidea debe interrumpirse el tratamiento con tiazidas.
+Las tiazidas han demostrado incrementar la excreción urinaria de magnesio, lo que puede dar lugar a
+hipomagnesemia.
+ Litio: no se recomienda la combinación de litio y Karvezide (ver apartado 4.5).
+ Control del dopaje: la cantidad de hidroclorotiazida que contiene este medicamento puede ocasionar
+resultados falsos positivos en el control del dopaje.
+ Generales: en pacientes cuyo tono vascular y función renal dependen principalmente de la actividad
+del sistema renina-angiotensina-aldosterona (ej: pacientes con insuficiencia cardíaca congestiva grave
+o enfermedad renal subyacente, incluyendo estenosis de la arteria renal), el tratamiento con inhibidores
+de la enzima de conversión de la angiotensina o con antagonistas de los receptores de la
+angiotensina-II que afectan a este sistema se ha asociado con hipotensión aguda, uremia, oliguria o, en
+raras ocasiones con insuficiencia renal aguda. Como sucede con todos los antihipertensivos, el
+descenso excesivo de la presión arterial en pacientes con cardiopatía isquémica o enfermedad
+cardiovascular isquémica puede provocar un infarto de miocardio o un accidente cerebrovascular.
+Pueden aparecer reacciones de hipersensibilidad a hidroclorotiazida en pacientes con o sin
+antecedentes de alergia o asma bronquial, pero son más probables en pacientes con estos antecedentes.
+Durante el tratamiento con diuréticos tiazídicos, se han observado casos de exacerbación o activación
+de lupus eritematoso sistémico.
+ Embarazo: No se debe iniciar ningún tratamiento con Antagonistas de los Receptores de la
+Angiotensina II (ARA II) durante el embarazo. Salvo que se considere esencial continuar el
+tratamiento con los ARAII, las pacientes que estén planeando quedarse embarazadas deberán cambiar
+                                                    4
+a un tratamiento antihipertensivo alternativo que tenga un perfil de seguridad conocido para su uso
+durante el embarazo. Cuando se diagnostique un embarazo, deberá interrumpirse inmediatamente el
+tratamiento con los ARAII, y si procede, iniciar un tratamiento alternativo (ver secciones 4.3 y 4.6).
+ Lactosa: este producto contiene lactosa. No deben tomar este medicamento los pacientes con
+problemas hereditarios raros de intolerancia a la galactosa, deficiencia de lactasa Lapp o malabsorción
+de glucosa-galactosa.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Otros agentes antihipertensivos: el efecto antihipertensivo de Karvezide puede incrementarse con el
+uso concomitante de otros agentes antihipertensivos. Irbesartan e hidroclorotiazida (con dosis de hasta
+300 mg de irbesartan/25 mg de hidroclorotiazida) han sido administrados de forma segura con otros
+agentes antihipertensivos incluyendo calcio-antagonistas y bloqueantes beta-adrenérgicos. Al iniciar la
+terapia con irbesartan con o sin diuréticos tiazídicos, el tratamiento previo con dosis elevadas de
+diuréticos puede producir depleción de volumen y riesgo de hipotensión, a no ser que previamente se
+corrija la depleción de volumen (ver apartado 4.4).
+ Litio: durante la administración concomitante de litio con inhibidores de la enzima de conversión de la
+angiotensina, se han detectado incrementos reversibles de las concentraciones séricas de litio y de la
+toxicidad. Muy raramente se han descrito efectos similares con irbesartan. Además, las tiazidas
+reducen el aclaramiento renal de litio, por lo que Karvezide podría incrementar el riesgo de la
+toxicidad. Por lo tanto, la combinación de litio y Karvezide no está recomendada (ver apartado 4.4). Si
+la combinación fuera necesaria, se recomienda monitorizar los niveles séricos de litio.
+ Medicamentos que modifican el potasio: el efecto deplecionante de potasio de la hidroclorotiazida es
+atenuado por el efecto ahorrador de potasio de irbesartan. Sin embargo, este efecto de la
+hidroclorotiazida sobre el potasio sérico es posible que se potencie con con otros medicamentos asociados
+con la pérdida de potasio y la hipopotasemia (ej: otros diuréticos kaliuréticos, laxantes, anfotericina,
+carbenoxolona, penicilina G sódica). Por el contrario, dada la experiencia con la utilización de con otros medicamentos que bloquean el sistema renina-angiotensina, la utilización concomitante de diuréticos
+ahorradores de potasio, suplementos de potasio, sustitutos de la sal que contengan potasio u con otros medicamentos susceptibles de incrementar los niveles séricos de potasio (ej: heparina sódica) pueden
+producir elevaciones del potasio sérico. Se recomienda la monitorización adecuada del potasio sérico
+en pacientes de riesgo (ver apartado 4.4).
+ Medicamentos afectados por alteraciones del potasio sérico: Cuando se administre Karvezide con
+medicamentos que puedan verse afectados por alteraciones del potasio sérico (ej: glucósidos
+digitálicos, antiarrítmicos), se recomienda la monitorización periódica del potasio sérico.
+ Antiinflamatorios no esteroideos: cuando se administran antagonistas de angiotensina II
+simultáneamente con medicamentos antiinflamatorios no esteroideos (por ejemplo, inhibidores COX-
+2, ácido acetil salicilico (> 3 g/dia) y AINEs no selectivos), podría ocurrir la atenuación del efecto
+antihipertensivo.
+Como con los inhibidores de la ECA, la administración concomitante de los antagonistas de la
+angiotensina II y AINEs podría provocar un incremento del riesgo de empeoramiento de la función
+renal, incluyendo una posible insuficiencia renal aguda, y un aumento de potasio sérico especialmente
+en pacientes con una pobre función renal previa. La combinación debe ser administrada con
+precaución, especialmente en ancianos. Los pacientes deben estar adecuadamente hidratados y debe
+considerarse la monitorización de la función renal después del comienzo de la terapia concomitante y
+periodicamente después.
+ Información adicional sobre las interacciones con irbesartan: en estudios clínicos, la hidroclorotiazida
+no modifica la farmacocinética de irbesartan. Irbesartan se metaboliza principalmente por el CYP2C9
+y en menor medida por glucuronización. No se observaron interacciones farmacocinéticas o
+farmacodinámicas significativas cuando se administró irbesartan junto con warfarina, un medicamento
+metabolizado por CYP2C9. No se han evaluado los efectos de los inductores del CYP2C9 como
+                                                     5
+rifampicina en la farmacocinética de irbesartan. La farmacocinética de digoxina no se modificó por la
+coadministración de irbesartan.
+ Información adicional sobre las interacciones con hidroclorotiazida: los siguientes medicamentos
+pueden interaccionar con los diuréticos tiazídicos cuando se administran conjuntamente:
+ Alcohol: pueden potenciar la hipotensión ortostática;
+ Medicamentos antidiabéticos (fármacos orales e insulina): pueden ser necesarios ajustes de la dosis de
+los antidiabéticos (ver apartado 4.4);
+ Colestiramina y colestipol: la absorción de hidroclorotiazida puede verse modificada en presencia de
+resinas de intercambio aniónico;
+ Corticosteroides, ACTH: puede incrementarse la depleción de electrolitos, especialmente puede
+producirse hipopotasemia;
+ Glucósidos digitálicos: la hipopotasemia o la hipomagnesemia inducida por tiazidas favorece la
+aparición de arritmias cardiacas inducidas por digital (ver apartado 4.4).
+ Antiinflamatorios no esteroideos: en algunos pacientes la administración de un fármaco
+antiinflamatorio no esteroideo puede reducir los efectos diuréticos, natriuréticos y antihipertensivos de
+los diuréticos tiazídicos;
+ Aminas presoras (ej: noradrenalina): se puede disminuir el efecto de las aminas presoras, pero no lo
+suficiente como para no ser utilizadas;
+ Relajantes no despolarizantes del músculo esquelético (ej: tubocurarina): la hidroclorotiazida puede
+potenciar el efecto de los relajantes no despolarizantes del músculo esquelético;
+ Medicamentos antigotosos: pueden ser necesarios ajustes de la dosis de los medicamentos antigotosos,
+ya que la hidroclorotiazida puede elevar el nivel del ácido úrico sérico. Puede ser necesario un
+incremento en la dosificación de probenecid o sulfinpirazona. La administración concomitante de
+diuréticos tiazídicos puede incrementar la incidencia de reacciones de hipersensibilidad al alopurinol;
+ Sales de calcio: los diuréticos tiazídicos pueden incrementar los niveles séricos de calcio debido a la
+reducción de la excreción. Deben monitorizarse los niveles de calcio sérico y ajustar de forma
+adecuada la dosificación de calcio, si se prescriben suplementos de calcio o medicamentos
+facilitadores de la absorción de calcio (ej. tratamiento con vitamina D).
+ Otras interacciones: las tiazidas pueden aumentar el efecto hiperglucémico de los beta-bloqueantes y
+el diazóxido. Los agentes anticolinérgicos (ej: atropina, beperideno) pueden incrementar la
+biodisponibilidad de los diuréticos tipo tiazida disminuyendo la motilidad gastrointestinal y la
+frecuencia del vaciamiento gástrico. Las tiazidas pueden incrementar el riesgo de efectos adversos
+causados por la amantadina. Las tiazidas pueden reducir la excreción renal de los medicamentos
+citotóxicos (ej: ciclofosfamida, metotrexato) y potenciar su efecto mielosupresor.
+ 4.6   Embarazo y lactancia
+ Embarazo: No se recomienda el uso de los ARAII durante el primer trimestre del embarazo (ver apartado 4.4). Está contraindicado el uso de los ARAII durante el segundo y tercer trimestre del
+embarazo (ver secciones 4.3 y 4.4).
+ La evidencia epidemiológica sobre el riesgo de teratogenicidad tras la exposición a inhibidores de la
+ECA durante el primer trimestre de embarazo no ha sido concluyente; sin embargo, no se puede
+excluir un pequeño aumento del riesgo. Aunque no hay datos epidemiológicos específicos sobre el
+riesgo que conlleva la administración de Antagonistas de los Receptores de Angiotensina II (ARAII)
+                                                     6
+durante el embarazo, pueden existir riesgos similares para este tipo de medicamentos. Salvo que se
+considere esencial continuar el tratamiento con ARA II, las pacientes que estén planeando quedarse
+embarazadas deben cambiar a un tratamiento antihipertensivo alternativo que tenga un perfil de
+seguridad conocido para su uso durante el embarazo. Cuando se diagnostique un embarazo, deberá
+interrumpirse inmediatamente el tratamiento con los ARAII y, si procede, iniciar un tratamiento
+alternativo.
+Se sabe que la exposición a ARAII durante el segundo y el tercer trimestre induce fetotoxicidad
+humana (disminución de la función renal, oligohidramnios, retraso de la osificación craneal) y
+toxicidad neonatal (fallo renal, hipotensión, hiperpotasemia) (ver apartado 5.3).
+Si se produce una exposición a ARAII a partir del segundo trimestre del embarazo, se recomienda
+realizar una prueba de ultrasonidos de la función renal y del cráneo.
+Los lactantes cuyas madres hayan sido tratadas con ARAII deberán ser cuidadosamente monitorizados
+por si se produce hipotensión (ver secciones 4.3 y 4.4).
+ Las tiazidas atraviesan la barrera placentaria y se detectan en sangre del cordón umbilical. Pueden
+provocar un descenso de la persufión placentaria, desequilibrios electrolíticos y posiblemente otras
+reacciones observadas en adultos. Se han comunicado casos de trombocitopenia neonatal o ictericia
+fetal o neonatal durante el tratamiento materno con tiazidas. Debido a que Karvezide contiene
+hidroclorotiazida, no se recomienda su administración durante el primer trimestre del embarazo. El
+tratamiento deberá cambiarse a una terapia alternativa adecuada en las pacientes que tengan intención
+de quedarse embarazadas.
+ Lactancia: Karvezide está contraindicado durante la lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas. Atendiendo a sus
+propiedades farmacodinámicas, es improbable que Karvezide altere esta capacidad. Al conducir o
+utilizar maquinaria, debe tenerse en cuenta que, ocasionalmente, durante el tratamiento de la
+hipertensión pueden aparecer mareos o fatiga.
+ 4.8   Reacciones adversas
+ Las reacciones adversas mencionadas a continuación se encuentran agrupadas, según su frecuencia,
+en: muy frecuentes ( 1/10); frecuentes ( 1/100, < 1/10); poco frecuentes ( 1/1.000, < 1/100); raras
+( 1/10.000, < 1/1.000); muy raras(< 1/10.000). En cada grupo de frecuencia las reacciones adversas
+se presentan en orden decreciente de gravedad .
+ Irbesartan/hidroclorotiazida:
+En ensayos clínicos controlados frente a placebo realizados en pacientes hipertensos, la frecuencia
+global de efectos adversos no fue diferente entre el grupo irbesartan/hidroclorotiazida y los grupos
+placebo. La discontinuación debida a efectos adversos clínicos o de laboratorio fue menos frecuente en
+los pacientes tratados con irbesartan/hidroclorotiazida que en los que recibieron placebo. La incidencia
+de efectos adversos no se relacionó con el sexo, la edad, la raza o la dosis dentro del rango de dosis
+recomendado. En ensayos controlados frente a placebo en los que 898 pacientes hipertensos recibieron
+varias dosis (rando de dosis: de 37,5 mg/6,25 mg a 300 mg/25 mg de irbesartan/ hidroclorotiazida), se
+comunicaron las siguientes reacciones adversas:
+ Trastornos del sistema nervioso:
+Frecuentes:      mareo
+Poco frecuentes: mareo ortostático
+ Trastornos cardíacos:
+Poco frecuentes: síncope, hipotensión, taquicardia, edema
+ Trastornos vasculares:
+Poco frecuentes: rubor
+                                                    7
+Trastornos gastrointestinales:
+Frecuentes:      náuseas/vómitos
+Poco frecuentes: diarrea
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Poco frecuentes: inflamación de las extremidades
+ Trastornos renales y urinarios:
+Frecuentes:     anomalías en la micción
+ Trastornos del aparato reproductor y de la mama:
+Poco frecuentes: disfunción sexual, alteraciones de la líbido,
+ Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes:     fatiga
+ Exploraciones complementarias: los pacientes tratados con irbesartan/hidroclorotiazida presentaron
+cambios en los parámetros de laboratorio que en raras ocasiones fueron clínicamente significativos.
+Frecuentes:      incremento de BUN, creatinina y creatina-cinasa
+Poco frecuentes: descenso de los niveles séricos de sodio y potasio
+ Además, desde la comercialización de irbesartan/hidroclorotiazida, también se han comunicado las
+siguientes reacciones adversas:
+ Trastornos del sistema inmunológico:
+Raros:         casos raros de reacciones de hipersensibilidad como angioedema, erupción cutánea y
+urticaria
+ Trastornos del metabolismo y de la nutrición:
+Muy raros: hiperpotasemia
+ Trastornos del sistema nervioso:
+Muy raros: cefalea
+ Trastornos del oido y del laberinto:
+Muy raros: tinnitus
+ Trastornos respiratorios, torácicos y mediastínicos:
+Muy raros: tos
+ Trastornos gastrointestinales:
+Muy raros:    dispepsia, disgeusia
+ Trastornos hepatobiliares:
+Muy raros: hepatitis, anomalías en la función hepática,
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Muy raros: artralgia, mialgia
+ Trastornos renales y urinarios:
+Muy raros: insuficiencia renal incluyendo casos aislados de fallo renal en pacientes de riesgo (ver apartado 4.4)
+ Información adicional sobre cada uno de los componentes: además de las reacciones adversas
+mencionadas anteriormente para la combinación, se han comunicado previamente otras para cada uno
+de los componentes individuales y que pueden ser potenciales reacciones adversas para Karvezide.
+                                                     8
+Irbesartan:
+Las reacciones adversas comunicadas cuando se usa irbesartan en monoterapia incluyen:
+ Trastornos generales y alteraciones en el lugar de administración
+Poco frecuentes: dolor abdominal
+ Hidroclorotiazida:
+Las reacciones adversas (independientemente de su relación con el medicamento) comunicadas con la
+utilización de hidroclorotiazida en monoterapia incluyen:
+ Trastornos de la sangre y del sistema linfático:
+anemia aplásica, depresión de la médula ósea, neutropenia/agranulocitosis, anemia hemolítica,
+leucopenia, trombocitopenia
+ Trastornos psiquiátricos:
+depresión, trastornos del sueño
+ Trastornos del sistema nervioso:
+vértigo, parestesia, mareo, agitación,
+ Trastornos oculares:
+visión borrosa transitoria, xantopsia
+ Trastornos cardíacos:
+arritmias cardíacas
+ Trastornos vasculares:
+hipotensión postural
+ Trastornos respiratorios, torácicos y mediastínicos:
+insuficiencia respiratoria (incluyendo neumonitis y edema pulmonar)
+ Trastornos gastrointestinales:
+pancreatitis, anorexia, diarrea, estreñimiento, irritación gástrica, sialadenitis, pérdida de apetito,
+ Trastornos hepatobiliares:
+ictericia (ictericia colestática intrahepática)
+ Trastornos de la piel y del tejido subcutáneo:
+reacciones anafilácticas, necrolisis epidérmica tóxica, angeitis necrotizante (vasculitis, vasculitis
+cutánea), reacciones cutáneas del tipo lupus eritematoso, reactivación del lupus eritematoso cutáneo,
+reacciones de fotosensibilidad, erupción cutánea, urticaria
+ Trastornos musculoesquelético y del tejido conjuntivo:
+debilidad, espasmos musculares
+ Trastornos renales y urinarios:
+nefritis intersticial, trastornos de la función renal
+ Trastornos generales y alteraciones en el lugar de administración:
+fiebre
+ Exploraciones complementarias:
+desequilibrio electrolítico (incluyendo hipopotasemia e hiponatremia, ver sección 4.4), hiperuricemia,
+glucosuria, hiperglicemia, incremento de los niveles de colesterol y triglicéridos.
+ Los efectos adversos dosis dependiente de hidroclorotiazida (especialmente las alteraciones
+electrolíticas) pueden incrementarse al aumentar la hidroclorotiazida.
+ 4.9   Sobredosis
+ No se dispone de información específica para el tratamiento de la sobredosis por Karvezide. El
+paciente debe ser monitorizado y debe administrarse el tratamiento sintomático y de soporte. El
+manejo del paciente depende del tiempo transcurrido desde la ingestión y de la gravedad de los
+síntomas. Las medidas sugeridas incluyen inducción de la emesis y/o lavado gástrico. El carbón
+vegetal activado puede ser útil en el tratamiento de la sobredosis. Los valores de electrolitos y
+creatinina séricos deben monitorizarse con frecuencia. Si aparece hipotensión, el paciente deberá ser
+colocado en posición supina, con aportes de sal y líquidos administrados rápidamente.
+ Las manifestaciones más probables por sobredosis con irbesartan son hipotensión y taquicardia;
+también podría aparecer bradicardia.
+ La sobredosis por hidroclorotiazida está relacionada con depleción electrolítica (hipopotasemia,
+hipocloremia, hiponatremia) y deshidratación a consecuencia de una diuresis excesiva. Los signos y
+síntomas más comunes de sobredosis son náuseas y somnolencia. La hipopotasemia puede dar lugar a
+espasmos musculares y/o acentuar las arritmias cardíacas asociadas con la utilización concomitante de
+glucósidos digitálicos o de determinados medicamentos antiarrítmicos.
+ Irbesartan no se elimina por hemodiálisis. No se ha establecido el grado de eliminación de
+hidroclorotiazida por hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antagonistas de la angiotensina-II, asociaciones
+Código ATC: C09DA04.
+ Karvezide es una asociación de un antagonista del receptor de angiotensina-II, irbesartan, y un
+diurético tiazídico, hidroclorotiazida. La asociación de estos componentes posee un efecto
+antihipertensivo aditivo, reduciendo la presión arterial en mayor medida que cada uno de ellos por
+separado.
+ Irbesartan es un potente antagonista selectivo del receptor de la angiotensina-II (subtipo AT1), activo
+por vía oral. Parece bloquear todas las acciones de la angiotensina-II mediadas por el receptor AT1,
+con independencia del origen o la vía de síntesis de la angiotensina-II. El antagonismo selectivo de los
+receptores de la angiotensina-II (AT1), produce incrementos de los niveles plasmáticos de renina y de
+angiotensina-II y una disminución en la concentración de aldosterona plasmática. En los pacientes sin
+riesgo de desequilibrio electrolítico, los niveles séricos de potasio no se modifican significativamente a
+las dosis recomendadas de irbesartan en monoterapia (ver secciones 4.4 y 4.5). Irbesartan no inhibe la
+ECA (kininasa-II), un enzima que genera angiotensina-II y que también degrada la bradiquinina a
+metabolitos inactivos. Irbesartan no requiere activación metabólica para ser activo.
+ Hidroclorotiazida es un diurético tiazídico. No está totalmente establecido el mecanismo por el que los
+diuréticos tiazídicos ejercen su efecto antihipertensivo. Las tiazidas alteran el mecanismo de
+reabsorción de electrolitos en el túbulo renal, incrementando de forma directa la excreción de sodio y
+cloruros en cantidades aproximadamente equivalentes. La acción diurética de la hidroclorotiazida
+reduce el volumen plasmático, aumenta la actividad de la renina plasmática, aumenta la secreción de
+aldosterona, con el consiguiente aumento en la pérdida urinaria de potasio y bicarbonato y
+disminución en el potasio sérico. Probablemente, a través del bloqueo del sistema renina-angiotensina-
+aldosterona, la administración conjunta de irbesartan tiende a revertir la pérdida de potasio asociada a
+ estos diuréticos. La diuresis comienza a las 2 horas de la administración de hidroclorotiazida,
+alcanzándose los máximos aproximadamente a las 4 horas y con una duración de unas 6 a 12 horas.
+ La combinación de hidroclorotiazida e irbesartan, en sus rangos de dosis terapéuticas, da lugar a
+reducciones aditivas dosis-dependientes de la presión arterial. En pacientes no adecuadamente
+controlados con 300 mg de irbesartan en monoterapia, la adición de 12,5 mg de hidroclorotiazida a
+300 mg de irbesartan en dosis única diaria,dio lugar a reducciones de la presión arterial diastólica
+superiores a las corregidas con placebo en el punto valle (24 horas post-dosificación) de 6,1 mm Hg.
+La combinación de 300 mg de irbesartan y 12,5 mg de hidroclorotiazida da lugar a unas reducciones
+globales sistólica/diastólica tras la sustracción de placebo de hasta 13,6/11,5 mm Hg.
+ Se disponen de datos clínicos limitados (7 de cada 22 pacientes), que sugieren que los pacientes no
+controlados con la combinación 300 mg/12,5 mg pueden responder si se les aumenta la dosis a
+300 mg/25 mg. En estos pacientes, se observó un incremento en el descenso de la presión arterial tanto
+sistólica como diastólica (13,3 y 8.3 mm Hg respectivamente).
+ Una dosis única diaria de 150 mg de irbesartan y 12,5 mg de hidroclorotiazida proporcionó unas
+reducciones de la presión arterial media sistólica/diastólica ajustada frente a placebo en el punto valle
+(24 horas post-dosificación) de 12,9/6,9 mm Hg en pacientes con hipertensión de leve a moderada. El
+efecto pico se alcanza a las 3-6 horas. En la monitorización ambulatoria de la presión arterial, la
+combinación de 150 mg de irbesartan y 12,5 mg de hidroclorotiazida una vez al día, da lugar a la
+reducción esperada de la presión arterial en el período de 24 horas con unas reducciones medias
+sistólica/diastólica tras la sustracción de placebo durante 24 horas de 15,8/10,0 mm Hg. Cuando se
+midió la presión arterial mediante la monitorización ambulatoria, el efecto pico-valle de
+Karvezide 150 mg/12,5 mg fue del 100%. El efecto pico-valle medido por manguito en la consulta fue
+del 68% y 76% para Karvezide 150 mg/12,5 mg y Karvezide 300 mg/12,5 mg, respectivamente. Este
+efecto de 24 horas se observó sin detectarse una reducción excesiva de la presión arterial en el punto
+pico y el consistente con la seguridad y efectividad en la reducción de la presión arterial durante el
+intervalo de dosis de una administración única diaria. En pacientes no controlados adecuadamente con
+25 mg de hidroclorotiazida en monoterapia, la adición de irbesartan produce una reducción adicional
+media sistólica/diastólica de 11,1/7,2 mm Hg tras la sustracción de placebo.
+ El efecto reductor de la presión arterial con irbesartan en combinación con hidroclorotiazida es
+evidente tras la administración de la primera dosis y se mantiene sustancialmente en 1-2 semanas,
+alcanzándose el efecto máximo transcurridas 6-8 semanas. En los estudios de seguimiento a largo
+plazo, el efecto de irbesartan/hidroclorotiazida se mantuvo durante más de un año. Aunque no se ha
+estudiado específicamente con Karvezide, no se ha observado hipertensión de rebote ni con irbesartan
+ni con hidroclorotiazida.
+ No se ha estudiado el efecto de la combinación irbesartan e hidroclorotiazida sobre la morbilidad y la
+mortalidad. Los estudios epidemiológicos han demostrado que el tratamiento a largo plazo con
+hidroclorotiazida reduce el riesgo de mortalidad y morbilidad cardiovascular.
+ No existe diferencia en la respuesta a Karvezide en relación a la edad o el sexo. Como ocurre con con otros medicamentos que afectan al sistema renina-angiotensina, la respuesta a irbesartan en monoterapia de
+los pacientes de raza negra es notablemente inferior. Cuando irbesartan se administra conjuntamente
+con una dosis baja de hidroclorotiazida (ej. 12,5 mg al día), la respuesta antihipertensiva en pacientes
+de raza negra se aproxima a la obtenida en pacientes de otras razas.
+ La eficacia y seguridad de Karvezide como tratamiento de inicio en hipertensión severa (definida
+como PADSe  110 mmHg) fue evaluada en un ensayo multicéntrico, randomizado, doble ciego,
+paralelo, controlado con comparador activo, de 8 semanas de duración. Un total de 697 pacientes
+fueron randomizados a razón 2:1 para irbesartan/hidroclorotiazida 150 mg/12,5 mg o para irbesartan
+150 mg con escalado sistemático (antes de evaluar la respuesta a la dosis más baja), tras una semana,
+a irbesartan/hidroclorotiazida 300 mg/25 mg o a irbesartan 300 mg respectivamente.
+                                                    11
+El 58% de los pacientes incluidos en el ensayo eran varones. La edad media de los pacientes fue de
+52,5 años, el 13% tenía una edad igual o superior a 65 años, y sólo el 2% tenía una edad igual o
+superior a 75 años. El doce por ciento (12%) de los pacientes eran diabéticos, el 34% presentaban
+hiperlipidemia y la alteración cardiovascular más frecuente, en un 3,5% de los pacientes incluidos, era
+la angina de pecho estable
+ El objetivo principal de este ensayo fue comparar la proporción de pacientes cuya PADSe estaba
+controlada (PADSe < 90 mmHg) en la semana 5 de tratamiento. El cuarenta y siete por ciento (47,2%)
+de los pacientes tratados con la combinación alcanzaron valores de PADSe < 90 mmHg comparado
+con el 33,2% de los pacientes tratados con irbesartan (p = 0,0005). La presión arterial basal media fue
+de, aproximadamente, 172/113 mmHg en cada grupo de tratamiento y la reducción de PASSe/PADSe
+a las cinco semanas fue de 30,8/24,0 mmHg y 21,1/19,3 mmHg para irbesartan/hidroclorotiazida e
+irbesartan, respectivamente (p < 0,0001).
+ Los tipos e incidencia de las reacciones adversas comunicadas por los pacientes tratados con la
+combinación fueron similares al perfil de reacciones adversas en los pacientes tratados en
+monoterapia. Durante el periodo de 8 semanas de tratamiento, no se comunicaron casos de síncope en
+ninguno de los grupos de tratamiento. El 0,6% y el 0% de pacientes presentaron hipotensión y el 2,8%
+y el 3,1% de los pacientes presentaron mareo como reacción adversa en los grupos tratados con la
+combinación y la monoterapia, respectivamente.
+ 5.2   Propiedades farmacocinéticas
+ La administración concomitante de hidroclorotiazida e irbesartan no tiene efectos sobre la
+farmacocinética de ninguno de los componentes.
+ Irbesartan e hidroclorotiazida son agentes activos por vía oral y no requieren biotransformación para
+ejercer su actividad. Tras la administración oral de Karvezide, la biodisponibilidad oral absoluta es del
+60-80% y del 50-80% para irbesartan e hidroclorotiazida, respectivamente. Los alimentos no
+modifican la biodisponibilidad de Karvezide. La concentración máxima plasmática se alcanza
+transcurridas 1,5-2 horas de la administración oral de irbesartan y de 1-2,5 horas de la de
+hidroclorotiazida.
+ La unión a las proteínas plasmáticas de irbesartan es aproximadamente del 96%, con fijación
+despreciable a los componentes celulares sanguíneos. El volumen de distribución para irbesartan es de
+53-93 litros. La unión a las proteínas plasmáticas de hidroclorotiazida es del 68% y su volumen
+aparente de distribución de 0,83-1,14 l/kg.
+ Irbesartan presenta una farmacocinética lineal y dosis-dependiente en el rango de dosis de 10 mg a
+600 mg. A dosis superiores a 600 mg se observó un incremento proporcional de la absorción oral
+inferior al esperado; se desconoce por qué mecanismo. El aclaramiento corporal total y el renal son de
+157-176 y 3,0-3,5 ml/min, respectivamente. La semivida de eliminación terminal de irbesartan es de
+11-15 horas. Las concentraciones plasmáticas en estado estacionario se alcanzan a los 3 días de iniciar
+la pauta de dosificación de dosis única diaria. Después de la administración de dosis únicas diarias
+repetidas, se observa una acumulación plasmática limitada de irbesartan (< 20%). En un estudio se
+observaron concentraciones plasmáticas ligeramente más elevadas de irbesartan en mujeres
+hipertensas. Sin embargo, no se detectaron diferencias en la vida media y en la acumulación de
+irbesartan. No es necesario realizar un ajuste de la dosis en mujeres. Los valores de AUC y Cmax de
+irbesartan fueron también algo más elevados en pacientes ancianos ( 65 años) que en los más jóvenes
+(18-40 años). Sin embargo, la semivida de eliminación no se modificó significativamente. No es
+necesario realizar un ajuste de la dosis en pacientes ancianos. La semivida media plasmática de
+hidroclorotiazida oscila entre 5-15 horas.
+ Tras la administración oral o intravenosa de irbesartan marcado con 14C, el 80-85% de la
+radioactividad plasmática circulante se atribuye a irbesartan inalterado. Irbesartan se metaboliza en el
+hígado por la vía de la conjugación glucurónida y oxidación. El principal metabolito circulante es el
+irbesartan glucurónido (aproximadamente el 6%). Los estudios in vitro indican que irbesartan se oxida
+                                                    12
+principalmente por el enzima del citocromo P450 CYP2C9; el isoenzima CYP3A4 tiene un efecto
+despreciable. Irbesartan y sus metabolitos se eliminan por vía biliar y renal. Después de la
+administración oral o IV de irbesartan marcado con 14C, aproximadamente el 20% de la radioactividad
+se recupera en orina, y el resto en heces. Menos del 2% de la dosis se excreta en orina como irbesartan
+inalterado. La hidroclorotiazida no se metaboliza pero es rápidamente eliminada por el riñón. Al
+menos, el 61% de la dosis oral se elimina inalterada en 24 horas. La hidroclorotiazida atraviesa la
+placenta pero no la barrera hematoencefálica, y se excreta con la leche.
+ Insuficiencia renal: los parámetros farmacocinéticos de irbesartan no se modifican significativamente
+en pacientes con alteración renal o en pacientes en hemodiálisis. Irbesartan no se elimina por
+hemodiálisis. En pacientes con una aclaramiento de creatinina < 20 ml/min, se ha observado que la
+semivida de eliminación de hidroclorotiazida aumenta a 21 horas.
+ Insuficiencia hepática: los parámetros farmacocinéticos de irbesartan no se modifican
+significativamente en pacientes con cirrosis de leve a moderada. No se han realizado estudios en
+pacientes con insuficiencia hepática grave.
+ 5.3   Datos preclínicos sobre seguridad
+ Irbesartan/hidroclorotiazida: se evaluó la toxicidad potencial de la combinación
+irbesartan/hidroclorotiazida tras la administración oral a ratas y macacos durante 6 meses. No se
+observaron hallazgos toxicológicos de relevancia para su uso terapéutico en humanos.
+Los siguientes cambios, observados en ratas y macacos que recibieron dosis de 10/10 y
+90/90 mg/kg/día de la combinación irbesartan/hidroclorotiazida, también se observaron con la
+administración de uno de los dos medicamentos en monoterapia y/o fueron secundarios a la reducción
+de la presión arterial (no se observaron interaciones toxicológicas significativas):
+cambios renales, caracterizados por ligeros incrementos en los valores de urea y creatinina
+séricos, e hiperplasia/hipertrofia del sistema yuxtaglomerular, que es una consecuencia directa
+de la interacción de irbesartan con el sistema renina-angiotensina;
+ligeros descensos en los parámetros eritrocitarios (eritrocitos, hemoglobina, hematocrito);
+decoloración del estómago, úlceras y necrosis focal de la mucosa gástrica fueron observados en
+un estudio de toxicidad en algunas ratas de 6 meses de duración a las que se les administraron
+90 mg/kg/día de irbesartan, 90 mg/kg/día de hidroclorotiazida y 10/10 mg/kg/día de
+irbesartan/hidroclorotiazida. Estas lesiones no se observaron en macacos;
+descensos del potasio sérico debidos a la hidroclorotiazida, y parcialmente evitado cuando la
+hidroclorotiazida se administró en combinación con irbesartan.
+La mayoría de los efectos anteriormente mencionados parecen debidos a la actividad farmacológica de
+irbesartan (bloqueo de la inhibición inducida por la angiotensina-II sobre la liberación de renina, con
+estimulación de las células productoras de renina) y también ocurre con los inhibidores de la enzima
+de conversión de angiotensina. Estos hallazgos parecen no tener relevancia para el uso de dosis
+terapéuticas de irbesartan/hidroclorotiazida en humanos.
+ No se han observado efectos teratogénicos en ratas a las dosis de la asociación de irbesartan e
+hidroclorotiazida que producen toxicidad materna. Los efectos sobre la fertilidad de la asociación
+irbesartan/hidroclorotiazida, no han sido evaluados en estudios en animales, ya que no hay evidencia
+de efectos adversos sobre la fertilidad en animales o en el hombre cuando se administra irbesartan o
+hidroclorotiazida en monoterapia. Sin embargo, los parámetros de fertilidad se vieron afectados por
+otros antagonistas de la angiotensina-II administrados en monoterapia. Estos hallazgos también se
+observaron con dosis más bajas de estos antagonistas de la angiotensina-II cuando se administraron en
+combinación con hidroclorotiazida.
+ No hubo evidencia de mutagenicidad o clastogenicidad con la asociación irbesartan/hidroclorotiazida.
+No se han realizado estudios en animales para evaluar el potencial carcinogénico de irbesartan e
+hidroclorotiazida en asociación.
+ Irbesartan: no hubo evidencia de toxicidad sistémica ni toxicidad en órganos diana a dosis
+clínicamente significativas. En estudios no-clínicos de seguridad, dosis elevadas de irbesartan
+                                                    13
+( 250 mg/kg/día en ratas y  100 mg/kg/día en macacos) causaron una disminución de los parámetros
+hematológicos (eritrocitos, hemoglobina, hematocrito). A dosis muy superiores ( 500 mg/kg/día) en
+la rata y el macaco, irbesartan indujo cambios degenerativos en el riñón (como nefritis intersticial,
+distensión tubular, túbulos basofílicos, concentraciones plasmáticas elevadas de urea y creatinina)
+considerados como secundarios a los efectos hipotensores del medicamento que originan una
+disminución de la perfusión renal. Además, irbesartan indujo hiperplasia/hipertrofia de las células
+yuxtaglomerulares (en ratas con  90 mg/kg/día, en macacos con  10 mg/kg/día). Todos estos
+hallazgos se consideraron relacionados con la acción farmacológica de irbesartan. A dosis terapéuticas
+de irbesartan en humanos, la hiperplasia/hipertrofia de las células renales yuxtaglomerulares no parece
+tener ninguna relevancia.
+No hubo evidencia de mutagenicidad, clastogenicidad o carcinogenicidad.
+Los estudios realizados en animales con irbesartan han mostrado efectos tóxicos transitorios (aumento
+de la cavitación pélvica renal, hidrouréter o edema subcutáneo) en fetos de rata, que se resolvieron tras
+el nacimiento. En conejos, se ha descrito aborto o resorción temprana a dosis que producen toxicidad
+materna significativa, incluyendo mortalidad. No se han observado efectos teratogénicos en rata o
+conejo.
+ Hidroclorotiazida: aunque en algunos modelos experimentales se han observado evidencias equívocas
+de un efecto genotóxico o carcinogénico, la amplia experiencia disponible en humanos no ha
+demostrado ninguna asociación entre su utilización y un aumento de neoplasias.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Celulosa microcristalina
+Croscarmelosa sódica
+Lactosa monohidrato
+Estearato de magnesio
+Sílice coloidal hidratada
+Almidón de maíz pregelatinizado
+Óxidos de hierro rojo y amarillo
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC.
+Conservar en el embalaje original para protegerlo de la humedad
+ 6.5   Naturaleza y contenido del envase
+ Envases de cartón de 14 comprimidos; 1 lámina blister de 14 comprimidos en blister de
+PVC/PVDC/Aluminio.
+Envases de cartón de 28 comprimidos; 2 láminas blister de 14 comprimidos en blisters de
+PVC/PVDC/Aluminio.
+Envases de cartón de 56 comprimidos; 4 láminas blister de 14 comprimidos en blisters de
+PVC/PVDC/Aluminio.
+Envases de cartón de 98 comprimidos; 7 láminas blister de 14 comprimidos en blisters de
+PVC/PVDC/Aluminio.
+                                                    14
+Envases de cartón de 56 x 1 comprimidos; 7 láminas blister de 8 x 1 comprimidos cada uno en blister
+precortado unidosis de PVC/PVDC/Aluminio.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con las normativas locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	BRISTOL-MYERS SQUIBB PHARMA EEIG
+Uxbridge Business Park
+Sanderson Road
+Uxbridge UB8 1DH - Reino Unido
+ 
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/98/085/001-003
+EU/1/98/085/007
+EU/1/98/085/009
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización 16 Octubre 1998
+Fecha de la última renovación: 16 Octubre 2003
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA): http://www.emea.europa.eu/
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Karvezide, 300 mg/12,5 mg, comprimidos.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 300 mg de irbesartan y 12,5 mg de hidroclorotiazida.
+ Excipiente: 65,8 mg de lactosa monohidrato por comprimido.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido.
+Blanco o blanquecino, biconvexo y de forma ovalada, con un corazón troquelado en una cara y el
+número 2776 grabado en la otra cara.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+Esta combinación a dosis fija está indicada en pacientes cuya presión arterial no se controla
+adecuadamente con irbesartan o hidroclorotiazida en monoterapia (ver apartado 5.1)
+ 4.2   Posología y forma de administración
+ Karvezide puede administrarse una vez al día, con o sin alimentos.
+Puede ser recomendable el ajuste de dosis mediante el empleo de los componentes individuales
+(irbesartan e hidroclorotiazida).
+ Se puede considerar el cambio directo de la monoterapia a las combinaciones fijas, cuando desde el
+punto de vista clínico se considere apropiado:
+Karvezide 150 mg/12,5 mg puede administrarse en pacientes cuya presión arterial no se controle
+adecuadamente con hidroclorotiazida o irbesartan 150 mg en monoterapia.
+Karvezide 300 mg/12,5 mg puede administrarse en pacientes cuya presión arterial no se controla
+adecuadamente con irbesartan 300 mg o con Karvezide 150 mg/12,5 mg.
+Karvezide 300 mg/25 mg puede administrarse en pacientes cuya presión arterial no se controla
+adecuadamente con Karvezide 300 mg/12,5 mg.
+ No se recomienda administrar dosis superiores a 300 mg de irbesartan/25 mg de hidroclorotiazida una
+vez al día.
+Cuando sea necesario, Karvezide puede administrarse junto con otro medicamento antihipertensivo
+(ver apartado 4.5).
+ Insuficiencia renal: en pacientes con deterioro grave de la función renal (aclaramiento de creatinina
+< 30 ml/min) no se recomienda utilizar Karvezide, debido al componente hidroclorotiazida. En esta
+población de pacientes es preferible administrar diuréticos del asa en lugar de diuréticos tiazídicos. No
+es preciso realizar un ajuste de dosis en aquellos pacientes con insuficiencia renal cuyo aclaramiento
+de creatinina sea  30 ml/min (ver secciones 4.3 y 4.4).
+ Depleción de volumen intravascular: antes de iniciar el tratamiento con Karvezide debe corregirse la
+depleción de sal y/o volumen.
+                                                     16
+Insuficiencia hepática: Karvezide no está indicado en pacientes con insuficiencia hepática grave. Las
+tiazidas deben utilizarse con precaución en pacientes con alteración de la función hepática. No es
+necesario realizar un ajuste de dosis de Karvezide en pacientes con alteración de la función hepática de
+leve a moderada (ver apartado 4.3).
+ Pacientes ancianos: no es necesario realizar un ajuste de dosis de Karvezide en pacientes ancianos.
+ Niños y adolescentes: no hay experiencia en niños y adolescentes.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a los principios activos, o a alguno de los excipientes (ver apartado 6.1) o a otros
+fármacos derivados de la sulfonamida (la hidroclorotiazida es un fármaco derivado de la sulfonamida).
+Segundo y tercer trimestre de embarazo (ver secciones 4.4 y 4.6).
+Lactancia (ver apartado 4.6).
+Insuficiencia renal grave (aclaramiento de creatinina < 30 ml/min),
+Hipopotasemia refractaria, hipercalcemia,
+Insuficiencia hepática grave, cirrosis biliar y colestasis.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Hipotensión - Pacientes con depleción de volumen: en raras ocasiones se ha relacionado Karvezide
+con hipotensión sintomática en pacientes hipertensos sin otros factores de riesgo para la hipotensión.
+Puede observarse hipotensión sintomática en pacientes con depleción de sal y/o volumen por
+tratamientos prolongados con diuréticos, dietas restrictivas en sal, diarrea o vómitos. Estas situaciones
+deben corregirse antes de iniciar el tratamiento con Karvezide.
+ Estenosis de la arteria renal - Hipertensión renovascular: existe un mayor riesgo de hipotensión grave
+e insuficiencia renal, cuando los pacientes que presentan estenosis bilateral de la arteria renal o
+estenosis de la arteria renal en riñón único funcionante se tratan con inhibidores de la enzima de
+conversión de la angiotensina o con antagonistas de los receptores de la angiotensina-II. Aunque esto
+no se ha descrito con Karvezide, puede preverse un efecto similar.
+ Insuficiencia renal y trasplante renal: cuando se utiliza Karvezide en pacientes con insuficiencia renal,
+se recomienda realizar controles periódicos de los niveles séricos de potasio, creatinina y ácido úrico.
+No existe experiencia con la administración de Karvezide en pacientes recientemente sometidos a
+trasplante renal. Karvezide no debe utilizarse en pacientes con insuficiencia renal grave (aclaramiento
+de creatinina < 30 ml/min) (ver apartado 4.3). En pacientes con deterioro de la función renal puede
+producirse uremia asociada a la utilización de diuréticos tiazídicos. No es necesario realizar ajuste de
+dosis en pacientes con insuficiencia renal cuyo aclaramiento de creatinina sea  30 ml/min. Sin
+embargo, en pacientes con insuficiencia renal de leve a moderada (aclaramiento de creatinina
+30 ml/min pero < 60 ml/min) esta combinación a dosis fija se deberá administrar con precaución.
+ Insuficiencia hepática: las tiazidas deben utilizarse con precaución en pacientes con deterioro de la
+función hepática o enfermedad hepática progresiva, ya que ligeras alteraciones del equilibrio
+hidroelectrolítico podrían precipitar un coma hepático. No existe experiencia clínica con Karvezide en
+pacientes con insuficiencia hepática.
+ Estenosis valvular aórtica y mitral, cardiomiopatía hipertrófica obstructiva: como sucede con otros
+vasodilatadores, se recomienda especial precaución en pacientes con estenosis aórtica o mitral, o con
+cardiomiopatía hipertrófica obstructiva.
+ Aldosteronismo primario: los pacientes con aldosteronismo primario generalmente no responden al
+tratamiento con medicamentos antihipertensivos que actúan por inhibición del sistema renina-
+angiotensina. Por tanto, no se recomienda el uso de Karvezide.
+ Efectos metabólicos y endocrinos: el tratamiento con tiazidas puede modificar la tolerancia a la
+glucosa. En pacientes diabéticos pueden ser necesarios ajustes de la dosificación de insulina o de
+agentes hipoglucemiantes. Durante la terapia con tiazidas puede manifestarse una diabetes mellitus
+latente.
+Se ha asociado el tratamiento con diuréticos tiazídicos con incrementos de los niveles de colesterol y
+triglicéridos; sin embargo, a la dosis de 12,5 mg de hidroclorotiazida contenida en Karvezide, estos
+efectos no se han observado o han sido mínimos.
+En algunos pacientes en tratamiento con tiazidas puede producirse hiperuricemia o precipitarse un
+ataque de gota.
+ Desequilibrio electrolítico: al igual que sucede con cualquier paciente en tratamiento con diuréticos,
+deben realizarse determinaciones periódicas de electrolitos séricos a los intervalos adecuados.
+Las tiazidas, incluyendo hidroclorotiazida, pueden producir desequilibrio hídrico o electrolítico
+(hipopotasemia, hiponatremia, y alcalosis hipoclorémica). Son signos que indican un desequilibrio
+hidroelectrolítico: sequedad de boca, sed, debilidad, letargo, adormecimiento, inquietud, dolores
+musculares o calambres, fatiga muscular, hipotensión, oliguria, taquicardia y alteraciones
+gastrointestinales como náuseas o vómitos.
+Aunque los diuréticos tiazídicos pueden producir hipopotasemia, la terapia concomitante con
+irbesartan puede reducir la hipopotasemia inducida por diuréticos. El riesgo de hipopotasemia es
+mayor en pacientes con cirrosis hepática, en pacientes con aumento de la diuresis, en pacientes que
+reciben una ingesta oral inadecuada de electrolitos y en pacientes en tratamiento concomitante con
+corticosteroides o ACTH. Por el contrario, debido al componente de Karvezide irbesartan puede
+aparecer hiperpotasemia, especialmente en presencia de insuficiencia renal y/o fallo cardiaco, y
+diabetes mellitus. En pacientes con riesgo se recomienda monitorizar los niveles plasmáticos de
+potasio. Debe realizarse con precaución la administración concomitante de Karvezide y diuréticos
+ahorradores de potasio, suplementos de potasio o sustitutos de la sal que contengan potasio (ver apartado 4.5).
+No hay evidencia de que irbesartan reduzca o prevenga la hiponatremia inducida por diuréticos. En
+general, el déficit de cloruros es leve y habitualmente no requiere tratamiento.
+Las tiazidas pueden disminuir la excreción urinaria de calcio y producir una elevación leve y
+transitoria del calcio sérico en ausencia de desequilibrios conocidos del metabolismo del calcio. Una
+marcada hipercalcemia puede ser indicativa de hiperparatiroidismo subclínico. Antes de realizar las
+pruebas de función paratiroidea debe interrumpirse el tratamiento con tiazidas.
+Las tiazidas han demostrado incrementar la excreción urinaria de magnesio, lo que puede dar lugar a
+hipomagnesemia.
+ Litio: no se recomienda la combinación de litio y Karvezide (ver apartado 4.5).
+ Control del dopaje: la cantidad de hidroclorotiazida que contiene este medicamento puede ocasionar
+resultados falsos positivos en el control del dopaje.
+ Generales: en pacientes cuyo tono vascular y función renal dependen principalmente de la actividad
+del sistema renina-angiotensina-aldosterona (ej: pacientes con insuficiencia cardíaca congestiva grave
+o enfermedad renal subyacente, incluyendo estenosis de la arteria renal), el tratamiento con inhibidores
+de la enzima de conversión de la angiotensina o con antagonistas de los receptores de la
+angiotensina-II que afectan a este sistema se ha asociado con hipotensión aguda, uremia, oliguria o, en
+raras ocasiones con insuficiencia renal aguda. Como sucede con todos los antihipertensivos, el
+descenso excesivo de la presión arterial en pacientes con cardiopatía isquémica o enfermedad
+cardiovascular isquémica puede provocar un infarto de miocardio o un accidente cerebrovascular.
+Pueden aparecer reacciones de hipersensibilidad a hidroclorotiazida en pacientes con o sin
+antecedentes de alergia o asma bronquial, pero son más probables en pacientes con estos antecedentes.
+Durante el tratamiento con diuréticos tiazídicos, se han observado casos de exacerbación o activación
+de lupus eritematoso sistémico.
+ Embarazo: No se debe iniciar ningún tratamiento con Antagonistas de los Receptores de la
+Angiotensina II (ARA II) durante el embarazo. Salvo que se considere esencial continuar el
+tratamiento con los ARAII, las pacientes que estén planeando quedarse embarazadas deberán cambiar
+                                                    18
+a un tratamiento antihipertensivo alternativo que tenga un perfil de seguridad conocido para su uso
+durante el embarazo. Cuando se diagnostique un embarazo, deberá interrumpirse inmediatamente el
+tratamiento con los ARAII, y si procede, iniciar un tratamiento alternativo (ver secciones 4.3 y 4.6).
+ Lactosa: este producto contiene lactosa. No deben tomar este medicamento los pacientes con
+problemas hereditarios raros de intolerancia a la galactosa, deficiencia de lactasa Lapp o malabsorción
+de glucosa-galactosa.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Otros agentes antihipertensivos: el efecto antihipertensivo de Karvezide puede incrementarse con el
+uso concomitante de otros agentes antihipertensivos. Irbesartan e hidroclorotiazida (con dosis de hasta
+300 mg de irbesartan/25 mg de hidroclorotiazida) han sido administrados de forma segura con otros
+agentes antihipertensivos incluyendo calcio-antagonistas y bloqueantes beta-adrenérgicos. Al iniciar la
+terapia con irbesartan con o sin diuréticos tiazídicos, el tratamiento previo con dosis elevadas de
+diuréticos puede producir depleción de volumen y riesgo de hipotensión, a no ser que previamente se
+corrija la depleción de volumen (ver apartado 4.4).
+ Litio: durante la administración concomitante de litio con inhibidores de la enzima de conversión de la
+angiotensina, se han detectado incrementos reversibles de las concentraciones séricas de litio y de la
+toxicidad. Muy raramente se han descrito efectos similares con irbesartan. Además, las tiazidas
+reducen el aclaramiento renal de litio, por lo que Karvezide podría incrementar el riesgo de la
+toxicidad. Por lo tanto, la combinación de litio y Karvezide no está recomendada (ver apartado 4.4). Si
+la combinación fuera necesaria, se recomienda monitorizar los niveles séricos de litio.
+ Medicamentos que modifican el potasio: el efecto deplecionante de potasio de la hidroclorotiazida es
+atenuado por el efecto ahorrador de potasio de irbesartan. Sin embargo, este efecto de la
+hidroclorotiazida sobre el potasio sérico es posible que se potencie con con otros medicamentos asociados
+con la pérdida de potasio y la hipopotasemia (ej: otros diuréticos kaliuréticos, laxantes, anfotericina,
+carbenoxolona, penicilina G sódica). Por el contrario, dada la experiencia con la utilización de con otros medicamentos que bloquean el sistema renina-angiotensina, la utilización concomitante de diuréticos
+ahorradores de potasio, suplementos de potasio, sustitutos de la sal que contengan potasio u con otros medicamentos susceptibles de incrementar los niveles séricos de potasio (ej: heparina sódica) pueden
+producir elevaciones del potasio sérico. Se recomienda la monitorización adecuada del potasio sérico
+en pacientes de riesgo (ver apartado 4.4).
+ Medicamentos afectados por alteraciones del potasio sérico: Cuando se administre Karvezide con
+medicamentos que puedan verse afectados por alteraciones del potasio sérico (ej: glucósidos
+digitálicos, antiarrítmicos), se recomienda la monitorización periódica del potasio sérico.
+ Antiinflamatorios no esteroideos: cuando se administran antagonistas de angiotensina II
+simultáneamente con medicamentos antiinflamatorios no esteroideos (por ejemplo, inhibidores COX-
+2, ácido acetil salicilico (> 3 g/dia) y AINEs no selectivos), podría ocurrir la atenuación del efecto
+antihipertensivo.
+Como con los inhibidores de la ECA, la administración concomitante de los antagonistas de la
+angiotensina II y AINEs podría provocar un incremento del riesgo de empeoramiento de la función
+renal, incluyendo una posible insuficiencia renal aguda, y un aumento de potasio sérico especialmente
+en pacientes con una pobre función renal previa. La combinación debe ser administrada con
+precaución, especialmente en ancianos. Los pacientes deben estar adecuadamente hidratados y debe
+considerarse la monitorización de la función renal después del comienzo de la terapia concomitante y
+periodicamente después.
+ Información adicional sobre las interacciones con irbesartan: en estudios clínicos, la hidroclorotiazida
+no modifica la farmacocinética de irbesartan. Irbesartan se metaboliza principalmente por el CYP2C9
+y en menor medida por glucuronización. No se observaron interacciones farmacocinéticas o
+farmacodinámicas significativas cuando se administró irbesartan junto con warfarina, un medicamento
+metabolizado por CYP2C9. No se han evaluado los efectos de los inductores del CYP2C9 como
+                                                    19
+rifampicina en la farmacocinética de irbesartan. La farmacocinética de digoxina no se modificó por la
+coadministración de irbesartan.
+ Información adicional sobre las interacciones con hidroclorotiazida: los siguientes medicamentos
+pueden interaccionar con los diuréticos tiazídicos cuando se administran conjuntamente:
+ Alcohol: pueden potenciar la hipotensión ortostática;
+ Medicamentos antidiabéticos (fármacos orales e insulina): pueden ser necesarios ajustes de la dosis de
+los antidiabéticos (ver apartado 4.4);
+ Colestiramina y colestipol: la absorción de hidroclorotiazida puede verse modificada en presencia de
+resinas de intercambio aniónico;
+ Corticosteroides, ACTH: puede incrementarse la depleción de electrolitos, especialmente puede
+producirse hipopotasemia;
+ Glucósidos digitálicos: la hipopotasemia o la hipomagnesemia inducida por tiazidas favorece la
+aparición de arritmias cardiacas inducidas por digital (ver apartado 4.4).
+ Antiinflamatorios no esteroideos: en algunos pacientes la administración de un fármaco
+antiinflamatorio no esteroideo puede reducir los efectos diuréticos, natriuréticos y antihipertensivos de
+los diuréticos tiazídicos;
+ Aminas presoras (ej: noradrenalina): se puede disminuir el efecto de las aminas presoras, pero no lo
+suficiente como para no ser utilizadas;
+ Relajantes no despolarizantes del músculo esquelético (ej: tubocurarina): la hidroclorotiazida puede
+potenciar el efecto de los relajantes no despolarizantes del músculo esquelético;
+ Medicamentos antigotosos: pueden ser necesarios ajustes de la dosis de los medicamentos antigotosos,
+ya que la hidroclorotiazida puede elevar el nivel del ácido úrico sérico. Puede ser necesario un
+incremento en la dosificación de probenecid o sulfinpirazona. La administración concomitante de
+diuréticos tiazídicos puede incrementar la incidencia de reacciones de hipersensibilidad al alopurinol;
+ Sales de calcio: los diuréti
+ 
+	Prospectos de medicamentos.

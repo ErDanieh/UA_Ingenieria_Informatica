@@ -1,0 +1,225 @@
+HALFAN 250MG 6 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento 
+1.     NOMBRE DEL MEDICAMENTO
+	Halfan 250 mg Comprimidos.
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       Cada comprimido contiene 250 mg de halofantrina clorhidrato (equivalente a 233 mg de
+base libre).
+ 
+3.     FORMA FARMACÉUTICA
+	       Comprimidos con forma de cápsula de color blanco a blanquecino. Los comprimidos van
+ranurados en uno de los lados y en el otro llevan grabado Halfan.
+ 
+
+
+4.     DATOS CLÍNICOS
+	"4.1    Indicaciones terapéuticas
+        a) Tratamiento
+        Halofantrina está indicada en el tratamiento de infecciones agudas causadas por
+Plasmodium falciparum y P.vivax, siendo especialmente útil frente a aquellas cepas
+resistentes a cloroquina u otros fármacos antimaláricos.
+        En el caso de infecciones causadas por P.vivax, el tratamiento con halofantrina deberá
+completarse con la administración de un derivado de 8-aminoquinolona (ej: primaquina)
+para eliminar las formas hepáticas.
+        Halfan puede ser administrado a pacientes que no toleren otros antimaláricos.
+        b) Automedicación de urgencia (en caso de aparición de síntomas)
+        La automedicación de urgencia con halofantrina debería prescribirse únicamente a
+aquellas personas con intervalo QTc normal evaluado por un ECG reciente (ver también
+Secciones 4.4. y 4.5.).
+        La automedicación con halofantrina puede realizarse en viajeros no inmunizados en caso
+de sospecha de malaria (fiebre, posiblemente con agitación, escalofríos acompañados por
+cefalea y dolor de extremidades, otros síntomas de causa desconocida). La
+automedicación de urgencia sólo debe realizarse si no se dispone de atención médica y
+una vez transcurridos un mínimo de 8 días (período de incubación más corto) después de
+llegar a una zona endémica o viajar a través de ella.
+La automedicación debe ir seguida por una consulta médica u hospitalaria para confirmar
+el diagnóstico y posterior tratamiento, en caso necesario.
+        La automedicación de urgencia con halofantrina no debe sustituir el tratamiento
+antimalárico preventivo.
+        Profilaxis: No debe utilizarse halofantrina como tratamiento profiláctico.
+        No se ha establecido la seguridad y eficacia de halofantrina en el tratamiento de pacientes
+con malaria cerebral ni otras formas de malaria complicada.
+ 4.2.   Posología y forma de administración
+        Adultos y niños de más de 40kg de peso: Un total de 6 comprimidos de 250 mg (1.500
+mg) administrados en tres tomas fraccionadas (2 comprimidos de 250 mg cada 6 horas).
+        Niños con peso comprendido entre 26-40 kg: la dosis pediátrica total es de 24 mg/kg
+fraccionada en 3 tomas:
+                                                                          Número de tomas *
+Peso                   Posología por toma
+ 26-31 kg
+32-40 kg
+        *Las tres tomas que constituyen el tratamiento inicial deben ir separadas entre sí por
+intervalos de 6 horas.
+        En los casos en que el paciente no haya estado expuesto a la malaria anteriormente (ej:
+viajeros de áreas no endémicas) o en los que la exposición haya sido mínima (ej: niños
+pequeños), se recomienda administrar, una semana después del tratamiento inicial, un
+segundo ciclo de otras tres tomas.
+        Se recomienda que halofantrina se administre con el estómago vacío (ver también Sección
+5.2.). Esto es importante para todos los ciclos del tratamiento (ver apartado 4.4.).
+        Automedicación de urgencia. La posología para la automedicación de urgencia es
+idéntica a la pauta posológica estándar descrita anteriormente.
+ 4.3.   Contraindicaciones
+        Halofantrina está contraindicada en:
+        · Pacientes con historial de conocida hipersensibilidad (como anemia hemolítica
+autoinmune) a halofantrina o a cualquiera de los excipientes de Halfan
+· Pacientes con prolongación del intervalo QT congénita o en aquellas situaciones clínicas
+que supongan un riesgo añadido tales como:
+- bradicardia clínicamente significativa
+- el uso concomitante de fármacos que se sabe que prolongan el intervalo QT,
+entre los que se incluyen ciertos antiarrítmicos, como los de la clase IA (tales
+como quinidina, disopiramida y procainamida) y clase III (tales como
+amiodarona y sotalol); antidepresivos tricíclicos, ciertos antidepresivos
+tetracíclicos (tales como maprotilina); ciertos medicamentos antipsicóticos
+(tales como fenotiazinas y pimozida); ciertos antihistamínicos (tales como
+astemizol y terfenadina); bepridil, cisaprida, esparfloxacino y mefloquina
+· Alteraciones electrolíticas, particularmente hipomagnesemia o hipocaliemia.
+                                                                                                       MINISTERIO
+4.4.   Advertencias y precauciones especiales de empleo
+        Se ha demostrado que halofantrina causa una prolongación dosis-dependiente
+del intervalo QTc, que revierte habitualmente en 3-4 días. Este efecto se ha
+asociado con arritmias graves (a veces con desenlace fatal), incluso a la dosis
+terapéutica recomendada. Por ello, deberá realizarse una cuidadosa anamnesis
+y considerar la posibilidad de realizar un ECG antes de comenzar el tratamiento.
+Es esencial que el paciente:
+          Tome la dosis recomendada con el estómago vacío
+Evite comidas grasas durante 24 horas, ya que aumenta la absorción de halofantrina y,
+por tanto, el riesgo de prolongación del intervalo QT.
+        Precauciones específicas para el segundo ciclo de tratamiento:
+        La administración de un segundo ciclo de tratamiento a pacientes no expuestos
+previamente a la malaria para reducir el riesgo de recaída puede aumentar los niveles
+plasmáticos del fármaco que está asociado con prolongación del intervalo QTc y arritmias
+cardíacas; se recomienda, por tanto, un especial cuidado en estos casos. Además, se debe
+aconsejar al paciente que tome la dosis con el estómago vacío para evitar las comidas
+grasas durante 24 h. Esta advertencia es particularmente importante durante un segundo
+ciclo del tratamiento (ver apartado 4.2.), ya que el paciente probablemente haya mejorado
+y esté comiendo normalmente.
+        La administración concomitante de antimaláricos junto con bupropión debe ser evaluada,
+ya que éstos disminuyen el umbral de convulsiones.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+        Los estudios in vitro han demostrado que los medicamentos que inhiben el citocromo
+CYP3A4, por ej. eritromicina, indinavir, ciprofloxacino, cimetidina, ketoconazol, ....
+conducen a una inhibición del metabolismo de halofantrina. En estudios llevados a cabo
+con animales tratados con ketoconazol por vía oral, se observó disminución del
+metabolismo de halofantrina (véase Advertencias y precauciones).
+        La principal vía metabólica de halofantrina es a través del CYP3A4. El uso concomitante,
+oral o parenteral, de fármacos que inhiben significativamente estas enzimas podría dar
+como resultado un aumento de los niveles plasmáticos de halofantrina y podría aumentar
+el riesgo de una prolongación del QT y arritmia cardíaca incluyendo taquicardia
+ventricular, fibrilación ventricular, ""torsade de pointes"". Por tanto, el uso de tales
+fármacos está contraindicado. Se incluyen los siguientes ejemplos:
+- azoles antifúngicos tales como ketoconazol, itraconazol, miconazol y fluconazol
+- antibióticos macrólidos tales como eritromicina, claritromicina o troleandomicina
+- VIH inhibidores de la proteasa ­ estudios in vitro sugieren que ritonavir e indinavir son
+inhibidores potentes del CYP3A4, mientras que saquinovir es solamente un inhibidor
+ligero
+- nefazodona.
+ También están contraindicados aquellos fármacos que se sabe que prolongan el intervalo
+QT. Algunos ejemplos incluyen ciertos antiarrítmicos, como los de la clase IA (tales
+como quinidina, disopiramida y procainamida) y clase III (tales como amiodarona y
+sotalol); antidepresivos tricíclicos (tales como amitriptilina); ciertos antidepresivos
+tetracíclicos (tales como maprotilina); ciertos medicamentos antipsicóticos (tales como
+fenotiazinas y pimozida); ciertos antihistamínicos (tales como astemizol y terfenadina);
+bepridil, esparfloxacino y moxifloxacino.
+        La coadministración de zumo de pomelo con halofantrina aumenta la biodisponibilidad de
+halofantrina y, por tanto, se debe evitar su uso concomitante.
+        La presencia de grasas a nivel gástrico aumenta la absorción de halofantrina, deben
+evitarse las comidas grasas durante el tratamiento, incluido el segundo ciclo de
+tratamiento si es necesario.
+ 4.6.   Embarazo y lactancia
+        No se debe utilizar halofantrina en mujeres embarazadas o en período de lactancia a no
+ser que el beneficio potencial supere los posibles riesgos para la madre, feto o recién
+nacido.
+        No se han observado efectos teratogénicos en estudios realizados con animales, pero a
+dosis superiores a 15 mg/kg se observó toxicidad embrionaria, expresada como una mayor
+frecuencia de muerte embrionaria post-implantación y peso corporal fetal reducido.
+        Los datos en ratas lactantes sugieren que halofantrina puede excretarse en la leche
+materna, debido a la disminución en la ganancia de peso de la descendencia.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar maquinaria
+        No se tiene evidencia de que halofantrina pueda afectar la capacidad de un paciente para
+conducir o utilizar maquinaria.
+ 4.8.   Reacciones adversas
+        Se han descrito casos de náuseas, dolor abdominal, diarrea, prurito y erupciones cutáneas
+después del tratamiento.
+        Se ha comunicado prolongación del intervalo QTc. Raramente se han notificado casos de
+arritmias ventriculares graves, algunas veces asociadas con fallecimiento. Estos casos han
+ocurrido especialmente en ciertas situaciones tales como el uso de dosis superiores a las
+recomendadas, el tratamiento reciente o concomitante con mefloquina, o la presencia de
+prolongación preexistente del intervalo QTc.
+        Raramente se han notificado crisis convulsivas.
+        En pacientes con malaria tratados con halofantrina, se ha descrito anemia hemolítica
+inmune (que puede ser grave) que puede comprometer la función renal. También se han
+observado reacciones hemolíticas en pacientes con malaria en ausencia de halofantrina.
+ Después del tratamiento, ocasionalmente se ha descrito elevación de las transaminasas
+séricas. Habitualmente los valores vuelven a la normalidad una semana después de
+finalizado el tratamiento.
+ 4.9.   Sobredosificación
+        No hay experiencia de sobredosis aguda con halofantrina. La ausencia de casos de
+sobredosificación aguda con halofantrina hasta la fecha, impide la caracterización de las
+secuelas y la evaluación de un antídoto eficaz. Sin embargo, en caso de sobredosificación
+accidental, se recomienda inducción inmediata de emesis o lavado gástrico, junto con
+tratamiento de apoyo apropiado, que debe incluir una monitorización electrocardiográfica.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1.   Propiedades farmacodinámicas
+        En los estudios in vitro e in vivo realizados en animales y en los estudios clínicos
+realizados en el hombre se ha demostrado que halofantrina es eficaz en el tratamiento de
+las infecciones causadas por Plasmodium falciparum y P.vivax. Se ha comprobado
+eficacia en un número limitado de infecciones por P.malariae y P.ovale. La mayoría de
+los pacientes tratados con halofantrina han sido infectados con P.falciparum en zonas
+donde son frecuentes las cepas resistentes a cloroquina o a otros fármacos.
+        Halofantrina es esquizonticida y ejerce su acción en el estado eritrocítico del ciclo vital
+(trofozoito y esquizonte). No es efectiva frente a esquizontes exoeritrocíticos (hepáticos)
+ni frente a esporozoitos, merozoitos o gametocitos del ciclo vital de las especies de
+Plasmodium investigadas.
+ 5.2.   Propiedades farmacocinéticas
+        Tras la administración de una dosis única de clorhidrato de halofantrina, la concentración
+plasmática máxima se alcanza aproximadamente 6 horas después de la dosificación,
+mientras que la del metabolito equipotente, desbutil-halofantrina, se alcanza más tarde,
+generalmente entre las 10 y 18 horas después de la administración. La concentración
+máxima de halofantrina después de una dosis única de 500 mg tiene una media
+aproximada de 270 nmol/l (135 ng/ml) y la concentración del metabolito alcanza
+aproximadamente la mitad de este nivel. El perfil sanguíneo y el área bajo la curva (AUC)
+indican que halofantrina aparece en la circulación sistémica en el plazo de 1 hora tras su
+administración y que la absorción continúa a una velocidad relativamente baja durante
+algunas horas.
+        La vida media de eliminación de halofantrina de la sangre varía para cada individuo
+siendo generalmente de 24-48 horas. El metabolito desbutilo tiene una vida media de
+aproximadamente el doble que el compuesto original.
+        La vía fecal es la principal vía de eliminación.
+ Se ha observado que la absorción gastrointestinal del clorhidrato de halofantrina es
+variable tras la administración de dosis únicas (250 mg-2.000 mg) a individuos sanos. Por
+esta razón, se divide la dosis para asegurar concentraciones plasmáticas adecuadas.
+         La biodisponibilidad relativa de halofantrina se incrementa aproximadamente 6 veces
+cuando se administra con una comida grasa (ver apartado 4.2.). No deben utilizarse
+alimentos grasos para aumentar la absorción.
+ 5.3     Datos preclínicos sobre seguridad
+         Ver Sección 4.6. ""Embarazo y lactancia"".
+ "
+6.      DATOS FARMACÉUTICOS
+	6.1.    Relación de excipientes
+         Almidón pregelatinizado de maíz
+Povidona
+Carboximetilalmidón de sodio
+Celulosa microcristalina
+Talco
+Estearato de magnesio.
+ 6.2.    Incompatibilidades
+         No se han descrito.
+ 6.3.    Período de validez
+         3 años.
+ 6.4.    Precauciones especiales de conservación
+         Ninguna.
+ 6.5.    Naturaleza y contenido del envase
+         Envase blíster con 6 comprimidos.
+ 6.6.    Instrucciones de uso/manipulación
+         No se requieren instrucciones especiales.
+ 6.7.    Condiciones de dispensación
+         Especialidad farmacéutica con aportación reducida.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+8.   FECHA DE REVISIÓN DEL TEXTO
+	      Septiembre de 2005
+
+	Prospectos de medicamentos.

@@ -1,0 +1,302 @@
+FANAXAL 5 AMPOLLAS 10ML
+	Información Basica del medicamento Toda la información del medicamento 
+1.      DENOMINACIÓN DEL MEDICAMENTO
+	FANAXAL
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada mililitro contiene una cantidad de clorhidrato de alfentanilo equivalente a 0,5 mg de
+alfentanilo.
+ 
+3.      FORMA FARMACÉUTICA
+	FANAXAL es una solución estéril acuosa, isotónica, sin conservantes, para uso intravenoso
+(I.V.).
+
+
+
+4.      DATOS CLÍNICOS
+	4.1.    Indicaciones terapéuticas
+ FANAXAL está indicado para su utilización como: analgésico opiáceo, como adyuvante en
+anestesia local y en intervenciones de corta duración (inyecciones en bolo) o de larga duración (en
+bolo suplementado con incrementos o por infusión).
+ Debido a su rápido inicio de acción y a su corta duración, FANAXAL es particularmente
+adecuado como analgésico opiáceo para intervenciones cortas y cirugía ambulatoria, pero también
+como un suplemento analgésico para intervenciones de duración media y larga, dado que los
+períodos de estímulos muy dolorosos pueden superarse fácilmente con pequeños incrementos de
+FANAXAL o adaptando la velocidad de la infusión.
+ 4.2.    Posología y forma de administración
+ La dosis de FANAXAL debe individualizarse según la edad, peso corporal, estado físico, estado
+patológico subyacente, utilización de otros fármacos y tipo de intervención quirúrgica y de
+anestesia.
+La dosis inicial deberá reducirse en pacientes geriátricos y en pacientes debilitados. Deberá
+aumentarse en niños. El efecto de la dosis inicial deberá tenerse en cuenta en la determinación de
+dosis suplementarias.
+Para evitar bradicardia, se recomienda administrar una pequeña dosis intravenosa de un
+anticolinergico, justo antes de la inducción. Puede administrarse droperidol para prevenir las
+nauseas y los vómitos.
+ 1.      Utilización en intervenciones cortas y pacientes ambulatorios
+Las dosis pequeñas de FANAXAL son más útiles en intervenciones quirúrgicas menores
+y cortas, pero dolorosas, y en pacientes ambulatorios, siempre que se tenga disponible un
+buen equipo de monitorización. Una dosis intravenosa en bolo de 7 - 15 g/kg (1 - 2
+ml/70 kg) será suficiente para intervenciones que duren menos de 10 minutos. Si la
+duración de la intervencion se alarga más de 10 minutos, se administrarán incrementos
+adicionales de 7 - 15 g/kg (1 - 2 ml/70 kg) cada 10-15 minutos o según sea necesario.
+En la mayoría de los casos deberá mantenerse la respiración espontánea con una dosis de
+7 g/kg (1 ml/70 kg) o inferior, inyectada lentamente; con esta técnica se recomiendan
+incrementos de 3,5 g/kg (0,5 ml/70 kg).
+ Se recomienda no administrar droperidol o benzodiazepinas a pacientes ambulatorios
+dado que estos fármacos pueden prolongar el periodo de recuperación. En pacientes
+ambulatorios, la técnica preferible consiste en utilizar un anticolinérgico, un hipnótico de
+inducción de acción corta, FANAXAL y N2O/O2.
+Cuando se producen náuseas post-operatorias, éstas son de duración relativamente corta y
+fácilmente controlables con las medidas habituales.
+ 2.     Para intervenciones de duración media
+La dosis intravenosa inicial en bolo debe adaptarse a la duración esperada de la
+intervención quirúrgica según se indica:
+ Duración de la                           Dosis IV de FANAXAL en bolo
+intervención(min.)                                                   ml/70 kg
+10-30                              20-40                              3-6
+30-60                              40-80                              6-12
+>60                               80-150                             12-20
+ Cuando la intervención quirúrgica sea más prolongada o cruenta, la analgesia puede mantenerse
+por medio de:
+o bien incrementos de 15 g/kg (2 ml/70 kg) de FANAXAL cuando sea preciso
+-
+(para evitar la depresión respiratoria post-operatoria no deberá administrarse
+FANAXAL durante los últimos 10 minutos de intervención quirúrgica);
+o bien una infusión de FANAXAL a un ritmo de 1 g/kg/min (0,14 ml/70
+-
+kg/min) hasta 5 - 10 minutos antes de la finalización de la intervención.
+Los períodos de estímulos muy dolorosos pueden superarse fácilmente por medio de
+pequeñas dosis adicionales o bien aumentando la velocidad de infusión.
+Cuando se utiliza FANAXAL sin N2O/O2 o sin otro anestésico inhalado, se precisa una
+dosis de mantenimiento de FANAXAL más alta.
+ 3.      Para intervenciones quirúrgicas más largas
+FANAXAL puede utilizarse como el componente analgésico de la anestesia durante
+intervenciones quirúrgicas de larga duración, especialmente cuando se precisa una
+extubación rápida. Administrando una dosis intravenosa inicial adaptada de forma
+individual y ajustando el índice de infusión a la gravedad del estímulo quirúrgico y las
+reacciones de los pacientes, se mantendrá una analgesia óptima y una funcionalidad
+estable del sistema nervioso autónomo.
+ 4.3.   Contraindicaciones
+ Intolerancia conocida a alfentanilo u otros morfinomiméticos.
+ 4.4.   Advertencias y precauciones especiales de empleo
+ Como ocurre con todos los opiáceos potentes, la depresión respiratoria es dosis-dependiente y
+puede revertirse con antagonistas específicos (naloxona), pero pueden ser necesarias dosis
+adicionales de éstos últimos ya que la depresión respiratoria puede durar más que la acción del
+antagonista opiáceo. La analgesia profunda viene acompañada de depresión respiratoria
+importante que puede persistir o recurrir durante el post-operatorio. Por ello los pacientes a los
+que se les administre FANAXAL deben permanecer bajo vigilancia adecuada. Deben tenerse
+disponibles equipo de reanimación y antagonistas opiáceos. La hiperventilación durante la
+anestesia puede alterar la respuesta de los pacientes al CO2, afectando la respiración en el
+post-operatorio. Puede inducirse rigidez muscular, la cual podría incluir los músculos torácicos,
+pero ésta puede evitarse tomando las siguientes medidas: inyección i.v. lenta (generalmente
+suficiente para dosis bajas), premedicación con benzodiazepinas y utilización de relajantes
+musculares. Pueden ocurrir movimientos (mio)clónicos no epilépticos.
+Si no se administran anticolinérgicos o si se utilizan relajantes musculares no vagolíticos se puede
+observar bradicardia e incluso asistolica. La bradicardia puede tratarse con atropina.
+Los opiáceos pueden inducir hipotensión, especialmente en pacientes hipovolémicos. Deberán
+tomarse medidas adecuadas para mantener una presión arterial estable.
+Alfentanilo se metaboliza fundamentalmente por vía enzimática del citocromo P450 3A4.
+Los datos farmacocinéticos disponibles indican que el metabolismo de alfentanilo puede ser
+inhibido por algunos medicamentos (Ver Interacciones con con otros medicamentos y otras formas de
+interacción). Esto podría aumentar el riesgo de una depresión respiratoria retardada o prolongada
+por lo que el uso concomitante de estos fármacos requiere una cuidadosa vigilancia del paciente,
+pudiendo ser necesario disminuir la dosis de FANAXAL.
+Deberá evitarse la utilización de inyecciones en bolo rápidas de opiáceos en pacientes con la
+funcionalidad intracerebral comprometida; en estos pacientes el descenso transitorio de la presión
+arterial media puede acompañarse, en ocasiones, por una reducción de corta duración de la
+presión de perfusión cerebral.
+Los pacientes bajo tratamiento con opiáceos crónicos o con historial de dependencia a opiáceos
+pueden requerir dosis más altas.
+Es recomendable reducir la posología en pacientes debilitados y ancianos. Los opiáceos deben
+administrarse con precaución en los siguientes estados: hipotiroidismo no controlado,
+enfermedades pulmonares, reservas respiratorias disminuidas, alcoholismo y función hepática o
+renal alteradas. Estos pacientes requieren además una monitorización post operatoria prolongada.
+ 4.5.    Interacción con con otros medicamentos y otras formas de interacción
+ Algunos fármacos como los barbitúricos, benzodiazepinas, neurolépticos, gases halogenados y
+otros depresores no selectivos del SNC (p.e. alcohol) pueden potenciar la depresión respiratoria
+que producen los opiaceos. Cuando se hayan administrado tales fármacos, la dosis necesaria de
+FANAXAL será menor que la habitual; por el mismo motivo tras la administración de
+FANAXAL deberán reducirse las dosis necesarias de los farmacos depresores del SNC.
+Alfentanilo se metaboliza fundamentalmente por vía enzimática del citocromo P450 3A4.
+Los datos farmacocinéticos disponibles indican que el metabolismo de alfentanilo puede ser
+inhibido por conocidos inhibidores del citocromo P450 3A4 como: fluconazol, eritromicina,
+diltiazem, cimetidina y: ketoconazol, itraconazol, ritonavir). El uso concomitante de estos
+fármacos requiere la observación y cuidados especiales del paciente; en particular, puede ser
+necesario disminuir la dosis de FANAXAL.
+Los inhibidores de la MAO potencian los efectos de los analgésicos opiáceos, por lo que se debe
+evitar el uso de FANAXAL en aquellos pacientes que hayan recibido este tipo de fármacos
+durante las dos semanas previas a la intervencion quirúrgica. Sin embargo, algunos informes
+describen la utilización sin incidentes del opiáceo fentanilo durante procesos quirúrgicos y
+anestésicos en pacientes bajo inhibidores de la MAO.
+ 4.6.    Embarazo y lactancia
+ Aunque en la experimentación animal no se han observado teratogenicidad ni embriotoxicidad
+agudas, los datos de que se dispone no son suficientes para evaluar el potencial efecto dañino en
+el hombre. Ver Sección 5.3 (Datos preclínicos sobre seguridad). Consecuentemente se considerará
+la relación beneficio/riesgo antes de utilizar alfentanilo en mujeres embarazadas.
+No se recomienda la administración (I.M. o I.V.) de FANAXAL en el parto (incluso en la
+cesárea) ya que el alfentanilo atraviesa la placenta y el centro respiratorio fetal es particularmente
+sensible a la acción de los morfínicos. En cualquier caso, si se utiliza FANAXAL durante el parto,
+deberá disponerse de un antídoto para el niño.
+FANAXAL se puede excretar por la leche materna por lo cuál no se recomienda la lactancia hasta
+después de transcurridas 24 horas desde la última administración.
+ 4.7.         Efectos sobre la capacidad para conducir y utilizar máquinas
+ La conducción de vehículos o el uso de maquinaria peligrosa se pueden reiniciar cuando ha
+pasado el tiempo suficiente desde la última administración de FANAXAL. Aunque a este efecto
+la variación interindividual es grande, como media habrá que esperar entre 3 y 6 horas después de
+dosis de 1 a 3 ml y entre 12 y 24 horas después de dosis más altas o administración en infusión
+continua.
+ 4.8.         Reacciones adversas
+ A continuación se listan las reacciones adversas observadas en los ensayos clínicos asociadas con
+el uso de FANAXAL por orden decreciente de frecuencia dentro de cada sistema corporal.
+ Frecuencia estimada: Muy frecuentes  10 %; Frecuentes > 1% y < 10 %;
+Poco frecuentes >0.1 % y < 1 %.
+ Trastornos en el lugar de aplicación
+ Poco frecuentes: dolor en el lugar de inyección
+ Trastornos generales
+ Poco frecuentes: escalofríos, reacciones alérgicas (tales como anafilaxis, broncoespasmo,
+urticaria)
+ Trastornos cardiovasculares
+ Frecuentes: hipotensión, hipertensión
+ Trastornos del sistema nervioso central y periférico
+ Frecuentes: rigidez muscular (la cual puede también incluir los músculos torácicos), movimientos
+mioclónicos, mareo
+ Poco frecuentes: dolor de cabeza
+ Trastornos gastrointestinales
+ Muy frecuentes: náuseas, vómitos
+ Trastornos cardíacos
+ Frecuentes: bradicardia, taquicardia
+ Poco frecuentes: arritmia
+ Trastornos psiquiátricos
+ Frecuentes: somnolencia
+ Poco frecuentes: desorientación, agitación, euforia
+ Trastornos respiratorios
+ Frecuentes: apnea, depresión respiratoria
+ Poco frecuentes: tos, reaparición de depresión respiratoria, laringoespasmo, hipo
+ Trastornos de la piel y apéndices
+ Poco frecuentes: prurito, sudoración
+ Trastornos oculares
+ Poco frecuentes: visión doble/borrosa
+ 4.9.    Sobredosis
+ Síntomas
+Las manifestaciones de la sobredosis con FANAXAL son una consecuencia de su acción
+farmacológica. Dependiendo de la sensibilidad individual, el cuadro clínico se determina
+principalmente por el grado de depresión respiratoria que puede variar desde bradipnea a apnea.
+ Tratamiento
+Si se presentase hipoventilación o apnea se debe administrar oxígeno y utilizar ventilación asistida
+o controlada, según el caso.
+Para controlar la depresión respiratoria se puede administrar un antagonista específico de los
+opiaceos tal como naloxona. Esto no excluye la utilización de contramedidas más inmediatas. La
+duración de la depresión respiratoria puede ser más larga que la del efecto del antagonista;
+consecuentemente, pueden ser necesarias dosis adicionales de estos últimos fármacos.
+Si la depresión respiratoria está asociada a rigidez muscular, puede ser necesario un agente
+bloqueante neuromuscular intravenoso para facilitar la respiración asistida o controlada.
+El paciente debe ser cuidadosamente observado; se mantendrá la temperatura corporal y se
+repondrán líquidos. Si se produjese hipotensión o si ésta persistiese se debe pensar en una posible
+hipovolemia y, por lo tanto, en la administración parenteral de fluidos.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.    Propiedades farmacodinámicas
+                                                                                                        MINISTERIO
+Grupo Farmacoterapéutico: N01AH02 ­ Anestésicos opioides.
+ Alfentanilo es un potente analgésico opiáceo, relacionado con el fentanilo, que se caracteriza por
+tener un inicio de acción muy rápido y una duración muy breve. Tras su administración IV su
+acción se manifiesta de forma prácticamente instantánea.
+La duración de acción de alfentanilo es tres veces más corta que una dosis equipotente de
+fentanilo y es claramente dosis dependiente. En los casos en que se requieran más de 60 minutos
+de analgesia se recomienda la administración en infusión continua. El efecto depresor de la
+frecuencia respiratoria y la ventilación alveolar es de menor duración que la que provoca el
+fentanilo y en la mayoría de los casos la duración del efecto analgésico excede a los efectos
+respiratorios. La duración y el grado de depresión respiratoria aumentan con la dosis.
+La inducción que provoca es progresiva, indolora y carente de la respuesta cardiovascular u
+hormonal al stress que produce la intubación.
+El alfentanilo tiene un amplio margen de seguridad. En ratas la relación DL50/DE50 en el nivel
+más bajo de analgesia, para alfentanilo es 1080, comparado con 4´6, 69´5 y 277 para petidina,
+morfina y fentanilo, respectivamente.
+Como ocurre con otros analgésicos opiáceos, alfentanilo puede causar rigidez muscular, así como
+euforia, miosis y bradicardia, dependiendo de la dosis y de la velocidad de administración.
+Alfentanilo en dosis de hasta 200 g/kg, no produce un aumento significativo en los niveles
+histamínicos ni evidencia clínica de liberación de histamina.
+La recuperación después de la administración de alfentanilo es rápida y suave con una baja
+incidencia de náusea y vómitos en el post-operatorio.
+Todos los efectos de alfentanilo se pueden revertir, de forma completa e inmediata, con el uso de
+antagonistas específicos de los morfínicos como naloxona.
+ 5.2.    Propiedades farmacocinéticas
+ Alfentanilo se elimina rápidamente después de su administración intravenosa. Se ha informado de
+una semivida de distribución secuencial de 0,4 ­ 2,2 minutos y de una semivida de eliminación
+final de 83 ­ 223 minutos. El bajo grado de ionización (11% a pH=7,4) contribuye a una
+distribución rápida pero limitada en los tejidos.
+Se ha informado que los volúmenes de distribución son de 1,27 ­ 4,81 I (volumen de distribución
+en el compartimento central) y 12,1 ­ 98,2 I (volumen de distribución en el estado de equilibrio).
+La unión de alfentanilo a proteínas plasmáticas es de aproximadamente 92%.
+ Alfentanilo se metaboliza principalmente en el hígado. Solamente se encuentra el 1 % de
+alfentanilo inalterado en orina. Sus metabolitos son inactivos y el 70% de ellos se eliminan vía
+urinaria. El aclaramiento plasmático en pacientes jóvenes es de 356 ml/minuto y disminuye con la
+edad.
+ Debido a este perfil farmacocinético alfentanilo no se acumula en los tejidos. En las
+intervenciones quirúrgicas de duración media o larga puede mantenerse la analgesia con
+inyecciones repetidas de alfentanilo o administrándolo en infusión continua, después de una dosis
+en bolo. Una vez que se alcanza el estado de equilibrio tras la infusión, la semivida de eliminación
+permanece estable.
+ Cuando la administración no es continua, el paciente despierta rápidamente sin los efectos típicos
+posteriores a la administración de opiáceos.
+ 5.3.    Datos preclínicos sobre seguridad
+                                                                                                        MINISTERIO
+Los efectos preclínicos observados tan solo se vieron a exposiciones que excedieron
+considerablemente la exposición máxima en humanos, lo que indica una pequeña relevancia en el
+uso clínico.
+ Alfentanilo se ha probado en una batería de estudios de seguridad no clínicos incluyendo:
+toxicidad a dosis única después de la administración intravenosa (ratón, rata, cobaya, perro);
+toxicidad intravenosa a dosis repetida después de un mes en perros y ratas; estudios de
+reproducción en los que el fármaco se administró intravenosamente y en los que se estudiaron la
+fertilidad y la reproducción en general en ratas, la teratogenicidad y la embriotoxicidad en ratas y
+conejos, y la reproducción perinatal/postnatal en ratas. Se evaluó la mutagenicidad tanto en
+estudios in vitro como in vivo que incluyeron: estudios de mutación genética y/o puntual in vitro
+en salmonella typhimurium y evaluaciones en ratas in vivo de los micronúcleos que se utilizaron
+en ensayos para aberraciones cromosómicas, y test letal dominante en ratones machos y hembras.
+Se llevaron a cabo algunos estudios especiales para evaluar la administración intra-arterial, la
+liberación de histamina y la hemólisis.
+ Los resultados obtenidos de los estudios de toxicidad a dosis única y repetida, de reproducción, de
+mutagenicidad y los estudios especiales indicaron que alfentanilo fue bien tolerado y tenía un
+amplio margen de seguridad cuando se comparó a los valores DE 50 en animales y a los distintos
+regímenes de dosificación clínica relevantes. La toxicidad y mortalidad observada en estos
+modelos de animales estuvo, en general, relacionada con dosis tóxicas altas más allá del intervalo
+terapéutico clínico propuesto (2,6 a 83 veces), ó fue secundaria a la actividad farmacológica
+exagerada de este fármaco.
+ 
+6.      DATOS FARMACÉUTICOS
+	6.1.    Lista de excipientes
+ Cloruro sódico y agua para inyectables.
+ 6.2.    Incompatibilidades
+ La solución inyectable no se debe mezclar con otros productos.
+ Si se desea, FANAXAL puede mezclarse con infusiones intravenosas de cloruro sódico o glucosa.
+Tales diluciones son compatibles con los juegos de infusión plástica. Estos deberán utilizarse
+dentro de la 24 horas después de la preparación.
+ 6.3.    Periodo de validez
+ Cinco años
+ 6.4.    Precauciones especiales de conservación
+ Guárdese a temperatura ambiente.
+Mantenga FANAXAL fuera del alcance y de la vista de los niños.
+ 6.5.    Naturaleza y contenido del recipiente
+ Envases de 5 ampollas con 2 ó 10 ml .
+                                                                                                        MINISTERIO
+6.6.   Instrucciones de uso y manipulación
+ Si se desea, FANAXAL puede mezclarse con infusiones intravenosas de cloruro sódico o glucosa.
+Tales diluciones son compatibles con los juegos de infusión plástica. Estos deberán utilizarse
+dentro de la 24 horas después de la preparación.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Laboratorios Dr. Esteve, S.A.
+Avda. Mare de Déu de Montserrat, 221
+08041 Barcelona
+ 
+8.     NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Fanaxal 2ml: nº reg. 57.466
+Fanaxal 10ml: nº reg. 57.464
+ 9.     FECHA DE LA             PRIMERA       AUTORIZACIÓN/RENOVACIÓN                DE    LA
+AUTORIZACIÓN
+ Primera autorización: Diciembre 1988
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+Octubre 2005
+
+	Prospectos de medicamentos.

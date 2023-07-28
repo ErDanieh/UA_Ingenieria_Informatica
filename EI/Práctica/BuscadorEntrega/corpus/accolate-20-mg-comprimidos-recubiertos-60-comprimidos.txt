@@ -1,0 +1,306 @@
+ACCOLATE 20 mg comprimidos recubiertos , 60 comprimidos
+	"Información Basica del medicamento Toda la información del medicamento 1.-     DENOMINACIÓN DEL MEDICAMENTO
+ ACCOLATE 20 mg comprimidos recubiertos
+ 2.-     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+ Cada comprimido de ACCOLATE 20 contiene: 20 mg de Zafirlukast (D.C.I.).
+ Lista de excipientes, en 6.1.
+ 3.-     FORMA FARMACEUTICA
+ Comprimidos recubiertos de color blanco, redondos y biconvexos.
+ 
+
+4.-     DATOS CLINICOS
+ 4.1.    Indicaciones terapéuticas
+ ACCOLATE está indicado en la profilaxis y tratamiento crónico del asma como terapia adicional
+de mantenimiento en pacientes asmáticos en los que los ß-agonistas de acción corta ""a demanda""
+no proporcionan suficiente control clínico del asma, así como en pacientes con asma persistente
+leve o moderada no adecuadamente controlados con corticoides inhalados.
+ 4.2.    Posología y forma de administración
+ ACCOLATE está indicado en la prevención de los ataques asmáticos; por tanto, se administrará
+de forma continua.
+ Adultos y niños a partir de 12 años: Dosis inicial y dosis de mantenimiento: 20 mg, dos veces al
+día.No se debe superar la dosis máxima recomendada.
+ ACCOLATE no deberá ser administrado con los alimentos, ya que puede reducirse la
+biodisponibilidad de Zafirlukast.
+ Geriatría: El aclaramiento de Zafirlukast está reducido en pacientes geriátricos (>65 años), siendo
+los valores de la Cmáx y del AUC aproximadamente dos veces los de los adultos más jóvenes; no
+obstante, la acumulación de Zafirlukast no es evidente en pacientes geriátricos. En estudios
+clínicos, estos pacientes tratados con una dosis de 20 mg dos veces al día, no mostraron un
+incremento en la incidencia global de efectos secundarios ni retiradas por causa de los mismos. Se
+puede iniciar la terapia con una dosis de 20 mg dos veces al día y ajustarla posteriormente de
+acuerdo con la respuesta clínica del paciente.
+ Pediatría: La seguridad y eficacia de ACCOLATE en niños menores de 12 años aún no se han
+establecido.
+ Alteración renal: No es necesario ajustar la dosis en pacientes con alteración renal leve.
+ Alteración hepática: ACCOLATE está contraindicado en pacientes con alteración hepática,
+incluyendo cirrosis hepática (ver apartado 4.3 ""Contraindicaciones"").
+ 4.3.   Contraindicaciones
+ ACCOLATE no deberá ser administrado a:
+-Pacientes que hayan presentado previamente hipersensibilidad al principio activo o a alguno de
+los excipientes.
+-Pacientes con daño hepático incluyendo cirrosis hepática.
+ 4.4.   Advertencias y precauciones especiales de empleo
+ ACCOLATE deberá ser tomado de forma continuada para obtener beneficio, incluso en períodos
+asintomáticos. La terapia con este fármaco se continuará normalmente durante las exacerbaciones
+agudas del asma.
+ Como sucede con los corticoides inhalados y cromonas (cromoglicato disódico, nedocromil
+sódico), ACCOLATE no está indicado para revertir el broncoespasmo en los ataques asmáticos
+agudos.
+ ACCOLATE no ha sido evaluado en el tratamiento del asma inestable o lábil (sensible).
+ No deben sustituirse los corticoides inhalados u orales por ACCOLATE. Se requiere precaución
+en pacientes con asma grave si se está valorando una reducción de la dosis de corticoides. En
+tales pacientes, raramente se puede presentar eosinofilia sistémica o neumonía eosinofílica, que
+puede manifestarse clínicamente como vasculitis sistémica relacionada con la enfermedad de
+Churg-Strauss. Estas manifestaciones pueden afectar a distintos sistemas, incluyendo erupción
+vasculítica, empeoramiento de síntomas pulmonares, complicaciones cardiacas o neuropatía.
+Estos episodios se han asociado normalmente con una reducción de los corticoides orales, aunque
+no se ha establecido una relación causal con la administración de ACCOLATE.
+ Durante el tratamiento con ACCOLATE, se pueden producir elevaciones de transaminasas
+séricas, que son habitualmente asintomáticas y transitorias, pero podrían representar evidencia
+precoz de hepatotoxicidad y muy raramente se han asociado con daño hepatocelular grave,
+hepatitis fulminante e insuficiencia hepática con un desenlace fatal. En algunos casos de
+hepatitis fulminante y fallo hepático,no se habían notificado previamente síntomas o signos
+clínicos indicativos de disfunción hepática.
+ Deberán determinarse las transaminasas al comienzo y periódicamente durante el tratamiento. No
+se ha demostrado que la evaluación periódica de las transaminasas séricas evite una alteración
+grave, aunque generalmente se considera que la detección precoz de alteraciones hepáticas
+inducidas por medicamentos, junto con la retirada inmediata de este medicamento, aumenta la
+probabilidad de recuperación.
+Si se presentan síntomas o signos clínicos indicativos de disfunción hepática (por ejemplo,
+anorexia, náuseas, vómitos, dolor en el cuadrante superior derecho, fatiga, letargia, síntomas
+similares a los gripales, aumento del tamaño del hígado, prurito e ictericia), el tratamiento con
+ACCOLATE deberá de interrumpirse, realizando una determinación de las transaminasas séricas,
+en especial ALT en suero, y tratando al paciente en consecuencia. El médico considerará la
+conveniencia de realizar pruebas de función hepática.. Los pacientes a los que se retiró el
+tratamiento con ACCOLATE debido a hepatotoxicidad sin ninguna otra causa atribuible no
+deberán ser tratados de nuevo con este fármaco.
+la administración de ACCOLATE en pacientes con alteraciones hepáticas, incluyendo cirrosis hepática está contraindicada.
+ La co-administración con warfarina origina un aumento en el tiempo máximo de protrombina de
+aproximadamente un 35%; por tanto, se recomienda que, si se co-administran ambos fármacos, se
+monitorice estrechamente el tiempo de protrombina (ver apartado 4.5. ""Interacción con
+medicamentos y otras formas de interacción"").
+ 4.5.      Interacción con con otros medicamentos y otras formas de interacción
+ ACCOLATE puede administrarse con otras terapias utilizadas habitualmente en el tratamiento del
+asma y de la alergia. Los corticoides inhalados, broncodilatadores inhalados y orales, antibióticos
+y antihistamínicos son ejemplos de fármacos que han sido co-administrados con ACCOLATE sin
+que se haya producido interacción.
+ ACCOLATE puede ser administrado con anticonceptivos orales sin producirse interacción.
+ La co-administración con ácido acetilsalicílico (aspirina) puede originar un incremento
+aproximadamente de un 45% en los niveles plasmáticos de Zafirlukast. No es probable que este
+incremeto se asocie con efectos clínicos relevantes.
+ La co-administración con eritromicina producirá una disminución de aproximadamente un 40%
+en los niveles plasmáticos de Zafirlukast.
+ En ensayos clínicos, la co-administración con teofilina originó una disminución en los niveles
+plasmáticos de Zafirlukast en aproximadamente un 30%, pero sin afectar a los niveles de teofilina
+en plasma. Sin embargo, durante la farmacovigilancia post-comercialización, han existido casos
+infrecuentes de pacientes que experimentaron aumentos en los niveles de teofilina con la co-
+administración de ACCOLATE.
+ La co-administración con terfenadina provocó una disminución de un 54% en el AUC de
+Zafirlukast, pero no afecta los niveles de terfenadina en plasma.
+ La co-administración con warfarina origina un aumento en el tiempo máximo de protrombina de
+aproximadamente un 35%; por tanto, se recomienda que, si se co-administran ambos fármacos, se
+monitorice estrechamente el tiempo de protrombina. La interacción se debe probablemente a una
+inhibición por parte de Zafirlukast del sistema isoenzimático del citocromo P450 2C9.
+ 4.6.      Embarazo y lactancia
+ Uso durante el embarazo
+No se ha establecido la seguridad de ACCOLATE durante el embarazo en los seres humanos.
+Aunque en estudios en animales Zafirlukast no presentó ningún efecto aparente sobre la fertilidad
+ni efecto teratogénico ni tóxico selectivo sobre el feto, se deberán valorar los riesgos potenciales
+frente a los beneficios de continuar con la terapia durante el embarazo, debiéndose emplear
+únicamente este fármaco durante dicho periodo si es claramente necesario.
+ Uso durante la lactancia
+Zafirlukast es excretado en leche humana; por lo tanto, ACCOLATE no deberá ser administrado a
+madres durante el periodo de lactancia.
+ 4.7.      Efectos sobre la capacidad para conducir y utilizar máquinas
+No existe evidencia de que ACCOLATE afecte a la capacidad para conducir y utilizar máquinas.
+ 4.8.    Reacciones adversas Se comunicaron las siguientes reacciones adversas ordenadas
+según su frecuencia utilizando la siguiente clasificación: muy frecuentes (1/10); frecuentes
+(1/100,<1/10); poco frecuentes (1/1.000, <1/100); raras (1/10.000, <1/1.000); muy raras
+(<1/10.000):
+ Se han comunicado las siguientes reacciones adversas en asociación con la administración de
+ACCOLATE:
+ Clasificación por órgano y    Frecuencia        Reacción adversa
+sistema
+Trastornos del sistema        Frecuentes        Cefaleas (generalmente leves).
+nervioso
+Trastornos                    Frecuentes        Alteraciones gastrointestinales (generalmente
+gastrointestinales                              leves).
+Infecciones e infestaciones   Frecuentes        Infección.
+Trastornos generales y        Frecuentes        Insomnio.
+alteraciones en el lugar de                     Malestar.
+administración
+ Trastornos de la piel y del   Poco frecuentes   Erupciones, incluyendo formación de
+tejido subcutáneo                               ampollas y prurito.
+ Exploraciones                 Poco frecuentes   Aumento de los niveles de transaminasas
+complementarias                                 séricas.
+Trastornos                    Raras             Artralgia.
+musculoesqueléticos y del                       Mialgia.
+tejido conjuntivo
+ Clasificación por órgano y     Frecuencia           Reacción adversa
+sistema
+Trastornos del sistema         Raras                Reacciones de hipersensibilidad, incluyendo
+inmunológico                                        urticaria y angioedema .
+                                                     Edema de extremidades inferiores.
+                                                     Formación de hematomas.
+ Trastornos hepatobiliares      Raras                Hiperbilirrubinemia sin aumentos de las
+ Trastornos de la sangre y      Muy raras            Agranulocitosis.
+del sistema linfático
+ Estas reacciones se han resuelto habitualmente tras la interrupción del tratamiento.
+ En ensayos clínicos con ACCOLATE se ha observado infrecuentemente una elevación de los
+niveles séricos de transaminasas. Estos cambios se resolvieron durante el tratamiento continuado
+o al cesar éste. En raras ocasiones el perfil de transaminasas estaba relacionado con una hepatitis
+de tipo medicamentosa, resolviéndose tras la interrupción del tratamiento con ACCOLATE.
+ En pacientes en tratamiento con ACCOLATE se han comunicado raramente casos de hepatitis
+sintomática con o sin hiperbilirrubinemia, asociada con el uso de ACCOLATE. Estos casos se
+resolvieron normalmente tras la interrupción del tratamiento. La gran mayoría de casos se
+comunicaron en mujeres. Muy raramente, se han comunicado casos de insuficiencia hepática y
+hepatitis fulminante.
+ Raramente, el empleo de ACCOLATE se ha asociado con hiperbilirrubinemia sin elevación de los
+resultados de las pruebas de función hepática.
+ En estudios clínicos controlados con placebo, se ha detectado un incremento en la incidencia de
+infección (frecuente) en pacientes geriátricos tratados con ACCOLATE. Estas infecciones fueron
+generalmente leves, afectando predominantemente al tracto respiratorio y no necesitando la
+retirada de la terapia con este fármaco.
+ Raramente, se han comunicado en asociación con ACCOLATE artralgia y mialgia no específicas.
+                                                                                                       MINISTERIO
+4.9.   Sobredosis
+ Se han notificado casos de sobredosis con ACCOLATE, aunque no se han observado síntomas
+significativos con dosis excesivamente altas de este medicamento. El tratamiento deberá ser de
+soporte, pudiendo ser útil la eliminación del exceso de medicamento por lavado gástrico.
+ 5.-    PROPIEDADES FARMACOLÓGICAS
+ 5.1.   Propiedades farmacodinámicas
+ Grupo fármaco-terapéutico: Antagonistas del receptor de leucotrienos, código ATC: R03DC.
+La producción de leucotrienos (LT) y la ocupación del receptor han sido implicadas en la
+fisiopatología del asma. Los efectos incluyen contracción del músculo liso, edema de las vías
+respiratorias y actividad celular alterada asociada con el proceso inflamatorio, incluyendo
+migración de eosinófilos en el pulmón. Estos efectos contribuyen y están relacionados con los
+signos y síntomas del asma. ACCOLATE actúa como un agente anti-inflamatorio, reduciendo el
+efecto de estos mediadores pro-inflamatorios.
+ ACCOLATE (Zafirlukast) es un péptido activo por vía oral, competitivo y altamente selectivo
+como antagonista del receptor de los leucotrienos LTC4, LTD4 y LTE4 (componentes de la
+sustancia de reacción lenta de la anafilaxia). Los estudios ""in vitro"" han mostrado que
+ACCOLATE antagoniza la actividad contráctil de los tres leucotrienos péptidos (leucotrienos C4,
+D4 y E4) en el mismo grado, sobre el músculo liso de las vías respiratorias en humanos. Los
+estudios en animales han mostrado que ACCOLATE es eficaz en la prevención de los aumentos
+en la permeabilidad vascular inducidos por los leucotrienos péptidos (lo cual incrementa el edema
+en las vías respiratorias) e inhibe la migración de eosinófilos inducida por los leucotrienos
+péptidos a dichas vías.
+ En los estudios clínicos, se ha mostrado la especificidad de ACCOLATE por su acción sobre los
+receptores de leucotrienos y no sobre los receptores de prostaglandinas, tromboxano, colinérgicos
+e histamina.
+ En los estudios clínicos, ACCOLATE ha mostrado poseer propiedades anti-inflamatorias. El
+tratamiento con ACCOLATE durante 5 días redujo los componentes celulares y no celulares de la
+inflamación en las vías respiratorias inducida por la estimulación con antígeno. En un estudio
+controlado con placebo, en el cual tras la broncoprovocación segmental con alergeno se realizó un
+lavado broncoalveolar a las 48 horas, Zafirlukast disminuyó el aumento de basófilos, linfocitos e
+histamina y redujo la producción estimulada de superóxido por los macrófagos alveolares.
+ACCOLATE atenuó el aumento de la hiperreactividad bronquial que se origina tras la
+estimulación con alergeno inhalado y la broncoconstricción inducida por el factor activador de
+plaquetas. Además, la sensibilidad a metacolina disminuyó con el tratamiento a largo plazo con
+20 mg de Zafirlukast 2 veces al día. Adicionalmente, en los estudios clínicos que evaluaban la
+terapia crónica con ACCOLATE, la función pulmonar determinada cuando los niveles
+plasmáticos se encontraban en los valores más bajos, mostró mejorías sobre la línea basal
+consistentes con una disminución mantenida en la obstrucción debida a componentes
+inflamatorios.
+ ACCOLATE muestra una inhibición, dosis dependiente, de la broncoconstricción inducida por el
+leucotrieno D4 inhalado, siendo los pacientes asmáticos aproximadamente 10 veces más sensibles
+a la actividad broncoconstrictora de este leucotrieno. Una dosis oral única de ACCOLATE puede
+favorecer que un paciente asmático inhale 100 veces más leucotrieno D4, mostrando una
+protección significativa a las 12 y 24 horas. ACCOLATE inhibe la broncoconstricción provocada
+por numerosas clases de estímulos, tales como la respuesta al dióxido de sulfuro, ejercicio y aire
+frío. ACCOLATE atenúa la reacción inflamatoria de fase precoz y tardía provocada por varios
+antígenos (hierba, caspa de gato, ambrosía y mezcla de antígenos).
+ En algunos pacientes, ACCOLATE previene el inicio de los ataques asmáticos inducidos por el
+ejercicio y alergenos.
+ En pacientes asmáticos en los que los ß-agonistas ""a demanda"" no proporcionan suficiente
+control, ACCOLATE está indicado como terapia de mantenimiento. En pacientes sintomáticos,
+ACCOLATE mejora los síntomas (reduciendo los síntomas asmáticos diurnos y nocturnos) y la
+función pulmonar, reduce la necesidad de medicación ß-agonista concomitante y la incidencia de
+exacerbaciones.
+En estudios clínicos, existió un efecto significativo de la primera dosis sobre el tono broncomotor
+basal, observado en el plazo de 2 horas tras el tratamiento cuando las concentraciones plasmáticas
+máximas no se habían aún alcanzado. Las mejorías iniciales en los síntomas asmáticos se
+produjeron en la primera semana y, a menudo, en los primeros días de tratamiento con
+ACCOLATE.
+ Al ser una terapia oral, ACCOLATE presenta interés especial en pacientes que puedan tener
+dificultades de cumplimiento o de administración de terapia de mantenimiento inhalada.
+ 5.2.        Propiedades farmacocinéticas
+ Absorción y distribución
+Las concentraciones plasmáticas máximas de Zafirlukast se alcanzan aproximadamente 3 horas
+después de la administración oral de ACCOLATE.
+ Tras la administración dos veces al día de ACCOLATE (30-80 mg/2 veces día) la acumulación
+plasmática de Zafirlukast fue baja (no detectable - 2,9 veces los valores de la dosis inicial; media
+1,45; mediana 1,27). La vida media terminal de Zafirlukast es de aproximadamente 10 horas. Las
+concentraciones plasmáticas en estado estable de Zafirlukast fueron proporcionales a la dosis y
+predecibles a partir de los datos farmacocinéticos de dosis única.
+ En adolescentes y adultos asmáticos, la farmacocinética de Zafirlukast fue similar a la de los
+varones adultos sanos. Cuando se ajusta según el peso corporal, la farmacocinética de Zafirlukast
+no es significativamente diferente entre varones y mujeres.
+ La administración de ACCOLATE con los alimentos aumentó la variabilidad en la
+biodisponibilidad de Zafirlukast y la redujo en la mayoría de los sujetos (75%), siendo la
+reducción neta de un 40% aproximadamente.
+ Metabolismo y eliminación
+Zafirlukast se metaboliza de forma extensa. Tras una dosis radiomarcada, la excreción urinaria
+supone el 10% de la dosis aproximadamente y la fecal, el 89%. Zafirlukast no se detecta en orina.
+Los metabolitos identificados en plasma humano fueron, al menos, 90 veces menos potentes que
+Zafirlukast en un test de actividad estándar ""in vitro"".
+ En ancianos y sujetos con cirrosis alcohólica estable, los valores para Cmáx y AUC aumentaron
+aproximadamente 2 veces en comparación con los de los sujetos normales tratados con las
+mismas dosis de ACCOLATE.
+No existen diferencias significativas en la farmacocinética de Zafirlukast entre pacientes con
+alteración renal leve y sujetos normales.
+ Zafirlukast presenta una unión a proteínas plasmáticas humanas de aproximadamente el 99%, en
+especial a albúmina, sobre el rango de concentración de 0,25-4,0 µg/ml.
+ 5.3.      Datos preclínicos sobre seguridad
+ Los datos preclínicos no muestran riesgos especiales para los seres humanos según los estudios
+convencionales sobre farmacología de seguridad, toxicidad de dosis repetidas, genotoxicidad,
+potencial carcinogénico, toxicidad para la reproducción.
+ En ratas, ratones y perros, tras dosis múltiples superiores a 40 mg/kg/día durante un periodo de
+hasta 12 meses, se observó agrandamiento del hígado asociado a un cambio graso/degenerativo o
+deposición de glucógeno. En un cierto número de tejidos de perro, se detectaron agregados
+histiocíticos.
+ Los ratones macho tratados con 300 mg/kg de Zafirlukast al día mostraron un aumento en la
+incidencia de adenomas hepatocelulares en comparación con los animales control y las ratas
+tratadas con 2000 mg/kg/día, un incremento en la incidencia de papilomas de la vejiga urinaria en
+comparación con los animales control. Zafirlukast no mostró ser mutagénico en un rango de
+pruebas. Los datos para ratones y rata demuestran amplios márgenes de seguridad, un umbral
+claro sobre el nivel de dosis sin efecto, la ausencia de genotoxicidad y la restricción a una especie.
+Se concluye que es improbable que la inducción del tumor de vejiga urinaria en ratas y la
+inducción del tumor hepático en ratón se relacionen con los seres humanos.
+ No se observaron otros resultados significativos en las pruebas pre-clínicas.
+ "
+6.        DATOS FARMACEUTICOS
+	6.1.      Lista de excipientes
+ Croscarmelosa de sodio (USNF)
+Lactosa monohidratada(Ph. Eur)
+Celulosa microcristalina (Ph. Eur)
+Povidona (Ph. Eur)
+Estearato de magnesio (Ph. Eur)
+Hipromelosa (Ph. Eur)
+Dióxido de titanio (Ph. Eur).
+ 6.2.      Incompatibilidades
+ No aplicable.
+ 6.3.      Período de validez
+ 3 años.
+                                                                                                          MINISTERIO
+6.4.     Precauciones especiales de conservación
+ No conservar a temperatura superior a 30°C.
+ 6.5.     Naturaleza y contenido del recipiente
+ Blister Al/Al: Envase conteniendo 60 comprimidos de 20 mg de Zafirlukast por comprimido.
+ 6.6.     Instrucciones de uso y manipulación
+ No requiere manipulación especial.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	AstraZeneca Farmacéutica Spain, S.A.
+C/ Serrano Galvache, 56
+Edificio Roble - 28033 Madrid
+ 
+8.     NUMERO DE AUTORIZACION DE COMERCIALIZACION
+	62.443
+ 
+9.       FECHA DE LA PRIMERA AUTORIZACION
+	Marzo 1999
+ 10.      FECHA DE LA REVISION DEL TEXTO
+ Enero 2006
+ 1.Diciembre.2005 (II/102 - Seguridad)/2.Mar.2004 (CDS)
+
+	Todos los prospectos de medicamentos.

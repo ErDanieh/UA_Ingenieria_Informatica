@@ -1,0 +1,888 @@
+SEBIVO 600MG 28 COMPRIMIDOS RECUB PELIC
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                             1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Sebivo 600 mg comprimidos recubiertos con película
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 600 mg de telbivudina.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido recubierto con película
+ Comprimido oval recubierto con película, de color blanco a ligeramente amarillento con la inscripción
+«LDT» en una cara.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Sebivo está indicado para el tratamiento de la hepatitis B crónica en pacientes adultos con enfermedad
+hepática compensada y signos de replicación viral, niveles séricos de alanina aminotransferasa (ALT)
+persistentemente elevados y signos histológicos de inflamación activa y/o fibrosis. Ver sección 5.1
+para los detalles del estudio y las características específicas de los pacientes en los cuales está basada
+esta indicación.
+ 4.2   Posología y forma de administración
+ El tratamiento debe iniciarlo un médico con experiencia en el manejo de la infección por hepatitis B
+crónica.
+ Adultos
+La dosis recomendada de Sebivo es de 600 mg (un comprimido) una vez al día, administrada por vía
+oral, con o sin alimentos.
+ Duración del tratamiento
+Se desconoce la duración óptima del tratamiento. La interrupción del tratamiento deberá considerarse
+de la siguiente forma:
+·      En pacientes HBeAg positivos, el tratamiento deberá administrarse como mínimo hasta
+seroconversión de HBe (pérdida de HBeAg y de ADN del VHB con detección de anti-HBe en
+dos muestras séricas consecutivas separadas entre sí un mínimo de 3-6 meses) o hasta
+seroconversión de HBs o pérdida de eficacia.
+·      En pacientes HBeAg negativos, el tratamiento deberá administrarse como mínimo hasta
+seroconversión de HBs o hasta que exista evidencia de falta de eficacia.
+ Insuficiencia renal
+No es necesario ajustar la dosis recomendada de telbivudina en pacientes con un aclaramiento de
+creatinina  50 ml/min. Se requiere un ajuste del intervalo de tiempo entre dosis en pacientes que
+presenten un aclaramiento de creatinina < 50 ml/min, incluyendo los pacientes con enfermedad renal
+terminal (ERT) en hemodiálisis, como se indica a continuación:
+ Tabla 1      Ajuste del intervalo de tiempo entre dosis de Sebivo en pacientes con insuficiencia
+renal
+ Aclaramiento de creatinina (ml/min)                    Dosis de telbivudina
+50                                                    600 mg una vez al día
+30-49                                                  600 mg una vez cada 48 horas
+< 30 (no requiere diálisis)                            600 mg una vez cada 72 horas
+ERT*                                                   600 mg una vez cada 96 horas
+* Enfermedad renal terminal
+ La modificación de dosis propuesta está basada en la extrapolación y puede que no sea óptima. No se
+ha evaluado clínicamente la seguridad y eficacia de estas guías de ajuste del intervalo de tiempo entre
+dosis. Por lo tanto, deberán controlarse estrechamente la respuesta clínica al tratamiento y la función
+renal en estos pacientes.
+ Pacientes con enfermedad renal terminal
+En los pacientes con ERT, Sebivo deberá administrarse después de la hemodiálisis (ver apartado 5.2).
+ Insuficiencia hepática
+No es necesario ajustar la dosis recomendada de Sebivo en pacientes con insuficiencia hepática (ver apartado 5.2).
+ Niños y adolescentes
+Sebivo no está recomendado para uso en niños menores de 16 años de edad debido a la ausencia de
+datos sobre seguridad y eficacia.
+ Pacientes de edad avanzada (mayores de 65 años)
+No se dispone de datos que apoyen una recomendación de dosis específica para pacientes mayores de
+65 años (ver apartado 4.4).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Las exacerbaciones agudas graves de hepatitis B crónica son relativamente frecuentes y se caracterizan
+por una elevación transitoria de la ALT sérica. Tras el inicio del tratamiento antiviral, la ALT sérica
+puede aumentar en algunos pacientes mientras que los niveles séricos de ADN del VHB descienden
+(ver apartado 4.8). Como promedio, transcurren entre 4-5 semanas antes de que aparezca una
+exacerbación en pacientes tratados con telbivudina. En general, los aumentos transitorios de ALT se
+producen más frecuentemente en pacientes HBeAg positivos que en pacientes HBeAg negativos. En
+pacientes con enfermedad hepática compensada, estas elevaciones de ALT sérico no van generalmente
+acompañadas de niveles elevados de bilirrubina sérica o de otros signos de descompensación hepática.
+El riesgo de descompensación hepática y de una exacerbación de hepatitis posterior, puede ser elevado
+en pacientes con cirrosis. Por lo tanto, estos pacientes deberán ser controlados estrechamente.
+ También se han notificado exacerbaciones de la hepatitis en pacientes que han finalizado el
+tratamiento de la hepatitis B. Normalmente, los aumentos transitorios de ALT postratamiento se
+asocian con incrementos en los niveles séricos de ADN del VHB, y la mayoría de estos casos han
+demostrado ser autolimitados. No obstante, también se han notificado casos de exacerbaciones graves
+de la enfermedad (en ocasiones mortales) postratamiento. Por lo tanto, la función hepática deberá
+controlarse regularmente durante un periodo mínimo de 6 meses después de la interrupción del
+tratamiento de la hepatitis B mediante seguimiento clínico y de laboratorio.
+                                                    3
+Se ha notificado la aparición de acidosis láctica (en ausencia de hipoxemia) en algunos casos mortal, y
+normalmente asociada con hepatomegalia grave con esteatosis, con el uso de análogos nucleósidos o
+nucleótidos. Como la telbivudina es un análogo nucleósido, no puede excluirse este riesgo. El
+tratamiento con análogos nucleósidos deberá interrumpirse cuando los niveles de aminotransferasa
+aumenten rápidamente o cuando se produzca hepatomegalia progresiva o acidosis metabólica o láctica
+de etiología desconocida. Síntomas digestivos benignos, tales como náuseas, vómitos y dolor
+abdominal, pueden ser indicativos del desarrollo de acidosis láctica. Casos graves, algunos mortales,
+se asociaron con pancreatitis, insuficiencia o esteatosis hepática, insuficiencia renal y niveles más
+elevados de lactato sérico. Deberá tenerse precaución cuando se prescriban análogos nucleósidos a
+cualquier paciente (particularmente mujeres obesas) con hepatomegalia, hepatitis u otros factores de
+riesgo conocidos para una enfermedad hepática. Estos pacientes deberán ser vigilados estrechamente.
+ Efectos musculares
+Se han notificado casos de miopatía y mialgia con el uso de telbivudina desde varias semanas hasta
+meses después de iniciar el tratamiento (ver apartado 4.8).
+ En cualquier paciente que presente mialgias difusas inexplicables, sensibilidad o debilidad muscular,
+deberá considerarse la miopatía, definida como dolor muscular y/o debilidad muscular inexplicable
+persistente, independientemente del grado de incrementos en los niveles de creatinquinasa. En los
+pacientes con miopatía asociada al tratamiento con telbivudina, no se ha encontrado un patrón
+uniforme en relación al grado o tiempo de elevación de la creatinquinasa. Además, se desconocen los
+factores que predisponen para el desarrollo de miopatía en los receptores de telbivudina. Deberá
+advertirse a los pacientes que comuniquen rápidamente cualquier achaque, dolor, sensibilidad o
+debilidad muscular inexplicable persistente. Deberá interrumpirse el tratamiento con telbivudina si se
+diagnostica miopatía.
+ Se desconoce si el riesgo de miopatía durante el tratamiento con telbivudina, incrementa con la
+administración concomitante de con otros medicamentos asociados con miopatía (p.ej. estatinas, fibratos o
+ciclosporina). Los médicos que consideren el tratamiento concomitante con con otros medicamentos
+asociados con miopatía deberán valorar cuidadosamente los beneficios y riesgos potenciales y deberán
+controlar a los pacientes para detectar cualquier signo o síntoma de dolor, sensibilidad o debilidad
+muscular inexplicable.
+ Neuropatía periférica
+Se han notificado casos poco frecuentes de neuropatía periférica en pacientes tratados con telvibudina.
+Si existe sospecha de neuropatía periférica, debe reconsiderarse el tratamiento con telvibudina (ver apartado 4.8).
+ Se ha observado un mayor riesgo de neuropatía periférica cuando la telbivudina y el interferón alfa-2a
+pegilado se administran conjuntamente (ver apartado 4.5). No se puede excluir este aumento del riesgo
+con otros interferones alfa (pegilados o estándar). Asimismo, no se ha establecido hasta el momento el
+beneficio de telbivudina en combinación con interferón alfa (pegilado o estándar).
+ Función renal
+La telbivudina se elimina principalmente por vía renal, por lo tanto, se recomienda un ajuste del
+intervalo entre dosis en aquellos pacientes que presenten un aclaramiento de creatinina < 50 ml/min,
+incluidos los pacientes en hemodiálisis. No se ha evaluado clínicamente la efectividad del ajuste del
+intervalo de tiempo entre dosis. Por lo tanto, deberá controlarse estrechamente la respuesta virológica
+en pacientes en los que se aumente el intervalo entre dosis (ver secciones 4.2 y 5.2).
+ Pacientes con cirrosis sin descompensación
+Debido a que los datos disponibles son limitados (aproximadamente el 3% de los pacientes incluidos
+en los estudios presentaron cirrosis), la telbivudina deberá utilizarse con especial precaución en
+pacientes con cirrosis. Estos pacientes deberán controlarse estrechamente en cuanto a los parámetros
+clínicos, bioquímicos y virológicos asociados con hepatitis B, durante el tratamiento y tras la
+interrupción del mismo.
+ Pacientes con cirrosis con descompensación
+No hay datos de eficacia y seguridad en pacientes con cirrosis descompensada. Sebivo no está
+indicado en pacientes con cirrosis descompensada.
+ Pacientes con infección por VHB resistente a los antivirales
+La evidencia disponible no apoya el uso de telbivudina en monoterapia en pacientes con infección
+confirmada por el virus de la hepatitis B resistente a lamivudina. In vitro, la telbivudina es activa
+contra la cepa mutante simple M204V del VHB, pero no contra la cepa mutante doble M204V/L180M
+o la cepa mutante M204I del VHB (ver apartado 5.1). En ensayos clínicos no se ha establecido la
+eficacia de telbivudina contra el VHB con la mutación M204V.
+ No se dispone de datos sobre el tratamiento de telbivudina en pacientes con infección confirmada por
+virus de la hepatitis B resistente a adefovir. In vitro, la telbivudina es activa contra las cepas mutantes
+N236T del VHB. El VHB codificado con la resistencia a adefovir asociada a las sustituciones en
+A181V mostró una susceptibilidad a telbivudina reducida entre 3 y 5 veces en cultivo celular.
+ La tasa de resistencia confirmada genotípicamente a telbivudina en el estudio pivotal a las 48 semanas
+fue del 2,7%.
+ Receptores de trasplante hepático
+Se desconoce la eficacia y seguridad de telbivudina en receptores de trasplante hepático.
+ Poblaciones especiales
+Sebivo no se ha investigado en pacientes con hepatitis B coinfectados (p.ej. pacientes coinfectados con
+el virus de la inmunodeficiencia humana [VIH], virus de la hepatitis C [VHC] o virus de la hepatitis D
+[VHD]).
+ Pacientes de edad avanzada
+Los estudios clínicos de telbivudina no incluyeron un número suficiente de pacientes  65 años de
+edad para determinar si responden de forma diferente a pacientes más jóvenes. En general, deberá
+tenerse precaución cuando se prescriba Sebivo a pacientes de edad avanzada debido a una mayor
+frecuencia de casos de función renal disminuida como consecuencia de una enfermedad concomitante
+o del uso simultáneo de con otros medicamentos.
+ General
+Deberá advertirse a los pacientes que el tratamiento con Sebivo no ha demostrado que reduzca el
+riesgo de transmisión del VHB a otras personas a través de contacto sexual o por contaminación de la
+sangre.
+ No se recomienda utilizar conjuntamente telbivudina y lamivudina ya que en un estudio de fase II se
+observó que la respuesta al tratamiento con la terapia combinada de telbivudina y lamivudina era
+inferior a la observada con telbivudina en monoterapia.
+ Actualmente no se dispone de datos de eficacia y seguridad sobre la combinación de otros antivirales
+con telbivudina.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Como la telbivudina se elimina principalmente por vía renal, la coadministración de Sebivo con
+medicamentos que alteren la función renal (como aminoglicósidos, diuréticos con acción sobre el asa
+de Henle, compuestos de platino, vancomicina, anfotericina B) puede alterar las concentraciones
+plasmáticas de telbivudina y/o del medicamento coadministrado. La combinación de telbivudina con
+estos medicamentos deberá utilizarse con precaución. La farmacocinética de telbivudina en estado
+estacionario no se alteró tras la administración de dosis múltiples en combinación con lamivudina,
+adefovir dipivoxil, ciclosporina o interferón alfa-2a pegilado. No se puede extraer una conclusión
+                                                      5
+definitiva acerca de los efectos de telbivudina sobre la farmacocinética del interferón pegilado debido
+a la elevada variabilidad interindividual de las concentraciones del interferón alfa-2a pegilado. En un
+ensayo clínico en el cual se investiga la combinación de telbivudina, 600 mg al día, con interferón
+alfa-2a pegilado, 180 microgramos una vez a la semana por vía subcutánea, se ha observado que esta
+combinación está asociada con un mayor riesgo de desarrollar neuropatía periférica. Se desconoce el
+mecanismo por el cual se producen estos acontecimientos (ver apartado 4.4).
+ La telbivudina no es un sustrato, ni es inhibidor o inductor del sistema enzimático del citocromo P450
+(CYP450) (ver apartado 5.2). Por lo tanto, el potencial de interacción de los fármacos mediados por el
+CYP450 con Sebivo es bajo.
+ 4.6   Embarazo y lactancia
+ No se dispone de datos clínicos de la utilización de telbivudina en el embarazo. Los estudios en
+animales no muestran efectos dañinos directos sobre el embarazo, desarrollo embrional/fetal, parto o
+desarrollo posnatal (ver apartado 5.3). Los estudios en ratas y conejos gestantes demostraron que
+telbivudina atraviesa la placenta. Los estudios en conejos gestantes mostraron parto prematuro y/o
+aborto secundario a toxicidad materna. Sebivo únicamente deberá utilizarse durante el embarazo si el
+beneficio para la madre supera el riesgo potencial para el feto.
+ No existen datos acerca de los efectos de telbivudina sobre la transmisión maternoinfantil del VHB.
+Por lo tanto, deberán efectuarse intervenciones adecuadas para prevenir que el neonato contraiga
+infección por el VHB.
+ La telbivudina se excreta en la leche de las ratas. Se desconoce si la telbivudina se excreta en la leche
+humana. Las mujeres no deberán amamantar durante el tratamiento con Sebivo.
+ No existen datos clínicos acerca de los efectos de telbivudina sobre la fertilidad masculina o femenina.
+En los estudios de toxicidad reproductiva, no hubo evidencia de alteraciones en la fertilidad de ratas
+machos o hembras con una exposición sistémica aproximadamente 14 veces superior a la observada en
+humanos con la dosis terapéutica.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ La valoración de las reacciones adversas está basada principalmente en un único estudio (GLOBE
+007) en el cual 1.367 pacientes con hepatitis B crónica recibieron tratamiento doble ciego con
+600 mg/día de telbivudina (n = 680) o lamivudina (n = 687) durante un máximo de 104 semanas.
+ La mayoría de reacciones adversas notificadas se clasificaron según la gravedad de leves a moderadas.
+ En la tabla 2 se enumeran las reacciones adversas registradas durante las primeras 52 semanas de
+tratamiento en el estudio GLOBE 007, siguiendo el sistema de clasificación de órganos y frecuencias,
+utilizando las siguientes definiciones: frecuentes (1/100, <1/10); poco frecuentes (1/1.000, <1/100);
+raras (1/10.000, <1/1.000); muy raras (<1/10.000). Las reacciones adversas se presentan en orden
+decreciente de gravedad dentro de cada intervalo frecuencia.
+ Tabla 2      Reacciones adversas clínicas en pacientes con hepatitis B crónica, tratados con
+600 mg de telbivudina, notificadas durante 52 semanas en el estudio GLOBE 007*
+ Trastornos del sistema nervioso
+Frecuentes                                         Mareos, cefalea
+Poco frecuentes                                    Neuropatía periférica
+                                                     6
+Trastornos respiratorios, torácicos y
+mediastínicos
+Frecuentes                                       Tos
+Trastornos gastrointestinales
+Frecuentes                                       Aumento de amilasa sanguínea, diarrea, aumento
+Trastornos de la piel y del tejido subcutáneo
+Frecuentes                                     Erupción
+Trastornos musculoesqueléticos y del tejido
+conjuntivo
+Frecuentes                                     Aumento de la creatinfosfoquinasa sanguínea
+Poco frecuentes                                Artralgia, mialgia, miopatía
+Trastornos generales y alteraciones en el lugar
+de administración
+Frecuentes                                     Fatiga
+Poco frecuentes                                Malestar
+Trastornos hepatobiliares
+Frecuentes                                     Aumento de la alaninaminotransferasa sanguínea
+*    Debido al tamaño de muestra en el ensayo GLOBE no se dispone de un número suficiente de
+pacientes para detectar reacciones adversas raras y muy raras.
+ Se observaron elevaciones de creatinquinasa de grado 3/4 (> 7 x LSN) en el 7,5% de los pacientes
+tratados con telbivudina y en el 3,1% de los pacientes tratados con lamivudina al cabo de 52 semanas
+de tratamiento. La mayoría de las elevaciones de creatinquinasa fueron asintomáticas y por lo general,
+los valores de creatinquinasa disminuyeron en la siguiente visita con el tratamiento continuado. En el
+estudio pivotal, tanto la raza caucásica como valores de creatinquinasa pretratamiento más elevados se
+identificaron en ambos grupos de tratamiento, como factores predictivos para las elevaciones
+grado 3/4 durante el primer año de tratamiento.
+ En general, la incidencia de aumentos transitorios de ALT de grado 3/4 sobre el valor basal a la
+semana 52 fue del 2,6% en los pacientes tratados con telbivudina y del 4,6% en los pacientes tratados
+con lamivudina. La incidencia de elevaciones transitorias de alanina aminotransferasa (ALT) en los
+dos grupos de tratamiento se describe además en la tabla 3 (desde el valor basal a la semana 24) y
+tabla 4 (desde la semana 24 a la semana 52).
+ Tabla 3     Análisis de las categorías de elevación transitoria de ALT a las 24 semanas de
+tratamiento2
+                                                     HBeAg-positivo         HBeAg-negativo
+Categoría de elevación transitoria de ALT            %          %           %          %
+Grado 1: ALT  2 x valor basal &  2 x LSN1           6,6        7,6         1,7        1,3
+Grado 2: ALT  3 x valor basal &  3 x LSN            2,4        3,1          0          0
+Grado 3: ALT  500 UI/l &  2 x valor basal           3,5        3,1         0,4        0,9
+Grado 4: ALT  2 x valor basal & bilirrubina          0          0           0          0
+2 x valor basal &  2 x LSN
+Total al final de la semana 24                    12,5          13,9          2,2            2,1
+1
+LSN: Límite superior de la normalidad
+2
+Incluye aumentos transitorios de ALT producidos después de la primera dosis y antes o durante
+la semana 24.
+ Tabla 4      Análisis de las categorías de elevación transitoria de ALT de la semana 24 a la 52 de
+tratamiento2
+                                                     HBeAg-positivo         HBeAg-negativo
+Categoría de elevación transitoria de ALT            %          %           %          %
+Grado 1: ALT  2 x valor basal &  2 x LSN1           1,1        0,4         0,9         0
+Grado 2: ALT  3 x valor basal &  3 x LSN            1,1        0,2         3,4         0
+Grado 3: ALT  500 UI/l &  2 x valor basal           1,5        0,2         0,4         0
+Grado 4: ALT  2 x valor basal & bilirrubina         0,7         0           0          0
+2 x valor basal &  2 x LSN
+Total de la semana 24 a la 52                     4,4          0,9           4,7            0
+1
+LSN: Límite superior de la normalidad
+2
+Incluye aumentos transitorios de ALT producidos después de la semana 24 y antes o durante la
+semana 52.
+ Se recomienda la monitorización periódica de la función hepática durante el tratamiento (ver apartado
+4.4).
+ Exacerbaciones de la hepatitis B tras la interrupción del tratamiento
+Se han notificado exacerbaciones agudas graves de hepatitis B en pacientes que han interrumpido el
+tratamiento contra la hepatitis B (ver apartado 4.4).
+ 4.9   Sobredosis
+ No se dispone de información de sobredosis intencionada de telbivudina, pero un paciente recibió una
+sobredosis no intencionada la cual fue asintomática. Dosis ensayadas de hasta 1.800 mg/día, tres veces
+superior a la dosis diaria recomendada, han sido bien toleradas. No se ha determinado la dosis máxima
+tolerada de telbivudina. En caso de sobredosis, deberá interrumpirse el tratamiento con Sebivo y
+proporcionar un tratamiento de apoyo general adecuado, según proceda.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antivirales de uso sistémico, código ATC: J05AF11
+ La telbivudina es un análogo nucleósido sintético de la timidina, con actividad contra la ADN
+polimerasa del virus de la hepatitis B (VHB). Tras ser fosforilada eficientemente por cinasas celulares
+se convierte en el trifosfato activo, cuya semivida intracelular es de 14 horas. La telbivudina-5'-
+trifosfato inhibe la ADN polimerasa (transcriptasa inversa) del VHB al competir con el sustrato
+natural, timidina 5'-trifosfato. La incorporación de la telbivudina-5'-trifosfato en el ADN vírico causa
+la finalización de la cadena de ADN, dando como resultado la inhibición de la replicación del VHB.
+La telbivudina es un inhibidor de la síntesis de ambas cadenas del VHB, la primera
+(CI50 = 0,4-1,3 M) y la segunda (CI50 = 0,12-0,24 M) y muestra una preferencia distintiva por la
+inhibición de la producción de la segunda cadena. Por el contrario, la telbivudina-5'-trifosfato, a
+concentraciones de hasta 100 M, no inhibe las ADN polimerasas celulares ,  o . En los ensayos
+relacionados con la estructura miticondrial, con el contenido y la función del ADN, la telbivudina no
+ejerció efectos tóxicos apreciables a concentraciones de hasta 10 M y no incrementó la producción de
+ácido láctico in vitro.
+ Se evaluó la actividad antivírica in vitro de la telbivudina en la línea celular 2.2.15 de hematoma
+humano expresada por el VHB. La concentración de telbivudina que inhibió eficazmente el 50% de la
+                                                   8
+síntesis vírica (CI50) fue de 0,2 M aproximadamente. La actividad antivírica de la telbivudina es
+específica frente al virus de la hepatitis B y los hepadnavirus relacionados. La telbivudina no es activa
+frente al VIH.
+ Experiencia clínica
+La seguridad y eficacia de Sebivo se comprobaron en el estudio GLOBE 007, de fase III
+multinacional, doble ciego, randomizado, de telbivudina comparado con lamivudina durante un
+periodo de tiempo de hasta 104 semanas en 1.367 pacientes HBeAg positivos y HBeAg negativos con
+hepatitis B crónica que nunca antes habían recibido terapia nucleosídica. La mayoría de la población
+incluida en el estudio era asiática. Los genotipos de VHB más frecuentes fueron el B (26%) y el C
+(51%). Se trataron con telbivudina un pequeño número de pacientes caucásicos (98 en total). El
+análisis principal de datos se realizó después de que todos los pacientes cumplieron la semana 52 de
+tratamiento.
+ Pacientes HBeAg positivos: La edad media de los pacientes fue 32 años, el 74% eran de sexo
+masculino, el 82% asiáticos, el 12% caucásicos y el 6% habían recibido tratamiento previo con
+interferón alfa.
+ Pacientes HBeAg negativos: La edad media de los pacientes fue 43 años, el 79% eran de sexo
+masculino, el 65% asiáticos, el 23% caucásicos y el 11% habían recibido tratamiento previo con
+interferón alfa.
+ Las variables de eficacia clínicas y virológicas se evaluaron por separado en las poblaciones de
+pacientes HBeAg positivos y HBeAg negativos. La variable principal de la respuesta terapéutica fue
+una variable serológica compuesta que requiere la supresión del ADN del VHB hasta
+< 5 log10 copias/ml junto con la pérdida de HBeAg sérico o normalización de ALT. Las variables
+secundarias incluyeron respuesta histológica, normalización de ALT y varias mediciones de la eficacia
+antivírica.
+ Independientemente de las características basales, la mayoría de los pacientes que tomaron Sebivo
+mostraron respuesta histológica, virológica, bioquímica y serológica al tratamiento. Los niveles
+basales de ALT > 2 x LSN y ADN del VHB basales < 9 log10 copias/ml se asociaron con índices más
+elevados de seroconversión del Age en pacientes HBeAg positivos. Los pacientes que alcanzaron
+niveles de ADN del VHB < 3 log10 copias/ml en la semana 24 presentaron respuesta óptima al
+tratamiento; por el contrario, pacientes con niveles de ADN del VHB > 4 log10 copias/ml a las
+24 semanas tuvieron resultados menos favorables a la semana 52.
+ En pacientes HBeAg positivos, la telbivudina fue superior a lamivudina en cuanto a la respuesta
+terapéutica (75,3% vs 67,0% de respondedores; p = 0,0047). En pacientes HBeAg negativos, la
+telbivudina resultó no inferior a lamivudina (75,2% y 77,2% de respondedores; p = 0,6187). La
+etnicidad caucásica se asoció con una respuesta inferior al tratamiento con los dos agentes antivirales
+utilizados en el ensayo GLOBE; sin embargo, la población de pacientes caucásicos fue muy limitada
+(n = 98).
+ En la semana 24, 203 pacientes HBeAg positivos y 178 HBeAg negativos alcanzaron niveles de ADN
+del VHB no detectables. De los pacientes HBeAg positivos, el 95% alcanzó niveles de ADN del VHB
+no detectables, el 39% alcanzó seroconversión de HBeAg, el 90% alcanzó normalización de ALT en la
+semana 52 y el 0,5% presentó resistencia en la semana 48. De forma similar, de los pacientes HBeAg
+negativos, el 96% alcanzó niveles de ADN del VHB no detectables, el 79% alcanzó normalización de
+ALT en la semana 52 y el 0% presentó resistencia en la semana 48.
+ En la tabla 5 se muestran los resultados de las mediciones virológicas, bioquímicas y serológicas
+seleccionadas y en la tabla 6 se muestra la respuesta histológica.
+ Tabla 5     Variables virológicas, bioquímicas y serológicas en la semana 52 (estudio GLOBE
+007)
+                               HBeAg positivos (n = 921)                HBeAg negativos (n = 446)
+Parámetro de              Telbivudina         Lamivudina              Telbivudina    Lamivudina
+respuesta                    600 mg              100 mg                  600 mg         100 mg
+Reducción media del       -6,45 (0,11) *       -5,54 (0,11)           -5,23 (0,13) * -4,40 (0,13)
+ADN del VHB
+respecto al valor
+basal
+(log10 copias/ml)
+Media ± EEM1,2,3
+Pacientes con ADN                60%*                   40%               88%*               71%
+del VHB negativo
+por PCR (en %)
+Normalización de                  77%                   75%                74%               79%
+ALT4
+Seroconversión de                 23%                   22%                 -                  -
+HBeAg4
+Pérdida de HBeAg5                 26%                   23%                 -                  -
+1
+EEM: Error estándar de la media
+2
+Valoración de PCR COBAS Amplicor® de Roche (límite inferior de cuantificación
+300 copias/ml).
+3
+HBeAg positivos n = 443 y 444, HBeAg negativos n = 219 y 219, para los grupos de telbivudina y
+lamivudina, respectivamente. Las diferencias de población se deben a interrupciones en el tratamiento
+de pacientes del estudio y a la falta de valoración del ADN del VHB en la semana 52.
+4
+HBeAg positivos n = 440 y 446, HBeAg-negativos n = 203 y 207, para los grupos de telbivudina y
+lamivudina, respectivamente. Se evaluó la normalización de ALT únicamente en pacientes con ALT >
+LSN en el periodo basal.
+5
+n = 432 y 442, para los grupos de telbivudina y lamivudina, respectivamente. Se evaluó la
+seroconversión y la pérdida de HBeAg únicamente en los pacientes con cantidades detectables de
+HBeAg en el periodo basal.
+*p < 0,0001
+ Tabla 6     Mejoría histológica y cambio de puntuación en la escala de Fibrosis de Ishak en la
+semana 52 (estudio GLOBE 007)
+                                  HBeAg positivo (n = 921)           HBeAg negativo (n = 446)
+Respuesta histológica2
+Mejoría                    71%*              61%              71%              70%
+Ausencia de                 17%              24%              21%              24%
+mejoría
+Puntuación en la escala de Fibrosis de Ishak3
+Mejoría                     42%              47%              49%              45%
+Sin cambios                 39%              32%              34%              43%
+Deterioro                    8%               7%               9%               5%
+Ausencia de biopsia en la
+semana 52
+1
+Pacientes que recibieron  una dosis del medicamento de estudio, con biopsias hepáticas basales
+evaluables y puntuación basal del Índice de Actividad Histológica (IAH) de Knodell > 3.
+                                                  10
+2
+Respuesta histológica definida como disminución  2 puntos en la puntuación de actividad
+Necroinflamatoria de Knodell sin deterioro de la puntuación de Fibrosis de Knodell.
+3
+En la puntuación de Fibrosis de Ishak, la mejoría de definió como reducción  1 punto en la
+puntuación de Fibrosis de Ishak desde el valor basal hasta la semana 52.
+*p = 0,0024
+ Resistencia clínica
+En los receptores de telbivudina se observó rechazo virológico (incremento  1 log10 a partir de nadir)
+en el 6% (27/458) de los pacientes HBeAg positivos y en el 2% (5/222) de los pacientes HBeAg
+negativos en la semana 48. El análisis de los pacientes receptores de telbivudina con rechazo
+virológico indicó que, el 5% (23/458) de los pacientes HBeAg positivos y el 2% (5/222) de los
+pacientes HBeAg negativos, presentaron rechazo virológico con mutaciones de resistencia al VHB
+detectables. La evidencia genotípica y fenotípica identificó al rtM204I, solo o en combinación con
+rtL80I/V, como la mutación de resistencia clave.
+ En la semana 48, 145/458 (32%) y 15/222 (7%) de los receptores de telbivudina HBeAg positivos y
+HBeAg negativos, respectivamente, presentaban ADN del VHB  1.000 copias/ml. Los análisis
+genotípicos de las muestras séricas de esta subpoblación de pacientes identificaron 41 pacientes con
+sustituciones del aminoácido M204I (solo o con rtL80), así como mutaciones no asociadas con el
+rechazo vírico (rtA181T, T/A/S, n = 16). La única mutación asociada con rechazo virológico
+(incremento del ADN del VHB  1 log10 a partir del nadir) fue rtM204I.
+ Resistencia cruzada
+Se ha observado resistencia cruzada entre los análogos nucleósidos del VHB (ver apartado 4.4). En
+ensayos celulares, las cepas de VHB resistentes a lamivudina que contenían la mutación en rtM204I o
+la mutación doble rtL180M/rtM204V, presentaron una susceptibilidad a telbivudina reducida
+1.000 veces. La telbivudina mantuvo la actividad del fenotipo salvaje (reducción 1,2 veces) contra la
+mutación simple rtM204V asociada a la resistencia a lamivudina. El VHB codificado con la resistencia
+a adefovir asociada a las sustituciones en rtN236T o rtA181, permaneció susceptible a telbivudina. El
+VHB codificado con la resistencia a adefovir asociada a las sustituciones en A181V mostró una
+susceptibilidad a telbivudina reducida entre 3 y 5 veces en cultivo celular (ver apartado 4.4).
+ 5.2   Propiedades farmacocinéticas
+ Se ha evaluado la farmacocinética de telbivudina tras dosis únicas y múltiples en voluntarios sanos y
+en pacientes con hepatitis B crónica. No se ha evaluado la farmacocinética de telbivudina a la dosis
+recomendada de 600 mg en pacientes con hepatitis B crónica. Sin embargo, la farmacocinética de
+telbivudina es similar entre ambas poblaciones.
+ Absorción
+Tras la administración oral de una dosis única de 600 mg de telbivudina a voluntarios sanos (n = 42),
+la concentración plasmática máxima (Cmax) de telbivudina fue de 3,2 ± 1,1 g/ml (media ± DE) y se
+alcanzó a una media de 3,0 horas después de la dosis. El área bajo la curva de las concentraciones
+plasmáticas de telbivudina en función del tiempo (AUC0-) fue de 28,0 ± 8,5 g h/ml (media ± DE).
+En las determinaciones de exposición sistémica (Cmax, AUC) la variabilidad interindividual por lo
+general fue del 30% aproximadamente.
+ Efecto de los alimentos sobre la absorción oral
+La administración de una dosis única de 600 mg con alimentos no modificó ni a la absorción ni a la
+exposición a telbivudina.
+ Distribución
+In vitro, la unión de telbivudina a las proteínas plasmáticas es baja (3,3%).
+ Biotransformación
+No se detectaron metabolitos de telbivudina tras la administración de 14C-telbivudina a los seres
+humanos. La telbivudina no es un sustrato, inhibidor, ni inductor del sistema enzimático del citocromo
+P450 (CYP450).
+ Eliminación
+Tras alcanzar la concentración máxima, la disposición plasmática de telbivudina disminuye de forma
+biexponencial con una semivida de eliminación terminal (t1/2) de 41,8 ± 11,8 horas. La telbivudina se
+elimina principalmente por excreción urinaria como fármaco inalterado. El aclaramiento renal de
+telbivudina se aproxima a la tasa de filtración glomerular normal, lo que sugiere que el principal
+mecanismo de excreción es la filtración. Tras la administración de una dosis oral única de 600 mg de
+telbivudina, en un plazo de 7 días se recupera en la orina aproximadamente el 42% de la dosis
+administrada. Dado que la vía de eliminación predominante es la vía renal, tanto los pacientes con
+insuficiencia renal de moderada a grave como los pacientes en hemodiálisis requerirán un ajuste del
+intervalo de tiempo entre dosis (ver apartado 4.2).
+ Linealidad / no-linealidad
+La farmacocinética de telbivudina es proporcional a la dosis administrada en el rango de 25 a
+1.800 mg. Después de 5 a 7 días con una única administración diaria se alcanzó el estado estacionario
+con una acumulación aproximada de 1,5 veces en la exposición sistémica, lo que sugiere una semivida
+de acumulación efectiva de aproximadamente 15 horas. Tras una única administración diaria de
+600 mg de telbivudina, las concentraciones plasmáticas mínimas en estado estacionario fueron de
+0,2-0,3 g/ml aproximadamente.
+ Poblaciones especiales
+Sexo
+No existen diferencias significativas relacionadas con el sexo en la farmacocinética de telbivudina.
+ Raza
+No existen diferencias significativas relacionadas con la raza en la farmacocinética de telbivudina.
+ Pediatría y geriatría
+No se han realizado estudios farmacocinéticos en sujetos pediátricos o de edad avanzada.
+ Insuficiencia renal
+Se ha evaluado la farmacocinética de telbivudina tras dosis únicas (200, 400 y 600 mg) en pacientes
+(sin hepatitis B crónica) con diversos grados de insuficiencia renal (valorado con el aclaramiento de
+creatinina). Según los resultados que se muestran en la tabla 7, se recomienda ajustar el intervalo de
+tiempo entre las dosis de telbivudina en los pacientes que presenten un aclaramiento de creatinina
+< 50 ml/min (ver secciones 4.2 y 4.4).
+               Parámetros farmacocinéticos (media ± DE) de telbivudina en sujetos con diversos
+Tabla 7
+grados de función renal
+                                  Función renal (aclaramiento de creatinina en ml/min)
+Normal (> 80)    Leve (50-80)        Moderada        Grave (< 30)       ERT/
+600 mg            600 mg            (n = 8)           200 mg         (n = 6)
+Cmax (g/ml)
+28,5 ± 9,6      32,5 ± 10,1       36,0 ± 13,2       32,5 ± 13,2    67,4 ± 36,9
+AUC0-
+(g·h/ml)
+CLRENAL           126,7 ± 48,3      83,3 ± 20,0        43,3 ± 20,0       11,7 ± 6,7             -
+(ml/min)
+ Pacientes con insuficiencia renal en hemodiálisis
+La hemodiálisis (de hasta 4 horas) reduce la exposición sistémica a telbivudina un 23%
+aproximadamente. Aparte del ajuste del intervalo de tiempo entre dosis en función del aclaramiento de
+creatinina, no es necesario realizar ninguna modificación adicional de la dosis durante la hemodiálisis
+de rutina (ver apartado 4.2). La telbivudina debe administrarse después de la hemodiálisis.
+ Insuficiencia hepática
+Se ha estudiado la farmacocinética de telbivudina tras una dosis única de 600 mg en pacientes (sin
+hepatitis B crónica) con diversos grados de insuficiencia hepática. No se observaron cambios en la
+farmacocinética de telbivudina entre los sujetos con y sin insuficiencia hepática. Los resultados de
+estos estudios indican que no es necesario realizar un ajuste de la dosis en pacientes con insuficiencia
+hepática (ver apartado 4.2).
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos de los estudios preclínicos no muestran riesgos especiales para los seres humanos según los
+estudios convencionales de farmacología de seguridad, toxicidad de dosis repetidas y genotoxicidad.
+La telbivudina no mostró potencial carcinogénico. No se observaron signos de efecto tóxico directo de
+telbivudina en estudios estándar de toxicidad reproductiva. En conejos, dosis de telbivudina
+equivalentes a niveles de exposición 37 veces superiores al observado en humanos con la dosis
+terapéutica (600 mg) se relacionaron con una mayor incidencia de abortos y partos prematuros. Este
+efecto se consideró secundario a la toxicidad materna.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo del comprimido
+Celulosa microcristalina
+Povidona
+Glicolato sódico de almidón
+Sílice coloidal anhidra
+Estearato de magnesio
+ Película de recubrimiento del comprimido
+Dióxido de titanio (E171)
+Macrogol
+Talco
+Hipromelosa
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 2 años
+ 6.4   Precauciones especiales de conservación
+ No requiere condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del envase
+ Blisters de PVC/aluminio
+ Tamaños del envase: 28 ó 98 comprimidos recubiertos con película
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/07/388/001
+EU/1/07/388/002
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 24.04.2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ MM/AAAA
+ A.   TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN
+RESPONSABLE DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE DE LA
+LIBERACIÓN DE LOS LOTES
+ Nombre y dirección del fabricante responsable de la liberación de los lotes
+ Novartis Pharma S.A.S.
+26, rue de la Chapelle
+F-68330 Huningue
+Francia
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Véase Anexo I: Ficha Técnica o Resumen de
+las Características del Producto, sección 4.2).
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ·     OTRAS CONDICIONES
+ Sistema de Farmacovigilancia
+ El Titular de la Autorización de Comercialización debe asegurar que se dispone de un sistema de
+farmacovigilancia establecido y en funcionamiento antes de la puesta del producto en el mercado y
+durante todo el tiempo que permanezca comercializado.
+ Plan de Gestión de Riesgos
+ El Titular de la Autorización de Comercialización se compromete a realizar los estudios y las
+actividades de farmacovigilancia adicionales detalladas en el Plan de farmacovigilancia.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 17
+A. ETIQUETADO
+ 18
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ CARTON
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Sebivo 600 mg comprimidos recubiertos con película
+telbivudina
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Un comprimido contiene 600 mg de telbivudina.
+ 
+3.    LISTA DE EXCIPIENTES
+	
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	28 comprimidos recubiertos con película
+98 comprimidos recubiertos con película
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía oral.
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS(S) ADVERTENCIA(S) ESPECIAL(ES), SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+                                                   19
+11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/07/388/001         28 comprimidos recubiertos con película
+EU/1/07/388/002         98 comprimidos recubiertos con película
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ Sebivo 600 mg
+ INFORMACIÓN MÍNIMA A INCLUIR EN BLÍSTERS O TIRAS
+ BLÍSTERS
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Sebivo 600 mg comprimidos recubiertos con película
+telbivudina
+ 
+2.    NOMBRE DEL TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Novartis Europharm Limited
+ 
+3.    FECHA DE CADUCIDAD
+	EXP
+ 
+4.    NÚMERO DE LOTE
+	Lot
+ 
+5.    OTROS
+	Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
+ B. PROSPECTO
+ 22
+                         Sebivo 600 mg comprimidos recubiertos con película
+ Lea todo el prospecto detenidamente antes de empezar a tomar el medicamento.
+-     Conserve este prospecto ya que puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico.
+-     Este medicamento se le ha recetado a usted y no debe dárselo a otras personas, aunque tengan
+los mismos síntomas, ya que puede perjudicarles.
+-     Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ Contenido del prospecto:
+1.   Qué es Sebivo y para qué se utiliza
+2.   Antes de tomar Sebivo
+3.   Cómo tomar Sebivo
+4.   Posibles efectos adversos
+5.   Conservación de Sebivo
+6.   Información adicional
+ 
+1.    QUÉ ES SEBIVO Y PARA QUÉ SE UTILIZA
+	Sebivo pertenece a un grupo de medicamentos conocidos como antivirales, que se utilizan para tratar
+infecciones causadas por virus.
+ Sebivo se utiliza para tratar la hepatitis B crónica en adultos.
+ La causa de la hepatitis B es la infección por el virus de la hepatitis B, que se multiplica en el hígado y
+causa lesiones en el hígado. El tratamiento con Sebivo reduce la cantidad de virus de la hepatitis B que
+hay en el cuerpo al impedir su desarrollo, lo que produce menos lesión en el hígado y una mejora de la
+función del hígado.
+ 
+2.    ANTES DE TOMAR SEBIVO
+	No tome Sebivo
+-    si es alérgico (hipersensible) a telbivudina o a cualquiera de los demás componentes de Sebivo
+(descritos en sección 6).
+ Si éste es su caso, informe a su médico antes de tomar Sebivo. Si cree que puede ser alérgico, pida
+consejo a su médico.
+ Tenga especial cuidado con Sebivo
+-    si tiene o ha tenido problemas de riñón. Su médico puede solicitar pruebas de laboratorio para
+comprobar que sus riñones funcionan adecuadamente, antes y durante el tratamiento.
+Dependiendo de los resultados de estos análisis su médico puede aconsejarle que cambie la
+frecuencia con la que toma Sebivo.
+-    si tiene cirrosis (una enfermedad grave que causa la aparición de cicatrices en el hígado). En
+este caso su médico le controlará más de cerca.
+-    si está utilizando con otros medicamentos que puedan causarle problemas musculares (consulte a su
+médico o farmacéutico si tiene dudas).
+-    si ha recibido un trasplante de hígado.
+-    si está infectado con el virus VIH, el de la hepatitis C o D, o está tratado con cualquier antiviral.
+ Si este es su caso, informe a su médico antes de tomar Sebivo.
+ Los medicamentos como Sebivo (un análogo nucleósido) pueden causar exceso de ácido láctico en la
+sangre (acidosis láctica) y aumento del tamaño del hígado (hepatomegalia) con hígado graso
+(esteatosis). La acidosis láctica es un efecto adverso raro pero grave que ocasionalmente puede resultar
+mortal. Si usted sufre dolor muscular, dolor estomacal con náuseas y vómitos, tiene dificultad para
+respirar o se siente muy débil o cansado mientras esté tomando Sebivo, informe a su médico
+inmediatamente.
+ Sebivo puede causar debilidad muscular persistente inexplicada o dolor muscular. Sebivo puede
+producir casos poco frecuentes de adormecimiento, hormigueo, dolor y/o sensación de quemazón en
+brazos y/o piernas. Si usted nota cualquiera de estos síntomas, informe a su médico inmediatamente.
+ Tenga cuidado de no infectar a otras personas
+Sebivo no reduce el riesgo de infectar a otras personas con el virus de la hepatitis B (VHB) a través de
+contacto sexual o por exposición a sangre contaminada o a otros fluidos corporales. Nunca comparta
+agujas. No comparta artículos personales que puedan contener sangre o fluidos corporales, como el
+cepillo de dientes o las cuchillas de afeitar. Existe una vacuna disponible para prevenir la infección por
+el VHB.
+ Uso en niños (menores de 16 años)
+No se recomienda el uso de Sebivo en niños menores de 16 años de edad.
+ Uso de con otros medicamentos
+Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente con otros medicamentos, incluso los adquiridos sin receta.
+ Su médico o farmacéutico deben saber si usted está tomando con otros medicamentos porque algunos
+pueden afectar a sus riñones y porque además, Sebivo se elimina del organismo fundamentalmente a
+través de los riñones en la orina.
+ Toma de Sebivo con los alimentos y bebidas
+Puede tomar Sebivo con o sin alimentos.
+ Embarazo y lactancia
+No use Sebivo durante el embarazo a no ser que su médico se lo recomiende. Si usted está embarazada
+o cree que pueda estarlo, informe a su médico antes de tomar Sebivo. Su médico le informará de los
+riesgos potenciales de tomar Sebivo durante el embarazo.
+ Si usted sufre de hepatitis B y se queda embarazada, consulte con su médico acerca de como puede
+proteger mejor a su bebé. Se desconoce si Sebivo reduce el riesgo de transmitir su virus de la hepatitis
+B a su futuro bebé.
+ No debe amamantar durante el tratamiento con Sebivo. Informe a su médico si usted está en período
+de lactancia.
+ Conducción y uso de máquinas
+No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ 
+3.    CÓMO TOMAR SEBIVO
+	Siga exactamente las instrucciones de administración de Sebivo indicadas por su médico. Consulte a
+su médico o farmacéutico si tiene dudas.
+ Cantidad de Sebivo que debe tomar
+La dosis habitual de Sebivo es de un comprimido de 600 mg una vez al día. Tome el comprimido
+aproximadamente a la misma hora cada día.
+ El comprimido puede tomarlo con o sin alimentos. Tráguelo entero con un poco de agua. No lo
+mastique, divida, ni triture.
+ Si tiene problemas de riñón puede que necesite tomar Sebivo con menos frecuencia. Informe a su
+médico si tiene o ha tenido alguna vez, cualquier problema de riñón.
+ Durante cuanto tiempo debe tomar Sebivo
+No cambie su dosis ni interrumpa el tratamiento con Sebivo sin consultarlo con su médico. Tome
+Sebivo cada día y continúe su tratamiento exactamente como le hayan prescrito a no ser que su médico
+le indique lo contrario. Su médico le controlará regularmente para asegurarse que Sebivo funciona. Si
+usted interrumpe el tratamiento con Sebivo, los síntomas de la hepatitis B pueden empeorar o llegar a
+ser muy graves.
+ Si toma más Sebivo del que debiera
+Si usted ha tomado más Sebivo del que le haya indicado su médico, o si alguien toma accidentalmente
+sus comprimidos, acuda inmediatamente al hospital o consulte con su médico. Lleve el envase del
+medicamento y muéstrelo a su médico.
+ Si olvidó tomar Sebivo
+Si olvidó tomar Sebivo, tómelo tan pronto como se acuerde y luego tome la siguiente dosis según la
+pauta establecida. No obstante, si ya es casi la hora de la siguiente dosis, no tome la dosis olvidada y
+tómela cuando corresponda.
+ No tome una dosis doble para compensar las dosis olvidadas. Esto puede aumentar el riesgo de que
+usted padezca efectos adversos no deseados. Consulte a su médico o farmacéutico si no está seguro de
+cómo proceder.
+ Si interrumpe el tratamiento con Sebivo
+No se quede sin Sebivo. No interrumpa el tratamiento con Sebivo salvo que se lo indique su médico.
+Su infección por hepatitis B puede empeorar o llegar a ser muy grave. Después de que usted
+interrumpa el tratamiento con Sebivo, su médico controlará su estado de salud y efectuará análisis de
+sangre regulares para controlar el estado de su hígado. Informe a su médico inmediatamente si usted
+advierte algún síntoma nuevo o inusual después de interrumpir el tratamiento.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, Sebivo puede tener efectos adversos, aunque no todas las
+personas los sufran.
+ Sebivo puede causar los siguientes efectos adversos:
+ Efectos adversos frecuentes (que afectan entre 1 y 10 de cada 100 pacientes)
+-     Mareo, dolor de cabeza
+-     Tos
+-     Diarrea, náuseas, dolor abdominal
+-     Erupción cutánea
+-     Fatiga
+-     Análisis de sangre que muestran niveles elevados de enzimas hepáticos, amilasa, lipasa o
+creatinquinasa
+                                                    25
+Efectos adversos poco frecuentes (que afectan entre 1 y 10 de cada 1.000 pacientes)
+-     Dolor en articulaciones
+-     Dolor o debilidad muscular persistente
+-     Adormecimiento, hormigueo, dolor y/o sensación de quemazón en brazos y/o piernas
+-     Malestar (sensación de no sentirse bien)
+ Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ 
+5.    CONSERVACIÓN DE SEBIVO
+	Mantener fuera del alcance y de la vista de los niños.
+No utilice Sebivo después de la fecha de caducidad que aparece en el cartón después de CAD. La
+fecha de caducidad es el último día del mes que se indica.
+No lo utilice si el envase está dañado o muestra signos de deterioro.
+ Los medicamentos no se deben tirar por los desagües ni a la basura. Pregunte a su farmacéutico cómo
+deshacerse de los envases y de los medicamentos que no necesita. De esta forma ayudará a proteger el
+medio ambiente.
+ 
+6.    INFORMACIÓN ADICIONAL
+	Composición de Sebivo
+-   El principio activo es telbivudina. Un comprimido contiene 600 mg de telbivudina.
+-   Los demás componentes son: celulosa microcristalina; povidona; glicolato sódico de almidón;
+sílice coloidal anhidra; estearato de magnesio; hipromelosa; dióxido de titanio (E171); talco;
+macrogol.
+ Aspecto de Sebivo y contenido del envase
+Sebivo son comprimidos recubiertos con película ovales, de color blanco o ligeramente amarillento,
+con la inscripción «LDT» en una cara.
+ Sebivo comprimidos recubiertos con película se presenta en envases de 28 ó 98 comprimidos. Puede
+que en su país solamente estén comercializados algunos tamaños de envases.
+ Titular de la autorización de comercialización
+Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ Responsable de la fabricación
+Novartis Pharma S.A.S.
+26, rue de la Chapelle
+F-68330 Huningue
+Francia
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización:
+ België/Belgique/Belgien                               Luxembourg/Luxemburg
+Novartis Pharma N.V.                                  Novartis Pharma GmbH
+Tél/Tel: +32 2 246 16 11                              Tel: +49 911 273 0
+                                                       Magyarország
+Novartis Pharma Services Inc.                         Novartis Hungária Kft. Pharma
+.: +359 2 489 98 28                                   Tel.: +36 1 457 65 00
+ Ceská republika                                       Malta
+Novartis s.r.o.                                       Novartis Pharma Services Inc.
+Tel: +420 225 775 111                                 Tel: +356 2298 3217
+ Danmark                                               Nederland
+Novartis Healthcare A/S                               Novartis Pharma B.V.
+Tlf: +45 39 16 84 00                                  Tel: +31 26 37 82 111
+ Deutschland                                           Norge
+Novartis Pharma GmbH                                  Novartis Norge AS
+Tel: +49 911 273 0                                    Tlf: +47 23 05 20 00
+ Eesti                                                 Österreich
+Novartis Pharma Services Inc.                         Novartis Pharma GmbH
+Tel: +372 60 62 400                                   Tel: +43 1 86 6570
+                                                       Polska
+Novartis (Hellas) A.E.B.E.                            Novartis Poland Sp. z o.o.
+: +30 210 281 17 12                                   Tel.: +48 22 550 8888
+ España                                                Portugal
+Novartis Farmacéutica, S.A.                           Novartis Farma - Produtos Farmacêuticos, S.A.
+Tel: +34 93 306 42 00                                 Tel: +351 21 000 8600
+ France                                                România
+Novartis Pharma S.A.S.                                Novartis Pharma Services Inc.
+Tél: +33 1 55 47 66 00                                Tel: +40 21 31299 01
+ Ireland                                               Slovenija
+Novartis Ireland Limited                              Novartis Pharma Services Inc.
+Tel: +353 1 260 12 55                                 Tel: +386 1 300 75 77
+ Ísland                                                Slovenská republika
+Vistor hf.                                            Novartis Slovakia s.r.o.
+Sími: +354 535 7000                                   Tel: +421 2 5542 5439
+ Italia                                                Suomi/Finland
+Novartis Farma S.p.A.                                 Novartis Finland Oy
+Tel: +39 02 96 54 1                                   Puh/Tel: +358 9 61 33 22 11
+                                                       Sverige
+: +357 22 690 690                                     Tel: +46 8 732 32 00
+                                                  27
+Latvija                                          United Kingdom
+Novartis Pharma Services Inc.                    Novartis Pharmaceuticals UK Ltd.
+Tel: +371 7 887 070                              Tel: +44 1276 698370
+ Lietuva
+Novartis Pharma Services Inc.
+Tel: +370 5 269 16 50
+ Este prospecto fue aprobado en {MM/AAAA}.
+
+	Prospectos de medicamentos.

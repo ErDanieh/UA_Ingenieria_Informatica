@@ -1,0 +1,431 @@
+BEGLAN 25MCG/DOSIS 5.1G AEROSOL 60 INHALAC
+	Información Basica del medicamento Toda la información del medicamento 
+1.  NOMBRE DEL MEDICAMENTO
+	
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	                                               Por aplicación                                        Por alvéolo
+Accuhaler
+ Salmeterol (xinafoato)              25 microgramos (0,294mg/g)                                     50 microgramos
+ 
+3.  FORMA FARMACÉUTICA
+	
+4.    DATOS CLÍNICOS
+	"4.1. Indicaciones terapéuticas
+Salmeterol está indicado en el tratamiento regular a largo plazo de la obstrucción reversible de
+vías respiratorias causada por asma y bronquitis crónica (EPOC).
+ En el asma salmeterol está indicado en aquellos pacientes tratados con corticoides que requieran
+además un agonista beta de larga duración, atendiendo a las recomendaciones vigentes sobre el
+tratamiento del asma.
+ 4.2. Posología y forma de administración
+Salmeterol (suspensión para inhalación y Accuhaler) se administrará sólo por vía inhalatoria.
+ Proporciona una broncodilatación de larga duración (12 horas), por lo que es adecuado para el
+tratamiento regular a largo plazo, administrado dos veces al día, a fin de controlar los síntomas. A
+la vista de su lento comienzo de acción (10 a 20 minutos) no deberá usarse para aliviar los
+síntomas asmáticos agudos, para lo cual se administrará un broncodilatador de acción más rápida
+(en 5 minutos) por vía inhalatoria (por ej. salbutamol).
+ El inicio de una broncodilatación eficaz (>15% de mejoría en el Volumen Espiratorio Forzado en
+1 segundo) sucede generalmente en unos 10-20 minutos. La eficacia completa se alcanzará tras las
+primeras dosis del fármaco. Los efectos broncodilatadores de salmeterol duran generalmente 12
+horas. Esto es particularmente útil en el tratamiento de los síntomas nocturnos del asma y en el
+tratamiento del asma inducida por ejercicio.
+ Los pacientes que encuentren dificultad en coordinar el manejo del inhalador con la inhalación,
+pueden utilizar una cámara para inhalación apropiada (BABYHALER® niños de hasta 5 años).
+ Debido a que puede haber efectos adversos asociados a una dosis excesiva de este tipo de
+fármacos, el incremento de dosis o frecuencia de administración debe realizarse sólo bajo
+supervisión médica.
+ Adultos
+Dos inhalaciones (2 x 25 microgramos) o 1 alvéolo del Accuhaler (50 microgramos), dos veces al
+día.
+ En pacientes con obstrucción respiratoria más grave, 4 inhalaciones (4 x 25 microgramos) o 2
+alvéolos del Accuhaler, dos veces al día.
+ Niños de 4 y más años
+Dos inhalaciones (2 x 25 microgramos) o 1 alvéolo del Accuhaler (50 microgramos), dos veces al
+día.
+ No hay todavía datos clínicos suficientes para recomendar salmeterol en niños menores de 4 años.
+ No es necesario ajustar las dosis en los pacientes ancianos, ni en pacientes con disfunción renal.
+ 4.3. Contraindicaciones
+Hipersensibilidad a cualquier componente de BEGLÁN (ver apartado 6. Datos farmacéuticos).
+ 4.4. Advertencias y precauciones especiales de empleo
+El tratamiento del asma normalmente debe seguir un programa escalonado, donde la respuesta del
+paciente debe controlarse clínicamente y mediante las pruebas de función pulmonar.
+ El tratamiento con salmeterol no debe utilizarse (y no es suficiente) como tratamiento inicial del
+asma.
+ Los broncodilatadores no deben ser el único tratamiento en pacientes con asma moderada, grave o
+inestable. Estos pacientes requerirán tratamiento adecuado con corticoides inhalados o terapia
+corticosteroidea por vía oral. Junto a una terapia esteroidea óptima de fondo, BEGLAN puede
+ofrecer un tratamiento sintomático adicional. El empeoramiento repentino de los síntomas puede
+requerir un aumento de la dosis de corticosteroide, que será administrado bajo supervisión
+médica.
+ Un aumento en la utilización de broncodilatadores, en especial de -agonistas de corta duración
+de acción, para aliviar los síntomas indica un deterioro del control del asma. Si los pacientes
+encuentran que el tratamiento broncodilatador es cada vez menos eficaz o sienten que necesitan
+más inhalaciones que las habituales, se debe acudir al médico. En estos casos, los pacientes deben
+ser reevaluados y se debe tener en cuenta la posible necesidad de aumentar el tratamiento
+antiinflamatorio (por ejemplo, dosis más altas de corticosteroides inhalados o corticosteroides
+orales). Las exacerbaciones agudas del asma deben tratarse de forma habitual.
+ Aunque Beglán puede administrarse como tratamiento complementario cuando los
+corticosteroides inhalados no proporcionan un adecuado control del asma, los pacientes no deben
+iniciar el tratamiento con Beglán durante una exacerbación aguda grave, o si están sufriendo un
+empeoramiento significativo o un deterioro agudo del asma.
+ Durante el tratamiento con Beglán pueden producirse acontecimientos adversos graves
+relacionados con el asma y exacerbaciones. Se debe pedir a los pacientes que continúen el
+tratamiento pero que acudan a su médico si los síntomas del asma siguen sin estar controlados o
+empeoran tras comenzar el tratamiento con Beglán.
+ Una vez que se hayan controlado los síntomas del asma, se puede tener en cuenta la posibilidad de
+reducir gradualmente la dosis de Beglán. Es importante un control de forma regular de los
+pacientes a los que se les está disminuyendo la dosis de Beglán. Debe utilizarse la dosis mínima
+eficaz de Beglán.
+ BEGLÁN no está destinado para el alivio de los síntomas asmáticos agudos, para los cuales se
+requiere la administración de un broncodilatador de corta duración de acción (por ej. salbutamol).
+Se aconsejará a los pacientes que dispongan de tal medicación de rescate.
+ Se ha informado de casos raros de aumento de los niveles de glucosa en sangre (ver apartado 4.8
+de reacciones adversas), lo cual debe tenerse en cuenta cuando se prescriba a pacientes con
+historial de diabetes mellitus.
+ Salmeterol deberá administrarse con precaución, en pacientes con tirotoxicosis.
+ Con todos los fármacos simpaticomiméticos pueden observarse, ocasionalmente, efectos
+cardiovasculares, como aumento de la presión sistólica y frecuencia cardiaca, especialmente a
+dosis superiores a las dosis terapéuticas. Por este motivo, salmeterol debe emplearse con
+precaución en pacientes con patologías cardiovasculares previas.
+ Todos los fármacos simpaticomiméticos pueden producir un descenso transitorio de los niveles de
+potasio en suero a dosis superiores a las terapéuticas. Por lo tanto, salmeterol debe administrarse
+con precaución a pacientes con predisposición a tener niveles bajos de potasio en sangre.
+ Los datos de un amplio ensayo clínico (""Salmeterol Multi-Center Asthma Research Trial"",
+SMART) sugirieron que los pacientes afro-americanos presentaban un mayor riesgo de padecer
+acontecimientos graves relacionados con el sistema respiratorio o de morir durante la utilización
+de salmeterol en comparación con placebo (ver apartado 5.1). No se sabe si era debido a factores
+farmacogenéticos u a otro tipo de factores. Por lo tanto, se debe pedir a los pacientes con
+ascendencia africana o afro-caribeña que continúen con el tratamiento pero que acudan a su
+médico si los síntomas del asma siguen sin estar controlados o empeoran durante el tratamiento
+con BEGLAN.
+ BEGLAN 25 microgramos, Suspensión para inhalación en envase a presión ha modificado su
+formulación para suprimir los propelentes CFC, lo que deberá tenerse en cuenta por si fuera
+necesario modificar la pauta posológica. Se deberá informar a los pacientes de que pueden notar
+cambios en el sabor y en el sonido del inhalador durante su utilización.
+ Deberá comprobarse la técnica de inhalación del paciente para asegurar que la aplicación del
+aerosol se sincronice con la inspiración, a fin de que se consiga una óptima llegada del fármaco a
+los pulmones.
+ La inhalación de Beglán puede producir broncoespasmo paradójico el cual puede ser grave. Si
+esto ocurriese se deberá suspender inmediatamente el tratamiento e instaurar otra terapia.
+ Se informa a los deportistas que este medicamento contiene un componente que puede establecer
+un resultado analítico de control de dopaje como positivo.
+ 4.5. Interacción con con otros medicamentos y otras formas de interacción
+Los fármacos -bloqueantes selectivos y no selectivos no se prescribirán a pacientes con
+obstrucción reversible de vías respiratorias, a menos que existan razones que obliguen a ello, ya
+que estos fármacos no solamente bloquean los efectos pulmonares de los -agonistas sino que
+además pueden producir broncoespasmo severo en pacientes asmáticos.
+4.6. Embarazo y lactancia
+La experiencia del uso de salmeterol o de norflurano (HFA134a) durante el embarazo es limitada.
+Como con cualquier medicamento, el uso durante el embarazo deberá considerarse sólo si el
+beneficio esperado para la madre es superior a cualquier posible riesgo para el feto.
+ Los estudios del efecto del HFA 134a sobre la función reproductora y sobre el desarrollo
+embriofetal en animales han mostrado que no hay efectos adversos clínicamente relevantes.
+ Los niveles plasmáticos de salmeterol tras dosis terapéuticas inhaladas son insignificantes y, en
+consecuencia, los niveles correspondientes en leche deben ser también bajos. Sin embargo, dada
+la limitada experiencia acerca del empleo de salmeterol en madres durante el período de lactancia,
+su uso en tales circunstancias deberá considerarse sólo si el beneficio para la madre es mayor que
+cualquier posible riesgo para el niño.
+ 4.7. Efectos sobre la capacidad para conducir y utilizar maquinaria
+No se han descrito.
+ 4.8. Reacciones adversas
+Las reacciones adversas que se relacionan han sido clasificadas por órgano, sistema y frecuencia.
+Las frecuencias se han definido de la siguiente forma: muy frecuentes ( 1/10), frecuentes (
+1/100 y < 1/10), poco frecuentes ( 1/1000 y < 1/100) y muy raras (< 1/10000 y casos aislados)
+Las reacciones frecuentes y poco frecuentes se han identificado a partir de los datos de ensayos
+clínicos. La incidencia del placebo no ha sido tenida en cuenta. Las reacciones muy raras se han
+identificado a través de notificación espontánea.
+ Las siguientes frecuencias son estimadas a la dosis estándar de 50 microgramos, dos veces al día.
+Las frecuencias a dosis superiores a 100 microgramos, dos veces al día también han sido tenidas
+en cuenta donde es apropiado.
+ Trastornos del sistema inmunológico
+ Reacciones de hipersensibilidad:
+Poco frecuentes: Erupción (Rash).
+Muy raras: Reacciones anafilácticas incluyendo edema y angioedema, broncoespasmo y shock
+anafiláctico.
+ Trastornos del metabolismo y de la nutrición
+Muy raros: hiperglucemia.
+ Trastornos del sistema nervioso
+Frecuentes: Temblor y cefaleas.
+Se ha informado de reacciones adversas farmacológicas de los 2 ­ agonistas, tales como el
+temblor y las cefaleas, pero tienden a ser transitorios y a disminuir con el tratamiento habitual. El
+temblor se produce más frecuentemente cuando se administra a dosis superiores a 50
+microgramos, dos veces al día.
+ Trastornos cardíacos
+Frecuentes: Palpitaciones, que suelen ser transitorias.
+Se ha informado de reacciones adversas farmacológicas de los 2 ­ agonistas, tales como
+palpitaciones subjetivas, pero tienden a ser transitorios y a disminuir con el tratamiento habitual.
+                                                                                                         MINISTERIO
+Poco frecuentes: Taquicardia.
+ La taquicardia se produce mas frecuentemente cuando se administran dosis superiores a 50
+microgramos, dos veces al día.
+ Muy raros: Pueden aparecer arritmias cardíacas (incluyendo fibrilación auricular, taquicardia
+supraventricular y extrasístoles).
+ Trastornos respiratorios, torácicos y mediastínicos
+Muy raros: Irritación orofaríngea y broncoespasmo paradójico.
+ Como con cualquier otra terapia por inhalación, debe tenerse en cuenta la posibilidad de
+broncoespasmo paradójico (ver precauciones), con un aumento inmediato de las sibilancias tras la
+administración. Si ello ocurriera, deberá tratarse inmediatamente con un broncodilatador inhalado
+de acción rápida, interrumpir inmediatamente la administración de BEGLÁN, evaluar al paciente
+y, si es necesario, instaurar una terapia alternativa.
+ Trastornos musculoesqueléticos y del tejido conjuntivo
+Frecuentes: Calambres musculares.
+ Muy raros: Artralgia.
+ 4.9. Sobredosis
+Los signos y síntomas esperados en una sobredosis de salmeterol son los característicos de una
+estimulación 2-adrenérgica excesiva, incluyendo temblores, dolor de cabeza, taquicardia,
+aumento de la presión sistólica e hipopotasemia.
+ Tratamiento:
+El antídoto preferido para sobredosis con salmeterol inhalado es un agente -bloqueante
+cardioselectivo. Estos fármacos deben utilizarse con precaución en pacientes con antecedentes de
+broncoespasmo.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1.    Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: R03AC12 ­ Broncodilatadores y otros antiasmáticos por inhalación.
+ Mecanismo de acción:
+Salmeterol es un agonista selectivo de acción prolongada (12 horas) de los receptores 2
+adrenérgicos, que posee una cadena lateral larga que se une a la zona externa del receptor. Estas
+propiedades farmacológicas de salmeterol confieren una protección más eficaz frente a la
+broncoconstricción inducida por histamina y una broncodilatación más prolongada que dura por
+lo menos 12 horas, en comparación con las dosis recomendadas para los agonistas de los
+receptores 2 adrenérgicos convencionales de corta duración de acción.
+ Salmeterol ha demostrado en ensayos ""in vitro"" ser un inhibidor, potente y de larga duración, de la
+liberación en el pulmón humano, de mediadores procedentes de los mastocitos, tales como
+histamina, leucotrienos y prostaglandina D2. En el hombre, salmeterol inhibe la respuesta al
+alergeno inhalado, tanto en la fase inmediata como en la tardía, persistiendo ésta última durante
+más de 30 horas tras una dosis única, cuando el efecto broncodilatador ya no es evidente.
+Salmeterol atenúa, tras dosis única, la hiperreactividad bronquial. Estas propiedades indican que
+BEGLÁN modula el proceso inflamatorio en el pulmón, pero la significación clínica global de
+ello no se ha esclarecido todavía. El mecanismo es distinto del efecto antiinflamatorio de los
+corticosteroides, que no deberán dejar de ser administrados ni reducir su administración cuando se
+prescriba BEGLÁN.
+ Estudios clínicos:
+ ""Salmeterol Multi-Center Asthma Research Trial"" (SMART).
+El estudio SMART es un estudio multi-céntrico, randomizado, doble ciego, controlado con
+placebo en grupos paralelos, de 28 semanas de duración, realizado en EEUU, en el que se trataron
+aleatoriamente 13.176 pacientes con salmeterol (50 mcg dos veces al día) y 13.179 pacientes con
+placebo, además de recibir su tratamiento habitual para el asma. Los pacientes fueron incluidos en
+el ensayo si tenían al menos 12 años, asma, y si actualmente estaban usando medicación para el
+asma (pero no LABAs). Se recogieron los datos del uso basal de corticosteroides inhalados en el
+momento de comenzar el estudio, aunque no era necesario para el mismo. El criterio de eficacia
+primario en el estudio SMART fue la determinación, de forma combinada, del número de muertes
+relacionadas con problemas respiratorios y de acontecimientos respiratorios con riesgo para la
+vida.
+ Hallazgos fundamentales del estudio SMART: Criterio de eficacia primario
+  Grupo de pacientes                   Número de criterios de eficacia        Riesgo relativo
+Todos los pacientes                  50/13.176                36/13.179     1,40 (0,91 ; 2,14)
+Pacientes       que        utilizan 23/6.127                  19/6.138      1,21 (0,66 ; 2,23)
+corticosteroides inhalados
+Pacientes que no utilizan 27/7.049                            17/7.041      1,60 (0,87 2,93)
+corticosteroides inhalados
+Pacientes Afro-americanos            20/2.366                 5/2.319       4,10 (1,54 10,90)
+(El riesgo en negrita es estadísticamente significativo con un IC del 95%)
+ Hallazgos fundamentales del estudio SMART en función del uso de corticosteroides inhalados en
+el periodo basal: Criterios de eficacia secundarios
+                                    Número de criterios de eficacia Riesgo relativo
+Pacientes que utilizan                 10/6127            5/6138            2,01 (0,69; 5,86)
+corticosteroides inhalados
+Pacientes que no utilizan              14/7049            6/7041            2,28 (0,88; 5,94)
+corticosteroides inhalados
+Combinación de muertes relacionadas con asma y acontecimientos respiratorios con riesgo para
+Pacientes que utilizan                 16/6127           13/6138            1,24 (0,60; 2,58)
+corticosteroides inhalados
+Pacientes que no utilizan              21/7049            9/7041            2,39 (1,10; 5,22)
+corticosteroides inhalados
+Pacientes que utilizan                  4/6127            3/6138            1,35 (0,30; 6,04)
+corticosteroides inhalados
+Pacientes que no utilizan                9/7049              0/7041                    *
+corticosteroides inhalados
+(*=no se puede calcular porque no hay acontecimientos en el grupo tratado con placebo. El riesgo
+en negrita es estadísticamente significativo con un IC del 95% .Los criterios de eficacia
+secundarios recogidos en la tabla son estadísticamente significativos en toda la población). Los
+criterios de eficacia secundarios combinados de todas las causas de muerte o acontecimientos con
+riesgo para la vida, todas las causas de muerte, o todas las causas de hospitalización, no
+alcanzaron significación estadística en toda la población.
+ 5.2. Propiedades farmacocinéticas
+Salmeterol actúa localmente en el pulmón, por lo que los niveles plasmáticos no son predictivos
+del efecto terapéutico. Además, se dispone sólo de algunos datos sobre la farmacocinética de
+salmeterol, a causa de la dificultad técnica de la valoración del fármaco en plasma, debido a las
+muy bajas concentraciones plasmáticas (unos 200 picogramos/ml o menos) alcanzadas tras la
+inhalación de la dosis.
+ Se pudo detectar ácido hidroxinaftoico en la circulación sistémica, alcanzando concentraciones
+estables de unos 100 nanogramos/ml, tras la administración regular de xinafoato de salmeterol.
+Estas concentraciones son de hasta 1000 veces más bajas que los niveles estables observados en
+los estudios de toxicidad y, en los estudios de administración regular a largo plazo (más de 12
+meses) en pacientes con obstrucción reversible de las vías respiratorias, han mostrado no producir
+efectos perjudiciales.
+ Un estudio in vitro muestra que el salmeterol se metaboliza fundamentalmente a -
+hidroxisalmeterol (oxidación alifática) mediante el citocromo P450 3A4 (CYP3A4). Sin embargo,
+un estudio de dosis repetidas de salmeterol y eritromicina en voluntarios sanos no mostró cambios
+clínicamente significativos en los efectos farmacodinámicos tras la administración de dosis de 500
+mg de eritromicina 3 veces al día.
+ 5.3.    Datos preclínicos sobre seguridad
+Los resultados extraídos del programa de investigación toxicológica han demostrado que
+xinafoato de salmeterol inhalado se tolera localmente muy bien. Los animales toleraron también
+altos niveles sistémicos y los efectos observados se asociaron predominantemente con una
+actividad farmacológica exagerada. Los estudios de toxicidad reproductiva y de oncogenicidad
+mostraron los efectos típicos asociados a los agonistas 2.
+ Se ha observado que el propelente no CFC, HFA 134a, presente en BEGLAN Suspensión para
+inhalación, no presenta efectos tóxicos a concentraciones de vapor muy elevadas, muy superiores
+a aquellas que se espera que reciban los pacientes, en un amplio intervalo de especies expuestas
+diariamente durante períodos de dos años.
+ "
+6.      DATOS FARMACÉUTICOS
+	"6.1. Relación de excipientes
+BEGLÁN 25 microgramos, Suspensión para inhalación en envase a presión
+ Norflurano (HFA 134a).
+ BEGLÁN Accuhaler
+Lactosa monohidrato (contiene proteínas lácteas).
+6.2.   Incompatibilidades
+No se han descrito.
+ 6.3. Periodo de validez
+BEGLÁN Inhalador: 2 años.
+BEGLÁN Accuhaler: 2 años.
+ 6.4. Precauciones especiales de conservación
+BEGLÁN 25 microgramos, Suspensión para inhalación en envase a presión.
+ Colocar el protector de la boquilla empujando firmemente y cerrando de un golpe para que la tapa
+quede en su sitio.
+ No conservar a temperatura superior a 30ºC. Conservar protegido de la luz solar directa y no
+congelar.
+El cartucho no debe ser perforado, roto o quemado aun cuando aparentemente esté vacío.
+ Como ocurre con la mayoría de los inhaladores a presión, el efecto terapéutico de esta medicación
+puede verse reducido si el cartucho está excesivamente frío.
+ BEGLÁN Accuhaler proporciona una buena protección del contenido de los alvéolos frente al
+efecto de la atmósfera; no obstante, conservar protegido de la humedad, conservar protegido del
+calor o luz solar directa y no conservar a temperatura superior a 30ºC.
+ 6.5.    Naturaleza y contenido del recipiente
+BEGLÁN Inhalador contiene una suspensión de salmeterol (xinafoato) en propelente norflurano
+(sin CFC). Esta suspensión está contenida en un inhalador dosificador presurizado con un
+aplicador especialmente diseñado. El envase está constituido por un cartucho de 8 ml fabricado
+con una aleación de aluminio y va provisto de una válvula dosificadora. Cada cartucho
+proporciona 120 aplicaciones.
+ BEGLÁN Accuhaler se presenta en forma de un dispositivo de plástico que contiene una tira de
+doble lámina de aluminio con 60 alvéolos regularmente distribuidos.
+ 6.6.   Instrucciones de uso/manipulación
+ BEGLÁN Inhalador
+Antes de usar por primera vez el inhalador o bien si no ha sido utilizado durante una semana o
+más tiempo, quitar el protector del aplicador bucal o boquilla apretando suavemente por los lados,
+agitar bien el inhalador, y liberar al aire dos aplicaciones para asegurar, de esta manera, el
+funcionamiento del inhalador.
+ Los pacientes que hayan sido previamente tratados con BEGLAN Suspensión para inhalación
+deben saber que en la actualidad no contiene CFCs. Debe utilizarse exactamente como le indique
+el médico.
+El principio activo de BEGLAN Suspensión para inhalación sin CFCs es exactamente el mismo
+que el del BEGLAN Suspensión para inhalación que contenía CFCs. Las únicas diferencias que
+pueden notarse son el sabor y la sensación de notar el spray en la boca, además del sonido del
+inhalador durante su utilización. Esto se debe al cambio de propelente para eliminar los CFCs.
+Esta modificación no afecta al mecanismo de acción del fármaco. BEGLAN Suspensión para
+inhalación sin CFC se puede utilizar de la misma manera a como se utilizaba el anterior.
+1. Quitar el protector de la boquilla, apretando
+suavemente por los lados, y comprobar que está limpio
+tanto por dentro como por fuera.
+   2. Comprobar que no hay partículas extrañas por dentro y
+por fuera del inhalador, incluyendo la boquilla.
+ 3. Agitar bien el inhalador para asegurarse de que se
+elimina cualquier partícula extraña y que el contenido
+del inhalador se mezcla adecuadamente.
+.
+ 4. Sujetar el inhalador en posición vertical entre los
+dedos índice y pulgar, colocando el pulgar sobre la
+base por debajo de la boquilla.
+ 5. Echar tanto aire como se pueda e introducir a
+continuación la boquilla en la boca, entre los dientes,
+cerrando los labios sobre el aparato, pero sin morderlo.
+ 8.   Para administrar la segunda dosis, mantener el inhalador en posición vertical y esperar
+durante aproximadamente medio minuto antes de repetir los pasos 3 a 7.
+ 9.    Después de la utilización colocar siempre el protector de la boquilla para proteger el
+inhalador del polvo y de pelusas.
+ 10.     Volver a colocar el protector de la boquilla empujando firmemente y cerrando de un golpe
+hasta poner la tapa en su sitio.
+ IMPORTANTE
+No efectuar rápidamente los pasos 5, 6 y 7. Es importante iniciar la respiración tan lentamente
+como se pueda, justamente antes de pulsar el inhalador. Practicar delante de un espejo durante las
+primeras veces. Si se observa una ""especie de niebla"" saliendo de la parte superior del inhalador o
+de los lados de la boca, comenzar de nuevo desde el paso 2.
+ Los pacientes que encuentren dificultad en coordinar el manejo del inhalador con la inhalación,
+pueden utilizar una cámara para inhalación apropiada (BABYHALER® niños de hasta 5 años).
+ Los niños pequeños pueden necesitar ayuda, teniendo sus padres que manejar el inhalador por
+ellos. Animar al niño a echar el aire y manejar el inhalador justo después de que el niño comience
+a tomar aire. Practicar juntos la técnica. Los niños mayores o las personas con manos frágiles,
+deberán sujetar el inhalador con ambas manos para lo cual, se pondrán los dos dedos índice en la
+parte superior del inhalador y los dos pulgares en la base, por debajo de la boquilla.
+                                                                                                       MINISTERIO
+Limpieza:
+ Limpiar el inhalador por lo menos una vez a la semana.
+ 1.     Quitar el protector de la boquilla
+ 2.     No sacar el cartucho de la carcasa de plástico
+ 3.    Limpiar la boquilla por dentro y por fuera, así como la carcasa de plástico con un paño
+seco,
+con un pañuelo de papel o con un poco de algodón
+      4. Volver a colocar el protector de la boquilla.
+ NO SUMERGIR EN AGUA EL ENVASE METÁLICO.
+ BEGLÁN Accuhaler
+ El dispositivo tiene dos posiciones: cerrado y abierto.
+ CERRADO.
+Al extraer del estuche por primera vez el dispositivo, estará cerrado.
+                                                                                                 MINISTERIO
+ABIERTO.
+El dispositivo contiene 60 dosis individuales del medicamento en forma de polvo. El indicador de
+dosis señala cuántas dosis quedan.
+                      Aplicador bucal
+Cada dosis está precisamente medida y protegida higiénicamente. No se requiere ni
+mantenimiento ni rellenado.
+ El indicador de dosis en la parte superior del dispositivo señala cuántas dosis quedan. Los
+números 5 a 0 aparecerán en ROJO para así advertir que quedan pocas dosis.
+ El manejo del dispositivo es fácil. Cuando se necesite una dosis, seguir las cuatro sencillas
+instrucciones siguientes:
+ 1.    Abrir
+2.    Deslizar
+3.    Inhalar
+4.    Cerrar.
+ Funcionamiento del dispositivo
+Al deslizar la palanca del dispositivo se abre un pequeño orificio en el aplicador bucal o boquilla
+y queda disponible una dosis ya preparada para ser inhalada. Cuando se cierra el dispositivo, la
+palanca automáticamente retrocede a su posición original quedando preparada para la siguiente
+dosis que necesite. La carcasa externa protege el dispositivo cuando no se utiliza.
+ 1.      Abrir - Cómo usar el dispositivo
+ Para abrir el dispositivo, coger con una mano la carcasa externa y colocar el dedo pulgar de la otra
+mano en el hueco reservado para ello. Empujar con el dedo alejándolo de usted hasta donde
+llegue.
+ 2.    Deslizar
+ Mantener el dispositivo con la boquilla hacia usted. Deslizar la palanca alejándola hasta donde
+llegue se percibirá un sonido ""click"". El dispositivo está preparado para su uso. Cada vez que la
+palanca se echa hacia atrás, queda disponible una dosis para su inhalación. Esto lo muestra el
+contador de dosis. No manipular la palanca pues quedarían dosis disponibles que serían
+desperdiciadas.
+ 3.    Inhalar
+ *     Antes de empezar a inhalar una dosis, leer atentamente todo este apartado.
+ *     Mantener el dispositivo alejado de la boca. Espirar lo que razonablemente se pueda - no
+hacerlo dentro del dispositivo.
+ *     Colocar la boquilla en los labios. Inspirar progresiva e intensamente - a través del
+dispositivo, no por la nariz.
+ *     Sacar el dispositivo de la boca.
+ *     Mantener la respiración unos 10 segundos o tanto tiempo como sea posible.
+ *     Espirar lentamente.
+ 4.    Cerrar
+ Para cerrar el dispositivo, poner el dedo pulgar en el hueco reservado para ello y deslizarlo hacia
+usted, hasta donde llegue.
+ Al cerrar el dispositivo, se escuchará un golpe seco. La palanca automáticamente vuelve a su
+posición original y queda de nuevo colocada. El dispositivo está ahora preparado para volverlo a
+utilizar.
+ Si el médico ha prescrito dos inhalaciones, cerrar el dispositivo y repetir las instrucciones 1 a 4.
+ RECORDAR
+Mantener el dispositivo seco.
+Mantener el dispositivo cerrado cuando no se utilice.
+No espirar dentro del dispositivo.
+Deslizar la palanca únicamente cuando esté preparado para tomar una dosis.
+ 7.   Titular de la autorización de comercialización
+LABORATORIOS BEECHAM, S.A.
+PTM - C/ Severo Ochoa, 2
+28760 Tres Cantos (Madrid)
+ 8.  Números de autorización de comercialización
+BEGLÁN 25 microgramos, Suspensión para inhalación en envase a presión: Nº Reg.: 59.523
+ BEGLÁN Accuhaler: Nº Reg.: 59.522
+ 9.    Fecha de la primera autorización /renovación de la autorización
+BEGLÁN 25 microgramos, Suspensión para inhalación en envase a presión: 2 de octubre de 1992
+ BEGLÁN Accuhaler: 2 de octubre de 1992
+ 10. Fecha de la revisión del texto
+Enero 2008
+"
+	 
+      BEGLÁN 25 microgramos suspensión para inhalación en envase a presión, 120 aplicaciones
+         Prospectos de medicamentos.

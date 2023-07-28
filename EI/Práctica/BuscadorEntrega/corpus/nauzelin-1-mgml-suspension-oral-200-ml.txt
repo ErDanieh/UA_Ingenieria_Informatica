@@ -1,0 +1,277 @@
+NAUZELIN 1 mg/ml suspensión oral , 200 ml
+	"Información Basica del medicamento Toda la información del medicamento Denominación del medicamento
+                  Nauzelín 10 mg comprimidos recubiertos con película
+Nauzelín 1 mg/ml suspensión oral
+ Composición cualitativa y cuantitativa
+ Un comprimido recubierto contiene 10 mg de domperidona.
+La suspensión oral contiene 1 mg/ml de domperidona.
+Ver apartado 6.1 para excipientes.
+ forma farmacéutica
+ Comprimidos recubiertos- Comprimido biconvexo, circular, blanco o color
+crema pálido.
+Suspensión oral- Suspensión homogénea blanca.
+ 
+
+Datos clínicos
+ Indicaciones terapéuticas
+Adultos
+                  · Alivio de los síntomas de náuseas y vómitos, sensación de plenitud
+epigástrica, malestar abdominal alto y regurgitación del contenido gástrico.
+                  Niños
+                  · Alivio de los síntomas de náuseas y vómitos.
+ Posología y forma de administración
+                  Se recomienda tomar Nauzelín oral antes de las comidas. Si se toma después, la
+absorción del fármaco se retrasa ligeramente.
+                  La duración inicial del tratamiento es de cuatro semanas. Los pacientes deberán
+ser re-evaluados tras cuatro semanas y reconsiderarse la necesidad de continuar
+el tratamiento.
+ Adultos y adolescentes (mayores de 12 años y de peso igual o superior a 35
+kg):
+         ·   Comprimidos:
+1 ó 2 comprimidos de 10 mg tres o cuatro veces al día, con una dosis diaria
+máxima de 80 mg.
+         ·   Suspensión oral:
+10 ml a 20 ml (de suspensión oral que contiene 1 mg/ml de domperidona) tres o
+cuatro veces al día con una dosis diaria máxima de 80 ml.
+Lactantes y niños:
+         ·   Comprimidos y suspensión oral
+0,25­ 0,5 mg/kg tres o cuatro veces al día hasta una dosis diaria máxima de 2,4
+mg/kg (sin sobrepasar 80 mg por día).
+Los comprimidos no son apropiados para su uso en niños de menos de 35 kg de
+peso.
+ Contraindicaciones
+         Nauzelín está contraindicado en las siguientes situaciones:
+         · hipersensibilidad conocida a domperidona o a cualquiera de los excipientes.
+         · en pacientes con tumor hipofisario secretor de prolactina (prolactinoma).
+Nauzelín no debe usarse cuando la estimulación de la motilidad gástrica pudiera
+ser peligrosa: en hemorragia gastrointestinal, obstrucción mecánica o
+perforación.
+ Advertencias y precauciones especiales de empleo
+         Precauciones de uso
+         Los comprimidos recubiertos contienen lactosa y pueden ser inapropiados en
+personas con intolerancia a la lactosa, galactosemia o malabsorción de
+glucosa/galactosa.
+La suspensión oral contiene sorbitol y puede ser inapropiado en personas con
+intolerancia a la fructosa.
+Uso durante la lactancia
+La cantidad total de domperidona excretada en la leche materna se espera que
+sea menor de 7 µg por día en los regímenes de dosificación mayores
+recomendados. Se desconoce si esto es perjudicial para el recién nacido. Por lo
+tanto, la lactancia no está recomendada para las madres que toman Nauzelín.
+Uso en lactantes:
+Los efectos secundarios neurológicos son raros (ver apartado ""Reacciones
+adversas""). Debido a que las funciones metabólicas y la barrera
+hematoencefálica no se encuentran completamente desarrolladas durante los
+primeros meses de vida, el riesgo de efectos secundarios neurológicos es mayor
+en niños pequeños. Por lo tanto, se recomienda que la dosis sea determinada
+exactamente y seguida estrictamente en neonatos, lactantes, niños que empiezan
+a andar y niños pequeños.
+La sobredosificación puede causar síntomas extrapiramidales en niños, aunque
+se deberán tener en cuenta otras causas.
+Uso en trastornos hepáticos:
+Dado que la domperidona se metaboliza de forma importante en el hígado,
+Nauzelín no debe usarse en pacientes con deterioro de la función hepática.
+Insuficiencia renal:
+En pacientes con insuficiencia renal grave (creatinina sérica > 6 mg/100 ml, es
+decir, > 0,6 mmol/l), la semivida de eliminación de la domperidona se
+incrementó de 7,4 a 20,8 horas, pero los niveles plasmáticos permanecieron más
+bajos que en voluntarios sanos. Puesto que la parte del fármaco que se elimina
+inalterada por vía renal es muy pequeña, en caso de una única administración no
+es probable que se requiera un ajuste de la dosis en pacientes con insuficiencia
+renal. En cambio, en la administración repetida, la frecuencia de dosificación
+debe reducirse a una o dos veces al día, en función de la gravedad del deterioro,
+y puede ser necesario disminuir la dosis. Por lo tanto, los pacientes con
+tratamientos prolongados deben seguir revisiones de forma regular.
+Uso con kecoconazol
+Un estudio de interacciones entre fármacos ha demostrado un efecto de una
+ligera prolongación del intervalo QT (menos de 10 msec) cuando se administra
+domperidona concomitantemente con ketoconazol oral. Aunque la relevancia
+clínica de este hallazgo no está clara, se recomienda opciones terapéuticas
+alternativas si se requiere tratamiento antifúngico. (ver apartado 4.5)
+ Interacción con con otros medicamentos y otras formas de interacción
+         La principal vía metabólica de domperidona es a través del CYP3A4. Datos
+obtenidos in vitro sugieren que el uso concomitante con fármacos que inhiben
+significativamente este enzima puede dar lugar a un aumento de los niveles en
+plasma de domperidona. Estudios de interacción in vivo con ketoconazol
+mostraron una inhibición potente del metabolismo de primer paso de
+domperidona, mediado por el CYP3A4, debido al ketoconazol.
+         Un estudio farmacocinético ha demostrado que la administración concomitante
+de ketoconazol oral con domperidona (en el estado de equilibrio) da como
+resultado un aumento de aproximadamente 3 veces del Cmáx y el AUC de
+domperidona. Debido a esta combinación, se detectó una ligera prolongación del
+intervalo QT (alrededor de 10 msec), que fue más grande que la que se detecta
+con el ketoconazol sólo.
+         Cuando la domperidona se administraba sola en pacientes que no tenían co-
+morbilidad, incluso a dosis orales altas (hasta 160 mg/día) no se pudo detectar un
+efecto en la prolongación del intervalo QT.
+         Los resultados de este estudio de interacción deberían tenerse en cuenta cuando
+la domperidona se prescribe concomitantemente con inhibidores fuertes del
+CYP3A4, por ejemplo: ketoconazol, ritonavir y eritromicina (ver apartado 5.2).
+ Embarazo y lactancia
+Existen datos post-comercialización limitados en mujeres embarazadas. Un
+estudio en ratas ha mostrado toxicidad reproductiva a una dosis alta, dosis tóxica
+materna. Se desconoce el riesgo potencial en humanos. Por lo tanto, Nauzelín
+debe ser únicamente utilizado durante el embarazo cuando los beneficios
+terapéuticos esperados lo justifiquen.
+El fármaco se elimina por la leche materna de ratas lactantes (principalmente en
+forma de metabolitos: concentración máxima de 40 y 800 ng/ml, tras la
+administración oral e intravenosa de 2,5 mg/kg, respectivamente). En mujeres
+que están amamantando las concentraciones de domperidona en la leche materna
+son del 10% al 50% de las correspondientes concentraciones plasmáticas y no se
+espera supere 10ng/ml. La cantidad total de domperidona excretada en la leche
+humana se espera sea menor de 7µg por día en los regímenes de dosificación
+mayores. Se desconoce si esto resulta perjudicial para el recién nacido. Por lo
+tanto, no se recomienda la lactancia en madres que estén tomando Nauzelín.
+ Efectos sobre la capacidad para conducir y utilizar máquinas
+Nauzelín prácticamente no influye sobre la capacidad de conducir y manejar
+maquinaria.
+ Reacciones adversas
+         Las reacciones adversas están clasificadas por frecuencias, utilizando el siguiente
+criterio: muy frecuentes (>1/10), frecuentes (>1/100, <1/10), poco frecuentes
+ (>1/1.000, <1/100), raras (>1/10.000, <1/1.000) y muy raras (<1/10.000),
+incluyendo casos aislados.
+        ·     Trastornos del sistema inmune: Muy raros (<1/10.000): reacciones alérgicas
+incluyendo anafilaxis, shock anafiláctico, reacción anafiláctica, urticaria y
+angioedema.
+        ·     Trastornos endocrinos: Raros (>1/10.000, <1/1.000): aumento de los niveles
+de prolactina.
+        ·     Trastornos del sistema nervioso: Muy raros (<1/10.000): efectos secundarios
+extrapiramidales.
+        ·     Trastornos gastrointestinales: Raros (>1/10.000, <1/1.000): trastornos
+gastrointestinales, incluyendo calambres intestinales transitorios muy raros;
+muy raros (<1/10.000): diarrea.
+        ·     Trastornos del tejido subcutáneo y de la piel: Muy raros (<1/10.000): prurito,
+rash.
+        ·     Trastornos del sistema reproductivo y de las mamas: Raros (>1/10.000,
+<1/1.000): galactorrea, ginecomastia, amenorrea.
+Dado que la hipófisis se encuentra fuera de la barrera hematoencefálica, la
+domperidona puede dar origen a una elevación de los niveles de prolactina. Esta
+hiperprolactinemia puede producir, en casos raros, efectos secundarios
+neuroendocrinos, como galactorrea, ginecomastia y amenorrea.
+Se han descrito muy raramente efectos secundarios extrapiramidales en neonatos
+y lactantes y excepcionalmente en adultos. Tales efectos desaparecen
+espontáneamente y completamente al interrumpir la medicación.
+ Sobredosis
+Síntomas
+Los síntomas de sobredosificación pueden incluir somnolencia, desorientación y
+reacciones extrapiramidales, particularmente en niños.
+Tratamiento
+No hay un antídoto específico para domperidona, pero en caso de sobredosis, se
+recomienda lavado gástrico así como la administración de carbón activado. Se
+recomienda la supervisión médica cuidadosa y terapia de soporte.
+Para controlar las reacciones extrapiramidales pueden ser de utilidad los
+fármacos anticolinérgicos, antiparkinsonianos.
+                                                                                               MINISTERIO
+propiedades farmacológicas
+ Propiedades farmacodinámicas
+              Grupo farmacoterapéutico: Propulsivos, código ATC: A03F A03
+              La domperidona es un antagonista dopaminérgico con propiedades antieméticas,
+Domperidona no atraviesa fácilmente la barrera hematoencefálica. Entre sus
+usuarios, especialmente adultos, son muy infrecuentes los efectos secundarios
+extrapiramidales sin embargo, la domperidona estimula la secreción de
+prolactina en la hipófisis. Sus efectos antieméticos se deben a una combinación
+de acción periférica (gastrocinética) y antagonismo de los receptores de la
+dopamina en la zona de emisión de los quimioreceptores, que se encuentra fuera
+de la barrera hematoencefálica en el área postrema. Estudios en animales, junto
+con las bajas concentraciones constatadas en el cerebro, indican un efecto
+predominantemente periférico de la domperidona sobre los receptores
+dopaminérgicos.
+Estudios en humanos han demostrado que la domperidona oral incrementa la
+presión del esfínter esofágico inferior, mejora la motilidad antroduodenal y
+acelera el vaciamiento gástrico. No tiene efectos sobre la secreción gástrica.
+ Propiedades farmacocinéticas
+              Absorción
+En ayunas, la domperidona se absorbe rápidamente tras la administración por vía
+oral, alcanzando su máxima concentración plasmática a los 30-60 minutos. La
+baja biodisponibilidad absoluta de la domperidona oral (aproximadamente el
+15 %) se debe a un amplio efecto metabólico de primer paso en la pared
+intestinal y el hígado. Aunque su biodisponibilidad se acentúa en personas
+normales al ingerirla después de la comida, los pacientes con molestias
+digestivas deben tomarla 15-30 minutos antes de comer. Una baja acidez gástrica
+deteriora su absorción. La biodisponibilidad oral de domperidona disminuye con
+la administración previa concomitante de cimetidina y bicarbonato sódico.
+Cuando el fármaco se toma por vía oral después de una comida, el tiempo de
+absorción máxima se retrasa ligeramente y el AUC experimenta un leve
+aumento.
+              Tras la administración rectal de supositorios de domperidona de 60 mg, se
+alcanza una meseta con concentraciones plasmáticas de domperidona de 20
+ng/ml después de 1 a 5 horas tras la administración. Aunque los picos de los
+niveles plasmáticos son solo de un tercio de la dosis oral, la biodisponibilidad
+rectal media de 12,4% es bastante similar a la que se alcanza tras la
+administración oral.
+              Distribución
+La domperidona por vía oral no parece acumularse o inducir su propio metabolismo; la
+concentración plasmática máxima a los 90 minutos, después de dos semanas de la
+administración por vía oral de 30 mg al día, fue de 21 ng/ml, casi la misma que los
+18 ng/ml registrados tras la primera dosis. La domperidona se une a proteínas
+plasmáticas en un 91-93%. Estudios de distribución en animales con el fármaco
+marcado isotópicamente han mostrado una amplia distribución tisular, pero una baja
+concentración cerebral. En ratas, atraviesa la placenta en pequeñas cantidades.
+         Metabolismo
+La domperidona sufre un rápido y amplio metabolismo hepático por hidroxilación y
+N-dealquilación. Ensayos in vitro con inhibidores diagnósticos han revelado que
+CYP3A4 es la forma principal del citocromo P-450 implicada en la N-dealquilación de
+la domperidona, mientras que CYP3A4, CYP1A2 y CYP2E1 intervienen en la
+hidroxilación aromática de la domperidona.
+         Excreción
+La eliminación urinaria y fecal representa el 31 y 66% de la dosis oral, respectivamente.
+La proporción del fármaco que se elimina inalterada es pequeña (10 % de la excreción
+fecal y aproximadamente 1% de la excreción urinaria). La semivida plasmática tras una
+sola dosis oral es de 7-9 horas en sujetos sanos, pero está aumentada en pacientes con
+insuficiencia renal grave.
+ Datos preclínicos sobre seguridad
+         Los estudios electrofisiológicos in vitro e in vivo han mostrado que en general
+domperidona posee un leve potencial para prolongar el intervalo QT en
+humanos. Los estudios in vitro en células aisladas que fueron sometidas a una
+transfección con HERG y en miocitos aislados de cobayas, mostraron que los
+intervalos fueron de aproximadamente 10, basados en los valores IC50 que
+inhiben las corrientes a través de los canales iónicos en comparación a las
+concentraciones plasmáticas libres en humanos después de la administración de
+una dosis diaria máxima de 20 mg (q.i.d.). Sin embargo, los márgenes de
+seguridad en estudios in vitro sobre tejido cardiaco aislado y en modelos in vivo
+(perro, cobaya, conejos sensibilizados para torsade de points) excedieron las
+concentraciones plasmáticas libres en humanos para la dosis diaria máxima (20
+mg q.i.d.) en más de 50 veces. Las concentraciones plasmáticas libres de
+domperidona pueden aumentar hasta 10 veces en presencia de inhibición del
+metabolismo vía CYP3A4.
+         Se observaron efectos teratogénicos en ratas, a una dosis alta, dosis tóxica
+materna (mas de 40 veces la dosis humana recomendada). No se observó
+teratogenicidad en ratones y conejos.
+ 6.      datos farmacéuticos
+ 6.1     Lista de excipientes
+Comprimidos recubiertos
+Monohidrato de Lactosa, almidón de maíz, celulosa microcristalina (E460),
+almidón pregelatinizado de patata, polividona, estearato magnésico (E572),
+aceite de ricino hidrogenado, laurilsulfato sódico, hipromelosa, agua purificada.
+                                                                                                     MINISTERIO
+Suspensión oral
+Sacarina de sodio (E954), celulosa microcristalina (E460), carboximetilcelulosa
+de sodio (E466), sorbitol (E420), parahidroxibenzoato de metilo (E218),
+parahidroxibenzoato de propilo (E216), polisorbato 20 (E432), agua purificada.
+ 6.2           Incompatibilidades
+Ninguna conocida.
+ 6.3           Período de validez
+3 años
+ 6.4           Precauciones especiales de conservación
+               No conservar a temperatura superior a 30ºC.
+               Manténgase fuera del alcance y de la vista de los niños.
+ 6.5           Naturaleza y contenido del envase
+Blisters de 30 comprimidos.
+Suspensión oral de 200 ml en frascos de politeno con un vaso dosificador de 20
+ml y una cucharilla de medida de 1,25 ml para lactantes.
+ 6.6                        Instrucciones de uso y manipulación
+Ningún requisito especial.
+ 7.         titular de la autorización de comercialización
+JANSSEN-CILAG, S.A.
+Paseo de las Doce Estrellas, 5-7
+28042 Madrid
+ número(s) de autorización de COMERCIALIZACIÓN
+ Nauzelín 10 mg comprimidos: 56.679
+Nauzelín 1 mg/ml suspensión oral: 56.670
+                                                                                                 MINISTERIO
+9.          fECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZAción
+             Nauzelín 10 mg comprimidos: Junio 1985
+Nauzelín 1 mg/ml suspensión oral: Junio 1985
+ FECHA DE LA REVISIÓN DEL TEXTO
+ Febrero 2006
+ Prospectos de medicamentos."

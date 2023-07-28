@@ -1,0 +1,791 @@
+RAPILYSIN 10U 2 INYECTABLES
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Rapilysin 10 U, polvo y disolvente para solución inyectable.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	1 vial contiene 10 U* de reteplasa** en 0,56 g de polvo
+1 jeringa precargada contiene 10 ml de agua para inyectables.
+ La solución reconstituida contiene 1 U de reteplasa por ml.
+ Para la lista completa de excipientes, ver sección 6.1.
+ * La potencia de reteplasa se expresa en unidades (U), utilizando un estándar de referencia específico
+de reteplasa que no es comparable a las unidades empleadas para otros fármacos trombolíticos.
+ ** Activador del plasminógeno recombinante producido en la Escherichia coli por tecnología DNA
+recombinante.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo y disolvente para solución inyectable.
+ Polvo blanco y líquido transparente e incoloro (agua para preparaciones inyectables).
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Rapilysin está indicado como tratamiento trombolítico ante la sospecha de infarto de miocardio con
+elevación persistente del segmento ST o bloqueo reciente de rama izquierda, en las 12 primeras horas
+después de la aparición de los síntomas del infarto agudo de miocardio (IAM).
+ 4.2   Posología y forma de administración
+ El tratamiento con reteplasa debe iniciarse lo antes posible tras la aparición de síntomas de IAM.
+ Rapilysin debe ser utilizado por facultativos con experiencia en el uso de tratamiento trombolítico y
+con instalaciones para monitorizar ese uso.
+ Reteplasa se presenta como sustancia liofilizada en viales. El liofilizado es reconstituido con el
+contenido de la jeringa que se acompaña (ver apartado 6.6).
+ Rapilysin se debe inyectar preferiblemente por vía intravenosa cuyo único uso sea la inyección de
+Rapilysin. A través de esta vía reservada a Rapilysin, no debe administrarse ningún otro medicamento,
+ni al mismo tiempo, ni antes, ni después de la inyección de Rapilysin. Esto es aplicable a todos los
+productos incluyendo heparina, y ácido acetilsalicílico, que deben administrarse antes y tras la
+administración de reteplasa para reducir el riesgo de re-trombosis.
+ En aquellos pacientes en los que tenga que usarse la misma vía, ésta (incluyendo catéteres en Y) debe
+limpiarse, antes y después de la inyección de Rapilysin con una solución de cloruro sódico al 0,9 % o
+dextrosa al 5 %.
+                                                     2
+Dosificación de Rapilysin
+ Rapilysin se administra como una dosis en bolo de 10 U seguida a los 30 minutos de una segunda
+dosis en bolo de 10 U (doble bolo).
+Cada bolo se administra lentamente por vía intravenosa en 2 minutos. Asegúrese que la inyección se
+administra evitando extravasaciones.
+Deben administrarse heparina y ácido acetilsalicílico antes y después de la administración de
+reteplasa, a fin de reducir el riesgo de una re-trombosis.
+ Dosificación de Heparina
+ La dosis recomendada de heparina es de 5000 UI, administrada en forma de inyección en bolo antes de
+iniciar la terapia con reteplasa y seguida de una perfusión de 1000 UI por hora, comenzando tras el
+segundo bolo de reteplasa. La heparina deberá administrarse durante al menos 24 horas,
+preferiblemente durante 48 -72 horas intentando mantener unos valores de PTT 1,5 a 2 veces
+superiores al normal.
+ Dosificación de Ácido Acetilsalicílico
+ La dosis inicial de ácido acetilsalicílico anterior a la trombolisis debe ser de al menos 250 mg (250-
+350 mg) seguido de 75-150 mg/día como mínimo hasta el alta hospitalaria.
+ Uso en niños
+ No hay experiencia en niños.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a reteplasa, polisorbato 80 o alguno de los otros excipientes.
+ Dado que la terapia trombolítica aumenta el riesgo de hemorragia, reteplasa está contraindicada en los
+siguientes casos:
+ -     diátesis hemorrágica conocida
+ -     pacientes que estén recibiendo tratamiento concomitante con anticoagulantes orales (p.ej.,
+warfarina sódica)
+ -     neoplasia intracraneal, malformación arteriovenosa o aneurisma
+ -     neoplasia con mayor riesgo de hemorragia
+ -     antecedentes de accidente cerebrovascular
+ -     masaje cardíaco externo reciente (< 10 días), prolongado y vigoroso
+ -     hipertensión severa no controlada
+ -     úlcera péptica activa
+ -     hipertensión portal (varices esofágicas)
+ -     disfunción hepática o renal grave
+ -     pancreatitis aguda, pericarditis y endocarditis bacteriana
+                                                     3
+-     dentro de un plazo de 3 meses de hemorragia grave, traumatismo o cirugía importantes (p.ej.,
+bypass en arterias coronarias, cirugía o traumatismo intracraneal o intraespinal), parto, biopsia
+de órganos, punción previa de vasos sanguíneos no susceptibles a la compresión.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Debe evaluarse cuidadosamente cada paciente que se considere candidato para el tratamiento con
+reteplasa.
+Para información sobre las incompatibilidades del producto ver sección 6.2
+ Hemorragia
+ La complicación más común durante el tratamiento con reteplasa es la hemorragia. En los siguientes
+casos pueden aumentar los riesgos asociados a la terapia con reteplasa, por lo que éstos deberían
+sopesarse frente a los beneficios esperados:
+ -     enfermedad cerebrovascular
+ -     presión arterial sistólica a la entrada > 160 mmHg
+ -     hemorragia gastrointestinal o urogenital reciente (en los 10 días precedentes)
+ -     alta probabilidad de existencia de un trombo a nivel del corazón izquierdo, p.ej., estenosis mitral
+con fibrilación auricular
+ -     tromboflebitis séptica o fístula arteriovenosa ocluida en lugar gravemente infectado
+ -     edad superior a 75 años
+ -     cualquier otra patología en la que la hemorragia constituya un riesgo significativo o sea
+difícilmente accesible debido a su localización
+ El uso simultáneo de heparina anticoagulante puede favorecer la hemorragia. Puesto que la fibrina es
+lisada durante la terapia con reteplasa, pueden producirse hemorragias en los lugares de punción
+reciente. Por este motivo, el tratamiento trombolítico requiere prestar suma atención a todos los sitios
+posibles de hemorragia (incluyendo los lugares de inserción de catéteres, punción arterial y venosa,
+otros sitios de disección y punción). Durante la terapia con reteplasa deberán evitarse el uso de
+catéteres rígidos así como las inyecciones intramusculares y cualquier intervención que no fuera
+indispensable.
+ Se debe tener precaución cuando se use en combinación con con otros medicamentos que influyan en la
+hemostasis tales como: Heparina, heparinas de bajo peso molecular, heparinoides, anticoagulantes
+orales y otros antiagregantes además del ácido acetil salicílico, tales como dipiridamol, ticlopidina,
+clopidogrel o las glicoproteínas antagonistas de los receptores IIb/IIIa.
+ En caso de que ocurriera una hemorragia grave, en particular hemorragia cerebral, deberá suprimirse
+inmediatamente toda administración simultánea de heparina. Además, si tal hemorragia se presentara
+antes de la administración del segundo bolo de reteplasa, éste no deberá inyectarse. Sin embargo, en
+general, debido a la vida media relativamente corta de reteplasa, no es necesario reemplazar los
+factores de coagulación. La mayoría de los pacientes que presentan hemorragia pueden controlarse
+mediante la interrupción del tratamiento trombolítico y anticoagulante, sustitución de volumen y
+presión manual aplicada al vaso insuficiente. Debe considerarse el tratamiento con protamina si se ha
+administrado heparina dentro de las 4 horas desde la instauración de la hemorragia. En los pacientes
+que no responden a estas medidas conservadoras, puede estar indicado el uso acertado de productos
+para transfusión. Las transfusiones de crioprecipitados, fibrinógeno, plaquetas y plasma fresco
+congelado deben considerarse realizando valoraciones clínicas y de laboratorio después de cada
+ administración. Un nivel diana de 1 g/l de fibrinógeno es deseable con crioprecipitado o infusión de
+fibrinógeno.
+ Actualmente, existen datos insuficientes sobre reteplasa en pacientes con presión diastólica
+> 100 mmHg previa al tratamiento trombolítico.
+ Arritmias
+ La trombolisis coronaria puede tener como consecuencia arritmias asociadas a la reperfusión. Se
+aconseja tener disponible una terapia antiarrítmica para la bradicardia y/o la excitación ventricular
+(p.e. taquicardia ventricular o fibrilación) a la hora de administrar reteplasa.
+ Administración repetida
+ Como en el presente no hay datos clínicos disponibles sobre la administración repetida de reteplasa,
+esta no se aconseja. Sin embargo, no se ha observado formación de anticuerpos frente a la molécula de
+reteplasa. En caso de producirse una reacción anafiláctica, deberá interrumpirse inmediatamente la
+inyección e instaurarse la terapia adecuada.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios de interacción con reteplasa y los medicamentos normalmente
+administrados en pacientes con IAM. Los análisis retrospectivos de ensayos clínicos no revelaron
+interacciones clínicamente relevantes con los medicamentos utilizados simultáneamente con reteplasa
+en pacientes con infarto agudo de miocardio. La heparina, los antagonistas de la vitamina K y los
+medicamentos que alteran la función plaquetaria (como el ácido acetilsalicílico, el dipiridamol y
+abciximab) pueden aumentar el riesgo de hemorragia si se administran antes, durante o después de la
+terapia con reteplasa.
+ Debe prestarse atención a este efecto, especialmente durante períodos en los que el fibrinógeno
+plasmático esté bajo (hasta unos 2 días después del tratamiento fibrinolítico del IAM).
+ Para información sobre incompatibilidades del producto ver sección 6.2.
+ 4.6   Embarazo y lactancia
+ No existen datos suficientes sobre la utilización de reteplasa en mujeres embarazadas. Los únicos
+datos relevantes disponibles en animales son de estudios realizados en conejos, que demostraron
+sangrado vaginal asociado con abortos (ver apartado 5.3). Se desconoce el riesgo potencial en
+embarazadas.
+Salvo en situaciones de peligro de vida para la paciente, Rapilysin no debe utilizarse en mujeres
+embarazadas.
+ Se desconoce si reteplasa es excretado con la leche materna. Debe desecharse la leche materna de las
+primeras 24 horas después del tratamiento trombolítico.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No procede.
+ 4.8   Reacciones adversas
+ La reacción adversa más comúnmente atribuible al tratamiento con reteplasa es la hemorragia,
+predominantemente en el lugar de inyección. También pueden ocurrir reacciones locales en el lugar de
+inyección.
+                                                     5
+Como con otros agentes trombolíticos, se han observado frecuentemente isquemia recurrente / angina,
+hipotensión y el fallo del corazón / edema pulmonar como secuelas del infarto de miocardio y/o de la
+administración de trombolíticos,
+ La frecuencia de los efectos adversos se describe utilizando la convención:
+                            1/10
+Muy frecuentes
+Frecuentes
+Poco frecuentes
+Raras
+Muy raras                 < 1/10.000, (incluyendo notificaciones aisladas)
+ Hemorragia
+ La reacción farmacológica adversa más frecuente atribuible al tratamiento con reteplasa es la
+hemorragia.
+ -     Muy frecuente: sangrado en el lugar de inyección (p. ej.: hematoma)
+-     Frecuente: hemorragia a nivel gastrointestinal (p. ej.: hematemesis, melena), sangrado gingival
+o genitourinario
+-     Poco frecuentes: se han observado hemopericardio, hemorragia retroperitoneal, hemorragia
+cerebral, epistaxis, hemoptisis, hemorragia ocular y equimosis.
+ Los casos de sangrado intracraneal, algunos de los cuales con desenlace fatal, son especialmente
+importantes.
+ Una presión arterial sistólica superior a 160 mmHg antes de trombolisis con reteplasa se asoció a un
+mayor riesgo de hemorragia cerebral. El riesgo de hemorragia cerebral o hemorragia cerebral fatal
+aumenta con la edad. Raramente fueron necesarias transfusiones sanguíneas. No son infrecuentes los
+casos comunicados de muerte y discapacidad permanente en pacientes que han experimentado
+accidentes cerebrovasculares (incluyendo hemorragia intracraneal) y otros episodios graves de
+sangrado.
+ Trastornos cardiacos y transtornos vasculares
+ Al igual que con otros agentes trombolíticos, se han observado las siguientes reacciones como
+secuelas del infarto de miocardio y/o de la administración de trombolíticos:
+ -     Muy frecuente: isquemia recurrente / angina, hipotensión e insuficiencia cardiaca / edema
+pulmonar
+ -     Frecuente: arritmias (p. ej. bloqueo AV, fibrilación auricular / flutter, taquicardia ventricular /
+fibrilación, disociación electromecánica (DEM), paro cardiaco, shock cardiogénico y reinfarto
+ -     Poco frecuentes: regurgitación mitral, embolismo pulmonar, otros embolismos sistémicos
+/embolismo cerebral y defecto septal ventricular
+ Estos acontecimientos cardiovasculares pueden poner en peligro la vida y conducir a la muerte.
+ Trastornos del sistema nervioso
+       Poco frecuentes: hemorragia cerebral
+-
+       Muy raras: se han comunicado acontecimientos relacionados con el sistema nervioso (p. ej.
+-
+ataque epiléptico, convulsión, afasia, trastornos del habla, delirio, síndrome cerebral agudo,
+agitación, confusión, depresión, psicosis)
+ Pueden contribuir a ello o ser condiciones subyacentes los acontecimientos cerebrovasculares
+hemorrágicos o isquémicos.
+ Trastornos generales y alteraciones en el lugar de la administración
+       Muy frecuente: en el lugar de inyección (p. ej. hematoma); puede aparecer, por ejemplo,
+-
+sensación de quemazón como reacción local en el lugar de la inyección.
+ Trastornos del sistema inmunológico
+       Poco frecuentes: reacciones de hipersensibilidad (p.ej. reacciones alérgicas)
+-
+       Muy raras: graves reacciones anafilácticas/anafilactoides graves.
+-
+ Las pruebas disponibles sobre reteplasa no indican un origen autoinmune de estas reacciones de
+hipersensibilidad.
+ 4.9   Sobredosis
+ En caso de sobredosificación, se podría esperar un posible descenso del fibrinógeno y de otros
+componentes de la coagulación sanguínea, (p.ej., el factor de coagulación V), con el consiguiente
+riesgo de hemorragia.
+ Para más información ver la sección 4.4, sección hemorragia.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo fármaco-terapéutico: agente antitrombótico, código ATC: B01AD
+ Reteplasa es un activador del plasminógeno recombinante que cataliza la disociación del
+plasminógeno endógeno para generar plasmina. Esta plasminogenólisis ocurre principalmente en
+presencia de fibrina. A su vez, la plasmina degrada la fibrina que es el componente principal de la
+matriz del trombo, ejerciendo de este modo su acción trombolítica.
+ Reteplasa (10 + 10 U) reduce los niveles plasmáticos de fibrinógeno en un 60 - 80 % dependiendo de
+la dosis. El nivel de fibrinógeno se normaliza en un plazo de 2 días. Al igual que con otros activadores
+del plasminógeno, se produce entonces un fenómeno de rebote durante el cual los niveles de
+fibrinógeno alcanzan un máximo en 9 días, permaneciendo elevados durante un período de hasta
+18 días.
+ Las reducciones de los niveles plasmáticos del plasminógeno y de la 2-antiplasmina se normalizan en
+un plazo de 1 a 3 días. Los factores de coagulación V, VIII, la 2-macroglobulina y el inhibidor de la
+C1 estearasa son sólo ligeramente reducidos, normalizándose en un plazo de 1 a 2 días. La actividad
+del inhibidor del activador del plasminógeno 1 (PAI-1) puede reducirse a alrededor de cero, pero se
+normaliza rápidamente en el plazo de 2 horas, mostrando un fenómeno de rebote. Los niveles del
+fragmento 1 de activación de la protrombina y de los complejos trombina-antitrombina III aumentan
+durante la trombolisis, lo que indica una producción de trombina cuya relevancia clínica es
+desconocida.
+ Un gran ensayo comparativo de mortalidad (INJECT) realizado en aproximadamente 6000 pacientes
+mostró que reteplasa redujo la incidencia de insuficiencia cardiaca (criterio de eficacia secundaria) de
+forma significativa y fue al menos igual de efectivo en términos de reducción de mortalidad (criterio
+de eficacia primario) cuando se compara a la estreptokinasa. En dos ensayos clínicos dirigidos
+principalmente a valorar la permeabilidad (RAPID I y II) reteplasa en la arteria coronaria se asoció
+con tasas de permeabilidad rápidas y más elevadas (criterio de eficacia primario) así como con una
+incidencia más baja de insuficiencia cardiaca (criterio de eficacia secundario) que con alteplasa (pauta
+de dosificación de 3 horas y acelerados). Un ensayo clínico realizado en 15.000 pacientes
+aproximadamente, comparando reteplasa con la pauta de dosis acelerada de alteplasa (GUSTO III)
+(2:1 randomización reteplasa:alteplasa) no mostró resultados estadísticamente diferentes para el
+objetivo primario que era la tasa de mortalidad a los 30 días (reteplasa: 7,47 %, alteplasa: 7, 23 %, p=
+0,61) ni para el objetivo combinado de tasa de mortalidad a los 30 días y de accidente cerebrovascular
+discapacitante no fatal (reteplasa: 7, 89 %, alteplasa: 7,88 %, p= 0,99). La proporción total de
+accidentes cerebrovasculares fue de 1,64 % en el grupo de reteplasa y de 1,79 % en el grupo de
+alteplasa. En el grupo de reteplasa, el 49,4 % de estos accidentes cerebrovasculares fueron fatales y el
+27,1 % fueron discapacitantes. En el grupo de alteplasa, el 33,0 % fueron fatales y el 39,8 % fueron
+discapacitantes.
+ 5.2   Propiedades farmacocinéticas
+ Tras la inyección del bolo intravenoso de 10 + 10 U a pacientes con infarto agudo de miocardio, el
+antígeno de reteplasa es distribuido en el plasma con una vida media dominante (t1/2) de 18 ±
+5 min., produciéndose su eliminación con una vida media (t1/2) terminal de 5,5 horas ± 12,5 min.
+con una velocidad de aclaramiento de 121 ± 25 ml/min. El aclaramiento de la actividad de reteplasa
+del plasma tiene lugar con una tasa de 283 ± 101 ml/min., resultando en una vida media dominante
+(t1/2) de 14,6 ± 6,7 min. y una vida media terminal (t1/2) de 1,6 horas ± 39 min. Con las técnicas
+inmunológicas sólo se detectaron en la orina pequeñas cantidades de reteplasa. Todavía no se dispone
+de datos exactos de las vías principales de eliminación de reteplasa en humanos y se desconocen las
+consecuencias de la insuficiencia renal o hepática. Los estudios en ratas indican que el hígado y los
+riñones son los principales órganos de captación activa y degradación lisosómica.
+Estudios adicionales efectuados con muestras de plasma humano in vitro sugieren que la formación de
+complejos con el desactivador C1, 2-antiplasmina y 2-antitripsina contribuye a la inactivación de
+reteplasa en el plasma. La contribución relativa de los inhibidores de reteplasa disminuye de la forma
+siguiente: inactivador C1 > 2-antiplasmina > 2-antitripsina.
+ La vida media de reteplasa aumentó en pacientes con IAM comparado con los voluntarios sanos. No
+puede excluirse un aumento adicional de la vida media de actividad en pacientes con infarto de
+miocardio y función renal gravemente alterada, pero no se dispone de datos clínicos sobre la
+farmacocinética de reteplasa en estos pacientes. Los datos en animales demuestran que, en casos de
+grave alteración de la función renal, con un aumento pronunciado de la creatinina sérica y de la urea
+sérica, es de esperar un aumento en la vida media de reteplasa. Una leve alteración de la función renal
+no afectó de forma significativa las propiedades farmacocinéticas de reteplasa.
+ 5.3   Datos preclínicos sobre seguridad
+ Estudios de toxicidad aguda fueron realizados en ratas, conejos y monos. Se realizaron estudios de
+toxicidad subaguda en ratas, perros y monos. El síntoma agudo principal después de dosis altas únicas
+de reteplasa en ratas y en conejos consistió en apatía pasajera poco después de la inyección. En monos
+cinomolgus el efecto sedante comprendió un rango que iba desde ligera apatía hasta la inconsciencia, a
+causa de un descenso tensional reversible relacionado con la dosis. Hubo un aumento de la hemorragia
+local en el lugar de inyección.
+ Los estudios de toxicidad subaguda no revelaron efectos adversos inesperados. En perros, dosis
+repetidas del péptido humano reteplasa condujeron a reacciones inmunológico-alérgicas. La toxicidad
+genética de reteplasa fue excluida por una serie completa de pruebas realizadas in vitro e in vivo a
+diferentes niveles genéticos.
+ Se han llevado a cabo estudios de toxicidad en la función reproductora en ratas (un estudio de
+fertilidad, y otro de embriotoxicidad y fetotoxicidad incluyendo una fase de partos), y en conejos (un
+estudio de embriotoxicidad y fetotoxicidad, sólo de búsqueda de dosis). En ratas, una especie
+insensible a los efectos farmacológicos de reteplasa, no hubo efectos adversos en la fertilidad,
+desarrollo embriofetal, parto y de la descendencia. En conejos, se observaron sangrado vaginal y
+                                                    8
+abortos posiblemente asociados a la prolongación de la hemostasis, pero no se detectaron
+anormalidades fetales. No se ha llevado a cabo con reteplasa ningún estudio de toxicidad pre y
+postnatal.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Polvo:
+Ácido tranexámico
+fosfato dipotásico
+ácido fosfórico
+sacarosa
+Polisorbato 80
+ Disolvente:
+Agua para preparaciones inyectables
+ 6.2   Incompatibilidades
+ Este medicamento no debe ser mezclado con heparina y/o ácido acetilsalicílico.
+En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con con otros medicamentos.
+ Heparina y Rapilysin combinados en solución son incompatibles. Pueden existir también otras
+incompatibilidades. No se debe añadir ninguna otra medicación a la solución inyectable.
+ 6.3   Periodo de validez
+ Periodo de validez en el envase:
+3 años.
+ Producto reconstituido:
+ Una vez preparada la disolución con agua para inyectables y conservada entre 2º y 30ºC, se ha
+demostrado que la estabilidad física y química es de 8 horas.
+Desde el punto de vista microbiológico, el producto debe ser utilizado inmediatamente. Si no se usa de
+forma inmediata, el tiempo de almacenamiento hasta su uso y las condiciones antes de su empleo
+serán responsabilidad del usuario.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 25 ºC.
+ Mantener el vial en el embalaje exterior para protegerlo de la luz.
+ Para las condiciones de almacenamiento del producto reconstituido, ver sección 6.3
+ 6.5   Naturaleza y contenido del recipiente
+ Cada envase contiene:
+ 2 viales incoloros con cierre de goma conteniendo 10 U de polvo
+2 jeringas precargadas con 10 ml de disolvente para un solo uso
+2 cánulas para la reconstitución
+2 agujas 19 G 1
+                                                     9
+6.6    Precauciones especiales de eliminación y otras manipulaciones
+ Se han notificado casos de incompatibilidad entre algunas jeringas precargadas de vidrio (incluyendo
+Rapilysin) y ciertas agujas sin conector. Por tanto, se debe verificar la compatibilidad de la jeringa de
+vidrio y el acceso intravenoso antes de su utilización. En caso de que se produzca incompatibilidad
+entre ambas, se puede usar un adaptador que se retirará junto con la jeringa de vidrio inmediatamente
+después de la administración.
+ Utilizar técnicas asépticas durante toda la operación.
+ 1.    Retirar el capuchón protector del vial de Rapilysin 10 U y limpiar el tapón de goma con un
+algodón con alcohol.
+ 2.    Abrir el envase que contiene la cánula de reconstitución y retirar ambos capuchones protectores
+de la misma.
+ 3.    Insertar la cánula a través del tapón de goma y hacia el interior del vial de Rapilysin 10 U.
+ 4.    Retirar la jeringa de 10 ml del envase. Quitar el capuchón de la punta de la jeringa. Conectar la
+jeringa a la cánula de reconstitución y transferir los 10 ml del disolvente al interior del vial
+Rapilysin 10 U.
+ 5.    Con la cánula de reconstitución y la jeringa aún conectados con el vial, hacer girar éste
+cuidadosamente para disolver el polvo de Rapilysin 10 U. NO AGITAR.
+ 6.    El preparado reconstituido resultante es una solución clara e incolora. Si la solución no es clara
+e incolora deberá desecharse.
+ 7.    Aspirar 10 ml de solución de Rapilysin 10 U hacia el interior de la jeringa. Un pequeño resto de
+la solución podrá permanecer en el vial, ya que éste contiene un exceso de líquido.
+ 8.    Desconectar la jeringa de la cánula de reconstitución. La solución está ahora lista para su
+administración intravenosa.
+ 9.    La solución reconstituida se debe usar inmediatamente. Es necesario realizar una inspección
+visual después de la reconstitución. Solamente deben inyectarse soluciones claras e incoloras. Si
+la solución no es clara e incolora debe desecharse
+ 10.   A través de la vía reservada a Rapilysin, no debe administrarse ninguna otra medicación, ni al
+mismo tiempo, ni antes, ni después de la inyección de Rapilysin. Esto es aplicable a todos los
+productos incluyendo heparina y ácido acetilsalicílico, que deben administrarse antes y tras la
+administración de reteplasa para reducir el riesgo de re-trombosis.
+ 11.   En aquellos pacientes en los que tenga que usarse la misma vía, ésta (incluyendo catéteres en Y)
+debe limpiarse, antes y después de la inyección de Rapilysin con una solución de cloruro sódico
+al 0,9 % o dextrosa al 5 % (ver apartado 4.2 Posología y forma de administración).
+ Precauciones especiales de eliminación:
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con las normativas locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Actavis Group PTC ehf.
+Reykjavikurvegi 76-78
+220 Hafnarfjordur
+Iceland
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/96/018/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 29 de agosto de 1996
+Fecha de la última revalidación: 29 de agosto de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ A.   FABRICANTE(S) DE LA(S) SUBSTANCIA(S) ACTIVA(S)
+BIOLÓGICA(S) Y TITULAR(ES) DE LA(S)
+AUTORIZACIÓN(CIONES) DE FABRICACIÓN
+RESPONSABLE(S) DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    FABRICANTE(S) DE LA(S) SUBSTANCIA(S) ACTIVA(S) BIOLÓGICA(S) Y
+TITULAR(ES) DE LA(S) AUTORIZACIÓN(ES) DE FABRICACIÓN
+RESPONSABLE(S) DE LA LIBERACIÓN DE LOS LOTES
+ Nombre o razón social del (de los) fabricante(s) del(de los) principio(s) biológico(s) activo(s)
+ Roche Diagnostics GmbH
+Nonnenwald 2
+82377 Penzberg
+Germany
+ Nombre o razón social del(de los) fabricante(s) responsable de la liberación de los lotes
+ Cenexi
+52, Rue Marcel et Jacques Gaucher
+94120 Fontenay-Sous-Bois
+Francia
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Véase anexo I: resumen de las características
+del producto, sección 4.2).
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 14
+A. ETIQUETADO
+ 15
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR Y EN EL
+ACONDICIONAMIENTO PRIMARIO
+ EMBALAJE EXTERIOR
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Rapilysin 10 U polvo y disolvente para solución inyectable
+Agua para inyectables para la preparación de la solución de Rapilisyn 10 U para vía intravenosa
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Reteplasa 10 U (activador del plasminógeno recombinante, agente trombolítico)
+ 
+3.    LISTA DE EXCIPIENTES
+	Polvo:
+Ácido tranexámico
+fosfato dipotásico
+ácido fosfórico
+sacarosa
+Polisorbato 80
+ Disolvente:
+Agua para preparaciones inyectables
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Polvo y disolvente para inyectable (contiene 2x [0,56 g de polvo en un vial y 10 ml de disolvente en
+una jeringa precargada con una cánula para su reconstitución y aguja])
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Vía intravenosa
+Leer el prospecto antes de utilizar este medicamento
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ Usar la solución inmediatamente después de la reconstitución
+ 
+8.      FECHA DE CADUCIDAD
+	Cad.:
+ 
+9.      CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 25 ºC
+Mantener el vial en el embalaje exterior para protegerlo de la luz.
+ 10.     PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL PRODUCTO NO UTILIZADO
+O DE LOS MATERIALES QUE ESTÉN EN CONTACTO DIRECTO CON EL
+PRODUCTO (CUANDO CORRESPONDA)
+ 11.     NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Actavis Group PTC ehf.
+Reykjavikurvegi 76-78
+220 Hafnarfjordur
+Iceland
+ 12.     NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/96/018/001
+ 13.     NÚMERO DE LOTE DEL FABRICANTE
+ Lote
+ 14.     CONDICIONES GENERALES DE DISPENSACIÓN
+ MEDICAMENTO SUJETO A PRESCRIPCIÓN MÉDICA
+ 15.     INSTRUCCIONES DE USO
+ 16.     INFORMACIÓN EN BRAILLE
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ ETIQUETA DEL VIAL
+ 1.      DENOMINACIÓN DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Rapilysin 10 U polvo y disolvente para solución inyectable
+Reteplasa
+Vía intravenosa
+ 
+2.      FORMA DE ADMINISTRACIÓN
+	Usar inmediatamente después de la reconstitución
+ 
+3.      FECHA DE CADUCIDAD
+	Cad.:
+ 
+4.      NÚMERO DE LOTE DEL FABRICANTE
+	Lote
+ 5.      CONTENIDO EN PESO, VOLUMEN O EN UNIDADES
+ 10 U de reteplasa
+ 
+6.      OTROS
+	INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ ETIQUETA DE LA JERINGA
+ 1.      DENOMINACIÓN DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Agua para preparaciones inyectables
+ 
+2.      FORMA DE ADMINISTRACIÓN
+	
+3.      FECHA DE CADUCIDAD
+	Cad.:
+ 
+4.      NÚMERO DE LOTE DEL FABRICANTE
+	Lote
+ 5.      CONTENIDO EN PESO, VOLUMEN O EN UNIDADES
+ 10 ml
+ 
+6.      OTROS
+	B. PROSPECTO
+ 20
+ Lea todo el prospecto detenidamente antes de empezar a usar el medicamento.
+-     Conserve este prospecto. Puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico
+-     Si aprecia cualquier efecto adverso no mencionado en este prospecto o si sufre uno de los
+efectos adversos descritos de forma grave, informe a su médico o farmacéutico.
+ En este prospecto:
+1.    Qué es Rapilysin y para qué se utiliza
+2.    Antes de usar Rapilysin
+3.    Cómo usar Rapilysin
+4.    Posibles efectos adversos
+5.    Conservación de Rapilysin
+6.    Información adicional
+ 
+1.    QUÉ ES RAPILYSIN Y PARA QUÉ SE UTILIZA
+	Rapilysin (un activador del plasminógeno recombinante) es un medicamento trombolítico usado para
+disolver los coágulos de sangre que se han formado en ciertos vasos y restaurar el flujo sanguíneo en
+esos vasos obstruidos (= trombolisis).
+Rapilysin se usa después de un infarto agudo de miocardio (ataque al corazón) con el fin de disolver el
+coágulo de sangre que causa el ataque al corazón. Se administra dentro de las 12 horas después de
+comenzar los síntomas.
+ 
+2.    ANTES DE USAR RAPILYSIN
+	Su médico le hará preguntas antes de administrar Rapilysin, para saber si existe un mayor riesgo de
+hemorragia.
+ No use Rapilisyn
+Antes de iniciar el tratamiento con Rapilisyn, asegúrese que su médico sabe si usted:
+ ·     es alérgico (hipersensible) a reteplasa o a cualquiera de los demás componentes de Rapilysin
+ ·     tiene una alteración sanguínea
+ ·     está tomando alguna medicina para diluir su sangre (anticoagulantes orales, p.ej. warfarina)
+ ·     tiene un tumor cerebral o malformación de vaso sanguíneo o dilatación de la pared vascular
+(aneurisma) en el cerebro
+ ·     tiene otros tumores asociados a un mayor riesgo de hemorragia
+ ·     ha tenido un accidente cerebrovascular
+ ·     ha tenido un masaje cardíaco externo en los últimos 10 días
+ ·     tiene presión sanguínea alta descontrolada (hipertensión)
+ ·     tiene una úlcera en el estómago o intestino delgado
+                                                   21
+·     tiene varices en la garganta (esófago) (frecuentemente causadas por enfermedad hepática)
+ ·     tiene una enfermedad de riñón o hígado grave
+ ·     tiene inflamación aguda del páncreas o del pericardio (la bolsa que envuelve el corazón), o una
+infección del músculo del corazón (endocarditis bacteriana)
+ ·     ha tenido en los últimos 3 meses hemorragia grave, un daño o cirugía importante (p.ej. injerto
+de bypass en la arteria coronaria, o cirugía o daño en la cabeza o espina dorsal), parto, o tuvo
+una biopsia de órgano u otra intervención médica/quirúrgica.
+ Tenga especial cuidado con Rapilysin
+ Hemorragia
+ El efecto adverso más común de Rapilysin es la hemorragia. Por lo tanto, se debe dar Rapilysin
+solamente en presencia y bajo las instrucciones de un médico de urgencias.
+ Preste especial atención a todos los posibles sitios de sangrado (p. ej. lugares de inyección). La
+heparina, que se administra junto con Rapilysin, también puede aumentar la hemorragia.
+ Los riesgos del tratamiento con Rapilysin pueden ser mayores si tiene alguna de las siguientes
+condiciones:
+ ·     enfermedades de los vasos sanguíneos en el cerebro
+ ·     presión sanguínea sistólica más alta de 160 mmHg
+ ·     hemorragia en el aparato gastrointestinal, urinario o genital dentro de los últimos 10 días
+ ·     alta probabilidad de coágulo sanguíneo en el corazón (p.ej. como resultado de un
+estrechamiento de la válvula del corazón o fibrilación auricular)
+ ·     inflamación séptica de una vena con coágulo sanguíneo (tromboflebitis séptica) o vasos
+sanguíneos obstruidos en el lugar de la infección
+ ·     edad superior a 75 años
+ ·     cualquier otra condición en la que una hemorragia pudiera ser especialmente peligrosa o
+aparecer en un lugar de difícil control.
+ Actualmente, se dispone de pocos datos sobre el uso de Rapilysin en pacientes con presión sanguínea
+diastólica más alta de 100 mmHg.
+ Latidos cardíacos anormales (arritmias)
+ El tratamiento trombolítico puede provocar que el latido del corazón sea irregular. Por lo tanto, dígale
+inmediatamente al personal médico si Ud.
+ ·     siente palpitaciones o un latido de corazón irregular
+ Uso repetido
+ Actualmente no hay experiencia con el uso repetido de Rapilysin. Por lo tanto, no se recomienda el
+uso repetido. No se ha visto formación de anticuerpos frente a la molécula de reteplasa.
+ Uso en niños
+ No se ha establecido la seguridad y eficacia de Rapilysin en niños. No se recomienda el tratamiento
+con Rapilysin en niños.
+ Uso de con otros medicamentos
+ La heparina y otras medicinas que diluyen la sangre (anticoagulantes) y el ácido acetilsalicílico (una
+sustancia contenida en muchos medicamentos utilizados para eliminar el dolor y la fiebre) pueden
+aumentar el riesgo de hemorragia.
+ Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente con otros medicamentos, incluso los adquiridos sin receta.
+Para información sobre medicamentos que no deben ser físicamente mezclados con la solución
+inyectable de Rapilysin, ver sección 3.
+ Embarazo
+ No hay experiencia con Rapilysin en mujeres embarazadas. Por lo tanto, salvo en situaciones de
+peligro de vida no se debe usar. Debe decir a su médico si está embarazada o piensa quedarse
+embarazada. Su médico le podrá decir los riesgos y beneficios de usar Rapilysin durante el embarazo.
+ Lactancia
+ No debe dar el pecho a su bebé durante el tratamiento con Rapilysin, ya que se desconoce si Rapilysin
+se excreta por la leche materna. La leche materna obtenida durante las primeras 24 horas después del
+tratamiento trombolítico se debe desechar. Comente con su médico cuándo puede reanudar la lactancia
+de nuevo.
+ 
+3.    CÓMO USAR RAPILYSIN
+	Rapilysin se administra normalmente en un hospital. El medicamento se presenta en viales en forma
+de polvo para inyección. Antes de usarlo, el polvo para inyección se debe disolver en el agua para
+preparaciones inyectables contenida en la jeringa precargada incluida en el envase. No añadir ningún
+otro medicamento. La solución reconstituida se debe usar inmediatamente. Se debe examinar la
+solución para asegurar que solamente se inyecta una solución clara e incolora. Si la solución no es
+clara e incolora se debe tirar.
+ El tratamiento con Rapilysin 10 U debe iniciarse lo antes posible tras el comienzo de los síntomas de
+ataque al corazón.
+ Heparina y Rapilysin no se pueden mezclar en la misma solución. con otros medicamentos tampoco
+pueden ser mezclados con Rapilysin. No se debe añadir ningún otro medicamento a la solución
+inyectable (ver a continuación). Rapilysin se debe inyectar preferiblemente por vía intravenosa cuyo
+único uso sea la inyección de Rapilysin. A través de esta vía reservada a Rapilysin, no debe
+administrarse ningún otro medicamento, ni al mismo tiempo, ni antes, ni después de la inyección de
+Rapilysin. Esto es aplicable a todos los medicamentos, incluyendo heparina y ácido acetilsalicílico,
+que se administran antes y después de Rapilysin para reducir el riesgo de nueva formación de coágulos
+sanguíneos.
+Si se tiene que usar la misma línea, ésta (incluyendo catéteres en Y) debe limpiarse, antes y después de
+la inyección de Rapilysin con una solución de cloruro sódico al 0,9 % o dextrosa al 5 %.
+ Dosificación de Rapilysin
+ Rapilysin se administra como una inyección de 10 U seguida, 30 minutos más tarde, de una segunda
+inyección de 10 U (doble bolo).
+                                                    23
+Cada inyección se debe administrar lentamente en 2 minutos. No se debe administrar la inyección por
+error fuera de la vena. Por lo tanto, asegúrese decir al personal médico si siente dolor durante la
+inyección.
+ Heparina y ácido acetilsalicílico se administran antes y después de Rapilysin para reducir el riesgo de
+formación de nuevos coágulos sanguíneos.
+ Dosificación de Heparina
+ La dosis recomendada de heparina es 5000 U.I. dada como una inyección única antes de Rapilysin,
+seguida por una perfusión de 1000 U.I. por hora empezando antes de la segunda inyección de
+Rapilysin. Se debería administrar heparina durante al menos 24 horas, preferiblemente durante 48 -72
+horas con el fin de mantener valores de PTT 1,5 a 2 veces superiores al normal.
+ Dosificación de Ácido Acetilsalicílico
+ La dosis de ácido acetilsalicílico dada antes de Rapilysin debería ser al menos de 250 mg ­ 350 mg y
+debería estar seguida por 75 ­ 150 mg/día, al menos hasta que se abandone el hospital.
+ Instrucciones de uso/manipulación
+ Se han comunicado casos de incompatibilidad entre algunas jeringas precargadas de vidrio
+(incluyendo Rapilysin) y ciertas agujas sin conector. Por tanto, se debe verificar la
+compatibilidad de la jeringa de vidrio y el acceso intravenoso antes de su utilización. En caso de
+que se produzca incompatibilidad entre ambas, se puede usar un adaptador que se retirará
+junto con la jeringa de vidrio inmediatamente después de la administración.
+ Utilizar técnicas asépticas durante toda la operación.
+ 1.    Retirar el capuchón protector del vial de Rapilysin 10 U y limpiar el tapón de goma con un
+algodón con alcohol.
+ 2.    Abrir el envase que contiene la cánula de reconstitución y retirar ambos capuchones protectores
+de la misma.
+ 3.    Insertar la cánula a través del tapón de goma y hacia el interior del vial de Rapilysin 10 U.
+ 4.    Retirar la jeringa de 10 ml del envase. Quitar el capuchón de la punta de la jeringa. Conectar la
+jeringa a la cánula de reconstitución y transferir los 10 ml del disolvente al interior del vial de
+Rapilysin 10 U.
+ 5.    Con la cánula de reconstitución y la jeringa aún conectados con el vial, hacer girar éste
+cuidadosamente para disolver el polvo de Rapilysin 10 U. NO AGITAR.
+ 6.    El preparado reconstituido resultante es una solución clara e incolora. Si la solución no es clara
+e incolora deberá desecharse.
+ 7.    Aspirar 10 ml de solución de Rapilysin 10 U hacia el interior de la jeringa. Un pequeño resto de
+la solución podrá permanecer en el vial, ya que éste contiene un exceso de líquido.
+ 8.    Desconectar la jeringa de la cánula de reconstitución.La solución está ahora lista para su
+administración intravenosa.
+ 9.    Ningún otro medicamento debe administrarse en la vía reservada para Rapilisyn, ni al mismo
+tiempo, ni antes, ni después de la inyección de Rapilysin. Esto es aplicable a todos los productos
+ incluyendo heparina y ácido acetilsalicílico, que deben administrarse antes y tras la
+administración de reteplasa para reducir el riesgo de re-trombosis.
+ 10.   En aquellos pacientes en los que tenga que usarse la misma vía, ésta (incluyendo catéteres en Y)
+debe limpiarse, antes y después de la inyección de Rapilysin con una solución de cloruro sódico
+al 0,9 % o dextrosa al 5 %.
+ Si se usa más Rapilysin del que debiera:
+ En caso de sobredosificación puede haber mayor riesgo de hemorragia.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, Rapilysin puede tener efectos adversos, aunque no todas las
+personas los sufran.
+ Los efectos adversos más frecuentes de Rapilisyn que pueden afectar a más del 10% de los pacientes
+tratados:
+·      Hemorragia en el lugar de la inyección, p. ej. ampolla de sangre (hematoma)
+·      Angina/dolor en el pecho, presión sanguínea baja e insuficiencia cardiaca/puede reaparecer una
+dificultad para respirar
+·      Sensación de quemazón cuando se inyecta Rapilysin
+ Efectos adversos frecuentes que ocurren en 1 ­ 10% de los pacientes tratados son:
+·     Hemorragia en el aparato digestivo (p. ej. vómito o heces negras o sanguinolentas), en encías o
+en aparato genital o urinario
+·     Latidos cardíacos anormales (arritmias), paro cardíaco, colapso circulatorio o puede ocurrir otro
+ataque al corazón
+ Efectos poco frecuentes que ocurren en 0,1 ­ 1% de los pacientes tratados son:
+·     Hemorragia cerca del corazón, en el abdomen, cerebro u ojos, bajo la piel, de nariz o sangre al
+expectorar
+·     Daño al corazón o en las válvulas del corazón, o puede aparecer un coágulo sanguíneo en el
+pulmón, cerebro u otra parte del cuerpo
+·     Hipersensibilidad (p. ej. reacciones alérgicas)
+ Otros efectos adversos poco frecuentes que ocurren en menos de un 0,01% de los pacientes tratados
+son:
+·     Acontecimientos relacionados con el sistema nervioso (p. ej. ataque epiléptico, convulsión,
+trastornos del habla, confusión)
+·     Reacción alérgica grave, causando shock o colapso
+ Estos acontecimientos cardiovasculares pueden poner en peligro la vida o conducir a la muerte.
+ Los pacientes con presión sanguínea sistólica superior a 160 mmHg tienen un riesgo superior de
+hemorragia cerebral. El riesgo de hemorragia cerebral y de hemorragia cerebral fatal aumenta con la
+edad. Raramente se necesitan transfusiones de sangre. No son infrecuentes los casos de muerte o
+discapacitación permanente en pacientes que tienen un accidente cerebrovascular (incluyendo
+hemorragia en el cerebro) u otros problemas graves de sangrado.
+ Si aparecen algunos de estos síntomas, asegúrese de decírselo al personal médico inmediatamente. Si
+aprecia efectos adversos no mencionados en este prospecto, comuníqueselo a su médico o
+farmacéutico.
+ Si nota efectos adversos no mencionados en este prospecto o si sufre uno de los efectos adversos
+descritos de forma grave, comuníqueselo a su médico o farmacéutico.
+ 
+5.    CONSERVACIÓN DE RAPILYSIN
+	·     Mantener fuera del alcance y de la vista de los niños
+ ·     No usar Rapilisyn después de la fecha de caducidad que aparece en el cartón y en la etiqueta del
+vial.
+ ·     No conservar a temperatura superior a 25 °C
+ ·     Mantener el vial en el embalaje exterior para protegerlo de la luz.
+ ·     Tras la reconstitución (cuando se disuelve), la solución se debe usar inmediatamente.
+ 
+6.    INFORMACIÓN ADICIONAL
+	"¿Qué contiene Rapilisyn?
+ -     El principio activo de Rapilisyn es reteplasa 10 U/10 ml tras la reconstitución
+-     Los demás componentes en el vial son:
+Polvo:
+Ácido tranexámico
+fosfato dipotásico
+ácido fosfórico
+sacarosa
+Polisorbato 80
+       Disolvente:
+Agua para preparaciones inyectables (jeringa precargada)
+ Aspecto del producto y tamaño del envase
+ Rapilisyn se presenta como polvo y disolvente para inyección (0,56 g de polvo en un vial y 10 ml de
+disolvente en una jeringa precargada con una cánula para la reconstitución y 2 agujas)
+ Titular de la autorización de comercialización
+ Actavis Group PTC ehf.
+Reykjavikurvegi 76-78
+220 Hafnarfjordur
+Iceland
+ Responsable de la fabricación
+ Cenexi
+52, Rue Marcel et Jacques Gaucher
+94120 Fontenay-Sous-Bois
+Francia
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización:
+ België/Belgique/Belgien                            Luxembourg/Luxemburg
+ALL-in-1 bvba
+Tél/Tel: +32 (0) 32 86 88 88
+                                                    Magyarország
++359 2 9321 680                                    Tel.: +36 52 431-313
+ Ceská republika                                    Malta
+Pharma Avalanche s.r.o.                            Actavis Ltd,
+Tel.: +420251001680                                Tel : +356023679641
+ Danmark                                            Nederland
+Actavis A/S                                        Actavis B.V.
+Tlf: +45 - 72 22 30 00                             Tel: +31 35 54 299 33
+ Deutschland                                        Norge
+Actavis Deutschland GmbH & Co. KG                  Actavis Norway AS
+Telefon: +49 (0) 2173/1674 ­ 0                     Tlf: +47 815 22 099
+ Eesti                                              Österreich
+UAB ,,Actavis Baltics""Eesti Filiaal                Actavis GmbH
+Tel: +372 6100 565                                 Tel: +43 (662) 435 235 00
+                                                    Polska
+ALAPIS PHARMA ABEE                                 Actavis Polska sp. z o.o.
+: +30 2130 175064                                  Tel: +48 22 814 12 39
+ España                                             Portugal
+Actavis Spain, S.A.                                Actavis A/S Sucursal
+Tel.: + 34 91 503 01 85                            Tel: +351 - 21 722 06 50
+ France                                             România
+Actavis                                            Actavis SRL
+Tél: +33 (0) 1 40 83 77 77                         Tel: (+40)21 318 17 67
+ Ireland                                            Slovenija
+Actavis UK Limited                                 Sanolabor, d.d.
++44 (0) 1271 311257                                Tel: +386 1 585 43 10
+ Ísland                                             Slovenská republika
+Actavis Group PTC ehf.                             Actavis s.r.o, Bratislava
+Sími: +354 550 3300                                Tel: +421 2 3255 3801
+ Italia                                Suomi/Finland
+Actavis Italy S.p.A.                  Actavis Oy
+Tel: +39 - 02 96367301                Puh/Tel: +358 (0) 9 348 233
+ K                                     Sverige
+A. Potamitis Medicare Ltd             Actavis AB
+: +357 - 22 31 36 11                  Tel: +46 (0) 8 13 63 70
+ Latvija                               United Kingdom
+Actavis Baltics prstvniecba Latvij    Actavis UK Limited
+Tel: +371 67067876                    +44 (0) 1271 311257
+ Lietuva
+UAB ""Actavis Baltics""
+Tel: +370 5 2609615
+ Este prospecto fue aprobado en
+"
+	Prospectos de medicamentos.

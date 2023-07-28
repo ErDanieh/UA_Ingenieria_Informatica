@@ -1,0 +1,422 @@
+GABAPENTINA ALTER 300MG 90 CAPSULAS
+	Información Basica del medicamento Toda la información del medicamento 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	GABAPENTINA ALTER 300 mg cápsulas EFG
+GABAPENTINA ALTER 400 mg cápsulas EFG
+ 
+2.     COMPOSICION CUALITATIVA Y CUANTITATIVA
+	       GABAPENTINA ALTER 300 mg: cada cápsula contiene 300 mg de gabapentina
+GABAPENTINA ALTER 400 mg: cada cápsula contiene 400 mg de gabapentina.
+Lista de excipientes, en 6.1
+ 
+3.     FORMA FARMACÉUTICA
+	       Cápsulas
+Cápsulas 300 mg: Cápsulas de gelatina dura de color amarillo.
+Cápsulas 400 mg: Cápsulas de gelatina dura de color naranja.
+ 
+4.     DATOS CLÍNICOS
+	4.1.   Indicaciones terapéuticas
+        Epilepsia
+        GABAPENTINA es un antiepiléptico indicado como monoterapia o terapia combinada en
+crisis parciales o crisis parciales secundariamente generalizadas en adultos y niños mayores
+de 12 años, incluyendo los pacientes con crisis de nuevo diagnóstico. Puede utilizarse en
+niños a partir de 3 años en combinación con otros antiepilépticos en crisis parciales
+complejas o con generalización secundaria, excluyendo los cuadros simples.
+        En niños menores de 12 años, GABAPENTINA debe administrarse combinado con otros
+antiepilépticos hasta que no se disponga de información adecuada a partir de ensayos
+clínicos controlados.
+        Dolor Neuropático
+        GABAPENTINA está indicada en el tratamiento del dolor neuropático.
+ 4.2.   Posología y forma de administración
+        Los comprimidos de GABAPENTINA se administran por vía oral. Los alimentos no
+modifican su absorción.
+        No es necesario monitorizar las concentraciones plasmáticas de gabapentina para optimizar
+la terapia.
+        Al interrumpirse el tratamiento con gabapentina y/o añadir al tratamiento una medicación
+antiepiléptica alternativa, esto debe hacerse gradualmente en un tiempo mínimo de una
+semana.
+ Epilepsia
+         Adultos:
+En los ensayos clínicos, el rango de dosis eficaz fue de 900 a 3600 mg tres veces al día. La
+dosis inicial es de 900 mg al día, que puede alcanzarse administrando 300 mg tres veces al
+día en el Día 1 o utilizando una de las siguientes aproximaciones:
+          Titulación inicial
+DOSIS                  DÍA 1                 DÍA 2                 DÍA 3
+900 mg                 300 mg                300 mg                300 mg
+1200 mg                400 mg                400 mg                400 mg
+         La dosis puede incrementarse hasta 3600 mg al día dividido en tres dosis equitativas.
+ Dosis de mantenimiento
+DOSIS                            ESQUEMA
+900 mg                           300 mg tres veces al día
+1200 mg                          400 mg tres veces al día
+1800 mg                          2 x 300 mg tres veces al día
+2400 mg                          2 x 400 mg tres veces al día
+3600 mg                          3 x 400 mg tres ves al día
+ El intervalo máximo de tiempo entre dosis en la pauta de tres veces al día no debe superar
+las 12 horas.
+La dosis inicial usual de gabapentina para los pacientes recién diagnosticados es de 900
+mg/día.
+         Niños de 3-12 años:
+La dosis eficaz de gabapentina es 30 mg/kg/día repartida en varias dosis (3 veces al día).
+Puede realizarse una titulación durante 3 días hasta la dosis eficaz, administrando 10
+mg/kg/día el Día 1, 20 mg/kg/día el Día 2 y 30 mg/kg/día el Día 3. Dosis de hasta 40-50
+mg/kg/día fueron bien toleradas en un estudio a largo plazo. En un pequeño número de
+niños se han administrado dosis de 60 mg/kg/día.
+No se dispone de suficiente información respecto a las recomendaciones posológicas en
+monoterapia para niños menores de 12 años.
+ Dolor Neuropático
+ La dosis inicial es de 900 mg/día (repartida en tres tomas al día), titulándola en casos
+necesarios, en función de la respuesta, hasta una dosis máxima de 3600 mg/día repartidos
+en varias dosis (3 veces al día).
+La eficacia de gabapentina ha sido demostrada en varios estudios clínicos con una duración
+máxima de 7 a 8 semanas.
+ Pacientes con la función renal alterada:
+Se recomienda realizar un ajuste de la dosis en pacientes con la función renal alterada o
+sometidos a hemodiálisis y en aquellos pacientes de edad avanzada con deterioro de la
+función renal. (Ver TABLA 1)
+ TABLA 1.          Dosificación de mantenimiento de gabapentina en adultos con deterioro
+de la función renal
+                                                        Rangoa de la dosis diaria total (mg/día)
+Función renal
+Aclaramiento de creatinina (ml/min)
+80                                             900 - 3600 mg
+50 ­ 79
+30 ­ 49
+15 ­ 29
+< 15
+a
+La dosis diaria total debe administrarse dividida en tres veces al día.
+b
+Deben administrarse 300 mg en días alternos.
+ Pacientes en hemodiálisis:
+Se recomienda una dosis de carga de 300 a 400 mg para los pacientes sometidos a
+hemodiálisis que no hayan sido nunca tratados con gabapentina, seguida posteriormente de
+una dosis de 200 a 300 mg después de cada 4 horas de hemodiálisis.
+ 4.3.   Contraindicaciones
+        GABAPENTINA está contraindicada en pacientes que hayan demostrado hipersensibilidad
+a gabapentina o alguno de sus excipientes.
+ 4.4.   Advertencias y precauciones especiales de empleo
+        Aunque no existe evidencia de posibles crisis de rebote con gabapentina, una retirada
+brusca de los fármacos anticonvulsivantes en pacientes epilépticos puede precipitar un
+status epilepticus. Cuando sea preciso una reducción de la dosis, retirada del tratamiento, o
+sustitución de la medicación anticonvulsivante, debe hacerse gradualmente en un tiempo
+mínimo de una semana.
+        Gabapentina, en general, no se considera eficaz en el tratamiento de las ausencias.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+        No se ha observado interacción entre gabapentina y fenitoína, ácido valproico,
+carbamazepina, o fenobarbital. La farmacocinética de gabapentina en estado de equilibrio
+es similar en sujetos sanos a la observada en pacientes con epilepsia que reciben fármacos
+antiepilépticos.
+        La coadministración de gabapentina con anticonceptivos orales que contengan noretindrona
+y/o etinil estradiol no influye en la farmacocinética en estado de equilibrio de ambos
+componentes.
+La coadministración de gabapentina con antiácidos reduce la biodisponibilidad de
+gabapentina hasta un 24%. Se recomienda tomar gabapentina dos horas después de la
+administración de antiácidos.
+La excreción renal de gabapentina no se altera con la administración de probenecid.
+Por otro lado se ha observado una ligera reducción de la excreción renal de gabapentina
+cuando se administra junto con cimetidina, la cual no es de relevancia clínica.
+        Se recomienda para determinar las proteínas en orina el método más específico de
+precipitación con ácido sulfosalicílico. Esto se debe a falsos positivos observados con el
+test de tiras reactivas de Ames N-Multistick SG® cuando se añadió gabapentina a otros
+anticonvulsivantes.
+ 4.6.   Embarazo y lactancia
+        No se ha establecido su seguridad durante el embarazo. Los estudios de reproducción en
+ratón, rata y conejo con dosis, respectivamente, de hasta 50, 30 y 25 veces la dosis humana
+no revelaron aumentos en la incidencia de malformaciones, en comparación con los
+controles. No obstante, no existen estudios adecuados y bien controlados realizados en
+mujeres embarazadas. Al no ser siempre los estudios de reproducción en animales
+predictivos de la respuesta en seres humanos, este fármaco solo se utilizará durante el
+embarazo en los casos que el potencial beneficio para la paciente justifique el riesgo
+potencial para el feto.
+        Gabapentina se excreta en la leche materna. Al desconocer el posible efecto sobre los
+lactantes, durante la lactancia se deberá administrar con precaución. Gabapentina solo se
+utilizará durante la lactancia, si los beneficios para la madre superan claramente los
+potenciales riesgos para el bebé.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar maquinaria
+        Como todos los anticonvulsivantes, gabapentina actúa sobre el sistema nervioso central y
+puede producir somnolencia, vértigo, u otros síntomas relacionados. Estas reacciones
+adversas por otra parte leves o moderadas pueden ser potencialmente peligrosas en los
+pacientes que conduzcan o manejen maquinaria.
+ 4.8.   Reacciones adversas
+        Se ha evaluado la seguridad de gabapentina en más de 2000 sujetos y pacientes en los que
+fue bien tolerado. De éstos, 543 pacientes participaron en ensayos clínicos controlados.
+Debido a que gabapentina se administró frecuentemente en combinación con otros
+fármacos antiepilépticos, no fue posible determinar que fármaco(s), en su caso, se asoció
+con acontecimientos adversos.
+        Incidencia en los ensayos clínicos controlados
+La tabla siguiente relaciona los signos y síntomas que se observaron durante el tratamiento
+y que se presentaron en al menos un 1% de los pacientes con crisis parciales en el
+transcurso de los ensayos controlados realizados que comparaban gabapentina con placebo.
+En estos estudios, se añadió gabapentina o placebo a la terapia antiepiléptica seguida por
+los pacientes. Los acontecimientos adversos fueron considerados generalmente como de
+leves a moderados.
+                                                                                                      MINISTERIO
+TABLA 2.         Resumen de los signos y síntomas observados en un porcentaje > 1% de los pacientes
+tratados con gabapentina como terapia combinada en los estudios controlados con placebo [número (%) de
+pacientes]
+Acontecimiento adverso a (AA)           Gabapentinab                       Placebob
+Somnolencia
+Vértigos
+Ataxia
+Fatiga                               60 (11,0)                            19 (5,0)
+Nistagmus
+Dolor de cabeza                      44 (8,1)
+Temblor                              37 (6,8)                             12 (3,2)
+Nauseas y/o vómitos                  33 (6,1)                             27 (7,1)
+Diplopía
+Ambliopíac                           23 (4,2)                             4 (1,1)
+Rinitis                              22 (4,1)                             14 (3,7)
+Aumento de peso                      16 (2,9)                             6 (1,6)
+Faringitis
+Disartria                            13 (2,4)
+Nerviosismo
+Dispepsia                            12 (2,2)                             2 (0,5)
+Amnesia
+Mialgia                              11 (2,0)                             7 (1,9)
+Tos
+Dolor abdominal                      10 (1,8)                             9 (2,4)
+Dolor de espalda                     10 (1,8)
+Depresión                            10 (1,8)                             7 (1,8)
+Pensamientos anormales               9 (1,7)                              5 (1,3)
+Sequedad de boca o garganta          9 (1,7)                              2 (0,5)
+Edema periférico                     9 (1,7)                              2 (0,5)
+Confusión                            9 (1,7)
+Estreñimiento                        8 (1,5)                              3 (0,8)
+Impotencia
+Anormalidades dentales               8 (1,5)                              1 (0,3)
+Eritema                              8 (1,5)                              6 (1,6)
+Diarrea                              7 (1,3)
+Infección vírica
+Fiebre                               7 (1,3)
+Punzadas                             7 (1,3)                              2 (0,5)
+Abrasión                             7 (1,3)                              0 (0,0)
+Prurito
+Aumento del apetito                  6 (1,1)
+Disminución del rto. leucocitario    6 (1,1)                              2 (0,5)
+Insomnio                             6 (1,1)
+Acné                                 6 (1,1)
+Fractura                             6 (1,1)                              3 (0,8)
+Vasodilatación                       6 (1,1)
+Leucopenia
+Coordinación anormal                 6 (1,1)
+Labilidad emocional                  6 (1,1)
+a
+Término preferencial de COSTART
+b
+Más terapia farmacológica antiepiléptica de base
+C
+Visión borrosa
+Los acontecimientos adversos más comúnmente observados con el uso de gabapentina en
+combinación con otros antiepilépticos en niños de 3-12 años, y que no presentaron igual
+frecuencia en los pacientes tratados con placebo, fueron infección vírica, fiebre, náuseas y/o
+vómitos y somnolencia.
+        TABLA 3 Incidencia de acontecimientos adversos que aparecen con el tratamiento
+en niños de 3 a 12 años en estudios controlados en combinación con otros
+antiepilépticos (acontecimientos en al menos un 2% de los pacientes
+tratados con gabapentina y numéricamente más frecuentes que en el grupo
+placebo)
+Sistema corporal/
+Evento adverso                                         N = 119        N = 128
+Organismo en general
+Infección vírica                                        10,9           3,1
+Fiebre                                                  10,1           3,1
+Aumento de peso                                          3,4           0,8
+Fatiga                                                   3,4           1,6
+        Digestivo
+Náuseas y/o Vómitos                                              8,4        7,0
+        Sistema nervioso
+Somnolencia                                                      8,4        4,7
+Hostilidad                                                       7,6        2,3
+Labilidad emocional                                              4,2        1,6
+Vértigo                                                          2,5        1,6
+Hiperquinesia                                                    2,5        0,8
+        Sistema respiratorio
+Bronquitis                                                3,4               0,8
+Infección respiratoria                                    2,5               0,8
+a
+Más el tratamiento farmacológico de base con antiepilépticos
+         Otros acontecimientos que se presentaron en más del 2% de los niños pero con una
+frecuencia igual o superior en el grupo placebo incluyeron: faringitis, infección del tracto
+respiratorio superior, dolor de cabeza, rinitis, convulsiones, diarrea, anorexia, tos y otitis
+media.
+ Otros acontecimientos adversos observados en todos los ensayos clínicos
+A continuación se resumen los efectos que se presentaron en al menos el 1% de los
+pacientes epilépticos que recibieron gabapentina como terapia adicional en alguno de los
+estudios clínicos y que no se describen en la sección anterior .
+Organismo en general: astenia, malestar, edema facial
+Sistema cardiovascular: hipertensión
+Aparato digestivo: flatulencia, anorexia, gingivitis
+Sistemas hematológico y linfático: púrpura descritos más frecuentemente como
+cardenales, resultantes de traumatismos físicos.
+Sistema musculoesquelético: artralgia
+Sistema nervioso: vértigo, hiperquinesia, aumento, disminución o ausencia de reflejos,
+parestesias, ansiedad y hostilidad
+Aparato respiratorio: neumonía
+Sistema urogenital: infección del tracto urinario
+Sentidos especiales: visión anormal descrita más frecuentemente como trastorno visual.
+          Cincuenta y nueve pacientes mayores de 65 años han recibido gabapentina. Los
+acontecimientos adversos comunicados por estos pacientes son de la misma clase que los
+comunicados en individuos más jóvenes. La dosis debe ajustarse en pacientes con la
+función renal alterada (ver 4.2. Posología y forma de administración).
+          Los acontecimientos adversos observados en los ensayos clínicos en niños tratados con
+gabapentina y que no fueron comunicados anteriormente en los ensayos clínicos realizados
+en adultos como terapia combinada son:
+Sistema digestivo: moniliasis oral
+Sistema nervioso: desaparición del aura
+Sistema respiratorio: pseudo-difteria.
+          Acontecimientos adversos observados en los ensayos clínicos en monoterapia:
+El perfil de acontecimientos adversos en los estudios controlados en monoterapia, fue
+similar al de los estudios en que se utilizó en combinación.
+  Datos de farmacovigilancia
+Se han comunicado muertes súbitas inexplicadas, para las que no se ha establecido ninguna
+relación causal con el tratamiento con gabapentina. Adicionalmente y como parte de la
+experiencia tras la comercialización de gabapentina se han comunicado en muy raras
+ocasiones casos de pancreatitis, eritema multiforme, síndrome de Stevens-Johnson,
+fluctuaciones de la glucosa sanguínea en pacientes diabéticos y elevación de las pruebas de
+función hepática.
+  Abandono del tratamiento por acontecimientos adversos
+Aproximadamente un 7% de los 2074 adultos y adolescentes y un 8% de los 292 niños de 3
+a 12 años con epilepsia, espasticidad, o migraña que recibieron gabapentina en los estudios
+clínicos anteriores a la autorización abandonaron estos ensayos debido a un acontecimiento
+adverso.
+          Los acontecimientos que más frecuentemente se asociaron con el abandono del estudio en
+adultos fueron somnolencia (1,2%), ataxia (0,8%), fatiga (0,6%), náuseas y/o vómitos
+(0,6%) y en niños somnolencia (1,4%), hiperquinesia (1,0%) y hostilidad (1,0%). Casi
+todos los participantes tuvieron múltiples síntomas, ninguno de los cuales pudo ser
+considerado como primario.
+ 4.9.     Sobredosis
+          Con sobredosis de gabapentina de hasta 49 g no se ha observado una toxicidad que pudiera
+poner la vida en peligro. La sintomatología de la sobredosis incluye vértigos, visión doble,
+dificultad para hablar, somnolencia, letargia y leve diarrea. Todos los pacientes se
+recuperaron totalmente mediante tratamiento sintomático. La reducida absorción de
+gabapentina a dosis superiores puede limitar la absorción del fármaco en caso de
+sobredosificación y, por tanto, minimizar la toxicidad de las sobredosis.
+ Aunque gabapentina puede eliminarse por hemodiálisis, basándose en la experiencia
+anterior esto no es normalmente necesario. No obstante, en pacientes con fallo renal, puede
+estar indicada la hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.   Propiedades farmacodinámicas
+        Gabapentina está relacionada estructuralmente con el neurotransmisor GABA (ácido
+gamma-aminobutírico) pero su mecanismo de acción es diferente al de otros fármacos que
+interaccionan con las sinapsis del GABA incluyendo el valproato, barbitúricos,
+benzodiazepinas, inhibidores de la GABA transaminasa, inhibidores de la recaptación de
+GABA, agonistas del GABA, y profármacos del GABA. Los estudios in vitro con la
+gabapentina radiomarcada han caracterizado un nuevo lugar de unión de péptidos en los
+tejidos cerebrales de rata incluyendo el neocortex y el hipocampo que pueden estar
+relacionados con la actividad anticonvulsivante de gabapentina y sus derivados
+estructurales. No obstante, la identificación y función de estos puntos de unión de
+gabapentina han de ser aún clarificadas. Gabapentina a concentraciones terapéuticas no se
+une a los receptores de otros fármacos comunes o receptores de los neurotransmisores
+cerebrales incluyendo los receptores del GABA A, GABAB, benzodiazepinas, glutamato,
+glicina o N-metil-d-aspartato.
+        Gabapentina no interacciona con los canales del sodio in vitro y en consecuencia difiere de
+fenitoína y carbamazepina. La gabapentina reduce parcialmente la respuesta al agonista del
+glutamato N-metil-D-aspartato (NMDA) en algunos sistemas de ensayo in vitro, pero solo a
+concentraciones superiores a 100 µM, que no se alcanzan in vivo. Gabapentina reduce
+ligeramente la liberación de los monoamino neurotransmisores in vitro. La administración
+de gabapentina a ratas aumenta el recambio de GABA en varias áreas cerebrales de forma
+similar al valproato sódico, pero en distintas regiones del cerebro. La importancia de estas
+distintas acciones de gabapentina para sus efectos anticonvulsivantes no ha sido aún
+establecida. En los animales, gabapentina penetra fácilmente en el cerebro e impide las
+convulsiones del electroshock máximo, de los convulsivantes químicos incluyendo los
+inhibidores de la síntesis del GABA, y en modelos genéticos de crisis.
+        Asimismo, se ha demostrado la actividad analgésica de gabapentina en modelos animales
+de inflamación y dolor neuropático, así como en ensayos clínicos en pacientes con dolor
+neuropático.
+ 5.2.   Propiedades farmacocinéticas
+        La biodisponibilidad de gabapentina no es proporcional a la dosis. Tras la administración
+oral, las concentraciones plasmáticas pico de gabapentina se observan a las 2-3 horas. La
+biodisponibilidad absoluta de las cápsulas de gabapentina es de aproximadamente el 60%.
+Los alimentos, no afectan la farmacocinética de gabapentina. Como mejor se describe la
+eliminación de gabapentina del plasma es como una farmacocinética lineal. La vida media
+de eliminación de gabapentina es independiente de la dosis y oscila entre 5 a 7 horas. La
+farmacocinética de gabapentina no resulta afectada por la administración repetida, y las
+concentraciones plasmáticas en el equilibrio son predecibles de los datos de dosis única.
+Aunque las concentraciones plasmáticas de gabapentina estuvieron generalmente entre 2
+µg/ml y 20 µg/ml en los estudios clínicos, estas concentraciones no son predictivas de su
+seguridad o eficacia. Las concentraciones plasmáticas de gabapentina son proporcionales a
+la dosis con dosis de 300 ó 400 mg cada 8 horas. En la Tabla 4 se facilitan los parámetros
+farmacocinéticos.
+        TABLA 4.            Resumen de los parámetros farmacocinéticos medios (%RSD) en el
+equilibrio tras la administración cada 8 horas
+    Parámetro farmacocinético          300-mg                        400-mg
+Cmax (µg/mL)                       4,02 (24)                     5,50 (21)
+tmax (hr)                           2,7 (18)                      2,1 (47)
+t½ (hr)                             5,2 (12)                     6,1 ND
+AUC (0-) (µg.hr/mL)
+Ae% (%)
+ND = No determinado
+NA = No disponible
+        Posteriormente, se han realizado estudios farmacocinéticos con dosis de 300-4800 mg de
+gabapentina y se ha observado que el valor de la Cmax y AUC aumenta con la dosis, no
+obstante estos incrementos están por debajo de los proporcionales a la dosis.
+        Gabapentina no se liga a las proteínas plasmáticas y tiene un volumen de distribución igual
+a 57,7 litros. En pacientes con epilepsia, las concentraciones de gabapentina en líquido
+cefalorraquídeo (LCR) son de aproximadamente el 20% de las correspondientes
+concentraciones plasmáticas en el equilibrio. Gabapentina se elimina únicamente por
+excreción renal. No hay evidencia de metabolismo en el hombre. Gabapentina no induce las
+enzimas hepáticas oxidativas mixtas responsables del metabolismo de los fármacos.
+        Se estudió la farmacocinética de gabapentina en 24 niños voluntarios sanos de 4-12 años.
+En general, las concentraciones plasmáticas de gabapentina en niños son similares a las de
+los adultos.
+        En pacientes ancianos, y en aquellos con alteración de la función renal se reduce el
+aclaramiento plasmático de gabapentina. La constante de velocidad de eliminación de
+gabapentina, el aclaramiento plasmático, y el aclaramiento renal son directamente
+proporcionales al aclaramiento de creatinina.
+        Gabapentina se elimina del plasma por hemodiálisis. Se recomienda el ajuste de la dosis en
+pacientes con la función renal comprometida o sometidos a hemodiálisis (ver 4.2.
+Posología y forma de administración).
+ 5.3.   Datos preclínicos sobre seguridad
+        No se ha identificado una dosis oral letal de gabapentina en ratones y ratas que recibieron
+dosis de hasta 8000 mg/kg. Los signos de toxicidad aguda en animales incluyeron ataxia,
+respiración dificultosa, ptosis, hipoactividad, o excitación.
+        Se administró gabapentina en la dieta a ratones a dosis de 200, 600, y 2000 mg/kg/día y a
+ratas a dosis de 250, 1000, y 2000 mg/kg/día durante dos años. Se observó un aumento
+estadísticamente significativo en la incidencia de tumores de las células acinares
+pancreáticas sólo en las ratas macho tratadas con la dosis más alta. Las concentraciones
+plasmáticas pico del fármaco en las ratas tratadas con 2000 mg/kg/día son 10 veces
+superiores a las concentraciones terapéuticas en humanos, cuando se administra la dosis
+terapéutica máxima recomendada de 3600 mg/día.
+        Los tumores de células acinares pancreáticas en ratas macho fueron de bajo grado de
+malignidad, no afectaron a la supervivencia de los animales, no metastatizaron ni
+invadieron los tejidos adyacentes, y fueron similares a las observadas en los controles
+concurrentes. Se desconoce la relevancia de estos tumores de células acinares pancreáticas
+en las ratas macho en cuanto a un riesgo carcinogénico en seres humanos.
+        Gabapentina no tiene potencial genotóxico. No fue mutagénico en ensayos estándar in vitro
+utilizando células de mamíferos o bacterias. Gabapentina no indujo las aberraciones
+cromosómicas en células de mamífero tanto in vitro como in vivo, y no indujo la formación
+de micronúcleos en la médula ósea de hámsters.
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1.   Relación de excipientes
+        Cada cápsula contiene lactosa, almidón de maíz y talco.
+ 6.2.   Incompatibilidades
+        Ninguna.
+ 6.3.   Período de validez
+        3 años.
+ 6.4.   Precauciones especiales de conservación
+        No conservar a temperatura superior a 25ºC.
+ 6.5.   Naturaleza y contenido del recipiente
+        Blister de PVC/Aluminio.
+        GABAPENTINA ALTER 300 mg cápsulas: estuche con blister conteniendo 90 cápsulas.
+Envase clínico de 500 cápsulas.
+        GABAPENTINA ALTER 400 mg cápsulas: estuche con blister conteniendo 90 cápsulas.
+Envase clínico de 500 cápsulas.
+ 6.6.   Instrucciones de uso/manipulación
+        Ninguna.
+ 
+7.    TITULAR DE LA AUTORIZACION DE COMERCIALIZACION
+	       LABORATORIOS ALTER, S.A.
+Mateo Inurria, 30
+28036 MADRID
+ 
+8.    NUMERO DE LA AUTORIZACION DE COMERCIALIZACION
+	GABAPENTINA ALTER 300 mg cápsulas, Nº Reg.
+       GABAPENTINA ALTER 400 mg cápsulas, Nº Reg.
+ 9.    FECHA DE LA PRIMERA           AUTORIZACION/REVALIDACION   DE   LA
+AUTORIZACION Octubre 2002
+ 10.   FECHA DE REVISION DEL TEXTO
+
+	Prospectos de medicamentos.

@@ -1,0 +1,834 @@
+XIGRIS 20MG 1 VIAL 10ML POLV SOL PERF
+	Información Basica del medicamento Toda la información del medicamento FT/PP/ET161204-C
+ FT120208 V37 Quinta Revalidación. Se añaden los comentarios de la EMEA + Comentarios de
+la AEMPS
+      FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ FT/PP/ET161204-C
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Xigris 20 mg polvo para solución para perfusión.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada vial contiene 20 mg de drotrecogina alfa (activada).
+ Después de la reconstitución con 10 ml de agua para preparaciones inyectables, cada ml contiene 2 mg
+de drotrecogina alfa (activada).
+ Drotrecogina alfa (activada) es una versión recombinante de la Proteína C activada endógena y se
+produce mediante ingeniería genética a partir de una línea celular humana establecida.
+ Excipiente: Cada vial contiene aproximadamente 68 mg de sodio.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo para solución para perfusión. Xigris se suministra como un polvo liofilizado blanco o
+blanquecino.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Xigris está indicado en el tratamiento de pacientes adultos con sepsis grave con fallo multiorgánico
+cuando se añade a la terapia de referencia (best standard care). Se debe considerar el uso de Xigris
+principalmente en casos en que sea posible iniciar el tratamiento dentro de las 24 horas siguientes a la
+aparición del fallo orgánico (para más información ver sección 5.1).
+ 4.2   Posología y forma de administración
+ Xigris deberá ser utilizado por médicos con experiencia en instituciones especializadas en el cuidado
+de pacientes con sepsis grave.
+ El tratamiento se deberá iniciar dentro de las primeras 48 horas, y preferiblemente dentro de las 24
+horas tras la aparición del primer fallo orgánico documentado inducido por la sepsis (ver apartado 5.1).
+ La dosis recomendada de Xigris es de 24 µg/kg/hora, administrada en perfusión intravenosa continua
+durante una duración total de 96 horas. Se recomienda perfundir Xigris con una bomba de perfusión
+para controlar con precisión la velocidad de perfusión. Si la perfusión se interrumpiera por alguna
+causa, se debe reiniciar la perfusión a una velocidad de 24 µg/kg/hora, continuándola hasta completar
+totalmente el periodo de 96 horas recomendado para la administración de la dosis. No es necesario
+realizar escalado de la dosis o administrar dosis en bolo de Xigris cuando se interrumpa la perfusión.
+ En pacientes adultos con sepsis grave no es necesario el ajuste de la dosis, en función de la edad, el
+sexo, la función hepática (medida por los niveles de transaminasas) o la función renal o co-
+administración de heparina profiláctica. No se ha estudiado la farmacocinética de la drotrecogina alfa
+(activada) en pacientes adultos con sepsis grave y enfermedad renal en fase terminal y hepatopatía
+crónica pre-existentes.
+                                                     2
+FT/PP/ET161204-C
+ Pediatría: Los datos de un ensayo clínico controlado con placebo, que fue interrumpido por futilidad
+después de que 477 pacientes de edades entre 0 y 17 años hubieran recibido el tratamiento del estudio,
+no mostraron eficacia de Xigris en pacientes pediátricos y mostraron una mayor frecuencia de
+hemorragias a nivel del sistema nervioso central en el grupo de Xigris frente al de placebo. Por lo
+tanto, no se puede hacer una recomendación de dosis y el uso de Xigris no está recomendado en niños
+con edades por debajo de 18 años (ver apartado 4.4).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo, a alguno de los excipientes o a trombina bovina (residuo traza en
+el proceso de fabricación).
+ Como la drotrecogina alfa (activada) puede aumentar el riesgo de hemorragias, Xigris está
+contraindicado en los siguientes casos:
+ ·     Hemorragia interna activa
+·     Pacientes con patología intracraneal; neoplasias o evidencia de hernia cerebral
+·     Tratamiento concomitante con heparina  15 Unidades Internacionales/kg/hora
+·     Diátesis hemorrágica conocida excepto la coagulopatía aguda relacionada con la sepsis
+·     Enfermedad hepática crónica grave
+Recuento plaquetario < 30.000 x 106/l, incluso si el recuento plaquetario aumenta tras
+·
+transfusiones
+·     Pacientes con riesgo incrementado de sangrado (por ejemplo):
+a)      Sometidos a cirugía mayor, definida como intervención quirúrgica que requiera
+anestesia general o espinal, realizada en las 12 horas inmediatamente anteriores a la
+administración del medicamento, o cualquier paciente postoperatorio que muestre
+evidencia de hemorragia activa, o cualquier paciente que vaya a ser sometido a un
+cirugía planificada o anticipada durante el periodo de administración del medicamento
+b)      Historia de traumatismo craneoencefálico grave que haya requirido hospitalización,
+cirugía intracraneal o intramedular, o ictus hemorrágico en los 3 meses anteriores, o
+cualquier historial de malformación arteriovenosa intracerebral, aneurisma cerebral o
+hallazgo de masas a nivel de sistema nervioso central; pacientes con catéter epidural o a
+los que se les vaya a colocar un catéter epidural durante la perfusión del medicamento
+c)      Historial de diátesis hemorrágica congénita
+d)      Hemorragia gastrointestinal en las últimas 6 semanas que haya requerido intervención
+médica a menos que se haya llevado a cabo una intervención quirúrgica definitiva
+e)      Pacientes con traumatismos con riesgo incrementado de hemorragia
+ 4.4   Advertencias y precauciones especiales de empleo
+ Pacientes con un sólo fallo orgánico y cirugía reciente
+Xigris no está aprobado para el tratamiento de pacientes con un sólo fallo orgánico y no debe ser
+utilizado en este subgrupo particular de pacientes, especialmente si han sido sometidos recientemente a
+cirugía (en los últimos 30 días). En cada uno de los dos ensayos clínicos aleatorizados, controlados
+con placebo, PROWESS y ADDRESS (ver apartado 5.1), la mortalidad a los 28 días y mortalidad
+hospitalaria fueron mayores en pacientes tratados con drotrecogina alfa (activada) que en aquéllos
+tratados con placebo, para la subpoblación de pacientes con un sólo fallo orgánico y cirugía reciente
+(n=98 en PROWESS y n=636 en ADDRESS).
+ Hemorragias
+La drotrecogina alfa (activada) aumenta el riesgo de sangrado. En las siguientes situaciones se debe
+valorar el riesgo de administrar Xigris frente a los posibles beneficios:
+                                                    3
+FT/PP/ET161204-C
+ ·     Administración reciente (en los últimos 3 días) de tratamiento trombolítico.
+·     Administración reciente (en los últimos 7 días) de anticoagulantes orales
+·     Administración reciente (en los últimos 7 días) de aspirina o cualquier otro inhibidor
+plaquetario.
+·     Ictus isquémico reciente (en los últimos 3 meses).
+·     Cualquier otra situación en la que el médico considere que es probable un sangrado
+significativo.
+ En intervenciones con riesgo inherente de hemorragia se debe suspender la administración de Xigris 2
+horas antes del comienzo de la intervención. Se puede reiniciar la administración de Xigris 12 horas
+después de cirugía o procedimientos invasivos mayores, si se ha logrado una hemostasia adecuada. La
+incidencia de episodios de hemorragia grave con Xigris fue mayor en pacientes con cirugía reciente
+(en los 30 días previos) que en pacientes ""médicos"" sin cirugía (ver apartado 4.8). Se debe tener en
+cuenta el riesgo de hemorragia cuando se evalúe el beneficio/riesgo en pacientes individuales. Se
+puede volver a administrar Xigris inmediatamente después de procedimientos menos invasivos y no
+complicados si se ha alcanzado una hemostasia adecuada.
+ Como parte de los cuidados habituales, durante la perfusión de Xigris se deben hacer medidas de
+parámetros de hemostasia (p. ej. tiempo de tromboplastina parcial activado (TTPA), tiempo de
+protrombina (TP) y recuento de plaquetas). Si las pruebas secuenciales de hemostasia indican que la
+coagulopatía empeora o no está controlada, aumentando significativamente el riesgo de sangrado, se
+debe valorar el beneficio de continuar con la perfusión frente al potencial aumento del riesgo de
+sangrado en ese paciente.
+ Pruebas de laboratorio
+La drotrecogina alfa (activada) tiene efectos mínimos sobre el TP. La prolongación del TTPA en
+pacientes con sepsis grave tratados con Xigris se puede deber a la coagulopatía subyacente, al efecto
+farmacodinámico de la drotrecogina alfa (activada) y/o al efecto de con otros medicamentos administrados
+de forma concomitante. El efecto farmacodinámico de la drotrecogina alfa (activada) sobre las
+determinaciones del TTPA depende del reactivo e instrumento utilizado para realizar el ensayo y del
+tiempo transcurrido entre la toma de la muestra y la realización de la determinación. La drotrecogina
+alfa (activada) que está presente en una muestra de sangre o plasma extraída de un paciente que está
+siendo perfundido con el medicamento será neutralizada de forma gradual por inhibidores de la
+proteasa plasmática endógenos presentes en la muestra. A las dos horas de recoger la muestra de
+sangre prácticamente no hay actividad medible de drotrecogina alfa (activada). A causa de esta
+variabilidad biológica y analítica, no se debe utilizar el TTPA para valorar el efecto farmacodinámico
+de la drotrecogina alfa (activada). Además, aproximadamente dos horas después de concluir la
+perfusión del medicamento, prácticamente no hay actividad medible de drotrecogina alfa (activada) en
+el torrente circulatorio del paciente; a partir de este momento, las muestras de sangre obtenidas para la
+determinación del TTPA no se ven afectadas por el medicamento. Se deben tener en cuenta estas
+variables cuando se interpreten determinaciones secuenciales del TP y/o del TTPA.
+ Como la drotrecogina alfa (activada) puede afectar a las pruebas de TTPA, la drotrecogina alfa
+(activada) presente en las muestras de plasma puede interferir en las pruebas de coagulación de una
+fase basadas en el TTPA (tales como las pruebas del factor VIII, IX y XI). La drotrecogina alfa
+(activada) presente en las muestras de plasma no interfiere con las pruebas de factores de una fase
+basadas en el TP (tales como las de los factores II, V, VII y X).
+ Si las pruebas secuenciales de coagulopatía (incluyendo el recuento plaquetario) indican que dicha
+coagulopatía es grave o está empeorando, debe valorarse el riesgo de continuar la perfusión frente al
+beneficio esperado.
+ Immunogenicidad
+                                                     4
+FT/PP/ET161204-C
+ En pacientes con sepsis grave, la formación de anticuerpos antiproteína C activada fue poco frecuente
+(< 1%) después de un ciclo único de tratamiento. Estos anticuerpos no fueron capaces de neutralizar el
+efecto de la proteína C activada en la prueba de TTPA. Sin embargo, no se puede descartar
+completamente la posibilidad de reacciones alérgicas a componentes del preparado en ciertos pacientes
+predispuestos. Si ocurrieran reacciones anafilácticas o alérgicas, se debe suspender el tratamiento
+inmediatamente e instaurar el tratamiento adecuado. No se ha readministrado Xigris a pacientes con
+sepsis grave. Se debe tener precaución con la readministración de Xigris a pacientes. En sujetos sanos
+no se ha detectado la formación de anticuerpos antiproteína C activada, incluso tras la administración
+repetida.
+ Pacientes pediátricos
+Xigris no está recomendado para uso en niños menores de 18 años, y por tanto, no debe ser usado en
+niños.
+Los datos de un ensayo clínico controlado con placebo no establecieron la eficacia de Xigris en
+pacientes pediátricos con sepsis grave, infección aguda, inflamación sistémica y disfunción orgánica
+cardiovascular y respiratoria. Este ensayo fue interrumpido por futilidad después de que 477 pacientes
+hubieran recibido la medicación en estudio (de 600 pacientes planificados).
+El análisis intermedio planificado (con 400 pacientes incluidos) mostró una baja probabilidad de
+demostrar una diferencia significativa en la variable principal de eficacia ""Tiempo Combinado hasta la
+Resolución del Fallo Orgánico Completa"" (Puntuación TCRFOC de 9,8 frente a 9,7 días de media en
+un período de 14 días). Tampoco hubo diferencia en la mortalidad a los 28 días (17,1% frente a 17,3%
+en los grupos de Xigris y placebo, respectivamente).
+Los investigadores atribuyeron 2 muertes en el grupo de Xigris y 5 muertes en el grupo de placebo a
+episodios hemorrágicos. Hubo una mayor frecuencia de hemorragias a nivel del sistema nervioso
+central (SNC) en el grupo de drotrecogina alfa (activada) frente al de placebo. Durante el período de
+infusión (días 0-6 del estudio), el número de pacientes que experimentaron hemorragias a nivel del
+SNC fue de 5 frente a 1 (2,1% frente a 0,4%) para la población global (drotrecogina alfa (activada)
+frente a placebo), donde 4 de los 5 eventos en el grupo de drotrecogina alfa (activada) ocurrieron en
+pacientes de < 60 días de edad o < 3,5 kg de peso corporal. Los episodios fatales de hemorragia a nivel
+del SNC , los episodios de sangrado graves (durante el período de infusión y durante el período de
+estudio de 28 días), los acontecimientos adversos graves y las amputaciones graves fueron similares en
+los grupos de drotrecogina alfa (activada) y placebo.
+ Este medicamento contiene aproximadamente 68 mg de sodio por vial, lo que debe ser tenido en
+cuenta en pacientes don dietas pobres en sodio.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Se debe tener cuidado cuando se utilice Xigris con con otros medicamentos que afecten a la hemostasia
+(ver secciones 4.3 y 4.4), incluyendo Proteína C, trombolíticos (por ejemplo estreptoquinasa, tPA, rPA
+y uroquinasa), anticoagulantes orales (por ejemplo warfarina), hirudinas, antitrombina, aspirina y otros
+agentes antiplaquetarios, por ejemplo medicamentos antiinflamatorios no esteroideos, ticlopidina y
+clopidogrel, antagonistas de glicoproteina IIb/IIIa (como abciximab, eptifibatida, tirofiban) y
+prostaciclinas como iloprost.
+ Co-administración de dosis bajas de heparina para profilaxis de eventos trombóticos venosos (ETV).
+La heparina a dosis bajas para profilaxis de ETV puede ser co-administrada con drotrecogina alfa
+activada. En un ensayo aleatorizado de heparina frente a placebo (XPRESS) en 1935 pacientes adultos
+con sepsis grave, todos tratados con drotrecogina alfa activada, la heparina profiláctica no afectó de
+forma adversa a la mortalidad (heparina 28,3% frente placebo 31,9% en la población global por
+intención de tratar (ITT), y heparina 30,3% versus placebo 26,9% en pacientes con disfunción
+orgánica múltiple tratados dentro de las 24 horas siguientes a la aparición de su primera disfunción
+orgánica inducida por la sepsis (n=890)). En el subgrupo de 885 pacientes que ya estaban recibiendo
+heparina profiláctica cuando entraron en el ensayo, la mortalidad fue de 26,9% en el grupo
+                                                    5
+FT/PP/ET161204-C
+ aleatorizado a continuar con heparina frente al 35,6% en el grupo cuya aleatorización (a placebo)
+condujo a la suspensión de la heparina. Sin embargo, las razones que justifican esta diferencia no se
+conocen y podrían estar relacionadas con otros factores. Adicionalmente no hubo un riesgo
+incrementado de hemorragia grave, incluyendo hemorragia a nivel del sistema nervioso central (SNC).
+La heparina profiláctica incrementó el riesgo de hemorragia no grave (ver apartado 4.8).
+No hubo diferencia estadística en las frecuencias de ETV entre los grupos del ensayo.
+ 4.6   Embarazo y lactancia
+ No se han realizado estudios en animales sobre los efectos en el embarazo, desarrollo embrio-fetal,
+parto y desarrollo postnatal con Xigris. Por tanto, se desconoce el riesgo potencial en humanos. Xigris
+no se debe administrar durante el embarazo a menos que sea claramente necesario.
+ No se sabe si Xigris se excreta en la leche materna o si tiene algún efecto potencial sobre el lactante.
+Por lo tanto, la paciente no debe dar el pecho cuando esté en tratamiento con Xigris.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No procede.
+ 4.8   Reacciones adversas
+ Xigris aumenta el riesgo de hemorragias.
+ El ensayo clínico Fase 3, internacional, multicéntrico, aleatorizado, doble ciego, controlado frente a
+placebo (PROWESS) incluyó 850 pacientes tratados con drotrecogina alfa (activada) y 840 pacientes
+tratados con placebo. El porcentaje de pacientes que experimentaron al menos un episodio de sangrado
+en los dos grupos de tratamiento fue de 24,9% para los tratados con drotrecogina alfa (activada) y de
+17,7% para los tratados con placebo. En ambos grupos de tratamiento, la mayor parte de los episodios
+de sangrado correspondieron a equimosis o sangrado del tracto gastrointestinal. La diferencia en la
+incidencia de episodios de sangrado graves entre los dos grupos de tratamiento se produjo
+principalmente durante la administración del medicamento en estudio.
+ Un total de 2378 pacientes adultos con sepsis grave recibieron drotrecogina alfa (activada) en un
+ensayo clínico en Fase 3b, internacional, con un único brazo y abierto (ENHANCE).
+ La incidencia de episodios graves de sangrado en los ensayos PROWESS y ENHANCE se incluye a
+continuación. En estos ensayos los episodios graves de sangrado incluyeron cualquier hemorragia
+intracraneal, cualquier sangrado que sea amenazante para la vida o fatal, cualquier episodio de
+sangrado que requiriera de la administración diaria de  3 unidades de concentrados de hematíes
+durante dos días consecutivos, o cualquier episodio de sangrado valorado como grave por el
+investigador.
+ Un ensayo clínico Fase 3b (ADDRESS), internacional, multicéntrico, aleatorizado, doble ciego,
+controlado con placebo en pacientes adultos con sepsis grave con bajo riesgo de muerte, incluyó 1317
+pacientes tratados con drotrecogina alfa (activada) y 1293 pacientes tratados con placebo. El
+porcentaje de pacientes que experimentaron al menos un episodio de sangrado en los dos grupos de
+tratamiento fue del 10,9% y del 6,4%, respectivamente (p<0,001). Los episodios de sangrado
+incluyeron episodios de sangrado graves, episodios de sangrado interpretados por el investigador
+como posiblemente relacionados con la medicación objeto del estudio, episodios de sangrado
+asociados con la necesidad de una transfusión de hematíes, y episodios de sangrado que dieron lugar a
+una suspensión permanente de la medicación objeto del estudio. En el ensayo ADDRESS, los
+episodios graves de sangrado incluyeron cualquier hemorragia fatal, cualquier sangrado que supusiera
+una amenaza para la vida, cualquier hemorragia a nivel del SNC, o cualquier episodio de sangrado
+considerado grave por el investigador.
+                                                     6
+FT/PP/ET161204-C
+ Episodios hemorrágicos graves durante el período de perfusión
+La siguiente tabla refleja el porcentaje de pacientes en PROWESS y ENHANCE que experimentaron
+episodios hemorrágicos graves según la localización de la hemorragia durante el período de perfusión
+del medicamento en estudio (definido como la duración de la perfusión más el día completo posterior
+al fin de la perfusión).
+ Localización de la             (activada)                                                  (activada)
+hemorragia               [PROWESS] N=850                                            [ENHANCE] N=2378
+Gastrointestinal                                                 4(0,5%)                      19 (0,8%)
+Intraabdominal                      2 (0,2%)                     3 (0,4%)                     18 (0,8%)
+Intratorácica                       4 (0,5%)                         0                        11 (0,5%)
+Retroperitoneal                     3 (0,4%)                         0                         4 (0,2%)
+Sistema nervioso
+central (SNC) 1
+Genitourinaria                      2 (0,2%)                         0                             0
+Piel/tejidos blandos                1 (0,1%)                         0                        16 (0,7%)
+Nasofaríngea                            0                            0                         4 (0,2%)
+Articulaciones/Huesos                   0                            0                        1 (0,04%)
+Lugar desconocido2                 1 (0,1%)                      1 (0,1%)                      6 (0,3%)
+Total                              20 (2,4%)                     8 (1,0%)
+1
+Se define hemorragia a nivel del SNC como cualquier hermorragia a ese nivel, incluyendo los siguientes tipos de
+hemorragia: petequial, parenquimal, subaracnoídea, subdural e ictus con transformación hemorrágica.
+2
+Pacientes que requirieron la administración de  3 unidades de concentrados de hematíes durante dos días consecutivos
+con lugar de hemorragia sin identificar.
+3
+En el estudio ENHANCE seis pacientes padecieron múltiples episodios hemorrágicos graves durante el
+período de estudio de la perfusión del medicamento (94 episodios observados en 85 pacientes).
+ Durante el período de perfusión en PROWESS y ENHANCE la incidencia de episodios hemorrágicos
+graves con Xigris fue numéricamente más alto en pacientes con cirugía reciente (en los 30 días
+previos) que en pacientes sin cirugía (PROWESS: 3,3% vs. 2,0%; ENHANCE: 5,0% vs. 3,1%
+respectivamente. Los porcentajes de placebo en PROWESS 0,4% vs. 1,2%, respectivamente).
+ En ADDRESS, el porcentaje de pacientes tratados que presentaron episodios hemorrágicos graves
+para cada lugar de hemorragia, fue similar al observado en PROWESS. La incidencia de episodios
+hemorrágicos de sangrado durante la perfusión (desde el Día 0 del estudio hasta el Día 6) fue de 31
+(2,4%) y de 15 (1,2%) en pacientes tratados con drotrecogina alfa (activada) y con placebo,
+respectivamente (p=0,02). La incidencia de hemorragia a nivel del SNC durante la perfusión fue de 4
+(0,3%) y 3 (0,2%) para pacientes tratados con drotrecogina alfa (activada) y con placebo,
+respectivamente. La cirugía reciente (dentro de los 30 días previos a la incorporación en el estudio) se
+asoció con un riesgo de hemorragia grave numéricamente más alto durante la perfusión, tanto en los
+pacientes tratados con Xigris, como en los tratados con placebo (Xigris: 3,6% en pacientes con cirugía
+reciente, frente a 1,6% en pacientes sin cirugía reciente; placebo: 1,6% frente a 0,9%,
+respectivamente).
+ En XPRESS, un estudio aleatorizado de heparina profiláctica versus placebo en pacientes adultos con
+sepsis grave, todos tratados con drotrecogina alfa activada, la incidencia de hemorragias graves fue
+consistente con la observada en ensayos previos durante el período de tratamiento de 0-6 días, y la
+heparina profiláctica no aumentó el riesgo de hemorragia grave comparada con placebo (2,3% vs.
+2,5%, respectivamente), incluyendo hemorragia del SNC (0,3% en ambos grupos). Sin embargo, la
+                                                             7
+FT/PP/ET161204-C
+ heparina profiláctica aumentó el riesgo de hemorragia no grave en comparación con placebo (8,7% vs.
+5,7%, respectivamente; p=0,0116).
+ Episodios hemorrágicos graves durante el período de estudio de 28 días.
+En el estudio PROWESS la incidencia de episodios hemorrágicos graves durante el período de estudio
+de 28 días fue del 3,5% para los pacientes tratados con drotrecogina alfa (activada) y del 2,0% para los
+pacientes tratados con placebo. La incidencia de hemorragias a nivel del SNC durante el período de
+estudio de 28 días fue de 0,2% y 0,1%, para los pacientes tratados con drotrecogina alfa (activada) y
+los tratados con placebo, respectivamente. El riesgo de sangrados en el SNC puede aumentar si se
+padece coagulopatía grave y trombocitopenia grave (ver secciones 4.3 y 4.4).
+ En el ensayo abierto ENHANCE, la incidencia de episodios hemorrágicos graves durante el período
+de estudio de 28 días fue de 6,5%, y la incidencia de hemorragias a nivel del SNC durante el período
+de estudio de 28 días fue de 1,5%
+ En el ensayo ADDRESS controlado con placebo, la incidencia de episodios hemorrágicos graves
+durante el período de 28 días de estudio fue de 51 (3,9%) y de 28 (2,2%) para los pacientes tratados
+con drotrecogina alfa (activada) y los tratados con placebo, respectivamente (p=0,01). La incidencia de
+hemorragias a nivel del SNC durante el período de 28 días de estudio fue de 6 (0,5%) y de 5 (0,4%)
+para los pacientes tratados con drotrecogina alfa (activada) y los tratados con placebo,
+respectivamente.
+ En XPRESS, las incidencias de hemorragia grave fueron consistentes con aquellas observadas en
+ensayos previos durante el período de 28 días de estudio (días 0-28). La heparina profiláctica no
+aumentó el riesgo de hemorragia grave comparada con placebo (3,9% vs. 5,2%, respectivamente),
+incluyendo hemorragia del SNC (1,0% vs. 0,7%, respectivamente).
+ En los ensayos Fase 1, se comunicaron acontecimientos adversos con una frecuencia  5% que
+consistieron en dolor de cabeza (30,9%), equimosis (23,0%) y dolor (5,8%).
+ 4.9    Sobredosis
+ En los ensayos clínicos se ha informado de un caso de sobredosis de drotrecogina alfa (activada). Este
+paciente, con sepsis grave, recibió una dosis de 181 µg/kg/hora durante dos horas. No se produjeron
+reacciones adversas graves asociadas a la sobredosis.
+ Experiencia post-comercialización: Se han notificado casos de sobredosis accidental. En la mayoría de
+los casos no se han observado reacciones adversas. En los casos restantes, los acontecimientos
+observados fueron consistentes con las reacciones adversas conocidas del medicamento (ver apartado
+4.8), con los efectos del medicamento sobre las pruebas de laboratorio (ver apartado 4.4), o
+consecuencia de la presencia de un cuadro de sepsis subyacente.
+ No se conoce antídoto para la drotrecogina alfa (activada). En caso de sobredosis se debe interrumpir
+inmediatamente la perfusión (ver apartado 5.2).
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1.   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico:agentes antitrombóticos, enzimas. Código ATC: B01AD10.
+ Este medicamento se ha autorizado en ""Circunstancias excepcionales"". Esta modalidad de aprobación
+significa que por motivos científicos, no ha sido posible obtener una información completa de este
+medicamento. La Agencia Europea del Medicamento (EMEA) revisará anualmente la información
+ FT/PP/ET161204-C
+ nueva del medicamento que pueda estar disponible y esta Ficha Técnica o Resumen de las
+Características del Producto (RCP) se actualizará cuando sea necesario.
+ Mecanismo de acción
+Xigris es una versión recombinante de la Proteína C natural activada derivada del plasma, de la que
+solamente difiere en oligosacáridos específicos de la porción carbohidratada de la molécula.
+La proteína C activada es un regulador crucial de la coagulación. Limita la formación de trombina por
+inactivación de los factores Va y VIIIa, y de ese modo regula la coagulación por retroalimentación
+negativa. La activación excesiva de la coagulación en el lecho microcirculatorio desempeña un papel
+importante en la fisiopatología de la sepsis grave. Además, la proteína C activada es un importante
+modulador de la respuesta sistémica a la infección y tiene propiedades antitrombóticas y
+profibrinolíticas. Xigris tiene propiedades similares a la Proteína C Activada endógena humana.
+ Efectos farmacodinámicos
+En ensayos clínicos controlados con placebo en pacientes con sepsis grave, Xigris ejerció un efecto
+antitrombótico por limitación de la generación de trombina y mejoró la coagulopatía asociada a la
+sepsis, como se mostró por una mejora más rápida en los marcadores de la coagulación y la
+fibrinolisis. Xigris provocó un descenso más rápido de los marcadores de trombosis como el dímero-
+D, protrombina F1.2 y niveles de trombina-antitrombina, y un incremento más rápido de los niveles de
+Proteína C y antitrombina. Xigris también restableció el potencial fibrinolítico endógeno, evidenciado
+por una tendencia más rápida a la normalización de los niveles de plasminógeno y un descenso más
+rápido en los niveles del inhibidor del activador del plasminógeno-1. Adicionalmente, pacientes con
+sepsis grave tratados con Xigris tuvieron un descenso más rápido de los niveles de interleuquina-6, un
+marcador global de la inflamación, consistente con la reducción de la respuesta inflamatoria.
+ Eficacia clínica
+Xigris fue estudiado en un ensayo en Fase 3 internacional, multicéntrico, aleatorizado, doble ciego,
+controlado con placebo (PROWESS) en 1.690 pacientes con sepsis grave. La sepsis grave se define
+como sepsis asociada con disfunción orgánica aguda. Los pacientes con diagnostico clínico de sepsis
+grave tenían a) infección conocida o sospechada, b) evidencia clínica de respuesta sistémica a la
+infección incluyendo fiebre o hipotermia, leucopenia o leucocitosis, taquicardia y taquipnea, y c)
+disfunción orgánica aguda. La disfunción orgánica se definió como shock, hipotensión o necesidad de
+vasopresores a pesar de resucitación adecuada con fluidos, hipoxemia relativa (relación entre la
+presión parcial de oxígeno en sangre arterial en mm de Hg y el porcentaje de oxígeno en aire inspirado
+expresado en decimales (relación PaO2/FiO2) < 250), oliguria a pesar de resucitación adecuada con
+fluidos, reducción marcada en recuento de plaquetas y/o elevación de las concentraciones de ácido
+láctico.
+ Los criterios de exclusión incluían a pacientes con alto riesgo de sangrado (ver secciones 4.3 y
+4.4), pacientes que no se esperaba que sobrevivieran en los 28 días debido a una situación médica
+preexistente no relacionada con la sepsis, pacientes VIH positivos con un recuento de CD4
+50/mm3, pacientes sometidos a diálisis crónica, y pacientes que hayan sido sometidos a un
+trasplante de médula, de pulmón, páncreas o intestino delgado y pacientes con pancreatitis
+clínica aguda sin foco probado de infección.
+ En el ensayo PROWESS, el tratamiento se inició dentro de las 48 horas del comienzo de la primera
+disfunción orgánica inducida por la sepsis. La duración media de la disfunción orgánica previa al
+tratamiento fue de 18 horas.
+A los pacientes se les administró una perfusión continua de 24 µg/kg/hora (n=850) de Xigris o placebo
+(n=840) durante 96 horas. Xigris se añadió a la terapia de referencia (best standard care). La terapia
+de referencia incluye antibióticos adecuados, control del foco de infección y tratamiento de soporte
+(fluidos, inotrópicos, vasopresores y tratamiento de apoyo de los fallos orgánicos, según se precise).
+ FT/PP/ET161204-C
+ Los pacientes tratados con Xigris experimentaron una mejoría en la supervivencia a los 28 días
+comparado con aquéllos tratados con placebo. A los 28 días, la tasa de mortalidad global fue del
+24,7% para el grupo tratado con Xigris y del 30,8% para el grupo tratado con placebo (p=0,005).
+ La reducción significativa en la tasa de mortalidad absoluta se limitó al subgrupo de pacientes con una
+enfermedad más grave, es decir con una puntuación APACHE II basal 25, o al menos 2 disfunciones
+orgánicas agudas basales. (El sistema de puntuación APACHE II está diseñado para determinar el
+riesgo de mortalidad en función de la evaluación de la fisiología aguda y del estado de salud crónico).
+En el subgrupo de pacientes con una puntuación APACHE II basal 25, la mortalidad fue del 31% en
+el grupo tratado con Xigris (128 de 414) y del 44% en el grupo tratado con placebo (176 de 403). No
+se observó una reducción en la mortalidad en el subgrupo de pacientes con una enfermedad menos
+grave. En el subgrupo de pacientes con al menos 2 disfunciones orgánicas agudas en el basal, la
+mortalidad fue del 26,5% en el grupo tratado con Xigris (168 de 634), y del 33,9% en el grupo tratado
+con placebo (216 de 637). En el subgrupo de pacientes con menos de dos disfunciones orgánicas
+agudas en el basal, no se observó una reducción significativa en la mortalidad.
+ Se observó un efecto consistente del tratamiento sobre la mortalidad tras la administración de Xigris a
+través de subgrupos definidos según edad, sexo y tipo de infección.
+ Ensayo de seguimiento del PROWESS
+Se evaluó la supervivencia en un ensayo de seguimiento llevado a cabo con los supervivientes del
+estudio PROWESS. De los 1690 pacientes del estudio PROWESS, se comunicó la situación de
+supervivencia hospitalaria para el 98% de los pacientes y la supervivencia a los 3 meses para el 94%
+de los pacientes. En el total de la población, la mortalidad hospitalaria fue significativamente inferior
+en pacientes tratados con Xigris que en los pacientes del grupo tratado con placebo (29,4% vs. 34,6%;
+p=0,023). La supervivencia a los 3 meses fue también mejor en el grupo tratado con Xigris
+comparado con el grupo tratado con placebo (prueba de log rank, p=0,048). Estos datos confirmaron
+que el beneficio obtenido con Xigris se limita a los pacientes con sepsis más gravemente afectados,
+como es el caso de pacientes con fallo multiorgánico y shock.
+ Experiencia clínica adicional:
+En un ensayo clínico en Fase 3b, internacional, de brazo único, abierto (ENHANCE), 2378 pacientes
+adultos con sepsis grave fueron tratados con drotrecogina alfa (activada). Los criterios de inclusión en
+el ensayo fueron similares a los empleados en el estudio PROWESS. Los pacientes recibieron
+drotrecogina alfa (activada) dentro de las 48 horas tras la aparición de la primera disfunción orgánica
+inducida por la sepsis. La duración media de la disfunción orgánica anterior al tratamiento fue de 25
+horas. A los 28 días, la tasa de mortalidad en el ensayo en Fase 3b fue de 25,3%. La tasa de mortalidad
+fue inferior en pacientes tratados dentro de las 24 horas de la disfunción orgánica, comparada con la de
+los pacientes tratados después de las 24 horas, incluso tras realizar ajustes por diferencias en la
+gravedad de la enfermedad.
+ Un total de 2640 pacientes adultos con sepsis grave con bajo riesgo de muerte (p. ej. pacientes con
+APACHE II<25 o con un sólo fallo orgánico inducido por la sepsis) fueron registrados en un ensayo
+aleatorizado, doble ciego y controlado con placebo (ADDRESS). El ensayo fue interrumpido tras un
+análisis intermedio debido a la baja probabilidad de demostrar una diferencia significativa en la
+mortalidad a los 28 días, al final del ensayo.
+En el estudio ADDRESS se registraron 872 pacientes con disfunción orgánica múltiple. En
+comparación con los pacientes con disfunción orgánica múltiple del PROWESS, aquéllos registrados
+en el ADDRESS, presentaban disfunción orgánica durante un período de tiempo más largo antes de
+recibir la medicación objeto del estudio (mediana de 25 vs 18 horas), obtuvieron menor puntuación
+APACHE II (mediana 20 vs. 25), y tenían mayor probabilidad de presentar dos disfunciones orgánicas
+(76% vs. 43%). A los 28 días, las tasas de mortalidad en pacientes con disfunción orgánica múltiple en
+ADDRESS fueron de 20,7% frente a 21,9% para pacientes tratados drotrecogina alfa (activada) y con
+placebo, respectivamente. Las tasas de mortalidad hospitalaria fueron de 23,1% y de 25,3%,
+                                                    10
+FT/PP/ET161204-C
+ respectivamente. En el subgrupo con dos disfunciones orgánicas, los resultados fueron similares a
+aquellos observados en el ensayo PROWESS.
+ En ensayos clínicos controlados con placebo, el efecto del tratamiento fue más evidente en centros que
+reclutaban un mayor número de pacientes.
+ 5.2   Propiedades farmacocinéticas
+ Drotrecogina alfa (activada) y la proteína C activada humana endógena son inactivadas en plasma por
+inhibidores endógenos de la proteasa, pero el mecanismo por el que se aclaran del plasma es
+desconocido. Las concentraciones plasmáticas de proteína C activada endógena en individuos sanos y
+pacientes con sepsis grave están normalmente por debajo de los límites de detección (< 5 ng/ml) y no
+influyen significativamente en las propiedades farmacocinéticas de la drotrecogina alfa (activada).
+ En individuos sanos, más del 90% de las condiciones del estado de equilibrio se alcanzan en las dos
+horas siguientes al comienzo de una perfusión intravenosa continua de Xigris. Siguiendo a la
+finalización de la perfusión, el descenso en plasma de las concentraciones de drotrecogina alfa
+(activada) es bifásico y se compone de una fase rápida inicial (t1/2 =13 minutos) y una segunda fase
+más lenta (t1/2=1,6 horas). La corta vida media de 13 minutos representa aproximadamente el 80% del
+área bajo la curva de la concentración de plasma y es responsable de la rápida acumulación inicial de
+las concentraciones de la drotrecogina alfa (activada) plasmáticas hacia el estado estacionario. Las
+concentraciones en plasma de drotrecogina alfa (activada) en el estado estacionario son proporcionales
+a la velocidad de perfusión dentro de unos rangos de perfusión entre 12 µg/kg/hora y 48 µg/kg/hora.
+La concentración plasmática media de drotrecogina alfa (activada) en el estado estacionario en sujetos
+sanos que recibieron 24 µg/kg/hora fue de 72 ng/ml.
+ En pacientes con sepsis grave, la perfusión de la drotrecogina alfa (activada) entre 12 µg/kg/hora y
+30 µg/kg/hora produjo rápidamente concentraciones plasmáticas en estado estacionario que eran
+proporcionales a la velocidad de perfusión. En el ensayo en Fase 3, la farmacocinética de la
+drotrecogina alfa (activada) se evaluó en 342 pacientes con sepsis grave a los que se administró una
+perfusión continua de 24 µg/kg/hora durante 96 horas. La farmacocinética de la drotrecogina alfa
+(activada) se caracterizó por alcanzar una concentración plasmática en estado estacionario en las dos
+horas siguientes al comienzo de la perfusión. En la mayoría de los pacientes, las determinaciones de
+proteína C activada estaban por debajo del límite de detección a las dos horas de haber finalizado la
+perfusión, sugiriendo la rápida eliminación de la drotrecogina alfa (activada) de la circulación
+sistémica. El aclaramiento plasmático de la drotrecogina alfa (activada) fue aproximadamente de
+41,8 l/hora en pacientes con sepsis, en comparación con 28,1 l/hora en sujetos sanos.
+ En pacientes con sepsis grave, el aclaramiento plasmático de la drotrecogina alfa (activada) estaba
+significativamente disminuido por la alteración renal o hepática, si bien la magnitud de tales diferencias
+(< 30%) no justifican un ajuste en la dosis.
+ 5.3   Datos preclínicos sobre seguridad
+ Durante estudios a dosis repetidas, los cambios observados en monos con una exposición equivalente
+o que supera ligeramente la exposición máxima en humanos, estuvieron todos relacionados con el
+efecto farmacológico de Xigris e incluyeron la prolongación esperada del TTPA, descensos en la
+hemoglobina, eritrocitos y hematocrito, e incrementos en el recuento de reticulocitos y del TP.
+ La drotrecogina alfa (activada) no presentó mutagenicidad en un estudio in vivo de micronúcleos en
+ratones o en un estudio de aberraciones cromosómicas in vitro en linfocitos de sangre periférica
+humana con o sin activación metabólica en hígado de rata.
+ FT/PP/ET161204-C
+ No se han llevado a cabo estudios de carcinogénesis o estudios de reproducción en animales con
+Xigris. Sin embargo, con respecto a esto último y dado que el riesgo potencial en humanos es
+desconocido, Xigris no debe ser administrado durante el embarazo a menos que sea claramente
+necesario (ver apartado 4.6).
+ "
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Sacarosa,
+Cloruro de sodio,
+Citrato de sodio,
+Ácido cítrico,
+Ácido clorhídrico,
+Hidróxido de sodio.
+ 6.2   Incompatibilidades
+ Este medicamento no debe mezclarse con otros excepto con los mencionados en la sección 6.6.
+ 6.3   Periodo de validez
+ 3 años.
+ Una vez reconstituido se recomienda utilizar inmediatamente. Sin embargo, la solución reconstituida
+en el vial se puede conservar hasta 3 horas a temperatura ambiente (15ºC­30ºC).
+Una vez preparada, la solución para perfusión intravenosa se puede utilizar a temperatura ambiente
+(15ºC­30ºC) durante un periodo de hasta 14 horas.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2°C y 8°C). Conservar el vial en el envase exterior para protegerlo de la
+luz.
+ 6.5   Naturaleza y contenido del envase
+ Polvo en vial de vidrio tipo I. Envase con 1 vial.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ 1.    Utilice un método aséptico adecuado durante la preparación de Xigris para administración
+intravenosa.
+ 2.    Calcule la dosis y el número de viales de Xigris necesarios.
+       Cada vial de Xigris contiene 20 mg de drotrecogina alfa (activada).
+       El vial contiene un exceso de drotrecogina alfa (activada) para facilitar la obtención de la
+cantidad indicada en el envase.
+ 3.    Antes de la administración, los viales de 20 mg de Xigris se deben reconstituir con 10 ml de
+agua para preparaciones inyectables estéril ; la solución resultante tiene una concentración de
+aproximadamente 2 mg/ml de drotrecogina alfa (activada).
+                                                      12
+FT/PP/ET161204-C
+ El agua para preparaciones inyectables estéril se debe añadir despacio en el vial, evitando
+invertir o agitar el vial. Hacer girar suavemente cada vial hasta que el polvo se disuelva por
+completo.
+ 4.    La solución reconstituida con Xigris se debe diluir posteriormente suero salino estéril al 0,9%
+hasta una concentración final que habitualmente estará entre 100 µg/ml y 200 µg/ml. Extraer
+lentamente del vial la cantidad apropiada de solución reconstituida de drotrecogina alfa
+(activada). Añadir la drotrecogina alfa (activada) reconstituida a una bolsa preparada de
+perfusión de suero salino estéril al 0,9%. Al añadir la drotrecogina alfa (activada) reconstituida a
+la bolsa de perfusión, dirigir el flujo hacia un lado de la bolsa para que la solución se agite lo
+menos posible. Invertir la bolsa de perfusión con cuidado para obtener una solución homogénea.
+No transportar la bolsa de perfusión de un lugar a otro mediante sistemas mecánicos de
+transporte.
+ 5.    Una vez reconstituido, se recomienda utilizar inmediatamente. Sin embargo, la solución
+reconstituida en el vial se puede conservar hasta 3 horas a temperatura ambiente (15 a a 30ºC).
+Tras la preparación, la solución para perfusión intravenosa puede utilizarse a temperatura
+ambiente (15 a 30ºC) durante un periodo de hasta 14 horas.
+ 6.    Los medicamentos parenterales se deben inspeccionar visualmente antes de la administración
+para comprobar si existen partículas o hay decoloración.
+ 7.    Se recomienda perfundir Xigris con una bomba de perfusión para controlar con precisión
+la velocidad de perfusión. La solución de Xigris reconstituida se diluye típicamente en una
+bolsa de perfusión con suero salino estéril al 0,9% para obtener una concentración final entre
+100 µg/ml y 200 µg/ml.
+ 8.    Cuando se administre la drotrecogina alfa (activada) a bajas concentraciones (menos de
+aproximadamente 200 µg/ml) y a bajas velocidades de perfusión (menos de aproximadamente
+5 ml/hora), se debe purgar el equipo de perfusión durante aproximadamente 15 minutos a una
+velocidad de perfusión de aproximadamente 5 ml/hora.
+ 9.    Xigris se debe administrar a través de una vía intravenosa únicamente dedicada a su
+administración o a través un catéter venoso central de una o varias luces (multilumen). Las
+ÚNICAS soluciones que pueden ser administradas a través de la misma vía son: suero salino
+estéril al 0,9%, Ringer Lactato, suero glucosado o mezclas de suero glucosado y salino.
+ 10.   Se debe evitar la exposición de la solución de drotrecogina alfa (activada) al calor y/o a la luz
+solar directa. No se han observado incompatibilidades entre la drotrecogina alfa (activada) y los
+frascos de vidrio para perfusión o las bolsas de perfusión hechas de polivinilcloruro, polietileno,
+polipropileno o poliolefina. El uso de otros tipos de dispositivos de perfusión podría tener un
+impacto negativo sobre la cantidad y potencia de la drotrecogina alfa (activada) administrada.
+ 11.   Se debe tener cuidado y administrar Xigris a la velocidad adecuada, que se calcula en función
+de los kg de peso corporal y perfundiéndose durante el tiempo adecuado. Se recomienda
+etiquetar la bolsa teniendo esto en cuenta.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Eli Lilly Nederland B.V., Grootslag 1-5, 3991 RA, Houten Holanda.
+ FT/PP/ET161204-C
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/02/225/002
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 22 Agosto 2002.
+Fecha de la última revalidación:
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu
+ FT/PP/ET161204-C
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Xigris 5 mg polvo para solución para perfusión.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada vial contiene 5 mg de drotrecogina alfa (activada).
+ Después de la reconstitución con 2,5 ml de agua para preparaciones inyectables, cada ml contiene 2
+mg de drotrecogina alfa (activada).
+ Drotrecogina alfa (activada) es una versión recombinante de la Proteína C activada endógena y se
+produce mediante ingeniería genética a partir de una línea celular humana establecida.
+ Excipiente: Cada vial contiene aproximadamente 17 mg de sodio.
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo para solución para perfusión. Xigris se suministra como un polvo liofilizado blanco o
+blanquecino.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Xigris está indicado en el tratamiento de pacientes adultos con sepsis grave con fallo multiorgánico
+cuando se añade a la terapia de referencia (best standard care). Se debe considerar el uso de Xigris
+principalmente en casos en que sea posible iniciar el tratamiento dentro de las 24 horas siguientes a la
+aparición del fallo orgánico (para más información ver sección 5.1).
+ 4.2   Posología y forma de administración
+ Xigris deberá ser utilizado por médicos con experiencia en instituciones especializadas en el cuidado
+de pacientes con sepsis grave.
+ El tratamiento se deberá iniciar dentro de las primeras 48 horas, y preferiblemente dentro de las 24
+horas tras la aparición del primer fallo orgánico documentado inducido por la sepsis (ver apartado 5.1).
+ La dosis recomendada de Xigris es de 24 µg/kg/hora, administrada en perfusión intravenosa continua
+durante una duración total de 96 horas. Se recomienda perfundir Xigris con una bomba de perfusión
+para controlar con precisión la velocidad de perfusión. Si la perfusión se interrumpiera por alguna
+causa, se debe reiniciar la perfusión a una velocidad de 24 µg/kg/hora, continuándola hasta completar
+totalmente el periodo de 96 horas recomendado para la administración de la dosis. No es necesario
+realizar escalado de la dosis o administrar dosis en bolo de Xigris cuando se interrumpa la perfusión.
+ En pacientes adultos con sepsis grave no es necesario el ajuste de la dosis, en función de la edad, el
+sexo, la función hepática (medida por los niveles de transaminasas) o la función renal o co-
+administración de heparina profiláctica. No se ha estudiado la farmacocinética de la drotrecogina alfa
+(activada) en pacientes adultos con sepsis grave y enfermedad renal en fase terminal y hepatopatía
+crónica pre-existentes.
+                                                    15
+FT/PP/ET161204-C
+ Pediatría: Los datos de un ensayo clínico controlado con placebo, que fue interrumpido por futilidad
+después de que 477 pacientes de edades entre 0 y 17 años hubieran recibido el tratamiento del estudio,
+no mostraron eficacia de Xigris en pacientes pediátricos y mostraron una mayor frecuencia de
+hemorragias a nivel del sistema nervioso central en el grupo de Xigris frente al de placebo. Por lo
+tanto, no se puede hacer una recomendación de dosis y el uso de Xigris no está recomendado en niños
+con edades por debajo de 18 años (ver apartado 4.4).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo, a alguno de los excipientes o a trombina bovina (residuo traza en
+el proceso de fabricación).
+ Como la drotrecogina alfa (activada) puede aumentar el riesgo de hemorragias, Xigris está
+contraindicado en los siguientes casos:
+ ·     Hemorragia interna activa
+·     Pacientes con patología intracraneal; neoplasias o evidencia de hernia cerebral
+·     Tratamiento concomitante con heparina  15 Unidades Internacionales/kg/hora
+·     Diátesis hemorrágica conocida excepto la coagulopatía aguda relacionada con la sepsis
+·     Enfermedad hepática crónica grave
+Recuento plaquetario < 30.000 x 106/l, incluso si el recuento plaquetario aumenta tras
+·
+transfusiones
+·     Pacientes con riesgo incrementado de sangrado (por ejemplo):
+f)      Sometidos a cirugía mayor, definida como intervención quirúrgica que requiera
+anestesia general o espinal, realizada en las 12 horas inmediatamente anteriores a la
+administración del medicamento, o cualquier paciente postoperatorio que muestre
+evidencia de hemorragia activa, o cualquier paciente que vaya a ser sometido a un
+cirugía planificada o anticipada durante el periodo de administración del medicamento
+g)      Historia de traumatismo craneoencefálico grave que haya requirido hospitalización,
+cirugía intracraneal o intramedular, o ictus hemorrágico en los 3 meses anteriores, o
+cualquier historial de malformación arteriovenosa intracerebral, aneurisma cerebral o
+hallazgo de masas a nivel de sistema nervioso central; pacientes con catéter epidural o a
+los que se les vaya a colocar un catéter epidural durante la perfusión del medicamento
+h)      Historial de diátesis hemorrágica congénita
+i)      Hemorragia gastrointestinal en las últimas 6 semanas que haya requerido intervención
+médica a menos que se haya llevado a cabo una intervención quirúrgica definitiva
+j)      Pacientes con traumatismos con riesgo incrementado de hemorragia
+ 4.4   Advertencias y precauciones especiales de empleo
+ Pacientes con un sólo fallo orgánico y cirugía reciente
+Xigris no está aprobado para el tratamiento de pacientes con un sólo fallo orgánico y no debe ser
+utilizado en este subgrupo particular de pacientes, especialmente si han sido sometidos recientemente a
+cirugía (en los últimos 30 días). En cada uno de los dos ensayos clínicos aleatorizados, controlados
+con placebo, PROWESS y ADDRESS (ver apartado 5.1), la mortalidad a los 28 días y mortalidad
+hospitalaria fueron mayores en pacientes tratados con drotrecogina alfa (activada) que en aquéllos
+tratados con placebo, para la subpoblación de pacientes con un sólo fallo orgánico y cirugía reciente
+(n=98 en PROWESS y n=636 en ADDRESS).
+ Hemorragias
+La drotrecogina alfa (activada) aumenta el riesgo de sangrado. En las siguientes situaciones se debe
+valorar el riesgo de administrar Xigris frente a los posibles beneficios:
+                                                   16
+FT/PP/ET161204-C
+ ·     Administración reciente (en los últimos 3 días) de tratamiento trombolítico.
+·     Administración reciente (en los últimos 7 días) de anticoagulantes orales
+·     Administración reciente (en los últimos 7 días) de aspirina o cualquier otro inhibidor
+plaquetario.
+·     Ictus isquémico reciente (en los últimos 3 meses).
+·     Cualquier otra situación en la que el médico considere que es probable un sangrado
+significativo.
+ En intervenciones con riesgo inherente de hemorragia se debe suspender la administración de Xigris 2
+horas antes del comienzo de la intervención. Se puede reiniciar la administración de Xigris 12 horas
+después de cirugía o procedimientos invasivos mayores, si se ha logrado una hemostasia adecuada. La
+incidencia de episodios de hemorragia grave con Xigris fue mayor en pacientes con cirugía reciente
+(en los 30 días previos) que en pacientes ""médicos"" sin cirugía (ver apartado 4.8). Se debe tener en
+cuenta el riesgo de hemorragia cuando se evalúe el beneficio/riesgo en pacientes individuales. Se
+puede volver a administrar Xigris inmediatamente después de procedimientos menos invasivos y no
+complicados si se ha alcanzado una hemostasia adecuada.
+ Como parte de los cuidados habituales, durante la perfusión de Xigris se deben hacer medidas de
+parámetros de hemostasia (p. ej. tiempo de tromboplastina parcial activado (TTPA), tiempo de
+protrombina (TP) y recuento de plaquetas). Si las pruebas secuenciales de hemostasia indican que la
+coagulopatía empeora o no está controlada, aumentando significativamente el riesgo de sangrado, se
+debe valorar el beneficio de continuar con la perfusión frente al potencial aumento del riesgo de
+sangrado en ese paciente.
+ Pruebas de laboratorio
+La drotrecogina alfa (activada) tiene efectos mínimos sobre el TP. La prolongación del TTPA en
+pacientes con sepsis grave tratados con Xigris se puede deber a la coagulopatía subyacente, al efecto
+farmacodinámico de la drotrecogina alfa (activada) y/o al efecto de con otros medicamentos administrados
+de forma concomitante. El efecto farmacodinámico de la drotrecogina alfa (activada) sobre las
+determinaciones del TTPA depende del reactivo e instrumento utilizado para realizar el ensayo y del
+tiempo transcurrido entre la toma de la muestra y la realización de la determinación. La drotrecogina
+alfa (activada) que está presente en una muestra de sangre o plasma extraída de un paciente que está
+siendo perfundido con el medicamento será neutralizada de forma gradual por inhibidores de la
+proteasa plasmática endógenos presentes en la muestra. A las dos horas de recoger la muestra de
+sangre prácticamente no hay actividad medible de drotrecogina alfa (activada). A causa de esta
+variabilidad biológica y analítica, no se debe utilizar el TTPA para valorar el efecto farmacodinámico
+de la drotrecogina alfa (activada). Además, aproximadamente dos horas después de concluir la
+perfusión del medicamento, prácticamente no hay actividad medible de drotrecogina alfa (activada) en
+el torrente circulatorio del paciente; a partir de este momento, las muestras de sangre obtenidas para la
+determinación del TTPA no se ven afectadas por el medicamento. Se deben tener en cuenta estas
+variables cuando se interpreten determinaciones secuenciales del TP y/o del TTPA.
+ Como la drotrecogina alfa (activada) puede afectar a las pruebas de TTPA, la drotrecogina alfa
+(activada) presente en las muestras de plasma puede interferir en las pruebas de coagulación de una
+fase basadas en el TTPA (tales como las pruebas del factor VIII, IX y XI). La drotrecogina alfa
+(activada) presente en las muestras de plasma no interfiere con las pruebas de factores de una fase
+basadas en el TP (tales como las de los factores II, V, VII y X).
+ Si las pruebas secuenciales de coagulopatía (incluyendo el recuento plaquetario) indican que dicha
+coagulopatía es grave o está empeorando, debe valorarse el riesgo de continuar la perfusión frente al
+beneficio esperado.
+ Immunogenicidad
+                                                    17
+FT/PP/ET161204-C
+ En pacientes con sepsis grave, la formación de anticuerpos antiproteína C activada fue poco frecuente
+(< 1%) después de un ciclo único de tratamiento. Estos anticuerpos no fueron capaces de neutralizar el
+efecto de la proteína C activada en la prueba de TTPA. Sin embargo, no se puede descartar
+completamente la posibilidad de reacciones alérgicas a componentes del preparado en ciertos pacientes
+predispuestos. Si ocurrieran reacciones anafilácticas o alérgicas, se debe suspender el tratamiento
+inmediatamente e instaurar el tratamiento adecuado. No se ha readministrado Xigris a pacientes con
+sepsis grave. Se debe tener precaución con la readministración de Xigris a pacientes. En sujetos sanos
+no se ha detectado la formación de anticuerpos antiproteína C activada, incluso tras la administración
+repetida.
+ Pacientes pediátricos
+Xigris no está recomendado para uso en niños menores de 18 años, y por tanto, no debe ser usado en
+niños.
+Los datos de un ensayo clínico controlado con placebo no establecieron la eficacia de Xigris en
+pacientes pediátricos con sepsis grave, infección aguda, inflamación sistémica y disfunción orgánica
+cardiovascular y respiratoria. Este ensayo fue interrumpido por futilidad después de que 477 pacientes
+hubieran recibido la medicación en estudio (de 600 pacientes planificados).
+El análisis intermedio planificado (con 400 pacientes incluidos) mostró una baja probabilidad de
+demostrar una diferencia significativa en la variable principal de eficacia ""Tiempo Combinado hasta la
+Resolución del Fallo Orgánico Completa"" (Puntuación TCRFOC de 9,8 frente a 9,7 días de media en
+un período de 14 días). Tampoco hubo diferencia en la mortalidad a los 28 días (17,1% frente a 17,3%
+en los grupos de Xigris y placebo, respectivamente).
+Los investigadores atribuyeron 2 muertes en el grupo de Xigris y 5 muertes en el grupo de placebo a
+episodios hemorrágicos. Hubo una mayor frecuencia de hemorragias a nivel del sistema nervioso
+central (SNC) en el grupo de drotrecogina alfa (activada) frente al de placebo. Durante el período de
+infusión (días 0-6 del estudio), el número de pacientes que experimentaron hemorragias a nivel del
+SNC fue de 5 frente a 1 (2,1% frente a 0,4%) para la población global (drotrecogina alfa (activada)
+frente a placebo), donde 4 de los 5 eventos en el grupo de drotrecogina alfa (activada) ocurrieron en
+pacientes de < 60 días de edad o < 3,5 kg de peso corporal. Los episodios fatales de hemorragia a nivel
+del SNC , los episodios de sangrado graves (durante el período de infusión y durante el período de
+estudio de 28 días), los acontecimientos adversos graves y las amputaciones graves fueron similares en
+los grupos de drotrecogina alfa (activada) y placebo.
+ Este medicamento contiene aproximadamente 68 mg de sodio por vial, lo que debe ser tenido en
+cuenta en pacientes don dietas pobres en sodio.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Se debe tener cuidado cuando se utilice Xigris con con otros medicamentos que afecten a la hemostasia
+(ver secciones 4.3 y 4.4), incluyendo Proteína C, trombolíticos (por ejemplo estreptoquinasa, tPA, rPA
+y uroquinasa), anticoagulantes orales (por ejemplo warfarina), hirudinas, antitrombina, aspirina y otros
+agentes antiplaquetarios, por ejemplo medicamentos antiinflamatorios no esteroideos, ticlopidina y
+clopidogrel, antagonistas de glicoproteina IIb/IIIa (como abciximab, eptifibatida, tirofiban) y
+prostaciclinas como iloprost.
+ Co-administración de dosis bajas de heparina para profilaxis de eventos trombóticos venosos (ETV).
+La heparina a dosis bajas para profilaxis de ETV puede ser co-administrada con drotrecogina alfa
+activada. En un ensayo aleatorizado de heparina frente a placebo (XPRESS) en 1935 pacientes adultos
+con sepsis grave, todos tratados con drotrecogina alfa activada, la heparina profiláctica no afectó de
+forma adversa a la mortalidad (heparina 28,3% frente placebo 31,9% en la población global por
+intención de tratar (ITT), y heparina 30,3% versus placebo 26,9% en pacientes con disfunción
+orgánica múltiple tratados dentro de las 24 horas siguientes a la aparición de su primera disfunción
+orgánica inducida por la sepsis (n=890)). En el subgrupo de 885 pacientes que ya estaban recibiendo
+heparina profiláctica cuando entraron en el ensayo, la mortalidad fue de 26,9% en el grupo
+                                                   18
+FT/PP/ET161204-C
+ aleatorizado a continuar con heparina frente al 35,6% en el grupo cuya aleatorización (a placebo)
+condujo a la suspensión de la heparina. Sin embargo, las razones que justifican esta diferencia no se
+conocen y podrían estar relacionadas con otros factores. Adicionalmente no hubo un riesgo
+incrementado de hemorragia grave, incluyendo hemorragia a nivel del sistema nervioso central (SNC).
+La heparina profiláctica incrementó el riesgo de hemorragia no grave (ver apartado 4.8).
+No hubo diferencia estadística en las frecuencias de ETV entre los grupos del ensayo.
+ 4.6   Embarazo y lactancia
+ No se han realizado estudios en animales sobre los efectos en el embarazo, desarrollo embrio-fetal,
+parto y desarrollo postnatal con Xigris. Por tanto, se desconoce el riesgo potencial en humanos. Xigris
+no se debe administrar durante el embarazo a menos que sea claramente necesario.
+ No se sabe si Xigris se excreta en la leche materna o si tiene algún efecto potencial sobre el lactante.
+Por lo tanto, la paciente no debe dar el pecho cuando esté en tratamiento con Xigris.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No procede.
+ 4.8   Reacciones adversas
+ Xigris aumenta el riesgo de hemorragias.
+ El ensayo clínico Fase 3, internacional, multicéntrico, aleatorizado, doble ciego, controlado frente a
+placebo (PROWESS) incluyó 850 pacientes tratados con drotrecogina alfa (activada) y 840 pacientes
+tratados con placebo. El porcentaje de pacientes que experimentaron al menos un episodio de sangrado
+en los dos grupos de tratamiento fue de 24,9% para los tratados con drotrecogina alfa (activada) y de
+17,7% para los tratados con placebo. En ambos grupos de tratamiento, la mayor parte de los episodios
+de sangrado correspondieron a equimosis o sangrado del tracto gastrointestinal. La diferencia en la
+incidencia de episodios de sangrado graves entre los dos grupos de tratamiento se produjo
+principalmente durante la administración del medicamento en estudio.
+ Un total de 2378 pacientes adultos con sepsis grave recibieron drotrecogina alfa (activada) en un
+ensayo clínico en Fase 3b, internacional, con un único brazo y abierto (ENHANCE).
+ La incidencia de episodios graves de sangrado en los ensayos PROWESS y ENHANCE se incluye a
+continuación. En estos ensayos los episodios graves de sangrado incluyeron cualquier hemorragia
+intracraneal, cualquier sangrado que sea amenazante para la vida o fatal, cualquier episodio de
+sangrado que requiriera de la administración diaria de  3 unidades de concentrados de hematíes
+durante dos días consecutivos, o cualquier episodio de sangrado valorado como grave por el
+investigador.
+ Un ensayo clínico Fase 3b (ADDRESS), internacional, multicéntrico, aleatorizado, doble ciego,
+controlado con placebo en pacientes adultos con sepsis grave con bajo riesgo de muerte, incluyó 1317
+pacientes tratados con drotrecogina alfa (activada) y 1293 pacientes tratados con placebo. El
+porcentaje de pacientes que experimentaron al menos un episodio de sangrado en los dos grupos de
+tratamiento fue del 10,9% y del 6,4%, respectivamente (p<0,001). Los episodios de sangrado
+incluyeron episodios de sangrado graves, episodios de sangrado interpretados por el investigador
+como posiblemente relacionados con la medicación objeto del estudio, episodios de sangrado
+asociados con la necesidad de una transfusión de hematíes, y episodios de sangrado que dieron lugar a
+una suspensión permanente de la medicación objeto del estudio. En el ensayo ADDRESS, los
+episodios graves de sangrado incluyeron cualquier hemorragia fatal, cualquier sangrado que supusiera
+una amenaza para la vida, cualquier hemorragia a nivel del SNC, o cualquier episodio de sangrado
+considerado grave por el investigador.
+                                                     19
+FT/PP/ET161204-C
+ Episodios hemorrágicos graves durante el período de perfusión
+La siguiente tabla refleja el porcentaje de pacientes en PROWESS y ENHANCE que experimentaron
+episodios hemorrágicos graves según la localización de la hemorragia durante el período de perfusión
+del medicamento en estudio (definido como la duración de la perfusión más el día completo posterior
+al fin de la perfusión).
+                                    Drotrecogina alfa                   Placebo                Drotrecogina alfa
+Localización de la             (activada)                                                 (activada)
+hemorragia               [PROWESS] N=850                                           [ENHANCE] N=2378
+Gastrointestinal                                                 4(0,5%)                       19 (0,8%)
+Intraabdominal                      2 (0,2%)                     3 (0,4%)                      18 (0,8%)
+Intratorácica                       4 (0,5%)                         0                         11 (0,5%)
+Retroperitoneal                     3 (0,4%)                         0                          4 (0,2%)
+Sistema nervioso
+central (SNC) 1
+Genitourinaria                       2 (0,2%)                        0                             0
+Piel/tejidos blandos                 1 (0,1%)                        0                        16 (0,7%)
+Nasofaríngea                             0                           0                         4 (0,2%)
+Articulaciones/Huesos                    0                           0                        1 (0,04%)
+Lugar desconocido2                  1 (0,1%)                     1 (0,1%)                      6 (0,3%)
+Total                               20 (2,4%)                    8 (1,0%)
+1
+Se define hemorragia a nivel del SNC como cualquier hermorragia a ese nivel, incluyendo los siguientes tipos de
+hemorragia: petequial, parenquimal, subaracnoídea, subdural e ictus con transformación hemorrágica.
+2
+Pacientes que requirieron la administración de  3 unidades de concentrados de hematíes durante dos días consecutivos
+con lugar de hemorragia sin identificar.
+3
+En el estudio ENHANCE seis pacientes padecieron m
+ "
+	Prospectos de medicamentos.

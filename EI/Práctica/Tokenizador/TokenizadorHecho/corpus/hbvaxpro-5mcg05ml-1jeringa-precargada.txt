@@ -1,0 +1,1052 @@
+HBVAXPRO 5MCG/0,5ML 1JERINGA PRECARGADA
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	HBVAXPRO 5 microgramos/0,5 ml
+Suspensión inyectable
+Vacuna antihepatitis B (rADN)
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Una dosis (0,5 ml) contiene:
+Antígeno de superficie del virus de la hepatitis B, recombinante (HBsAg)*.......5,00 microgramos
+Adsorbido en sulfato hidroxifosfato de aluminio amorfo (0,25 miligramos Al+++).
+ * producido por una cepa recombinante de la levadura Saccharomyces cerevisiae (cepa 2150-2-3)
+ Para consultar la lista completa de excipientes, ver sección 6.1
+ 
+3.    FORMA FARMACÉUTICA
+	Suspensión inyectable.
+Suspensión blanquecina ligeramente opaca.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Esta vacuna está indicada para la inmunización activa frente a la infección por el virus de la hepatitis
+B causada por todos los subtipos conocidos, en niños y adolescentes (desde el nacimiento hasta los 15
+años de edad) considerados en riesgo de exposición al virus de la hepatitis B.
+ Los grupos de riesgo específicos para la vacunación se determinan sobre la base de las
+recomendaciones oficiales.
+ Se puede esperar que mediante la inmunización con HBVAXPRO también se prevenga la hepatitis D,
+dado que la hepatitis D (causada por el agente delta) no se presenta en ausencia de infección de
+hepatitis B.
+ 4.2   Posología y forma de administración
+ Posología
+Niños y adolescentes (desde el nacimiento hasta los 15 años de edad): se recomienda 1 dosis (5 µg) de
+0,5 ml en cada inyección.
+ Vacunación primaria:
+ Un ciclo de vacunación deberá incluir al menos tres inyecciones.
+ Se pueden recomendar dos pautas de vacunación primaria:
+ 0, 1, 6 meses: dos inyecciones con un intervalo de un mes; la tercera inyección 6 meses después de la
+primera administración.
+ 0, 1, 2, 12 meses: tres inyecciones con un intervalo de un mes; la cuarta dosis se debe administrar a los
+12 meses.
+ Se recomienda que la vacuna se administre en las pautas indicadas. Los niños que reciban un ciclo
+comprimido (0, 1, 2 meses de ciclo de dosis) deben recibir la dosis de refuerzo a los 12 meses para
+inducir títulos de anticuerpos más altos.
+ Dosis de recuerdo:
+ Vacunados inmunocompetentes
+ No se ha establecido la necesidad de una dosis de refuerzo en personas sanas que han recibido un ciclo
+completo de vacunación primaria. Sin embargo, algunas pautas de vacunación local incluyen
+actualmente la recomendación de una dosis de recuerdo y se deben respetar.
+ Vacunados inmunocomprometidos (por ejemplo, pacientes en diálisis, pacientes trasplantados)
+ En vacunados con el sistema inmunitario deteriorado, se debe considerar la administración de dosis
+adicionales de vacuna si el nivel de anticuerpos frente al antígeno de superficie del virus de la hepatitis
+B (anti-HBsAg) es inferior a 10 UI/l.
+ Revacunación de personas sin respuesta
+ Cuando se revacuna a personas que no responden al ciclo de vacunación primaria, el 15-25 % produce
+una respuesta adecuada de anticuerpos tras una dosis adicional y el 30-50 % después de tres dosis
+adicionales. Sin embargo, dada la ausencia de suficientes datos con relación a la seguridad de la
+vacuna antihepatitis B cuando se administran dosis adicionales a las recomendadas, no se recomienda
+la revacunación de forma rutinaria tras la finalización del ciclo de inmunización primaria. La
+revacunación deberá ser considerada en individuos de alto riesgo, una vez sopesados los posibles
+beneficios de la vacunación frente al riesgo potencial de experimentar un aumento de reacciones
+adversas locales o sistémicas.
+ Recomendaciones posológicas especiales:
+ Recomendaciones posológicas para los recién nacidos hijos de madres portadoras del virus de la
+hepatitis B
+ -     Una dosis de inmunoglobulina antihepatitis B en el nacimiento (en las primeras 24 horas).
+-     La primera dosis de la vacuna se debe administrar dentro de los 7 días de vida y se puede
+administrar simultáneamente con la inmunoglobulina antihepatitis B en el nacimiento, pero en
+sitios de inyección diferentes.
+-     Las dosis de vacuna posteriores se deben administrar de acuerdo con la pauta de vacunación
+recomendada localmente.
+ Recomendaciones posológicas para personas expuestas o presuntamente expuestas al virus de la
+hepatitis B (por ejemplo, pinchazo con una aguja contaminada):
+ -     Se debe administrar inmunoglobulina antihepatitis B lo antes posible después de la exposición
+(en las primeras 24 horas).
+-     La primera dosis de la vacuna se debe administrar dentro de los 7 días de exposición y se puede
+administrar al mismo tiempo que la inmunoglobulina antihepatitis B, pero en sitios de inyección
+diferentes.
+-     Se recomienda también el análisis serológico con la administración de dosis posteriores de
+vacuna, si fuera necesario (es decir de acuerdo con el estado serológico del paciente) para la
+protección a corto y largo plazo.
+-     En el caso de personas no vacunadas o vacunadas de forma incompleta, se debe contemplar la
+necesidad de dosis adicionales según las pautas de inmunización recomendadas. Se puede
+proponer la pauta acelerada incluyendo la dosis de refuerzo a los 12 meses.
+ Forma de administración
+                                                      3
+Esta vacuna debe administrarse por vía intramuscular.
+El sitio preferido para la inyección en recién nacidos y niños pequeños es la región anterolateral del
+muslo. El sitio preferido para la inyección en los niños mayores y adolescentes es el músculo
+deltoides.
+ No inyectar por vía intravascular.
+ Excepcionalmente, se puede administrar la vacuna por vía subcutánea en pacientes con
+trombocitopenia o trastornos hemorrágicos.
+ Ver sección 6.6 para las instrucciones de uso y manipulación.
+ 4.3   Contraindicaciones
+ -     Hipersensibilidad al principio activo o a alguno de los excipientes.
+-     Enfermedad febril grave
+ 4.4   Advertencias y precauciones especiales de empleo
+ Dado el largo periodo de incubación de la hepatitis B, es posible que en el momento de la
+inmunización exista una infección de hepatitis B no manifiesta. En estos casos, la vacuna puede no
+prevenir la infección de hepatitis B.
+ La vacuna no previene las infecciones causadas por otros agentes como la hepatitis A, hepatitis C y
+hepatitis E, ni por otros patógenos que infectan al hígado.
+ Como con todas las vacunas inyectables, siempre debe estar preparado el tratamiento médico
+apropiado para el caso raro de que se produzca una reacción anafiláctica tras la administración de la
+vacuna.
+ Esta vacuna puede contener trazas de formaldehído y tiocianato potásico, las cuales se utilizan durante
+el proceso de fabricación. Por tanto, se pueden producir reacciones de sensibilización.
+ Cuando se administre la serie de inmunización primaria en niños prematuros de  28 semanas de
+gestación y especialmente en aquéllos con un historial previo de inmadurez respiratoria, se debe
+considerar tanto el riesgo potencial de apnea como la necesidad de monitorización respiratoria durante
+48-72 horas. Como el beneficio de la vacunación es alto en este grupo de niños, la vacunación no se
+debe impedir ni retrasar.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Esta vacuna se puede administrar:
+-     con inmunoglobulina antihepatitis B, en lugares diferentes de inyección.
+-     para completar un ciclo de inmunización primaria o como dosis de recuerdo en personas que
+hayan recibido previamente otra vacuna antihepatitis B.
+-     concomitante con otras vacunas, utilizando lugares de inyección y jeringas diferentes. La
+administración concomitante de la vacuna conjugada del neumococo (PREVENAR)
+administrada con la vacuna de la hepatitis B usando los ciclos de 0, 1 y 6, y, 0, 1, 2 y 12 meses
+no ha sido suficientemente estudiada.
+ 4.6   Embarazo y lactancia
+ No procede
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No procede
+                                                     4
+4.8   Reacciones adversas
+ Tras un amplio uso de la vacuna se han informado los siguientes efectos indeseables.
+ Como con otras vacunas antihepatitis B, en muchos casos, no se ha establecido la relación causal con
+la vacuna.
+ Trastornos de la sangre y del sistema linfático
+Muy raras (< 1/10.000)
+Trombocitopenia, linfadenopatía
+ Trastornos del sistema inmunológico
+Muy raras (< 1/10.000)
+Enfermedad del suero, anafilaxia, poliarteritis nodosa
+ Trastornos del sistema nervioso
+Muy raras (< 1/10.000)
+Parestesia, parálisis (parálisis de Bell), neuropatías periféricas (poliradiculoneuritis, parálisis facial),
+neuritis (incluyendo el síndrome de Guillain-Barré, neuritis óptica, mielitis incluyendo la mielitis
+transversa), encefalitis, enfermedad de desmielinización del sistema nervioso central, exacerbación de
+esclerosis múltiple, esclerosis múltiple, ataques, cefalea, mareo, síncope.
+ Trastornos vasculares
+Muy raras (< 1/10.000)
+Hipotensión, vasculitis
+ Trastornos respiratorios, torácicos y mediastínicos
+Muy raras (< 1/10.000)
+Síntomas de tipo broncoespasmo, apnea en niños prematuros de  28 semanas de gestación (ver apartado 4.4)
+ Trastornos gastrointestinales
+Muy raras (< 1/10.000)
+Vómitos, náuseas, diarrea, dolor abdominal
+ Trastornos de la piel y del tejido subcutáneo
+Muy raras (< 1/10.000)
+Erupción, alopecia, prurito, urticaria, eritema multiforme, angioedema, eczema.
+ Trastornos musculoesqueléticos y del tejido conjuntivo
+Muy raras (< 1/10.000)
+Artralgia, artritis, mialgia, dolor en la extremidad
+ Trastornos generales y alteraciones en el lugar de la administración
+Frecuentes (>1/100, <1/10)
+Reacciones locales (en el lugar de inyección): dolor transitorio, eritema, induración
+Muy raras (< 1/10.000)
+Fatiga, fiebre, malestar, síntomas de tipo gripal
+ Exploraciones complementarias
+Muy raras (< 1/10.000)
+Elevación de las enzimas hepáticas
+ 4.9   Sobredosis
+ No se han notificado casos de sobredosis.
+                                                       5
+
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antiinfecciosos, código ATC: J07BC01
+ La vacuna induce anticuerpos humorales específicos frente al antígeno de superficie del virus de la
+hepatitis B (anti-HBsAg). El desarrollo de un título de anticuerpos frente al antígeno de superficie del
+virus de la hepatitis B (anti-HBsAg) igual o superior a 10 UI/l medidos 1 a 2 meses después de la
+última inyección, se correlaciona con protección frente a la infección por el virus de la hepatitis B.
+ En los ensayos clínicos, el 96 % de 1497 niños pequeños, niños, adolescentes y adultos sanos a los que
+se administró un ciclo de 3 dosis de una formulación previa de vacuna antihepatitis B recombinante de
+Merck, desarrollaron un nivel protector de anticuerpos frente al antígeno de superficie del virus de la
+hepatitis B (> 10 UI/l). En dos ensayos clínicos en niños usando diferentes pautas de dosis y vacunas
+concomitantes, la proporción de niños con niveles protectores de anticuerpos fue del 97,5% y del
+97,2% con la media geométrica de los títulos de 214 y 297 UI/l respectivamente.
+ Se ha demostrado la eficacia protectora de una dosis de inmunoglobulina antihepatitis B en el
+nacimiento seguida de un ciclo de tres dosis de una formulación previa de vacuna antihepatitis B
+recombinante de Merck, en neonatos nacidos de madres positivas al antígeno de superficie del virus de
+la hepatitis B (HBsAg) y al antígeno e del virus de la hepatitis B (HBeAg). Entre 130 bebés
+vacunados, la eficacia estimada de prevención de infección de hepatitis B crónica fue del 95%
+comparada con la tasa de infección en controles históricos no tratados.
+ Aunque se desconoce la duración del efecto protector de una formulación previa de vacuna
+antihepatitis B recombinante de Merck en las personas sanas vacunadas, el seguimiento durante 5 a 9
+años de aproximadamente 3.000 personas de alto riesgo a las que se había administrado una vacuna
+similar derivada de plasma, no mostró ningún caso de hepatitis B clínicamente manifiesto.
+ Además, se ha demostrado la persistencia de memoria inmunológica para el antígeno de superficie del
+virus de la hepatitis B (HBsAg) inducida por la vacuna, mediante la respuesta anamnésica de
+anticuerpos a una dosis de recuerdo, de una formulación previa de vacuna antihepatitis B
+recombinante de Merck. Como sucede con otras vacunas de hepatitis B, se desconoce en este
+momento la duración del efecto protector en vacunados sanos. La necesidad de una dosis de refuerzo
+de HBVAXPRO no se ha definido aún más allá de la dosis de refuerzo a los 12 meses que se requiere
+para el ciclo comprimido de 0, 1, 2.
+ Disminución del riesgo de Carcinoma Hepatocelular
+El carcinoma hepatocelular es una complicación grave de la infección por el virus de la hepatitis B.
+Los estudios han demostrado la vinculación entre la infección de hepatitis B crónica y el carcinoma
+hepatocelular y el 80 % de los carcinomas hepatocelulares están causados por una infección por el
+virus de la hepatitis B. La vacuna antihepatitis B ha sido reconocida como la primera vacuna
+antineoplásica al prevenir el cáncer hepático primario.
+ 5.2   Propiedades farmacocinéticas
+ No procede.
+ 5.3   Datos preclínicos sobre seguridad
+ No se han realizado estudios de reproducción animal.
+ 
+6.    DATOS FARMACÉUTICOS
+	                                                    6
+6.1   Lista de excipientes
+ Cloruro sódico, borato sódico y agua para inyectables.
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC y 8ºC)
+No congelar.
+ 6.5   Naturaleza y contenido del envase
+ 0,5 ml de suspensión en vial (vidrio Tipo I). Envase de 1, 10
+0,5 ml de suspensión en vial (vidrio Tipo I) y una jeringa para inyección vacía y estéril con aguja.
+Envase de 1.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6    Precauciones especiales de eliminación
+ Antes de usar se debe agitar bien la vacuna.
+Una vez que se haya perforado el vial, la vacuna extraída se administrará inmediatamente y el vial se
+desechará.
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	SANOFI PASTEUR MSD SNC
+8, rue Jonas Salk
+F-69007 Lyon
+Francia
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/01/183/001
+EU/1/01/183/018
+EU/1/01/183/019
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 27/04/2001
+Fecha de la última renovación de la autorización: 04/08/2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	HBVAXPRO 5 microgramos/0,5 ml
+Suspensión inyectable en jeringa precargada
+Vacuna antihepatitis B (rADN)
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Una dosis (0,5 ml) contiene:
+Antígeno de superficie del virus de la hepatitis B, recombinante (HBsAg)* ........5,00 microgramos
+Adsorbido en sulfato hidroxifosfato de aluminio amorfo (0,25 miligramos Al+++).
+ * producido por una cepa recombinante de la levadura Saccharomyces cerevisiae (cepa 2150-2-3)
+ Para consultar la lista completa de excipientes, ver sección 6.1
+ 
+3.    FORMA FARMACÉUTICA
+	Suspensión inyectable en jeringa precargada.
+Suspensión blanquecina ligeramente opaca.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Esta vacuna está indicada para la inmunización activa frente a la infección por el virus de la hepatitis
+B causada por todos los subtipos conocidos, en niños y adolescentes (desde el nacimiento hasta los 15
+años de edad) considerados en riesgo de exposición al virus de la hepatitis B.
+ Los grupos de riesgo específicos para la vacunación se determinan sobre la base de las
+recomendaciones oficiales.
+ Se puede esperar que mediante la inmunización con HBVAXPRO también se prevenga la hepatitis D,
+dado que la hepatitis D (causada por el agente delta) no se presenta en ausencia de infección de
+hepatitis B.
+ 4.2   Posología y forma de administración
+ Posología
+Niños y adolescentes (desde el nacimiento hasta los 15 años de edad): se recomienda 1 dosis (5 µg) de
+0,5 ml en cada inyección.
+ Vacunación primaria:
+ Un ciclo de vacunación deberá incluir al menos tres inyecciones.
+ Se pueden recomendar dos pautas de vacunación primaria:
+ 0, 1, 6 meses: dos inyecciones con un intervalo de un mes; la tercera inyección 6 meses después de la
+primera administración.
+ 0, 1, 2, 12 meses: tres inyecciones con un intervalo de un mes; la cuarta dosis se debe administrar a los
+12 meses.
+ Se recomienda que la vacuna se administre en las pautas indicadas. Los niños que reciban un ciclo
+comprimido (0, 1, 2 meses de ciclo de dosis) deben recibir la dosis de refuerzo a los 12 meses para
+inducir títulos de anticuerpos más altos.
+ Dosis de recuerdo:
+ Vacunados inmunocompetentes
+ No se ha establecido la necesidad de una dosis de refuerzo en personas sanas que han recibido un ciclo
+completo de vacunación primaria. Sin embargo, algunas pautas de vacunación local incluyen
+actualmente la recomendación de una dosis de recuerdo y se deben respetar.
+ Vacunados inmunocomprometidos (por ejemplo, pacientes en diálisis, pacientes trasplantados)
+ En vacunados con el sistema inmunitario deteriorado, se debe considerar la administración de dosis
+adicionales de vacuna si el nivel de anticuerpos frente al antígeno de superficie del virus de la hepatitis
+B (anti-HBsAg) es inferior a 10 UI/l.
+ Revacunación de personas sin respuesta
+ Cuando se revacuna a personas que no responden al ciclo de vacunación primaria, el 15-25 % produce
+una respuesta adecuada de anticuerpos tras una dosis adicional y el 30-50 % después de tres dosis
+adicionales. Sin embargo, dada la ausencia de suficientes datos con relación a la seguridad de la
+vacuna antihepatitis B cuando se administran dosis adicionales a las recomendadas, no se recomienda
+la revacunación de forma rutinaria tras la finalización del ciclo de inmunización primaria. La
+revacunación deberá ser considerada en individuos de alto riesgo, una vez sopesados los posibles
+beneficios de la vacunación frente al riesgo potencial de experimentar un aumento de reacciones
+adversas locales o sistémicas.
+ Recomendaciones posológicas especiales:
+ Recomendaciones posológicas para los recién nacidos hijos de madres portadoras del virus de la
+hepatitis B
+ -     Una dosis de inmunoglobulina antihepatitis B en el nacimiento (en las primeras 24 horas).
+-     La primera dosis de la vacuna se debe administrar dentro de los 7 días de vida y se puede
+administrar simultáneamente con la inmunoglobulina antihepatitis B en el nacimiento, pero en
+sitios de inyección diferentes.
+-     Las dosis de vacuna posteriores se deben administrar de acuerdo con la pauta de vacunación
+recomendada localmente.
+ Recomendaciones posológicas para personas expuestas o presuntamente expuestas al virus de la
+hepatitis B (por ejemplo, pinchazo con una aguja contaminada):
+ -     Se debe administrar inmunoglobulina antihepatitis B lo antes posible después de la exposición
+(en las primeras 24 horas).
+-     La primera dosis de la vacuna se debe administrar dentro de los 7 días de exposición y se puede
+administrar al mismo tiempo que la inmunoglobulina antihepatitis B, pero en sitios de inyección
+diferentes.
+-     Se recomienda también el análisis serológico con la administración de dosis posteriores de
+vacuna, si fuera necesario (es decir de acuerdo con el estado serológico del paciente) para la
+protección a corto y largo plazo.
+-     En el caso de personas no vacunadas o vacunadas de forma incompleta, se debe contemplar la
+necesidad de dosis adicionales según las pautas de inmunización recomendadas. Se puede
+proponer la pauta acelerada incluyendo la dosis de refuerzo a los 12 meses.
+ Forma de administración
+ Esta vacuna debe administrarse por vía intramuscular.
+El sitio preferido para la inyección en recién nacidos y niños pequeños es la región anterolateral del
+muslo. El sitio preferido para la inyección en los niños mayores y adolescentes es el músculo
+deltoides.
+ No inyectar por vía intravascular.
+ Excepcionalmente, se puede administrar la vacuna por vía subcutánea en pacientes con
+trombocitopenia o trastornos hemorrágicos.
+ Ver sección 6.6 para las instrucciones de uso y manipulación.
+ 4.3   Contraindicaciones
+ -     Hipersensibilidad al principio activo o a alguno de los excipientes.
+-     Enfermedad febril grave
+ 4.4   Advertencias y precauciones especiales de empleo
+ Dado el largo periodo de incubación de la hepatitis B, es posible que en el momento de la
+inmunización exista una infección de hepatitis B no manifiesta. En estos casos, la vacuna puede no
+prevenir la infección de hepatitis B.
+ La vacuna no previene las infecciones causadas por otros agentes como la hepatitis A, hepatitis C y
+hepatitis E, ni por otros patógenos que infectan al hígado.
+ Como con todas las vacunas inyectables, siempre debe estar preparado el tratamiento médico
+apropiado para el caso raro de que se produzca una reacción anafiláctica tras la administración de la
+vacuna.
+ Esta vacuna puede contener trazas de formaldehído y tiocianato potásico, las cuales se utilizan durante
+el proceso de fabricación. Por tanto, se pueden producir reacciones de sensibilización.
+ Cuando se administre la serie de inmunización primaria en niños prematuros de  28 semanas de
+gestación y especialmente en aquéllos con un historial previo de inmadurez respiratoria, se debe
+considerar tanto el riesgo potencial de apnea como la necesidad de monitorización respiratoria durante
+48-72 horas. Como el beneficio de la vacunación es alto en este grupo de niños, la vacunación no se
+debe impedir ni retrasar.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Esta vacuna se puede administrar:
+-     con inmunoglobulina antihepatitis B, en lugares diferentes de inyección.
+-     para completar un ciclo de inmunización primaria o como dosis de recuerdo
+en personas que hayan recibido previamente otra vacuna antihepatitis B.
+-     concomitante con otras vacunas, utilizando lugares de inyección y jeringas diferentes. La
+administración concomitante de la vacuna conjugada del neumococo (PREVENAR)
+administrada con la vacuna de la hepatitis B usando los ciclos de 0, 1 y 6, y, 0, 1, 2 y 12 meses
+no ha sido suficientemente estudiada.
+ 4.6   Embarazo y lactancia
+ No procede
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+                                                    11
+No procede
+ 4.8   Reacciones adversas
+ Tras un amplio uso de la vacuna se han informado los siguientes efectos indeseables.
+ Como con otras vacunas antihepatitis B, en muchos casos, no se ha establecido la relación causal con
+la vacuna.
+ Trastornos de la sangre y del sistema linfático
+Muy raras (< 1/10.000)
+Trombocitopenia, linfadenopatía
+ Trastornos del sistema inmunológico
+Muy raras (< 1/10.000)
+Enfermedad del suero, anafilaxia, poliarteritis nodosa
+ Trastornos del sistema nervioso
+Muy raras (< 1/10.000)
+Parestesia, parálisis (parálisis de Bell), neuropatías periféricas (poliradiculoneuritis, parálisis facial),
+neuritis (incluyendo el síndrome de Guillain-Barré, neuritis óptica, mielitis incluyendo la mielitis
+transversa), encefalitis, enfermedad de desmielinización del sistema nervioso central, exacerbación de
+esclerosis múltiple, esclerosis múltiple, ataques, cefalea, mareo, síncope.
+ Trastornos cardíacos
+Muy raras (< 1/10.000)
+Hipotensión, vasculitis
+ Trastornos respiratorios, torácicos y mediastínicos
+Muy raras (< 1/10.000)
+Síntomas de tipo broncoespasmo, apnea en niños prematuros de  28 semanas de gestación (ver apartado 4.4)
+ Trastornos gastrointestinales
+Muy raras (< 1/10.000)
+Vómitos, náuseas, diarrea, dolor abdominal
+ Trastornos de la piel y del tejido subcutáneo
+Muy raras (< 1/10.000)
+Erupción, alopecia, prurito, urticaria, eritema multiforme, angioedema, eczema
+ Trastornos musculoesqueléticos y del tejido conjuntivo
+Muy raras (< 1/10.000)
+Artralgia, artritis, mialgia, dolor en la extremidad
+ Trastornos generales y alteraciones en el lugar de administración
+Frecuentes (>1/100, <1/10)
+Reacciones locales (en el lugar de inyección): dolor transitorio, eritema, induración
+Muy raras (< 1/10.000)
+Fatiga, fiebre, malestar, síntomas de tipo gripal
+ Exploraciones complementarias
+Muy raras (< 1/10.000)
+Elevación de las enzimas hepáticas
+ 4.9   Sobredosis
+                                                      12
+No se han notificado casos de sobredosis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antiinfecciosos, código ATC: J07BC01
+ La vacuna induce anticuerpos humorales específicos frente al antígeno de superficie del virus de la
+hepatitis B (anti-HBsAg). El desarrollo de un título de anticuerpos frente al antígeno de superficie del
+virus de la hepatitis B (anti-HBsAg) igual o superior a 10 UI/l medidos 1 a 2 meses después de la
+última inyección, se correlaciona con protección frente a la infección por el virus de la hepatitis B.
+ En los ensayos clínicos, el 96 % de 1497 niños pequeños, niños, adolescentes y adultos sanos a los que
+se administró un ciclo de 3 dosis de una formulación previa de vacuna antihepatitis B recombinante de
+Merck, desarrollaron un nivel protector de anticuerpos frente al antígeno de superficie del virus de la
+hepatitis B (> 10 UI/l). En dos ensayos clínicos en niños usando diferentes pautas de dosis y vacunas
+concomitantes, la proporción de niños con niveles protectores de anticuerpos fue del 97,5% y del
+97,2% con la media geométrica de los títulos de 214 y 297 UI/l respectivamente.
+ Se ha demostrado la eficacia protectora de una dosis de inmunoglobulina antihepatitis B en el
+nacimiento seguida de un ciclo de tres dosis de una formulación previa de vacuna antihepatitis B
+recombinante de Merck, en neonatos nacidos de madres positivas al antígeno de superficie del virus de
+la hepatitis B (HBsAg) y al antígeno e del virus de la hepatitis B (HBeAg). Entre 130 bebés
+vacunados, la eficacia estimada de prevención de infección de hepatitis B crónica fue del 95%
+comparada con la tasa de infección en controles históricos no tratados.
+ Aunque se desconoce la duración del efecto protector de una formulación previa de vacuna
+antihepatitis B recombinante de Merck en las personas sanas vacunadas, el seguimiento durante 5 a 9
+años de aproximadamente 3.000 personas de alto riesgo a las que se había administrado una vacuna
+similar derivada de plasma, no mostró ningún caso de hepatitis B clínicamente manifiesto.
+ Además, se ha demostrado la persistencia de memoria inmunológica para el antígeno de superficie del
+virus de la hepatitis B (HBsAg) inducida por la vacuna, mediante la respuesta anamnésica de
+anticuerpos a una dosis de recuerdo, de una formulación previa de vacuna antihepatitis B
+recombinante de Merck. Como sucede con otras vacunas de hepatitis B, se desconoce en este
+momento la duración del efecto protector en vacunados sanos. La necesidad de una dosis de refuerzo
+de HBVAXPRO no se ha definido aún más allá de la dosis de refuerzo a los 12 meses que se requiere
+para el ciclo comprimido de 0, 1, 2.
+ Disminución del riesgo de Carcinoma Hepatocelular
+El carcinoma hepatocelular es una complicación grave de la infección por el virus de la hepatitis B.
+Los estudios han demostrado la vinculación entre la infección de hepatitis B crónica y el carcinoma
+hepatocelular y el 80 % de los carcinomas hepatocelulares están causados por una infección por el
+virus de la hepatitis B. La vacuna antihepatitis B ha sido reconocida como la primera vacuna
+antineoplásica al prevenir el cáncer hepático primario.
+ 5.2   Propiedades farmacocinéticas
+ No procede.
+ 5.3   Datos preclínicos sobre seguridad
+ No se han realizado estudios de reproducción animal.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Cloruro sódico, borato sódico y agua para inyectables.
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC y 8ºC) No congelar.
+ 6.5   Naturaleza y contenido del envase
+ 0,5 ml de suspensión en jeringa precargada (vidrio Tipo I) sin aguja, con émbolo (clorobutilo). Envase
+de 1, 10, 20, 50
+0.5 ml de suspensión en jeringa precargada (vidrio Tipo I) con 1 aguja separada con un émbolo
+(clorobutilo). Envase de 1, 10
+0.5 ml de suspensión en jeringa precargada (vidrio Tipo I) con 2 agujas separadas con un émbolo
+(clorobutilo). Envase de 1, 10
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Antes de usar, se debe agitar bien la vacuna.
+Sujetar el cuerpo de la jeringa y fijar la aguja girándola en el sentido de las agujas del reloj hasta que
+esté totalmente ajustada en la jeringa.
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	SANOFI PASTEUR MSD SNC
+8, rue Jonas Salk
+F-69007 Lyon
+Francia
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/01/183/004
+EU/1/01/183/005
+EU/1/01/183/020
+EU/1/01/183/021
+EU/1/01/183/022
+EU/1/01/183/023
+EU/1/01/183/024
+                                                      14
+EU/1/01/183/025
+ 9.  FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 27/04/2001
+Fecha de la última renovación de la autorización: 04/08/2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	HBVAXPRO 10 microgramos/ml
+Suspensión inyectable
+Vacuna antihepatitis B (rADN)
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Una dosis (1 ml) contiene:
+Antígeno de superficie del virus de la hepatitis B, recombinante (HBsAg)* ........10,00 microgramos
+Adsorbido en sulfato hidroxifosfato de aluminio amorfo (0,50 miligramos Al+++).
+ * producido por una cepa recombinante de la levadura Saccharomyces cerevisiae (cepa 2150-2-3)
+ Para consultar la lista completa de excipientes, ver sección 6.1
+ 
+3.    FORMA FARMACÉUTICA
+	Suspensión inyectable en vial.
+Suspensión blanquecina ligeramente opaca.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Esta vacuna está indicada para la inmunización activa frente a la infección por el virus de la hepatitis
+B causada por todos los subtipos conocidos, en adultos y adolescentes (16 años de edad y mayores)
+considerados en riesgo de exposición al virus de la hepatitis B.
+ Los grupos de riesgo específicos para la vacunación se determinan sobre la base de las
+recomendaciones oficiales.
+ Se puede esperar que mediante la inmunización con HBVAXPRO también se prevenga la hepatitis D,
+dado que la hepatitis D (causada por el agente delta) no se presenta en ausencia de infección de
+hepatitis B.
+ 4.2   Posología y forma de administración
+ Posología
+Adultos y adolescentes (16 años de edad y mayores): se recomienda 1 dosis (10 µg) de 1 ml en cada
+inyección.
+ Vacunación primaria:
+ Un ciclo de vacunación deberá incluir al menos tres inyecciones.
+ Se pueden recomendar dos pautas de vacunación primaria:
+ 0, 1, 6 meses: dos inyecciones con un intervalo de un mes; la tercera inyección 6 meses después de la
+primera administración.
+ 0, 1, 2, 12 meses: tres inyecciones con un intervalo de un mes; la cuarta dosis se debe administrar a los
+12 meses.
+ Se recomienda que la vacuna se administre en las pautas indicadas. Aquellas personas que reciban un
+ciclo comprimido (0, 1, 2 meses de ciclo de dosis) deben recibir la dosis de refuerzo a los 12 meses
+para inducir títulos de anticuerpos más altos.
+ Dosis de recuerdo:
+ Vacunados inmunocompetentes
+ No se ha establecido la necesidad de una dosis de refuerzo en personas sanas que han recibido un ciclo
+completo de vacunación primaria. Sin embargo, algunas pautas de vacunación local incluyen
+actualmente la recomendación de una dosis de recuerdo y se deben respetar.
+ Vacunados inmunocomprometidos (por ejemplo, pacientes en diálisis, pacientes trasplantados)
+ En vacunados con el sistema inmunitario deteriorado, se debe considerar la administración de dosis
+adicionales de vacuna si el nivel de anticuerpos frente al antígeno de superficie del virus de la hepatitis
+B (anti-HBsAg) es inferior a 10 UI/l.
+ Revacunación de personas sin respuesta
+ Cuando se revacuna a personas que no responden al ciclo de vacunación primaria, el 15-25 % produce
+una respuesta adecuada de anticuerpos tras una dosis adicional y el 30-50 % después de tres dosis
+adicionales. Sin embargo, dada la ausencia de suficientes datos con relación a la seguridad de la
+vacuna antihepatitis B cuando se administran dosis adicionales a las recomendadas, no se recomienda
+la revacunación de forma rutinaria tras la finalización del ciclo de inmunización primaria. La
+revacunación deberá ser considerada en individuos de alto riesgo, una vez sopesados los posibles
+beneficios de la vacunación frente al riesgo potencial de experimentar un aumento de reacciones
+adversas locales o sistémicas.
+ Recomendaciones posológicas especiales para personas expuestas o presuntamente expuestas al virus
+de la hepatitis B (por ejemplo, pinchazo con una aguja contaminada):
+ -     Se debe administrar inmunoglobulina antihepatitis B lo antes posible después de la exposición
+(en las primeras 24 horas).
+-     La primera dosis de la vacuna se debe administrar dentro de los 7 días de exposición y se puede
+administrar al mismo tiempo que la inmunoglobulina antihepatitis B, pero en sitios de inyección
+diferentes.
+-     Se recomienda también el análisis serológico con la administración de dosis posteriores de
+vacuna, si fuera necesario (es decir de acuerdo con
+el estado serológico del paciente) para la protección a corto y largo plazo.
+-     En el caso de personas no vacunadas o vacunadas de forma incompleta, se debe contemplar la
+necesidad de dosis adicionales según las pautas de inmunización recomendadas. Se puede
+proponer la pauta acelerada incluyendo la dosis de refuerzo a los 12 meses.
+ Forma de administración
+Esta vacuna debe administrarse por vía intramuscular.
+El sitio preferido para la inyección en adultos y adolescentes es el músculo deltoides.
+ No inyectar por vía intravascular.
+ Excepcionalmente, se puede administrar la vacuna por vía subcutánea en pacientes con
+trombocitopenia o trastornos hemorrágicos.
+ Ver sección 6.6 para las instrucciones de uso y manipulación.
+ 4.3   Contraindicaciones
+ -     Hipersensibilidad al principio activo o a alguno de los excipientes.
+-     Enfermedad febril grave
+ 4.4   Advertencias y precauciones especiales de empleo
+ Dado el largo periodo de incubación de la hepatitis B, es posible que en el momento de la
+inmunización exista una infección de hepatitis B no manifiesta. En estos casos, la vacuna puede no
+prevenir la infección de hepatitis B.
+ Se ha observado un número de factores que reducen la respuesta inmune a las vacunas de hepatitis B.
+Estos factores incluyen edad avanzada, sexo masculino, obesidad, fumar, vía de administración y
+algunas enfermedades subyacentes crónicas. Se debe considerar la realización de análisis serológicos
+en aquellas personas que pueden tener riesgo de no obtener la seroprotección después de un ciclo
+completo de HBVAXPRO. Se puede considerar la necesidad de dosis adicionales para las personas
+que no responden o que tienen una respuesta sub-óptima al ciclo de vacunaciones.
+ La vacuna no previene las infecciones causadas por otros agentes como la hepatitis A, hepatitis C y
+hepatitis E, ni por otros patógenos que infectan al hígado.
+ Como con todas las vacunas inyectables, siempre debe estar preparado el tratamiento médico
+apropiado para el caso raro de que se produzca una reacción anafiláctica tras la administración de la
+vacuna.
+ Esta vacuna puede contener trazas de formaldehído y tiocianato potásico, las cuales se utilizan durante
+el proceso de fabricación. Por tanto, se pueden producir reacciones de sensibilización.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Esta vacuna se puede administrar:
+-     con inmunoglobulina antihepatitis B, en lugares diferentes de inyección.
+-     para completar un ciclo de inmunización primaria o como dosis de recuerdo
+en personas que hayan recibido previamente otra vacuna antihepatitis B.
+-     concomitante con otras vacunas, utilizando lugares de inyección y jeringas diferentes.
+ 4.6   Embarazo y lactancia
+ No se dispone de datos clínicos sobre embarazos de riesgo para el antígeno de superficie del virus de
+la hepatitis B (HBsAg). Sin embargo, como con todas las vacunas de virus inactivados, no se espera
+que se produzcan daños en el feto. La vacuna puede utilizarse durante el embarazo únicamente cuando
+el posible beneficio justifique el riesgo potencial para el feto. Debería prestarse atención en la
+prescripción a mujeres embarazadas.
+ No se ha evaluado el efecto de la administración de esta vacuna sobre el niño con lactancia materna;
+no se ha establecido ninguna contraindicación.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas. Sin
+embargo, algunos de los efectos escasos mencionados en el apartado ""Reacciones adversas"", pueden
+afectar la capacidad para conducir y usar maquinaria.
+ 4.8   Reacciones adversas
+ Tras un amplio uso de la vacuna se han informado los siguientes efectos indeseables.
+ Como con otras vacunas antihepatitis B, en muchos casos, no se ha establecido la relación causal con
+la vacuna.
+                                                    18
+Trastornos de la sangre y del sistema linfático
+Muy raras (< 1/10.000)
+Trombocitopenia, linfadenopatía
+ Trastornos del sistema inmunológico
+Muy raras (< 1/10.000)
+Enfermedad del suero, anafilaxia, poliarteritis nodosa
+ Trastornos del sistema nervioso
+Muy raras (< 1/10.000)
+Parestesia, parálisis (parálisis de Bell), neuropatías periféricas (poliradiculoneuritis, parálisis facial),
+neuritis (incluyendo el síndrome de Guillain-Barré, neuritis óptica, mielitis incluyendo la mielitis
+transversa), encefalitis, enfermedad de desmielinización del sistema nervioso central, exacerbación de
+esclerosis múltiple, esclerosis múltiple, ataques, cefalea, mareo, síncope.
+ Trastornos cardíacos
+Muy raras (< 1/10.000)
+Hipotensión, vasculitis
+ Trastornos respiratorios, torácicos y mediastínicos
+Muy raras (< 1/10.000)
+Síntomas de tipo broncoespasmo
+ Trastornos gastrointestinales
+Muy raras (< 1/10.000)
+Vómitos, náuseas, diarrea, dolor abdominal
+ Trastornos de la piel y del tejido subcutáneo
+Muy raras (< 1/10.000)
+Erupción, alopecia, prurito, urticaria, eritema multiforme, angioedema, eczema
+ Trastornos musculoesqueléticos y del tejido conjuntivo
+Muy raras (< 1/10.000)
+Artralgia, artritis, mialgia, dolor en la extremidad
+ Trastornos generales y alteraciones en el lugar de administración
+Frecuentes (>1/100, <1/10)
+Reacciones locales (en el lugar de inyección): dolor transitorio, eritema, induración
+Muy raras (< 1/10.000)
+Fatiga, fiebre, malestar, síntomas de tipo gripal
+ Exploraciones complementarias
+Muy raras (< 1/10.000)
+Elevación de las enzimas hepáticas
+ 4.9   Sobredosis
+ No se han notificado casos de sobredosis.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antiinfecciosos, código ATC: J07BC01
+ La vacuna induce anticuerpos humorales específicos frente al antígeno de superficie del virus de la
+hepatitis B (anti-HBsAg). El desarrollo de un título de anticuerpos frente al antígeno de superficie del
+virus de la hepatitis B (anti-HBsAg) igual o superior a 10 UI/l medidos 1 a 2 meses después de la
+última inyección, se correlaciona con protección frente a la infección por el virus de la hepatitis B.
+ En los ensayos clínicos, el 96 % de 1497 niños pequeños, niños, adolescentes y adultos sanos a los que
+se administró un ciclo de 3 dosis de una formulación previa de vacuna antihepatitis B recombinante de
+Merck, desarrollaron un nivel protector de anticuerpos frente al antígeno de superficie del virus de la
+hepatitis B (> 10 UI/l). En dos ensayos clínicos realizados en adolescentes mayores y en adultos, el
+95,6-97,5% de los vacunados desarrollaron niveles protectores de anticuerpos, y el rango de las
+medias geométricas de los títulos en estos ensayos clínicos fue de 535-793 UI/l.
+ Aunque se desconoce la duración del efecto protector de una formulación previa de vacuna
+antihepatitis B recombinante de Merck en las personas sanas vacunadas, el seguimiento durante 5 a 9
+años de aproximadamente 3.000 personas de alto riesgo a las que se había administrado una vacuna
+similar derivada de plasma, no mostró ningún caso de hepatitis B clínicamente manifiesto.
+ Además, se ha demostrado la persistencia de memoria inmunológica para el antígeno de superficie del
+virus de la hepatitis B (HBsAg) inducida por la vacuna, mediante la respuesta anamnésica de
+anticuerpos a una dosis de recuerdo, de una formulación previa de vacuna antihepatitis B
+recombinante de Merck. Como sucede con otras vacunas de hepatitis B, se desconoce en este
+momento la duración del efecto protector en vacunados sanos. La necesidad de una dosis de refuerzo
+de HBVAXPRO no se ha definido aún más allá de la dosis de refuerzo a los 12 meses que se requiere
+para el ciclo comprimido de 0, 1, 2.
+ Disminución del riesgo de Carcinoma Hepatocelular
+El carcinoma hepatocelular es una complicación grave de la infección por el virus de la hepatitis B.
+Los estudios han demostrado la vinculación entre la infección de hepatitis B crónica y el carcinoma
+hepatocelular y el 80 % de los carcinomas hepatocelulares están causados por una infección por el
+virus de la hepatitis B. La vacuna antihepatitis B ha sido reconocida como la primera vacuna
+antineoplásica al prevenir el cáncer hepático primario.
+ 5.2   Propiedades farmacocinéticas
+ No procede.
+ 5.3   Datos preclínicos sobre seguridad
+ No se han realizado estudios de reproducción animal.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Cloruro sódico, borato de sodiosódico y agua para inyectables.
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC y 8ºC)
+No congelar.
+ 6.5   Naturaleza y contenido del envase
+ 1 ml de suspensión en vial (vidrio Tipo I). Envase de 1 y 10
+ 6.6   Precauciones especiales de eliminación
+ Antes de usar, se debe agitar bien la vacuna. La eliminación del medicamento no utilizado y de todos
+los materiales que hayan estado en contacto con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	SANOFI PASTEUR MSD SNC
+8, rue Jonas Salk
+F-69007 Lyon
+Francia
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/01/183/007
+EU/1/01/183/008
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 27/04/2001
+Fecha de la última renovación de la autorización: 04/08/2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	HBVAXPRO 10 microgramos/ml
+Suspensión inyectable en jeringa precargada
+Vacuna antihepatitis B (rADN)
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Una dosis (1 ml) contiene:
+Antígeno de superficie del virus de la hepatitis B, recombinante (HBsAg)* ........10,00 microgramos
+ Adsorbido en sulfato hidroxifosfato de aluminio amorfo (0,50 miligramos Al+++).
+ * producido por una cepa recombinante de la levadura Saccharomyces cerevisiae (cepa 2150-2-3).
+ Para consultar la lista completa de excipientes, ver sección 6.1
+ 
+3.    FORMA FARMACÉUTICA
+	Suspensión inyectable en jeringa precargada.
+Suspensión blanquecina ligeramente opaca.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Esta vacuna está indicada para la inmunización activa frente a la infección por el virus de la hepatitis
+B causada por todos los subtipos conocidos, en adultos y adolescentes (16 años de edad y mayores)
+considerados en riesgo de exposición al virus de la hepatitis B.
+ Los grupos de riesgo específicos para la vacunación se determinan sobre la base de las
+recomendaciones oficiales.
+ Se puede esperar que mediante la inmunización con HBVAXPRO también se prevenga la hepatitis D,
+dado que la hepatitis D (causada por el agente delta) no se presenta en ausencia de infección de
+hepatitis B.
+ 4.2   Posología y forma de administración
+ Posología
+Adultos y adolescentes (16 años de edad y mayores): se recomienda 1 dosis (10 µg) de 1 ml en cada
+inyección.
+ Vacunación primaria:
+ Un ciclo de vacunación deberá incluir al menos tres inyecciones.
+ Se pueden recomendar dos pautas de vacunación primaria:
+ 0, 1, 6 meses: dos inyecciones con un intervalo de un mes; la tercera inyección 6 meses después de la
+primera administración.
+ 0, 1, 2, 12 meses: tres inyecciones con un intervalo de un mes; la cuarta dosis se debe administrar a los
+12 meses.
+                                                     22
+Se recomienda que la vacuna se administre en las pautas indicadas. Aquellas personas que reciban un
+ciclo comprimido (0, 1, 2 meses de ciclo de dosis) deben recibir la dosis de refuerzo a los 12 meses
+para inducir títulos de anticuerpos más altos.
+ Dosis de recuerdo:
+ Vacunados inmunocompetentes
+ No se ha establecido la necesidad de una dosis de refuerzo en personas sanas que han recibido un ciclo
+completo de vacunación primaria. Sin embargo, algunas pautas de vacunación local incluyen
+actualmente la recomendación de una dosis de recuerdo y se deben respetar.
+ Vacunados inmunocomprometidos (por ejemplo, pacientes en diálisis, pacientes trasplantados)
+ En vacunados con el sistema inmunitario deteriorado, se puede considerar la administración de dosis
+adicionales de vacuna si el nivel de anticuerpos frente al antígeno de superficie del virus de la hepatitis
+B (anti-HBsAg) es inferior a 10 UI/l.
+ Revacunación de personas sin respuesta
+ Cuando se revacuna a personas que no responden al ciclo de vacunación primaria, el 15-25 % produce
+una respuesta adecuada de anticuerpos tras una dosis adicional y el 30-50 % después de tres dosis
+adicionales. Sin embargo, dada la ausencia de suficientes datos con relación a la seguridad de la
+vacuna antihepatitis B cuando se administran dosis adicionales a las recomendadas, no se recomienda
+la revacunación de forma rutinaria tras la finalización del ciclo de inmunización primaria. La
+revacunación deberá ser considerada únicamente en individuos de alto riesgo, una vez sopesados los
+posibles beneficios de la vacunación frente al riesgo potencial de experimentar un aumento de
+reacciones adversas locales o sistémicas.
+ Recomendaciones posológicas especiales para personas expuestas o presuntamente expuestas al virus
+de la hepatitis B (por ejemplo, pinchazo con una aguja contaminada):
+ -     Se debe administrar inmunoglobulina antihepatitis B lo antes posible después de la exposición
+(en las primeras 24 horas).
+-     La primera dosis de la vacuna se debe administrar dentro de los 7 días de exposición y se puede
+administrar al mismo tiempo que la inmunoglobulina antihepatitis B, pero en sitios de inyección
+diferentes.
+-     Se recomienda también el análisis serológico con la administración de dosis posteriores de
+vacuna, si fuera necesario (es decir de acuerdo con el estado serológico del paciente) para la
+protección a corto y largo plazo.
+-     En el caso de personas no vacunadas o vacunadas de forma incompleta, se debe contemplar la
+necesidad de dosis adicionales según las pautas de inmunización recomendadas. Se puede
+proponer la pauta acelerada incluyendo la dosis de refuerzo a los 12 meses.
+ Forma de administración
+ Esta vacuna debe administrarse por vía intramuscular.
+El sitio preferido para la inyección en adultos y adolescentes es el músculo deltoides.
+ No inyectar por vía intravascular.
+ Excepcionalmente, se puede administrar la vacuna por vía subcutánea en pacientes con
+trombocitopenia o trastornos hemorrágicos.
+ Ver sección 6.6 para las instrucciones de uso y manipulación.
+ 4.3   Contraindicaciones
+ -     Hipersensibilidad al principio activo o a alguno de los excipientes.
+-     Enfermedad febril grave
+ 4.4   Advertencias y precauciones especiales de empleo
+ Dado el largo periodo de incubación de la hepatitis B, es posible que en el momento de la
+inmunización exista una infección de hepatitis B no manifiesta. En estos casos, la vacuna puede no
+prevenir la infección de hepatitis B.
+ Se ha observado un número de factores que reducen la respuesta inmune a las vacunas de hepatitis B.
+Estos factores incluyen edad avanzada, sexo masculino, obesidad, fumar, vía de administración y
+algunas enfermedades subyacentes crónicas. Se debe considerar la realización de análisis serológicos
+en aquellas personas que pueden tener riesgo de no obtener la seroprotección después de un ciclo
+completo de HBVAXPRO. Se puede considerar la necesidad de dosis adicionales para las personas
+que no responden o que tienen una respuesta sub-óptima al ciclo de vacunaciones.
+ La vacuna no previene las infecciones causadas por otros agentes como la hepatitis A, hepatitis C y
+hepatitis E, ni por otros patógenos que infectan al hígado.
+ Como con todas las vacunas inyectables, siempre debe estar preparado el tratamiento médico
+apropiado para el caso raro de que se produzca una reacción anafiláctica tras la administración de la
+vacuna.
+ Esta vacuna puede contener trazas de formaldehído y tiocianato potásico, las cuales se utilizan durante
+el proceso de fabricación. Por tanto, se pueden producir reacciones de sensibilización.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Esta vacuna se puede administrar:
+-     con inmunoglobulina antihepatitis B, en lugares diferentes de inyección.
+-     para completar un ciclo de inmunización primaria o como dosis de recuerdo
+en personas que hayan recibido previamente otra vacuna antihepatitis B.
+-     concomitante con otras vacunas, utilizando lugares de inyección y jeringas diferentes.
+ 4.6   Embarazo y lactancia
+ No se dispone de datos clínicos sobre embarazos de riesgo para el antígeno de superficie del virus de
+la hepatitis B (HBsAg). Sin embargo, como con todas las vacunas de virus inactivados, no se espera
+que se produzcan daños en el feto. La vacuna puede utilizarse durante el embarazo únicamente cuando
+el posible beneficio justifique el riesgo potencial para el feto. Debería prestarse atención en la
+prescripción a mujeres embarazadas.
+ No se ha evaluado el efecto de la administración de esta vacuna sobre el niño con lactancia materna;
+no se ha establecido ninguna contraindicación.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas. Sin
+embargo, algunos de los efectos escasos mencionados en el apartado ""Reacciones adversas"", pueden
+afectar la capacidad para conducir y usar maquinaria.
+ 4.8   Reacciones adversas
+ Tras un amplio uso de la vacuna se han informado los siguientes efectos indeseables.
+ Como con otras vacunas antihepatitis B, en muchos casos, no se ha establecido la relación causal con
+la vacuna.
+ Trastornos de la sangre y del sistema linfático
+Muy raras (< 1/10.000)
+Trombocitopenia, linfadenopatía
+ Trastornos del sistema inmunológico
+Muy raras (< 1/10.000)
+Enfermedad del suero, anafilaxia, poliarteritis nodosa
+ Trastornos del sistema nervioso
+Muy raras (< 1/10.000)
+Parestesia, parálisis (parálisis de Bell), neuropatías periféricas (poliradiculoneuritis, parálisis facial),
+neuritis (incluyendo el síndrome de Guillain-Barré, neuritis óptica, mielitis incluyendo la mielitis
+transversa), encefalitis, enfermedad de desmielinización del sistema nervioso central, exacerbación de
+esclerosis múltiple, esclerosis múltiple, ataques, cefalea, mareo, síncope
+ Trastornos cardíacos
+Muy raras (< 1/10.000)
+Hipotensión, vasculitis
+ Trastornos respiratorios, torácicos y mediastínicos
+Muy raras (< 1/10.000)
+Síntomas de tipo broncoespasmo
+ Trastornos gastrointestinales
+Muy raras (< 1/10.000)
+Vómitos, náuseas, diarrea, dolor abdominal
+ Trastornos de la piel y del tejido subcutáneo
+Muy raras (< 1/10.000)
+Erupción, alopecia, prurito, urticaria, eritema multiforme, angioedema, eczema
+ Trastornos musculoesqueléticos, del tejido conectivo y óseos
+Muy raras (< 1/10.000)
+Artralgia, artritis, mialgia, dolor en la extremidad
+ Trastornos generales y alteraciones en el lugar de administración
+Frecuentes (>1/100, <1/10)
+Reacciones locales (en el lugar de inyección): dolor transitorio, eritema, induración
+Muy raras (< 1/10.000)
+Fatiga, fiebre, malestar, síntomas de tipo gripal,
+ Exploraciones complementarias
+Muy raras (< 1/10.000)
+Elevación de las enzimas hepáticas
+ 4.9   Sobredosis
+ No se han notificado casos de sobredosis.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antiinfecciosos, código ATC: J07BC01
+ La vacuna induce anticuerpos humorales específicos frente al antígeno de superficie del virus de la
+hepatitis B (anti-HBsAg). El desarrollo de un título de anticuerpos frente al antígeno de superficie del
+virus de la hepatitis B (anti-HBsAg) igual o superior a 10 UI/l medidos 1 a 2 meses después de la
+última inyección, se correlaciona con protección frente a la infección por el virus de la hepatitis B.
+ En los ensayos clínicos, el 96 % de 1497 niños pequeños, niños, adolescentes y adultos sanos a los que
+se administró un ciclo de 3 dosis de una formulación previa de vacuna antihepatitis B recombinante de
+Merck, desarrollaron un nivel protector de anticuerpos frente al antígeno de superficie del virus de la
+hepatitis B (> 10 UI/l). En dos ensayos clínicos realizados en adolescentes mayores y en adultos, el
+95,6-97,5% de los vacunados desarrollaron niveles protectores de anticuerpos, y el rango de las
+medias geométricas de los títulos en estos ensayos clínicos fue de 535-793 UI/l.
+ Aunque se desconoce la duración del efecto protector de una formulación previa de vacuna
+antihepatitis B recombinante de Merck en las personas sanas vacunadas, el seguimiento durante 5 a 9
+años de aproximadamente 3.000 personas de alto riesgo a las que se había administrado una vacuna
+similar derivada de plasma, no mostró ningún caso de hepatitis B clínicamente manifiesto.
+ Además, se ha demostrado la persistencia de memoria inmunológica para el antígeno de superficie del
+virus de la hepatitis B (HBsAg) inducida por la vacuna, mediante la respuesta anamnésica de
+anticuerpos a una dosis de recuerdo, de una formulación previa de vacuna antihepatitis B
+recombinante de Merck. Como sucede con otras vacunas de hepatitis B, se desconoce en este
+momento la duración del efecto protector en vacunados sanos. La necesidad de una dosis de refuerzo
+de HBVAXPRO no se ha definido aún más allá de la dosis de refuerzo a los 12 meses que se requiere
+para el ciclo comprimido de 0, 1, 2.
+ Disminución del riesgo de Carcinoma Hepatocelular
+El carcinoma hepatocelular es una complicación grave de la infección por el virus de la hepatitis B.
+Los estudios han demostrado la vinculación entre la infección de hepatitis B crónica y el carcinoma
+hepatocelular y el 80 % de los carcinomas hepatocelulares están causados por una infección por el
+virus de la hepatitis B. La vacuna antihepatitis B ha sido reconocida como la primera vacuna
+antineoplásica al prevenir el cáncer hepático primario.
+ 5.2   Propiedades farmacocinéticas
+ No procede.
+ 5.3   Datos preclínicos sobre seguridad
+ No se han realizado estudios de reproducción animal.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Cloruro sódico, borato sódico y agua para inyectables.
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC y 8ºC)
+No congelar.
+ 6.5   Naturaleza y contenido del envase
+ 1 ml de suspensión en jeringa precargada (vidrio Tipo I) sin aguja, con émbolo (clorobutilo). Envase
+de 1, 10
+1 ml de suspensión en jeringa precargada (vidrio Tipo I) con 1 aguja separada con un émbolo
+(clorobutilo). Envase de 1, 10
+1 ml de suspensión en jeringa precargada (vidrio Tipo I) con 2 agujas separada con un émbolo
+(clorobutilo). Envase de 1, 10
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Antes de usar, se debe agitar bien la vacuna.
+Sujetar el cuerpo de la jeringa y fijar la aguja girándola en el sentido de las agujas del reloj hasta que
+esté totalmente ajustada en la jeringa.
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	SANOFI PASTEUR MSD SNC
+8, rue Jonas Salk
+F-69007 Lyon
+Francia
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/01/183/011
+EU/1/01/183/013
+EU/1/01/183/026
+EU/1/01/183/027
+EU/1/01/183/028
+EU/1/01/183/029
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 27/04/2001
+Fecha de la última renovación de la autorización: 04/08/2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	HBVAXPRO 40 microgramos/ml
+ Suspensión inyectable
+Vacuna antihepatitis B (rADN)
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Una dosis (1 ml) contiene:
+Antígeno de superficie del virus de la hepatitis B, recombinante (HBsAg)* ........40,00 microgramos
+Adsorbido en sulfato hidroxifosfato de aluminio amorfo (0,50 miligramos Al+++).
+ * producido por una cepa recombinante de la levadura Saccharomyces cerevisiae (cepa 2150-2-3).
+ Para consultar la lista completa de excipientes, ver sección 6.1
+ 
+3.    FORMA FARMACÉUTICA
+	Suspensión inyectable en vial.
+Suspensión blanquecina ligeramente opaca.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Esta vacuna está indicada para la inmunización activa frente a la infección por el virus de la hepatitis
+B causada por todos los subtipos conocidos, en pacientes adultos en prediálisis y diálisis.
+ Se puede esperar que mediante la inmunización con HBVAXPRO también se prevenga la hepatitis D,
+dado que la hepatitis D (causada por el agente delta) no se presenta en ausencia de infección de
+hepatitis B.
+ 4.2   Posología y forma de administración
+ Posología
+Pacientes adultos en prediálisis y diálisis: se recomienda 1 dosis (40 µg) de 1 ml en cada inyección.
+ Vacunación primaria:
+ Un ciclo de vacunación deberá incluir al menos tres inyecciones.
+Pauta de 0, 1, 6 meses: dos inyecciones con un intervalo de un mes; la tercera inyección 6 meses
+después de la primera administración.
+ Dosis de recuerdo:
+ Se debe considerar la administración de una dosis de recuerdo en estas personas vacunadas si el nivel
+de anticuerpos frente al antígeno de superficie del virus de la hepatitis B (anti-HBsAg) después de las
+primeras dosis es inferior a 10 UI/l.
+ De acuerdo con las prácticas médicas estándar para la administración de vacuna de hepatitis B, el
+análisis de anticuerpos con regularidad debe realizarse en los pacientes con hemodiálisis. Se debe
+administrar una dosis de refuerzo cuando los niveles de anticuerpos disminuyen por debajo de 10 UI/l.
+ Recomendaciones posológicas especiales para personas expuestas o presuntamente expuestas al virus
+de la hepatitis B (por ejemplo, pinchazo con una aguja contaminada):
+ -     Se debe administrar inmunoglobulina antihepatitis B lo antes posible después de la exposición
+(en las primeras 24 horas).
+-     La primera dosis de la vacuna se debe administrar dentro de los 7 días de exposición y se puede
+administrar al mismo tiempo que la inmunoglobulina antihepatitis B, pero en sitios de inyección
+diferentes.
+-      Se recomienda también el análisis serológico con la administración de dosis posteriores de
+vacuna, si fuera necesario (es decir de acuerdo con el estado serológico del paciente) para la
+protección a corto y largo plazo.
+-     En el caso de personas no vacunadas o vacunas de forma incompleta se debe contemplar la
+necesidad de dosis adicionales según la pauta de inmunización recomendada.
+ Forma de administración
+Esta vacuna debe administrarse por vía intramuscular.
+El sitio preferido para la inyección en adultos es el músculo deltoides.
+ No inyectar por vía intravascular.
+ Excepcionalmente, se puede administrar la vacuna por vía subcutánea en pacientes con
+trombocitopenia o trastornos hemorrágicos.
+ Ver sección 6.6 para las instrucciones de uso y manipulación.
+ 4.3   Contraindicaciones
+ -     Hipersensibilidad al principio activo o a alguno de los excipientes.
+-     Enfermedad febril grave
+ 4.4   Advertencias y precauciones especiales de empleo
+ Dado el largo periodo de incubación de la hepatitis B, es posible que en el momento de la
+inmunización exista una infección de hepatitis B no manifiesta. En estos casos, la vacuna puede no
+prevenir la infección de hepatitis B.
+ La vacuna no previene las infecciones causadas por otros agentes como la hepatitis A, hepatitis C y
+hepatitis E, ni por otros patógenos que infectan al hígado.
+ Como con todas las vacunas inyectables, siempre debe estar preparado el tratamiento médico
+apropiado para el caso raro de que se produzca una reacción anafiláctica tras la administración de la
+vacuna.
+ Esta vacuna puede contener trazas de formaldehído y tiocianato potásico, las cuales se utilizan durante
+el proceso de fabricación. Por tanto, se pueden producir reacciones de sensibilización.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Esta vacuna se puede administrar:
+-     con inmunoglobulina antihepatitis B, en lugares diferentes de inyección.
+-     para completar un ciclo de inmunización primaria o como dosis de recuerdo
+en personas que hayan recibido previamente otra vacuna antihepatitis B.
+-     concomitante con otras vacunas, utilizando lugares de inyección y jeringas diferentes
+ 4.6   Embarazo y lactancia
+ No se dispone de datos clínicos sobre embarazos de riesgo para el antígeno de superficie del virus de
+                                                    29
+la hepatitis B (HBsAg). Sin embargo, como con todas las vacunas de virus inactivados, no se espera
+que se produzcan daños en el feto. La vacuna puede utilizarse durante el embarazo únicamente cuando
+el posible beneficio justifique el riesgo potencial para el feto. Debería prestarse atención en la
+prescripción a mujeres embarazadas.
+ No se ha evaluado el efecto de la administración de esta vacuna sobre el niño con lactancia materna;
+no se ha establecido ninguna contraindicación.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para cond
+ 
+	Prospectos de medicamentos.

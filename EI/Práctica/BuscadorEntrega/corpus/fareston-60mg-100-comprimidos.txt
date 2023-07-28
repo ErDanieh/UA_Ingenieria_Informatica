@@ -1,0 +1,583 @@
+FARESTON 60MG 100 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Fareston 60 mg comprimidos
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene toremifeno 60 mg (como citrato)
+Excipientes:
+Para la lista completa, ver sección 6.1
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido.
+Comprimido blanco, redondo, liso, biselado con TO 60 impreso en una cara.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento hormonal de primera elección del cáncer de mama metastásico hormono-dependiente en
+pacientes post-menopáusicas. Fareston no está recomendado para pacientes con tumores con
+receptores de estrógenos negativos.
+ 4.2   Posología y forma de administración
+ No hay ninguna indicación precisa para Fareston en niños.
+ La dosis recomendada es de 60 mg, un comprimido, diariamente.
+ Insuficiencia renal: No es necesario ajustar la dosis en pacientes con insuficiencia renal.
+ Insuficiencia hepática: El toremifeno debe utilizarse con precaución en pacientes con alteración
+hepática (ver también sección 5.2b).
+ 4.3   Contraindicaciones
+ La hiperplasia endometrial previa y la insuficiencia hepática severa son contraindicaciones en el
+tratamiento a largo plazo con toremifeno.
+ Hipersensibilidad al toremifeno o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Antes de la administración del tratamiento se deberá realizar un examen ginecológico, examinando
+atentamente la alteración del endometrio existente previamente. Después se deberá repetir el examen
+ginecológico al menos una vez al año. Los pacientes con riesgo adicional de cáncer de endometrio, por
+ejemplo los pacientes que presenten hipertensión o diabetes, con índice de masa corporal elevado
+(>30) o historia de terapia de sustitución hormonal deberán ser monitorizados estrechamente (ver
+también sección 4.8).
+ Los pacientes con historia de enfermedad tromboembólica severa no deberán ser generalmente
+tratados con toremifeno (ver también sección 4.8).
+ Los pacientes con insuficiencia cardíaca no compensada o angina de pecho severa deberán ser
+monitorizados estrechamente.
+ Debido a que puede aparecer hipercalcemia al principio del tratamiento con toremifeno en pacientes
+con metástasis ósea, estos pacientes deberán ser monitorizados estrechamente.
+ No hay datos clínicos disponibles en pacientes con diabetes lábil, en pacientes con mal estado general
+o en pacientes con insuficiencia cardiaca.
+ Fareston contiene lactosa (30 mg por comprimido). Los pacientes con problemas hereditarios raros de
+intolerancia a la galactosa, con insuficiencia de lactasa Lapp o con malabsorción de glucosa-galactosa
+no deberían tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios de interacciones.
+ Los fármacos que disminuyen la excreción de calcio renal, como los diuréticos a base de tiazida,
+pueden aumentar el riesgo de hipercalcemia.
+ Los inductores enzimáticos como el fenobarbital, fenitoína y carbamazepina, pueden aumentar la
+velocidad de metabolismo del toremifeno, reduciendo así su concentración sérica en el estado de
+equilibrio. En tales casos puede resultar necesario duplicar la dosis diaria.
+ Existe interacción conocida entre los antiestrógenos y los anticoagulantes del tipo de la warfarina, que
+conduce a un tiempo de hemorragia mucho más elevado. Por tanto, se debe evitar el uso simultáneo
+del toremifeno con dichos fármacos.
+ Teóricamente, el metabolismo del toremifeno se ve inhibido por medicamentos que se sabe inhiben el
+sistema enzimático CYP 3A, que se ha descrito como responsable de sus principales rutas metabólicas.
+Ejemplos de tales fármacos son el ketoconazol y antimicóticos similares, eritromicina y
+troleandomicina. Debe ser cuidadosamente estudiado el uso concomitante de esos fármacos con
+toremifeno.
+ 4.6   Embarazo y lactancia
+ El toremifeno está recomendado para las pacientes post-menopáusicas.
+ No existen datos suficientes sobre la utilización de Fareston en mujeres embarazadas. Los estudios en
+animales han mostrado toxicidad reproductiva (véase 5.3). Se desconoce el riesgo potencial en seres
+humanos. Fareston no debería utilizarse durante el embarazo.
+ En ratas, se observó una disminución en la ganancia de peso corporal en las crías durante la lactancia.
+Fareston no debería utilizarse durante la lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La influencia de toremifeno sobre la capacidad para conducir y utilizar máquinas es nula.
+ 4.8   Reacciones adversas
+ Las reacciones adversas más frecuentes son sofocos, sudoración, sangrado uterino, leucorrea, fatiga,
+náuseas, rash, picor, mareo y depresión. Las reacciones son generalmente leves y en su mayoría
+debidas a la acción hormonal del toremifeno.
+ Reacciones adversas de acuerdo a la clasificación de órganos
+                                                     3
+Grupo de            Muy            Frecuentes*       Nada              Raras*           Muy raras*
+órganos             frecuentes*                      frecuentes*
+  Trastornos del                     sangrado          hipertrofia       pólipos          hiperplasia
+sistema                            uterino,          endometrial       endometriales    endometrial,
+reproductor,                       leucorrea                                            cáncer
+mujeres                                                                                 endometrial
+Trastornos          sofocos,       fatiga            aumento de
+generales           sudoración     edema             peso,
+Trastornos                         náuseas           pérdida de
+gastrointestinale                  vómitos           apetito,
+s                                                    estreñimiento
+Trastornos de la                   rash, picor                                          alopecia
+piel y faneras
+Trastornos del                     mareo             insomnio          vértigo
+sistema nervioso
+central y
+periférico
+Trastornos                         depresión
+psiquiátricos
+Trastornos del                                       disnea
+sistema
+respiratorio
+Trastornos                                                                              opacidad
+visuales                                                                                corneal
+Trastornos                                           acontecimientos
+plaquetarios,                                        tromboembólico
+hemorrágicos y                                       s
+en la
+coagulación
+Trastornos en el                                                       aumento de las   ictericia
+sistema hepático                                                       transaminasas
+y biliar
+ *Las reacciones adversas a fármacos se han ordenado en función de la frecuencia utilizando el
+siguiente convenio: muy frecuentes (>1/10), frecuentes (>1/100, <1/10), nada frecuentes (>1/1.000,
+<1/100), raras (>1/10.000, <1/1.000), muy raras (<1/10.000 incluyendo casos aislados)
+ Los acontecimientos tromboembólicos incluyen trombosis venosa profunda, tromboflebitis y
+embolismo pulmonar (ver también sección 4.4 Advertencias y precauciones especiales de empleo).
+ El tratamiento con toremifeno se ha asociado con cambios en los niveles de enzimas hepáticas
+(aumentos de las transaminasas) y en muy raras ocasiones con alteraciones de la función hepática más
+severa (ictericia).
+ Se han comunicado algunos casos de hipercalcemia en pacientes con metástasis ósea al principio del
+tratamiento con toremifeno.
+ Durante el tratamiento puede aparecer hipertrofia endometrial, debido al efecto parcialmente
+estrogénico del toremifeno. Existe el riesgo de aumento de cambios en el endometrio incluyendo
+hiperplasia, pólipos y cáncer. Esto puede ser debido al mecanismo subyacente de estimulación
+ estrógenica (ver también sección 4.4).
+ 4.9   Sobredosis
+ No se han descrito casos de sobredosis.
+ En estudios realizados en voluntarios sanos, se observaron vértigos, cefalea y mareos con dosis diarias
+de 680 mg. No existen antídotos específicos, por lo que el tratamiento es sintomático.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antiestrógenos, código ATC: L02BA02
+ El toremifeno es un derivado no esteroideo del trifeniletileno. Como otros miembros de esta clase,
+como tamoxifeno y clomifeno, el toremifeno aparece ligado a receptores estrógenos y puede ejercer
+actividad estrogénica, antiestrogénica o ambas a la vez, dependiendo de la duración del tratamiento,
+especie animal, género, órgano afectado y variable seleccionada. Sin embargo y en general, los
+derivados no esteroideos del trifeniletileno son predominantemente antiestrogénicos en ratas y en el
+hombre, y estrogénicos en ratones.
+ En pacientes post-menopáusicas con cáncer de mama, el tratamiento con toremifeno se ha asociado
+con reducciones moderadas tanto en el colesterol sérico total como en las lipoproteínas de baja
+densidad (LDL).
+ El toremifeno se une específicamente a los receptores estrógenos, en competencia con el estradiol, e
+inhibe la estimulación inducida por los estrógenos de la síntesis del DNA y la replicación celular. En
+algunos cánceres experimentales y/o utilizando dosis elevadas, el toremifeno presenta efectos
+antitumorales que no son estrógeno-dependientes.
+ El efecto antitumoral del toremifeno en el cáncer de mama se debe principalmente a su efecto
+antiestrogénico, aunque otros mecanismos (cambios en la expresión de los oncogenes, secreción del
+factor de crecimiento, inducción de apoptosis e influencia en la cinética del ciclo celular) pueden estar
+también involucrados en el efecto antitumoral.
+ 5.2   Propiedades farmacocinéticas
+ a)    Características generales
+ El toremifeno se absorbe rápidamente tras la administración oral. Las concentraciones máximas
+séricas se obtienen a las tres horas (intervalo 2 - 5). La ingestión de alimentos no afecta a la extensión
+de la absorción pero puede retrasar las concentraciones pico en 1,5 - 2 horas. Los cambios debidos a la
+ingestión de alimento no son clínicamente significativos.
+ La curva de concentración sérica puede describirse mediante una ecuación biexponencial. La semivida
+de la primera fase (distribución) es de 4 horas (intervalo 2 - 12), y de la segunda fase (eliminación) es
+5 días (intervalo 2 - 10). Los parámetros de disposición basal (CL y V) no pudieron estimarse debido a
+la ausencia de un estudio intravenoso. El toremifeno se une ampliamente (> 99,5 %) a las proteinas
+séricas, sobre todo a la albúmina. A dosis diarias entre 11 y 680 mg por vía oral, el toremifeno tiene
+una cinética sérica lineal. La concentración media de toremifeno en el estado de equilibrio es de
+0,9 g/ml (intervalo 0,6 - 1,3) a la dosis recomendada de 60 mg diarios.
+ El toremifeno se metaboliza ampliamente. El principal metabolito sérico en el hombre es el N-
+demetiltoremifeno, con una semivida media de 11 días (intervalo 4 - 20). Su concentración en el
+ estado de equilibrio es aproximadamente el doble que la del compuesto madre. Tiene una actividad
+antiestrogénica similar, pero una actividad antitumorígena más débil que la del compuesto madre.
+ Se une a las proteínas plasmáticas incluso en mayor medida que el toremifeno, siendo la fracción de la
+proteína ligada > 99,9 %. Se han detectado tres metabolitos menos importantes en el suero humano:
+(deaminohidroxi) toremifeno, 4-hidroxitoremifeno y N,N-didemetiltoremifeno. Aunque teóricamente
+pueden tener importantes efectos hormonales, su concentración durante el tratamiento con toremifeno
+es demasiado baja para que se les pueda atribuir importancia biológica.
+ El toremifeno se elimina principalmente a través de las heces, en forma de metabolitos. Es de esperar
+circulación enterohepática. Alrededor del 10 % de la dosis suministrada se elimina a través de la orina,
+en forma de metabolitos. Debido a esta lenta eliminación, se obtienen concentraciones en el estado de
+equilibrio en suero en unas 4 a 6 semanas.
+ b)    Características en los pacientes
+ A la dosis diaria recomendada de 60 mg, no existe correlación positiva entre la eficacia antitumoral
+clínica y las concentraciones séricas.
+ No existe información sobre metabolismo polimórfico. El complejo enzimático del que se sabe
+responsable del metabolismo del toremifeno en humanos, es la oxidasa con función hepática mixta
+dependiente del citocromo P450. En la principal ruta metabólica, la N-desmetilación, interviene como
+mediador principal el sistema CYP 3A.
+ La farmacocinética de toremifeno se investigó en un estudio abierto con cuatro grupos paralelos de
+diez sujetos: sujetos normales, pacientes con alteración (media AST 57 U/l - media ALT 76 U/l -
+media gamma GT 329 U/l) o función hepática activada (media AST 25 U/l - media ALT 30 U/l -
+media gamma GT 91 U/l - pacientes tratados con antiepilépticos) y pacientes con función renal
+alterada (creatinina: 176 mol/l). En este estudio, la cinética de toremifeno en pacientes con función
+renal deteriorada no estaba significativamente alterada en comparación con sujetos normales. La
+eliminación de toremifeno y sus metabolitos estaba significativamente incrementada en pacientes con
+función hepática activada y disminuida en pacientes con función hepática deteriorada.
+ 5.3   Datos preclínicos sobre seguridad
+ La toxicidad aguda del toremifeno es baja, siendo la DL-50 en ratas y ratones de más de 2.000 mg/kg.
+En estudios de toxicidad repetida, la causa de la muerte en ratas ha sido la dilatación gástrica. En
+estudios de toxicidad aguda y crónica, la mayoría de los resultados tienen que ver con los efectos
+hormonales del toremifeno. Los otros hallazgos no son toxicológicamente significativos. Toremifeno
+no ha mostrado genotoxicidad, ni ha resultado carcinogénico en ratas. En ratones, los estrógenos
+inducen tumores ováricos y testiculares, así como hiperostosis y osteosarcomas. El toremifeno tiene un
+efecto similar al estrogénico en determinadas especies, como el ratón, dando origen a tumores
+similares. Estos resultados se consideran de escasa relevancia para la seguridad en el hombre, donde el
+toremifeno actúa principalmente como un antiestrógeno.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Almidón de maíz
+Lactosa
+Povidona
+Glicolato sódico de almidón
+Estearato magnésico
+Celulosa, microcristalina
+Sílice, coloidal anhidra
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Período de validez
+ 5 años
+ 6.4   Precauciones especiales de conservación
+ No requiere condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del recipiente
+ Blister de PVC verde y aluminio, en estuche de cartón.
+ Envases: 30 y 100 comprimidos.
+ Posible comercialización solamente de algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	ORION CORPORATION
+Orionintie 1
+FIN-02200 ESPOO
+FINLANDIA
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/96/004/001
+EU/1/96/004/002
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 14 de febrero de 1996
+14 de febrero de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ {MM/AAAA}
+ La información detallada de este medicamento está disponible en la pagina web de la Agencia
+Europea de Medicamentos (EMEA) http://www.emea.eu.int/
+                                                    7
+ A.   TITULAR(ES) DE LA(S) AUTORIZACIÓN(CIONES) DE FABRICACIÓN
+RESPONSABLE(S) DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ A.    TITULAR(ES) DE LA AUTORIZACIÓN(ES) DE FABRICACIÓN RESPONSABLE(S)
+DE LA LIBERACIÓN DE LOS LOTES
+ Nombre o razón social del(de los) fabricante(s) responsables de la liberación de los lotes
+ Orion Corporation Orion Pharma
+Tengströminkatu 8
+FIN-20360 Turku
+Finlandia
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica.
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ·     OTRAS CONDICIONES
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 10
+A. ETIQUETADO
+ 11
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR, O, EN SU DEFECTO,
+EN EL ACONDICIONAMIENTO PRIMARIO
+ CARTONAJE
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Fareston 60 mg comprimidos
+toremifeno (como citrato)
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ 60 mg de toremifeno (como citrato)
+ 
+3.    LISTA DE EXCIPIENTES
+	Excipientes c.s.p. 1 comprimido, incluyendo lactosa
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	30 comprimidos
+100 comprimidos
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Leer el prospecto antes de utilizar.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD: MM-AAAA
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No se precisan condiciones especiales de conservación.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL PRODUCTO NO UTILIZADO
+O DE LOS MATERIALES QUE ESTÉN EN CONTACTO DIRECTO CON EL
+ PRODUCTO (CUANDO CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ ORION CORPORATION
+Orionintie 1
+FIN-02200 ESPOO
+FINLANDIA
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/96/004/001
+EU/1/96/004/002
+ 13.    NÚMERO DE LOTE DEL FABRICANTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACION EN BRAILLE
+ Fareston 60 mg
+ INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR, O, EN SU DEFECTO,
+EN EL ACONDICIONAMIENTO PRIMARIO
+ CARTONAJE
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Fareston 60 mg comprimidos
+toremifeno (como citrato)
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ 60 mg de toremifeno (como citrato)
+ 
+3.    LISTA DE EXCIPIENTES
+	Excipientes c.s.p. 1 comprimido, incluyendo lactosa
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	30 comprimidos
+100 comprimidos
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Leer el prospecto antes de utilizar.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD: MM-AAAA
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No se precisan condiciones especiales de conservación.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL PRODUCTO NO UTILIZADO
+O DE LOS MATERIALES QUE ESTÉN EN CONTACTO DIRECTO CON EL
+ PRODUCTO (CUANDO CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ ORION CORPORATION
+Orionintie 1
+FIN-02200 ESPOO
+FINLANDIA
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/96/004/001
+EU/1/96/004/002
+ 13.    NÚMERO DE LOTE DEL FABRICANTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACION EN BRAILLE
+ Fareston 60 mg
+ INFORMACIÓN MÍNIMA A INCLUIR EN BLISTERS O TIRAS
+ BLISTER
+ 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	Fareston 60 mg ­toremifeno
+ 
+2.     NOMBRE DEL TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	ORION CORPORATION
+ 
+3.     FECHA DE CADUCIDAD
+	CAD: MM-AAAA
+ 
+4.     NÚMERO DE LOTE DEL FABRICANTE
+	Lote
+ 
+5.     OTROS
+	B. PROSPECTO
+ 17
+                                      Fareston 60 mg comprimidos
+ Lea todo el prospecto detenidamente antes de empezar a tomar el medicamento.
+-     Conserve este prospecto. Puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico.
+-     Este medicamento se le ha recetado a Vd. personalmente y no debe Vd. pasarlo a otras personas.
+Puede perjudicarles, aun cuando sus síntomas sean los mismos que los suyos.
+-     Si aprecia cualquier efecto adverso no mencionado en este prospecto o si sufre uno de los
+efectos adversos descritos de forma grave, informe a su médico o farmacéutico.
+ En este prospecto:
+1.    Qué es Fareston y para qué se utiliza
+2.    Antes de tomar Fareston
+3.    Cómo tomar Fareston
+4.    Posibles efectos adversos
+5     Conservación de Fareston
+6.    Información adicional
+ 
+1.    QUÉ ES FARESTON Y PARA QUÉ SE UTILIZA
+	Fareston es un antiestrógeno. Fareston está indicado para el tratamiento de ciertos tipos de tumores de
+mama en mujeres después de la menopausia.
+ 
+2.    ANTES DE TOMAR FARESTON
+	No tome Fareston
+-    si Vd. es alérgico (hipersensible) a toremifeno o a cualquiera de los demás componentes de
+Fareston
+-    si Vd. presenta un engrosamiento del revestimiento de la matriz
+-    si Vd. presenta problemas hepáticos graves.
+ Tenga especial cuidado con Fareston
+-    si Vd presenta insuficiencia cardíaca, diabetes lábil o si presenta mal estado general.
+-    En caso de tener historia de trombosis venosa profunda o embolismo pulmonar, por lo general Vd.
+no debe tomar Fareston.
+ Antes de iniciar tratamiento con Fareston
+-     Si Vd. presenta metástasis óseas podría tener hipercalcemia (aumento de la concentración de calcio
+en la sangre, al principio del tratamiento), por lo que se tiene que controlar el nivel de calcio.
+-     Por favor contacte con su médico con respecto a la pregunta de si debe someterse a exámenes
+ginecológicos al principio y a intervalos regulares mientras esté tomando Fareston.
+ Si usted cree que se encuentra en este caso, por favor contacte con su médico o farmacéutico.
+ Toma de con otros medicamentos
+Informe a su médico o farmacéutico si está tomando o ha tomado recientemente con otros medicamentos,
+incluso los adquiridos sin receta. Puede ser necesario ajustar la dosis de alguno de ellos mientras se
+encuentre en tratamiento con Fareston.
+ Estos medicamentos comprenden: los diuréticos de tipo tiazídico, los anticoagulantes (previenen la
+coagulación sanguínea) del tipo de la warfarina, ciertos antiepilépticos (medicamentos utilizados para
+tratar la epilepsia, por ejemplo carbamazepina, fenitoína, fenobarbital), ciertos antimicóticos (utilizados
+                                                       18
+para tratar infecciones fúngicas, como el ketoconazol) y algunos antibióticos (como eritromicina y
+troleandomicina).
+ Si se le ingresa en un hospital o si le prescriben un nuevo medicamento, informe a su médico de que está
+tomando Fareston.
+ Embarazo y lactancia
+Fareston está recomendado en las pacientes que ya están en periodo de menopausia. No debe
+administrarse durante el embarazo o lactancia.
+ Conducción y uso de máquinas
+La influencia de toremifeno sobre la capacidad para conducir y utilizar máquinas es nula.
+ Información importante sobre algunos de los componentes de Fareston
+Fareston contiene lactosa (30 mg por comprimido). Si su médico le ha dicho que presenta intolerancia
+a algunos azúcares, coménteselo a su médico antes de tomar este medicamento.
+ 
+3.    CÓMO TOMAR FARESTON
+	Siga exactamente las instrucciones de administración de Fareston de su médico. Consulte a su médico
+o farmacéutico si tiene dudas. La dosis recomendada es de un comprimido de 60 mg al día, administrado
+por vía oral.
+ Si Vd. toma más Fareston del que debiera
+Contacte inmediatamente con su médico. Los síntomas de sobredosis pueden ser mareo y dolor de cabeza.
+ Si olvidó tomar Fareston
+Se recomienda la administración diaria. Si olvidara tomar una dosis, tome el siguiente comprimido como
+de costumbre y continúe el tratamiento como fue recomendado. No tome una dosis doble para
+compensar las dosis olvidadas Si olvidara varias dosis informe de ello a su médico y siga sus
+instrucciones.
+ Efectos que se dan cuando se interrumpe el tratamiento con Fareston
+El tratamiento con Fareston sólo debe ser interrumpido cuando su médico se lo indique.
+Si tiene cualquier otra duda sobre el uso de este producto, pregunte a su médico o farmacéutico.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, Fareston puede tener efectos adversos, aunque no todas las
+personas los sufran.
+ Los efectos adversos que se pueden producir con mayor frecuencia son: sofocos, sudoración, sangrado
+uterino, descarga de fluido blanco, cansancio, náuseas (sentirse mareado), erupción cutánea, picor, mareo
+y depresión.
+ Otros posibles efectos adversos son: dolor de cabeza, aumento de peso, hinchazón, alteraciones del sueño,
+dificultad respiratoria, estreñimiento, pérdida del apetito, problemas visuales reversibles y vómitos.
+ Los efectos adversos raros pero graves son: coágulos sanguíneos en venas de piernas y/o pulmón, cambios
+en el revestimiento del útero (endometrio) y problemas hepáticos. Deberá contactar con su médico si
+observa cualquiera de los siguientes síntomas: hinchazón o sensibilidad anormal en su pantorrilla,
+dificultad respiratoria inexplicada o dolor repentino de pecho, hemorragia vaginal o alteraciones en el
+flujo vaginal.
+ Si nota efectos adversos no mencionados en este prospecto o si sufre uno de los efectos adversos
+                                                     19
+descritos de forma grave, comuníqueselo a su médico o farmacéutico.
+ 
+5.    CONSERVACIÓN DE FARESTON
+	Mantener fuera del alcance y de la vista de los niños.
+ No use Fareston después de la fecha de caducidad que aparece en la etiqueta. La fecha de caducidad es
+el último día del mes que se indica.
+ Fareston no requiere condiciones especiales de conservación.
+ Los medicamentos no se deben tirar a las aguas residuales o a la basura. Pregunte a su farmacéutico
+como deshacerse de los medicamentos que no necesita. De esta forma ayudará a proteger el medio
+ambiente.
+ 
+6.    INFORMACIÓN ADICIONAL
+	¿Qué contiene Fareston?
+-    El principio activo es toremifeno citrato.
+-    Los demás componentes son almidón de maíz, lactosa, povidona, glicolato sódico de almidón,
+celulosa microcristalina, sílice coloidal anhidra y estearato magnésico.
+ Aspecto del producto y tamaño del envase
+Los comprimidos son blancos, redondos, lisos, biselados, con TO 60 impreso en una cara.
+ Envase: Blister de PVC verde y aluminio, en estuche de cartón.
+Tamaño de los envases: 30 y 100 comprimidos. Posible comercialización solamente de algunos
+tamaños de envases.
+ Titular de la autorización de comercialización
+Orion Corporation
+Orionintie 1
+FIN-02200 ESPOO
+FINLANDIA
+ Fabricante
+Orion Corporation, Orion Pharma
+Tengströminkatu 8
+FIN-20360 TURKU
+FINLANDIA
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización.
+ België/Belgique/Belgien                               Luxembourg/Luxemburg
+Baxter Belgium SPRL                                   Baxter Belgium SPRL
+Bd. de la Plaine/Pleinlaan 5                          Bd. de la Plaine/Pleinlaan 5
+B-1050 Brussel/Bruxelles/Brüssel                      B-1050 Brussel/Bruxelles/Brüssel
+Tel: +32 2 650 1711                                   Tel: +32 2 650 1711
+                                                       Magyarország
+Orion Corporation                                     Orion Pharma Kft.
+Orionintie 1                                          Xenter13 Irodaház, Pap Károly u. 4-6 VII. emelet
+FIN-02200 Espoo                                       H-1139 Budapest
+Tel: +358 10 4261                                     Tel: +36 1 239 9095
+ Ceská republika                                       Malta
+Orion-yhtymä Oyj                                      Orion Corporation
+Zelený pruh 95/97                                     Orionintie 1
+140 00 Praha                                          FIN-02200 Espoo
+Tel: +420 227 027 263                                 Tel: +358 10 4261
+ Danmark                                               Nederland
+Orion Pharma A/S                                      Baxter B.V.
+Møllevej 9                                            Kobaltweg 49
+DK-2990 Nivå                                          NL-3542 CE Utrecht
+Tel: + 45 49 12 6600                                  Tel: +31 30 24 88911
+ Deutschland                                           Norge
+Baxter Deutschland GmbH                               Orion Pharma AS
+Edisonstraße 4                                        Gjerdrumsvei 8
+85716 Unterschleißheim                                Pb. 4366 Nydalen
+Tel: +49 89 31 701 -0                                 NO-0402 Oslo
+ Eesti                                                 Österreich
+Orion Pharma Eesti OÜ                                 Baxter Vertriebs GmbH
+Lastekodu tn.5-24                                     Landstraßer Hauptstraße 99/Top 2 A
+EE-10115 Tallinn                                      A-1030 Wien
+Tel: +372 6 616 863                                   Tel: +43 1 71120-0
+                                                       Polska
+63                                                  Orion Oyj S.A.
+GR-174 55                                             Przedstawicielstwo w Polsce
+: +30 210 98 97300                                    Ul. Parandowskiego 19
+ España                                                Portugal
+Schering-Plough, S.A.                                 Rue Agualva dos Açores 16
+Edificio Amura                                        PT-2735-557 Agualva Cacem
+C/Cantabria, 2-3a Planta                              Tel: +351 21 433 9300
+E-28108 Alcobendas (Madrid)
+Tel: + 34 91 567 3000
+ France                                               România
+Laboratoire HRA Pharma                               Orion Corporation
+15, rue Béranger                                     Orionintie 1
+F-75003 Paris                                        FIN-02200 Espoo
+ Ireland                                              Slovenija
+Orion Pharma (Ireland) Ltd                           Orion Corporation
+c/o Allphar Services Ltd.                            Orionintie 1
+Belgard Road                                         FIN-02200 Espoo
+Tallaght                                             Tel: +358 10 4261
+IRL-Dublin 24
+Tel: + 353 1 404 16 00
+ Ísland                                               Slovenská republika
+Vistor hf.                                           Orion-yhtymä Oyj
+Hörgatún 2                                           Ruzová dolina 6
+IS-210 Garðabær                                      821 08 Bratislava 2
+Tel: +354 535 7000                                   Tel. +421 2 5022 1215
+ Italia                                               Suomi/Finland
+Schering-Plough S.p.A                                Orion Corporation
+Via fratelli Cervi snc                               Orionintie 1
+Centro Direzionale Milano Due                        FIN-02200 Espoo/Esbo
+Palazzo Borromini                                    Tel: +358 10 4261
+I-20090 Segrate (Milano)
+Tel: + 39 02 21018.1
+                                                      Sverige
+..  &                                                Orion Pharma AB
+8,                                                Djupdalsvägen 7
+CY-1055                                              SE-192 30 Sollentuna
+.: +357-22 757.188                                   Tfn: + 46 8 623 6440
+ Latvija                                              United Kingdom
+Orion Corporation                                    Orion Pharma (UK) Ltd
+Orion Pharma prstvniecba                             Oaklea Court
+Bauskas iela 58-244                                  22 Park Street, Newbury
+LV-1004 Rga                                          Berkshire, RG14 1EA
+Tel.: +371 67455563                                  Tel.: + 44 1635 520 300
+ Lietuva
+UAB Orion Pharma
+Kubiliaus str. 6
+LT-08234 Vilnius
+Tel. +370 5 276 9499
+ Este prospecto fue aprobado en {MM/AAAA}
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+de Medicamentos (EMEA) http://www.emea.eu.int/.
+
+	Prospectos de medicamentos.

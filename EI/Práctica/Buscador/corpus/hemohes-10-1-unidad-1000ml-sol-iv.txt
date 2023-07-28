@@ -1,0 +1,235 @@
+HEMOHES 10% 1 UNIDAD 1000ML SOL IV
+	Información Basica del medicamento Toda la información del medicamento 
+1.     NOMBRE DEL MEDICAMENTO
+	
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       Electrolitos:
+Sodio                                                  154,0 mmol/l
+Cloruros
+        Propiedades fisicoquímicas:
+Peso molecular medio (en peso) (Mw)                    200 000 Daltons
+Peso molecular medio (en número) (Mn)
+Sustitución molar                                      0,5 (0,45-0,55)
+Osmolaridad teórica                                    310 mOsm/l
+pH                                                     4,0-7,0
+ 
+3.     FORMA FARMACÉUTICA
+	
+
+
+4.     DATOS CLÍNICOS
+	"4.1.   Indicaciones terapéuticas
+Tratamiento de estados hipovolémicos secundarios al shock de distinto origen (shock
+hemorrágico, traumático, séptico) y en aquellas situaciones en las que mediante la
+reposición de volumen se pueda mejorar la perfusión tisular.
+ 4.2.   Posología y forma de administración
+La dosis diaria y la velocidad de infusión dependen de la pérdida de sangre y del valor del
+hematocrito resultante en cada paciente. La dosis habitual en adultos es de 500 a 1000 ml.
+        Dosis máxima diaria:
+No se deberían superar los 2,0 g de hidroxietil almidón/kg/ día. Esto corresponde a 33
+ml/kg/día de Hemohes 6% (= 2500 ml/día en un individuo de 75 kg) ó 20 ml/kg/día de
+Hemohes 10% (= 1500 ml/día en un individuo de 75 kg).
+        Velocidad máxima de infusión:
+La velocidad máxima de infusión depende de la situación clínica. En pacientes con shock
+hemorrágico agudo se puede administrar hasta 20 ml/kg/h (equivalente a 0,33 ml/kg/min) y,
+en situaciones de urgencia, 500 ml como una infusión rápida (bajo presión). Si la
+administración es por infusión de presión, se debe eliminar todo el aire de la bolsa antes de
+la infusión.
+        Para la administración en niños y ancianos ver 4.4 ""Advertencias y precauciones especiales
+de empleo"".
+ 4.3.   Contraindicaciones
+- Hipersensibilidad conocida al hidroxietil almidón.
+- Hipervolemia.
+- Hiperhidratación.
+- Insuficiencia cardíaca congestiva.
+- Insuficiencia renal con oliguria y anuria.
+- Alteraciones graves de la coagulación sanguínea.
+- Edema pulmonar.
+ 4.4.   Advertencias y precauciones especiales de empleo
+La dosis total, la duración y la velocidad de infusión, dependerán de la cantidad de sangre o
+plasma perdido y de la condición del paciente, debiendo ajustarse según sea necesario por
+monitorización de los parámetros circulatorios usuales (pulso, presión sanguínea, perfusión
+periférica, diuresis).
+        Reacciones anafilácticas: Las soluciones de hidroxietil almidón, como todos los
+sustitutivos plasmáticos coloidales comúnmente usados, pueden producir reacciones
+anafilácticas de severidad variable (Ver apartado 4.8 ""Reacciones adversas"").
+        Con el fin de detectar la aparición de una reacción anafilactoide/anafiláctica lo antes
+posible, los primeros 20-30 ml de Hemohes deben ser infundidos lentamente y con
+observación cuidadosa.
+        Hemohes 10% es hiperoncótico. La infusión provoca una deshidratación inicial del
+compartimento extravascular que debe ser compensada por infusión de una solución
+cristaloide.
+        En pacientes con pérdidas primarias de fluido intersticial, antes se debe administrar un
+cristaloide. Tras la infusión de Hemohes se requieren controles del ionograma sérico y del
+balance hídrico. Se repondrán electrolitos según sea necesario. En todos los pacientes es
+esencial un aporte adecuado de fluido. Durante la infusión se debe monitorizar la función
+renal (control de la creatinina sérica).
+        Hemodilución: Como todos los sustitutivos plasmáticos coloidales, el hidroxietil almidón
+produce dilución de factores de coagulación. En particular, hay un cambio en la actividad
+del Factor VIII, el cual, sin embargo, es temporal y reversible, y en ausencia de otras
+alteraciones de la coagulación sanguínea, no tiene relevancia clínica. Hemohes debería
+usarse con precaución en pacientes con alteraciones de la coagulación, enfermedades
+hepáticas crónicas o diatesis hemorrágica.
+ Por la infusión de grandes volúmenes de Hemohes el hematocrito puede disminuir y las
+proteínas plasmáticas diluirse. Si el hematocrito cae por debajo del 25% (en pacientes con
+riesgo cardiovascular o pulmonar, por debajo del 30%) se deben administrar glóbulos rojos
+o sangre total. La administración de albúmina al 20%, plasma fresco congelado o plaquetas
+debería considerarse también si tiene lugar una dilución excesiva.
+Sobrecarga circulatoria: La posibilidad de sobrecarga circulatoria se debería tener en
+cuenta debido a una infusión demasiado rápida o a dosis altas, especialmente con Hemohes
+10% hiperoncótico. Se debe tener precaución cuando está aumentado el riesgo de edema
+pulmonar y/o fallo cardíaco congestivo.
+        Deterioro del aclaramiento renal: En pacientes con deterioro del aclaramiento renal se
+debe tener especial precaución y se debe ajustar la dosis según sea necesario, debido a que
+ésta es la principal vía de eliminación de Hemohes. En estos pacientes es esencial el aporte
+adecuado de fluidos. La función renal debe ser monitorizada durante la infusión.
+        Tras la administración de soluciones de hidroxietil almidón se pueden observar
+temporalmente concentraciones elevadas de -amilasa plasmática (unas tres veces por
+encima del límite superior normal). Esta actividad -amilasa plasmática elevada se debe a
+la formación de un complejo enzima-sustrato de la amilasa y del hidroxietil almidón sujeto
+a eliminación renal lenta y, por tanto, no debe ser considerado diagnóstico de un deterioro
+de la función pancreática.
+        Uso en pediatría: No se ha establecido la eficacia y seguridad de Hemohes en niños de
+edad inferior a los 12 años.
+        Uso en ancianos: Se recomienda tener precaución en pacientes de edad avanzada, debido a
+una posible reducción de la función renal.
+        Hipernatremia: Hemohes se debe utilizar con precaución en pacientes con hipernatremia.
+ 4.5.   Interacciones con con otros medicamentos y otras formas de interacción
+Se desconocen las posibles interacciones que pueden aparecer con la administración de
+otros fármacos.
+        En casos de emergencia en pacientes en los que no se conoce el grupo sanguíneo se
+requiere la extracción de muestras de sangre, para determinar el tipo de sangre y las
+aglutininas irregulares, antes de la infusión de grandes volúmenes de hidroxietil almidón
+(para evitar resultados falsos-positivos ).
+ 4.6.   Embarazo y lactancia
+Embarazo: Tras la administración repetida de altas dosis en animales, hubo evidencia de
+efectos embriotóxicos y teratogénicos. Esto se asocia con la sobrecarga excesiva y
+sostenida de volumen, aunque no se puede excluir un efecto específico de la sustancia.
+Además, debido al riesgo de reacciones alérgicas (anafilácticas/anafilactoides) que no
+pueden ser excluidas totalmente, Hemohes no debe ser administrado en los 3 primeros
+meses del embarazo y sólo debería utilizarse durante el embarazo en los casos en los que
+los beneficios justifiquen los riesgos potenciales para el feto.
+Lactancia: Se desconoce si Hemohes pasa a la leche materna. No existe aún experiencia
+con el uso de este producto en madres lactantes.
+ 4.7    Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+No procede.
+ 4.8    Reacciones adversas
+Se pueden producir reacciones anafilácticas de severidad variable: síntomas cutáneos
+benignos (urticaria), enrojecimiento de la cara y del cuello y, menos frecuentemente, caída
+de la presión sanguínea, shock, broncoespasmo, paro cardíaco y respiratorio. Estas
+reacciones pueden ocurrir en pacientes tanto conscientes como anestesiados. La
+administración profiláctica de corticosteroides no ha resultado ser de utilidad.
+ También se ha comunicado prurito de larga duración que por sí mismo puede no
+presentarse hasta varios días o incluso semanas después de la infusión. Otras reacciones que
+se han comunicado son ligero incremento de la temperatura corporal, parestesia, dolor de
+cabeza, debilidad, vómitos, erupciones cutáneas, agrandamiento de las glándulas
+submaxilares y parótidas, dolor muscular y edema periférico de extremidades inferiores.
+ Si se producen tales reacciones se controlarán deteniendo la infusión de Hemohes e
+instaurando un tratamiento de emergencia, incluyendo si se precisa la administración de un
+agente antihistamínico.
+ Tratamiento de emergencia de las reacciones anafilácticas:
+A continuación, se esquematiza el ""Tratamiento de emergencia de las reacciones
+anafilácticas"".
+ Intensidad/Grado: I a
+Manifestación: Reacción cutánea localizada
+Signos y Síntomas clínicos: eritema localizado
+Medidas y tratamiento farmacológico: - Detener la infusión.
+Intensidad/Grado: I b
+Manifestación: Reacciones sistémicas moderadas
+Signos y Síntomas clínicos: ansiedad, cefalea, enrojecimiento, urticaria generalizada,
+parestesia.
+Medidas y tratamiento farmacológico: - Detener la infusión.
+ Intensidad/Grado: II
+Manifestación: cardiovascular y/o pulmonar y/o reacc. gastrointestinal
+Signos y Síntomas clínicos: taquicardia, caída de la presión sanguínea, disnea, comienzo del
+broncoespasmo, nauseas, vómitos
+Medidas y tratamiento farmacológico: - Detener la infusión.
+Intensidad/Grado: III
+Manifestación: Reacción sistémica alarmante
+Signos y Síntomas clínicos: hipotensión severa y shock, disnea severa y broncoespasmo
+Medidas y tratamiento farmacológico: - Detener la infusión.
+        Intensidad/Grado: IV
+Manifestación: Reacciones sistémicas peligrosas para la vida
+Signos y Síntomas clínicos: Paro cardíaco y respiratorio
+Medidas y tratamiento farmacológico: - Detener la infusión.
+ 4.9.   Sobredosificación
+El riesgo principal de una sobredosis aguda sería una sobrecarga de volumen. En este caso,
+se debe detener inmediatamente la infusión y se debería considerar la administración de
+diuréticos.
+"
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"       El hidroxietil almidón es un expansor artificial y coloidal del plasma cuyos efectos sobre la
+expansión del volumen intravascular y sobre la hemodilución dependen del grado y tipo de
+sustitución del peso molecular y de la concentración así como de la dosis y la velocidad de
+infusión del producto hidroxietil almidón utilizado.
+        El hidroxietil almidón tiene un peso molecular medio (en peso) (Mw) es 200.000 Daltons y
+su valor Mn (es decir, el peso medio de sus partículas osmóticamente activas) es
+aproximadamente 80.000 Daltons.
+ El material de partida para la fabricación del hidroxietil almidón es la porción de
+amilopectina del almidón de maíz, muy parecida al glucógeno endógeno. La introducción
+de grupos hidroxietilo retrasa el desdoblamiento intravascular de amilopectina por la -
+amilasa endógena. Como media, Hemohes contiene 5 grupos hidroxietilo por 10 unidades
+de glucosa, dando una sustitución molar (SM) de 0,5.
+        La duración de la acción expansora plasmática depende principalmente del SM y en menor
+extensión del Mw. La hidrólisis intravascular de los polímeros de hidroxietil almidón
+libera continuamente moléculas más pequeñas, oncóticamente activas, antes de ser
+eliminadas por los riñones.
+        Como todos los coloides semisintéticos, el hidroxietil almidón está sujeto a
+almacenamiento pasajero, en particular, en las células del sistema reticulo-endotelial pero
+aún no se ha demostrado que tenga un efecto adverso sobre su función.
+ 5.1    Propiedades farmacodinámicas
+Hemohes 6% es iso-oncótico, es decir, el aumento del volumen plasmático es
+aproximadamente igual al volumen infundido. Hemohes 10% es hiperoncótico, es decir, el
+volumen plasmático inicialmente aumenta en exceso respecto al volumen infundido
+(aproximadamente 145%).
+        La infusión de Hemohes a pacientes hipovolémicos normaliza el volumen de sangre
+circulante y mejora los parámetros hemodinámicos, cardíacos y hemorreológicos. El
+volumen sanguíneo se mantiene durante al menos 4-6 horas.
+ 5.2    Propiedades farmacocinéticas
+Dependiendo de la velocidad de infusión y del modo de administración (infusión
+isohipervolémica) la vida media de eliminación inicial desde el plasma es aproximadamente
+de 3-6 horas. Las moléculas de Hemohes menores de unos 50.000 Daltons sufren
+eliminación renal rápida por filtración glomerular. Tras una administración única de 500
+ml, aproximadamente el 50% de la dosis administrada se recupera en la orina en 24 horas,
+sólo aproximadamente el 10% puede aún detectarse en el plasma. Los niveles plasmáticos
+de hidroxietil almidón disminuyen hasta el límite de detección 7-10 días después de la
+infusión.
+ 5.3.   Datos preclínicos sobre seguridad
+Estudios en animales han dado evidencias de efectos embriotóxicos/ teratogénicos de
+Hemohes 10% (ver 4.6. ""Embarazo y lactancia"").
+ "
+6.     DATOS FARMACÉUTICOS
+	6.2.   Incompatibilidades
+La mezcla con con otros medicamentos puede producir incompatibilidades, por lo que sólo
+deben prepararse mezclas de compatibilidad conocida.
+ 6.3.   Período de validez
+La caducidad del producto es de 3 años.
+6.4.   Precauciones especiales de conservación
+Almacenar a temperatura ambiente. No congelar.
+No utilizar después de la fecha de caducidad que figura en el envase. No utilizar a menos
+que la solución esté clara y sin partículas en suspensión.
+No usar si el envase presenta signos visibles de deterioro.
+ 6.5.   Naturaleza y contenido del envase
+Envases de polietileno de 500 ml, en cajas de 1 y 10 unidades.
+Envases de polietileno de 1000 ml, en cajas de 1 y 10 unidades.
+ 6.6.   Instrucciones de uso/manipulación
+No se requieren instrucciones especiales de uso/manipulación.
+No reutilizar una vez abierto el envase.
+La administración debe realizarse inmediatamente después de la apertura del envase para
+evitar su contaminación.
+ 
+7.     NOMBRE Y DOMICILIO DEL TITULAR DE LA AUTORIZACIÓN DE
+	
+8.     NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	9.     FECHA DE LA PRIMERA AUTORIZACIÓN/REVALIDACIÓN DE LA
+AUTORIZACIÓN
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+Febrero 2000
+
+	 
+      HEMOHES 10% 1 UNIDAD 500ML SOL IV
+          
+      HEMOHES 10% 10 UNIDADES 1000ML SOL IV
+          
+      HEMOHES 10% 10 UNIDADES 500ML SOL IV
+         Prospectos de medicamentos.

@@ -1,0 +1,188 @@
+WETIRIN 0,1 MG COMPRIMIDOS 100 Comprimido
+	Información Basica del medicamento Toda la información del medicamento 
+1.     NOMBRE DEL MEDICAMENTO
+	WETIRIN® 0,1 mg y 0,2 mg COMPRIMIDOS
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       Wetirin® 0,1 mg Comprimidos:
+Cada comprimido contiene acetato de desmopresina 0,1 mg equivalente a 0,089 mg de
+desmopresina base.
+        Wetirin® 0,2 mg Comprimidos:
+Cada comprimido contiene acetato de desmopresina 0,2 mg equivalente a 0,178 mg de
+desmopresina base.
+        Para excipientes, ver sección 6.1.
+ 
+3.     FORMA FARMACÉUTICA
+	"       Comprimidos.
+        Wetirin® 0,1 mg Comprimidos: Comprimidos blancos, convexos y redondos con una
+marca única ""0,1"" en una de las caras.
+        Wetirin® 0,2 mg Comprimidos: Comprimidos blancos, convexos y redondos con una
+marca única ""0,2"" en una de las caras.
+ 
+
+"
+4.     DATOS CLÍNICOS
+	"4.1.   Indicaciones terapéuticas
+        Wetirin® Comprimidos está indicado para el tratamiento de la diabetes insípida central y
+enuresis primaria nocturna en pacientes (mayores de 5 años) con capacidad normal de
+concentrar la orina.
+ 4.2.   Posología y forma de administración
+        Diabetes insípida central:
+La dosis se ajusta individualmente en la diabetes insípida pero la experiencia clínica ha
+demostrado que normalmente la dosis total diaria oscila entre 0,2 mg y 1,2 mg. Una dosis
+inicial adecuada a niños y adultos es 0,1 mg tres veces al día. Posteriormente se ajusta la
+dosis según la respuesta de cada paciente. En la mayoría de los pacientes, la dosis de
+mantenimiento es de 0,1 - 0,2 mg tres veces al día.
+ Si aparecen síntomas de retención hídrica/hiponatremia, debe interrumpirse el tratamiento
+y ajustarse de nuevo la dosis.
+ Enuresis nocturna primaria:
+        Una dosis inicial adecuada es 0,2 mg a la hora de acostarse. La dosis puede aumentarse
+hasta 0,4 mg si la dosis inferior no es lo suficientemente activa.
+        Debe controlarse la ingesta de líquidos.
+        Si aparecen síntomas o signos de retención hídrica y/o hiponatremia (dolor de cabeza,
+náusea/vómito, ganancia de peso, y en casos graves, convulsiones), debe interrumpirse el
+tratamiento hasta que el paciente se haya recuperado. Una vez reinstaurado de nuevo el
+tratamiento, debe controlarse rigurosamente la ingesta de líquidos (ver apartado 4.4.).
+        A los 3 meses de tratamiento se valora la necesidad de su continuación interrumpiéndolo
+durante por lo menos 1 semana.
+ 4.3.   Contraindicaciones
+        WETIRIN NO DEBE SER UTILIZADO en los siguientes casos:
+        -       Polidipsia habitual o psicógena
+-       Insuficiencia cardíaca
+-       Hiponatremia conocida
+Hipersensibilidad a la desmopresina o a cualquiera de los excipientes de Wetirin®
+-
+Comprimidos.
+ 4.4.   Advertencias y precauciones especiales de empleo
+        Advertencias especiales: En caso de enuresis nocturna primaria se debe restringir la
+ingesta de líquidos no bebiendo entre 1 hora antes de la administración y hasta la mañana
+siguiente (al menos 8 horas).
+.
+        Un tratamiento sin reducción concomitante de la ingesta de agua puede producir una
+retención hídrica y/o hiponatremia acompañada o no de síntomas y signos de alarma
+(dolor de cabeza, náusea/vómito, ganancia de peso, y en casos graves, convulsiones). Ver
+sección 4.8 Reacciones adversas
+        Precauciones especiales de uso:
+        Se debe tener especial cuidado para evitar la hiponatremia en los siguientes casos:
+            condiciones caracterizadas por un desequilibrio líquido y/o de electrolitos (tales como
+infecciones sistémicas, fiebre, y SIADH (síndrome de secreción inapropiada de
+ADH),
+condiciones que requieren tratamiento concomitante con agentes diuréticos,
+tratamiento concomitante con fármacos, conocidos de inducir SIADH, es decir,
+antidepresivos tricíclicos, inhibidores selectivos de la reabsorción de serotonina,
+clorpromazina y carbamacepina,
+tratamiento concomitante con AINEs.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+                                                                                                      MINISTERIO
+Aquellas sustancias de acción conocida de inducir SIADH, es decir, antidepresivos
+tricíclicos, inhibidores selectivos de la reabsorción de serotonina, clorpromazina y
+carbamazepina, pueden potenciar el efecto antidiurético y aumentar el riesgo de retención
+hídrica/hiponatremia (ver apartado 4.4.).
+        AINEs pueden inducir la retención hídrica/hiponatremia (ver apartado 4.4.).
+        El tratamiento concomitante con loperamida puede incrementar en tres veces la
+concentración plasmática de desmopresina, lo que puede provocar un aumento del riesgo
+de retención hídrica/hiponatremia.
+        Es improbable que la desmopresina interaccione con otros fármacos que afectan al
+metabolismo hepático, puesto que se conoce a través de estudios ""in vitro"" con
+microsomas humanos que la desmopresina no experimenta un metabolismo hepático
+significativo. Sin embargo, no se han realizado estudios formales de interacción ""in vivo"".
+        Una comida rica en un 27% en grasas disminuye significativamente la absorción de la
+desmopresina oral (en velocidad y volumen). No se observó ningún efecto significativo
+sobre la farmacodinamia (producción de orina y osmolalidad), por lo que se recomienda
+ingerir algún alimento al mismo tiempo que se toma la desmopresina.
+ 4.6.   Embarazo y lactancia
+        Embarazo
+        Los estudios de reproducción realizados en ratas y conejos con dosis superiores a 100
+veces la dosis humana no han revelado evidencia de una acción dañina de la
+desmopresina sobre el feto. Se han comunicado casos de malformaciones en recién
+nacidos de madres tratadas para la diabetes insípida durante la gestación. Sin embargo,
+una revisión de los datos disponibles sugiere que no se ha incrementado el rango de
+malformaciones en niños expuestos a la desmopresina durante todo el embarazo. Wetirin®
+comprimidos debe administrarse con precaución en pacientes embarazadas, se deberá
+sopesar los beneficios y potenciales riesgos para el feto.
+        Lactancia
+        Los resultados de los análisis realizados en la leche de madres que recibieron grandes
+dosis de desmopresina (300 µg intranasalmente), indican que las cantidades de
+desmopresina que pueden pasar al lactante son inferiores a las necesarias para ejercer una
+acción sobre la diuresis.
+ 4.7.   Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+        WETIRIN® comprimidos no afecta a la capacidad de conducir y utilizar maquinaria.
+ 4.8.   Reacciones adversas
+ Común                                                       General: dolor de cabeza
+        (> 1/100)                                                    GI:       dolor de estómago, náusea
+ Las siguientes reacciones adversas se pueden producir si existe una hiponatremia por
+retención de agua como consecuencia del tratamiento con reducción concomitante de
+ingesta de líquidos:
+Cefalea, náuseas, vómitos, ganancia de peso y en casos graves convulsiones.
+        Experiencia después de la comercialización:
+        -       Muy raramente se han comunicado casos de trastornos emocionales en niños.
+-       Se han comunicado casos aislados de reacciones alérgicas dermatológicas y
+reacciones alérgicas generales más graves.
+ 4.9    Sobredosificación
+        La sobredosis de Wetirin® Comprimidos provoca una duración más prolongada de la
+acción con un aumento del riesgo de retención hídrica y/o hiponatremia.
+        Tratamiento
+Aunque el tratamiento de la hiponatremia debe ser ajustado a cada paciente, pueden
+seguirse las siguientes recomendaciones generales:
+La hiponatremia se trata interrumpiendo el tratamiento con desmopresina, restricción de
+líquidos, y tratamiento sintomático si fuera necesario.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1.   Propiedades farmacodinámicas
+        Grupo farmacoterapéutico: vasopresina y análogos.
+Código ATC: H01B A02
+        WETIRIN® Comprimidos contiene desmopresina, un análogo estructural de la hormona
+hipofisaria natural arginina vasopresina. La diferencia consiste en la desaminación de la
+cisteina y en la sustitución de la L-arginina por la D-arginina. Esto produce una
+considerable prolongación de la duración de acción y una ausencia total del efecto presor
+en las dosis utilizadas clínicamente. Para el efecto antidiurético, la desmopresina es un
+compuesto potente con un valor de EC50 de 1.6 pg/ml. Después de la administración oral,
+se puede esperar un efecto duradero de 6 ó 14 horas o más.
+ 5.2.   Propiedades Farmacocinéticas
+        La biodisponibilidad absoluta de la desmopresina administrada por vía oral oscila entre
+0,08% y 0,16%. La concentración media máxima plasmática se alcanza a las 2 horas de la
+administración. El volumen de distribución es de 0,2 ­ 0,37 l/kg. La desmopresina no
+atraviesa la barrera hematoencefálica. La vida media terminal oral oscila entre 2,0 y 3,21
+horas. Tras la administración oral de una dosis simple de 2 x 200 µg de WETIRIN
+comprimidos a sujetos sanos, aproximadamente el 50 % de los sujetos tuvieron
+concentraciones plasmáticas de desmopresina por encima de 1 pg/ml durante al menos 14
+horas después de la administración de la dosis.
+ Se ha observado en preparaciones de microsomas hepáticos humanos ""in vitro"", que no se
+metabolizan cantidades significativas de desmopresina en el hígado, y por tanto es
+improbable que se metabolice en el hígado humano.
+        Aproximadamente un 65% de la cantidad de desmopresina absorbida tras la
+administración oral se puede recuperar en la orina a las 24 horas.
+        No se han observado diferencias relacionadas con el sexo con respecto a la
+farmacocinética de la desmopresina.
+ 5.3    Datos clínicos sobre seguridad
+        No existen datos pre-clínicos relevantes, adicionales a los ya incluidos aquí.
+ "
+6.     DATOS FARMACÉUTICOS
+	6.1.   Lista de excipientes
+        Lactosa monohidrato 123.7 mg; almidón de patata; povidona; estearato de magnesio.
+ 6.2.   Incompatibilidades
+        No se han descrito.
+ 6.3.   Período de validez
+        3 años
+ 6.4.   Precauciones especiales de conservación
+        WETIRIN® Comprimidos debe ser mantenido a temperatura no superior a 25oC, y debe
+mantenerse el envase perfectamente cerrado. No retirar el desecante de la cápsula.
+ 6.5.   Naturaleza y contenido del recipiente
+        Frascos de polietileno de alta densidad (HDPE) y tapón de polipropileno (PP) de 30 ml
+con cierre resistente para niños, y cápsula de desecante de HDPE incluida en la estructura
+del tapón de silicagel.
+        El envase de Wetirin 0,1 mg contiene 100 comprimidos.
+        El envase de Wetirin de 0,2 mg contiene 30 comprimidos.
+ 6.6.   Instrucciones de uso/manipulación
+        No se han descrito instrucciones especiales.
+6.7.   Nombre o razón social y domicilio permanente o sede social del titular de la
+autorización de comercialización
+       Titular
+FERRING S.A.U
+C/ Gobelas 11, Urbanización La Florida
+28023-Madrid - España
+ 
+7.     NUMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	8.     FECHA DE LA APROBACIÓN/REVISIÓN DEL RCP
+
+	Prospectos de medicamentos.

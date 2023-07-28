@@ -1,0 +1,216 @@
+UBTEST 100MG 1 SOBRE GRANULOS
+	Información Basica del medicamento Toda la información del medicamento Resumen de las características del producto UBTEST
+ 1      NOMBRE DEL MEDICAMENTO
+ UBTEST® 100 mg, granulado para solucion oral
+ 2      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+ Un sobre con dos gramos de gránulos contiene100 mg de 13C-Urea.
+Lista de excipientes en 6.1
+ 3      FORMA FARMACÉUTICA
+ Gránulos blancos para solución oral.
+ 4      DATOS CLÍNICOS
+ 4.1    Indicaciones terapéuticas
+ UBTEST está indicado en el diagnóstico in vivo de las infecciones gastro-duodenales
+causadas por Helicobacter pylori.
+ 4.2    Posología y forma de administración
+ UBTEST es una prueba de aliento con Urea. Los adultos deberán tomar el contenido de
+un sobre con 2 gramos de gránulos después de su disolución en 100 ml de agua de
+bebida. Antes de la administración, el paciente debe encontrarse en un estado de
+ayuno de 8 horas como mínimo, preferentemente durante la noche.
+ Es importante seguir correctamente las instrucciones de uso (ver epígrafe 6.6) con el fin
+de garantizar la fiabilidad de los resultados de la prueba. En caso de que sea necesario
+repetir el procedimiento de prueba, ésta se realizará, como muy pronto, al día siguiente.
+ 4.3    Contraindicaciones
+ No se han descrito.
+ 4.4    Advertencias y precauciones especiales de empleo
+ Una prueba de aliento con Urea positiva por sí sola no confirma clínicamente que esté
+indicado un tratamiento de erradicación. Puede estar indicada la realización de
+diagnósticos alternativos con métodos endoscópicos invasivos a fin de determinar la
+presencia de otras complicaciones como, por ejemplo, úlcera gástrica, gastritis
+autoinmune y tumores malignos.
+La prueba de aliento puede dar resultados falsos positivos en casos individuales de
+gastritis atróficas y puede ser necesaria la realización de otras pruebas para confirmar la
+presencia de H. pylori.
+En el caso de que sea necesaria la repetición de la prueba, por ejemplo si el paciente
+vomita mientras se está realizando la misma, ésta no se llevará a cabo hasta el día
+siguiente.
+ No existen suficientes datos disponibles sobre la fiabilidad de UBTEST que permitan
+recomendar su utilización en pacientes con gastrectomía o en menores de 18 años.
+Con el fin de evitar resultados falsos negativos, la prueba de aliento con Urea no debe
+realizarse hasta transcurridas 4 (cuatro) semanas de la administración de antibióticos y
+2 (dos) semanas de la última administración de agentes antisecretores. Esto es
+especialmente importante tras seguir un tratamiento de erradicación.
+También pueden producirse falsos resultados positivos en las pruebas de aliento con
+urea debido a la actividad ureasa de las bacterias orofaríngeas si se toman las muestras
+de aliento dentro de los 10 a 15 minutos siguientes a la ingestión de la solución de
+prueba. El enjuague de la boca con agua después de la administración disminuye este
+efecto.
+ 4.5    Interacciones con con otros medicamentos y otras formas de interacción
+ Cualquier tratamiento que interfiera con el estado de H. pylori o la actividad ureasa
+puede tener influencia sobre la prueba de aliento con urea.
+ La erradicación de H. pylori puede dar lugar a resultados falsos positivos. Por ello, no
+debe realizarse la prueba hasta que no hayan transcurrido cuatro (4) semanas sin
+tratamiento antibacteriano sistémico y dos (2) semanas después de la última
+administración de agentes antisecretores ácidos. Esto es especialmente importante tras
+seguir un tratamiento de erradicación.
+ 4.6    Embarazo y lactancia
+ No se dispone de datos clínicos de exposición de mujeres embarazadas a UBTEST. Sin
+embargo, la producción endógena de Urea alcanza hasta los 25 ­ 35 gramos por día.
+Por este motivo, es poco probable que la dosis de 100 mg de Urea produzca algún
+efecto adverso sobre el embarazo o la lactancia.
+ 4.7    Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+ No se han descrito efectos sobre la capacidad para conducir vehículos y utilizar
+maquinaria.
+ 4.8    Reacciones adversas
+ Sólo se han descrito reacciones adversas relacionadas con el fármaco en un caso entre
+870 pacientes (0,1%) incluidos en los ensayos clínicos realizados con la prueba de
+aliento con Urea: distensión abdominal, diarrea y malestar epigástrico.
+ 4.9    Sobredosis
+ Debido al hecho de que un sobre sólo contiene 100 mg de 13C-urea, lo que supone
+únicamente una parte de la ingesta diaria normal, no se espera que se produzca una
+sobredosis.
+ 5      PROPIEDADES FARMACOLÓGICAS
+ 5.1    Propiedades Farmacodinámicas
+ Grupo fármaco-terapéutico: otros agentes de diagnóstico, código: VO4CX.
+ El 13Carbono es un isótopo natural y estable no radiactivo que se utiliza para marcar la
+urea.
+Tanto en los pacientes infectados como en los no infectados, una parte significativa de
+la 13C-urea administrada por vía oral se absorbe, a través de la pared intestinal, y se
+excreta, en forma inalterada, por la orina.
+La actividad ureasa gástrica sólo está presente en los pacientes infectados por H. pylori.
+La ureasa cataliza la conversión de la 13C-urea en amoníaco y dióxido de carbono. En el
+estómago, el amoníaco producido se hidroliza inmediatamente a amonio.
+                                          Ureasa de
+(NH2)2
+ El 13CO2 se difunde hacia el interior de los vasos sanguíneos, y es transportado a los
+pulmones y exhalado con el aire espirado. Así pues, el cociente entre los isótopos
+13
+C/12C en el aire aumenta significativamente cuando H. pylori está presente en el
+estómago.
+El cociente 13C/12C en las muestras de aliento se mide mediante espectrofotometría de
+infrarrojos (EIR) o mediante cromatografía de gases y espectrofotometría de masas del
+cociente de los isótopos (CG/EMIR). El aumento de 13C se expresa como diferencia
+absoluta en el cociente 13C/12C entre la muestra inicial y la obtenida transcurridos 20
+minutos después de la administración (valor  13CO2 []).
+ Un aumento del valor del  13CO2 superior o igual al 2,5 (punto de corte) después de
+la administración de 13C-urea indica una infección.
+ 5.2    Propiedades farmacocinéticas
+ Un porcentaje elevado de la 13C-urea administrada por vía oral se excreta de forma
+inalterada por vía renal. En presencia de H. pylori se metaboliza parcialmente la 13C-
+urea a 13C-dióxido de carbono y amonio en el estómago. El resto se integra en el ciclo
+de la urea. Durante los primeros 30 minutos que siguen a la ingestión de 100 mg de 13C-
+urea, la proporción de 13CO2 en el aire espirado aumenta de forma significativa en los
+pacientes infectados.
+En estudios clínicos con voluntarios sanos no se ha observado un aumento apreciable
+del nitrógeno uréico sanguíneo (BUN) y del amonio en el suero o de la urea en la orina,
+incluso con dosis superiores, de hasta 300 mg, de 13C-urea.
+ 5.3    Datos preclínicos de seguridad
+ A partir de los estudios realizados en animales, no se desprende que puedan surgir
+problemas por la utilización clínica de pruebas de aliento con Urea.
+                                                                                              MINISTERIO
+6      DATOS FARMACÉUTICOS
+ 6.1    Lista de excipientes
+ Manitol
+ 6.2    Incompatibilidades
+ No se han descrito.
+ 6.3    Periodo de validez
+ El periodo de validez es de 3 años. La solución debe ser administrada inmediatamente
+después de su preparación.
+ 6.4    Precauciones especiales de conservación
+ No se precisan precauciones especiales de conservación.
+ 6.5    Naturaleza y contenido del envase
+ El producto se suministra en sobres laminados fabricados con polietileno- aluminio que
+contienen 2 gramos de gránulos.
+ 6.6       Instrucciones de uso y manipulación
+ La prueba debe ser realizada en presencia de personal médico cualificado,
+preferiblemente bajo la supervisión de un médico. Según el método analítico utilizado
+para la determinación, se deberá seleccionar un contendor adecuado (tubo o bolsa)
+para la toma de muestras.
+El método analítico también determinará el número de muestras en cada momento de
+muestreo y el volumen de muestra necesario para la determinación.
+El paciente debe acudir a la visita del facultativo por la mañana. La prueba deberá ser
+realizada con el paciente en estado de ayuno (tanto líquido como sólido) durante 8 horas
+como mínimo, preferentemente durante la noche. El paciente debe descansar durante
+diez minutos antes de la prueba.
+Mientras se está realizando la prueba, el paciente estará sentado.
+1.      El procedimiento se inicia con el etiquetado del recipiente de muestreo y la toma
+de la muestra inicial (basal).
+2.      El paciente expulsará el aire suavemente pero de forma continua en el interior
+del contenedor de muestras, que será cerrado inmediatamente. En el caso de
+que las muestras de aliento sean analizadas utilizando el espectrofotómetro de
+infrarrojos, se recomienda que en los momentos inmediatamente anteriores a la
+toma de muestras, el paciente contenga la respiración durante unos segundos.
+3.      La solución de prueba se prepara vaciando el contenido del sobre que contiene
+13
+C-urea en el interior de un vaso que contenga 100 ml de agua de bebida y
+disolviendo los gránulos. Debe deshecharse la solución en el caso de que ésta
+no sea transparente o cuando los gránulos no estén completamente disueltos.
+4.      Inmediatamente después de la disolución completa de los gránulos, el paciente
+ingierirá el contenido completo del vaso rápidamente.
+5.      El facultativo a cargo de la prueba debe anotar el momento de la ingestión.
+6.      Después de la ingestión, el paciente se enjuagará la boca 2 ó 3 veces con agua
+con el fin de eliminar cualquier cantidad residual de 13C-urea en la boca. De esta
+manera, se intentan evitar posibles resultados falsos de la prueba.
+7.      El paciente cambiará de posición a decúbito lateral izquierdo durante 5 minutos y
+posteriormente permanecerá sentado hasta el segundo muestreo.
+8.      Transcurridos 20 minutos de la ingestión de la solución de prueba, se recogerá la
+segunda muestra respiratoria en el contenedor debidamente etiquetado, del
+mismo modo que se describe en el punto 2.
+ Análisis de las muestras respiratorias y especificaciones de análisis
+ El aumento del 13C en el aliento se expresa como una diferencia absoluta (valor  13CO2
+[]) entre el cociente 13C/12C antes de la administración (valor basal) y 20 minutos
+después de la administración. Si el valor  13CO2 es igual o superior a 2,5 , el
+paciente se considera infectado por H. pylori.
+Si se realiza la prueba en las condiciones que se han descrito, la prueba de aliento con
+urea alcanza una sensibilidad del 98,2% [IC del 95%: 94,8 al 99,6%] y una especificidad
+del 97,9% [IC del 95%: 88,9 al 99,9%] cuando se compara con un patrón de referencia
+basado en métodos invasivos.
+Se han validado dos métodos analíticos, espectrofotometría de infrarrojos (EIR) y
+cromatografía de gases y espectrofotometría de masas del cociente de los isótopos
+(CG/EMIR), en los estudios clínicos con pruebas de aliento con Urea.
+Debe asegurarse que la concentración de CO2 o el cociente 13 C/12C no varíe desde el
+momento de la espiración hasta el análisis de las muestras de aliento. Esto ocurre
+cuando se utilizan contenedores con extractores de humedad; por tanto, tales
+contenedores deben evitarse.
+ Especificaciones para la determinación del cociente 13C/12C
+ A) Validación de la Espectrofotometría de Infrarrojos
+ Rango de concentración de CO2:           1% - 6%
+                                          y = 1.01x ­ 0.20; r2 = 1.000
+Linealidad:
+                                          0,5  (límite de detección de   13C)
+Sensibilidad:
+ Reproductibilidad:                             DE: ±0,5  o inferior a una concentración de
+                                          Error de medición: ±0,5 o inferior (en  13C: 0 -
+Exactitud:
+50)
+100)
+ B)      Validación de la Cromatografía de gases y espectrofotometría de masas del
+cociente de los isótopos
+ Rango de concentración del CO2:          1%-5% CO2 (para un volumen de muestra de aire
+de 10 ml).
+                                          y = 1.0183x + 0.5686; r2 = 1.000
+Linealidad:
+                                                                                               MINISTERIO
+Sensibilidad:
+                                                       DE (13C): ± 0.2  o inferior a una
+Reproductibilidad:
+                                                        DE (13C, n = 5): ± 0.3  o inferior a una
+Exactitud:
+ El gas de referencia debe normalizarse frente a un patrón de referencia internacional
+adecuado para permitir la comparación de resultados entre laboratorios.
+ Explicación de los resultados:
+13C: diferencia en partes por mil () respecto a un patrón internacional aceptado.
+13C,  13CO2: diferencia entre las determinaciones de las muestras antes y después de
+la administración de 13C-urea.
+El paciente se diagnostica como no infectado si el valor es inferior al 2,5.
+ 7      TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ OTSUKA PHARMACEUTICAL EUROPE LTD.
+Huton House
+Highbridge Busines Park,
+Oxford Road
+Uxbridge
+Middlesex UB8 1HU
+Gran Bretaña
+ 8      NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 9      FECHA DE LA PRIMERA AUTORIZACIÓN / RENOVACIÓN DE LA AUTORIZACIÓN
+ 10     FECHA DE REVISIÓN DEL TEXTO
+ Prospectos de medicamentos.

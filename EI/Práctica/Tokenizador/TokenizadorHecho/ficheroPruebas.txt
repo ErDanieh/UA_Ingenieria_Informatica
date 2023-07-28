@@ -1,0 +1,398 @@
+�	Guiones: MS-DOS OS/2 high/low: los almacenar�a como un t�rmino completo y por separado (p.ej. como MS-DOS y como MS y como DOS)
+�	URL, e-mails: http://intime.dlsi.ua.es:8080/dossierct/index.jsp?lang=es&status=probable&date=22-01-2013&newspaper= catedraTelefonicaUA@iuii.ua.es
+�	Detecci�n de abreviaturas (U.S.A) : los almacenar�a como un solo t�rmino
+�	Ap�strofes como parte de palabras: can�t, it�s (los almacenar�a como un solo t�rmino)
+�	N�meros decimales: .103 5,6 1,000,000 (los almacenar�a como un solo t�rmino)
+�	Porcentajes: 55 % 75% (los almacenar�a como un solo t�rmino)
+�	Cantidades monetarias: 103$ 55� (los almacenar�a como un solo t�rmino)
+Fechas: 16/12/2012, 2011-12-1 
+
+A.A.S. 100 MG comprimidos, 20 comprimidos
+	Informaci�n Basica del medicamento Toda la informaci�n del medicamento 
+1. NOMBRE DEL MEDICAMENTO
+	AAS 100 mg comprimidos.
+AAS 500 mg comprimidos.
+ 
+2. COMPOSICI�N CUALITATIVA Y CUANTITATIVA
+	   Cada comprimido de A.A.S. 100 mg contiene:
+    �cido acetilsalic�lico................................100 mg
+Manitol y otros excipientes .......................c.s.
+    Cada comprimido de A.A.S. 500 mg contiene:
+    �cido acetilsalic�lico................................500 mg
+Manitol y otros excipientes .......................c.s.
+ Relaci�n de excipientes: ver Apdo. 6.1.
+ 
+3. FORMA FARMAC�UTICA
+	Los comprimidos de A.A.S. 100 mg son redondos, biconvexos, de color amarillo a naranja y est�n
+ranurados.
+ Los comprimidos de A.A.S. 500 mg son redondos, biconvexos, de color blanco y est�n
+doblemente ranurados.
+ 
+
+
+4. DATOS CL�NICOS
+	4.1. Indicaciones terap�uticas
+    AAS 100 mg comprimidos:
+    En base a su efecto antiagregante plaquetario est� indicado en la profilaxis de:
+    - Infarto de miocardio o reinfarto de miocardio en pacientes con angina de pecho inestable y
+para prevenir la recurrencia del mismo en pacientes con historia de infarto de miocardio.
+- Prevenci�n de la oclusi�n del by pass aortocoronario.
+- Tromboflebitis, flebotrombosis y riesgo de trombosis arteriales.
+- Tromboembolismo post-operatorio en pacientes con pr�tesis vasculares biol�gicas o con
+shunts arteriovenosos.
+- Tratamiento de ataques isqu�micos transitorios en varones con isquemia cerebral transitoria
+para reducir el riesgo de accidente cerebrovascular. Estas indicaciones requieren siempre un
+control m�dico.
+- Tratamiento o alivio sintom�tico del dolor (dolores de cabeza, dentales, menstruales);
+tratamiento de la fiebre. (En todas estas indicaciones, la administraci�n del preparado est�
+ supeditada a la aparici�n de los s�ntomas dolorosos o febriles. A medida que �stos
+desaparecen debe suspenderse la medicaci�n).
+    AAS 500 mg comprimidos:
+    - Tratamiento o alivio sintom�tico del dolor (dolores de cabeza, dentales, menstruales).
+- Tratamiento de la fiebre. (En todas estas indicaciones, la administraci�n del preparado est�
+supeditada a la aparici�n de los s�ntomas dolorosos o febriles. A medida que �stos
+desaparecen debe suspenderse la medicaci�n).
+- Tratamiento de la inflamaci�n no reum�tica (dolor m�sculo-esquel�tico, lesiones
+deportivas, bursitis, capsulitis, tendinitis, tenosinovitis aguda no espec�fica).
+- Tratamiento de la artritis reumatoide, artritis juvenil, osteoartritis y fiebre reum�tica.
+ 4.2. Posolog�a y forma de administraci�n
+    Como analg�sico y antipir�tico:
+    Dosis media recomendada:
+    - Adultos y mayores de 16 a�os: 1 comprimido de A.A.S. 500 mg cada cuatro o seis horas, o
+bien 1 � 2 comprimidos de A.A.S. 500 mg inicialmente, siguiendo con 1 comprimido de
+A.A.S. 500 mg cada cuatro horas si es necesario, mientras persistan los s�ntomas. No
+deber�n administrarse m�s de 8 comprimidos de A.A.S. 500 mg diarios, es decir, 4 gramos
+de �cido acetilsalic�lico al d�a.
+       El medicamento deber� administrarse junto con las comidas o con leche, especialmente si
+se notan molestias digestivas. Si el dolor se mantiene durante m�s de 10 d�as, la fiebre
+durante m�s de 3 d�as o bien el dolor o la fiebre empeoran o aparecen otros s�ntomas, se
+deber� evaluar la situaci�n cl�nica.
+    Como antiinflamatorio:
+    La dosis debe ser individualizada y ajustada de acuerdo con el efecto antiinflamatorio deseado
+y la tolerancia del paciente.
+    - Adultos: La dosis habitual es de alrededor de 4 g de �cido acetilsalic�lico al d�a repartidos
+en cuatro tomas.
+    Como inhibidor de la agregaci�n plaquetaria: En la prevenci�n de accidentes tromboemb�licos
+    (infarto, angina de pecho, pr�tesis valvulares biol�gicas, by pass arteriales, tromboflebitis,
+flebotrombosis y riesgo de trombosis arterial).
+    - Dosis media recomendada: 100 mg a 300 mg/d�a. Dosis superiores no han mostrado mayor
+eficacia y aumentan el n�mero de complicaciones.
+    Pacientes con insuficiencia renal, hep�tica o card�aca: Deber� reducirse la dosis (ver Apdo. 4.4.
+    Advertencias y precauciones especiales de empleo).
+ 4.3. Contraindicaciones
+ No se debe administrar �cido acetilsalic�lico en los siguientes casos:
+                                                                                                        MINISTERIO
+Pacientes con �lcera gastroduodenal activa, cr�nica o recurrente; molestias g�stricas de
+    repetici�n.
+Pacientes con antecedentes de hemorragia o perforaci�n g�strica tras el tratamiento con �cido
+    acetilsalic�lico u otros antiinflamatorios no esteroideos.
+Pacientes con asma.
+    Pacientes con historial de hipersensibilidad a �cido acetilsalic�lico, a cualquiera de los
+    componentes de esta Especialidad, a antiinflamatorios no esteroideos o a tartrazina (reacci�n
+cruzada).
+Pacientes con enfermedades que cursen con trastornos de la coagulaci�n, principalmente,
+    hemofilia o hipoprotrombinemia.
+Pacientes con insuficiencia renal o hep�tica grave.
+    Pacientes con p�lipos nasales asociados a asma que sean inducidos o exacerbados por �cido
+    acetilsalic�lico.
+Ni�os menores de 16 a�os ya que el uso de �cido acetilsalic�lico se ha relacionado con el
+    S�ndrome de Reye, enfermedad poco frecuente pero grave.
+Tercer trimestre del embarazo a dosis superiores a 100 mg/d�a.
+ 4.4. Advertencias y precauciones especiales de empleo
+ La utilizaci�n de �cido acetilsalic�lico en pacientes que consumen habitualmente alcohol (tres o
+m�s bebidas alcoh�licas al d�a) puede provocar hemorragia g�strica. El alcohol incrementa los
+efectos adversos gastrointestinales del �cido acetilsalic�lico, y es un factor desencadenante en la
+irritaci�n cr�nica producida por �cido acetilsalic�lico.
+ Debe evitarse la administraci�n de �cido acetilsalic�lico antes o despu�s de una extracci�n dental
+o intervenci�n quir�rgica, siendo conveniente suspender su administraci�n una semana antes de
+dichas intervenciones.
+ El tratamiento con antiinflamatorios no esteroideos se asocia con la aparici�n de hemorragia,
+ulceraci�n y perforaci�n del tramo digestivo alto. Estos episodios pueden aparecer en cualquier
+momento a lo largo del tratamiento, sin s�ntomas previos y en pacientes sin antecedentes de
+trastornos g�stricos. El riesgo aumenta con la dosis, en pacientes ancianos y en pacientes con
+antecedentes de �lcera g�strica, especialmente si se complic� con hemorragia o perforaci�n. Se
+debe de advertir de estos riesgos a los pacientes, instruy�ndoles de que acudan a su m�dico en
+caso de aparici�n de melenas, hematemesis, astenia acusada o cualquier otro signo o s�ntoma
+sugerente de hemorragia g�strica. Si aparece cualquiera de estos episodios, el tratamiento debe de
+interrumpirse inmediatamente.
+ Siempre que sea posible deber� evitarse el tratamiento concomitante con medicamentos que
+puedan aumentar el riesgo de hemorragias, especialmente digestivas altas, tales como corticoides,
+antiinflamatorios no esteroideos, antidepresivos del tipo inhibidores selectivos de la recaptaci�n
+de serotonina, antiagregantes plaquetarios, anticoagulantes. En el caso de que se juzgue necesario
+el tratamiento concomitante, �ste deber� realizarse con precauci�n, advirtiendo al paciente de
+posibles signos y s�ntomas (melenas, hematemesis, hipotensi�n, sudoraci�n fr�a, dolor abdominal,
+mareos) as� como la necesidad de interrumpir el tratamiento y acudir inmediatamente al m�dico.
+Adem�s, este medicamento deber� administrarse bajo estrecha supervisi�n m�dica en caso de:
+-        hipersensibilidad a otros antiinflamatorios/antirreum�ticos
+-        deficiencia de glucosa-6-fosfato deshidrogenasa
+-        urticaria
+-        rinitis
+-        hipertensi�n arterial
+                                                                                                       MINISTERIO
+Se recomienda precauci�n en ancianos, sobre todo con insuficiencia renal, o que presenten niveles
+plasm�ticos de alb�mina reducidos, debido al riesgo de una toxicidad elevada.
+ No debe de administrarse �cido acetilsalic�lico sistem�ticamente como preventivo de las posibles
+molestias originadas por vacunaciones.
+ La administraci�n de �cido acetilsalic�lico est� desaconsejada en caso de gota, metrorragias o
+menorragias.
+ 4.5. Interacci�n con con otros medicamentos y otras formas de interacci�n
+ INTERACCIONES FARMACODIN�MICAS:
+Otros antiinflamatorios no esteroideos (AINEs): la administraci�n simult�nea de varios AINEs
+puede incrementar el riesgo de �lceras y de hemorragias gastrointestinales, debido a un efecto
+sin�rgico. No se debe administrar concomitantemente �cido acetilsalic�lico con otros AINEs.
+    Corticoides: la administraci�n simult�nea de �cido acetilsalic�lico con corticoides puede
+    incrementar el riesgo de �lceras y de hemorragias gastrointestinales, debido a un efecto
+sin�rgico, por lo que no se recomienda su administraci�n concomitante (ver Apdo. 4.4
+Advertencias y precauciones especiales de empleo).
+    Diur�ticos: los AINEs pueden ocasionar un fallo renal agudo, especialmente en pacientes
+    deshidratados. En caso de que se administren de forma simult�nea �cido acetilsalic�lico y un
+diur�tico, es preciso asegurar una hidrataci�n correcta del paciente y monitorizar la funci�n
+renal al iniciar el tratamiento.
+    Inhibidores selectivos de la recaptaci�n de serotonina: su administraci�n simult�nea aumenta
+    el riesgo de hemorragia en general y digestiva alta en particular, por lo que deben evitarse en
+lo posible su uso concomitante.
+    Anticoagulantes orales: su administraci�n simult�nea aumenta el riesgo de hemorragia, por lo
+    que no se recomienda. Si resulta imposible evitar una asociaci�n de este tipo, se requiere una
+monitorizaci�n cuidadosa del INR (International Normalized Ratio) (ver Apdo. 4.4
+Advertencias y Precauciones especiales de empleo).
+    Trombol�ticos y antiagregantes plaquetarios: su administraci�n simult�nea aumenta el riesgo
+    de hemorragia, por lo que no se recomienda. (ver Apdo. 4.4 Advertencias y precauciones
+especiales de empleo).
+    Inhibidores de la enzima convertidora de la angiotensina (ECA) y antagonistas de los
+    receptores de la angiotensina II: los AINEs y antagonistas de la angiotensina II ejercen un
+efecto sin�rgico en la reducci�n de la filtraci�n glomerular, que puede ser exacerbado en caso
+de alteraci�n de la funci�n renal. La administraci�n de esta combinaci�n a pacientes ancianos
+o deshidratados, puede llevar a un fallo renal agudo por acci�n directa sobre la filtraci�n
+glomerular. Se recomienda una monitorizaci�n de la funci�n renal al iniciar el tratamiento as�
+como una hidrataci�n regular del paciente. Adem�s, esta combinaci�n puede reducir el efecto
+antihipertensivo de los inhibidores de la ECA y de los antagonistas de los receptores de la
+angiotensina II, debido a la inhibici�n de prostaglandinas con efecto vasodilatador.
+ Otros antihipertensivos (-bloqueantes): el tratamiento con AINEs puede disminuir el efecto
+    antihipertensivo de los -bloqueantes debido a una inhibici�n de las prostaglandinas con efecto
+vasodilatador.
+    Insulina y sulfonilureas: la administraci�n concomitante del �cido acetilsalic�lico con insulina
+    y sulfonilureas aumenta el efecto hipoglucemiantes de estas �ltimas.
+    Ciclosporina: los AINEs pueden aumentar la nefrotoxicidad de la ciclosporina debido a
+    efectos mediados por las prostaglandinas renales. Se recomienda una monitorizaci�n cuidadosa
+de la funci�n renal, especialmente en pacientes ancianos.
+    Vancomicina: el �cido acetilsalic�lico aumenta el riesgo de ototoxicidad de la vancomicina.
+    Interfer�n : el �cido acetilsalic�lico disminuye la actividad del interfer�n-.
+    Alcohol: la administraci�n conjunta de alcohol con �cido acetilsalic�lico aumenta el riesgo de
+    hemorragia digestiva.
+ INTERACCIONES FARMACOCIN�TICAS:
+    Litio: se ha demostrado que los AINEs disminuyen la excreci�n de litio, aumentando los
+    niveles de litio en sangre, que pueden alcanzar valores t�xicos. No se recomienda el uso
+concomitante de litio y AINEs. Las concentraciones de litio en sangre deben ser
+cuidadosamente monitorizadas durante el inicio, ajuste y suspensi�n del tratamiento con �cido
+acetilsalic�lico, en caso de que esta combinaci�n sea necesaria.
+    Metotrexato: los AINEs disminuyen la secreci�n tubular de metotrexato incrementando las
+    concentraciones plasm�ticas del mismo y por tanto su toxicidad. Por esta raz�n no se
+recomienda el uso concomitante con AINEs en pacientes tratados con altas dosis de
+metotrexato.
+Tambi�n deber� tenerse en cuenta el riesgo de interacci�n entre el metotrexato y los AINEs en
+pacientes sometidos a bajas dosis de metotrexato, especialmente aquellos con la funci�n renal
+alterada. En casos en que sea necesario el tratamiento combinado deber�a monitorizarse el
+hemograma y la funci�n renal, especialmente los primeros d�as de tratamiento.
+    Uricos�ricos: la administraci�n conjunta de �cido acetilsalic�lico y uricos�ricos adem�s de una
+    disminuci�n del efecto de estos �ltimos produce una disminuci�n de la excreci�n del �cido
+acetilsalicilico alcanz�ndose niveles plasm�ticos m�s altos.
+    Anti�cidos: los anti�cidos pueden aumentar la excreci�n renal de los salicilatos por
+    alcalinizaci�n de la orina.
+    Digoxina: los AINEs incrementan los niveles plasm�ticos de digoxina que pueden alcanzar
+    valores t�xicos. No se recomienda el uso concomitante de digoxina y AINEs. En caso de que
+su administraci�n simult�nea sea necesaria, deben de monitorizarse los niveles plasm�ticos de
+digoxina durante el inicio, ajuste y suspensi�n del tratamiento con �cido acetilsalic�lico.
+    Barbit�ricos: el �cido acetilsalic�lico aumenta las concentraciones plasm�ticas de los
+    barbit�ricos.
+Zidovudina: el �cido acetilsalic�lico puede aumentar las concentraciones plasm�ticas de
+    zidovudina al inhibir de forma competitiva la glucuronidaci�n o directamente inhibiendo el
+metabolismo microsomal hep�tico. Se debe prestar especial atenci�n a las posibles
+interacciones medicamentosas antes de utilizar �cido acetilsalic�lico, particularmente en
+tratamiento cr�nico, combinado con zidovudina.
+    �cido valproico: la administraci�n conjunta de �cido acetilsalic�lico y �cido valproico produce
+    una disminuci�n de la uni�n a prote�nas plasm�ticas y una inhibici�n del metabolismo de �cido
+valproico.
+    Fenito�na: el �cido acetilsalic�lico puede incrementar los niveles plasm�ticos de fenito�na.
+ Interferencias con pruebas de diagn�stico:
+ �cido acetilsalic�lico puede alterar los valores de las siguientes determinaciones anal�ticas:
+    Sangre:
+    - Aumento biol�gico de transaminasas (ALT y AST), fosfatasa alcalina, amon�aco,
+bilirrubina, colesterol, creatininfosfokinasa (CPK), creatinina, digoxina, tiroxina libre (T4),
+globulina de uni�n de la tiroxina (TBG), lactato deshidrogenasa (LDH), triglic�ridos, �cido
+�rico y �cido valproico.
+- Reducci�n biol�gica de T4 libre, hormona estimuladora del tiroides (TSH), hormona
+liberadora de tirotropina (TSH-RH), T3 libre, glucosa, fenito�na, triglic�ridos, �cido �rico,
+aclaramiento de creatinina.
+- Aumento por interferencia anal�tica de glucosa, paracetamol y prote�nas totales.
+- Reducci�n por interferencia anal�tica de transaminasas (ALT), alb�mina, fosfatasa alcalina,
+colesterol, CPK, LDH y prote�nas totales.
+    Orina:
+    - Reducci�n biol�gica de estriol.
+- Reducci�n por interferencia anal�tica de �cido 5-hidroxi-indolac�tico, �cido 4-hidroxi-3-
+metoxi- mand�lico, estr�genos totales y glucosa.
+ 4.6. Embarazo y lactacia
+ Embarazo:
+ El �cido acetilsalic�lico atraviesa la barrera placentaria.
+ Estudios epidemiol�gicos sugieren un aumento del riesgo de abortos y de malformaciones
+cong�nitas (incluyendo malformaciones cardiacas y gastrosquisis). Durante el primer y segundo
+trimestre del embarazo, no se deber�a administrar �cido acetilsalic�lico a menos que sea
+estrictamente necesario.
+Los salicilatos s�lo deben tomarse durante el embarazo tras una estricta evaluaci�n de la relaci�n
+beneficio-riesgo.
+ Si se administra �cido acetilsalic�lico durante el primer y segundo trimestre del embarazo, la dosis
+deber�a ser lo m�s baja posible y la duraci�n del tratamiento lo m�s corto posible.
+ Est� contraindicado su uso en el tercer trimestre del embarazo, ya que su administraci�n en el
+tercer trimestre puede prolongar el parto y contribuir al sangrado maternal o neonatal y al cierre
+prematuro del ductus arterial.
+Estudios en animales han mostrado toxicidad reproductiva. (ver apartado 5.3).
+ Lactancia:
+Se excreta a trav�s de la leche materna, por lo que no se recomienda su utilizaci�n durante el
+per�odo de lactancia debido al riesgo de que se produzcan en el ni�o efectos adversos.
+ 4.7. Efectos sobre la capacidad para conducir veh�culos y utilizar maquinaria
+ No se han descrito.
+ 4.8. Reacciones adversas
+ Los efectos adversos del �cido acetilsalic�lico, en la mayor parte de los casos, son una
+consecuencia del mecanismo de su acci�n farmacol�gica y afectan principalmente al aparato
+digestivo. El 5-7% de los pacientes experimenta alg�n tipo de efecto adverso.
+ Las reacciones adversas se presentan agrupadas seg�n su frecuencia (muy frecuentemente:  10
+%; frecuentemente:  1% < l0%; poco frecuentemente:  0,1% < 1%; raramente:  0,01% < 0,1%;
+muy raramente: < 0,01 %) y seg�n la clasificaci�n de �rganos y sistemas.
+ Los efectos adversos m�s caracter�sticos son:
+    Trastornos del sistema linf�tico y sangu�neo:
+    - Frecuentes (1-9%): Hipoprotrombinemia (a dosis elevadas).
+- Poco frecuentes (< 1%): Anemia.
+- Tambi�n se han descrito efectos hematol�gicos, tales como s�ndromes hemorr�gicos
+(epistaxis, gingivorragias, p�rpura, etc.) con aumento del tiempo de sangr�a. Esta acci�n
+persiste de 4 a 8 d�as despu�s de cesar el tratamiento con �cido acetilsalic�lico.
+    Trastornos del sistema nervioso:
+    - Con dosis elevadas prolongadas pueden aparecer sudoraci�n, cefalea, confusi�n.
+    Trastornos auditivos y laber�nticos:
+    - Con dosis elevadas prolongadas pueden aparecer mareos, tinnitus, sordera. El tratamiento
+debe suspenderse inmediatamente en el caso de que el paciente experimente alg�n episodio
+de sordera, tinnitus o mareos.
+    Trastornos respiratorios, tor�cicos y mediast�nicos:
+    - Frecuentes (1-9%): Rinitis, espasmo bronquial parox�stico, disnea grave.
+    Trastornos gastrointestinales:
+    - Frecuentes (1-9%): Hemorragia gastrointestinal (melenas, hematemesis). Dolor abdominal,
+n�useas, dispepsia, v�mitos, �lcera g�strica, �lcera duodenal.
+    Trastornos hepatobiliares:
+ - Poco frecuentes (< 1%): Hepatotoxicidad, particularmente en pacientes con artritis juvenil.
+    Trastornos del tejido de la piel y subcut�neos:
+    - Frecuentes (1-9%): Urticaria, erupciones exantem�ticas, angioedema.
+    Trastornos renales y urinarios:
+    - Con dosis elevadas prolongadas puede producirse insuficiencia renal y nefritis intersticial
+aguda.
+    Trastornos generales:
+    - Poco frecuentes (< 1%): S�ndrome de Reye (en menores de 16 a�os).
+- En pacientes con historia de hipersensibilidad a �cido acetilsalic�lico y/o a otros
+antiinflamatorios no esteroideos pueden producirse reacciones anafil�cticas o
+anafilactoides. Esto tambi�n podr�a suceder en pacientes que no han mostrado previamente
+hipersensibilidad a estos f�rmacos.
+ 4.9. Sobredosificaci�n
+    Diagn�stico: Los s�ntomas del salicilismo (n�useas, v�mitos, tinnitus, sordera, sudores,
+    vasodilataci�n e hiperventilaci�n, cefalea, visi�n borrosa y ocasionalmente diarrea) son
+indicios de sobredosis. La mayor�a de estas reacciones son producidas por el efecto directo del
+compuesto. No obstante, la vasodilataci�n y los sudores son el resultado de un metabolismo
+acelerado.
+    Son comunes las alteraciones en el equilibrio �cido-base, lo que puede influir en la toxicidad
+de los salicilatos, cambiando su distribuci�n entre plasma y tejidos. La estimulaci�n de la
+respiraci�n produce hiperventilaci�n y alcalosis respiratoria. La fosforilaci�n oxidativa
+deteriorada produce acidosis metab�lica.
+    En el cuadro de intoxicaci�n por salicilatos ocurren hasta cierto grado los dos s�ntomas, pero
+tiende a predominar el componente metab�lico en los ni�os hasta los 4 a�os, mientras que en
+los ni�os mayores y adultos es m�s com�n la alcalosis respiratoria.
+    La aparici�n de trastornos neurol�gicos, tales como la confusi�n, delirio, convulsiones y coma,
+son indicios de intoxicaci�n aguda.
+    Cuando las concentraciones plasm�ticas de salicilato sobrepasan 300 mg/l aparecen signos de
+salicismo.
+    Se necesitan medidas de apoyo para adultos con concentraciones plasm�ticas de salicilato de
+m�s de 500 mg/l.
+    Medidas terap�uticas y de apoyo: No hay ant�doto contra la intoxicaci�n por salicilatos. En el
+    caso de una supuesta sobredosis, el paciente debe mantenerse bajo observaci�n durante por lo
+menos 24 horas, puesto que durante varias horas pueden no ponerse en evidencia los s�ntomas
+y niveles de salicilato en sangre. En caso de sobredosis deber� realizarse lavado g�strico,
+diuresis alcalina forzada y tratamiento de soporte. En los casos agudos puede precisarse la
+restauraci�n del equilibrio �cido-base junto con hemodi�lisis.
+                                                                                                      MINISTERIO
+
+5.    PROPIEDADES FARMACOL�GICAS DE ESTE MEDICAMENTO
+	5.1. Propiedades farmacodin�micas
+ Grupo farmacoterap�utico: Analg�sicos y antipir�ticos, derivados de �cido salic�lico. C�digo
+ATC: N02BA.
+ �cido acetilsalic�lico pertenece al grupo de f�rmacos analg�sicos antipir�ticos y antiinflamatorios
+no esteroideos (AINEs).
+ El efecto analg�sico de �cido acetilsalic�lico se realiza perif�ricamente a causa de la inhibici�n de
+la s�ntesis de las prostaglandinas, lo que impide la estimulaci�n de los receptores del dolor por la
+bradiquinina y otras sustancias. Asimismo, debido a posibles efectos centrales sobre el
+hipot�lamo, produce alivio del dolor.
+ El efecto antipir�tico parece ser debido a la inhibici�n de la s�ntesis de las prostaglandinas,
+aunque los n�cleos del hipot�lamo tienen un papel significativo en el control de estos mecanismos
+perif�ricos.
+ �cido acetilsalic�lico inhibe la formaci�n del tromboxano A2, por la acetilaci�n de la
+ciclooxigenasa de las plaquetas. Este efecto antiagregante es irreversible durante la vida de las
+plaquetas.
+ 5.2. Propiedades farmacocin�ticas
+    Absorci�n: La absorci�n es generalmente r�pida y completa tras la administraci�n oral. El
+    alimento disminuye la velocidad pero no el grado de absorci�n. La concentraci�n plasm�tica
+m�xima se alcanza, generalmente, al cabo de 1 � 2 horas con dosis �nicas.
+    Distribuci�n: �cido acetilsalic�lico y �cido salic�lico se unen parcialmente a prote�nas s�ricas,
+    y principalmente a la alb�mina. El valor normal de la uni�n de �cido salic�lico a prote�nas es
+del 80 al 90%, administrado en concentraciones plasm�ticas terap�uticas. �cido acetilsalic�lico
+y �cido salic�lico se distribuyen en el fluido sinovial, el sistema nervioso central y la saliva.
+�cido salic�lico atraviesa f�cilmente la placenta, y a dosis elevadas, se excreta por la leche
+materna.
+    Metabolismo-Excreci�n: �cido acetilsalic�lico se convierte r�pidamente en �cido salic�lico,
+    con una vida media de 15-20 minutos, independientemente de la dosis. �cido salic�lico se
+excreta parcialmente inalterado, y se metaboliza parcialmente en conjugaci�n con la glicina y
+�cido glucur�nico, y por oxidaci�n. La tasa de formaci�n de los metabolitos de la glicina y de
+�cido glucur�nico es saturable. La vida media de �cido salic�lico depende de la dosis. Se lleva
+a cabo la excreci�n renal de �cido salic�lico y sus metabolitos por filtraci�n glomerular y
+secreci�n tubular.
+    Efectos seg�n la edad: No existe ninguna diferencia significativa entre la farmacocin�tica
+    observada en ancianos y adultos j�venes.
+ 5.3. Datos precl�nicos sobre seguridad
+ Los salicilatos poseen efecto terat�geno sobre diversas especies de animales. Se han publicado
+datos sobre alteraciones en la implantaci�n, efectos embriot�xicos y fetot�xicos, incremento en la
+letalidad embrio-fetal y alteraciones de la capacidad de aprendizaje en la descendencia de los
+animales expuestos a los salicilatos en vida prenatal. Adem�s, aumenta la incidencia de varias
+malformaciones, incluyendo cardiovasculares, en animales que hab�an recibido inhibidores de la
+s�ntesis de prostaglandinas durante el periodo de organog�nesis.
+ Potencial mutag�nico y carcinog�nico:
+Los datos precl�nicos no muestran riesgos especiales para los seres humanos seg�n los estudios
+realizados sobre potencial mutag�nico y carcinog�nico.
+ 
+6. DATOS FARMAC�UTICOS
+	6.1. Lista de excipientes
+    AAS 100 mg comprimidos: Sacarina s�dica, manitol, almid�n de ma�z, goma ar�biga, sabor
+    naranja y colorante amarillo.
+    AAS 500 mg comprimidos: Sacarina s�dica, manitol, almid�n de ma�z, goma ar�biga y sabor
+    naranja.
+ 6.2. Incompatibilidades farmac�uticas
+ No procede.
+ 6.3. Per�odo de validez
+ 5 a�os.
+ 6.4. Precauciones especiales de conservaci�n
+ No extraer el comprimido de su acondicionamiento herm�tico hasta el momento de su
+administraci�n.
+ 6.5. Naturaleza y contenido del envase
+ A.A.S 100 mg y A.A.S. 500 mg se presentan en estuches que contienen 20 comprimidos
+acondicionados en bl�sters de PVC/ Aluminio.
+ 6.6. Instrucciones de uso/manipulaci�n
+ No procede.
+ 
+7. NOMBRE O RAZ�N SOCIAL Y DIRECCI�N DEL                      TITULAR     DE LA
+	SANOFI AVENTIS S.A.
+Josep Pl�, 2
+08019 Barcelona
+ 
+8. N�MERO DE LA AUTORIZACI�N DE LA COMERCIALIZACI�N
+	   A.A.S. 100 mg comprimidos: 42.991.
+    A.A.S. 500 mg comprimidos: 42.956.
+ 9. FECHA  DE   LA           PRIMERA        AUTORIZACI�N/RENOVACI�N       DE    LA
+AUTORIZACI�N
+ Fecha de la �ltima Revalidaci�n Quinquenal: Enero 2.001.
+ 10. FECHA DE REVISI�N DEL TEXTO
+ Texto revisado en Diciembre 2.004.
+
+	 AAS 
+  100 Mg comprimidos, 500 comprimidos 

@@ -1,0 +1,293 @@
+FAMVIR COMPRIMIDOS 125MG, 10 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento FAMVIR® comprimidos 125 mg, 250 mg, 500 mg y 750 mg
+ 
+1.     NOMBRE DEL MEDICAMENTO
+	       FAMVIR 125 mg comprimidos recubiertos con película
+FAMVIR 250 mg comprimidos recubiertos con película
+FAMVIR 500 mg comprimidos recubiertos con película
+FAMVIR 750 mg comprimidos recubiertos con película
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       El principio activo es famciclovir.
+        Comprimidos de 125 mg
+Cada comprimido contiene 125 mg de famciclovir.
+        Comprimidos de 250 mg
+Cada comprimido contiene 250 mg de famciclovir.
+        Comprimidos de 500 mg
+Cada comprimido contiene 500 mg de famciclovir.
+        Comprimidos de 750 mg
+Cada comprimido contiene 750 mg de famciclovir.
+        Para la lista completa de excipientes, ver sección 6.1
+ 
+3.     FORMA FARMACÉUTICA
+	"       Comprimidos recubiertos con película.
+        Comprimidos de 125 mg y 250 mg
+Comprimidos blancos, redondos, biconvexos, con bordes biselados, con ""FV"" en una cara y
+""125"" o ""250"" por la otra.
+        Comprimidos de 500 mg y 750 mg
+Comprimidos blancos, ovalados, biconvexos, con bordes biselados, con ""FV 500"" o ""FV
+750"" en una cara y sin nada por la otra.
+ "
+4.     DATOS CLÍNICOS
+	4.1.   Indicaciones terapéuticas
+        Famciclovir (Famvir) está indicado en:
+1. Tratamiento del herpes zóster.
+2. Tratamiento del herpes genital agudo (primer episodio y recurrencias).
+3. Tratamiento supresor del herpes genital recurrente.
+ 4.2.   Posología y forma de administración
+        Adultos
+        4.2.1. Tratamiento del herpes zóster: Un comprimido de 250 mg tres veces al día durante
+siete días. Alternativamente, puede administrarse un comprimido de 750 mg al día durante
+siete días. Se recomienda administrar la dosis diaria aproximadamente a la misma hora. El
+tratamiento debería iniciarse en las primeras 72 horas del cuadro, siendo los resultados
+mejores cuanto más precoz es el tratamiento.
+        4.2.2. Tratamiento del herpes genital agudo
+        4.2.2.1. Tratamiento del primer episodio: Un comprimido de 250 mg tres veces al día
+durante cinco días. Se recomienda iniciar el tratamiento en la fase prodrómica, o tan pronto
+como sea posible tras la aparición de las lesiones.
+        4.2.2.2. Tratamiento de las recurrencias: Un comprimido de 125 mg dos veces al día
+durante cinco días. Se recomienda iniciar el tratamiento en la fase prodrómica, o tan pronto
+como sea posible tras la aparición de las lesiones.
+        4.2.3. Tratamiento supresor del herpes genital recurrente: Un comprimido de 250 mg dos
+veces al día. Cuando se inicia un tratamiento supresor, se recomienda reevaluar al paciente
+tras un período de 6 a 12 meses de tratamiento continuo. La dosis de 500 mg dos veces al
+día ha demostrado eficacia en pacientes VIH positivos, aunque no se ha comparado su
+eficacia con la dosis de 250 mg dos veces al día.
+        Ancianos: Sólo se modificará la posología en casos de insuficiencia renal.
+        Niños: No se han efectuado estudios.
+        Pacientes con insuficiencia renal: Se debe prestar especial atención a la posología en
+pacientes con insuficiencia renal dado que una función renal reducida ocasiona una
+disminución del aclaramiento de penciclovir. Los comprimidos de 750 mg no son
+apropiados para pacientes con insuficiencia renal, recomendándose las siguientes pautas de
+dosificación:
+        A) En el tratamiento de las infecciones por herpes zóster:
+        Aclaramiento de creatinina                        Dosis
+(ml/min/1,73 m2)
+                  >40                             250 mg cada 8 horas
+30-39                           250 mg cada 8 horas
+10-29                           125 mg cada 8 horas
+        B) En el tratamiento del primer episodio del herpes genital:
+        Aclaramiento de creatinina                        Dosis
+(ml/min/1,73 m2)
+                  >30                             250 mg cada 8 horas
+10-29                           125 mg cada 8 horas
+C) En el tratamiento de las recurrencias del herpes genital:
+        Aclaramiento de creatinina                         Dosis
+(ml/min/1,73 m2)
+                 >10                              125 mg cada 12 horas
+        D) En el tratamiento supresor de las recurrencias del herpes genital:
+        Aclaramiento de creatinina                         Dosis
+(ml/min/1,73 m2)
+                 >30                              250 mg cada 12 horas
+10-29                            125 mg cada 12 horas
+        Pacientes con disfunción renal, sometidos a hemodiálisis: Dado que una hemodiálisis de 4
+horas supone una reducción en las concentraciones plasmáticas de penciclovir del 75%
+aproximadamente, se debe administrar famciclovir inmediatamente después de la diálisis.
+La dosis recomendada es 250 mg (pacientes con herpes zóster) o 125 mg (pacientes con
+herpes genital).
+        Pacientes con insuficiencia hepática: No se requiere modificar la dosis.
+        Dosis diaria máxima tolerada y duración: Pacientes con herpes zóster, a los que se
+administraron 750 mg tres veces al día durante siete días, toleraron bien el tratamiento con
+Famvir.
+ 4.3.   Contraindicaciones
+        Hipersensibilidad conocida a famciclovir (Famvir) o a sus excipientes, penciclovir u otros
+antivirales del mismo grupo.
+ 4.4.   Advertencias y precauciones especiales de empleo
+        Se debe utilizar con precaución en pacientes con insuficiencia renal, siendo necesario un
+ajuste de la dosis (Ver Secciones 4.2 y 4.9). No se requieren precauciones especiales en
+pacientes con insuficiencia hepática ni en ancianos con función renal normal.
+        El herpes genital es una enfermedad de transmisión sexual. El riesgo de transmisión
+aumenta durante los episodios agudos. Se deben evitar las relaciones sexuales cuando
+existan síntomas, incluso si el tratamiento antiviral ha sido ya iniciado.
+        Durante el tratamiento de supresión con agentes antivíricos, la frecuencia de la eliminación
+viral se reduce significativamente. Sin embargo, el riesgo de transmisión es todavía
+teóricamente posible. Por tanto, los pacientes deberán tomar las medidas de protección
+adecuadas cuando mantengan relaciones sexuales.
+        Famvir 500 mg y Famvir 750 mg no contienen lactosa; sólo las especialidades Famvir 125
+mg y Famvir 250 mg contienen lactosa (26,9 y 53,7 mg, respectivamente). Los pacientes
+con problemas hereditarios de intolerancia a la galactosa, insuficiencia de lactasa o
+                                                                                                       MINISTERIO
+problemas de absorción de glucosa o galactosa, no deberán tomar Famvir 125 mg y 250
+mg.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+        En los ensayos preclínicos se ha demostrado que no posee potencial para la inducción del
+citocromo P450. Probenecid y otros fármacos que afectan a la fisiología renal podrían
+afectar a los niveles plasmáticos de penciclovir. En un ensayo de fase I no se observó
+interacción entre fármacos después de la administración conjunta de zidovudina y
+famciclovir.
+ 4.6.   Embarazo y lactancia
+        Embarazo
+Aunque los estudios en animales no muestran efectos embriotóxicos o teratógenos con
+famciclovir o penciclovir, no se ha establecido la seguridad de famciclovir (Famvir) en
+mujeres embarazadas, por lo que no deberá utilizarse durante el embarazo o la lactancia, a
+menos que el posible beneficio supere el riesgo potencial.
+        Lactancia
+Los estudios en ratas muestran que penciclovir se excreta en la leche de las hembras a las
+que se administró famciclovir (Famvir) oral. En humanos, no se dispone de información
+sobre la excreción de penciclovir en la leche materna.
+ 4.7.   Efectos sobre la capacidad para conducir vehículos y utilizar máquinas
+        Los pacientes pueden experimentar vértigos/mareos, somnolencia, confusión u otras
+alteraciones del sistema nervioso central mientras esté tomando Famvir.
+        Se le debe advertir al paciente al inicio del tratamiento de la posibilidad de aparición de
+estos síntomas y si aparece deberán abstenerse de conducir o utilizar maquinaria.
+ 4.8.   Reacciones adversas
+        Famciclovir (Famvir) ha sido bien tolerado en los estudios realizados en humanos. Se han
+comunicado cefaleas y náuseas en los ensayos clínicos. Estos efectos adversos fueron
+generalmente de naturaleza leve o moderada y ocurrieron con una incidencia similar en
+pacientes que recibieron placebo.
+        La tabla siguiente especifica la frecuencia estimada de reacciones adversas en base a todos
+los informes espontáneos y a los casos descritos en la literatura desde la comercialización
+de Famvir.
+        Las reacciones adversas se clasifican según una categoría de frecuencias que se definen
+como: muy frecuentes ( 1/10); frecuentes ( 1/100, < 1/10); poco frecuentes ( 1/1.000, <
+1/100); raras ( 1/10.000, < 1/1.000); muy raras (<1/10.000):
+ Trastornos de la sangre y del sistema linfático
+Muy rara:            Trombocitopenia
+Trastornos psiquiátricos
+Raras               Confusión (predominantemente en pacientes ancianos).
+Muy raras           Alucinaciones.
+Trastornos del sistema nervioso
+Raras               Cefalea.
+Muy raras           Vértigo/mareos, somnolencia (predominantemente en pacientes
+Trastornos gastrointestinales
+Raras               Náuseas.
+Muy raras           Vómitos.
+Trastornos hepatobiliares
+Muy raras           Ictericia.
+Trastornos de la piel y del tejido subcutáneo
+Muy raras           Erupción cutánea, prurito, urticaria, reacciones cutáneas graves
+ 4.9.   Sobredosis
+        No se ha descrito sobredosificación aguda con famciclovir (Famvir). Se deberá administrar
+terapia sintomática y de soporte, si fuera necesario.
+        En raras ocasiones se ha comunicado fallo renal agudo en pacientes con insuficiencia renal
+subyacente tratados con dosis de famciclovir (Famvir) que no habían sido adecuadamente
+reducidas de acuerdo con el grado de disfunción renal del paciente.
+        Penciclovir es dializable; las concentraciones plasmáticas se reducen en aproximadamente
+el 75% tras 4 horas de hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.   Propiedades Farmacodinámicas
+        Grupo farmacoterapéutico: Antiviral de uso sistémico, código ATC: J05A B09
+        Famciclovir es el profármaco de penciclovir. In vivo, famciclovir, administrado por vía
+oral, se convierte rápidamente en penciclovir, fármaco con demostrada actividad in vitro
+frente a los tipos I y II de herpes simple, virus varicela zóster, y virus Epstein-Barr.
+        En varios modelos animales se ha demostrado el efecto antiviral de famciclovir (Famvir)
+administrado oralmente: este efecto se debe a la conversión in vivo a penciclovir. En células
+infectadas por el virus, penciclovir se fosforila rápida y eficazmente en el compuesto activo
+penciclovir-trifosfato; el primer paso de este proceso requiere la presencia de la timidina-
+quinasa inducida por el virus. El penciclovir-trifosfato persiste en las células infectadas
+durante más de 12 horas inhibiendo la replicación del ADN viral. En las células no
+infectadas, prácticamente no se detectan concentraciones de penciclovir-trifosfato, por lo
+que es poco probable que se vean afectadas por concentraciones terapéuticas de penciclovir.
+ La forma de resistencia más común a aciclovir entre las cepas de virus herpes simple (VHS)
+se debe a la deficiencia en la producción de timidina-quinasa. Estas cepas deficientes en
+timidina-quinasa podrían presentar resistencia cruzada frente a penciclovir y a aciclovir. Sin
+embargo, se ha observado que penciclovir es activo frente a una cepa de virus herpes
+simple con ADN polimerasa alterada, resistente a aciclovir, recientemente aislada.
+        En un estudio controlado con placebo se ha observado una reducción significativa de la
+duración de la neuralgia postherpética, tras administrar famciclovir (Famvir) a pacientes
+con herpes zóster a dosis de 500 mg tres veces al día.
+        En un estudio controlado frente a placebo en pacientes con inmunodeficiencia debida a
+VIH, famciclovir a dosis de 500 mg dos veces al día reduce de forma significativa la
+proporción de días de eliminación sintomática y asintomática de VHS.
+ 5.2.   Propiedades farmacocinéticas
+        a) Características generales
+        Famciclovir (Famvir) se absorbe rápida y extensamente tras su administración oral,
+convirtiéndose en penciclovir, molécula activa. La biodisponibilidad de penciclovir tras la
+administración oral de famciclovir (Famvir) es del 77%.
+        Tras la administración de una dosis oral de 125 mg, 250 mg, 500 mg y 750 mg de
+famciclovir (Famvir) se obtuvieron unos valores medios de concentración plasmática
+máxima de penciclovir de 0,8 microgramos/ml, 1,6 microgramos/ml, 3,3 microgramos/ml y
+4,9 microgramos/ml respectivamente, en un tiempo medio de 45-50 minutos.
+        Las curvas de concentración plasmática-tiempo de penciclovir son similares después de una
+dosis única y repetida (tres veces al día).
+        La semivida plasmática de penciclovir, después de una administración única y repetida de
+famciclovir (Famvir), es de aproximadamente 2 horas. No existe acumulación de
+penciclovir con dosis repetidas de famciclovir (Famvir).
+        Penciclovir y su precursor 6-deoxi, se unen poco a proteínas plasmáticas (<20%).
+        Famciclovir (Famvir) se excreta por vía renal, principalmente como penciclovir o su
+precursor 6-deoxi, mediante filtración glomerular y secreción tubular. No se detecta
+famciclovir (Famvir) inalterado en orina.
+        b) Características en pacientes
+        La infección por herpes zóster no complicada no altera significativamente la
+farmacocinética de penciclovir, determinada tras la administración oral de famciclovir
+(Famvir).
+ 5.3.   Datos preclínicos sobre seguridad
+        Carcinogenicidad
+        En estudios de dos años de duración en animales con dosis de 200 mg/kg/día, no se
+observaron alteraciones. Con la dosis máxima tolerada (600 mg/kg/día) se observó un
+incremento de incidencia de adenocarcinoma mamario en ratas hembra, un tumor común en
+esta cepa de ratas utilizada en los estudios. No hubo efectos en la incidencia de neoplasias
+en ratas macho o en ratones de cualquier sexo.
+        Genotoxicidad
+        Tras una amplia serie de ensayos realizados in vivo e in vitro para detectar mutación
+génica, daño cromosómico o daño reparable de ADN, no se observó que famciclovir
+(Famvir) fuera genotóxico.
+        Se ha observado que penciclovir, al igual que otros principios activos de su clase, causa
+daño cromosómico; pero no induce mutación génica en los cultivos celulares humanos y
+bacterianos. Tampoco hubo indicios in vitro de incremento de reparación de ADN.
+        Toxicidad para la reproducción
+        Durante la experimentación animal con famciclovir (Famvir), al igual que con otros
+fármacos de este tipo, se observaron cambios degenerativos del epitelio testicular.
+        Famciclovir (Famvir) no presenta efectos significativos en la cantidad, morfología o
+motilidad del esperma humano. Se observaron alteraciones en la fertilidad de ratas macho
+tratadas con 500 mg/kg. No hubo efectos significativos en la fertilidad de ratas hembra
+tratadas con famciclovir (Famvir).
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1.   Lista de excipientes
+        Comprimidos de 125 y 250 mg
+Núcleo del comprimido:
+- Hidroxipropil celulosa
+- Lactosa anhidra
+- Glicolato sódico de almidón
+- Estearato de magnesio
+Recubrimiento del comprimido:
+- Dióxido de titanio (E 171)
+- hipromelosa
+- polietilenglicol 4000
+- polietilenglicol 6000
+        Comprimidos de 500 y 750 mg
+Núcleo del comprimido:
+- Hidroxipropil celulosa
+- Glicolato sódico de almidón
+- Estearato de magnesio
+Recubrimiento del comprimido:
+- Dióxido de titanio (E 171)
+- hipromelosa
+- polietilenglicol 4000
+- polietilenglicol 6000
+ 6.2.   Incompatibilidades
+No aplicable.
+ 6.3.   Periodo de validez
+        3 años.
+ 6.4.   Precauciones especiales de conservación
+        No conservar a temperatura superior a 30ºC. Conservar en el embalaje original.
+        Mantener fuera del alcance y de la vista de los niños.
+ 6.5.   Naturaleza y contenido del recipiente
+        Envase tipo blister de PVC/PVdC y lámina de aluminio. Envases de 10 x 125 mg, 21 x 250
+mg, 21 x 500 mg y 7 x 750 mg comprimidos.
+ 6.6.   Instrucciones de uso y manipulación
+        Ninguna especial.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	       Novartis Farmacéutica, S.A.
+Gran Via de les Corts Catalanes, 764
+08013 Barcelona
+Teléfono: +34 93 306 47 21
+Fax: +34 93 245 44 10
+ 
+8.     NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	       Famvir 125 mg: 61.597
+Famvir 250 mg: 60.609
+Famvir 500 mg: 65.027
+Famvir 750 mg: 62.416
+ 9.     FECHA DE LA              PRIMERA         AUTORIZACIÓN/RENOVACIÓN                 DE   LA
+AUTORIZACIÓN
+        Famvir 125 mg: 30.09.02
+Famvir 250 mg: 30.09.02
+Famvir 500 mg: 10.10.02
+Famvir 750 mg: 30.09.02
+ 10. FECHA DE LA REVISIÓN DEL TEXTO:
+
+	Prospectos de medicamentos.

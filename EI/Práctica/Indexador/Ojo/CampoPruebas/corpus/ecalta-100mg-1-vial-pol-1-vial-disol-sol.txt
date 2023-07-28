@@ -1,0 +1,848 @@
+ECALTA 100MG 1 VIAL POL +1 VIAL DISOL SOL
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERISTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	ECALTA 100 mg polvo y disolvente para concentrado para solución para perfusión.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada vial contiene 100 mg de anidulafungina.
+La solución reconstituida contiene 3,33 mg/ml de anidulafungina y la solución diluida contiene 0,36
+mg/ml de anidulafungina.
+ Excipientes: 102,5 mg de fructosa por vial
+6 g de etanol por vial
+ Para consultar la lista completa de excipientes, ver sección 6.1
+ 
+3.    FORMA FARMACEÚTICA
+	Polvo y disolvente para concentrado para solución para perfusión.
+Polvo: sólido liofilizado de color blanco a blanquecino.
+Disolvente: solución transparente e incolora.
+La solución reconstituida tiene un pH de 4,0 a 6,0.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de candidiasis invasiva en pacientes adultos no neutropénicos.
+ ECALTA se ha estudiado principalmente en pacientes con candidemia y sólo en un número limitado
+de pacientes que presentan infecciones de tejido profundo producidas por Candida o enfermedades
+que cursan con formación de abscesos (ver apartado 4.4 y 5.1).
+ 4.2   Posologia y forma de administración
+ El tratamiento con ECALTA debe ser iniciado por un médico con experiencia en el tratamiento de
+infecciones fúngicas invasivas. Se deben obtener muestras para cultivos fúngicos antes de iniciar el
+tratamiento. Se puede iniciar el tratamiento antes de conocer los resultados de los cultivos y proceder a
+su ajuste una vez que estén disponibles.
+ Debe administrarse una dosis de carga única de 200 mg en el Día 1, y posteriormente una dosis diaria
+de 100 mg. La duración del tratamiento se establecerá en función de la respuesta clínica del paciente.
+En general, el tratamiento antifúngico debe continuarse por lo menos durante 14 días después del
+último cultivo positivo.
+ ECALTA debe ser reconstituido con el disolvente hasta una concentración de 3,33 mg/ml y,
+posteriormente, se debe diluir hasta una concentración de 0,36 mg/ml antes de su uso, según las
+instrucciones que se incluyen en la sección 6.6.
+ Se recomienda administrar ECALTA sin superar una velocidad de perfusión de 1,1 mg/minuto
+(equivalente a 3,0 ml/minuto). Son poco frecuentes las reacciones adversas asociadas con la
+perfusión cuando la velocidad de perfusión de anidulafungina no excede de 1,1 mg/minuto.
+ No se debe administrar ECALTA en forma de bolus.
+Insuficiencia hepática y renal
+                                                     2
+No se requiere ajuste de dosis en pacientes con insuficiencia hepática leve, moderada o grave. No se
+requiere ajuste de dosis en pacientes con cualquier grado de insuficiencia renal, ni siquiera en aquellos
+que estén sometidos a diálisis. ECALTA puede ser administrado con independencia del momento en
+el que se realice la hemodiálisis (ver apartado 5.2).
+ Duración del tratamiento
+No existen datos suficientes que avalen el uso de la dosis de 100 mg durante más de 35 días.
+ Otras poblaciones especiales
+No se requiere ajuste de dosis en pacientes adultos en función del de sexo, peso, raza, por ser VIH
+positivo ni en la población geriátrica (ver apartado 5.2).
+ Niños y adolescentes
+ECALTA no está recomendado para su uso en niños menores de 18 años debido a la escasez de datos
+sobre seguridad y eficacia (ver apartado 5.2).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+Hipersensibilidad a con otros medicamentos de la clase de las equinocandinas.
+ 4.4   Advertencias y precauciones especiales de empleo.
+ No se ha establecido la eficacia de ECALTA en pacientes neutropénicos con candidemia ni en
+pacientes con infección de tejido profundo por Candida o con abscesos intra-abdominales y
+peritonitis.
+La eficacia clínica se ha evaluado principalmente en pacientes no neutropénicos con infecciones por
+C. albicans y en un número pequeño de pacientes infectados por otros tipos de Candida,
+principalmente C. glabrata, C. parapsilosis y C. tropicalis. No se han estudiado pacientes con
+endocarditis, osteomielitis o meningitis por Candida ni por infección conocida por C. Krusei.
+ Efectos hepáticos
+Se han observado niveles aumentados de enzimas hepáticas en voluntarios sanos y en pacientes
+tratados con anidulafungina. En algunos pacientes con patologías subyacentes graves en tratamiento
+concomitante con múltiples medicamentos mientras recibían anidulafungina, se han presentado
+alteraciones hepáticas clínicamente significativas. Se han comunicado casos aislados de disfunción
+hepática significativa, hepatitis o agravamiento de la insuficiencia hepática. En los pacientes con
+niveles aumentados de enzimas hepáticas durante el tratamiento con anidulafungina, se debe
+monitorizar la función hepática y si existe evidencia de agravamiento valorar el beneficio/riesgo de
+continuar el tratamiento con anidulafungina.
+ Reacciones relacionadas con la perfusión
+En un estudio preclínico (en ratas) se ha observado que la administración concomitante de anestésicos
+exacerba las reacciones adversas relacionadas con la perfusión (ver apartado 5.3). Se desconoce la
+relevancia clínica de este hecho. Sin embargo, se debe tener cuidado cuando se coadministren
+anidulafungina y anestésicos.
+ Contenido de alcohol
+Este medicamento contiene un 24 % de etanol (alcohol) en volumen. Esto equivale a un contenido de
+6 g de etanol en la dosis de mantenimiento de 100 mg (administrada durante un periodo de 1,5 horas)
+y de 12 g de etanol en la dosis de carga de 200 mg (administrada durante un periodo de 3 horas). El
+etanol puede ser perjudicial para pacientes con problemas de alcoholismo. Se debe tener en cuenta el
+contenido de alcohol en mujeres embarazadas o que estén dando el pecho, en niños y en grupos de alto
+riesgo como los que padecen enfermedad hepática o epilepsia.
+La cantidad de alcohol contenida en este medicamento puede alterar el efecto de con otros medicamentos.
+La cantidad de alcohol contenida en este medicamento puede reducir la capacidad para conducir o
+utilizar máquinas.
+                                                     3
+Contenido de fructosa
+Los pacientes con intolerancia hereditaria a la fructosa no deben tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Anidulafungina no es ni sustrato, ni inductor, ni inhibidor clínicamente relevante, de ninguna
+isoenzima del citocromo P450 (1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 3A). Cabe señalar que los estudios in
+vitro no excluyen completamente posibles interacciones in vivo.
+ Se realizaron estudios de interacción de anidulafungina con con otros medicamentos susceptibles de ser
+administrados de forma concomitante. No se recomienda ningún ajuste de dosis cuando se administra
+anidulafungina de forma concomitante con ciclosporina, voriconazol o tacrolimus, ni tampoco se
+recomienda ajuste de la dosis de anidulafungina cuando se coadministra con anfotericina B o
+rifampicina.
+ 4.6   Embarazo y lactancia
+ No existen datos sobre la utilización de anidulafungina en mujeres embarazadas. Se han observado
+ligeros efectos sobre el desarrollo en conejos a los que se les había administrado anidulafungina
+durante el embarazo, en presencia de toxicidad materna (ver apartado 5.3). Se desconoce el riesgo
+potencial para los seres humanos y por lo tanto, no se recomienda el uso de anidulafungina durante el
+embarazo.
+ Los estudios en animales han mostrado que anidulafungina se excreta en la leche. Se desconoce si
+anidulafungina se excreta en la leche humana. La decisión sobre si continuar/suspender la lactancia o
+el tratamiento con anidulafungina debe tomarse teniendo en consideración la relación riesgo-beneficio
+para el niño lactante y la madre.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+La cantidad de alcohol contenida en este medicamento puede afectar a la capacidad para conducir o
+utilizar máquinas.
+ 4.8   Reacciones adversas
+ Novecientos veintinueve (929) sujetos recibieron dosis únicas o múltiples de anidulafungina por vía
+intravenosa durante los ensayos clínicos: 672 en ensayos Fase 2/3 (287 pacientes con
+candidemia/candidiasis invasiva, 355 pacientes con candidiasis oral/esofágica, 30 pacientes con
+aspergilosis invasiva), y 257 en ensayos Fase I.
+ Tres ensayos (uno comparativo frente a fluconazol y dos no comparativos) evaluaron la eficacia de
+anidulafungina en pacientes con candidemia y en un número limitado de pacientes con infecciones de
+tejido profundo por Candida. Un total de 204 pacientes recibieron la dosis diaria recomendada de 100
+mg y la duración media del tratamiento intravenoso en estos pacientes fue de 13,5 días (rango, de 1 a
+38 días). Ciento diecinueve pacientes recibieron anidulafungina durante  14 días. Las reacciones
+adversas fueron generalmente de leves a moderadas y rara vez motivaron la interrupción del
+tratamiento.
+ Durante el ensayo pivotal ICC se notificaron reacciones adversas relacionadas con la perfusión de
+anidulafungina. Éstas incluyeron rubor/sofocos (2,3%), prurito (2,3%), erupción (1,5%), y urticaria
+(0,8%). Otras reacciones adversas relacionadas con el tratamiento que ocurrieron en  1% de los
+pacientes durante el ensayo pivotal incluyeron hipopotasemia (3,1%), diarrea (3,1%), elevación del
+ALT (2,3%), enzimas hepáticas elevadas (1,5%), fosfatasa alcalina sérica elevada (1,5%) y bilirrubina
+sérica elevada (1,5%).
+ Las reacciones adversas relacionadas con el fármaco (MedDRA) incluidas en la base de datos del
+ensayo ICC (correspondiente a la dosis de 100 mg (N = 204)), y que fueron notificadas como
+frecuentes (1/100 a 1/10) o poco frecuentes (1/1.000 a <1/100) se incluyen a continuación. Las
+reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+ Trastornos de la sangre y del sistema linfático
+Frecuentes:     Coagulopatía
+ Trastornos del sistema nervioso
+Frecuentes:     Convulsiones, Cefalea
+ Trastornos gastrointestinales
+Frecuentes:             Diarrea, vómitos, náuseas
+Poco Frecuentes:        Dolor en la zona superior del abdomen
+ Trastornos renales y urinarios
+Frecuentes:    Niveles aumentados de creatinina en sangre.
+ Trastornos de la piel y del tejido subcutáneo
+Frecuentes:           Erupción, prurito
+Poco Frecuentes:      Urticaria
+ Trastornos del metabolismo y de la nutrición
+Frecuentes:              Hipopotasemia
+Poco Frecuentes:         Hiperglucemia
+ Trastornos vasculares
+Frecuentes:           Rubor
+Poco Frecuentes:      Hipertensión, sofocos
+ Trastornos generales y alteraciones en el lugar de administración
+Poco Frecuentes:     Dolor en el lugar de la perfusión
+ Trastornos hepatobiliares
+Frecuentes:            Niveles aumentados de ALAT, niveles aumentados de fosfatasa alcalina en sangre,
+Poco Frecuentes:       Colestasis
+ 4.9   Sobredosis
+ Como en el caso de otras sobredosis se deben utilizar las medidas generales de soporte que sean
+necesarias. En caso de sobredosis, pueden aparecer las reacciones adversas incluidas en la sección 4.8.
+ Durante los ensayos clínicos, se administró accidentalmente una dosis única de 400 mg de
+anidulafungina como dosis de carga. No se comunicó ninguna reacción clínica adversa. No se observó
+toxicidad limitante de dosis en un ensayo en10 voluntarios sanos a los que se les administró una dosis
+de carga de 260 mg seguida de una dosis diaria de 130 mg ; 3 de los 10 sujetos experimentaron
+elevaciones asintomáticas y transitorias de transaminasas (3 x Límite Superior de la Normalidad
+(LSN)).
+ ECALTA no se puede eliminar mediante diálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedad farmacodinámicas
+Propiedades generales
+Grupo farmacoterapéutico: Otros antimicóticos de uso sistémico, código ATC: JO2AX06
+ Anidulafungina es una equinocandina semisintética, un lipopéptido obtenido a partir de un producto de
+fermentación de Aspergillus nidulans.
+ Anidulafungina inhibe selectivamente la 1,3--D glucanosintetasa, una enzima presente en las células
+fúngicas, pero no en las células de mamíferos. El resultado es la inhibición de la formación del 1,3--
+D glucano, un componente esencial de la pared celular fúngica. Anidulafungina ha demostrado
+actividad fungicida frente a especies de Candida y actividad frente a las regiones de crecimiento
+celular activo de la hifa de Aspergillus fumigatus.
+ Actividad in vitro
+Anidulafungina presenta actividad in vitro frente a Candida albicans, C. glabrata, C. parapsilosis, C.
+tropicalis. No se han establecido los puntos de corte de sensibilidad para los inhibidores de la síntesis
+del 1,3--D-glucano. Para información sobre la relevancia clínica de estos hallazgos, ver más adelante
+bajo el epígrafe de ensayos clínicos.
+ Las determinaciones de concentración mínima inhibitoria (CMI) se realizaron de acuerdo con los
+métodos M27 y M38 del Clinical and Laboratory Standards Institute. Los aislados de Candida con una
+sensibilidad reducida a anidulafungina no han sido aislados en pacientes tratados. Entre varios aislados
+con CMIs elevadas de equinocandina procedentes de pacientes tratados con otras equinocandinas
+únicamente se encontraron dos aislados de Candida que tuvieron CMIs elevadas de anidulafungina, lo
+que sugiere que no hay resistencia cruzada completa entre equinocandinas.
+ Actividad in vivo
+Anidulafungina administrada por vía parenteral fue eficaz frente a Candida spp. en modelos en ratón y
+conejo inmunocompetentes e inmunocomprometidos. El tratamiento con anidulafungina prolongó la
+supervivencia y también redujo la carga de Candida spp. a nivel de órganos, cuando se determinó a
+intervalos de 24 a 96 horas tras la última dosis de tratamiento.
+Las infecciones experimentales incluyeron infección diseminada por C. albicans en conejos
+neutropénicos, infección esofágica/orofaríngea en conejos neutropénicos con C. albicans resistente a
+fluconazol e infección diseminada en ratones neutropénicos con C. glabrata resistente a fluconazol.
+ Información de los ensayos clínicos
+ Candidemia y otras formas de Candidiasis invasiva
+Se evaluó la seguridad y la eficacia de anidulafungina en un ensayo pivotal Fase 3 multinacional,
+multicéntrico, doble ciego y aleatorizado, en el que la mayoría de los pacientes presentaban
+candidemia y eran no neutropénicos y sólo un número limitado de pacientes presentaban infecciones
+de tejido profundo producidas por Candida o enfermedades que cursaran con formación de abscesos.
+[Aquellos pacientes con endocarditis, osteomielitis o meningitis por Candida o pacientes con una
+infección debido a C. krusei, fueron excluidos específicamente del ensayo]. Los pacientes fueron
+aleatorizados para recibir anidulafungina (dosis de carga intravenosa de 200 mg seguida de una dosis
+diaria de 100 mg por vía intravenosa ) o fluconazol (dosis de carga intravenosa de 400 mg seguida de
+una dosis diaria de 400 mg por vía intravenosa) y fueron estratificados en función de la puntuación
+APACHE II (20 y >20) y de la presencia o ausencia de neutropenia. Se administró el tratamiento
+durante un periodo de no menos de 14 días ni de más de 42 días. A los pacientes pertenecientes a
+ambos brazos del ensayo se les permitió cambiar a fluconazol oral después de al menos 10 días de
+terapia intravenosa, siempre que pudieran tolerar la medicación oral, que no presentaran fiebre durante
+al menos 24 horas, y que los cultivos sanguíneos más recientes fueran negativos para especies de
+Candida.
+ Los pacientes que recibieron al menos una dosis de la medicación en estudio y con infección por
+Candida anterior a la entrada en el estudio confirmada (cultivo positivo para especies de Candida en
+una localización normalmente estéril), fueron incluidos en la población por intención de tratar
+modificada (MITT). En el análisis principal de eficacia (respuesta global en las poblaciones MITT al
+final del tratamiento intravenoso), se comparó anidulafungina con fluconazol mediante una
+comparación estadística preespecificada de dos pasos (no inferioridad seguida de superioridad). Para
+considerar una respuesta global favorable se requería mejoría clínica y erradicación microbiológica.
+Los pacientes fueron seguidos durante un periodo de seis semanas tras la finalización del tratamiento.
+ Doscientos cincuenta y seis pacientes, de edades comprendida entre los 16 y 91 años, fueron
+aleatorizados al tratamiento y recibieron al menos una dosis de la medicación en estudio. Las especies
+aisladas con mayor frecuencia en la situación basal fueron C. albicans (63,8% anidulafungina, 59,3%
+fluconazol), seguida por C. glabrata (15,7%, 25,4%), C. parapsilosis (10,2%, 13,6%) y C. tropicalis
+(11,8%, 9,3%) con 20, 13 y 15 aislados de las 3 últimas especies, respectivamente, en el grupo de
+anidulafungina. La mayoría de los pacientes tenían una puntuación Apache II de  20 y muy pocos
+eran neutropénicos.
+ Los datos de eficacia, tanto globales como por subgrupos, se presentan a continuación en la Tabla 1.
+       Tabla 1. Respuesta global favorable en la población MITT : variable principal y secundarias
+Final del Tratamiento IV (1º variable)         96/127 (75,6%)     71/118 (60,2%) 15,42 (3,9, 27,0)
+Sólo candidemia                               88/116 (75,9%)     63/103 (61,2%)
+Otras localizaciones estériles b                8/11 (72,7%)       8/15 (53,3%)              -
+Líquido peritoneal/absceso IA                     6/8                5/8
+Otros                                             2/3                3/7
+  C. albicansd                                               60/74 (81,1%)             38/61 (62,3%)                   -
+Especies no-albicansd                                      32/45 (71,1%)             27/45 (60,0%)                   -
+  Puntuación Apache II  20                                  82/101 (81,2%)            60/98 (61,2%)                    -
+Puntuación Apache II > 20                                  14/26 (53,8%)            11/20 (55,0%)                    -
+  No-neutropénicos (ANC, células/mm3>500)                   94/124 (75,8%)            69/114 (60,5%)                   -
+Neutropénicos (ANC, células/mm3500)                            2/3                       2/4                         -
+Otras variables
+Final de Todo el Tratamiento                              94/127 (74,0%)            67/118 (56,8%)             17,24 (2,9;
+Seguimiento en la semana 2                                82/127 (64,6%)            58/118 (49,2%)             15.41 (0,4;
+Seguimiento en la semana 6                                71/127 (55,9%)            52/118 (44,1%)             11.84 (-3,4;
+a
+Calculado como anidulafungina menos fluconazol
+b
+Con o sin candidemia coexistente
+c
+Intra-abdominal
+d
+Datos presentados para pacientes con un único patógeno en la situación basal.
+e
+Intervalos de confianza de 98,3% ajustados post-hoc para comparaciones multiples de puntos de tiempo secundarios.
+ Las tasas de mortalidad en el brazo de anidulafungina y de fluconazol se presentan a continuación, en
+la tabla 2.
+           Mortalidad global en el ensayo                29/127 (22,8%)     37/118 (31,4%)
+Mortalidad durante administración del          10/127 (7,9%)     17/118 (14,4%)
+tratamiento en estudio
+Mortalidad atribuida a la infección por        2/127 (1,6%)        5/118 (4,2%)
+Candida
+ 5.2   Propiedades farmacocinéticas
+ Características farmacocinéticas generales
+Se ha caracterizado la farmacocinética de anidulafungina en sujetos sanos, poblaciones especiales y en
+pacientes. Se observó una baja variabilidad interindividual en la exposición sistémica (coeficiente de
+variación de ~25%). Se alcanzó el estado estacionario al día siguiente de administrar la dosis de carga
+(el doble de la dosis de mantenimiento diaria).
+ Distribución
+La farmacocinética de anidulafungina se caracteriza por una rápida semivida de distribución (0,5-1
+hora) y un volumen de distribución de 30-50 l, que es similar al volumen total de fluido corporal.
+Anidulafungina se une extensamente (>99%) a las proteínas plasmáticas humanas. No se han realizado
+ensayos específicos de distribución tisular de anidulafungina en humanos. Por lo tanto, no se conoce si
+anidulafungina penetra en el líquido cefalorraquídeo y/o a través de la barrera hematoencefálica.
+ Biotransformación
+No se ha observado metabolismo hepático de anidulafungina. Anidulafungina no es ni sustrato, ni
+inductor o inhibidor clínicamente relevante de las isoenzimas del citrocromo P450. Es poco probable
+que anidulafungina tenga efectos clínicamente relevantes sobre el metabolismo de fármacos que se
+metabolizan por las isoenzimas del citrocromo P450.
+ Anidulafungina experimenta una lenta degradación química a temperatura y pH fisiológico dando
+lugar a un péptido de anillo abierto carente de actividad antifúngica. La semivida de degradación de
+anidulafungina in vitro bajo condiciones fisiológicas es de 24 horas aproximadamente. In vivo, el
+producto con anillo abierto es posteriormente transformado a péptidos de degradación y eliminado
+principalmente mediante excreción biliar.
+ Eliminación
+El aclaramiento de anidulafungina es de alrededor de 1 l/h. Anidulafungina tiene una semivida de
+eliminación de aproximadamente 24 horas, que caracteriza la mayor parte del perfil de
+concentraciones plasmáticas frente al tiempo, y una semivida terminal de 40-50 horas que caracteriza
+la fase de eliminación terminal.
+En un ensayo clínico de dosis únicas, se administró anidulafungina (~88 mg) radiomarcada (14C) a
+voluntarios sanos. Aproximadamente el 30% de la dosis radiactiva administrada se eliminó en las
+heces en 9 días, y menos del 10% de esa fracción de dosis eliminada por heces era fármaco inalterado.
+Menos del 1% de la dosis radiactiva administrada se excretó en orina, lo que indica que el
+aclaramiento renal es insignificante. Las concentraciones de anidulafungina cayeron por debajo de los
+límites inferiores de cuantificación 6 días después de la administración de la dosis. Ocho semanas
+después de administrar la dosis de fármaco marcado se detectaron cantidades insignificantes de
+radiactividad en sangre, orina y heces.
+ Linealidad
+Anidulafungina muestra una farmacocinética lineal en un amplio rango de dosis únicas diarias (15-
+130 mg).
+ Poblaciones especiales
+Pacientes con infecciones fúngicas
+La farmacocinética de anidulafungina en pacientes con infecciones fúngicas es similar a la
+observada en voluntarios sanos en función de los datos de análisis farmacocinéticos
+poblacionales. Con un régimen de dosis diaria de 200/100 mg y un índice de perfusión de 1,1
+mg/min, la Cmax y las concentraciones mínimas (Cmin) en estado estacionario pueden alcanzar
+valores aproximados de 7 y 3 mg/l, respectivamente, con un promedio de AUC en estado
+estacionario de aproximadamente 110 mgh/l.
+ Peso
+Aunque en el análisis farmacocinético poblacional se identificó el peso como fuente de variabilidad
+para el aclaramiento, el peso tiene poca relevancia clínica en la farmacocinética de anidulafungina.
+ Sexo
+Las concentraciones plasmáticas de anidulafungina fueron similares en hombres y mujeres sanos. En
+los ensayos de dosis múltiples en pacientes, el aclaramiento del fármaco fue ligeramente más rápido en
+hombres (aproximadamente un 22%).
+ Ancianos
+El análisis farmacocinético poblacional mostró que el aclaramiento era ligeramente diferente entre el
+grupo de ancianos (pacientes  65, mediana Cl = 1,07 l/h) y el de no ancianos (pacientes < 65,
+mediana Cl= 1,22 l/h). No obstante, el rango de aclaramiento fue similar.
+ Raza
+La farmacocinética de anidulafungina fue similar en individuos de raza blanca, negra, asiática e
+hispanoamericanos.
+ Infección por VIH
+No se requiere ajuste de dosis en sujetos con infección por VIH, independientemente del tratamiento
+antirretroviral concomitante.
+ Insuficiencia hepática
+Anidulafungina no se metaboliza hepaticamente. Se estudió la farmacocinética de anidulafungina en
+sujetos con insuficiencia hepática de clase A, B o C de Child-Pugh. Las concentraciones de
+anidulafungina no aumentaron en sujetos con cualquier grado de insuficiencia hepática. Aunque se
+observó una ligera disminución en el AUC en pacientes con insuficiencia hepática de clase C de
+Child-Pugh, la disminución estuvo dentro del rango de las estimaciones poblacionales para sujetos
+sanos.
+ Insuficiencia renal
+El aclaramiento renal de anidulafungina es insignificante (<1%). En un ensayo clínico en sujetos con
+insuficiencia renal leve, moderada, grave y terminal (dependiente de diálisis), la farmacocinética de
+anidulafungina fue similar a la observada en sujetos con una función renal normal. Anifulafungina no
+se puede eliminar mediante diálisis y se puede administrar con independencia del momento en el que
+se realice la hemodiálisis.
+ Pediatría
+Se estudió la farmacocinética de anidulafungina después de al menos 5 dosis diarias en 24 pacientes
+inmunocomprometidos, pediátricos (2 a 11 años) y adolescentes (12 a 17 años), que presentaban
+neutropenia. El estado estacionario se alcanzó al día siguiente de administrar una dosis de carga (dos
+veces la dosis de mantenimiento), y la Cmax en estado estacionario y el AUCss aumentaron de forma
+proporcional con respecto a la dosis. La exposición sistémica tras dosis diarias de mantenimiento de
+0,75 y 1,5 mg/kg/día en esta población fue comparable con la observada en adultos después de la
+administración de 50 y 100 mg/día, respectivamente. Ambos regímenes fueron bien tolerados por estos
+pacientes.
+                                                    9
+5.3   Datos preclínicos de seguridad
+ En los ensayos de 3 meses de duración en ratas y monos, se observó evidencia de toxicidad hepática,
+lo que incluyó enzimas elevadas y alteraciones morfológicas, para dosis del orden de 4 a 6 veces
+superiores a la exposición clínica esperada. Los ensayos de genotoxicidad in vitro e in vivo con
+anidulafungina no mostraron evidencia de potencial genotóxico. No se han realizado ensayos a largo
+plazo en animales para evaluar el potencial carcinogénico de anidulafungina.
+ La administración de anidulafungina a ratas no mostró ningún efecto sobre la reproducción,
+incluyendo la fertilidad tanto del macho como de la hembra.
+ Anidulafungina atraviesa la barrera placentaria en ratas y se detectaron niveles plasmáticos en los
+fetos.
+ Se realizaron ensayos sobre el desarrollo embrionario fetal con dosis comprendidas entre 0,2 a 2 veces
+(ratas) y entre 1 a 4 veces (conejos) la dosis de mantenimiento propuesta de 100 mg/día.
+Anidulafungina no produjo toxicidad sobre el desarrollo en ratas para la dosis más alta estudiada. Los
+efectos sobre el desarrollo observados en conejos (peso de fetos ligeramente reducido) ocurrieron sólo
+con la dosis más alta estudiada que también produjo toxicidad materna.
+ La capacidad de anidulafungina para atravesar la barrera hematoencefálica en ratas sanas fue limitada.
+Sin embargo, en conejos con candidiasis diseminada, se ha observado que anidulafungina atraviesa la
+barrera hematoencefálica y reduce la carga fúngica en el cerebro.
+ Se administraron tres niveles de dosis de anidulafungina a ratas que fueron posteriormente
+anestesiadas durante una hora utilizando una combinación de ketamina y xilazina. Las ratas que
+recibieron la dosis alta experimentaron reacciones adversas relacionadas con la perfusión que fueron
+exacerbadas por la anestesia. Algunas ratas que recibieron la dosis intermedia experimentaron
+reacciones similares, pero únicamente después de la administración de la anestesia. No hubo ninguna
+reacción adversa en los animales que recibieron la dosis baja ni en presencia ni en ausencia de
+anestesia, y tampoco hubo ninguna reacción adversa relacionada con la perfusión en el grupo que
+recibió la dosis intermedia en ausencia de anestesia.
+ 6     DATOS FARMACÉUTICOS
+ 6.1   Lista de excipientes
+ Polvo:
+Fructosa
+Manitol
+Polisorbato 80
+Ácido tartárico
+Hidróxido de sodio (para ajustar el pH)
+Ácido clorhídrico (para ajustar el pH)
+ Disolvente:
+Etanol anhidro
+Agua para preparaciones inyectables
+ 6.2   Incompatibilidades
+ Este medicamento no debe mezclarse con con otros medicamentos o electrolitos a excepción de los que se
+incluyen en la sección 6.6.
+ 6.3   Periodo de validez
+ Polvo y disolvente: 3 años
+ Solución reconstituida: La solución reconstituida debe diluirse dentro del intervalo de una hora. Se ha
+demostrado que la estabilidad química y física en uso de la solución reconstituida es de 3 horas a 25ºC
+y de 2 horas a 5ºC.
+ Solución para perfusión: Se ha demostrado que la estabilidad química y física en uso de la solución
+para perfusión es de 24 horas a 25ºC
+ Por razones de seguridad microbiológica, el producto debe utilizarse inmediatamente. Si no se utiliza
+inmediatamente, los tiempos de conservación y las condiciones en uso son responsabilidad del
+usuario.
+ 6.4   Precauciones especiales de conservación
+ Polvo y disolvente:
+No conservar a temperatura superior a 25ºC.
+ Para las condiciones de conservación del medicamento reconstituido, ver sección 6.3.
+ 6.5   Naturaleza y contenido del envase
+ Polvo:
+Viales de vidrio Tipo I de 30 ml con tapón de elastómero y cápsula de aluminio con cierre tipo
+flip-off.
+ Disolvente:
+30 ml de etanol anhidro al 20 % (w/w) en agua para preparaciones inyectables en viales de vidrio Tipo
+I con tapón de elastómero y cápsula de aluminio con cierre tipo flip-off.
+ ECALTA se presenta en una caja que contiene 1 vial de 100 mg polvo y 1 vial de 30 ml de disolvente.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ ECALTA debe ser reconstituido con el disolvente (etanol anhidro al 20% (w/w) en agua para
+preparaciones inyectables) y posteriormente diluido ÚNICAMENTE con solución de cloruro de sodio
+9 mg/ml (0,9%) para perfusión ó con solución de glucosa 50 mg/ml (5%) para perfusión. No se ha
+establecido la compatibilidad de la solución reconstituida de ECALTA con sustancias, aditivos u con otros medicamentos, a excepción de con solución de cloruro de sodio 9 mg/ml (0,9%) para perfusión o
+solución de glucosa 50 mg/ml (5%) para perfusión.
+ Reconstitución
+Cada vial se debe reconstituir en condiciones asépticas con el disolvente (etanol anhidro al 20% (w/w)
+en agua para preparaciones inyectables) para conseguir una concentración de 3,33 mg/ml. El tiempo
+de reconstitución puede ser de hasta 5 minutos. La solución reconstituida debe ser transparente y estar
+libre de partículas visibles. Tras la dilución, se debe desechar la solución si se identifican partículas
+sólidas o un cambio de coloración.
+ La solución reconstituida debe diluirse posteriormente dentro del plazo de una hora y administrarse en
+un plazo de 24 horas.
+ Dilución y perfusión
+Se debe transferir de forma aséptica el contenido del/de los vial/es reconstituido/s a una bolsa (o
+frasco) para administración intravenosa que contenga solución de cloruro de sodio 9 mg/ml (0,9%)
+para perfusión, ó solución de glucosa 50 mg/ml (5%) para perfusión, para así obtener una
+                                                    11
+concentración de anidulafungina de 0,36 mg/ml. En la siguiente tabla se presentan los volúmenes
+requeridos para cada dosis.
+ Requisitos de dilución para la administración de ECALTA
+                                                            Volumen A
+Dosis        Número         Volumen total                                 Volumen total         Concentración de   Velocidad de
+de cajas       reconstituido               para              para perfusión         solución para      perfusión
+100 mg             1          30 ml (1 caja)            250 ml                   280 ml            0,36 mg/ml        3,0 ml/min
+200 mg             2          60 ml (2 cajas)           500 ml                   560 ml            0,36 mg/ml        3,0 ml/min
+A
+ó 9 mg/ml (0.9%) de cloruro de sodio para perfusión, ó 50 mg/ml (5%) de glucosa para perfusión
+ Los medicamentos para uso parenteral deben inspeccionarse visualmente para comprobar si existen
+partículas sólidas o cambio de coloración previa a la administración, siempre que la solución y el
+envase lo permitan. Desechar la solución si se identifican partículas sólidas o un cambio de coloración.
+ Para un solo uso. La eliminación del medicamento no utilizado y de todos lo materiales que hayan
+estado en contacto con él, se realizará de acuerdo con las normativas locales.
+ 7         TITULAR DE LA AUTORIZACIÓN DE COMERZIALIZACIÓN
+ Pfizer Limited, Ramsgate Road, Sandwich, Kent, CT13 9NJ, Reino Unido
+ 8.        NUMERO(S) DE AUTORIZACIÓN DE COMERZIALIZACIÓN
+ 9.  FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ <{DD/MM/AAAA}> <{DD mes AAAA}>
+ 10.       FECHA DE REVISIÓN DEL TEXTO
+ {MM/AAAA}
+ La información detallada de este medicamento está disponible en la página web de la Agencia
+Europea del Medicamento (EMEA): http://www.emea.europa.eu/.
+ ANEXO II
+ A. TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN
+RESPONSABLE DE LA LIBERACIÓN DE LOTES
+ B. CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE DE LA
+LIBERACIÓN DE LOTES
+ Nombre y dirección del fabricante responsable de la liberación de los lotes
+ Pfizer Manufacturing Belgium N.V.
+Rijksweg, 12
+BE-2870 Puurs
+Bélgica
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Ver Anexo I: Ficha Técnica o Resumen de las
+Características del Producto, sección 4.2)
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede
+ ·     OTRAS CONDICIONES
+ Sistema de Farmacovigilancia
+El Titular de la Autorización de Comercialización debe asegurar que el sistema de Farmacovigilancia,
+tal y como se describe en la versión 1.2 incluida en el Modulo 1.8.1. de la Solicitud de Autorización de
+Comercialización, se encuentra instaurado y en funcionamiento antes de que el medicamento se
+comercialice y durante todo el tiempo que permanezca en el mercado.
+ Plan de Gestión de Riesgos
+El Titular de la Autorización de Comercialización se compromete a realizar los estudios y las
+actividades adicionales de farmacovigilancia detalladas en el Plan de Farmacovigilancia, tal y como se
+acordó en la versión 1.2 del Plan de Gestión de Riesgos (PGR) presentada en el Módulo 1.8.2. de la
+Solicitud de Autorización de Comercialización y en cualquier actualización posterior del PGR
+acordada por el CHMP.
+ De acuerdo con la ­Directriz del CHMP sobre Sistemas de Gestión de Riesgos para medicamentos de
+uso humano, el PGR actualizado deberá presentarse junto con el siguiente Informe Periódico de
+Seguridad (IPS).
+ Adicionalmente, se deberá enviar un PGR actualizado en los siguientes casos:
+Cuando se reciba nueva información que pueda afectar a las especificaciones de seguridad
+·
+vigentes, al plan de farmacovigilancia o a las actividades de minimización de riesgos.
+Dentro de los 60 días posteriores a haberse alcanzado un hito importante (en farmacovigilancia o
+·
+minimización de riesgos)
+A solicitud de la EMEA.
+·
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 15
+A. ETIQUETADO
+ 16
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ Estuche exterior
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	ECALTA 100 mg polvo y disolvente para concentrado para solución para perfusión
+Anidulafungina
+ 
+2.    PRINCIPO ACTIVO
+	Cada vial contiene 100 mg de anidulafungina.
+La solución reconstituida contiene 3,33 mg/ml de anidulafungina y la solución diluida contiene
+0,36 mg/ml de anidulafungina.
+ 
+3.    LISTA DE EXCIPIENTES
+	Polvo para concentrado para solución para perfusión:
+Excipientes: fructosa, manitol, polisorbato 80, ácido tartárico NaOH y/o HCl para ajustar el pH.
+ Disolvente para concentrado para solución para perfusión:
+Contiene etanol anhidro y agua para preparaciones inyectables.
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	1 vial de 100 mg de polvo
+1 vial de 30 ml de disolvente
+ 
+5.    FORMA Y VÍA DE ADMINISTRACIÓN
+	Reconstituir y diluir antes de utilizar ­ Leer el prospecto antes de utilizar este medicamento.
+Utilizar exclusivamente por vía intravenosa..
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD {MM ­ AAAA}
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 25ºC.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.   NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Pfizer Ltd
+Ramsgate Road
+Sandwich
+KENT
+CT13 9NJ United-Kingdom
+ 12.   NÚMERO(S) DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/0/00/000/000
+ 13.   NÚMERO DE LOTE DEL FABRICANTE
+ LOTE {number}
+ 14.   CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica
+ 15.   INSTRUCCIONES DE USO
+ 16.   INFORMACIÓN EN BRAILLE
+ [ha sido aceptada la justificación para no incluir Braille]
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ Etiqueta del vial
+ 
+1.    NOMBRE DEL MEDICAMENTO Y VÍA DE ADMINISTRACIÓN
+	ECALTA 100 mg polvo para concentrado para solución para perfusión
+Anidulafungina
+Vía intravenosa
+ 
+2.    FORMA DE ADMINISTRACIÓN
+	Leer el prospecto antes de utilizar este medicamento
+ 
+3.    FECHA CADUCIDAD
+	EXP: {MM/AAAA}
+ 
+4.    NÚMERO DE LOTE DEL FABRICANTE
+	LOT: {número}
+ 5.    CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ 100 mg
+ 
+6.    OTROS
+	INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ Etiqueta del vial de disolvente
+ 
+1.      NOMBRE DEL MEDICAMENTO Y VÍA DE ADMINISTRACIÓN
+	Disolvente para concentrado para solución para perfusión de ECALTA
+Vía intravenosa
+ 
+2.      FORMA DE ADMINISTRACIÓN
+	Leer el prospecto antes de utilizar este medicamento
+ 
+3.      CADUCIDAD
+	EXP: {MM/AAAA}
+ 
+4.      NÚMERO DE LOTE
+	LOT: {número}
+ 5.      CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ 30 ml
+ 
+6.      OTROS
+	B. PROSPECTO
+ 21
+       ECALTA 100 mg polvo y disolvente para concentrado para solución para perfusión
+ Lea todo el prospecto detenidamente antes de empezar a usar este medicamento.
+-     Conserve este prospecto, ya que puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico.
+-     Este medicamento se le ha recetado a usted y no debe dárselo a otras personas, aunque tengan
+los mismos síntomas, ya que puede perjudicarles.
+-     Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ Contenido del prospecto:
+1.   Qué es ECALTA y para qué se utiliza
+2.   Antes de usar ECALTA
+3.   Cómo usar ECALTA
+4.   Posibles efectos adversos
+5.   Conservación de ECALTA
+6.   Información adicional
+ 
+1.    QUÉ ES ECALTA Y PARA QUÉ SE UTILIZA
+	ECALTA se receta para tratar un tipo de infección fúngica de la sangre denominada candidemia. La
+infección es causada por células fúngicas (levaduras) que se conocen como Candida.
+ ECALTA pertenece a un grupo de medicamentos denominado equinocandinas. Estos medicamentos se
+utilizan para el tratamiento de infecciones fúngicas graves.
+ECALTA impide el desarrollo normal de la pared de las células fúngicas. En presencia de
+anidulafungina, la pared de las células fúngicas, es incompleta o defectuosa, lo que las hace frágiles o
+incapaces de crecer.
+ 
+2.    ANTES DE USAR ECALTA
+	No debe ser tratado con ECALTA
+- si es alérgico (hipersensible) a anidulafungina, a otras equinocandinas (por ejemplo,
+CANCIDAS), o a cualquiera de los demás componentes de ECALTA
+ Tenga especial cuidado con ECALTA
+- si desarrolla algún problema de hígado durante el tratamiento. Si ocurre esto, su médico puede
+decidir vigilar su función hepática de forma más minuciosa.
+- si le administran anestésicos mientras está siendo tratado con ECALTA
+ Niños
+No se debe administrar ECALTA a pacientes menores de 18 años.
+ Uso de con otros medicamentos
+No se conocen interacciones con con otros medicamentos que es probable que le puedan ser administrados
+al mismo tiempo que ECALTA (por ejemplo, rifampicina, ciclosporina, tacrolimus, voriconazol y
+anfotericina B)
+Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente con otros medicamentos, incluso los adquiridos sin receta.
+ No empiece ni deje de tomar con otros medicamentos sin la aprobación de su médico o farmacéutico.
+                                                    22
+Embarazo y lactancia.
+No se conoce el efecto de ECALTA en mujeres embarazadas. Por lo tanto, no se recomienda el uso de
+Ecalta durante el embarazo. Las mujeres en edad fértil deben utilizar un método anticonceptivo eficaz.
+Contacte con su médico inmediatamente si se queda embarazada durante el tratamiento con ECALTA.
+ Se desconoce el efecto de ECALTA sobre las mujeres en periodo de lactancia. Consulte a su médico o
+farmacéutico antes de tomar ECALTA mientras esté en periodo de lactancia.
+ Consulte a su médico o farmacéutico antes de tomar cualquier medicamento
+ Conducción y uso de máquinas
+No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ Información importante sobre algunos de los componentes de ECALTA
+Este medicamento contiene fructosa (un tipo de azúcar). Si su médico le ha indicado que padece una
+intolerancia a ciertos azúcares, consulte con él antes de utilizar este medicamento.
+ Este medicamento contiene un 24% de etanol (alcohol) en volumen; es decir, hasta 6 g de etanol en la
+dosis de mantenimiento de 100 mg (administrada durante un periodo de 1,5 horas) y hasta 12 g de
+etanol en la dosis de carga de 200 mg (administrada durante un periodo de 3 horas). Esto es
+equivalente a 144 ml de cerveza (288 ml para la dosis de carga) ó 60 ml de vino (120 ml de vino para
+la dosis de carga). Esto es perjudicial para pacientes con problemas de alcoholismo. También se debe
+tener en cuenta el contenido de alcohol en mujeres embarazadas o que estén dando el pecho, en niños
+y en grupos de alto riesgo como los que padecen enfermedad hepática o epilepsia.
+ La cantidad de alcohol contenida en este medicamento puede alterar el efecto de con otros medicamentos.
+La cantidad de alcohol contenida en este medicamento puede reducir su capacidad para conducir o
+utilizar máquinas.
+ 
+3.    CÓMO USAR ECALTA
+	ECALTA siempre será preparado y le será administrado por un médico u otro profesional sanitario
+(para más información sobre el método de preparación, ver la sección destinada únicamente a médicos
+o profesionales del sector sanitario, al final del prospecto).
+ El tratamiento se inicia con 200 mg el primer día (dosis de carga), seguido por una dosis diaria de 100
+mg (dosis de mantenimiento).
+ ECALTA debe administrase una vez al día, mediante perfusión intravenosa (en goteo). La dosis de
+mantenimiento tarda una hora y media en administrarse y la dosis de carga 3 horas.
+ Su médico determinará la duración del tratamiento y la cantidad de ECALTA que se le administrará
+cada día, y controlará tanto su respuesta al tratamiento como su estado general.
+ En general, su tratamiento debe continuar durante al menos 14 días después del último día en que se
+detectó presencia de Candida en su sangre.
+ Si recibe más ECALTA del que debiera
+ Si piensa que le han podido administrar demasiado ECALTA, consulte con su médico u otro
+profesional sanitario inmediatamente.
+ Si olvidó una dosis de ECALTA
+                                                   23
+Como este medicamenteo se le administrará bajo estricta supervisión médica, es improbable que se
+olvide una dosis. No obstante, si piensa que han podido olvidar administrarle una dosis, consulte con
+su médico u otro profesional sanitario inmediatamente.
+No se debe administrar una dosis doble para compensar la dosis olvidada.
+ Si interrumpe el tratamiento con ECALTA
+ No debe notar ninguno de los efectos de ECALTA cuando su médico suspenda su tratamiento con
+ECALTA.
+ Su médico puede recetarle otro medicamento después del tratamiento con ECALTA para continuar
+tratando su infección fúngica o prevenir una recaída.
+ Si vuelven a aparecer los síntomas iniciales de la infección, consulte con su médico u otro profesional
+sanitario inmediatamente.
+ Si tiene cualquier otra duda sobre el uso de este producto, pregunte a su médico o farmaceútico.
+ 
+4.     POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, ECALTA puede producir efectos adversos, aunque no todas las
+personas los sufran.
+ Efectos adversos frecuentes (pueden aparecer en al menos 1 de cada 100 pacientes):
+- Trastornos relacionados con la coagulación sanguínea
+- Niveles bajos de potasio en sangre
+- Convulsiones (crisis)
+- Dolor de cabeza
+- Enrojecimiento o rubor
+- Diarrea, vómitos, náuseas
+- Alteración de los valores de las pruebas analíticas en sangre indicadoras de la función hepática
+- Erupción, prurito (picor)
+- Alteración de los valores de las pruebas analíticas en sangre indicadoras de la función renal
+ Efectos adversos poco frecuentes (pueden aparecer en al menos 1 de cada 1.000 pacientes) :
+ -    Niveles elevados de azúcar en la sangre
+-    Tensión arterial elevada
+-    Sofocos
+-    Dolor de estómago
+-    Flujo anormal de bilis desde la vesícula biliar hacia el intestino (colestasis).
+-    Urticaria
+-    Dolor en el lugar de inyección
+ Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ 
+5.     CONSERVACIÓN DE ECALTA
+	Mantener fuera del alcance y de la vista de los niños.
+No utilice ECALTA después de la fecha de caducidad que aparece en el envase. La fecha de
+caducidad es el último día del mes que se indica.
+No conservar ECALTA a temperatura superior a 25ºC.
+La solución reconstituida no debe conservarse a temperatura superior a 25ºC. No congelar.
+ La solución para perfusión no debe conservarse a temperatura superior a 25ºC. No refrigerar ni
+congelar.
+Los medicamentos no se deben tirar por los desagües ni a la basura. Pregunte a su farmacéutico cómo
+deshacerse de los envases y de los medicamentos que no necesita.
+ 
+6.    INFORMACION ADICIONAL
+	Composición de ECALTA
+ -     El principio activo es anidulafungina. Cada vial de polvo contiene 100 mg de anidulafungina.
+-     El resto de los ingredientes son:
+Polvo: fructosa, manitol, polisorbato 80, ácido tartárico, hidróxido de sodio (para ajustar el pH), ácido
+clorhídrico (para ajustar el pH).
+Disolvente: etanol anhidro, agua para preparaciones inyectables
+ Aspecto del producto y contenido del envase
+ ECALTA se presenta en una caja que contiene 1 vial de 100 mg de polvo para concentrado para
+solución para perfusión y 1vial de 30 ml de disolvente.
+El polvo para la solución para perfusión es de color blanco o blanquecino. El disolvente es una
+solución transparente e incolora.
+ Titular de la Autorización de Comercialización y Responsable de la fabricación.
+ El titular de la autorización de comercialización de ECALTA es:
+Pfizer Limited, Ramsgate Rd, Sandwich, Kent, CT13 9NJ, Reino Unido
+ Fabricante :
+Pfizer Manufacturing Bélgica NV, Rijksweg 12, 2870 Puurs, Bélgica
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización:
+ België /Belgique/Belgien                            Luxembourg/Luxemburg
+Pfizer S.A./N.V.                                    Pfizer S.A.
+Tél/Tel: +32 (0)2 554 62 11                         Tél: +32 (0)2 554 62 11
+                                                     Magyarország
+,                                                 Pfizer Kft.
+.: +359 2 970 4333                                  Tel. + 36 1 488 37 00
+ Ceská republika                                     Malta
+Pfizer s.r.o.                                       V.J. Salomone Pharma Ltd.
+Tel: +420-283-004-111                               Tel : +356 21 22 01 74
+ Danmark                                             Nederland
+Pfizer ApS                                          Pfizer bv
+Tlf: +45 44 20 11 00                                Tel: +31 (0)10 406 43 01
+ Deutschland                                         Norge
+Pfizer Pharma GmbH                                  Pfizer AS
+Tel: +49 (0)721 6101 9000                           Tlf: +47 67 52 61 00
+ Eesti                                               Österreich
+Pfizer Luxembourg SARL Eesti filiaal                Pfizer Corporation Austria Ges.m.b.H.
+Tel: +372 6 405 328                                 Tel: +43 (0)1 521 15-0
+                                                    25
+Pfizer Hellas A.E.                                           Pfizer Polska Sp. z o.o.,
+: +30 210 6785 800                                           Tel.: +48 22 335 61 00
+ España                                                       Portugal
+Pfizer S.A.                                                  Laboratórios Pfizer, Lda.
+Tel: +34 91 490 99 00                                        Tel: + 351 214 235 500
+ France                                                       România
+Pfizer                                                       Pfizer România S.R.L
+Tél: +33 (0)1 58 07 34 40                                    Tel: +40 (0)21 207 28 00
+ Ireland                                                      Slovenija
+Pfizer Healthcare Ireland                                    Pfizer Luxembourg SARL
+Tel: +353 1800 633 363                                       Tel: + 386/1/52 11 400
+ Ísland                                                       Slovenská republika
+Vistor hf.,                                                  Pfizer Luxembourg SARL, organizacná zlozka
+Sími: + 354 535 7000                                         Tel: +421­2­3355 5500
+ Italia                                                       Suomi/Finland
+Pfizer Italia S.r.l.                                         Pfizer Oy
+Tel: +39 06 33 18 21                                         Puh/Tel: +358(0)9 43 00 40
+                                                              Sverige
+ GEO. PAVLIDES & ARAOUZOS LTD,                                Pfizer AB
+: +35722818087                                               Tel: +46 (0)8 5505 2000
+ Latvija                                                      United Kingdom
+Pfizer Luxembourg SARL                                       Pfizer Limited
+Filile Latvij
+Tel: +371 70 35 775                                          Tel: +44 (0)1737 331111
+ Lietuva
+Pfizer Luxembourg SARL
+filialas Lietuvoje
+Tel. +3705 2514000
+ Este prospecto fue aprobado en 09/2007.
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA): http://www.emea.europa.eu/.
+ <--------------------------------------------------------------------------------------------------------------------------
+Esta información está destinada únicamente a médicos o profesionales del sector sanitario:
+ECALTA debe ser reconstituido con el disolvente (etanol anhidro al 20% (w/w) en agua para
+preparaciones inyectables) y, posteriormente, diluido ÚNICAMENTE con solución de cloruro de
+sodio 9 mg/ml (0,9%) para perfusión ó con solución de glucosa 50 mg/ml (5%) para perfusión. No se
+ha establecido la compatibilidad de la solución reconstituida de ECALTA con sustancias, aditivos u
+con otros medicamentos, a excepción de con solución de cloruro de sodio 9 mg/ml (0,9%) para perfusión o
+solución de glucosa 50 mg/ml (5%) para perfusión.
+ Reconstitución
+Cada vial se debe reconstituir en condiciones asépticas con el disolvente (etanol anhidro al 20% (w/w)
+en agua para preparaciones inyectables) para conseguir una concentración de 3,33 mg/ml. El tiempo
+de reconstitución puede ser hasta de 5 minutos. La solución reconstituida debe ser transparente y estar
+libre de partículas visibles. Tras la dilución, se debe desechar la solución si se identifican partículas
+sólidas o un cambio de coloración.
+ La solución reconstituida debe diluirse posteriormente dentro del plazo de una hora y administrarse en
+un plazo de 24 horas.
+ Dilución y perfusión
+Se debe transferir de forma aséptica el contenido del/de los vial/es reconstituido/s a una bolsa (o
+frasco) para administración intravenosa que contenga solución de cloruro de sodio 9 mg/ml (0,9%)
+para perfusión, ó solución de glucosa 50 mg/ml (5%) para perfusión, para así obtener una
+concentración de anidulafungina de 0,36 mg/ml. En la siguiente tabla se presentan los volúmenes
+requeridos para cada dosis.
+ Requisitos de dilución para la administración de ECALTA
+                                                            Volumen A
+Dosis         Número          Volumen total                                 Volumen total        Concentración de   Velocidad
+de cajas        reconstituido              para               para perfusión        solución para         de
+100 mg            1           30 ml (1 caja)            250 ml                   280 ml            0,36 mg/ml       3,0 ml/min
+200 mg            2           60 ml (2 cajas)           500 ml                   560 ml            0,36 mg/ml       3,0 ml/min
+A
+ó 9 mg/ml (0.9%) de cloruro de sodio para perfusión, ó 50 mg/ml (5%) de glucosa para perfusión
+ Los medicamentos para uso parenteral deben inspeccionarse visualmente para comprobar si existen
+partículas sólidas o cambio de coloración previa a la administración, siempre que la solución y el
+envase lo permitan. Desechar la solución si se identifican partículas sólidas o un cambio de coloración.
+ Para un solo uso. La eliminación del medicamento no utilizado y de todos lo materiales que hayan
+estado en contacto con él, se realizará de acuerdo con las normativas locales.
+
+	Prospectos de medicamentos.

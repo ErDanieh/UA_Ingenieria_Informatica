@@ -1,0 +1,183 @@
+OCTOSTIM, frasco con 2,5 ml
+	Información Basica del medicamento Toda la información del medicamento 
+1. NOMBRE DEL MEDICAMENTO
+	OCTOSTIM®
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Composición por pulsación:
+ Principio activo
+En cada pulsación se liberan 150 g de acetato de desmopresina.
+1 ml contiene 1,5 mg de acetato de desmopresina equivalentes a 1,34 mg de base libre.
+ 
+3. FORMA FARMACÉUTICA
+	OCTOSTIM® Aerosol nasal se suministra en frascos provistos de bombas aerosol de
+precompresión diseñadas para liberar 150 g de acetato de desmopresina en cada pulsación. Cada
+envase permite la aplicación de 25 pulsaciones, que corresponden a 12 dosis.
+ 
+4. DATOS CLÍNICOS
+	4.1 Indicaciones terapéuticas
+ Tratamiento terapéutico de hemorragias y prevención de hemorragias, en pacientes con hemofilia
+A leve y enfermedad de Von Willebrand (tipo I, cuya actividad coagulante del factor VIII sea
+superior al 5%) que responden positivamente a la dosis de prueba. En casos excepcionales
+también se pueden tratar manifestaciones moderadas de estas enfermedades.
+ En los pacientes que responden positivamente a una dosis de prueba se produce un acortamiento ó
+normalización del tiempo de hemorragia prolongado como consecuencia de una alteración
+trombocitaria.
+ 4.2 Posología y forma de administración
+ Control terapéutico de la hemorragia o profilaxis de la hemorragia: se administran 300 g (1
+pulsación en cada orificio nasal) durante la hemorragia. La dosis se puede repetir cada 12 horas
+durante un máximo de 2-3 días. En el caso de procedimientos quirúrgicos se recomienda
+administrar la desmopresina por vía intravenosa.
+ El incremento deseado de la actividad coagulante del factor VIII:C se valora siguiendo el mismo
+criterio que en el tratamiento con concentrado de factor VIII. Sin embargo, parece que la
+concentración de VIII:C aumenta durante 1-2 horas después de la administración. Por lo tanto, el
+efecto de OCTOSTIM difiere de un aporte pasivo de factor VIII, en el que la concentración de
+VIII:C comienza a descender inmediatamente después de la administración.
+ Determinación del factor de caoagulación y tiempo de hemorragia antes del tratamiento con
+OCTOSTIM:
+ Los niveles plasmáticos del factor VIII:C y vWF:Ag aumentan sustancialmente tras la
+administración de desmopresina. Sin embargo, no es posible establecer una relación entre la
+concentración plasmática de dichos factores y el tiempo de hemorragia, tanto antes como después
+de la administración de desmopresina. Por consiguiente y si es posible, la acción de la
+desmopresina sobre el tiempo de hemorragia debe ser analizada individualmente en cada
+paciente.
+ El tiempo de hemorragia debe estar estandarizado al máximo, es decir, con el uso de Simplate II.
+ La determinación del tiempo de hemorragia y niveles plasmáticos de los factores de coagulación
+debe ser realizada por un hematólogo.
+ Vía de administración: se administra por pulverización intranasal.
+ 4.3 Contraindicaciones
+ No se debe utilizar OCTOSTIM en casos de:
+ -   polidipsia habitual y psicógena
+-   insuficiencia cardiaca y otras condiciones que requieren tratamiento con agentes
+diuréticos
+-   angina de pecho inestable e insuficiencia cardíaca descompensada
+-   enfermedad de von Willebrand tipo IIB, hemofilia A y enfermedad de von Willebrand tipo I
+cuya actividad coagulante de factor VIII sea inferior al 5%, hemofilia B y hemofílicos con
+anticuerpos antifactor VIII.
+-   hipersensibilidad al clorobutanol hemihidrato (conservante)
+ 4.4 Advertencias y precauciones especiales de empleo
+ Se deben tomar precauciones para prevenir la sobrecarga de fluidos en los siguientes casos:
+- pacientes muy jóvenes y de edad avanzada
+- condiciones caracterizadas por un desequilibrio de fluidos ó electrolitos
+- pacientes con riesgo de aumento de presión intracraneal
+ Hay que tener un especial cuidado con el riesgo de retención de agua. En el caso de que el
+paciente presente un aumento del peso corporal, dolor de cabeza persistente y náuseas, hay que
+controlar el sodio sérico. Si el sodio sérico desciende por debajo de 130 mmol/l ó la osmolalidad
+plasmática por debajo de 270 mOsm/kg peso corporal, se debe reducir de manera drástica la
+ingesta de fluidos y se debe interrumpir la administración de OCTOSTIM.
+ En el tratamiento de accidentes hemorrágicos, a causa de las diferentes respuestas individuales, se
+debe efectuar un test de eficacia que permita verificar la correccción del tiempo de hemorragia y
+en el caso de hemofilia la elevación del factor VIII.
+ Deben de tomarse medidas especiales para prevenir la sobrecarga de líquidos en pacientes bajo
+tratamiento con agentes diuréticos.
+ Debe controlarse regularmente la presión sanguínea del paciente.
+ OCTOSTIM no reduce el tiempo de hemorragia prolongado en la trombocitopenia.
+                                                                                                       MINISTERIO
+4.5 Interacción con con otros medicamentos y otras formas de interacción
+ La administración concomitante de indometacina puede aumentar la magnitud pero no la duración
+de la respuesta a la desmopresina. Se sabe que algunas sustancias como los antidepresivos
+tricíclicos, la clorpromacina, la carbamacepina y el clofibrato, liberan la hormona antidiurética
+endógena, pudiendo potenciar el efecto antidiurético y aumentar el riesgo de retención hídrica.
+ Por el contrario, la glibenclamida disminuye la actividad antidiurética de OCTOSTIM.
+ Aunque la actividad vasopresora de OCTOSTIM es mínima comparada con su actividad
+antidiurética, es necesario tenerla en cuenta en el caso de que se administren a la vez con otros medicamentos vasopresores.
+ 4.6 Embarazo y lactancia
+ Los estudios sobre la reproducción realizados en ratas y conejos con dosis más de 100 veces la
+dosis humana no han mostrado ninguna evidencia de daño de la desmopresina sobre el feto. Un
+investigador describió 3 casos de malformaciones en niños de madres con diabetes insípida que
+recibieron desmopresina durante el embarazo. Sin embargo, diversos informes publicados de más
+de 120 casos mostraron que las mujeres tratadas con desmopresina durante el embarazo dieron a
+luz niños normales. Además, una revisión de una gran cantidad de datos, identificó a 29 niños que
+fueron expuestos a la desmopresina durante todo el embarazo. No se observó ningún incremento
+en la tasa de malformaciones de los niños nacidos.
+ Sin embargo, esta experiencia clínica no es suficiente para aconsejar su uso en el embarazo. El
+médico valorará en cada caso el riesgo frente al beneficio del tratamiento.
+ Los resultados de los análisis de la leche de madres lactantes que recibieron elevadas dosis de
+desmopresina (300 g por vía intranasal), mostraron que las cantidades de desmopresina que se
+pueden transferir al niño son considerablemente menores que las cantidades que se requieren para
+ejercer una acción sobre la diuresis ó la hemostasis.
+ 4.7 Efectos sobre la capacidad para conducir y utilizar maquinaria
+ No se han observado indicios de que la desmopresina afecte a la capacidad de conducir y/o
+utilizar maquinaria.
+ 4.8 Reacciones adversas
+--------------------------------------------------------------------------------------------------
+Comunes                      Generales: Dolor de cabeza
+(>1/100)                     Gastrointestinales: Dolor de estómago, náuseas
+---------------------------------------------------------------------------------------------------
+Menos comunes                Piel: Reacciones alérgicas al conservante
+(1/100 - 1/1000)
+---------------------------------------------------------------------------------------------------
+El rubor generalmente se produce en la cara y es transitorio.
+ El tratamiento sin restricción concomitante de la ingesta de agua puede conducir a la retención de
+agua con los signos y síntomas que la acompañan (sodio sérico reducido, aumento de peso, y, en
+casos serios, convulsiones).
+ 4.9 Sobredosificación
+ La sobredosificación aumenta el riesgo de retención de fluidos e hiponatremia. A pesar de que se
+debe individualizar el tratamiento de la hiponatremia, se pueden dar las siguientes
+recomendaciones generales.
+ La hiponatremia asintomática se trata con la discontinuación del tratamiento con desmopresina y
+restricción de fluidos. En los casos con síntomas se puede añadir la infusión de cloruro sódico
+isotónico ó hipertónico. Cuando la retención de fluidos es seria (convulsiones e inconsciencia) se
+debe añadir un tratamiento con furosemida.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1 Propiedades farmacodinámicas
+ OCTOSTIM contiene desmopresina, un análogo estructural de la hormona natural
+argininavasopresina. Se han realizado dos cambios en la hormona natural, que son
+fundamentalmente la desaminación de L-cisteína y la sustitución de 8-L-arginina por 8-D-
+arginina.
+ La administración de 300 g de desmopresina intranasal conduce generalmente a un incremento
+doble en el plasma de la actividad coagulante del factor VIII (VIII:C). También aumenta el
+contenido de la capacidad antigénica del factor de von Willebrand (vWF:Ag) pero en menor
+medida. Al mismo tiempo se produce una liberación del activador del plasminógeno (PA). El
+efecto sobre el perfil de coagulación es de la misma magnitud que 0,2 g/kg de desmopresina
+administrada por vía intravenosa.
+ Un tiempo de hemorragia prolongado se acorta en la misma magnitud con 300 g de
+desmopresina intranasal que con una dosis intravenosa de 0,3 g/kg de peso corporal.
+ 5.2 Propiedades farmacocinéticas
+ La biodisponibilidad relacionada con la administración intranasal es de 3 - 5%. La concentración
+plasmática máxima tras una dosis de 300 g se alcanza tras aproximadamente 1 hora y como
+media es de 400 pg/ml. La semivida plasmática es de aproximadamente 3 horas.
+ 
+6. DATOS FARMACÉUTICOS
+	6.1 Lista de excipientes
+ Clorobutanol hemihidrato
+Cloruro sódico
+Acido clorhídrico 1 M
+Agua purificada
+ Los frascos suministrados tienen unos dispositivos con bombas de precompresión. Están llenos de
+una solución incolora transparente con un valor de pH aproximado de 4, y contiene desmopresina
+con clorobutanol como conservante.
+6.2 Incompatibilidades
+ No son relevantes.
+ 6.3 Periodo de validez
+ 2 años
+ 6.4 Precauciones especiales de conservación
+ No conservar a una temperatura superior a 25ºC
+ 6.5 Naturaleza y contenido del recipiente
+ OCTOSTIM Aerosol Nasal se suministra en frascos de vidrio color topacio de 10 ml, que
+contienen 2,5 ml de solución y que constan de una bomba de precompresión con un aplicador y
+un capuchón protector. La bomba aerosol está diseñada para administrar 100 l (=150 g de
+acetato de desmopresina) en cada pulsación y permite realizar 25 pulsaciones (12 dosis) por
+frasco.
+ 6.6 Instrucciones de uso/manipulación
+ Antes de utilizar OCTOSTIM Aerosol nasal por primera vez, es preciso cebar la bomba
+presionándola 4 veces ó hasta que se obtenga una pulverización. Cuando no se ha utilizado el
+aerosol durante la semana pasada es preciso cebar de nuevo la bomba presionándola una vez, ó
+hasta que aparezca una pulverización.
+ Cuando se utiliza el aerosol es importante asegurarse que el final del tubo sumergido en el interior
+del frasco se encuentra dentro del líquido y que el aplicador nasal está insertado paralelo a la nariz
+a la vez que la cabeza se inclina ligeramente hacia atrás.
+ El frasco se debe almacenar siempre en posición boca arriba.
+ 
+7. NOMBRE Ó RAZÓN SOCIAL Y DOMICILIO PERMANENTE Ó SEDE SOCIAL DEL
+	FERRING, S.A.
+C/ Gobelas, 11. Urbanización La Florida
+-28023- Madrid
+ 
+8. NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	9.    FECHA DE LA               PRIMERA         AUTORIZACIÓN/RENOVACIÓN                    DE     LA
+AUTORIZACIÓN
+ 10. FECHA DE LA REVISIÓN (PARCIAL) DEL TEXTO
+
+	Prospectos de medicamentos.

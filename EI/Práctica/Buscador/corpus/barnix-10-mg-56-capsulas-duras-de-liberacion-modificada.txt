@@ -1,0 +1,286 @@
+BARNIX 10 mg 56 cápsulas duras de liberación modificada
+	"Información Basica del medicamento Toda la información del medicamento 1. Nombre del medicamento
+ Barnix® 10 mg cápsulas duras de liberación modificada
+ 2.   Composición cualitativa y cuantitativa
+Barnix® contiene hidrocloruro de barnidipino
+Barnix® 10 mg cápsulas duras de liberación modificada contiene 10 mg de
+hidrocloruro de barnidipino, equivalente a 9,3 mg de barnidipino por cápsula.
+      Para los excipientes, ver 6.1
+ 3.   Forma farmacéutica
+Cápsulas duras de liberación modificada.
+      Las cápsulas de liberación modificada de Barnix® 10 mg son amarillas y están
+marcadas con: 155 10
+ 4. Datos clínicos
+ 4.1 Indicaciones terapéuticas
+Hipertensión esencial leve a moderada
+ 4.2 Posología y forma de administración
+      Dosificación
+La dosis (inicial) recomendada es de 10 mg una vez al día, por la mañana. Esta
+dosis se puede aumentar a 20 mg una vez al día en caso necesario. La decisión de
+aumentar la dosis deberá tomarse únicamente después de haberse alcanzado la
+estabilidad completa con la dosis inicial. Esto ocurre, por lo general, después de un
+mínimo de 3-6 semanas.
+      Niños
+No se dispone de información en niños (menores de 18 años) por lo que barnidipino
+no se deberá administrar a niños.
+      Pacientes ancianos
+No se requiere ajuste de dosis en los pacientes ancianos, pero es aconsejable tener
+un cuidado especial al inicio del tratamiento.
+      Pacientes con disfunción renal
+En pacientes con disfunción renal leve a moderada, deberá tenerse cuidado al
+aumentar la dosis de 10 a 20 mg una vez al día. Véanse las secciones de
+""Contraindicaciones"" y ""Advertencias y precauciones especiales de empleo"".
+      Pacientes con insuficiencia hepática
+Véase la sección ""Contraindicaciones"".
+      Forma de administración
+Las cápsulas deben tomarse preferentemente con un vaso de agua. Barnix® se
+puede tomar antes, durante y después de las comidas.
+      Combinaciones
+ Barnix® se puede utilizar concomitantemente con betabloqueantes o con inhibidores
+de la ECA.
+ 4.3 Contraindicaciones
+Hipersensibilidad conocida al principio activo (ó a otra dihidropiridina) ó a cualquiera
+de los excipientes.
+Insuficiencia hepática. Disfunción renal grave (aclaramiento de creatinina < 10
+ml/min). Angina de pecho inestable e infarto agudo de miocardio (en las primeras 4
+semanas). Insuficiencia cardíaca no tratada.
+Al igual que con otras dihidropiridinas, los niveles sanguíneos de barnidipino
+podrían verse aumentados por el uso combinado con inhidores fuertes del CYP3A4
+(resultados de los estudios de interacción in vitro). Por tanto, no se deberá emplear
+concomitantemente con antiproteasas, ketoconazol, itraconazol, eritromicina y
+claritromicina.
+ 4.4 Advertencias y precauciones especiales de empleo
+Barnix® debe utilizarse con precaución en pacientes con disfunción renal leve a
+moderada (aclaramiento de creatinina entre 10 y 80 ml/min) (véase la sección 4.2
+""Posología y forma de administración"").
+     La combinación de un antagonista del calcio con un fármaco que ejerce un efecto
+inotrópico negativo puede provocar descompensación cardíaca, hipotensión o
+infarto de miocardio (adicional) en pacientes de alto riesgo (por ejemplo, pacientes
+con antecedentes de infarto de miocardio).
+     Como ocurre con otras dihidropiridinas, Barnix® se debe utilizar con precaución en
+pacientes con disfunción ventricular izquierda, en pacientes que padecen una
+obstrucción del canal del flujo de salida del ventrículo izquierdo y en pacientes con
+descompensación cardíaca derecha aislada, p.e., cor pulmonale. Barnidipino no se
+ha estudiado en pacientes de clase III o IV de la NYHA. Además, se recomienda
+precaución cuando se administra barnidipino a pacientes con trastorno sinusal (si no
+hay un marcapasos in situ).
+     Estudios in vitro indican que barnidipino es metabolizado por el citocromo P450 3A4
+(CYP3A4). No se han llevado a cabo estudios de interacción in vivo sobre el efecto
+de los fármacos que inhiben o inducen la enzima del citocromo P450 3A4 en la
+farmacocinética de barnidipino. Basándonos en los resultados de estudios de
+interacción in vitro, debe tenerse cuidado al prescribir barnidipino
+concomitantemente con inhibidores o inductores leves del CYP3A4 (Véase la
+sección ""Interacción con con otros medicamentos y otras formas de interacción"").
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+La administración concomitante de barnidipino y otros agentes antihipertensivos
+puede dar lugar a un efecto antihipertensivo adicional.
+     El perfil de interacción farmacocinética de barnidipino no se ha estudiado en su
+totalidad. Estudios in vitro muestran que barnidipino es metabolizado por el
+citocromo P450 3A4 (CYP3A4).
+No se han llevado a cabo estudios de interacción in vivo elaborados sobre el efecto
+de fármacos que inhiben o inducen la enzima CYP3A4 en la farmacocinética de
+barnidipino.
+Los datos in vitro muestran que la ciclosporina puede inhibir el metabolismo de
+barnidipino. Hasta que no se disponga de información in vivo, barnidipino no debe
+prescribirse concomitantemente con inhibidores fuertes del CYP3A4: antiproteasas
+ketoconazol, itraconazol, eritromicina, claritromicina (véase sección 4.3
+Contraindicaciones). Se debe tener precaución con el uso concomitante de
+inhibidores o inductores leves del CYP3A4. En caso de uso concomitante con
+inhibidores del CYP3A4 se desaconseja aumentar la dosis de barnidipino a 20 mg.
+     La administración concomitante de cimetidina en un estudio específico de
+interacción produjo por término medio una duplicación de los niveles plasmáticos de
+barnidipino. Por tanto, se debe tener precaución al emplear barnidipino
+concomitantemente con cimetidina.
+     Cuando barnidipino se administra concomitantemente con fármacos de inducción
+enzimática como fenitoína, carbamazepina y rifampicina, puede que sea necesario
+utilizar dosis más altas de barnidipino. Si el paciente deja de utilizar el inductor
+enzimático, deberá considerarse una reducción de la dosis de barnidipino.
+     Basándonos en los resultados de algunos estudios de interacción in vitro, entre
+otros con simvastatina, metoprolol, diazepam y terfenadina, es improbable que
+barnidipino tenga efecto sobre la farmacocinética de otros fármacos metabolizados
+por las isoenzimas del citocromo P450.
+     Un estudio de interacción in vivo mostró que barnidipino no influye sobre la
+farmacocinética de la digoxina.
+     En un estudio de interacción específico el alcohol dio lugar a un incremento de los
+niveles plasmáticos de barnidipino (40%), el cual podría considerarse clínicamente
+no relevante. Al igual que los vasodilatadores y los antihipertensivos, se debe tener
+precaución cuando se tome alcohol concomitantemente ya que podría potenciar su
+efecto.
+     Aunque la farmacocinética del barnidipino no se ve significativamente alterada por
+la administración de zumo de pomelo, se observó un pequeño efecto.
+ 4.6 Embarazo y lactancia
+Uso en el embarazo
+No se dispone de experiencia clínica con barnidipino en el embarazo o en la
+lactancia. Estudios en animales no indican efectos nocivos directos con respecto al
+embarazo, desarrollo embrional/fetal o postnatal. Sólo se han observado efectos
+indirectos (ver 5.3). La clase de las dihidropiridinas ha demostrado potencial para
+prolongar el período de expulsión y el parto, lo que no ha sido observado con
+barnidipino. Por lo tanto, barnidipino podría emplearse en el embarazo sólo si el
+beneficio justifica el riesgo potencial para el feto.
+     Uso en la lactancia
+Los resultados de los ensayos en animales han mostrado que barnidipino (o sus
+metabolitos) se excretan en la leche materna. Por lo tanto, no se aconseja la
+lactancia materna mientras se toma barnidipino.
+ 4.7 Efectos sobre la capacidad para conducir y utilizar máquinas
+No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+Sin embargo, se debe tener precaución ya que podría producirse mareo/vértigo
+durante el tratamiento con antihipertensivos.
+ 4.8 Reacciones adversas
+     Clasificación de órganos del sistema      Frecuentes (>1%, <10%)
+Trastornos del sistema nervioso           dolor de cabeza, mareos/vértigo
+Trastornos cardíacos                      palpitaciones
+Trastornos vasculares                     rubefacción
+Trastornos generales y alteraciones en    Edema periférico
+el lugar de administración
+     Los síntomas tienden a disminuir o a desaparecer durante el tratamiento (en un mes
+para el edema periférico y dos semanas para la rubefacción, dolor de cabeza y
+palpitaciones).
+La erupción cutánea y un aumento (reversible) en las concentraciones de fosfatasa
+alcalina y transaminasas séricas son efectos secundarios conocidos de otras
+dihidropiridinas. Aunque en raras ocasiones se han descrito elevaciones reversibles
+y transitorias de las enzimas hepáticas con barnidipino, éstas no se consideraron
+clínicamente relevantes.
+Aunque nunca se ha observado, es de interés considerar la posibilidad de una
+hiperplasia gingival, un efecto adverso que aparece con el uso de otras
+dihidropiridinas.
+Algunas dihidropiridinas pueden raramente dar lugar a un dolor precordial o angina
+pectoris. Muy raramente los pacientes con una angina pectoris preexistente podrían
+experimentar aumento de la frecuencia, duración y severidad de estos ataques. En
+casos aislados se podría observar infarto de miocardio.
+ 4.9 Sobredosis
+No se han descrito casos de sobredosis.
+     Síntomas de intoxicación
+En general, los síntomas clínicos después de una sobredosis de antagonistas del
+calcio sobreviene en el plazo de 30 a 60 minutos después de la administración de
+una dosis entre cinco y diez veces mayor que la dosis terapéutica. Teóricamente
+puede esperarse que se produzca hipotensión, efectos electrofisiológicos
+(bradicardia sinusal, conducción AV prolongada, bloqueo AV de segundo y tercer
+grado), efectos sobre el sistema nervioso central (somnolencia, confusión y pocas
+veces, convulsiones), síntomas gastrointestinales (náuseas y vómitos) y efectos
+metabólicos (hiperglucemia).
+     Tratamiento de la intoxicación
+Si se produce intoxicación es necesario el tratamiento hospitalario. Lo indicado es
+instaurar tratamiento sintomático y monitorización continuada del ECG.
+En caso de producirse una sobredosificación, debe procederse a efectuar un lavado
+gástrico tan pronto como sea posible.
+     Debe administrarse una inyección intravenosa (dosis de 0.2 ml/kg peso) de calcio
+(preferiblemente 10 ml de una disolución de un 10% de cloruro sódico) durante un
+periodo de 5 minutos, hasta una dosis total de 10 ml al 10%. Con esto se mejorará
+la contractilidad del miocardio, ritmo sinusal y conducción atrioventricular. El
+                                                                                           MINISTERIO
+tratamiento puede repetirse cada 15 a 20 minutos (hasta un total de 4 dosis) en
+función de la respuesta del paciente. Deben comprobarse los niveles de calcio.
+ 5   Propiedades farmacológicas
+ 5.1 Propiedades farmacodinámicas
+     Grupo farmacoterápico:
+Antihipertensivos. Código ATC C08CA12.
+     Mecanismo de acción:
+El barnidipino (isómero S,S puro) es un antagonista del calcio lipofílico del grupo de
+las 1,4dihidropiridinas que muestra una elevada afinidad por los canales del calcio
+de las células del músculo liso en la pared vascular. La cinética del receptor de
+barnidipino se caracteriza por un comienzo de acción lento y una unión potente y de
+larga duración. La reducción en la resistencia periférica causada por el barnidipino
+da lugar a una reducción en la presión arterial. Al utilizar Barnix®, el efecto
+antihipertensivo se mantiene durante el intervalo de dosificación completo de 24
+horas.
+El uso de Barnix® en tratamiento crónico no da lugar a un incremento de la
+frecuencia cardíaca básica.
+No se ha estudiado el impacto de barnidipino en la morbilidad cardiovascular o
+mortalidad. Sin embargo, estudios controlados finalizados recientemente con otras
+dihidropiridinas de acción prolongada indican efectos beneficiosos en la morbilidad y
+mortalidad similares comparados con otros antihipertensivos en hipertensión del
+anciano.
+     Efectos metabólicos:
+Barnidipino no ejerce efectos negativos sobre el perfil de lípidos séricos, nivel de
+glucosa o electrolitos sanguíneos.
+ 5.2 Propiedades farmacocinéticas
+     Absorción:
+Después de la administración continuada de Barnix® 20 mg a individuos sanos, el
+consumo concomitante de alimentos no tuvo efectos estadísticamente significativos
+sobre los valores de AUC, Cmáx, Tmáx o t1/2. Los niveles plasmáticos máximos se
+obtienen a las 5-6 horas de la administración oral de Barnix® 20 mg.
+     Barnix muestra una biodisponibilidad absoluta del 1,1%.
+Las concentraciones plasmáticas de barnidipino pueden mostrar considerables
+variaciones interpersonales.
+     Distribución:
+En estudios in vitro se puso de manifiesto que barnidipino se une en una proporción
+del 26-32% a eritrocitos humanos y en mayor grado (89-95%) a proteínas
+plasmáticas. Los análisis in vitro de los componentes proteicos indican que
+barnidipino se une principalmente a la albúmina sérica, seguido de la glucoproteína
+ácida 1 y las lipoproteínas de alta densidad.
+En mucho menor grado se produce una unión amplia a la  globulina. En los
+estudios in vitro no se han observado interacciones medicamentosas basadas en la
+eliminación de la unión a proteína plasmática.
+Biotransformación:
+Barnidipino se metaboliza en gran medida en metabolitos inactivos. No se produce
+inversión quiral in vivo del isómero S,S puro. Las principales reacciones son la N-
+desbencilización de la cadena lateral, la hidrólisis del éster N-benzilpirrolidina, la
+oxidación del anillo 1,4-dihidropiridina, la hidrólisis del éster de metilo y la reducción
+del grupo nitro. El metabolismo de barnidipino parece principalmente mediado por la
+familia de la isoenzima CYP3A.
+     Excreción:
+La mediana de la semivida plasmática de eliminación terminal de Barnix® fue de 20
+horas después de la administración continuada, según un modelo analítico
+bicompartimental.
+La eliminación tiene lugar principalmente mediante metabolismo. Barnidipino y/o sus
+metabolitos se excretan por las heces (60%), la orina (40%) y el aliento (menos del
+1%). No se excreta barnidipino no metabolizado por la orina.
+     Grupos especiales de pacientes:
+Después de una dosis única, los niveles plasmáticos de barnidipino son de 3 a 4
+veces superiores en pacientes con disfunción hepática leve a moderada que en
+voluntarios sanos. En estos casos, también la variabilidad en los niveles
+plasmáticos está aumentada.
+Los niveles plasmáticos de barnidipino son por término medio dos veces más altos
+en los pacientes con disfunción renal que no necesitan hemodiálisis que en los
+voluntarios sanos. El nivel plasmático promedio en pacientes que necesitan
+hemodiálisis es más de 3 veces más alto que en los voluntarios sanos, acompañado
+de un aumento de la variabilidad.
+ 5.3 Datos preclínicos sobre seguridad
+Los datos preclínicos no muestran riesgos especiales para los seres humanos
+según los estudios convencionales sobre farmacología de seguridad, toxicidad de
+dosis repetidas, genotoxicidad, potencial carcinogénico, toxicidad para la
+reproducción.
+6. Datos farmacéuticos
+ 6.1 Lista de excipientes
+Los excipientes de las cápsulas de Barnix® son:
+contenido de las cápsulas:
+carboximetiletilcelulosa, polisorbato 80, sacarosa, etilcelulosa, talco.
+cubierta de la cápsula:
+dióxido de titanio (E171), óxido de hierro amarillo (E172) y gelatina.
+tinta de impresión:
+shellac, alcohol metílico industrial, agua purificada, lecitina de soja, etoxietanol,
+dimetilpolisiloxano, óxido de hierro negro.
+ 6.2 Incompatibilidades
+No procede.
+ 6.3 Periodo de validez
+2 años.
+ 6.4 Precauciones especiales de conservación
+No almacenar a una temperatura superior a 25ºC.
+ 6.5 Naturaleza y contenido del recipiente
+Barnix® cápsulas de liberación modificada se presentan en envases que contienen
+10, 14, 20, 28, 30, 50, 56, 98 ó 100 cápsulas en blísters de aluminio-aluminio (con
+un recubrimiento de PVC y poliamida); o en envases conteniendo 50, 56, 98 ó 100
+cápsulas en blísters de aluminio-PVC (con recubrimiento de PVDC) en un envoltorio
+de aluminio. Un blíster contiene 7, 10 ó 14 cápsulas.
+Puede que no todas las presentaciones se encuentren comercializadas.
+ 6.6 Instrucciones de uso y manipulación
+No sacar los gránulos de las cápsulas.
+ 7.   Nombre y dirección de la sede social permanente del titular de la autorización
+comercialización.
+BIAL Industrial Farmacéutica, S.A.
+Alameda Urquijo, 27
+48008 - Bilbao
+España
+ 8.   Número de autorización de comercialización.
+65.300
+ 9.   Fecha de la primera autorización o de la renovación del resumen.
+11 Julio 2000
+ 10. Fecha de la revisión (parcial)
+Marzo 2006
+  
+      Barnix 10 mg cápsulas duras de liberación modificada, 28 cápsulas
+          
+      Barnix 10 mg cápsulas duras de liberación modificada, 56 cápsulas
+          
+      BARNIX 10 mg 28 cápsulas duras de liberación modificada
+         Prospectos de medicamentos."

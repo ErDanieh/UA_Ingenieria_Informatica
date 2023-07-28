@@ -1,0 +1,415 @@
+Ofloxacino Teva 200 mg comprimidos, 10 comprimidos
+	"Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA
+ 1.     Nombre del medicamento
+Ofloxacino Teva 200 mg comprimidos EFG
+ 2.     Composición cualitativa y cuantitativa
+Cada comprimido recubierto contiene 200 mg de ofloxacino (D.O.E.).
+        Para excipientes, ver 6.1.
+ 3.     Forma farmacéutica
+Comprimidos recubiertos
+Comprimido recubierto, redondo, blanco, de 10 mm de diámetro, con una ranura
+en un lado, marcado ""FXN"" y ""200"" a cada lado de la ranura. El otro lado es liso.
+ 4.     Datos clínicos
+ 4.1    Indicaciones terapéuticas
+Ofloxacino está indicado para el tratamiento de las siguientes infecciones
+causadas por microorganismos sensibles (ver apartado 5.1.):
+- infecciones del tracto urinario superior e inferior
+- infecciones del tracto respiratorio inferior incluyendo pneumonía, bronquitis,
+y exacerbaciones agudas de bronquitis crónica causadas por bacterias
+aerobias gram-negativas (ofloxacino no es el fármaco de primera elección en
+pneumonia causada por Streptococcus pneumoniae, Mycoplasma
+pneumoniae o Chlamydia pneumoniae)
+- gonorrea cervical y uretral no complicada
+- uretritis y cervicitis no gonocócicas
+        Deben tenerse en cuenta las recomendaciones oficiales vigentes para la correcta
+utilización de los agentes antibacterianos.
+ 4.2    Posología y forma de administración
+Recomendaciones posológicas generales:
+La dosis de ofloxacino debe determinarse en función del tipo y gravedad de la
+infección.
+        El intervalo de dosis para adultos es de 200 mg a 800 mg diarios.
+ Pueden administrarse hasta 400 mg en una sola dosis, preferiblemente por la
+mañana. Normalmente, las dosis individuales deben administrarse a intervalos
+aproximadamente iguales.
+        En casos particulares puede ser necesario aumentar la dosis hasta una dosis
+máxima total de 800 mg diarios, que deben administrarse en dosis de 400 mg
+dos veces al día. Puede ser adecuado en caso de infecciones debidas a
+microorganismos patógenos que presentan sensibilidad reducida o variable a
+ofloxacino, en infecciones graves y/o complicadas (por ejemplo del tracto
+respiratorio o urinario) o si el paciente no responde adecuadamente.
+          Indicaciones                                Dosis únicas y diarias                      Duración habitual
+   Infecciones no complicadas       200 ­ 400 mg diarios          3 días
+del tracto urinario inferior
+Infecciones complicadas de      400 mg diarios, aumentando     7-10 días
+riñones y tracto urinario       si es necesario, a 400 mg
+Infecciones del tracto          400 mg diarios, aumentando     7-10 días
+respiratorio inferior           si es necesario, a 400 mg
+Gonorrea no complicada           400 mg                         Dosis única
+Uretritis y cervicitis no        400 mg diarios                 7-10 días
+gonocócica
+ Insuficiencia renal
+Después de una dosis inicial normal, debe reducirse la posología en pacientes
+con insuficiencia renal moderada o grave, determinada mediante el aclaramiento
+de la creatinina o nivel de la creatinina plasmática.
+   Indicaciones             Creatinina        Dosis de mantenimiento
+20 a 50 ml/min           1,5 a 5 mg/dl     100-200 mg ofloxacino una vez al día
+20 ml/min                5 mg/dl
+Hemodiálisis o                             100 mg ofloxacino una vez al día
+diálisis peritoneal
+ Insuficiencia hepática:
+En pacientes con insuficiencia hepática grave (por ejemplo cirrosis hepática con
+ascitis), puede disminuir la excreción de ofloxacino. En estos casos, se
+recomienda que la dosis no exceda 400 mg de ofloxacino diarios.
+ Ancianos
+No es necesario modificar la dosis en ancianos, a no ser que haya insuficiencia
+hepática o renal.
+ Niños
+Ofloxacino no está indicado para el tratamiento de niños ni adolescentes en
+periodo de crecimiento.
+ Duración del tratamiento:
+La duración del tratamiento depende de la gravedad de la infección y de la
+respuesta al tratamiento.
+El periodo de tratamiento habitual se indica en la tabla.
+ En algunos casos, puede ser suficiente un tratamiento mínimo de 5 días.
+ El tratamiento no debe exceder 2 meses de duración
+ Método de administración
+ Los comprimidos de ofloxacino deben ingerirse con liquido antes o durante las
+comidas. En caso de tratamiento con antiácidos minerales, sucralfato o
+preparaciones con iones metálicos (aluminio, hierro, magnesio o zinc), no debe
+administrarse ofloxacino en las dos horas de haberlos tomado, ya que pueden
+disminuir la absorción de ofloxacino.
+ 4.3   Contraindicaciones
+Ofloxacino no debe emplearse en pacientes con hipersensibilidad conocida a
+ofloxacino, a otros antibacterianos 4-quinolona o a cualquiera de los excipientes.
+       Ofloxacino no debe utilizarse en pacientes con historia de alteración/daños en
+tendones asociados a un tratamiento previo con fluoroquinolonas.
+       Ofloxacino, como otras 4-quinolonas, está contraindicado en pacientes con
+historia de epilepsia o con cualquier desorden existente en el sistema nervioso
+central asociado con un umbral bajo de convulsiones.
+       Ofloxacino está contraindicado en los siguientes grupos de pacientes debido al
+potencial riesgo de daños a cartílagos de las articulaciones en crecimiento del
+niño o del feto:
+- niños o adolescentes en crecimiento
+- mujeres embarazadas o en periodo de lactancia (ver apartado 4.6.).
+       No debe administrarse ofloxacino a pacientes con deficiencias latentes o
+presentes en la actividad de la glucosa-6-fosfato deshidrogenasa, dado que
+pueden sufrir reacciones hemolíticas cuando son tratados con agentes
+antibacterianos quinolonas.
+ 4.4   Advertencias y precauciones especiales de empleo
+Ocasionalmente, ofloxacino puede producir reacciones de hipersensibilidad
+graves, potencialmente fatales, después de la primera dosis (ver apartado 4.8
+Reacciones adversas). El médico debe informar al paciente de este riesgo.
+       Aunque el uso de ofloxacino raramente causa fotosensibilización, se recomienda
+a los pacientes que eviten exponerse a la luz solar o a radiaciones UV artificiales
+(lámparas solares, solarium).
+       Si se sospecha tendinitis, debe interrumpirse inmediatamente el tratamiento con
+ofloxacino y tratar apropiadamente el tendón afectado (por ejemplo,
+inmovilizándolo). El riesgo de tendinitis es mayor en ancianos y en pacientes en
+tratamiento con corticosteroides.
+ Los pacientes con raros problemas hereditarios de intolerancia a galactosa,
+deficiencia de lactasa Lapp, o malabsorción glucosa-galactosa no deben tomar
+este medicamento.
+Ofloxacino está contraindicado en pacientes con epilepsia o con predisposición a
+convulsiones. Además, como con otras quinolonas, ofloxacino debe utilizarse
+con extrema precaución en pacientes en tratamiento concomitante con fenbufeno
+o medicamentos similares a antiinflamatorios no esteroideos (AINES), o con
+medicamentos que disminuyen el umbral de convulsión (por ejemplo, teofilina).
+Ver sección 4.5 ""Interacción con con otros medicamentos y otras formas de
+interacción"".
+ La administración de ofloxacino puede producir un sobrecrecimiento de
+microorganismos no sensibles, especialmente enterococos, cepas resistentes de
+algunos microorganismos o cándida. Si hay o se sospecha de superinfección,
+deben hacerse tests de sensibilidad in vitro adecuados y administrarse un
+tratamiento alternativo.
+       En caso de diarrea, especialmente si es grave, persistente y/o con sangre,
+durante o tras el tratamiento con ofloxacino, puede ser un síntoma de
+enterocolitis causada por Clostridium difficile, que es la forma más grave la colitis
+pseudomembranosa. Si se sospecha de colitis pseudomembranosa, debe
+interrumpirse el tratamiento. En estos casos están contraindicados los
+medicamentos que inhiben el peristaltismo intestinal.
+       Se recomienda precaución si se administra ofloxacino a pacientes psicóticos o a
+pacientes con historia de enfermedades psiquiátricas.
+       Durante el tratamiento con ofloxacino puede producirse un empeoramiento de
+miastenia gravis.
+       Durante los tratamientos prolongados (más de dos semanas y hasta dos meses),
+se recomienda controlar regularmente los parámetros hematológicos y química
+sanguínea.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+La coadministración junto con antiácidos minerales, sucralfato o preparaciones
+de iones metálicos (aluminio, hierro, magnesio o zinc) pueden disminuir la
+absorción de ofloxacino. Por tanto, ofloxacino debe tomarse 2 horas antes de
+tomar estas preparaciones.
+       Se ha descrito la prolongación del tiempo de sangrado durante la administración
+concomitante de ofloxacino y anticoagulantes (por ejemplo derivados
+cumarínicos). Los pacientes tratados con esta combinación deben ser
+cuidadosamente monitorizados.
+       El riesgo de convulsiones aumenta cuando se administran fluoroquinolonas junto
+con con otros medicamentos que disminuyen el umbral de convulsión (por ejemplo
+AINES como fenbufeno o teofilina). No obstante, ofloxacino no causa ningún
+cambio importante en las concentraciones plasmáticas de teofilina.
+       Ofloxacino puede causar un ligero aumento en las concentraciones séricas de
+glibenclamida cuando se administran concomitantemente; deben controlarse
+estrechamente los pacientes tratados con esta combinación ya que es más
+probable que se produzca hipoglicemia.
+       Con dosis altas de quinolonas, puede producirse insuficiencia de la excreción y
+aumento en los niveles séricos cuando se administra junto con con otros medicamentos que experimentan secreción tubular renal (por ejemplo
+probenecid, cimetidina, furosemida y metotrexato).
+       Interacción con tests de laboratorio: La determinación de opiáceos o porfirinas en
+orina puede dar falsos positivos durante el tratamiento con ofloxacino.
+                                                                                               MINISTERIO
+4.6   Embarazo y lactancia
+El uso de ofloxacino está contraindicado durante el embarazo y la lactancia.
+       No se ha establecido la seguridad de este medicamento para su uso durante el
+embarazo. Los estudios de reproducción efectuados en ratas y conejos no
+muestran ninguna evidencia de teratogenicidad, insuficiencia de la fertilidad o
+insuficiencia del desarrollo peri- y post-natal.
+No obstante, como con otras quinolonas, se ha demostrado que ofloxacino causa
+artropatía en animales en crecimiento.
+       Los estudios en ratas han mostrado que ofloxacino se excreta en la leche.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar maquinaria
+Dado que se ha descrito ocasionalmente somnolencia, disminución de la
+habilidad, mareos y alteraciones visuales, los pacientes deben saber como
+reaccionan a ofloxacino antes de conducir o trabajar con maquinaria.
+Estos efectos pueden aumentar con el alcohol.
+ 4.8   Reacciones adversas
+La frecuencia general de reacciones adversas basándose en los datos de los
+estudios clínicos es de aproximadamente 7%. Los efectos más frecuentes
+incluyen el sistema gastrointestinal (aproximadamente 5,0%) y el sistema
+nervioso (aproximadamente 2,0%).
+A continuación se adjunta una lista, basada en datos posteriores a la
+comercialización, donde ""frecuentes"" representa una frecuencia de > 1/100, <
+1/10 ; ""infrecuentes"" > 1/1000, < 1/100 ; ""raros"" > 1/10,000, < 1/1000; ""muy
+raros"" < 1/10,000 incluyendo ""casos aislados"" .
+       Efectos gastrointestinales:
+Frecuentes: Nauseas, vómitos, diarrea, dolor abdominal, síntomas gástricos y
+pérdida del apetito.
+       Raros: colitis pseudomembranosa.
+       Efectos hepáticos y del conducto biliar:
+Raros: aumento de los enzimas hepáticos (fosfatasa alcalina, GOT, GPT),
+insuficiencia hepática con niveles elevados de bilirrubina
+       Muy raros, incluyendo casos aislados: ictericia colestática; hepatitis o daño
+hepático grave.
+       Sistema nervioso y efectos psiquiatrícos:
+Infrecuentes : Dolor de cabeza, mareo, trastornos del sueño, fatiga.
+       Raros: Confusión, neuropatía y entumecimiento, alteraciones visuales,
+alteraciones del gusto y del olfato (incluyendo, en casos excepcionales, pérdida
+de la función), síntomas extrapiramidales.
+Muy raros: Convulsiones, sueños agitados (incluyendo pesadillas), y reacciones
+psicóticas (incluyendo agitación, ansiedad, depresión, tendencias suicidas y
+alucinaciones), confusión, tinnitus, marcha inestable y temblor (debido a
+desórdenes de la coordinación muscular y síntomas extrapiramidales),
+parestesia o hipoestesia, alteraciones visuales (por ejemplo visión borrosa, doble
+visión y alteraciones del color de la visión), desórdenes de la audición
+(incluyendo, en casos excepcionales, pérdida de la audición), alteraciones del
+gusto y del olfato (incluyendo, en casos excepcionales, pérdida de la función). En
+algunos pacientes estas reacciones han ocurrido después de la primera dosis de
+ofloxacino. En estos casos, el tratamiento se interrumpe inmediatamente.
+ Sistema cardiovascular:
+Se han descrito taquicardia y una disminución temporal de la presión sanguínea.
+ Muy raros: colapso circulatorio (debido a una pronunciada caída de la presión
+sanguínea).
+ Efectos hematológicos:
+Muy raros: anemia, leucopenia (incluyendo agranulocitosis), trombocitopenia,
+pancitopenia. Solamente en algunos casos son debidos a depresión de la
+médula ósea.
+ En casos muy raros, puede producirse anemia hemolítica.
+ Efectos renales:
+Muy raros: Alteraciones de la función del riñón.
+ Casos aislados: Nefritis intersticial aguda, o un aumento en la creatinina sérica,
+que puede progresar a fallo renal agudo.
+ Efectos alérgicos y cutáneos:
+Infrecuentes: rash, prurito o urticaria.
+ Muy raros incluyendo casos aislados: ampollas, ulceraciones, flush, eritema
+multiforme.
+ Síndrome de Stevens-Johnson, síndrome de Lyell, y vasculitis (puede
+manifestarse como petequia, ampollas con sangrado, pequeñas pápulas con
+formación de costra y, en casos excepcionales, lesiones cutáneas incluyendo
+necrosis). La vasculitis también puede afectar a órganos internos.
+ Fotosensibilidad
+Muy raros: Fotosensibilización de la piel (por ejemplo síntomas de quemadura
+solar, decoloración, peeling o debilitamiento de las uñas).
+ Efectos anafilácticos o anafilactoides
+Muy raros: reacciones anafilácticas o anafilactoides (ocasionalmente incluso
+durante el primer tratamiento). En los casos más graves esto puede llevar a
+disnea grave (también atribuible a broncoespasmo), disminución de la presión
+sanguínea y/o shock. Otros síntomas pueden incluir picor de ojos, irritación de la
+faringe/laringe, disminución de la presión sanguínea, angioedema de la piel y
+membranas mucosas afectando a la cara, lengua y región laríngea, fiebre,
+eosinofilia o pneumonitis alérgica.
+ En todos estos casos, debe interrumpirse inmediatamente el tratamiento con
+ofloxacino.
+                                                                                      MINISTERIO
+Casos aislados: Pneumonitis.
+        Otros efectos adversos:
+Raros: Malestar.
+        Muy raros: Excesivo aumento o caída de los niveles de azúcar en sangre
+(especialmente en pacientes con diabetes mellitus). Sedación, artralgia, mialgia
+y debilidad muscular (esto es especialmente importante en pacientes con
+miastenia gravis). En casos aislados, los síntomas en los músculos y
+articulaciones pueden ser síntomas de rabdomiolisis.
+        Tendinitis
+Muy raros: Problemas en los tendones incluyendo inflamación y ruptura de
+tendones (por ejemplo el tendón de Aquiles) especialmente en pacientes
+tratados concomitantemente con corticosteroides. Este efecto adverso puede
+producirse a las 48 horas de la primera dosis y puede ser unilateral o bilateral
+(ver 4.4 Advertencias y precauciones especiales de empleo). En el caso de
+síntomas de inflamación de un tendón, debe interrumpirse el tratamiento con
+ofloxacino inmediatamente e iniciar el tratamiento apropiado en el tendón
+afectado.
+        No debe excluirse la posibilidad de porfiria en pacientes predispuestos.
+        Excepto en casos muy raros (por ejemplo, casos aislados de alteraciones del
+olfato, gusto y oído) los efectos adversos observados remiten después de la
+interrupción del tratamiento con ofloxacino.
+ 4.9.   Sobredosis
+Síntomas de sobredosis
+Los síntomas más importantes esperados tras una sobredosis aguda son a nivel
+del SNC como confusión, mareo, alteraciones de la consciencia y crisis
+convulsivas, así como reacciones gastrointestinales como naúseas y erosiones
+en la mucosa.
+        Tratamiento de la sobredosis
+En caso de sobredosis se recomienda retirar ofloxacino que no se haya
+absorbido todavía, por ejemplo mediante lavado gástrico, administración de
+adsorbentes y sulfato sódico, si es posible durante los 30 primeros minutos; se
+recomiendan antiácidos para la protección de la mucosa gástrica.
+        Se puede aumentar la eliminación de ofloxacino mediante diuresis forzada.
+ 5.     Propiedades farmacológicas
+ 5.1    Propiedades farmacodinámicas
+        Grupo farmacoterapéutico: fluoroquinolonas
+Código ATC: J01M A01
+Mecanismo de acción
+Ofloxacino inhibe la replicación del DNA bacteriano en un espectro bacteriano de
+gram-positivos y gram-negativos por inhibición de las topoisomerasas
+bacterianas, concretamente la DNA girasa y topoisomerasa IV.
+Los puntos de corte de las CMI según NCCLS recomendados son los siguientes:
+S  2 mg/l y R  8 mg/l
+Sensibilidad intermedia a 4 mg/l
+Haemophilus influenzae y Neisseria gonorrhoea son excepciones con puntos de
+corte a S  0,25 mg/l y R  1 mg/l
+Las recomendaciones BSAC generales son S  2 mg/l y R  4 mg/l
+ Según DIN 58 940, se aplican los límites siguientes para ofloxacino:
+S  1 mg/L, I =2 mg/L, R  4 mg/L.
+ La prevalencia de la resistencia puede variar geográficamente y en función del
+tiempo para especies seleccionadas y es preciso informarse sobre las
+resistencias locales, especialmente cuando se traten infecciones graves. Esta
+información aporta solamente una guía aproximada de las probabilidades de que
+los microorganismos sean o no sensibles a ofloxacino.
+ Solamente se enumeran los microorganismos patógenos a los que conciernen
+las indicaciones.
+Normalmente sensible
+Microorganismos Aerobios Gram-
+positivos
+S. aureus ­ meticilín sensibles       0,3-12,6%
+S. pyogenes
+Microorganismos Aerobios Gram-
+negativos
+Acinetobacter spp
+Citrobacter spp.                      3-15%
+Enterobacter spp.                     2-13%
+E. coli
+H. influenzae
+Klebsiella spp.                       1-10%
+Moraxella spp.                        0-0,2%
+Morganella morganii
+N. gonorrhoeae
+Proteus spp.                          1-15%
+Serratia marcescens
+Otros
+Chlamydia spp
+L. pneumophila
+ Sensibilidad intermedia
+Microorganismos Aerobios           Gram-
+positivos
+S. pneumoniae
+Providentia
+Microorganismos Aerobios           Gram-
+negativos
+E. faecalis
+P. aeruginosa
+Serratia spp.
+Stenotrophomonas maltophilia
+Otros
+Mycoplasma spp.                             0-5,3%
+Ureaplasma spp.
+Resistentes
+Bacterias anaerobias
+S. aureus ­ meticilín resistente            69,2-85,7%
+T. pallidum
+       El principal mecanismo de resistencia bacteriana a ofloxacino incluye una o más
+mutaciones en los enzimas diana, que confieren generalmente resistencia a
+con otros medicamentos de la clase. También se han descrito mecanismos de
+resistencias de bomba de flujo e impermeabilidad y puede a veces conferir
+resistencias variables a medicamentos de otras clases.
+       5.2    Propiedades farmacocinéticas
+Ofloxacino se absorbe rápida y casi completamente cuando se administra a
+voluntarios en ayunas. El principal pico de la concentración plasmática después
+de una sola dosis por vía oral de 200 mg es de 2,6 µg/ml y se alcanza en una
+hora. Las concentraciones plasmáticas no aumentan significativamente con dosis
+múltiples (factor de acumulación con dos dosis al día: 1,5).
+       El volumen aparente de distribución es de 120 litros. La unión a proteínas
+plasmáticas es de aproximadamente 25%.
+       Ofloxacino se biotransforma en menos de un 5%. Los dos principales metabolitos
+encontrados en la orina son N-desmetil-ofloxacino y ofloxacino-N-óxido.
+Ofloxacino se encuentra como glucurónido en la bilis.
+       La eliminación se efectúa principalmente por vía renal, el 80 - 90 % de la dosis
+se excreta inalterado por la orina. La semivida de eliminación es de 5,7 a 7,0
+horas, independientemente de la dosis. La semivida de eliminación plasmática se
+prolonga en individuos con insuficiencia renal; disminuye el aclaramiento total y
+renal en relación con el aclaramiento de la creatinina.
+ 5.3   Datos preclínicos sobre seguridad
+Ofloxacino muestra un potencial neurotóxico y causa alteraciones testiculares
+reversibles a dosis altas. Además de esto, los estudios preclínicos con dosis
+única y repetida en animales adultos así como las investigaciones sobre la
+ seguridad farmacológica, no indican otros riesgos específicos asociados a la
+administración de ofloxacino.
+        Como otros inhibidores de girasa, ofloxacino también puede dañar las
+articulaciones de animales jóvenes durante el periodo de crecimiento. La
+extensión del daño causado al cartílago depende de la edad, especies, y dosis.
+Además, el reposo de las articulaciones disminuye considerablemente el daño al
+cartílago.
+        Si se administra a dosis terapéuticas, ofloxacino no afecta a la fertilidad ni al
+desarrollo perinatal ni postnatal y no tiene efectos teratogénicos ni embriotóxicos
+en animales de experimentación,.
+        No se ha evaluado ofloxacino en estudios de carcinogenicidad a largo plazo. Los
+estudios in-vitro e in-vivo mostraron que ofloxacino no es mutagénico. Los datos
+sobre fototoxicidad, fotomutagenicidad, y fotocarcinogenicidad de ofloxacino
+indican solamente ligeros efectos fotomutagénicos y fototumorigénicos in vitro y/o
+in vivo, cuando se compara con otras fluoroquinolonas.
+        No hay efectos cataractogénicos o co-cataractogénicos después de la exposición
+a ofloxacino.
+        Las investigaciones preclínicas efectuadas con ofloxacino han demostrado, hasta
+la fecha, solamente un ligero potencial de prolongación del QT.
+ 6.     Datos farmacéuticos
+ 6.1    Relación de excipientes
+Lactosa monohidrato
+Almidón pregelatinizado
+Hipromelosa
+Croscarmelosa sódica
+Sílice coloidal anhidra
+Estearato de magnesio
+Dióxido de titanio E171
+Macrogol 3000
+Triacetin.
+ 6.2.   Incompatibilidades
+No aplicable.
+ 6.3.   Periodo de validez
+2 años.
+ 6.4.   Precauciones especiales de conservación
+Conservar en el envase original.
+ 6.5.   Naturaleza y contenido del recipiente
+Blisters transparentes o blancos opacos de PVC/PVdC-aluminio
+Blister con 5, 10, 20 y 50 comprimidos
+        No se comercializarán todas las presentaciones.
+6.6.   Instrucciones de uso/manipulación
+No aplicable
+ 7.     Titular de la autorización de comercialización
+TEVA GENERICOS ESPAÑOLA, S.L.
+C/ Guzmán el Bueno, 133
+28003 MADRID
+ 8.     Número de autorización de comercialización
+65099
+ 9.     Fecha de la primera autorización/renovación de la autorización
+ 10.    Fecha de la revisión del texto
+Diciembre de 2002.
+  
+      Ofloxacino Teva 200 mg comprimidos, 20 comprimidos
+         Prospectos de medicamentos."

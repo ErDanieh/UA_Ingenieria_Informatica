@@ -1,0 +1,392 @@
+ZEMPLAR 4 microgramos cápsulas blandas , 7 capsulas
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA
+ 
+1.      NOMBRE DEL MEDICAMENTO
+	Zemplar 1 microgramo Cápsulas blandas
+Zemplar 2 microgramos Cápsulas blandas
+Zemplar 4 microgramos Cápsulas blandas
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula blanda contiene:
+                                       Paricalcitol                                    Excipientes (Etanol)
+Zemplar 1 microgramo                  1 microgramo                                    0,71 mg
+Zemplar 2 microgramos                 2 microgramos                                   1,42 mg
+Zemplar 4 microgramos                 4 microgramos                                   1,42 mg
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	Cápsula blanda.
+ Cápsula de 1 microgramo: cápsula blanda ovalada de color gris con inscripción de   y ZA.
+Cápsula de 2 microgramos: cápsula blanda ovalada de color naranja-marrón con inscripción de
+y ZF.
+Cápsula de 4 microgramos: cápsula blanda ovalada de color dorado con inscripción de    y ZK.
+ 
+4.       DATOS CLÍNICOS
+	4.1     Indicaciones terapéuticas
+ Zemplar está indicado en la prevención y tratamiento del hiperparatiroidismo secundario asociado
+con insuficiencia renal crónica (enfermedad renal crónica, estadíos 3 y 4), y fallo renal crónico
+(enfermedad renal crónica estadío 5), en pacientes sometidos a hemodiálisis o diálisis peritoneal.
+ 4.2     Posología y forma de administración
+ Zemplar se puede tomar con o sin alimentos..
+ Enfermedad renal crónica (ERC), estadíos 3 y 4
+ Zemplar se debe administrar una vez al día, tanto en elrégimen de una dosis diaria como el
+régimen de tres dosis semanales en días alternos.
+ Dosis inicial
+ La dosis inicial se debe calcular en función de los niveles basales de hormona paratiroidea intacta
+(PTHi).
+ Tabla 1.                                Dosis inicial
+                                                                              Régimen de tres dosis
+Niveles basales PTHi                  Régimen diario
+500 pg/ml (56 pmol/l)               1 microgramo                            2 microgramos
+> 500 pg/ml (56 pmol/l)               2 microgramos                           4 microgramos
+*No administrar con una frecuencia superior a la de días alternos.
+ Titulación de dosis
+ La dosis se debe calcular de manera individualizada en función de los niveles plasmáticos o
+séricos de PTHi, con monitorización de calcio sérico y fósforo sérico. La tabla 2 muestra como se
+sugiere que se realice la titulación de la dosis.
+ Tabla 2.                  Titulación de dosis
+Niveles de PTHi               Dosis de
+comparados con niveles           Zemplar
+basales                   cápsulas             Régimen diario
+Iguales o aumentados
+Disminuidos < 30%
+Disminuidos en >30%, <
+60%
+Disminuidos > 60%
+PTHi < 60 pg/ml (7 pmol/l)
+1
+Para ser administrada con una frecuencia no superior a la de días alternos
+2
+En el caso de pacientes que requieran una reducción de la dosis y estén tomando la dosis menor en los
+regímenes diario o de tres dosis semanales, se puede disminuirla frecuencia de dosificación.
+ Los niveles séricos de calcio deben ser cuidadosamente monitorizados tras el inicio del
+tratamiento y durante los periodos de titulación de dosis. Si se observan hipercalcemia o niveles
+elevados persistentes del balance calcio-fósforo superiores a 55 mg2/dl2 (4,4 mmol2/l2), se debe
+reducir o retirar la dosis de quelantes de fósforo con contenido en calcio. Como alternativa, la
+dosis de Zemplar se puede reducir o bien interrumpir temporalmente. Si se interrumpe, el
+tratamiento puede reiniciarse con la dosis menor, cuando los niveles séricos de calcio y del
+balance calcio-fósforo estén en el rango apropiado.
+ Enfermedad renal crónica, estadío 5
+ Zemplar debe administrarse tres veces a la semana en días alternos.
+ Dosis inicial
+ La dosis inicial de Zemplar en microgramos se debe calcular en función de los niveles basales de
+hormona paratiroidea intacta (PTHi) (pg/ml)/60 [(pmol/l) /7], hasta una dosis máxima inicial de
+32 microgramos.
+ Titulación de dosis
+                                                                                                           MINISTERIO
+Las dosis posteriores deben calcularse de manera individualizada en función de los niveles
+plasmáticos o séricos de PTHi, calcio y fósforo séricos. La titulación de dosis sugerida se basa en
+la siguiente fórmula::
+ Dosis titulación (microgramos) = nivel de PTHi más reciente (pg/ml)
+ó
+ Dosis titulación (microgramos) = nivel de PTHi más reciente (pmol/l)
+                                                          7
+ Los niveles séricos de calcio y fósforo deben monitorizarse cuidadosamente después del inicio
+del tratamiento, durante los periodos de titulación de dosis y durante la administración conjunta de
+inhibidores potentes delas isoenzimas 3A del citocromo P450. Si se observan niveles elevados de
+calcio sérico o del balance Ca x P y el paciente está recibiendo quelantes de fósforo con contenido
+en calcio, la dosis del quelante puede disminuirse o interrumpirse, o bien, puede administrarseun
+quelante de fósforo libre de calcio.
+ Si el calcio sérico es > 11,0 mg/dl (2,8 mmol/l) o el producto Ca x P es > 70 mg2/dl2 (5,6
+mmol2/l2) o PTHi  150 pg/ml, la dosis debe disminuirse en 2 a 4 microgramos respecto a la
+calculada por el nivel de PTHi más reciente/60 (pg/ml) [PTHi/7 (pmol/l). Si se requieren mas
+ajustes, la dosis de las cápsulas de paricalcitol debe reducirse o interrumpirse hasta que estos
+parámetros se normalicen.
+ Cuando la PTHi se aproxima al rango diana (150-300 pg/ml), puede que sea necesario realizar
+pequeños ajustes de la dosis individualizada para alcanzar unos niveles dePTHi estable. En
+situaciones en las que la monitorización de PTHi, Ca ó P se realiza con una frecuencia menor de
+una vez por semana, puede justificarse una proporción entre la dosis inicial y la de titulación más
+moderada.
+ Poblaciones especiales
+ Insuficiencia hepática:
+No se requiere ajuste de la dosis en pacientes con insuficiencia hepática de leve a moderada.
+ Población pediátrica:
+No se ha establecido la seguridad y eficacia de Zemplar cápsulas en pacientes pediátricos.
+ Ancianos:
+En general, no se observaron diferencias en la seguridad y eficacia observada enpacientes
+geriátricos (65 - 75 años) respecto a pacientes más jóvenes, pero no puede descartarse una mayor
+sensibilidad en algunos individuos mayores.
+ 4.3   Contraindicaciones
+ Paricalcitol no se debe administrar a pacientes con evidencia de toxicidad por vitamina D,
+hipercalcemia o hipersensibilidad a alguno de los excipientes de este medicamento.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Una supresión excesiva de la hormona paratiroidea puede producir elevación de los niveles
+séricos de calcio y desencadenar una osteodistrofia de bajo recambio. Para alcanzar los niveles
+fisiológicos deseados se requiere la monitorización del paciente y una titulación individualizada
+de las dosis. .
+ Si se produce una hipercalcemia clínicamente relevante y el paciente está recibiendo quelantes de
+fósforo con contenido en calcio, la dosis de dichos quelantes debe reducirse o interrumpirse.
+ Advertencia sobre excipientes:
+Este medicamento contiene una pequeña cantidad de etanol (alcohol). Ver secciones 2 y 4.2.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Un estudio de interacción con ketoconazol demostró que la coadministración de ketoconazol
+prácticamente doblaba el AUC0- de paricalcitol. Se sabe que ketoconazol es un inhibidor no
+específico de variasenzimas del citocromo P450. Los datos in vivo e in vitro disponibles sugieren
+que ketoconazol puede interaccionar con las enzimas responsables del metabolismo de paricalcitol
+y de otros análogos de Vitamina D. Se debe tener precaución cuando se administre paricalcitol
+con ketoconazol.
+ 4.6   Embarazo y lactancia
+ No hay datos suficientes sobre el uso de paricalcitol en mujeres embarazadas. Estudios en
+animales han mostrado toxicidad reproductiva (ver apartado 5.3). Se desconoce el riesgo potencial
+sobre su uso en el ser humano, por lo tanto no se debe utilizar paricalcitol salvo que sea
+claramente necesario.
+ Lactancia: se desconoce si paricalcitol se elimina en la leche humana. Debido a que muchas
+sustancias activas se excretan en la leche humana, se debe tener precaución cuando se administre
+paricalcitol a mujeres en periodo de lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre los efectos sobre la capacidad para conducir o usar máquinas,
+sin embargo es esperable que los efectos del paricalcitol sobre la capacidad para conducir o
+utilizar máquinas sean insignificantes..
+ 4.8   Reacciones adversas
+ Enfermedad renal crónica, estadíos 3 y 4
+ Se ha evaluado la seguridad de paricalcitol cápsulas se ha evaluado en tres ensayos clínicos de 24
+semanas de duración, doble ciego, controlados con placebo, multicéntricos y en los cuales
+participaron 220 pacientes con enfermedad renal crónica en estadíos 3 y 4. En la incidencia de
+hipercalcemia, no hubo diferencias estadísticamente significativas entre los pacientes tratados con
+paricalcitol y los pacientes tratados con placebo. Zemplar (2/106, 2%) vs. placebo (0/111, 0%).
+Tampoco se encontraron en relación con elo del balance calcio-fósforo elevado Zemplar (13/106,
+12%) vs. placebo (7/111, 6%).
+ La reacción adversa notificada con mayor frecuencia en pacientes tratados con paricalcitol fue
+laerupción cutánea, observada en un 2% de los pacientes.
+                                                                                                       MINISTERIO
+Todas las reacciones adversas, tanto clínicas como de laboratorio, definidas como al menos
+posiblemente relacionadas con paricalcitol, se muestran en la tabla 3 clasificadas según el sistema
+MedDRA, término preferente y su frecuencia. Se utilizan los siguientes grupos de frecuencia:
+muy frecuente (1/10); frecuente (1/100 y <1/10); poco frecuente (1/1.000 y <1/100); raro
+(1/10.000 y <1/1.000); muy raro (<1/10.000), incluyendo casos aislados.
+ Tabla 3   Reacciones adversas notificadas en ensayos clínicos con ERC en estadíos 3 y 4
+ Trastornos gastrointestinales                                  Sequedad de boca                Poco frecuente
+Trastornos del sistema inmune                                  Hipersensibilidad               Poco frecuente
+Pruebas de laboratorio                                         Función hepática anormal        Poco frecuente
+Trastornos musculoesqueléticos y del
+tejido conjuntivo
+Trastornos del sistema nervioso
+Trastornos de la piel y del tejido
+subcutáneo
+ Enfermedad renal crónica, estadío 5
+ La seguridad de las cápsulas de paricalcitol ha sido evaluada en un ensayo clínico multicéntrico
+de 12 semanas de duración, doble ciego y controlado frente a placebo que incluyó 88 pacientes
+con ERC en estadío 5. No hubo diferencias estadísticamente significativas entre los pacientes
+tratados con paricalcitol y los pacientes tratados con placebo en la incidencia de hipercalcemia de
+Zemplar (1/61, 2%) frente a placebo (0/26, 0,0%), o del balance calcio-fósforo elevado de
+Zemplar (6/61, 10%) frente a placebo (1/26, 4%).
+ Todos los efectos adversos tanto clínicos como de laboratorio definidos como al menos
+posiblemente relacionados con paricalcitol, se muestran en la tabla 4 clasificados según el
+sistema MedDRA, término preferente y su frecuencia. Se utilizan los siguientes grupos de
+frecuencia: muy frecuente (1/10); frecuente (1/100 y <1/10); poco frecuente (1/1000 y
+1/100); raro (1/10000 y <1/1000); muy raro (<1/10000), incluyendo informes aislados.
+ Tabla 4. Reacciones adversas notificadas en el ensayo clínico pivotal de Fase III en
+enfermedad renal crónica estadío 5
+                 Sistema                                  Término preferente                           Frecuencia
+Trastornos gastrointestinales
+Trastornos metabólicos y
+nutricionales
+Trastornos del sistema nervioso                                Mareo                      Frecuente
+Trastornos del sistema
+reproductor y del pecho
+Trastornos de la piel y del                                           Acné                Frecuente
+tejido subcutáneo
+ 4.9   Sobredosis
+ La administración en excesode Zemplar cápsulas puede producir hipercalcemia, hipercalciuria,
+hiperfosfatemia, y una supresión excesiva de la hormona paratiroidea. El consumo elevado de
+calcio y fosfato junto con Zemplar cápsulas puede producir anomalías similares.
+ El tratamiento de una sobredosis accidental aguda de Zemplar cápsulas debe consistir en medidas
+generales de mantenimiento. Si se descubre la ingestión del medicamento dentro de un periodo de
+tiempo relativamente corto, puede ser beneficiosa la inducción del vómito o la realización de un
+lavado gástrico para prevenir la absorción del medicamento. Si el medicamento ha pasado a través
+del estomago, la administración de aceite mineral puede facilitar su eliminación fecal. Se deben
+realizar determinaciones seriadas de electrolitos séricos (especialmente calcio), velocidad de
+excreción urinaria de calcio y evaluación de anomalías electrocardiográficas producidas por la
+hipercalciemia. Dicha monitorización es crítica en aquellos pacientes que esténn recibiendo
+digitálicos. En caso de sobredosis accidental también se recomienda interrumpir la administración
+de suplementos de calcio e iniciar una dieta baja en calcio. Se consideran innecesaria la
+implementacion de otras medidas debido a la relativa corta duración de la acción farmacológica
+de paricalcitol.. Una hipercalcemia grave puede tratarse con el uso de ciertosmedicamentos como
+fosfatos y corticoesteroides, así como medidas para inducir una diuresis apropiada.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Vitamina D y análogos, código ATC: A11CC07
+ Mecanismo de acción:
+ Paricalcitol es una Vitamina D de origen sintético, biológicamente activa, análoga del calcitriol,
+que presenta modificaciones en la cadena lateral (D2) y en el anillo A (19-nor) que permiten una
+activación selectiva de los receptores de la Vitamina D (RVD). Paricalcitol aumenta
+selectivamente los RVD en las glándulas paratiroides sin producir un incremento de los RVD
+intestinales y es menos activa en la resorción ósea. Paricalcitol también aumenta los receptores
+sensibles a calcio en las glándulas paratiroides. Como resultado, paricalcitol reduce los niveles de
+hormona paratiroidea (PTH) inhibiendo la proliferación paratiroidea y disminuyendo la síntesis y
+secreción de PTH, con el mínimo impacto en los niveles de calcio y fósforo. Puede actuar
+directamente en las células óseas para mantener el volumen óseo y mejorar la superficie de
+mineralización. La corrección de niveles anormales de PTH, con normalización de la homeostasis
+de calcio y fósforo, puede prevenir o tratar la osteodistrofia metabólica asociada con la
+enfermedad renal crónica.
+ Eficacia clínica
+ Enfermedad renal crónica, estadíos 3-4
+ La variable principal de eficacia del estudio que consiste en al menos dos reducciones
+consecutivas >30% de los valores basales de PTHi se alcanzo en el 91% de los pacientes tratados
+con paricalcitol frente al 13% de los pacientes tratados con placebo (p<0,001). En los pacientes
+tratados con paricalcitol se redujeron de forma significativa (p<0,001) tanto la fosfatasa alcalina
+específica ósea sérica como la osteocalcina sérica en comparación con los pacientes tratados con
+placebo, lo que se asocia con una corrección del alto recambio óseo producido por el
+hiperparatiroidismo secundario. No se detectó un deterioro en los parámetros de la función renal
+del índice estimado de filtración glomerular (a través de la fórmula MDRD) y la creatinina sérica,
+en pacientes tratados con paricalcitol en comparación con los pacientes tratados con placebo. Un
+número significativamente mayor de de pacientes tratados con paricalcitol frente a los tratados
+con placebo, experimentaron una disminución de las proteínas urinarias, determinadas con tiras
+semicuantitativas. Enfermedad renal crónica, estadío 5
+ La variable principal de eficacia del estudio consistente en, al menos dos reducciones
+consecutivas >30% de los valores basales de PTHi se alcanzo en el 88% de los pacientes tratados
+con paricalcitol frente al 13% de los pacientes tratados con placebo (p<0,001).
+ 5.2 Propiedades farmacocinéticas
+ Absorción
+ La absorción de paricalcitol es buena. En individuos sanos después de la administración por vía
+oral de 0,24 microgramos/kg de paricalcitol, la biodisponibilidad absoluta media fue
+aproximadamente el 72%; la concentración plasmática máxima (Cmax) fue de 0,630 ng/ml (1,512
+pmol/ml) a las 3 horas y el área bajo la curva de concentración-tiempo (AUC0-) fue 5,25 ngh/ml
+(12,60 pmolh/ml). La biodisponibilidad absoluta media de paricalcitol en pacientes sometidos a
+hemodiálisis (HD) y diálisis peritoneal (DP) es del 79% y 86%, respectivamente, con el intervalo
+de confianza al 95% de unión máxima de 93% y 112%, respectivamente. Un estudio de
+interacción con alimentos en sujetos sanos han mostrados que tanto la Cmax como el AUC0-
+permanecen inalterados cuando se administra paricalcitol con comida rica en grasa en
+comparación con la administración de paricalcitol en ayunas . Por tanto, Zemplar cápsulas se
+puede tomar con o sin alimentos.
+ La Cmax y AUC0- de paricalcitol incrementaron proporcionalmente en un rango de dosis de 0,06 a
+0,48 microgramos/kg en individuos sanos. Tras dosis múltiples en individuos sanos el estado
+estacionario se alcanza a los 7 días, tanto en el régimen de una dosis diaria como en el de tres
+dosis semanales.
+ Distribución
+ Paricalcitol se une ampliamente a proteínas plasmáticas (>99%). El índice medio de paricalcitol
+en sangre en relación a la concentración plasmática, fue de 0,54 en un rango de concentración de
+0,01 a 10 ng/ml (0,024 a 24 pmol/ml), lo que indica una baja unión del medicamento a las células
+sanguíneas. Tras una dosis de paricalcitol de 0,24 microgramos/kg en sujetos sanos, el volumen
+aparente de distribución medio fue de 34 litros.
+ Metabolismo y Excreción
+ Tras la administración oral de una dosis de 0,48 microgramos/kg de 3H-paricalcitol, el
+medicamento original se metabolizó ampliamente. Tan solo un 2% de medicamento se excreto
+inalterado por heces, y no se encontró medicamento inalterado en orina. Aproximadamente el
+70% de la radiactividad se eliminó en heces y un 18% se recuperó en orina. La mayor parte de la
+exposición sistémica provenía del medicamento original. Dos metabolitos menores, relacionados
+con paricalcitol, se detectaron en plasma humano. Un metabolito se identificó como 24(R)-hidroxi
+paricalcitol, mientras que el otro metabolito no se identificó. 24(R)-hidroxi paricalcitol es menos
+activo que paricalcitol en un modelo in vivo de rata con supresión de PTH.
+Datos in vivo sugieren que paricalcitol es metabolizado por múltiples enzimas hepáticas y no
+hepáticas, incluyendo CYP24 mitocondrial, así como CYP3A4 y UGT1A4. Los metabolitos
+identificados incluyen el producto de 24(R)-hidroxilación, así como 24,26- y 24,28-
+dihidroxilación y glucuronización directa.
+ Eliminación
+ En voluntarios sanos, la semivida de eliminación de paricalcitol es de cinco a siete horas en el
+rango de dosis estudiado de 0,06 a 0,48 microgramos/kg. El grado de acumulación fue
+concordante con la semivida y la frecuencia de dosificación. La hemodiálisis no afecta
+significativamente a la eliminación de paricalcitol.
+ Poblaciones especiales
+ Ancianos
+ No se ha estudiado la farmacocinética de paricalcitol en pacientes mayores de 65 años.
+ Pediatría
+ No se ha estudiado la farmacocinética de paricalcitol en pacientes menores de 18 años.
+ Sexo
+ La farmacocinética de paricalcitol tras una dosis individual en un rango de 0,06 a 0,48 mcg/kg,
+fue independiente del sexo.
+ Insuficiencia hepática
+ En un estudio realizado con Zemplar intravenoso, se comparó el comportamiento farmacocinético
+de paricalcitol (0,24 mcg/kg) en pacientes con insuficiencia hepática leve (n=5) y moderada (n=5)
+(de acuerdo con el criterio Child-Pugh) y en sujetos con función hepática normal (n=10). La
+farmacocinética de paricalcitol libre fue similar en el rango de función hepática evaluado en este
+estudio. No se requiere ajuste de dosis en pacientes con insuficiencia hepática de leve a moderada.
+No se ha estudiado la influencia de la insuficiencia hepática grave en la farmacocinética de
+paricalcitol
+ Insuficiencia renal
+ La farmacocinética de paricalcitol se determinó tras la administración de una dosis única en
+pacientes con enfermedad renal crónica (ERC) estadío 3 o con insuficiencia renal moderada
+(n=15, GFR=36,9 a 59,1 ml/min/1,73 m2), estadío 4 o insuficiencia renal grave (n=14, GFR=13,1
+a 29,4 ml/min/1,73 m2) y estadío 5 o etapa terminal de la enfermedad renal [n=14 en hemodiálisis
+(HD) y n=8 en diálisis peritoneal (DP)]. De manera similar al 1,25(OH)2D3 endógeno, la
+farmacocinética de paricalcitol tras la administración oral se modificó significativamente por el
+daño renal, tal como se muestra en la tabla 5. Los pacientes con enfermedad renal crónica en
+estadíos 3, 4 y 5 mostraron una CL/F disminuida y un incremento de la semivida en comparación
+con los resultados obtenidos con individuos sanos
+ Tabla 5         Comparación de la Media ± SD de parámetros farmacocinéticos en los
+diferentes estadíos de Insuficiencia Renal versus Individuos sanos
+Parámetros          Individuos        ERC             ERC
+Farmacocinéticos        sanos         Estadio 3       Estadio 4          HD              DP
+n                         25             15              14              14               8
+Dosis                    0.240          0.047           0.036           0.240           0.240
+(microgramos/kg)
+CL/F (l/h)             3.6 ± 1.0       1.8 ± 0.5      1.5 ± 0.4        1.8 ± 0.8       1.8 ± 0.8
+t½(h)                  5.9 ± 2.8      16.8 ± 2.6     19.7 ± 7.2       13.9 ± 5.1      17.7 ± 9.6
+fu* (%)               0.06 ± 0.01     0.06 ± 0.01    0.07 ± 0.02     0.09 ± 0.04     0.13 ± 0.08
+* Determinado a una concentración de 15 nM de paricalcitol.
+ Tras la administración de las cápsulas de paricalcitol por vía oral oral, perfil farmacocinético de
+paricalcitol en enfermedad renal crónica, fue comparable en los estadíos de 3 a 5. Por tanto, no se
+requiere un ajuste de dosis diferente a los anteriormente recomendados (ver apartado 4.2).
+ 5.3 Datos preclínicos de seguridad
+ Las conclusiones más destacadas de los estudios toxicológicos a dosis repetidas en roedores y
+perros, fueron generalmente atribuidas a la actividad calcémica de paricalcitol. Los efectos que no
+se relacionaron claramente con la hipercalcemia incluyeron, disminución en el recuento de
+glóbulos blancos y atrofia tímica en perros, y valores alterados de TTPA (aumentados en perros y
+disminuidos en ratas). No se han observado cambios en el recuento de glóbulos blancos en los
+estudios clínicos con paricalcitol.
+ Paricalcitol no afectó a la fertilidad en ratas, y no hubo evidencia de actividad teratogénica en
+ratas o conejos. Dosis altas de otras preparaciones de vitamina D administradas durante el
+embarazo en animales, produjeron teratogénesis. Se ha demostrado que paricalcitol administrado
+a dosis tóxicas para la madre, afecta a la viabilidad fetal y produce un aumento significativo de la
+mortalidad peri y postnatal de ratas recién nacidas.
+ Paricalcitol no mostró potencial genotóxico en una serie de ensayos de toxicidad genética in vitro
+e in vivo.
+Estudios de carcinogénesis en roedores, no indicaron ningún riesgo específico para el uso
+humano.
+Las dosis administradas y/o la exposición sistémica a paricalcitol fueron ligeramente superiores a
+las dosis o exposiciones sistémicas terapéuticas.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Contenido de las cápsulas:
+Triglicéridos de cadena media
+Etanol
+Butilhidroxitolueno
+ Componentes de la cápsula vacía:
+Gelatina
+Glicerol
+Agua
+Dióxido de Titanio (E171)
+Óxido de hierro negro (E172)
+Óxido de hierro rojo (E172)
+Óxido de hierro amarillo (E172)
+ Componentes de la tinta negra:
+Propilenglicol
+Óxido de hierro negro (E172)
+Ftalato de acetato de polivinilo
+Polietilenglicol 400
+Hidróxido amónico.
+ 6.2   Incompatibilidades
+ No aplicable.
+ 6.3   Periodo de validez
+ 2 años.
+ 6.4       Precauciones especiales de conservación
+ Este medicamento no requiere condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del envase
+ Frascos de polietileno de alta densidad (PEAD) cerrados con tapones de polipropileno. Cada
+frasco contiene 30 cápsulas.
+ Envases con 7 ó 28 cápsulas. Cada envase contienen 1 ó 4 blisteres de PVC/aluminio con
+fluoropolímero. Cada blister contiene 7 cápsulas.
+ Puede que solamente estén comercializados algunos tamaños de envase.
+ 6.6       Precauciones especiales de eliminación
+ No requiere condiciones especiales de conservación.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Abbott Laboratories S.A.
+Avda. de Burgos, 91
+28050 Madrid
+España
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Zemplar 1 microgramo cápsulas blandas: 68022
+Zemplar 2 microgramos cápsulas blandas: 68023
+Zemplar 4 microgramos cápsulas blandas: 68024
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN /RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Septiembre 2006
+ 10.   FECHA DE REVISIÓN DEL TEXTO
+ Junio 2007
+
+	 
+      ZEMPLAR 4 microgramos cápsulas blandas , 28 cápsulas
+         Prospectos de medicamentos.

@@ -1,0 +1,274 @@
+ZEMPLAR 5MCG/ML solución inyectable, 5 x 2 ml
+	Información Basica del medicamento Toda la información del medicamento 
+1.   NOMBRE DEL MEDICAMENTO
+	
+2.   COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	
+
+
+4.     DATOS CLÍNICOS
+	4.1 Indicaciones terapéuticas
+Paricalcitol está indicado en la prevención y tratamiento del hiperparatiroidismo secundario en
+pacientes con insuficiencia renal crónica sometidos a hemodiálisis.
+ 4.2 Posología y forma de administración
+Zemplar solución inyectable se administra a través de un acceso de hemodiálisis.
+ Adultos
+ 1) La dosis inicial se debe calcular en base a los niveles basales de la hormona paratiroidea
+(PTH)
+ La dosis inicial de paricalcitol se basa en la siguiente fórmula:
+ Dosis inicial (microgramos) = nivel basal de PTH intacta en pmol/l
+                                       ó
+ y administrado por vía intravenosa (IV) en bolo, con una frecuencia máxima de días alternos, en
+cualquier momento durante la diálisis.
+ La dosis máxima administrada de forma segura en los estudios clínicos fue de 40g.
+ 2) Titulación de dosis
+ Los niveles aceptados actualmente para el rango de PTH en sujetos con insuficiencia renal
+terminal sometidos a diálisis no es más de 1,5 a 3 veces el límite superior normal no-urémico,
+15,9 a 31,8 pmol/l (150-300 pg/ml), para PTH intacta. Para alcanzar los niveles adecuados de las
+variables fisiológicas es necesaria una monitorización y titulación individualizada de la dosis. Si
+se observan hipercalcemia o un producto Ca x P corregido, elevado de forma persistente, mayor
+ de 5,2 mmol2/l2 (65 mg2/dl2), se debe reducir o interrumpir la dosis hasta que estos parámetros se
+normalicen. Entonces, se debe reiniciar otra vez la administración de paricalcitol a dosis más
+bajas. Puede ser necesaria una reducción de la dosis cuando los niveles de PTH disminuyen como
+respuesta a la terapia.
+ Se sugiere la siguiente tabla como aproximación a la titulación de la dosis:
+            Guía sugerida de dosis (ajuste de dosis en intervalos de 2 a 4 semanas)
+Nivel de PTHi en relación con el
+nivel basal
+Iguales o mayores
+Disminución < 30%
+Disminución  30% y  60%                 Mantener
+Disminución > 60%
+PTHi < 15,9 pmol/l (150 pg/mL)
+ Una vez que se ha estabilizado la dosis, el calcio y el fósforo séricos se deben determinar al
+menos una vez al mes. Se recomienda que se mida la PTH intacta en suero cada tres meses.
+Durante el ajuste de la dosis con paricalcitol se pueden requerir más frecuentemente pruebas de
+laboratorio.
+ Insuficiencia hepática
+Las concentraciones de paricalcitol libre en pacientes con daño hepático leve a moderado son
+similares a las observadas en individuos sanos y el ajuste de la dosis no es necesario en esta
+población. No hay experiencia en pacientes con daño hepático grave.
+ Uso en pediatría
+Los datos en pacientes pediátricos son limitados y no se dispone de datos en niños menores de 5
+años. Véase sección 5.1 para los resultados de los estudios.
+ Uso en ancianos
+Hay una experiencia limitada con pacientes de 65 o más años que recibieron paricalcitol en
+estudios de fase III. En estos estudios, no se observaron diferencias generales en la eficacia o
+seguridad entre los pacientes de 65 o más años y los pacientes más jóvenes.
+ 4.3 Contraindicaciones
+Hipersensibilidad a paricalcitol o a alguno de los excipientes.
+Toxicidad por Vitamina D.
+Hipercalcemia.
+ 4.4 Advertencias y precauciones especiales de empleo
+Una supresión excesiva de la hormona paratiroidea puede resultar en una elevación de los niveles
+de calcio séricos y llevar a una enfermedad metabólica ósea. Se debe hacer una monitorización y
+una titulación de la dosis individualizada, con el fin de alcanzar los niveles fisiológicos.
+ La toxicidad por digitálicos se potencia por hipercalcemia de cualquier causa, por lo que se debe
+tener precaución cuando se prescriban compuestos digitalicos junto con paricalcitol.
+ Si se produce una hipercalcemia clínicamente significativa y el paciente está bajo tratamiento con
+quelantes de fósforo con contenido en calcio, la dosis del quelante de fósforo con contenido en
+calcio debe ser reducida o interrumpida.
+                                                                                                      MINISTERIO
+Esta especialidad farmacéutica contiene 20% v/v de etanol (alcohol). Cada dosis puede contener
+hasta 1,3g de etanol. Esto puede ser perjudicial para casos que sufran alcoholismo.
+ Debe ser tenido en cuenta en embarazadas o mujeres en periodo de lactancia, niños y grupos de
+alto riesgo tales como pacientes con enfermedad hepática o epilepsia.
+ Debe utilizarse con precaución si se administra paricalcitol junto con ketoconazol.
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+No se han realizado estudios de interacciones.
+ La toxicidad por digitálicos se potencia con la hipercalcemia de cualquier causa, por lo que se
+debe tener precaución cuando se prescriban digitálicos junto con paricalcitol.
+No se debe tomar paricalcitol junto con especialidades farmacéuticas con fosfatos o relacionados
+con la Vitamina D, ya que hay un mayor riesgo de hipercalcemia y elevación del producto CaxP.
+ Las preparaciones que contienen aluminio (por ejemplo, antiácidos, quelantes de fósforo) no se
+deben administrar de manera crónica con especialidades farmacéuticas de vitamina D, ya que
+pueden aumentar los niveles de aluminio en sangre y la toxicidad ósea por aluminio.
+ Elevadas dosis de preparados que contienen calcio o diuréticos tiazídicos pueden aumentar el
+riesgo de hipercalcemia.
+ Los preparados que contienen magnesio (por ejemplo antiácidos) no deben administrarse de
+forma conjunta con preparados de vitamina D, porque puede darse hipermagnesemia.
+ Ketoconazol: Se ha estudiado, en sujetos sanos, el efecto de dosis múltiples de 200 mg de
+ketoconazol administrado dos veces al día, durante 5 días, sobre la farmacocinética de las
+cápsulas de paricalcitol. La Cmax de paricalcitol fue afectada en grado mínimo, pero la AUC0- se
+duplicó aproximadamente en presencia de ketoconazol. La semivida media de paricalcitol fue de
+17,0 horas en presencia de ketoconazol comparado con 9,8 horas cuando paricalcitol se
+administró solo. (ver apartado 4.4 PRECAUCIONES).
+ 4.6 Embarazo y lactancia
+No existen datos suficientes sobre la utilización de paricalcitol en mujeres embarazadas. Los
+estudios en animales han mostrado toxicidad reproductiva (véase 5.3). Se desconoce el riesgo
+potencial en seres humanos. Zemplar solución inyectable no debería utilizarse durante el
+embarazo excepto si fuese claramente necesario.
+ Lactancia: se desconoce si paricalcitol se excreta en la leche humana. Debido a que muchas
+sustancias activas se excretan en la leche humana, se debe tener precaución cuando se administre
+paricalcitol a mujeres lactantes.
+ 4.7 Efectos sobre la capacidad para conducir y utilizar máquinas
+No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ 4.8 Reacciones adversas
+Aproximadamente 600 pacientes fueron tratados con Zemplar en ensayos clínicos en fases
+II/III/IV. Globalmente, el 6% de pacientes tratados con Zemplar notificaron reacciones adversas.
+                                                                                                    MINISTERIO
+La reacción adversa más frecuente asociada con la terapia con Zemplar fue hipercalcemia,
+dándose en el 4,7 % de los pacientes. La hipercalcemia es dependiente del nivel de sobresupresión
+de la PTH y se puede disminuir con una titulación adecuada de la dosis.
+ Las reacciones adversas observadas en los ensayos clínicos que fueron posible, probable o
+definitivamente relacionadas con paricalcitol se presentan en la siguiente tabla en función del
+sistema corporal y la frecuencia. Se han utilizado las siguientes categorías de frecuencia: muy
+frecuente (>1/10); frecuente (>1/100, <1/10); poco frecuente (>1/1000, <1/100); raro (1/10000 y
+<1/1000); muy raro (<1/10000, incluyendo informes aislados).
+ Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada intervalo
+de frecuencia.
+ Sistema corporal                    Frecuencia                   Reacciones Adversas
+Sistema endocrino                   Frecuente                    Trastornos paratiroideos
+Sistema hemático y linfático        Poco frecuente               linfoadenopatía y aumento del
+Trantornos   del          sistema
+inmunológico                        Poco frecuente
+ Trastornos    metabólicos       y                                Edema, edema periférico,
+nutricionales                       Poco frecuente               aumento de SGOT y pérdida de
+Sistema nervioso                    Poco frecuente
+Órganos de los sentidos                                          Conjuntivitis, trastornos del
+Sistema cardiovascular              Poco frecuente               accidente cerebrovascular, paro
+Sistema respiratorio                Poco frecuente               epistaxis, edema pulmonar,
+Sistema digestivo                   Poco frecuente               trastornos gastrointestinales,
+Piel y anejos                      Poco frecuente
+Sistema musculoesquelético         Poco frecuente
+Sistema urogenital                 Poco frecuente                   mama, dolor de pecho y
+Manifestaciones generales
+ Reacciones adversas después de la comercialización
+Transtornos en el sistema inmunológico e hipersensibilidad:
+Rara vez se ha referido angioedema, edema laríngeo y urticaria.
+ 4.9 Sobredosis
+La sobredosis de paricalcitol puede conducir a hipercalcemia.
+ El tratamiento de los pacientes con hipercalcemia clínicamente significativa consiste en la
+inmediata reducción de la dosis o la interrupción de la terapia de paricalcitol e incluye una dieta
+baja en calcio, retirada de los suplementos de calcio, movilización del paciente, atención a los
+desequilibrios de líquidos y electrolitos, valoración de las anomalías electrocardiográficas (crítica
+en pacientes que reciben digitálicos) y hemodiálisis o diálisis peritoneal con un dializado libre de
+calcio, según sea aconsejable.
+ Deben monitorizarse frecuentemente los niveles séricos de calcio hasta que se alcance la
+normocalcemia.
+ Paricalcitol no se elimina significativamente por diálisis.
+ Zemplar solución inyectable contiene 30% v/v de propilenglicol como excipiente. Se han
+notificado casos aislados de depresión del sistema nervioso central, hemólisis y acidosis láctica
+como efectos tóxicos asociados a la administración de propilenglicol en dosis altas. Aunque no
+son efectos esperados con la administración de Zemplar ya que el propilenglicol se elimina
+durante el proceso de diálisis, se debe tener en cuenta el riesgo de efectos tóxicos en caso de
+sobredosificación.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1 Propiedades farmacodinámicas
+Grupo farmacoterapéutico: Vitamina D y análogos - Código ATC: A11CC
+ Mecanismo de acción
+ Paricalcitol es una Vitamina D biológicamente activa, análoga del calcitriol, de origen sintético,
+con modificaciones en la cadena lateral (D2) y en el anillo A (19-nor) permitiendo una activación
+selectiva de los receptores de la Vitamina D (RVD). Paricalcitol aumenta selectivamente los RVD
+en las glándulas paratiroides sin que haya incremento de RVD en el intestino y es menos activa en
+la resorción ósea. Paricalcitol también aumenta los receptores sensibles al calcio en las glándulas
+paratiroides. Como resultado, paricalcitol reduce los niveles de hormona paratiroidea (PTH)
+inhibiendo la proliferación paratiroidea y disminuyendo la síntesis y secreción de PTH, con
+impacto mínimo en los niveles de calcio y fósforo, pudiendo actuar directamente en las células
+óseas para mantener el volumen óseo y mejorar la superficie de mineralización. La corrección de
+niveles anormales de PTH, con normalización de la homeostasis de calcio y fósforo, puede
+prevenir o tratar la osteopatía metabólica asociada con la insuficiencia renal crónica.
+ Datos clínicos en pediatría: Se evaluó la seguridad y eficacia de Zemplar, en un ensayo clínico
+doble ciego controlado con placebo durante 12 semanas en 29 pacientes pediátricos de edades
+comprendidas entre los 5 y 19 años, con enfermedad renal en fase terminal y sometidos a
+hemodiálisis. Los 6 sujetos de menor edad tratados con Zemplar tenían entre 5 y 12 años. La
+dosis inicial de Zemplar en sujetos con niveles basales de iPTH menores de 500 fue de 0,04
+mcg/kg, 3 veces a la semana. Mientras que en sujetos con niveles basales de iPTH 500 pg/ml
+pg/mg fue de 0,08 mcg/kg, 3 veces a la semana. El ajuste de la dosis de Zemplar se realizó según
+los niveles séricos basales de iPTH, calcio, y Ca x P, en incrementos de 0,04 mcg/kg. El 67 % los
+pacientes tratados con Zemplar y el 14 % de los pacientes tratados con placebo finalizaron el
+ensayo. El 60 % de los pacientes del grupo que recibió tratamiento con Zemplar tuvo dos
+descensos consecutivos de un 30 % en los niveles basales de iPTH, en comparación con un
+descenso del 20 % en los pacientes del grupo control. El 71 % de los pacientes tratados con
+placebo abandonaron el estudio debido a un excesivo aumento de los niveles de iPTH. Ninguno
+de los sujetos del grupo de tratamiento o control desarrolló hipercalcemia. No hay datos
+disponibles para pacientes menores de 5 años.
+ 5.2     Propiedades farmacocinéticas
+ Distribución
+Se ha estudiado la farmacocinética de paricalcitol en pacientes con insuficiencia renal crónica que
+requerían hemodiálisis. Paricalcitol se administró como inyección intravenosa en bolo. A las dos
+horas de la administración de dosis entre 0,04 y 0,24 microgramos/kg, las concentraciones de
+paricalcitol disminuyeron rápidamente; después de esto, las concentraciones de paricalcitol
+descendieron de forma lineal logarítmica con una semivida de unas 15 horas. No se ha observado
+acumulación de paricalcitol con dosis múltiples.
+ Eliminación
+En voluntarios sanos, se llevó a cabo un estudio con una única inyección intravenosa en bolo de
+0,16 microgramos/kg de 3H-paricalcitol (n=4), y la radioactividad plasmática se atribuyó a la
+sustancia inalterada. Paricalcitol se eliminó primariamente por excreción hepatobiliar, ya que un
+74% de la dosis radioactiva se recuperó en las heces y sólo un 16% se encontró en orina.
+ Metabolismo
+Se detectaron varios metabolitos desconocidos tanto en orina como en heces, y no se detectó
+paricalcitol en orina. Estos metabolitos no se han caracterizado ni identificado. Juntos, estos
+metabolitos contribuyen al 51% de la radioactividad urinaria y al 59% de la radioactividad fecal.
+La unión a proteínas plasmáticas de paricalcitol in vitro fue extensa (>99.9%) e insaturable sobre
+un rango de concentración de 1 a 100 ng/ml.
+  Características farmacocinéticas de paricalcitol en pacientes FRC (dosis 0,24 g/kg)
+Parámetro                                   N
+Cmax ( 5 minutos después del bolo)          6                     1.850 + 664 (pg/ml)
+AUCo-                                       5                     27.382 + 8.230 (pg·hr/ml)
+CL                                     5                  0,72 + 0,24 (l/hr)
+Vss                                    5                  6 + 2 (l)
+ Poblaciones especiales
+Sexo, raza y edad: No se han observado diferencias farmacocinéticas relacionadas con el sexo o la
+edad en los pacientes adultos estudiados. No se han identificado diferencias farmacocinéticas
+debidas a la raza.
+ Insuficiencia hepática: La concentración de paricalcitol libre en pacientes con daño hepático leve
+a moderado es similar a la de voluntarios sanos, y no se necesitan ajustes de dosis en esta
+población de pacientes. No hay experiencia en pacientes con daño hepático grave.
+ 5.3     Datos preclínicos sobre seguridad
+Las conclusiones más destacadas de los estudios toxicológicos de dosis repetidas en roedores y
+perros, fueron generalmente atribuidas a la actividad calcémica de paricalcitol. Efectos no
+relacionados claramente con la hipercalcemia incluyeron, disminución en el recuento de glóbulos
+blancos y atrofia tímica en perros, y valores alterados de APTT (aumentados en perros y
+disminuidos en ratas). No se han observado cambios en el recuento de glóbulos blancos en los
+estudios clínicos con paricalcitol.
+ Paricalcitol no afectó a la fertilidad en ratas, y no hubo evidencia de actividad teratogénica en
+ratas o conejos. Las dosis altas de otras preparaciones con vitamina D administradas durante el
+embarazo en animales, conducen a una teratogénesis. Paricalcitol demostró afectar a la viabilidad
+fetal, así como promovió un aumento significativo de la mortalidad peri y postnatal de ratas recién
+nacidas a dosis tóxicas para la madre.
+ Paricalcitol no mostró potencial genotóxico en una serie de ensayos de toxicidad genética in vitro
+e in vivo.
+ Estudios de carcinogénesis en roedores, no indicaron ningún riesgo especifico para el uso
+humano.
+ Las dosis administradas y/o la exposición sistémica a paricalcitol fueron ligeramente superiores a
+las dosis o exposiciones sistémicas terapéuticas.
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1 Lista de excipientes
+Etanol (20 % v/v)
+Propilenglicol
+Agua para inyección.
+ 6.2 Incompatibilidades
+Propilenglicol interacciona con heparina y neutraliza sus efectos. Zemplar solución inyectable
+contiene propilenglicol como excipiente y debe administrarse a través de un puerto diferente al de
+la heparina.
+ Este medicamento no debe mezclarse con con otros medicamentos.
+ 6.3 Periodo de validez
+2 años.
+6.4   Precauciones especiales de conservación
+Ninguna especial.
+ 6.5 Naturaleza y contenido del envase
+Zemplar solución inyectable 1ml ó 2ml en ampollas de vidrio Tipo I; caja de 5 unidades.
+ 6.6     Precauciones especiales de eliminación y otras manipulaciones
+Los medicamentos parenterales se deben inspeccionar visualmente para ver el contenido de
+partículas y decoloración antes de su administración. La solución es transparente e incolora.
+ De un solo uso. Se debe desechar la cantidad que no se utilice.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en
+contacto con él, se realiza de acuerdo con as normativas locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+8.    NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	9.   FECHA DE LA PRIMERA AUTORIZACIÓN /RENOVACIÓN
+Agosto 2002
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+Diciembre 2006
+
+	 
+      ZEMPLAR 5MCG/ML solución inyectable, 5 x 1 ml
+         Prospectos de medicamentos.

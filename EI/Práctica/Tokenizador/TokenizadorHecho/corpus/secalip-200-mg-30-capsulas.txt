@@ -1,0 +1,265 @@
+SECALIP 200 mg, 30 cápsulas
+	Información Basica del medicamento Toda la información del medicamento 1        DENOMINACIÓN DEL MEDICAMENTO
+SECALIP 200 mg, cápsulas.
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	
+3.       FORMA FARMACÉUTICA
+	
+4.        DATOS CLÍNICOS
+	4.2.      Posología y forma de administración:
+En asociación con la dieta, este medicamento constituye un tratamiento a largo plazo, la
+eficacia del mismo debe comprobarse periódicamente.
+La respuesta terapéutica se comprobará mediante la determinación de los valores lipídicos
+séricos (colesterol total, LDL-C, triglicéridos). En caso de no alcanzar una respuesta
+adecuada después de varios meses de tratamiento (por ejemplo 3 meses), deben de ser
+previstas medidas terapéuticas complementarias o diferentes.
+Posología:
+Adultos: La pauta posológica es de una cápsula por día, administrada con una de las
+principales comidas.
+Los pacientes que toman actualmente un comprimido de 145 mg de fenofibrato o un
+comprimido de 160 mg pueden cambiar a una cápsula de 200 mg de fenofibrato
+micronizado sin que sea necesario ajuste de dosis.
+Ancianos: en pacientes ancianos, se recomienda la dosis usual para adultos.
+Pacientes con deterioro de la función renal: Es preciso reducir la dosis. Se recomienda
+administrar a estos pacientes la forma farmacéutica que contenga la menor dosis de
+principio activo.
+Niños: Este medicamento está contraindicado en niños.
+Pacientes con enfermedades hepáticas: No se ha estudiado este grupo de pacientes.
+ 4.3.     Contraindicaciones:
+- Insuficiencia hepática (incluida cirrosis biliar)
+- Insuficiencia renal
+- Niños
+        - Hipersensibilidad al fenofibrato o a cualquiera de los componentes de este medicamento
+- Reacciones conocidas de fotosensibilidad o fototoxicidad durante el tratamiento con
+fibratos o ketoprofeno.
+- Cálculos biliares
+- Pancreatitis aguda o crónica, con la excepción de pancreatitis aguda debida a
+hipertrigliceridemia grave.
+         Empleo durante el embarazo y la lactancia: ver apartado 4.6.
+ 4.4.     Advertencia y precauciones especiales de empleo:
+Las hipercolesterolemias secundarias causadas por diabetes mellitus de tipo 2 no
+controlada, hipotiroidismo, síndrome nefrótico, disproteinemia, trastorno obstructivo
+hepático, tratamiento farmacológico, alcoholismo, deben ser adecuadamente tratadas antes
+de iniciar la terapia con fenofibrato.
+En las pacientes hiperlipidémicas bajo tratamiento con estrógenos o anticonceptivos
+estrogénicos, es preciso determinar si su hiperlipidemia es primaria o secundaria (los
+eventuales altos niveles lipídicos pueden ser debidos a la administración oral de
+estrógenos).
+Función hepática: Al igual que con otros hipolipemiantes, se han observado aumentos de
+transaminasas en algunos pacientes. En la mayoría de los casos, estos aumentos fueron
+transitorios, leves y asintomáticos. Se recomienda, sin embargo, un control sistemático de
+las transaminasas cada 3 meses, durante los 12 primeros meses de tratamiento. Deberá
+prestarse especial atención a aquellos pacientes que desarrollen un aumento de
+transaminasas, y se suspenderá el tratamiento en caso de que los niveles de las ASAT y
+ALAT superen el triple del límite superior del valor normal o 100 UI.
+Pancreatitis: Se ha observado la aparición de pancreatitis en pacientes en tratamiento con
+fenofibrato (ver apartado 4.3 y 4.8). Este acontecimiento puede ser el resultado de una falta
+de eficacia en pacientes con una hipertrigliceridemia grave, de un efecto directo del
+fármaco, o de un fenómeno secundario en el cual interviene la formación de cálculos
+biliares o sedimentos con obstrucción del conducto biliar común.
+Músculo: Se han observado bajo la administración de fibratos y otros hipolipemiantes,
+casos de toxicidad muscular, incluyendo raramente casos de rabdomiolisis. La incidencia de
+estos trastornos aumenta en caso de hipoalbuminemia e insuficiencia renal previa. Se
+sospechará toxicidad muscular en pacientes que presenten mialgia difusa, miositis,
+calambres, debilidad muscular y/o elevaciones marcadas de CPK (superiores a 5 veces el
+valor normal). En tales casos, se suspenderá el tratamiento con fenofibrato.
+El riesgo de desarrollar rabdomiolisis puede aumentar en pacientes predispuestos a
+miopatias y/o rabdomiolisis, incluyendo a mayores de 70 años, historial personal o familiar
+de trastornos musculares hereditarios, insuficiencia renal, hipoalbuminemia, hipotiroidismo
+y a los que ingieren grandes cantidades de alcohol. Deberá tenerse especial precaución con
+estos pacientes y sopesar cuidadosamente la relación entre los posibles beneficios y los
+riesgos de la terapia con fenofibrato.
+El riesgo de toxicidad muscular puede aumentar cuando el medicamento se administra en
+asociación con otros fibratos o con inhibidores de la HMG-CoA reductasa, especialmente
+en caso de existir trastornos musculares anteriores. En consecuencia, la co-prescripción de
+fenofibrato con estatinas deberá reservarse a aquellos pacientes que presenten una grave
+dislipidemia asociada a un alto riesgo cardiovascular pero sin antecedentes de afecciones
+musculares Esta combinación terapéutica se usará con precaución y se vigilará atentamente
+cualquier signo de toxicidad muscular.
+Función Renal: El tratamiento deberá interrumpirse cuando los niveles de creatinina sean
+superiores al 50% del límite superior del valor normal.Se recomienda tener en cuenta los
+niveles de creatinina durante los 3 primeros meses del tratamiento.
+         Este medicamento contiene lactosa. Por lo tanto los pacientes con problemas hereditarios de
+intolerancia a la galactosa, con déficit de Lapp lactasa o malabsorción de glucosa-galactosa
+no deben tomar este medicamento.
+ 4.5.     Interacción con con otros medicamentos y otras formas de interacción:
+Anticoagulantes orales: El fenofibrato potencia el efecto de los anticoagulantes orales y
+puede incrementar el riesgo de hemorragia. Se recomienda reducir en un tercio la dosis de
+los anticoagulantes al iniciar el tratamiento con fenofibrato e ir ajustando gradualmente la
+dosis, si fuese necesario, en función de los controles INR (International Normalised Ratio).
+Por lo que no se recomienda esta asociación.
+Ciclosporina: Se han observado algunos casos graves de deterioro de la función renal,
+aunque reversibles, durante el tratamiento concomitante de fenofibrato y ciclosporina. Se
+controlará pues con especial atención la función renal de estos pacientes y se suspenderá el
+tratamiento con fenofibrato en caso de grave alteración de los parámetros biológicos.
+Inhibidores de la HMG-CoA reductasa y otros fibratos: El riesgo de toxicidad muscular
+grave aumenta cuando el fenofibrato es utilizado en asociación con inhibidores de la HMG-
+CoA reductasa o con otros fibratos. Esta asociación terapéutica debe utilizarse con
+precaución y se vigilará atentamente cualquier signo de toxicidad muscular (ver apartado
+4.4.)
+Enzimas del P450 citocromo: Estudios in vitro con microsomas de hígado humano indican
+que tanto el fenofibrato como el ácido fenofíbrico no son inhibidores del citcromo (CYP) P
+450 isoformas CYP3A4, CYP2D6, CYP2E1, o CYP1A2. Son inhibidores con baja
+intensidad del CYP2C19 y del CYP2A6, inhibidores con baja a moderada intensidad del
+CYP2C9 a concentraciones terapéuticas.
+ 4.6.    Embarazo y lactancia:
+No se dispone de datos sobre el uso del fenofibrato en mujeres embarazadas.
+Los estudios en animales no demostraron ningún efecto teratógenico. Los efectos
+embriotóxicos aparecen a las dosis de toxicidad materna (ver 5.3). El riesgo potencial para
+los humanos no es conocido. Por lo tanto, Secalip deberá ser administrado durante el
+embarazo sólo tras una cuidadosa valoración de la relación beneficio / riesgo.
+No hay datos sobre la excreción del fenofibrato o de sus metabolitos en la leche materna.
+Por lo tanto, no se empleará Secalip en madres en periodo de lactancia
+ 4.7     Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria:
+         Secalip no influye sobre la capacidad para conducir vehículos y utilizar maquinaria.
+ 4.8.    Reacciones adversas:
+Las frecuencias se han definido de la siguiente forma: muy frecuente (>1/10), frecuente
+(>1/100, <1/10), poco frecuente (>1/1.000, <1/100), rara (>1/10.000, <1/1.000), muy rara
+(<1/10.000), incluyendo informes aislados.
+         Trastornos gastrointestinales:
+                                                                                                        MINISTERIO
+Frecuentes: trastornos digestivos, gástricos o intestinales (dolor abdominal, nauseas,
+vómitos, diarrea, flatulencia) de moderada intensidad
+Poco frecuentes: pancreatitis*
+ Trastornos hepatobiliares :
+Frecuentes: Se ha observado en algunos pacientes elevaciones moderadas del nivel de las
+transaminasas séricas (ver precauciones especiales de empleo.)
+Poco frecuentes: desarrollo de cálculos biliares
+Muy raros: episodios de hepatitis. En caso de aparición de síntomas indicativos de hepatitis
+(tales como ictericia, prurito) se deben realizar nuevos análisis clínicos para su verificación
+y se suspenderá el tratamiento con fenofibrato si fuese necesario (ver advertencias y
+precauciones)
+ Trastornos del tejido de la piel y subcutáneos:
+Frecuentes: rash, prurito, urticaria o reacciones de fotosensibilidad
+Raros: alopecia
+Muy raros: fotosensibilidad cutánea con eritema, vesiculación o nodulación de las partes de
+la piel expuestas a los rayos solares o a la luz UV artificial (lámparas solares) en ciertos
+casos individuales (incluso varios meses después de la suspensión del tratamiento)
+ Trastornos musculares, de los tejidos conjuntivos y de los huesos:
+Raros: mialgia difusa, miositis, calambres musculares y debilidad muscular
+Muy raros: rabdomiolisis
+ Trastornos cardíacos y vasculares
+Poco frecuentes: tromboembolismo (tromboembolismo pulmonar, trombosis venosa
+profunda)*.
+ Trastornos del sistema linfático y sanguíneo:
+Raros: disminuciones de las tasas de hemoglobina y leucocitos
+ Trastornos del sistema nervioso:
+Raros: astenia sexual, cefalea
+ Trastornos respiratorios, torácicos y mediastínicos
+Muy raros: neumopatías intersticiales
+ Variaciones en los análisis de laboratorio:
+Poco frecuentes: aumentos de las tasas séricas de creatinina y urea
+ * En el estudio FIELD, ensayo controlado aleatorio con placebo realizado con 9795
+pacientes con diabetes mellitus tipo 2, se observó un aumento de casos de pancreatitis,
+estadísticamente significativo, en los pacientes tratados con fenofibrato versus los pacientes
+tratados con placebo (0,8% versus 0,5%; p = 0,031). En el mismo estudio, se observó un
+aumento en la incidencia de embolismo pulmonar, estadísticamente significativo (0,7% en
+el grupo placebo versus 1,1% en el grupo fenofibrato; p = 0,022) y un aumento de
+trombosis venosa profunda, estadísticamente no significativo (placebo: 1,0 % [48/4900
+pacientes] versus fenofibrato 1.4% [67/4895 pacientes]; p = 0,074).
+ 4.9.    Sobredosificación:
+No se ha relatado ningún caso de sobredosificación. No se conoce ningún antídoto
+específico. En caso de sobredosificación, recurrir al tratamiento sintomático e instaurar las
+medidas de soporte necesarias. El fenofibrato no puede ser eliminado por hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"       Agentes hipolipidemiantes/ Reductores de las tasas de colesterol y triglicéridos /
+Fibratos.
+Código ATC: C10 AB 05
+El fenofibrato es un derivado del ácido fíbrico cuyo efecto sobre los lípidos en humanos se
+realiza mediante la activación del receptor de la actividad proliferativa de los peroxisomas
+""Peroxisome Proliferator Activated Receptor type  = PPAR"".
+        Gracias a la activación del PPAR, el fenofibrato hace aumentar la lipolisis y la
+eliminación de las partículas aterogénicas ricas en triglicéridos del plasma, activando la
+lipoproteín lipasa y reduciendo la producción de la apoproteína CIII.
+        La activación del PPAR favorece también el aumento de la síntesis de las apoproteínas AI
+y AII.
+        Ambos efectos del fenofibrato sobre las lipoproteínas conducen a la reducción de las
+fracciones de baja y muy baja densidad (VLDL y LDL) que contienen la liproproteína B y a
+un aumento de la fracción lipoproteínica de alta densidad (HDL) que contiene las
+apoproteínas AI y AII.
+Además, mediante la modulación de la síntesis y del catabolismo de las VLDL, el
+fenofibrato aumenta el aclaramiento de las LDL, reduciendo los niveles de partículas
+pequeñas y densas de las LDL, que suelen estar elevados en los fenotipos de lipoproteínas
+aterogénicas, trastorno común en los pacientes con riesgo cardiovascular.
+Durante los ensayos clínicos llevados a cabo con fenofibrato, el nivel de colesterol total
+disminuyó entre el 20 y el 25%, él de los triglicéridos entre un 40 y un 55% y él del HDL-
+colesterol aumentó entre un 10 y un 30%.
+En los pacientes hipercolesterolémicos, los niveles de LDL-colesterol disminuyeron entre
+un 20 y un 35%, y el efecto global sobre el colesterol dio como resultado una disminución
+de los cocientes colesterol total / colesterol HDL, LDL-colesterol / HDL-colesterol, o Apo
+B / Apo AI, todos ellos indicadores del riesgo aterógeno.
+Debido a estos efectos sobre el LDL-colesterol y sobre los triglicéridos, el tratamiento con
+fenofibrato puede ser beneficioso en pacientes hipercolesterolémicos con o sin
+hipertrigliceridemia asociada, incluidas las hiperlipoproteinemias secundarias tales como la
+de la diabetes mellitus de tipo 2. Actualmente, no hay ningún resultado disponible de
+ensayos clínicos controlados a largo plazo que demuestre la eficacia del fenofibrato en la
+prevención primaria o secundaria de las complicaciones de la arteriosclerosis.
+Los depósitos de colesterol extravasculares (xantomas tendinosos y tuberosos) pueden
+sufrir, bajo tratamiento con fenofibrato, una reducción importante e incluso una
+desaparición total.
+Pacientes con elevados niveles de fibrinógeno tratados con fenofibrato presentaron una
+reducción significativa de este parámetro, igual que aquellos que tenían una elevada tasa de
+Lp(a). Otros marcadores de la inflamación como la Proteína C Reactiva disminuyeron con
+el tratamiento con fenofibrato.
+El efecto uricosúrico del fenofibrato conduce a la reducción en un 25% aproximadamente
+del nivel de ácido úrico, reducción que puede beneficiar a los pacientes dislipidémicos con
+hiperuricemia.
+Se ha demostrado un efecto antiagregante plaquetario del fenofibrato en animales, y
+también en el hombre en el curso de un estudio clínico. Se manifiesta por una disminución
+de la agregación plaquetaria inducida por ADP, ácido araquidónico y epinefrina.
+ 5.2.   Propiedades farmacocinéticas:
+Secalip 200 mg cápsulas contiene 200 mg de fenofibrato micronizado.
+- Absorción:
+El producto inalterado no se encuentra a nivel plasmático. El metabolito plasmático
+mayor es el ácido fenofíbrico.
+Se alcanza una concentración plasmática máxima al cabo de 5 horas de su ingestión. La
+concentración plasmática media es del orden de 15 g/ml para una posología de una
+cápsula de Secalip 200 mg. o de 3 cápsulas de fenofibrato 100 mg/día. Esta tasa es
+estable a lo largo de los tratamientos prolongados.
+El ácido fenofíbrico está fuertemente asociado a la albúmina plasmática y puede
+desplazar las antivitaminas K de los lugares de fijación proteínicos y potenciar su efecto
+anticoagulante.
+- Semi-vida plasmática:
+La semi-vida plasmática de eliminación del ácido fenofíbrico es del orden de 20 horas.
+- Metabolismo y excreción:
+La eliminación se realiza esencialmente por vía urinaria: 70% en 24 horas, 88% en 6
+días, al final de los cuales alcanza el 93% (orina y heces).
+El fenofibrato se elimina en forma de ácido fenofíbrico y de su derivado
+glucuroconjugado.
+Estudios cinéticos, después de dosis única y tratamiento continuo, permiten afirmar que
+el producto no se acumula.
+El ácido fenofíbrico no se elimina en el curso de la hemodiálisis.
+ 5.3.     Datos preclínicos sobre seguridad:
+Los estudios de toxicidad crónica no presentaron datos relevantes en cuanto a la toxicidad
+específica del fenofibrato. Los estudios de mutagenicidad del fenofibrato fueron negativos.
+Se han observado a altas dosis, en ratas y ratones, tumores hepáticos atribuibles a la
+proliferación de peroxisomas. Estos cambios son específicos a los roedores, no habiéndose
+observado éstos en otras especies animales. No tienen relevancia para su uso terapéutico en
+humanos.
+Estudios realizados en ratones, ratas y conejos no han puesto en evidencia ningún efecto
+teratogénico. Se han observado efectos de embriotoxicidad a las dosis de toxicidad
+materna. A altas dosis se observaron una prolongación del periodo de gestación y
+dificultades durante el alumbramiento. No se ha detectado ningún efecto sobre la fertilidad.
+ "
+6.       DATOS FARMACÉUTICOS
+	       Lauril sulfato de sodio
+Lactosa
+                                                                                                        MINISTERIO
+Almidón pregelatinizado
+Polivinilpirrolidona reticulada
+Estearato de magnesio
+Cápsulas duras de gelatina: dióxido de titanio (E171), óxido de hierro (E 172) y gelatina.
+ 6.2.    Incompatibilidades:
+        No procede / sin objeto
+ 6.3.    Período de validez:
+        3 años.
+ 6.4.    Precauciones especiales de conservación:
+        No precisa condiciones especiales de conservación.
+ 6.5.    Naturaleza y contenido del recipiente:
+        Caja de 30 cápsulas en plaqueta termoformada (PVC/Alu).
+ 6.6.    Instrucciones de uso/manipulación:
+        No se precisan instrucciones especiales.
+
+	Prospectos de medicamentos.

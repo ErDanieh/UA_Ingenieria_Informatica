@@ -1,0 +1,276 @@
+HALOPERIDOL PRODES 10 10MG 30 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA
+ 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	HALOPERIDOL PRODES Gotas orales
+Por ml:
+Haloperidol (DCI)...2 mg
+Excipientes (ver apartado 6.1)
+El gotero dosifica 20 gotas por ml, por lo que cada gota contiene 0,1 mg de haloperidol.
+ 
+3.     FORMA FARMACÉUTICA
+	
+4.     DATOS CLÍNICOS
+	Adultos
+Dosis inicial: la dosis inicial recomendada en adultos con síntomas moderados, en
+ancianos o en pacientes debilitados es de 0,5 a 2 mg dos o tres veces al día. En adultos
+con síntomas severos y/o trastornos crónicos o resistentes se recomienda iniciar el
+tratamiento con la dosis de 3 a 5 mg dos o tres veces al día. En ocasiones, se requieren
+dosis más altas para obtener una respuesta terapéutica rápida. La dosis de
+mantenimiento es de 1-15 mg diarios repartidos en 2 ó 3 tomas al día.
+En la esquizofrenia crónica o en el tratamiento de la psicosis aguda, las dosis necesarias
+son superiores a las indicadas anteriormente para el resto de las indicaciones. La dosis
+inicial recomendada es de 15 mg/día que se puede incrementar un 50% cada semana
+hasta la desaparición de los síntomas. En los casos especialmente resistentes esta dosis
+puede alcanzar los 60-100 mg/día repartida en 2-3 tomas diarias. No existen suficientes
+datos clínicos que demuestren la seguridad de la utilización a largo plazo de dosis
+superiores a 100 mg/día.
+Niños
+La dosis recomendada en niños es de 0,05 mg/kg/día. En niños mayores de 5 años la
+dosis media es de 0,5 mg/12 h (5 gotas dos veces al día) y en menores de 5 años es de
+0,25 mg/12 h (aprox. 2 gotas dos veces al día). En caso necesario, la dosis se puede
+ajustar de forma similar a la descrita en adultos.
+4.3.      Contraindicaciones
+-   Pacientes con depresión severa del sistema nervioso central o estados comatosos.
+-   Hipersensibilidad a haloperidol o cualquiera de los componentes de la formulación.
+-   Pacientes con enfermedad de Parkinson.
+-   Administración simultánea de bebidas alcohólicas.
+4.4.      Advertencias y precauciones especiales de empleo
+El haloperidol debe administrarse con precaución en las siguientes situaciones:
+-   Pacientes en tratamiento con litio (Ver apartado 4.5. Interacciones con con otros medicamentos y otras formas de interacción).
+-   Pacientes con enfermedad cardiovascular severa, debido al riesgo de hipotensión y/o
+desencadenamiento de dolor anginoso. En caso de ser necesario un tratamiento
+vasopresor, no debe utilizarse adrenalina debido a que el haloperidol antagoniza su
+actividad y puede producir hipotensión paradójica.
+-   Pacientes con historia conocida de epilepsia y otras alteraciones predisponentes a las
+convulsiones, debido a que el haloperidol puede disminuir el umbral convulsivo. Si
+estuviera indicado debe mantenerse concomitantemente un tratamiento
+anticonvulsivante adecuado.
+-   Pacientes hipertiroideos con tirotoxicosis debido al riesgo de neurotoxicidad (rigidez,
+incapacidad para la marcha o el habla) en estos pacientes durante el tratamiento con
+antipsicóticos.
+-   Pacientes con antecedentes de síndrome neuroléptico maligno debido a que se han
+descrito recurrencias con la reintroducción del tratamiento antipsicótico.
+-   Pacientes diagnosticados de un trastorno bipolar: la administración de haloperidol
+puede favorecer la aparición de un episodio depresivo.
+-   En los pacientes que requieran un tratamiento con antiparkinsonianos para el control
+de los efectos extrapiramidales ocasionados por haloperidol puede ser necesario
+continuar la administración del fármaco antiparkinsoniano durante un periodo de
+tiempo después de la suspensión del haloperidol para prevenir la reaparición de estos
+síntomas.
+-   No se aconseja la conducción de vehículos ni el manejo de maquinaria peligrosa o de
+precisión durante el tratamiento.
+-   No se recomienda la exposición al sol durante el tratamiento ya que pueden aparecer
+reacciones de fotosensibilidad
+-   Por sus efectos anticolinérgicos pueden agravarse patologías como el glaucoma de
+ángulo cerrado, la hipertrofia prostática o la retención urinaria.
+El haloperidol puede alterar los valores de las siguientes determinaciones analíticas:
+incremento de transaminasas, fosfatasa alcalina, bilirrubina, gamma-glutamiltransferasa,
+litio, prolactina, TSH-RH y testosterona. Incremento o disminución de TSH. La
+administración de haloperidol puede interferir con los resultados de los
+electrocardiogramas, produciéndose una prolongación del intervalo QT y cambios
+compatibles con los descritos en las torsades de pointes.
+Grupos especiales de pacientes
+Se recomienda extremar la precaución en los niños (fundamentalmente si existe una
+infección aguda o deshidratación) ya que la aparición de reacciones distónicas graves es
+especialmente importante en esta edad. Puesto que haloperidol se metaboliza en el
+hígado, se recomienda precaución en pacientes con enfermedad hepática, ajustando la
+dosis según el grado de funcionalismo hepático. Asimismo, debe administrarse con
+precaución en pacientes ancianos debido a su mayor sensibilidad a la sedación e
+hipotensión, así como en enfermedades cardiovasculares graves y en la insuficiencia
+renal. En este último grupo de pacientes, se recomienda ajustar la dosis de haloperidol
+en base al grado de disfunción renal.
+El ajuste de la dosis de haloperidol en estos grupos especiales de pacientes se realizará
+según criterio clínico.
+Advertencias sobre excipientes
+HALOPERIDOL 10 PRODES COMPRIMIDOS contiene tartrazina, que puede causar
+reacciones de tipo alérgico, incluida el asma, especialmente en pacientes alérgicos al
+ácido acetilsalicílico.
+4.5.   Interacciones con con otros medicamentos y otras formas de interacción
+-   Fármacos depresores del S.N.C.: el haloperidol puede potenciar los efectos de otros
+depresores del S.N.C. como opiáceos, barbitúricos, anestésicos y alcohol.
+-   Litio: aunque en raras ocasiones, se ha descrito la aparición de un síndrome
+encefalopático agudo tras la utilización concomitante de litio y haloperidol,
+fundamentalmente cuando la concentración sérica de litio es elevada. La
+administración simultánea con litio puede producir fiebre y alteraciones
+neuromusculares con deterioro del estado de conciencia.
+Anticoagulantes: se ha descrito que haloperidol antagoniza la actividad anticoagulante
+-
+de la fenidiona.
+-   Anticolinérgicos: el tratamiento concomitante con haloperidol y fármacos
+anticolinérgicos, entre los cuales se incluyen antiparkinsonianos, puede producir un
+incremento de la presión intraocular.
+-   Metildopa: se ha descrito la aparición de demencia en pacientes que reciben
+tratamiento concomitante con metildopa y haloperidol.
+-   Difenilhidantoína, carbamazepina, fenobarbital, rifampicina y tabaco: inducen el
+metabolismo microsómico del haloperidol, con un incremento de su aclaramiento y
+una disminución de las concentraciones plasmáticas de este fármaco.
+-   Levodopa: se antagonizan mútuamente los efectos de haloperidol y levodopa.
+-   Anfetaminas: los efectos estimulantes de las anfetaminas pueden disminuir debido al
+bloqueo alfaadrenérgico del haloperidol. El efecto antipsicótico del haloperidol también
+puede disminuir si se administra simultáneamente con anfetaminas.
+- Epinefrina: la administración simultánea puede bloquear los efectos alfaadrenérgicos
+de la epinefrina, pudiendo dar lugar a hipotensión y taquicardia graves.
+-   Fármacos que producen reacciones extrapiramidales: pueden aumentar la frecuencia
+y la gravedad de los efectos extrapiramidales asociados al haloperidol.
+-   El haloperidol puede potenciar la toxicidad de diazóxido así como el efecto y la
+toxicidad de los antidepresivos tricíclicos.
+-   Alcohol etílico: se ha registrado una potenciación de su toxicidad y posible aparición
+de hipotensión.
+-   Fluoxetina: se ha visto una potenciación mutua de toxicidad, con aparición de
+síntomas extrapiramidales.
+ 4.6.   Embarazo y lactancia
+Algunos estudios realizados en roedores han demostrado un aumento de la incidencia de
+resorción fetal, retraso en alumbramiento y muerte neonatal con dosis de 2 a 20 veces
+superiores a la dosis máxima habitual para humanos de haloperidol.
+No se han realizado estudios controlados con haloperidol en mujeres embarazadas. Sin
+embargo, se han descrito casos de malformaciones de extremidades (focomelia) en la
+descendencia de mujeres tratadas con haloperidol y otros fármacos potencialmente
+teratogénicos durante el primer trimestre de gestación. Aunque la relación causal con el
+fármaco no ha sido establecida, sólo se administrará haloperidol a mujeres gestantes si
+es claramente necesario y el beneficio esperado justifica el riesgo potencial para el feto.
+El haloperidol se excreta en la leche materna, por lo que la lactancia materna está
+contraindicada durante el tratamiento con haloperidol debido al riesgo de aparición de
+efectos extrapiramidales en el recién nacido.
+4.7.   Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+El haloperidol puede producir un deterioro de las habilidades físicas y/o mentales
+requeridas para realizar determinadas actividades, por lo que los pacientes en
+tratamiento con haloperidol deben abstenerse de conducir o utilizar maquinaria peligrosa.
+4.8.   Reacciones adversas
+El perfil de seguridad de haloperidol es similar al de otros antipsicóticos típicos
+(fenotiazinas, tioxantenos, butirofenonas, difenilbutilpiperidinas). En general, los
+acontecimientos adversos son frecuentes aunque de intensidad moderada, pudiendo
+interferir con el cumplimiento terapéutico por parte de paciente. La mayoría de estos
+acontecimientos derivan del propio mecanismo de acción.
+S.N.C.: son las más frecuentes.
+-   Alteraciones extrapiramidales (parkinsonismo, acatisia, distonía) (10-25%): la
+frecuencia y severidad de estas alteraciones suelen estar relacionadas con la dosis y
+el inicio del tratamiento, revertiendo al disminuir la dosis o con el tratamiento con
+fármacos anticolinérgicos o antiparkinsonianos. No obstante, en ocasiones, pueden
+presentarse con dosis bajas o persistir en el tiempo, por lo que puede ser necesaria la
+interrupción del tratamiento.
+Como sucede con otros antipsicóticos, el tratamiento con haloperidol puede producir
+un síndrome neuroléptico maligno (<1%) caracterizado por hipertermia, rigidez
+muscular, alteraciones mentales e inestabilidad autónoma que requiere la retirada
+inmediata del fármaco y la administración de un tratamiento de soporte intensivo.
+-   Discinesia tardía (<1%): consiste en la aparición de movimientos rítmicos involuntarios
+de la cara, ojos, lengua, boca o mandíbula que se pueden acompañar de movimientos
+involuntarios del tronco y extremidades. Este síndrome que puede ser irreversible se
+ha descrito, fundamentalmente, durante la administración prolongada del haloperidol y
+en pacientes ancianos, principalmente mujeres, que reciben dosis altas de este
+fármaco.
+-   Convulsiones tónico-clónicas (<1%): el tratamiento con antipsicóticos puede favorecer
+la aparición de anomalías en el electroencefalograma y una disminución del umbral de
+convulsiones, fundamentalmente en pacientes con antecedentes de epilepsia,
+afectación del sistema nervioso central, alteraciones electroencefalográficas,
+convulsiones inducidas por un tratamiento farmacológico o tratamiento
+anticonvulsivante previo. Este riesgo de aparición de convulsiones se incrementa en
+relación con el inicio del tratamiento, las modificaciones bruscas de la pauta de
+dosificación, la administración de dosis elevadas y/o el tratamiento combinado de
+diversos fármacos antipsicóticos. La posibilidad de aparición de convulsiones
+secundarias a estos fármacos está relacionada con el potencial efecto sedante de
+estos fármacos. Debido a la menor potencia para la inducción de sedación y, por lo
+tanto, de aparición de convulsiones secundarias a la administración de haloperidol
+este fármaco se ha recomendado como tratamiento antipsicótico en los pacientes con
+un elevado riesgo de convulsiones.
+-   Otras reacciones adversas neurológicas: frecuencia 10-25%: somnolencia, sedación;
+frecuencia 1-9%: mareos, insomnio.
+Alteraciones hematológicas: los pacientes en tratamiento con haloperidol pueden
+presentar leucopenia o leucocitosis (1-9%) que suelen ser de intensidad moderada y
+reversible; anemia y linfomonocitosis. La agranulocitosis es rara (<1%) y se ha descrito
+con el tratamiento combinado de haloperidol. En los pacientes que reciben un tratamiento
+crónico con haloperidol se recomienda la realización de controles analíticos periódicos
+para detectar la potencial aparición de estas alteraciones analíticas.
+Alteraciones endocrino-metabólicas (<1%): galactorrea, mastodinia, ginecomastia,
+modificación de la líbido, impotencia, hiperglucemia, hipoglucemia, hiponatremia y
+síndrome de secreción inadecuada de la hormona antidiurética (SIADH).
+Alteraciones cardiovasculares (<1%): taquicardia, hipotensión e hipertensión. Raramente
+se han descrito ateraciones del ritmo cardíaco como prolongación del intervalo QT y
+torsades de pointes en relación con la administración de dosis elevadas de haloperidol.
+Alteraciones gastrointestinales (10-25%): anorexia, diarrea, hipersalivación, dispepsia,
+náuseas y vómitos.
+Alteraciones hepatobiliares (1-9%): disfunción hepática con ictericia y eosinofilia en la
+que se sugiere la implicación de una reacción de hipersensibilidad al haloperidol. El inicio
+de esta afectación hepática poco frecuente se suele producir durante las cuatro primeras
+semanas de tratamiento, pudiendo persistir los síntomas varios meses después de la
+interrupción de este fármaco.
+Alteraciones dermatológicas       (1-9%):   lesiones   maculopapulares    y   acneiformes,
+fotosensibilidad y alopecia.
+Alteraciones de la visión: cataratas y retinopatía.
+4.9.   Sobredosificación
+En caso de sobredosificación los síntomas consisten, principalmente, en la aparición de
+reacciones extrapiramidales severas, hipotensión y sedación. También se ha descrito la
+aparición de coma con depresión respiratoria e hipotensión, prolongación del intervalo
+QT y taquicardia ventricular atípica (torsades de pointes).
+El tratamiento de la sobredosificación por haloperidol es sintomático y de mantenimiento.
+Debe realizarse un vaciado gástrico mediante lavado o inducción de la emesis y a
+continuación administrar carbón activado. Mantener la permeabilidad de las vías
+respiratorias, contrarrestar la hipotensión y el shock mediante el uso de líquidos
+intravenosos, albúmina concentrada o plasma. Se pueden administrar vasopresores
+como la norepinefrina, pero no la epinefrina debido a que puede producir una hipotensión
+paradójica, y fármacos anticolinérgicos o antiparkinsonianos para el control de los
+síntomas extrapiramidales.
+No existe un antídoto para la sobredosificación por haloperidol. La diálisis no es eficaz
+para eliminar el exceso de haloperidol en la circulación sistémica.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	El haloperidol tiene una potente actividad antagonista de los receptores opiáceos o
+centrales y posee una leve actividad antagonista de los receptores colinérgicos
+muscarínicos, receptores histamínicos H1, receptores alfaadrenérgicos y serotoninérgicos
+(5-HT1A y 5-HT2).
+Al igual que otros fármacos neurolépticos el haloperidol produce sedación sin sueño, con
+un estado de tranquilidad, controla la agresividad mientras que las alucinaciones y los
+delirios desaparecen gradualmente. Estos efectos se deben fundamentalmente al
+antagonismo de la dopamina aunque las acciones en otros receptores como los
+histamínicos H1 pueden potenciar estas acciones.
+El haloperidol tiene efectos sobre determinados índices neuroendocrinos debido,
+fundamentalmente al bloqueo de los receptores dopaminérgicos a nivel hipotalámico e
+hipofisario. El haloperidol incrementa la secreción de prolactina en humanos, apoyando
+la hipótesis de que la dopamina es la hormona que inhibe la liberación de prolactina en el
+hipotálamo.
+5.2.   Propiedades farmacocinéticas
+El haloperidol se absorbe bien por vía oral, con una biodisponibilidad media del 60-65%.
+El haloperidol se distribuye a todos los tejidos y rápidamente alcanza una concentración
+adecuada en el sistema nervioso central, con un volumen de distribución de 20 l/kg. La
+concentración máxima de haloperidol tras su administración por vía oral se alcanza a las
+2-6 horas(tmax), siendo la concentración terapéutica de haloperidol de 5 a 20 g/l.
+Después de la administración por vía oral el haloperidol sufre un metabolismo de primer
+paso del 40%. La principal vía de metabolismo implica una N-desalquilación oxidativa
+que produce metabolitos piperidínicos y el ácido 4-fluorobenzoilpropiónico. El haloperidol
+también presenta un metabolismo reversible a haloperidol reducido que es menos activo,
+con una actividad aproximadamente del 25% con respecto a la del producto original. El
+aclaramiento del haloperidol reducido es similar al del haloperidol (11,8 ± 2,9 ml/min/kg)
+aunque el volumen de distribución y la semivida de eliminación (67 ± 51 horas) son
+superiores a las del haloperidol, por lo que la semivida de eliminación plasmática de
+haloperidol incrementa con la administración de dosis repetidas (de 3 a 10 días). La
+unión a proteínas de haloperidol es del 92%.
+Haloperidol se excreta fundamentalmente por vía renal (45%), en las heces (15%) y una
+pequeña cantidad por vía biliar. Menos del 1% de haloperidol inalterado se elimina por
+vía renal. La semivida de eliminación plasmática de haloperidol oscila ente 10-38 horas.
+Después de múltiples dosis la semivida aparente puede ser superior y se caracteriza por
+una cinética multiexponencial.
+ 5.3.   Datos preclínicos sobre seguridad
+Haloperidol no ha demostrado un potencial mutagénico en el test de Ames. Aunque la
+administración crónica de fármacos antipsicóticos que producen un aumento de la
+secreción y liberación de prolactina se ha relacionado con un incremento de neoplasias
+mamarias en roedores, ni los ensayos clínicos ni los estudios epidemiológicos realizados
+hasta la fecha han mostrado una asociación entre la administración a largo plazo de
+estos fármacos y un aumento en la incidencia de tumores mamarios en humanos.
+No obstante, y debido a que aproximadamente una tercera parte de los tumores
+mamarios malignos son dependientes de la prolactina, el haloperidol debe utilizarse con
+precaución en pacientes con antecedentes de cáncer de mama.
+ 
+6.     DATOS FARMACÉUTICOS
+	
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	8.     NÚMERO(S) DEL REGISTRO
+HALOPERIDOL 10 PRODES Comprimidos:            55.576
+HALOPERIDOL PRODES Gotas orales:              33.488
+ 
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN
+	10. FECHA DE LA REVISIÓN DEL TEXTO
+Noviembre 2002
+
+	Prospectos de medicamentos.

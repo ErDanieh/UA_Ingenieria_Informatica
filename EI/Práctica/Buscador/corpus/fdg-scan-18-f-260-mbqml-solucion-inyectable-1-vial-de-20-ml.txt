@@ -1,0 +1,364 @@
+FDG Scan [18  F ], 260 MBq/ml solución inyectable, 1 vial de 20 ml
+	Información Basica del medicamento Toda la información del medicamento 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	FDG Scan (18F), 260 MBq/ml, solución inyectable
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Un ml de solución inyectable contiene 260 MBq fludesoxiglucosa (18F) en la fecha y hora de
+calibración.
+Los rangos de actividad por vial van de 260 MBq a 4160 MBq.
+El Fluor-18 decae a Oxígeno-18 estable con una vida media de 109,77 minutos por emisión de
+una radiación de positrones de energía máxima de 634 KeV, seguido de una radiación por
+aniquilación fotónica de 511 KeV
+ Lista de excipientes en 6.1
+ 
+3.     FORMA FARMACÉUTICA
+	Solución inyectable.
+Solución clara e incolora o ligeramente amarilla
+ 
+
+
+4.     DATOS CLÍNICOS
+	"4.1.   Indicaciones terapéuticas
+ Este medicamento es sólo para uso diagnóstico.
+ La fludesoxiglucosa (18F) está indicada para su utilización en tomografía por emisión de
+positrones. (PET).
+ Oncología
+ FDG Scan (18F), 260 MBq/ml está indicado para pacientes sometidos a procedimientos de
+diagnóstico oncológico por imágen, que describen funciones o enfermedades en las que el
+aumento del aporte de glucosa a tejidos u órganos específicos es el objetivo de la prueba. Las
+siguientes indicaciones están suficientemente documentadas:
+ Diagnóstico
+- Caracterización de nódulos pulmonares solitarios
+- Adenopatía metastática cervical de origen desconocido: búsqueda de cáncer primario.
+ Estadificación
+-     Cáncer de pulmón primario, incluyendo la detección de metástasis pulmonares a distancia.
+-     Tumores de cabeza y cuello incluyendo la asistencia para dirigir biopsias
+-     Cáncer de esófago
+-     Cáncer colorrectal recurrente
+-     Linfoma maligno (ver también sección 4.4)
+-     Melanoma maligno Breslow > 1.5 mm o metástasis de nódulos linfáticos durante el primer
+diagnóstico (respecto a metástasis en el cerebro y cámara de coincidencia ver sección 4.4)
+ Monitorización de la respuesta terapéutica
+-    Cánceres de cabeza y cuello
+-    Linfoma maligno (ver también sección 4.4)
+ Detección en caso de sospecha razonable de recidiva
+-     Glioma con alto grado de malignidad (III ó IV)
+-     Cánceres de cabeza y cuello
+-     Cáncer de tiroides en pacientes con aumento de los niveles séricos de tiroglobulina y
+gammagrafia de cuerpo entero con 131I negativa
+-     Cáncer de pulmón primario
+-     Cáncer colorrectal
+-     Linfoma maligno (ver también sección 4.4)
+-     Melanoma maligno
+ Cardiología
+En la indicación cardiológica, el objetivo del diagnóstico es el tejido miocárdico viable que capta
+glucosa pero está hipo-perfundido (esto último debe valorarse con antelación usando técnicas de
+imagen apropiadas para el torrente sanguíneo).
+ -     La evaluación de la viabilidad miocárdica en pacientes con función ventricular izquierda
+dañada gravemente que sean candidatos para revascularización, cuando las modalidades de
+imagen convencionales no son concluyentes.
+ Neurología
+El objetivo del diagnóstico en la indicación neurológica es el hipometabolismo de glucosa
+interictal.
+ -     Localización de foco epileptogénico en la evaluación prequirúrgica de epilepsia temporal
+parcial.
+ 4.2 Posología y forma de administración
+ Posología
+La radiactividad recomendada para adultos es de 100 a 400 MBq (dependiendo del peso del
+paciente y del tipo de cámara utilizada), administrada mediante inyección intravenosa directa.
+ Los datos clínicos disponibles sobre seguridad y eficacia diagnóstica del producto en pacientes
+menores de 18 años son escasos. Por tanto, el uso en Oncología Pediátrica se debe valorar
+cuidadosamente.
+ En niños y en adolescentes, la actividad a administrar es una fracción de la actividad
+recomendada para adultos.
+Esta actividad puede determinarse a partir de la actividad recomendada para adultos en base a la
+masa corporal, usando los siguientes coeficientes de multiplicación:
+     3 kg = 0,10    12 kg = 0,32     22kg = 0,50      32 kg = 0,62      42 kg = 0,78      52-54 kg = 0,90
+4 kg = 0,14    14 kg = 0,36     24 kg = 0,53     34 kg = 0,64      44 kg = 0,80      56-58 kg = 0,92
+6 kg = 0,19    16 kg = 0,40     26 kg = 0,56     36 kg = 0,66      46 kg = 0,82      60-62 kg = 0,96
+8 kg = 0,23    18 kg = 0,44     28 kg = 0,58     38 kg = 0,68      48 kg = 0,85      64-66 kg = 0,98
+10 kg = 0,27   20 kg = 0,46     30 kg = 0,60     40 kg = 0,70      50 kg = 0,88       68 kg = 0,99
+Método de administración
+Preparación del paciente
+ Administración de FDG Scan (18F), 260 MBq/ml y exploración PET
+La actividad de FDG tiene que medirse con un calibrador inmediatamente antes de la inyección.
+La inyección debe aplicarse intravenosamente para evitar irradiación como resultado de una
+extravasación local, así como defectos en las imágenes.
+La emisión de imágenes comienza normalmente de 45 a 60 minutos después de la inyección de
+fludesoxiglucosa (18F).
+También se puede realizar un PET con fludesoxiglucosa (18F) de dos a tres horas después de la
+administración, con tal de proporcionar una actividad residual suficiente para un adecuado cálculo
+estadístico y así se reduce la actividad de fondo.
+Si se requiere, se pueden repetir las exploraciones a cortos intervalos de tiempo.
+ 4.3.   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes
+ 4.4.   Advertencias y precauciones especiales de empleo
+ Indicación de la exploración
+Para todos los pacientes, la exposición a la radiación debe estar justificada en función del
+diagnóstico esperado, conseguido con la mínima dosis de radiación posible.
+ En pacientes con función renal disminuida, se requiere una indicación muy cuidadosa ya que, en
+ellos, es posible un aumento de exposición a la radiación.
+Debe considerarse que la dosis efectiva por MBq es más alta en niños que en adultos (ver 4.5
+Dosimetría).
+ Preparación del paciente
+FDG Scan (18F9, 260 MBq/ml debe administrarse a pacientes suficientemente hidratados que
+lleven un mínimo de 4 horas de ayuno, para obtener un aumento máximo de actividad, ya que la
+captación de glucosa en las células es limitada (""saturación cinética""). La cantidad de líquido no
+deberá limitarse (deben evitarse bebidas que contengan azúcar).
+Para obtener imágenes de mejor calidad y reducir la exposición a la radiación de la vejiga, se
+pedirá a los pacientes que ingieran grandes cantidades de líquido y que vacíen la vejiga antes y
+después de la prueba PET.
+ - Oncología y neurología
+Para evitar la hiperfijación del trazador en los músculos, se recomienda que los pacientes eviten
+cualquier actividad física intensa antes de la exploración PET y que permanezcan en reposo entre
+la inyección y la exploración y durante la obtención de las imágenes (los pacientes deben estar
+tumbados cómodamente sin leer ni hablar).
+El metabolismo de la glucosa depende de la actividad cerebral, por lo que las exploraciones
+neurológicas se deben realizar después de un periodo de relajación en una habitación oscura y con
+bajo nivel de ruido.
+ Se debe realizar una prueba de glucosa en sangre antes de la administración, ya que una
+hiperglucemia puede producir una disminución en la sensibilidad de FDG Scan (18F), 260
+MBq/ml, especialmente cuando la glucemia es mayor de 8 mmol/l. Análogamente, debe evitarse
+la realización de un PET con fludesoxiglucosa (18F) en sujetos que presenten diabetes
+incontrolada.
+ -Cardiología
+Como el consumo de glucosa en el miocardio es insulino-dependiente, para una exploración se
+recomienda una dosis de glucosa de 50 g aproximadamente una hora antes de la administración de
+FDG Scan (18F), 260 MBq/ml. Como alternativa y especialmente en pacientes con diabetes
+melitus, el nivel de azúcar de la sangre puede ajustarse con una infusión combinada de insulina y
+glucosa (Insulina-Glucosa-Clamp) si fuese necesario.
+ Interpretación de las imágenes FDG PET
+Las enfermedades infecciosas y/o inflamatorias así cómo los procesos regenerativos después de
+cirugía pueden dar como resultado una captación significativa de FDG y por lo tanto pueden
+conducir a resultados falsos positivos.
+ Los resultados falsos positivos o falsos negativos de FDG PET no pueden excluirse después de
+radioterapia en los primeros 2-4 meses. Si la indicación clínica demanda un diagnóstico más
+precoz por imagen FDG PET, el motivo de la prueba FDG PET debe ser documentado
+razonablemente.
+ Es óptimo un retraso de al menos 4-6 semanas tras la última administración de quimioterapia, en
+particular para evitar resultados falsos negativos. Si la indicación clínica demanda un diagnóstico
+más precoz, por imagen FDG PET, el motivo de la prueba FDG PET debe ser documentado
+razonablemente.
+ En caso de régimen de quimioterapia con ciclos más cortos de 4 semanas, la exploración FDG
+PET debe realizarse antes de empezar un nuevo ciclo.
+ En linfoma de bajo grado y sospecha de recurrencia de cáncer de ovario recurrente, sólo tienen
+que considerarse los valores predictivos positivos debido a una sensibilidad limitada de FDG
+PET.
+ La fludesoxiglucosa (18F) no es efectiva para detectar metástasis cerebral.
+ Cuando se realiza un PET (tomografía con emisión de positrones) con cámaras de coincidencia, la
+sensibilidad se reduce en comparación con un PET propiamente dicho, especialmente en lesiones
+menores de 1 cm.
+ Se recomienda que las imágenes de fludesoxiglucosa (18F) se interpreten en relación con otras
+modalidades de imágenes anatómicas por tomografía (por ejemplo TAC, ultrasonido, RM). La
+combinación de imágenes funcionales fludesoxiglucosa (18F)-PET con imágenes morfológicas,
+por ejemplo PET-TAC, pueden incrementar la especificidad y la sensibilidad, y se recomienda en
+tumores de páncreas, cabeza y cuello, linfoma, melanoma, cáncer de pulmón y cáncer colorrectal
+concurrente.
+ Advertencias generales
+Se recomienda evitar cualquier contacto cercano entre el paciente y los niños durante las 12
+horas siguientes a la inyección
+ Los radiofármacos deben ser recibidos, utilizados y administrados exclusivamente por personal
+autorizado en centros asistenciales autorizados. La recepción, almacenamiento, utilización,
+transporte y eliminación están sujetos a las normas y licencias adecuadas de los organismos
+oficiales competentes.
+ Los radiofármacos deben ser preparados por el usuario de manera que satisfagan tanto los
+requisitos de seguridad radiológica como de calidad farmacéutica.
+ FDG Scan (18F), 260 MBq/ml debe almacenarse y manejarse en un blindaje adecuado para
+proteger a los pacientes y al personal de hospital tanto como sea posible. En particular, se
+recomienda protegerse uno mismo de los efectos de la radiación beta+ utilizando una jeringa con
+un blindaje apropiado cuando se realicen las extracciones del vial y las inyecciones.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+ Todos los medicamentos que modifiquen las concentraciones séricas de glucosa pueden afectar a
+la sensibilidad de la exploración (p. ej., corticosteroides, valproato, carbamacepina, fenitoína,
+fenobarbital y catecolaminas).
+ La administración de factores estimulantes de colonias (CSFs) produce un incremento de la
+captación de fludesoxiglucosa (18F) en la médula ósea y el bazo durante varios días. Esto debe
+tenerse en cuenta para la interpretación de la imagen PET. Separando la terapia CSF de la imagen
+PET por un intervalo de al menos 5 días se puede disminuir esta interferencia.
+ La administración de glucosa e insulina puede influir en el flujo de fludesoxiglucosa (18F) hacia el
+interior de las células. En el caso de altos niveles de glucosa en sangre así como bajos niveles de
+insulina en plasma, el flujo de fludesoxiglucosa (18F) en órganos y tumores se reduce.
+ 4.6.   Embarazo y lactancia
+ No hay experiencia clínica con el uso de fludesoxiglucosa (18F) en mujeres embarazadas.
+ Cuando sea necesario administrar radiofármacos a mujeres en edad fértil, siempre se buscará
+información sobre embarazo. Toda mujer que presente un retraso en la menstruación debe
+considerarse que está embarazada hasta que se demuestre lo contrario. Ante cualquier duda, es
+esencial reducir la exposición a la radiación al mínimo estrictamente necesario para obtener la
+información clínica necesaria. Deben considerarse otros métodos que no impliquen el uso de
+radiaciones ionizantes.
+Las exploraciones con radionúclidos realizadas en mujeres embarazadas también implican dosis
+de radiación al feto. La administración de una actividad de 400 MBq de FDG Scan (18F), 260
+MBq/ml supone una dosis absorbida en útero de 8,4 mGy. En estos rangos de dosis, no son
+esperables efectos letales ni la inducción de malformaciones, retrasos en el crecimiento o
+desórdenes funcionales, sin embargo, el riesgo de inducción de cáncer y de defectos hereditarios
+puede incrementarse.
+                                                                                                        MINISTERIO
+La FDG Scan (18F), 260 MBq/ml se excreta en la leche humana. Antes de administrar
+fludesoxiglucosa (18F) a una mujer que está amamantando, se debe considerar si la investigación
+puede ser razonablemente retrasada hasta que la madre haya cesado la alimentación materna. Si la
+administración durante la lactancia es inevitable, debe interrumpirse durante al menos 12 horas y
+desecharse la leche materna extraída durante ese periodo. Si fuera apropiado, puede extraerse
+leche antes de la administración de FDG Scan (18F), 260 MBq/ml. Además, por razones de
+radioprotección, se recomienda evitar un contacto estrecho entre la madre y el niño durante las
+primeras 12 horas siguientes a la inyección.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ 4.8.   Reacciones adversas
+ No se han observado efectos no deseados después de la administración de fludesoxiglucosa (18F)
+hasta la fecha.
+Ya que la cantidad de sustancia administrada es muy baja, el mayor riesgo es causado por la
+radiación. La exposición a radiación ionizante puede conllevar la aparición de cáncer o el
+desarrollo de defectos hereditarios.
+En la mayoría de las exploraciones de Medicina Nuclear se utilizan niveles de radiación (dosis
+efectiva) inferiores a 20 mSv. Estos efectos se esperan con baja probabilidad. Después de la
+administración de las actividades máximas recomendadas de este producto de FDG-
+fludesoxiglucosa (18F), la dosis efectiva es aproximadamente 7,6 mSv.
+ 4.9.   Sobredosis
+ Es poco probable que ocurra una sobredosis en sentido farmacológico debido a las dosis
+utilizadas para objetivos diagnósticos.
+ Si se administra una sobredosis de fludesoxiglucosa (18F), la dosis administrada al paciente debe
+reducirse aumentando la eliminación del radiofármaco tanto como sea posible, mediante diuresis
+forzada y micciones frecuentes.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Radiofármacos para diagnóstico
+Código ATC: V09IX04
+ A las concentraciones químicas y actividades recomendadas para exploraciones diagnósticas, no
+parece que la fludesoxiglucosa (18F) tenga ninguna actividad farmacodinámica.
+ 5.2.   Propiedades farmacocinéticas
+ La fludesoxiglucosa (18F) es un análogo de la glucosa que se acumula en todas las células que
+usan glucosa como fuente de energía primaria y la fludesoxiglucosa (18F) se acumula en tumores
+con alto nivel de intercambio de glucosa.
+Después de la inyección intravenosa, el perfil farmacocinético de la fludesoxiglucosa (18F) en el
+compartimento vascular es biexponencial; tiene una semivida de distribución de 1 minuto y una
+semivida de eliminación de aproximadamente 12 minutos.
+La captación de la fludesoxiglucosa (18F) se realiza por un sistema transportador tisular específico
+que es en parte insulino- dependiente y, por lo tanto, puede estar influenciado por las condiciones
+alimenticias, nutricionales y la existencia de diabetes mellitus. En pacientes con una diabetes
+mellitus se produce una reducción de la captación de fludesoxiglucosa (18F) en el interior de las
+células debido a una distribución tisular y a un metabolismo de la glucosa modificados. La
+fludesoxiglucosa (18F) es transportada, vía membrana celular, de forma similar a la glucosa, pero
+solo tiene lugar el primer paso de la glicólisis, formación de fludesoxiglucosa (18F) -6- fosfato,
+que se mantiene atrapada en las células tumorales y no se metaboliza posteriormente. Ya que la
+desfosforilación posterior por las fosfatasas intracelulares es lenta, la fludesoxiglucosa (18F) -6-
+fosfato se retiene en el tejido varias horas (mecanismo de atrapamiento).
+En sujetos sanos, la fludesoxiglucosa (18F) muestra una distribución corporal amplia,
+especialmente en cerebro y corazón, y en menor medida en pulmones e hígado
+ La eliminación de la fludesoxiglucosa (18F) es principalmente renal, con la excreción del 20 % de
+la actividad en orina 2 horas después de la inyección.
+La unión al parénquima renal es débil, pero, debido a la eliminación renal de la fludesoxiglucosa
+(18F), la totalidad del aparato urinario, especialmente la vejiga, muestra una actividad notoria.
+La fludesoxiglucosa (18F) atraviesa la barrera hematoencefálica. Aproximadamente el 7% de la
+dosis inyectada se acumula en el cerebro durante 80-100 minutos después de la inyección. Los
+focos epileptógenos muestran un metabolismo reducido de la glucosa en los periodos libres de
+ataques.
+Aproximadamente el 3% de la actividad inyectada es captada por el miocardio en 40 minutos. La
+distribución de la fludesoxiglucosa (18F) en un corazón normal es principalmente homogénea, sin
+embargo, se describen diferencias regionales de hasta el 15% en el septum interventricular.
+Durante y después de una isquemia miocárdica reversible, se produce un incremento de la
+captación de glucosa en las células miocárdicas. El 0,3 y 0,9-2,4% de la actividad inyectada se
+acumula en páncreas y pulmón.
+La fludesoxiglucosa (18F) se une también en menor medida a músculos oculares, faringe e
+intestino. Se observa unión al músculo si ha existido ejercicio reciente y si se realizan esfuerzos
+musculares durante la exploración.
+ 5.3.   Datos preclínicos sobre seguridad
+ En estudios preclínicos de toxicidad aguda con 50 veces la dosis humana en perros y de 1000
+veces la dosis humana en ratones no revelaron ningún signo de toxicidad.
+No se han realizado estudios de toxicidad crónica, potencial mutagénico así como estudios de
+toxicidad en la reproducción y potencial carcinogénico debido al uso clínico esperado de la
+sustancia (normalmente una aplicación única intravenosa de la sustancia en rangos de ng o µg)
+ 5.4.   Dosimetría
+ La siguiente tabla muestra la dosimetría calculada de acuerdo con la publicación ICRP 80
+   DOSIS ABSORBIDA POR UNIDAD DE ACTIVIDAD ADMINISTRADA (mGy/MBq)
+ Órgano                    Adulto         15 años        10 años        5 años          1 año
+Suprarrenales
+Vejiga
+Superficies óseas
+Cerebro
+Mama
+Vesícula biliar
+Pared intestinal
+Intestino delgado
+Colon
+Colon ascendente
+Colon descendente
+Corazón
+Riñones
+Hígado
+Pulmones
+Músculos
+Esófago
+Ovarios
+Páncreas
+Médula ósea roja
+Piel
+Bazo
+Testículos
+Timo
+Tiroides
+Útero
+Órganos restantes
+DOSIS EFECTIVA
+(mSv/MBq)
+ Para FDG Scan (18F), 260 MBq/ml, la dosis efectiva resultante de la administración de una
+actividad de 400 MBq es aproximadamente de 7,6 mSv (para un sujeto de 70 kg de peso),
+Con esta actividad de 400 MBq, las dosis de radiación absorbida en los órganos críticos, vejiga,
+corazón y cerebro son respectivamente: 64 mGy, 25 mGy y 11 mGy,
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1.   Lista de excipientes
+ Cloruro de sodio
+Agua para inyección
+Citrato de sodio dihidrato
+Ácido cítrico monohidrato,
+ 6.2.   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con con otros medicamentos.
+ 6.3.   Período de validez
+ 8 horas desde la fabricación.
+La fecha y hora de caducidad se indica en el envase.
+ 6.4.   Precauciones especiales de conservación
+ No conservar a temperatura superior a 25 °C. Conservar en el envase original
+ Este producto debe conservarse de acuerdo con las normas nacionales sobre productos
+radiactivos.
+ 6.5.   Naturaleza y contenido del recipiente
+ Vial monodosis de 20 ml de vidrio tipo I de acuerdo con la Farmacopea Europea, cerrado con un
+tapón bromobutilo y sellado con una cápsula de aluminio.
+ Las actividades disponibles en el momento de la administración son de 260 a 4160 MBq por vial.
+No administrar más de 16 ml.
+ 6.6.   Instrucciones de uso y manipulación
+                                                                                                    MINISTERIO
+FDG Scan (18F), 260 MBq/ml está disponible como vial monodosis,
+ Se puede diluir con una solución de cloruro sódico al 0,9 %,
+ La administración de radiofármacos supone un riesgo para otras personas por irradiación externa
+o contaminación a través de pérdidas de orina, vómitos, etc. Por tanto, deberán observarse las
+precauciones sobre protección radiológica frente a la radiación establecidas por la legislación
+nacional.
+ Los residuos radiactivos deben eliminarse de acuerdo con la normativa nacional e internacional
+vigente.
+FDG Scan (18F), 260 MBq/ml es para un solo uso y cualquier resto de solución no utilizada debe
+descartarse.
+Se deben respetar las precauciones usuales en relación a la esterilidad y la radioprotección.
+La fecha y hora de caducidad están indicadas en el envase y en cada vial.
+El envase debe comprobarse antes de su uso y la actividad debe medirse con un detector de dosis.
+La solución tiene que inspeccionarse visualmente antes de su uso y solo se deben usar soluciones
+libres de partículas visibles.
+El vial no debe estar abierto. Después de la desinfección del tapón, la solución debe extraerse a
+través del tapón utilizando una jeringa de un solo uso provista del correspondiente blindaje
+protector y aguja desechable estéril
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Mallinckrodt Medical BV
+P.O. Box 3
+1755 ZG Petten
+Holanda
+ 
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	        66843
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+         Mayo 2005
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+
+	Prospectos de medicamentos.

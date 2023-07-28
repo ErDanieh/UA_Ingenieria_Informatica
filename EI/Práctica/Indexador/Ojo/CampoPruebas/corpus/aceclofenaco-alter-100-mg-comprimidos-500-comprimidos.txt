@@ -1,0 +1,354 @@
+ACECLOFENACO ALTER 100 mg comprimidos, 500 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	
+3.     FORMA FARMACÉUTICA
+	       Comprimidos recubiertos con película, redondos, de color blanco o casi blanco,
+ligeramente convexos por ambas caras.
+ 
+
+
+4.     DATOS CLÍNICOS
+	4.2.   Posología y forma de administración
+Aceclofenaco se suministra para su administración oral.
+Los comprimidos deben ingerirse enteros con una cantidad suficiente de líquido.
+Al administrar aceclofenaco a voluntarios sanos, durante las comidas o en ayunas,
+solamente se alteró la velocidad y no el grado de absorción de aceclofenaco, por lo que
+aceclofenaco puede tomarse junto a alimentos.
+Adultos
+La dosis recomendada es de 200 mg diarios, en dos tomas de 100 mg, un comprimido por
+la mañana y otro por la noche.
+Niños
+No existen datos clínicos del empleo de aceclofenaco en los niños.
+Ancianos
+La farmacocinética de aceclofenaco no se altera en los pacientes ancianos, por lo que no
+se considera necesario modificar la dosis ni la frecuencia de administración.
+No obstante, al igual que con cualquier otro fármaco antiinflamatorio no esteroideo,
+deben adoptarse precauciones en el tratamiento de los pacientes ancianos, que por lo
+general son más propensos a las reacciones adversas, y que tienen más probabilidades de
+presentar alteraciones cardiovasculares y de la función renal o hepática, así como de
+recibir medicación concomitante.
+ Insuficiencia renal
+No hay pruebas de que deba modificarse la dosificación de aceclofenaco en pacientes con
+alteración renal leve (ver 4.4 Advertencias y precauciones especiales de empleo).
+Insuficiencia hepática
+Algunas evidencias indican que debe reducirse la dosis de aceclofenaco en pacientes con
+alteraciones hepáticas, sugiriéndose el empleo de una dosis de 100 mg/día.
+        Se puede minimizar la aparición de reacciones adversas si se utilizan las menores dosis
+eficaces durante el menor tiempo posible para controlar los síntomas (ver apartado 4.4
+Advertencias y precauciones especiales de empleo).
+ 4.3.   Contraindicaciones
+Aceclofenaco no debe administrarse a pacientes con hipersensibilidad conocida a
+cualquiera de los excipientes de esta especialidad farmacéutica.
+Aceclofenaco no debe administrarse a pacientes con antecedentes de hemorragia
+gastrointestinal o perforación relacionados con tratamientos anteriores con AINE, úlcera
+péptica/hemorragia gastrointestinal activa o recidivante (dos o más episodios diferentes de
+ulceración o hemorragia comprobados).
+        Aceclofenaco no debe administrarse a pacientes con insuficiencia renal severa.
+Aceclofenaco no debe administrarse a pacientes con insuficiencia cardiaca grave.
+Durante el embarazo y lactancia, así como en mujeres que planean una gestación, no debe
+prescribirse aceclofenaco.
+Aceclofenaco no debe administrarse a pacientes en los cuales el ácido acetilsalicílico o los
+fármacos antiinflamatorios no esteroideos desencadenen ataques de asma, rinitis aguda o
+urticaria, o a pacientes con hipersensibilidad a estos fármacos.
+ 4.4.   Advertencias y precauciones especiales de empleo
+Advertencias
+Riesgos gastrointestinales:
+Hemorragias gastrointestinales, úlceras y perforaciones: Durante el tratamiento con
+antiinflamatorios no esteroideos (AINE), entre los que se encuentra el aceclofenaco, se
+han notificado hemorragias gastrointestinales, úlceras y perforaciones (que pueden ser
+mortales) en cualquier momento del mismo, con o sin sintomas previos de alerta y con o
+sin antecedentes previos de acontecimientos gastrointestinales graves previos.
+El riesgo de hemorragia gastrointestinal, úlcera o perforación es mayor cuando se utilizan
+dosis crecientes de AINE, en pacientes con antecedentes de úlcera, especialmente si
+eran úlceras complicadas con hemorragia o perforación (ver apartado 4.3
+Contraindicaciones), y en los ancianos. Estos pacientes deben comenzar el tratamiento
+con la dosis menor posible. Se recomienda prescribir a estos pacientes tratamiento
+concomitante con agentes protectores (p.ej. misoprostol o inhibidores de la bomba de
+protones); dicho tratamiento combinado también debería considerarse en el caso de
+pacientes que precisen dosis baja de ácido acetilsalicílico u con otros medicamentos que
+puedan aumentar el riesgo gastrointestinal (ver a continuación y sección 4.5 Interacción
+con con otros medicamentos y otras formas de interacción).
+Se debe advertir a los pacientes con antecedentes de toxicidad gastrointestinal, y en
+especial a los ancianos, que comuniquen inmediatamente al médico cualquier síntoma
+abdominal infrecuente (especialmente el sangrado gastrointestinal) durante el tratamiento
+y en particular en los estadios iniciales.
+Se debe recomendar una precaución especial a aquellos pacientes que reciben
+tratamientos concomitantes que podrían elevar el riesgo de úlcera o sangrado
+gastrointestinal como los anticoagulantes orales del tipo dicumarínicos, y los
+medicamentos antiagregantes plaquetarios del tipo ácido acetilsalicílico (ver apartado 4.5
+Interacción con con otros medicamentos y otras formas de interacción). Asimismo, se debe
+mantener cierta precaución en la administración concomitante de corticoides orales y de
+antidepresivos inhibidores selectivos de la recaptación de serotonina (ISRS).
+Si se produjera una hemorragia GI o una úlcera en pacientes en tratamiento con
+Aceclofenaco, el tratamiento debe suspenderse inmediatamente.
+Los AINE deben administrarse con precaución en pacientes con antecedentes de colitis
+ulcerosa, o de enfemedad de Crohn, pues podrían exacerbar dicha patología (ver apartado 4.8 Reacciones adversas).
+ Riesgos cardiovasculares y cerebrovasculares:
+Se debe tener una precaución especial en pacientes con antecedentes de hipertensión
+y/o insuficiencia cardiaca, ya que se ha notificado retención de líquidos y edema en
+asociación con el tratamiento con AINE.
+Datos procedentes de ensayos clínicos y de estudios epidemiológicos sugieren que el
+empleo de algunos AINE (especialmente en dosis altas y en tratamientos de larga
+duración) se puede asociar con un moderado aumento del riesgo de acontecimientos
+aterotrombóticos (por ejemplo infarto de miocardio o ictus). No existen datos suficientes
+para poder confirmar o excluir dicho riesgo en el caso de aceclofenaco.
+En consecuencia, los pacientes que presenten hipertensión, insuficiencia cardiaca
+congestiva, enfermedad coronaria establecida, arteriopatía periférica y/o enfemedad
+cerebrovascular no controladas sólo deberían recibir tratamiento con Aceclofenaco si el
+médico juzga que la relación beneficio-riesgo para el paciente es favorable. Esta misma
+valoración deberia realizarse antes de iniciar un tratamiento de larga duración en
+pacientes con factores de riesgo cardiovascular conocidos (p.e. hipertensión,
+hiperlipidemia, diabetes mellitus, fumadores).
+ Riesgo de reacciones cutáneas graves:
+Se han descrito reacciones cutáneas graves, algunas mortales, incluyendo dermatitis
+exfoliativa, síndrome de Stevens-Johnson y necrolisis epidémica tóxica con una
+frecuencia muy rara, menor de 1 caso cada 10.000 pacientes, en asociación con la
+utilización de AINE (ver apartado 4.8 Reacciones adversas). Parece que los pacientes
+tienen mayor riesgo de sufrir estas reacciones al comienzo del tratamiento: la aparición
+de dicha reacción adversa ocurre en la mayoría de los casos durante el primer mes de
+tratamiento. Debe suspenderse inmediatamente la administración de aceclofenaco ante
+los primeros síntomas de eritema cutáneo, lesiones mucosas u otros signos de
+hipersensibilidad.
+ Riesgo de reacciones alérgicas:
+ Al igual que con cualquier otro fármaco antiinflamatorio no esteroideo, pueden producirse
+reacciones alérgicas, incluyendo reacciones anafilácticas/anafilactoides sin previa
+exposición al fármaco (ver apartado 4.8 Reacciones adversas).
+ Precauciones
+Pacientes ancianos:
+Los ancianos sufren una mayor incidencia de reacciones adversas a los AINE, y
+concretamente hemorragias y perforación gastrointestinales, que pueden ser mortales
+(ver apartado 4.2 Posología y forma de administración).
+Pacientes con insuficiencia renal:
+La importancia de las prostaglandinas en el mantenimiento del flujo renal hace que el
+empleo de AINEs, en condiciones de perfusión renal comprometida, pacientes con
+insuficiencia renal moderada, insuficiencia cardíaca, ancianos, tratamiento con diuréticos
+o convalecientes de intervenciones quirúrgicas debe hacerse con precaución. Puede ser
+adecuado administrar la menor dosis efectiva y monitorizar regularmente la función renal.
+Los efectos sobre la función renal revierten con la supresión del tratamiento con
+aceclofenaco.
+Pacientes con insuficiencia hepática:
+ Los pacientes con insuficiencia hepática severa deberán llevar una adecuada
+monitorización de los parámetros analíticos de función hepática e iniciar el tratamiento
+con 100 mg una vez al día (ver apartado 4.2 Posología y forma de administración).
+La administración de aceclofenaco debe suspenderse si los controles de la función
+hepática empeoran o no se normalizan y ante la aparición de sintomatología u otras
+manifestaciones (p. ej: eosinofilia, rash, etc.) que sugieran una enfermedad hepática.
+Puede aparecer hepatitis sin que se hayan producido síntomas prodrómicos (ver apartado
+4.8 Reacciones adversas), por lo que se recomienda establecer controles trimestrales de la
+función hepática en los tratamientos de larga duración.
+Se debe tener precaución cuando se administre aceclofenaco simultáneamente con los
+siguientes medicamentos: litio, digoxina, anticoagulantes, antidiabéticos orales, otros
+fármacos antiinflamatorios, ya que podrían incrementar la frecuencia de reacciones
+adversas o podría ser necesario ajustar la dosis de aceclofenaco o de estos medicamentos.
+La administración de aceclofenaco en pacientes con porfiria hepática puede desencadenar
+un ataque.
+Aceclofenaco puede inhibir reversiblemente la agregación plaquetaria (ver apartado 4.5
+Interacción con con otros medicamentos y otras formas de interacción).
+Como medida de precaución, debe hacerse un seguimiento de todos los pacientes que
+reciban tratamiento a largo plazo con agentes antiinflamatorios no esteroideos (por
+ejemplo, función renal, hepática y hemograma).
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+Litio y digoxina: Aceclofenaco, como muchos fármacos antiinflamatorios no esteroideos,
+puede incrementar las concentraciones plasmáticas de litio y de digoxina (ver apartado
+4.4 Advertencias y precauciones especiales de empleo).
+Diuréticos: Estudios en animales indican la posibilidad de que aceclofenaco, como otros
+fármacos antiinflamatorios no esteroideos, pueda interferir con la acción natriurética de
+los diuréticos. Esta propiedad puede tener importancia clínica en pacientes hipertensos o
+con función cardíaca comprometida.
+No se observaron efectos de aceclofenaco sobre el control de la tensión arterial cuando se
+administró conjuntamente con bendrofluazida, aunque no puede descartarse la interacción
+con otros fármacos antihipertensores.
+Anticoagulantes: Como los demás agentes antiinflamatorios no esteroideos, aceclofenaco
+puede potenciar la actividad de los anticoagulantes debido a una posible acción de
+inhibición de la agregación plaquetaria. Debe realizarse una monitorización adecuada de
+los pacientes sometidos a tratamiento combinado con anticoagulantes y aceclofenaco (ver
+apartado 4.4 Advertencias y precauciones especiales de empleo).
+Antiagregantes plaquetarios: Los antiagregantes plaquetarios aumentan el riesgo de
+hemorragia gastrointestinal (ver apartado 4.4 Advertencias y precauciones especiales de
+empleo).
+ Antidiabéticos orales: Debe tenerse en cuenta la posibilidad de ajustar la dosis de los
+agentes hipoglucemiantes cuando se administra aceclofenaco (ver apartado 4.4
+Advertencias y precauciones especiales de empleo).
+Metotrexato: Deben adoptarse precauciones si se administran fármacos antiinflamatorios
+no esteroideos y metotrexato con un intervalo entre sí inferior a 24 horas, porque los
+fármacos antiinflamatorios no esteroideos pueden incrementar las concentraciones
+plasmáticas de metotrexato, lo que provoca una mayor toxicidad.
+Corticoides: Los Corticoides pueden también aumentar el riesgo de úlcera o sangrado
+gastrointestinales (ver apartado 4.4 Advertencias y precauciones especiales de empleo).
+ Otros fármacos antiinflamatorios: El tratamiento concomitante con ácido acetilsalicílico y
+otros fármacos antiinflamatorios no esteroideos puede incrementar la frecuencia de
+efectos secundarios (ver apartado 4.4 Advertencias y precauciones especiales de empleo).
+ ISRS: Los inhibidores selectivos de la recaptación de serotonina (ISRS) pueden también
+aumentar el riesgo de sangrado gastrointestinales (ver apartado 4.4 Advertencias y
+precauciones especiales de empleo).
+ Ciclosporina: El efecto de los fármacos antiinflamatorios no esteroideos sobre las
+prostaglandinas renales puede incrementar la nefrotoxicidad de las ciclosporinas.
+ 4.6.   Embarazo y lactancia
+Embarazo
+        1) Primer y segundo trimestre de la gestación
+La inhibición de la síntesis de prostaglandinas, puede afectar negativamente la gestación
+y/o el desarrollo del embrión/feto. Datos procedentes de estudios epidemiológicos
+sugieren un aumento del riesgo de aborto y de malformaciones cardiacas y gastrosquisis
+tras el uso de un inhibidor de la síntesis de prostaglandinas en etapas tempranas de la
+gestación. El riesgo absoluto de malformaciones cardiacas se incrementó desde menos
+del 1% hasta aproximadamente el 1,5%. Parece que el riesgo aumenta con la dosis y la
+duración del tratamiento. Durante el primer y segundo trimestres de la gestación, Airtal
+no debe administrarse a no ser que se considere estrictamente necesario. Si utiliza Airtal
+una mujer que intenta quedarse embarazada, o durante el primer y segundo trimestres
+de la gestación, la dosis y la duración del tratamiento deben reducirse lo máximo posible.
+        2) Tercer trimestre de la gestación
+Durante el tercer trimestre de la gestación, todos los inhibidores de la síntesis de
+prostaglandinas pueden exponer al feto a:
+-   Toxicidad cardio-pulmonar (con cierre prematuro del ductus arteriosus e hipertensión
+pulmonar)
+-   Disfunción renal, que puede progresar a fallo renal con oligo-hidroamniosis.
+-   Posible prolongación del tiempo de hemorragia, debido a un efecto de tipo
+antiagregante que puede ocurrir incluso a dosis muy bajas.
+-   Inhibición de las contracciones uterinas, que puede producir retraso o prolongación
+del parto.
+        Consecuentemente, Airtal está contraindicado durante el tercer trimestre de embarazo
+(ver apartado 4.3 Contraindicaciones).
+        3) Fertilidad
+El uso de Airtal puede alterar la fertilidad femenina y no se recomienda en mujeres que
+están intentando concebir. En mujeres con dificultades para concebir o que están siendo
+sometidas a una investigación de fertilidad, se debería considerar la suspensión de este
+medicamento.
+        Lactancia
+No debe administrarse aceclofenaco durante la lactancia. No se dispone de información
+sobre la secreción de aceclofenaco en la leche materna; sin embargo no se observó
+transferencia notable de aceclofenaco marcado (14C) a la leche de la rata durante la
+lactancia.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar maquinaria
+Los pacientes con signos o síntomas de alteraciones del sistema nervioso central como
+vértigos o desvanecimientos no deberán conducir ni utilizar maquinaria mientras estén en
+tratamiento con antiinflamatorios no esteroideos.
+ 4.8.   Reacciones adversas
+La reacciones adversas observadas con mayor frecuencia consistieron en alteraciones
+gastrointestinales (dispepsia, dolor abdominal, náuseas y diarrea) y aparición ocasional de
+mareos. Pueden producirse úlceras pépticas, perforación o hemorragia gastrointestinal,
+en algunos casos mortales, especialmente en los ancianos (ver apartado 4.4 Advertencias
+y precauciones especiales de empleo). También se han notificado naúseas, vómitos,
+diarrea flatulencia, constipación, dispepsia, dolor abdominal, melena, hematemesis,
+estomatitis ulcerosa, exacerbación de colitis y enfermedad de Crohn (ver apartado 4.4
+advertencias y precauciones especiales de empleo). Se ha observado menos
+frecuentemente la aparición de gastritis
+ Ocasionalmente se han notificado reacciones dermatológicas consistentes en prurito y
+exantema y elevaciones de los valores de las enzimas hepáticas y de la creatinina sérica.
+Si se producen reacciones adversas graves, debe suspenderse la administración de
+aceclofenaco.
+Durante todos los ensayos clínicos y experiencia post-comercialización se notificaron las
+siguientes reacciones adversas como aparecen a continuación detalladas por sistemas
+orgánicos y por frecuencia: muy frecuentes > 10%, frecuentes 1-10 %, poco frecuentes
+0,1-1%, raras o muy raras total <0,1%.
+                                                                                                      MINISTERIO
+Sistemas orgánicos             Frecuentes      Poco frecuentes              Raras              Muy raras y casos
+MedDRa                   < 10% - >1%      < 1% - > 0,1%           <0,1% - > 0,01%         aislados < 0,01%
+Trastornos de la                                                      Anemia                  Granulocitopenia
+sangre y del sistema                                                                          Tombocitopenia
+limfático
+Trastornos           del                                              Reacción anafiláctica
+sistema                                                               (incluyendo shock)
+inmunológico                                                          Hipersensibilidad
+ Trastornos      del                                                                           Hiperpotasemia
+metabolismo y de la
+nutrición
+ Trastornos                                                                                    Depresión
+psiquiátricos                                                                                 Trastorno del sueño
+ Trastornos       del       Mareos                                                             Parestesia
+sistema nervioso                                                                              Somnolencia
+ Trastornos oculares                                                   Deterioro visual
+Trastornos del oído y
+del laberinto
+ Tratornos cardíacos                                                                           Palpitaciones
+ Trastornos vasculares                                                                         Rubefacción
+ Trastornos                                                            Disnea                  Estridor
+respiratorios,
+torácicos             y
+mediastínicos
+Trastornos                 Dispepsia         Flatulencia              Melenas                 Estomatitis
+gastrointestinales         Dolor abdominal   Gastritis                                        Hemorragia
+ Trastornos de la piel                        Prurito                  Edema de cara           Púrpura
+y      del     tejido                        Exantema
+subcutáneo                                   Dermatitis
+                                                                                               Calambres       en   las
+Trastornos
+muculoesqueléticos
+y     del   tejido
+conjuntivo
+ Trastornos renales y                                                                          Síndrome nefrótico
+urinarios
+                                                                                                                          MINISTERIO
+Trastornos generales                                                              Edema
+y alteraciones en el                                                              Fatiga
+lugar             de
+administración
+ Exploraciones          Enzimas hepáticas   Urea elevada en                        Fosfatasa   alcalina
+complementarias        aumentadas          sangre                                 sangre aumentada
+ Datos procedentes de ensayos clínicos y de estudios epidemiológicos sugieren que el
+empleo de algunos AINE (especialmente en dosis altas y en tratamientos de larga
+duración) puede asociarse con un moderado aumento del riesgo de acontecimientos
+aterotrombóticos (por ejemplo infarto de miocardio o ictus; ver sección 4.4 Advertencias y
+precauciones especiales de empleo).
+ 4.9.     Sobredosis
+El tratamiento de la intoxicación aguda por fármacos antiinflamatorios no esteroideos
+consiste, esencialmente, en medidas de apoyo y sintomáticas.
+No se dispone de datos sobre las consecuencias de la sobredosificación de aceclofenaco
+en humanos. Las medidas terapéuticas a adoptar son: tras la sobredosificación, debe
+evitarse la absorción del fármaco en cuanto sea posible mediante lavado gástrico y el
+tratamiento con carbón activado; debe ofrecerse tratamiento de apoyo y sintomático de
+complicaciones como hipotensión, insuficiencia renal, convulsiones, irritación
+gastrointestinal y depresión respiratoria; los tratamientos específicos como la diuresis
+forzada, la diálisis o la hemoperfusión probablemente no contribuyan a eliminar los
+fármacos antiinflamatorios no esteroideos a causa de su gran tasa de fijación proteica y su
+gran metabolismo.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.2.     Propiedades farmacocinéticas
+Tras su administración oral, aceclofenaco se absorbe rápida y completamente en forma de
+fármaco inalterado. Las concentraciones plasmáticas máximas se alcanzan
+aproximadamente de 1,25 a 3,00 horas después de la ingestión. Aceclofenaco penetra en
+el líquido sinovial, donde sus concentraciones alcanzan aproximadamente el 57% de las
+del plasma. El volumen de distribución es de aproximadamente 25 l.
+                                                                                                          MINISTERIO
+La vida media plasmática es de alrededor de 4 horas. Aceclofenaco se fija en gran medida
+a las proteínas (> 99%). Aceclofenaco circula principalmente en forma de fármaco
+inalterado. El principal metabolito detectado en el plasma es 4'-hidroxiaceclofenaco.
+Aproximadamente las dos terceras partes de la dosis administrada se excretan por la orina,
+fundamentalmente en forma de hidroximetabolitos.
+En el anciano no se han detectado alteraciones de la farmacocinética de aceclofenaco.
+ 5.3.   Datos preclínicos sobre seguridad
+Los resultados de los estudios preclínicos realizados con aceclofenaco son congruentes
+con los esperados en los fármacos antiinflamatorios no esteroideos. El principal órgano
+diana fue el tracto gastrointestinal. No se registraron hallazgos inesperados.
+No se consideró que aceclofenaco tuviera actividad mutagénica alguna en tres estudios in
+vitro y en un estudio in vivo sobre el ratón.
+No se encontró que aceclofenaco fuera carcinogénico ni en el ratón ni en la rata.
+ 
+6.     DATOS FARMACÉUTICOS
+	6.2.   Incompatibilidades
+No se conocen.
+ 6.3.   Periodo de validez
+3 años.
+ 6.4.   Precauciones especiales de conservación
+No se precisan condiciones especiales de conservación.
+ 6.5.   Naturaleza y contenido del recipiente
+ACECLOFENACO ALTER 100 mg comprimidos se presenta en envases con 20, 40 ó
+500 comprimidos envasados en blísters de Opa-Aluminio-PVC/Aluminio.
+ 6.6.   Instrucciones de uso / manipulación
+Ninguna.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE LA COMERCIALIZACIÓN
+	
+8.    NÚMERO DEL REGISTRO DE ESTE MEDICAMENTO	
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN
+	10. FECHA DE LA REVISIÓN DEL TEXTO
+FEBRERO 2008
+
+	 
+      ACECLOFENACO ALTER 100 mg comprimidos, 20 comprimidos
+          
+      ACECLOFENACO ALTER 100 mg comprimidos, 40 comprimidos
+         Todos los prospectos de medicamentos.

@@ -1,0 +1,487 @@
+MALARONE 12 COMPRIMIDOS PEDIATRICOS
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.      NOMBRE DEL MEDICAMENTO
+	        Malarone Pediátrico comprimidos
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       Cada comprimido contiene:
+Atovacuona 62,5 mg
+Hidrocloruro de proguanil 25 mg
+         Para consultar la lista de excipientes, ver sección 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	"        Comprimidos recubiertos con película.
+Comprimidos de color rosa, redondos, biconvexos, y marcados en una cara con ""GX
+CG7"".
+ 
+
+4.      DATOS CLÍNICOS:
+ 4.1     Indicaciones terapéuticas
+         Malarone Pediátrico es una combinación a dosis fija de atovacuona e hidrocloruro de
+proguanil que actúa como un esquizonticida sanguíneo y que también presenta actividad
+frente a los esquizontes hepáticos del Plasmodium falciparum. Está indicado en:
+         Profilaxis del paludismo por Plasmodium falciparum en individuos entre 11 y 40 kg de
+peso.
+         Tratamiento del paludismo agudo, no complicado, causado por Plasmodium falciparum
+en niños de peso  5 y < 11 kg de peso.
+         (Para el tratamiento del paludismo agudo, no complicado, causado por Plasmodium
+falciparum en individuos de peso entre 11 y 40 kg, por favor, remitirse a la ficha técnica
+de Malarone comprimidos.)
+         Malarone es eficaz frente a P. falciparum resistentes a uno o más fármacos antipalúdicos.
+Por tanto está especialmente recomendado para la profilaxis y tratamiento frente a
+paludismo por P. falciparum en áreas donde el patógeno pueda ser resistente a uno o más
+agentes antipalúdicos, y también para el tratamiento del paludismo en pacientes infectados
+con P. falciparum fuera de esas áreas.
+         Deberán tenerse en cuenta las directrices oficiales e información local sobre prevalencia
+de resistencias a fármacos antipalúdicos. Normalmente las directrices oficiales incluirán
+las directrices de la OMS y las de las Autoridades Sanitarias.
+ 4.2   Posología y forma de administración
+       Posología
+       La dosis para la profilaxis y tratamiento de paludismo agudo, no complicado, causado por
+P.falciparum en niños, está basada en el peso corporal.
+       ·      Profilaxis
+       Dosis en individuos que pesan 11-40 kg
+                                                    Dosis/día
+Intervalo de    Atovacuona   Proguanil               No de comprimidos
+peso           (mg)        (mg)
+corporal
+(kg)
+              11-20           62.5          25        Un comprimido de Malarone
+21-30           125           50        Dos comprimidos de Malarone
+31-40          187.5          75        Tres comprimidos de Malarone
+>40            250          100        Sujetos de >40 kg deben recibir
+       La seguridad y efectividad de Malarone Pediátrico comprimidos para la profilaxis de la
+malaria en niños que pesen menos de 11 kg no ha sido establecida.
+       La profilaxis debería:
+· iniciarse 24 o 48 horas antes de entrar en una zona geográfica donde el paludismo sea
+endémico
+· continuar durante el período de estancia, el cual no debería exceder los 28 días
+· continuar diariamente hasta 7 días después de abandonar dicha zona
+       En residentes (personas parcialmente inmunizadas) de áreas endémicas, la seguridad y
+efectividad de Malarone Pediátrico comprimidos ha sido establecida en estudios de hasta 12
+semanas. (ver apartado 5.1 Propiedades farmacodinámicas).
+ ·   Tratamiento
+                                          Dosis/día
+Intervalo  de        Atovacuona       Proguanil (mg)        Regimen de Dosis
+Par
+Peso corporal        (mg)
+a
+(kg)
+ind
+ivi
+5-8                  125                50                  Malarone Pediátrico, tres días
+duo
+s
+que
+9-10                 187.5               75                 Malarone Pediátrico, tres días
+pes
+en
+11
+kg o más, la primera elección para el tratamiento del paludismo agudo, no complicado,
+causado por P. falciparum es Malarone Comprimidos (250/100 mg). Consulte la Ficha
+Técnica de Malarone Comprimidos respecto a la posología recomendada para este rango
+de peso. Malarone Comprimidos tiene una concentración cuatro veces superior a la de
+Malarone Pediátrico comprimidos.
+ En circunstancias donde no haya disponibilidad de Malarone Comprimidos, entonces
+puede utilizarse Malarone Pediátrico comprimidos
+ Posología en caso de disfunción hepática
+ No hay estudios farmacocinéticos en niños con disfunción hepática. Sin embargo, un
+estudio farmacocinético en adultos indica que no es necesario realizar ajustes posológicos
+en pacientes con insuficiencia hepática de leve a moderada. Aunque no se han realizado
+estudios en pacientes con insuficiencia hepática grave, no se prevén precauciones
+especiales o ajuste de dosis (ver apartado 5.2 Propiedades farmacocinéticas).
+ Posología en caso de disfunción renal
+ No hay estudios farmacocinéticos en niños con disfunción renal. Sin embargo, los
+estudios farmacocinéticos en adultos señalan que no es necesario realizar ajustes
+posológicos en pacientes con insuficiencia renal de leve a moderada. Debido a la falta de
+información en relación con la dosis adecuada, Malarone está contraindicado para la
+profilaxis del paludismo en adultos y niños con insuficiencia renal grave (aclaramiento de
+creatinina <30 ml/min ver sección 4.3.Contraindicaciones y la sección 5.2 Propiedades
+farmacocinéticas).
+ Método de administración
+ La dosis diaria debe ser ingerida una vez al día con alimentos o con una bebida láctea
+(para asegurar la máxima absorción) a la misma hora cada día.
+ Si los pacientes no pueden tolerar los alimentos, se deberá administrar Malarone
+igualmente, aunque la exposición sistémica a atovacuona se verá reducida. En el caso de
+que se produjeran vómitos durante la primera hora después de la administración, deberá
+volver a tomarse una nueva dosis.
+ Malarone Pediátrico comprimidos debe preferiblemente ser tragado entero. Si se
+encuentra dificultad cuando se administra a niños pequeños los comprimidos se pueden
+triturar y administraron los alimentos o con bebidas lácteas justo antes de la
+administración.
+ 4.3     Contraindicaciones
+ Hipersensibilidad conocida a atovacuona o a hidrocloruro de proguanil o a alguno de los
+excipientes.
+         Malarone Pediátrico está contraindicado para la profilaxis del paludismo por P. falciparum
+en pacientes con insuficiencia renal grave (aclaramiento de creatinina <30 ml/ min).
+ 4.4     Advertencias y precauciones especiales de empleo
+         Las personas que toman Malarone Pediátrico para profilaxis o tratamiento del paludismo
+deberán tomar una dosis repetida si se producen vómitos durante la primera hora tras la
+administración. En caso de diarrea debe continuarse con la dosificación normal. La
+absorción de atovacuona puede reducirse en pacientes con diarrea o vómitos, pero la
+diarrea y los vómitos no se asocian con una reducción de la eficacia en ensayos clínicos
+de Malarone para la profilaxis del paludismo. Sin embargo, al igual que con otros agentes
+antipalúdicos, debe recomendarse a las personas con diarrea o vómitos que continúen
+ajustándose a las medidas de protección personal (repelentes, mosquiteros)
+         No se ha establecido la seguridad y efectividad de Malarone Pediátrico para la profilaxis
+del paludismo en niños con menos de 11 kg de peso.
+         Malarone Pediátrico no está indicado para el tratamiento de paludismo agudo no
+complicado por P. falciparum en individuos de 11 a 40 kg de peso. En estos individuos,
+deben utilizarse los comprimidos de Malarone (250/100mg) (ver apartado 4.2. Posología y
+forma de administración).
+         Fueron comunes las recidivas parasitarias cuando se trató el paludismo por P. vivax sólo
+con Malarone. Los viajeros expuestos reiteradamente a P. vivax o a P. ovale, así como
+aquéllos que desarrollen paludismo por cualquiera de estos parásitos, necesitarán un
+tratamiento adicional con un fármaco que sea activo frente a los hipnozoitos.
+         En caso de fracaso de la quimioprofilaxis con Malarone Pediátrico comprimidos, los
+pacientes deberán ser tratados con un esquizonticida sanguíneo diferente.
+ 4.5     Interacción con con otros medicamentos y otras formas de interacción
+         Proguanil puede potenciar el efecto anticoagulante de la warfanina y otros anticoagulantes
+basados en la cumarina. El mecanismo de esta potencial interacción farmacológica no ha
+sido determinado todavía. Se recomienda precaución al iniciar o retirar la profiláxis o el
+tratamiento del paludismo con atovacuona-proguanil en pacientes en tratamiento continuo
+con anticoagulantes basados en la cumarina.
+ Se han asociado descensos significativos en las concentraciones plasmáticas de
+atovacuona con la administración simultáneamente con metoclopramida y tetraciclina.
+Aunque algunos niños recibieron concomitantemente Malarone y metoclopramida en
+ensayos clínicos sin ninguna evidencia de disminución en la protección frente al
+paludismo, la posibilidad de una interacción clínicamente significativa con con otros medicamentos no puede descartarse.
+La administración concomitante de atovacuona e indinavir resulta en una disminución en
+el Cmin de indinavir (disminución del 23%, IC del 90% dentro del rango 8-35%). Debe
+tenerse precaución cuando se prescribe atovacuona con indinavir debido a la disminución
+en los niveles mínimos de indinavir.
+       La administración concomitante de Malarone con rifampicina o rifabutina debe evitarse
+debido a la reducción de los niveles plasmáticos de atovacuona en aproximadamente un
+50% y un 34% respectivamente.
+       Atovacuona tiene una tasa de unión a proteínas muy alta (>99%), pero no desplaza in
+vitro a otros fármacos con altas tasas de unión a proteínas, indicando que no es probable
+que se produzcan interacciones farmacológicas importantes debidas al desplazamiento del
+lugar de unión.
+ 4.6   Embarazo y lactancia
+       No se ha establecido la seguridad de atovacuona e hidrocloruro de proguanil cuando se
+administran conjuntamente en embarazadas y el riesgo potencial en el hombre es
+desconocido.
+       Estudios en animales no han mostrado evidencia de teratogenicidad de la combinación.
+Los componentes individuales no han mostrado efectos sobre el parto ni el desarrollo pre
+y postnatal. Se observó toxicidad materna en conejos preñados durante un estudio de
+teratogenicidad (ver apartado 5.3 Datos preclínicos sobre seguridad). La utilización de
+Malarone Pediátrico durante el embarazo solamente debe considerarse si el beneficio
+esperado para la madre supera cualquier riesgo potencial para el feto.
+       El proguanil actúa inhibiendo la dihidrofolatorreductasa del parásito. No hay datos
+clínicos que indiquen que la administración de un suplemento de folato disminuya la
+eficacia del fármaco. En mujeres en edad fértil que reciban suplementos de folato para
+prevenir los defectos congénitos del tubo neural, se debería continuar la administración de
+tales suplementos mientras estén en tratamiento con Malarone Pediátrico.
+ Lactancia
+       Las concentraciones de atovacuona en leche materna, en un estudio en rata, fueron el 30%
+de las concentraciones de atovacuona determinadas en el plasma materno. No se sabe si
+atovacuona se excreta en leche humana.
+       El proguanil se excreta en leche humana en pequeñas cantidades.
+       Las mujeres en periodo de lactancia no deben tomar Malarone Pediátrico.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Aunque no se han realizado estudios para determinar el efecto de Malarone Pediátrico
+sobre la capacidad para conducir y utilizar máquinas, no se prevé un efecto perjudicial
+sobre tales actividades en función de la farmacología de los componentes.
+ 4.8      Reacciones adversas
+          En los ensayos clínicos con Malarone Pediátrico para la profilaxis del paludismo, 357
+niños o adolescentes con un peso corporal desde 11 hasta  40 kg recibieron Malarone
+Pediátrico. La mayoría de éstos eran residentes de áreas endémicas y tomaron
+comprimidos de Malarone Pediátrico durante aproximadamente 12 semanas. Los restantes
+eran viajeros a áreas endémicas, y la mayoría de éstos tomaron comprimidos de Malarone
+Pediátrico durante 2-4 semanas.
+          Estudios clínicos abiertos que investigaron el tratamiento en niños de peso corporal
+comprendido entre 5 kg y <11 kg indicaron que el perfil de seguridad es similar al de
+niños con peso corporal comprendido entre 11 kg y 40 kg, y al de adultos.
+          Hay datos limitados de seguridad a largo plazo en niños. En particular, no se han
+estudiado los efectos a largo plazo de Malarone sobre el crecimiento, pubertad y
+desarrollo general.
+          En los ensayos clínicos las reacciones adversas más comúnmente descritas, (más de
+1/100) incluían dolor abdominal y diarrea, nauseas, vómitos y dolor de cabeza. Sin
+embargo, se comunicaron en la misma proporción en los pacientes tratados tanto con
+Malarone como con placebo.
+          La siguiente tabla incluye un resumen de las reacciones adversas comunicadas con
+Malarone, atovacuona o proguanil en ensayos clínicos y comunicaciones espontáneas
+postcomercialización. Se usa la siguiente convención para la clasificación de frecuencias:
+muy frecuentes (1/10); frecuentes (1/100 a <1/10); poco frecuentes (1/1.000 a
+1/100); frecuencia no conocida (no puede estimarse a partir de los datos disponibles).
+          En los ensayos clínicos de atovacuona-proguanil para el tratamiento del paludismo, los
+acontecimientos adversos más comúnmente descritos, independientemente de su causa,
+fueron: dolor abdominal, cefalea, anorexia, náuseas, vómitos, diarrea y tos, y se
+comunicaron en una proporción similar en pacientes en tratamiento con atovacuona-
+proguanil como con un comparador antimalárico.
+          En los ensayos clínicos de atovacuona-proguanil para la profilaxis del paludismo, los
+acontecimientos adversos más comúnmente descritos, independientemente de su causa,
+fueron dolor de cabeza, dolor abdominal y diarrea, y se comunicaron en una proporción
+similar en los pacientes tratados tanto con atovacuona-proguanil como con placebo.
+ Clasificación de      Muy             Frecuentes             Poco            Frecuencia no
+órganos del           frecuentes                             frecuentes      conocida
+sistema
+Trastornos de la                                                             Pancitopenia en
+sangre y del                                                                 pacientes con
+sistema linfático                                                            alteración renal
+Trastornos del                        Reacciones
+sistema
+inmunológico
+Trastornos del                                                       Niveles de
+metabolismo y de                                                     amilasa
+la nutrición
+Trastornos del           Dolor de
+sistema nervioso
+Trastornos
+gastrointestinales
+Trastornos                                 Niveles de enzimas
+hepatobiliares                             hepaticas
+Trastornos de la                                                     Pérdida de
+piel y del tejido
+subcutáneo
+Trastornos
+generales y
+alteraciones en el
+lugar de
+administración
+Trastornos
+respiratorios,
+torácicos y
+mediastínicos
+1.    Frecuencia calculada a partir de los ensayos clínicos con MALARONE.
+2.    Frecuencia obtenida de la documentación de atovacuona. Los pacientes que participaron en
+ensayos clínicos con atovacuona han recibido dosis más altas y han tenido a menudo
+complicaciones de una infección avanzada por Virus de la Inmunodeficiencia Humana (VIH).
+Por lo tanto, la relación causal entre experiencias adversas y la atovacuona es difícil de evaluar.
+Estos acontecimientos pueden haberse visto en una frecuencia menor o no en todos los ensayos
+clínicos con atovacuona-proguanil.
+3.    Observadas de comunicaciones espontáneas postcomercialización y por lo tanto la frecuencia es
+desconocida.
+4.    Observadas con proguanil y la frecuencia es por tanto desconocida.
+5.    Los datos de los ensayos clínicos de autovacuona.proguanil indicaron que los resultados
+anormales en las pruebas de función hepática eran reversibles y no estaban asociados con
+acontecimientos clínicos adversos.
+ 4.9        Sobredosis
+            No se han comunicado casos de sobredosis con Malarone o con Malarone Pediátrico. En
+casos de sospecha de sobredosis deberá proporcionarse el tratamiento sintomático y de
+apoyo apropiado.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1        Propiedades farmacodinámicas
+            Grupo farmacoterapéutico: antipalúdicos
+Código ATC: P01B B51
+ Mecanismo de acción
+ Los constituyentes de los comprimidos de Malarone Pediátrico, atovacuona e hidrocloruro
+de proguanil, interfieren con dos rutas diferentes implicadas en la biosíntesis de
+pirimidinas necesarias para la replicación de ácidos nucleicos. El mecanismo de acción de
+atovacuona frente a P. falciparum es vía inhibición del transporte electrónico
+mitocondrial, a nivel del complejo del citocromo bc1, y el colapso del potencial de
+membrana mitocondrial. Uno de los mecanismos de acción del proguanil, a través de su
+metabolito cicloguanilo, es la inhibición de la dihidrofolatorreductasa, que interrumpe la
+síntesis del deoxitimidilato. El proguanil tiene también una actividad antipalúdica
+independiente de su metabolización a cicloguanilo, y el proguanil, pero no el cicloguanilo,
+es capaz de potenciar la capacidad de la atovacuona para colapsar el potencial de
+membrana mitocondrial en los parásitos del paludismo. Este último mecanismo puede
+explicar el sinergismo observado cuando atovacuona e hidrocloruro de proguanil se
+utilizan en combinación.
+ Microbiología
+ Atovacuona tiene una potente actividad frente a Plasmodium spp (CI50 in vitro frente a P.
+falciparum 0,23-1,43 ng/mL).
+ No se detectó resistencia cruzada de atovacuona con otros fármacos antipalúdicos del
+mismo grupo entre más de 30 aislados de P. falciparum, que demostraran resistencia in
+vitro frente a cloroquina (41% de los aislados), quinina (32% de los aislados), mefloquina
+(29% de los aislados), y halofantrina (48% de los aislados).
+ La CI50 del metabolito principal del proguanil, el cicloguanil, frente a varias cepas de P.
+falciparum era 4-20 ng/mL; se ha observado cierta actividad de proguanil y otro
+metabolito, la 4-clorofenilbiguanida, in vitro a 600 ­ 3000 ng/ml.
+ La combinación de atovacuona y proguanil ha demostrado ser sinérgica en estudios in
+vitro frente a P. falciparum. Esta combinación era más eficaz que otros fármacos solos en
+estudios clínicos del tratamiento del paludismo tanto en pacientes inmunes como no
+inmunes.
+ Eficacia clínica
+· Profilaxis
+La eficacia en viajeros pediátricos no inmunes no ha sido establecida directamente, pero
+puede ser asumida por extrapolación de los resultados de seguridad y eficacia en un
+estudio de hasta 12 semanas en residentes pediátricos (semiinmunes) de áreas endémicas,
+y a partir de los resultados de seguridad y eficacia en adultos semiinmunes y no inmunes.
+ También están disponibles resultados en la población pediátrica a partir de dos ensayos
+que evaluaron en primer lugar la seguridad de los comprimidos de Malarone Pediátrico en
+viajeros (no inmunes) a áreas endémicas. En estos ensayos, se les administró Malarone a
+un total de 93 viajeros que pesaban <40 kg y 93 recibieron otro régimen profiláctico
+antimalárico (81 cloroquina/proguanil y 12 mefloquina). La mayoría de los viajeros
+fueron a África y la media de duración de la estancia estaba entre 2-3 semanas. No se
+registraron casos de malaria en ningún sujeto que se incluyó en estos estudios.
+· Tratamiento
+En Gabón fue realizado un ensayo abierto, aleatorizado, de grupos paralelos, en 200 niños
+de peso  5 kg y < 11 kg con paludismo confirmado, no complicado, causado por P.
+falciparum. El tratamiento fue con Malarone Pediátrico o amodiaquina suspensión. En la
+población por intención de tratar, la tasa de curación a los 28 días fue del 87% en el
+grupo de MALARONE (87/100 sujetos). En la población por-protocolo, la tasa de
+curación a los 28 días fue del 95% en el grupo de MALARONE (87/92 sujetos). Las tasas
+de curación parasitológicas para el grupo de MALARONE fueron del 88% y 95% para las
+poblaciones por intención de tratar y por-protocolo, respectivamente.
+ 5.2   Propiedades farmacocinéticas
+       No hay interacciones farmacocinéticas entre atovacuona y proguanil a la dosis
+recomendada.
+       En los ensayos clínicos de profilaxis, los niveles mínimos de atovacuona, proguanil y
+cicloguanil en niños (que pesaban 11-40 kg) estaban dentro del rango eficaz observado en
+adultos después del ajuste de dosis por peso corporal (ver la tabla siguiente).
+  Concentraciones Plasmáticas Mínimas [Media ±DS, (rango)] de Atovacuona, proguanil y
+Cicloguanil durante la Profilaxis con Malarone en Niños * y Adultos
+Atovacuona: HCl 62.5 mg:25 mg 125 mg:50 mg 187.5 mg:75 mg 250mg:100 mg
+Proguanil Dosis
+Diaria
+[Categoría de peso]      [11-20 kg]    [21-30 kg]     [31-40 kg]     Adulto (>40 kg)
+Atovacuona
+(g/mL)
+No. Sujetos
+proguanil (ng/mL)
+No. Sujetos             n=72           n=83           n=75             n=95
+Cicloguanilo
+(ng/mL)
+No. Sujetos             n=58           n=69           n=66             n=95
+* Datos de los dos estudios
+       Absorción
+       Atovacuona es un compuesto altamente lipofílico con baja solubilidad acuosa. Aunque no
+hay datos de biodisponibilidad de atovacuona en sujetos sanos, en pacientes infectados
+por el VIH la biodisponibilidad absoluta de una dosis única de 750 mg de comprimidos de
+atovacuona ingerida con alimentos es del 21% (IC del 90%: 17-27%)
+       La grasa alimentaria ingerida a la vez que atovacuona aumenta la velocidad y la magnitud
+de la absorción, aumentando en 2-3 veces el valor de AUC y 5 veces la Cmáx con respecto
+al valor en ayunas. Se recomienda a los pacientes tomar los comprimidos de Malarone
+Pediátrico con alimentos o con una bebida láctea (ver apartado 4.2 Posología y forma de
+administración).
+       El hidrocloruro de proguanil se absorbe rápida y extensamente con independencia de la
+ingestión de alimento.
+Distribución
+ El volumen aparente de distribución de atovacuona y proguanil está en función del peso
+corporal.
+ La atovacuona se une a proteínas en una elevada proporción (>99%) pero no desplaza in
+vitro a otros fármacos con un alto grado de unión, indicando que no es probable que se
+produzcan interacciones farmacológicas importantes derivadas del desplazamiento.
+ Después de la administración oral, el volumen de distribución de atovacuona en adultos y
+niños es aproximadamente 8,8 L/kg.
+ La unión a proteínas del proguanil es del 75%. Después de la administración oral, el
+volumen de distribución de proguanil en adultos y niños (>5 kg) está dentro del rango de
+20 a 79 L/kg.
+En plasma humano no se ve afectada la unión de atovacuona por la presencia de proguanil
+ni viceversa.
+ Metabolismo
+ No se tiene evidencia de que atovacuona se metabolice, siendo la excreción de atovacuona
+en orina insignificante y eliminándose el fármaco original inalterado predominantemente
+(>90%) en las heces.
+ El hidrocloruro de proguanil es metabolizado parcialmente por la isoenzima 2C19 del
+citocromo P450 polimórfico principalmente, con una excreción urinaria del producto sin
+modificar menor del 40%. Sus metabolitos cicloguanilo y 4-clorofenilbiguanida también
+se excretan en orina.
+ Durante la administración de Malarone a las dosis recomendadas, la capacidad de
+metabolización de proguanil del paciente parece no tener implicaciones para el
+tratamiento o profilaxis del paludismo.
+ Eliminación
+ La semivida de eliminación de atovacuona es de 1-2 días en niños.
+ Los valores de semividas de eliminación del proguanil y cicloguanil se encuentran entre
+12-15 horas en niños.
+ El aclaramiento oral de atovacuona y proguanil aumenta al aumentar el peso corporal y es
+aproximadamente un 70% mayor en un sujeto de 40 kg en relación a un sujeto de 20 kg.
+El aclaramiento medio tras la administración oral en pacientes que pesan de 5 a 40 kg
+está dentro del rango de 0,5 a 6,3 L/h para atovacuona y de 8,7 a 64 L/h para proguanil.
+ Farmacocinética en caso de disfunción renal
+ No hay estudios en niños con disfunción renal.
+En pacientes adultos con insuficiencia renal de leve a moderada, los datos de aclaramiento
+oral y/o AUC de atovacuona, proguanil y cicloguanil están dentro del intervalo de valores
+observados en pacientes con función renal normal.
+La Cmáx y el AUC de la atovacuona se encuentran reducidos un 64% y 54%
+respectivamente, en pacientes con insuficiencia renal grave (<30 mL/min/1,73m2).
+       En pacientes adultos con insuficiencia renal grave las semividas de eliminación del
+proguanil (t1/2 39 h) y cicloguanilo (t1/2 37 h) se alargan como consecuencia de la
+potencial acumulación de fármaco tras la administración de dosis repetidas (ver secciones
+4.2 Posología y forma de administración y 4.4 Advertencias y precauciones especiales de
+empleo).
+       Farmacocinética en caso de disfunción hepática
+       No hay estudios en niños con disfunción hepática.
+No hay cambios clínicamente significativos en pacientes adultos con insuficiencia
+hepática de leve a moderada expuestos a atovacuona cuando se comparan con pacientes
+sanos.
+En pacientes con disfunción hepática de leve a moderada se observa un incremento del
+85% en el AUC del proguanil sin que se modifique la semivida de eliminación, así como
+una disminución del 65-68 % de los valores de la Cmáx y el AUC del cicloguanilo.
+       No se dispone de datos en pacientes adultos con disfunción hepática grave.
+(ver apartado 4.2 Posología y forma de administración).
+ 5.3   Datos preclínicos sobre seguridad
+       Toxicidad con dosis repetidas
+       Los hallazgos encontrados de los estudios a dosis repetidas con la combinación
+atovacuona/hidrocloruro de proguanil estuvieron enteramente asociados al proguanil y se
+observaron a dosis que no alcanzan un margen terapéutico significativo de exposición en
+comparación con la exposición clínica esperada. Como el proguanil ha sido empleado
+ampliamente y de forma segura en el tratamiento y profilaxis del paludismo a dosis
+similares a aquellas empleadas en la combinación, estos hallazgos se consideran de poca
+relevancia para la práctica clínica.
+       Estudios de toxicidad en la reproducción
+       No se ha encontrado evidencia de teratogenicidad de la combinación en ratas y conejos.
+No hay datos disponibles respecto a los efectos de la combinación sobre la fertilidad o el
+desarrollo pre y postnatal, pero estudios sobre los componentes individuales de Malarone
+Pediátrico no han mostrado efectos en estos parámetros. En un estudio de teratogenicidad
+en conejos empleando la combinación, no se pudo explicar el efecto tóxico materno
+observado tras una exposición sistémica similar a la observada en humanos tras el uso
+clínico.
+       Mutagenicidad
+       Una amplia variedad de ensayos de mutagenicidad no han mostrado evidencia de que
+atovacuona o proguanil tuvieran actividad mutagénica por separado.
+       No se han realizado estudios de mutagenicidad con atovacuona en combinación con
+proguanil.
+                                                                                                    MINISTERIO
+Cicloguanilo, el metabolito activo de proguanil, dio también resultado negativo en el test
+de Ames, pero dio positivo en el ensayo de linfoma de ratón y en el ensayo de
+micronucleo de ratón. Estos efectos positivos con cicloguanilo (un dihidrofolato
+antagonista) se redujeron de forma significativa o se eliminaron con suplementos de ácido
+folínico.
+       Carcinogenicidad
+       Los estudios de oncogenicidad realizados con atovacuona sola en ratones, mostraron una
+mayor incidencia de adenomas y carcinomas hepatocelulares. Estos hallazgos no se
+observaron en ratas y los ensayos de mutagenicidad fueron negativos. Parece que estos
+hallazgos se deben a la sensibilidad innata de los ratones a atovacuona y no se consideran
+relevantes para la práctica clínica.
+       Los estudios de oncogenicidad llevados acabo sólo con proguanil no mostraron evidencia
+alguna de carcinogenicidad en ratas y ratones.
+       No se han realizado estudios de oncogenicidad con proguanil en combinación con
+atovacuona.
+ 
+6.    DATOS FARMACEÚTICOS
+	6.1   Lista de excipientes
+       Núcleo
+Poloxámero 188
+Celulosa microcristalina
+Hidroxipropilcelulosa con bajo grado de sustitución
+Povidona K30
+Carboximetilalmidón de sodio (tipoA)
+Estearato de magnesio
+       Recubrimiento
+Hipromelosa
+Dióxido de titanio E 171
+Óxido de hierro rojo E172
+Macrogol 400
+Polietilenglicol 8000
+ 6.2   Incompatibilidades
+       No aplicable.
+ 6.3   Período de validez
+       5 años.
+ 6.4   Precauciones especiales de conservación
+       No requiere condiciones especiales de conservación.
+                                                                                                    MINISTERIO
+6.5    Naturaleza y contenido del envase
+        Blister de PVC lámina de aluminio conteniendo 12 comprimidos.
+ 6.6     Precauciones especiales de eliminación y otras manipulaciones
+         Ninguna especial.La eliminación del medicamento no utilizado y de todos los materiales
+que hayan estado en contacto con él, se realizará de acuerdo con las normativas locales.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	       GlaxoSmithKline S.A.
+P.T.M. ­ C/ Severo Ochoa nº 2
+28760 Tres Cantos (Madrid)
+ 8.     NUMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+        65.257
+ 
+9.     FECHA DE LA PRIMERA AUTORIZACIÓN O DE LA RENOVACIÓN DE LA
+	       15 Julio 2002
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+         Agosto 2007
+ La información detallada de este medicamento está disponible en la página web de la Agencia
+Española del Medicamento y Productos Sanitarios.
+
+	Prospectos de medicamentos.

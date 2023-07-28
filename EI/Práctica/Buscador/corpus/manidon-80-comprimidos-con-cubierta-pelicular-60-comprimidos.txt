@@ -1,0 +1,342 @@
+MANIDON 80, comprimidos con cubierta pelicular , 60 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1.      NOMBRE DEL MEDICAMENTO
+	
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	
+3.      FORMA FARMACÉUTICA
+	
+4.     DATOS CLÍNICOS
+	"4.2    Posología y forma de administración
+ Formas orales:
+Se ajustará individualmente.
+Como orientación se aconseja la siguiente:
+Prevención secundaria post-infarto de miocardio y angina de pecho.
+Adultos: La mayoría de los pacientes responden a una pauta de 360 mg al día. La dosis
+óptima diaria oscila entre 240 y 480 mg. La seguridad del fármaco a dosis superiores no se
+ha establecido. La dosis se deberá ajustar hasta obtener una respuesta clínica adecuada.
+Hipertensión arterial.
+Adultos: La dosis usual es de 240 mg/día. En caso necesario puede aumentarse después de
+una semana a 360 mg/día, llegando si es preciso en una etapa posterior hasta un máximo de
+480 mg/día.
+Profilaxis de las taquicardias supraventriculares.
+La dosis en adultos oscila entre 240-480 mg/día para pacientes no digitalizados, y entre
+120-360 mg/día para pacientes digitalizados.
+Niños: Máximo 10 mg/Kg/día en varias tomas.
+Forma inyectable:
+Adultos:
+Dosis inicial: 5-10 mg (0,075-0,15 mg/Kg) en inyección lenta en no menos de dos minutos
+(tres minutos en caso de pacientes ancianos).
+Si con la dosis anterior no es suficiente, se administrarán 10 mg (0,15 mg/Kg) 30 minutos
+después de la primera.
+Niños:
+Menores de 1 año: Dosis inicial: 0,1-0,2 mg/Kg (0,75-2 mg) como dosis única. Si fuese
+necesario, se repetirá la misma dosis a los 30 minutos. Realizar la administración bajo
+monitorización electrocardiográfica.
+De 1 a 15 años: Dosis inicial: 0,1-0,3 mg/Kg en dosis única al menos durante dos minutos.
+No exceder de 5 mg. Si fuese necesario, se repetirá la misma dosis a los 30 minutos.
+ 4.3   Contraindicaciones
+Formas orales:
+Insuficiencia cardíaca izquierda.
+Hipotensión (sistólica menor de 90 mm Hg) o shock cardiogénico.
+Enfermedad del seno (excepto si existe un marcapasos implantado).
+Bloqueo auriculoventricular (AV) de segundo o tercer grado (excepto si existe un
+marcapasos implantado).
+Pacientes con flutter ó fibrilación auricular que tengan un tracto AV accesorio de
+conducción (síndrome de Wolff-Parkinson-White, síndrome de Lown-Ganong-Levine).
+Hipersensibilidad conocida al verapamilo ClH o a cualquiera de los excipientes.
+Forma inyectable:
+Hipotensión severa o shock cardiogénico.
+Bloqueo AV de segundo o tercer grado (excepto si existe un marcapasos implantado).
+Enfermedad del seno (excepto si existe un marcapasos implantado).
+Insuficiencia cardíaca congestiva severa.
+Pacientes que estén recibiendo bloqueantes beta-adrenérgicos.
+Pacientes con flutter o fibrilación auricular que tengan un tracto AV accesorio de
+conducción (síndrome de Wolff-Parkinson-White, síndrome de Lown-Ganong-Levine).
+Taquicardia ventricular (excepto la verapamilo-sensible).
+Infarto agudo de miocardio.
+Hipersensibilidad conocida al verapamilo ClH.
+ 4.4   Advertencias y precauciones especiales de empleo
+Formas orales:
+Deberá utilizarse con precaución en la fase aguda del infarto de miocardio.
+Los pacientes con insuficiencia cardiaca o depresión de la función ventricular deberán ser
+compensados antes de iniciarse el tratamiento con verapamilo.
+En insuficiencia hepática ó renal la dosis se ajustará individualmente.
+En sujetos con disminución de la transmisión neuromuscular deberá utilizarse con
+precaución (especialmente los afectados por el síndrome de Duchenne).
+Manidón® 120 retard contiene lactosa. Se ha descrito casos de intolerancia a este
+componente en niños y adolescentes. Aunque la cantidad presente en este preparado no es,
+probablemente, suficiente para desencadenar los síntomas de intolerancia, en caso de que
+aparecieran diarreas debe consultar a su médico.
+Forma inyectable:
+El verapamilo i.v. deberá ser administrado de forma lenta, durante un tiempo no inferior a
+dos minutos y bajo control continuo de la presión sanguínea y del electrocardiograma.
+Los pacientes con insuficiencia cardiaca deberán ser compensados antes de iniciarse en
+ellos el tratamiento con verapamilo i.v.
+En insuficiencia hepática o renal deberá ajustarse la dosis.
+Se recomienda monitorización en pacientes con distrofia muscular de Duchene y en
+pacientes con tumores supratentoriales.
+ 4.5      Interacción con con otros medicamentos y otras formas de interacción
+Los estudios metabólicos in vitro indican que el clorhidrato de verapamilo es metabolizado por las enzimas CYP3A4, CYP1A2, CYP2C8, CYP2C9 y CYP2C18
+ del citocromo P450. Se ha demostrado que el verapamilo es un inhibidor de las enzimas CYP3A4. Se han referido interacciones clínicas significativas con los
+ inhibidores de CYP3A4 que han provocado aumento de los niveles plasmáticos de hidrocloruro de verapamilo mientras que los inductores de CYP3A4 han
+ causado una disminución de dichos niveles, por lo tanto, los pacientes deben ser monitorizados cuando existan interacciones con medicamentos.
+La Tabla siguiente proporciona un listado de las interacciones medicamentosas potenciales
+debido a razones farmacocinéticas:
+                                                      Interacciones potenciales asociadas con el verapamilo
+ Fármaco concomitante                                 Efecto potencial sobre verapamilo o el                              Comentarios
+Bloqueantes alfa
+Prazosina                                                                                                                Ver información
+Terazosina
+Antiarrítmicos
+Flecainida                                           Efecto mínimo sobre el aclaramiento     Ver también
+Quinidina
+Antiasmáticos
+Teofilina
+Anticonvulsivantes
+Carbamazepina                                                                                                            Ver información
+Antidepresivos
+Imipramina                                                                      Ningún efecto sobre
+Antidiabéticos
+Gliburida
+Antiinfecciosos
+Eritromicina
+Rifampina
+Telitromicina
+Antineoplásicos
+Doxorubicina                                                                    En pacientes con
+Barbitúricos
+Fenobarbital
+Benzodiacepinas y otros ansiolíticos
+Buspirona
+Midazolam
+Betabloqueantes
+Metoprolol
+Propranolol
+Glucósidos cardiacos
+Digitoxina
+Digoxina                                                                        Ver también
+Antagonistas de receptores H2
+Cimetidina
+ Inmunológicos
+Ciclosporina
+Sirolimus
+Tacrolimus
+Agentes reductores de lípidos
+Atorvastatina                                                                     Ver información
+Lovastatina
+Simvastatina
+Antagonistas de receptores de serotonina
+Almotriptán
+Uricosúricos
+Sulfinpirazona                                                                    Ver información
+Otros
+Zumo de pomelo                                                                    No afectados la
+Mosto de San Juan
+     Otras interacciones con medicamentos e información adicional
+_   Antiarrítmicos, betabloqueantes
+Potenciación mutua de los efectos cardiovasculares (mayor grado de bloqueo AV, mayor
+grado de disminución de la frecuencia cardiaca, inducción de insuficiencia cardiaca e
+hipotensión potenciada)
+Antihipertensivos, diuréticos, vasodilatadores
+_
+Potenciación del efecto hipotensor.
+Prazosina, terazosina
+_
+Efecto hipotensor aditivo.
+Agentes antivirales VIH
+_
+Debido al potencial inhibitorio metabólico de algunos antivirales VIH, como ritonavir, las
+concentraciones plasmáticas de verapamilo pueden aumentar. Debe tenerse precaución o
+puede disminuirse la dosis de verapamilo.
+Quinidina
+_
+Hipotensión
+Puede aparecer edema pulmonar en pacientes con cardiomiopatía obstructiva hipertrófica.
+Carbamazepina
+_
+Aumento de los niveles de carbamazepina. Esto puede producir efectos secundarios de
+carbamazepina como diplopía, cefalea, ataxia o mareo.
+Litio
+_
+ Se ha referido un aumento de la sensibilidad a los efectos del litio (neurotoxicidad) durante
+la terapia concomitante de hidrocloruro de verapamilo-litio sin que se produzcan cambios o
+con aumentos en los niveles séricos del litio. La adición del hidrocloruro de verapamilo, sin
+embargo, ha producido también la disminución de los niveles séricos de litio en pacientes
+que reciben de forma crónica estable litio oral. Los pacientes que reciban ambos fármacos
+deben ser monitorizados cuidadosamente.
+Rifampina
+_
+Puede reducirse el efecto de disminución de la presión arterial.
+Sulfinpirazona
+_
+Puede reducirse el efecto de disminución de la presión arterial.
+_     Bloqueantes neuromusculares
+Los datos clínicos y los estudios en animales sugieren que el clorhidrato de verapamilo
+puede potenciar la actividad de los agentes bloqueantes neuromusculares (tipo curare y
+despolarizantes). Puede ser necesario disminuir la dosis de hidrocloruro de verapamilo y/o
+la dosis del agente bloqueante neuromuscular cuando los fármacos se usan de forma
+concomitante..
+Ácido acetilsalicilico
+_
+Aumenta la tendencia al sangrado
+Etanol (alcohol)
+_
+Elevación de los niveles plasmáticos de etanol.
+Inhibidores de HMG Co-A Reductasa (""Estatinas"")
+_
+El tratamiento con inhibidores de HMG CoA reductasa (por ejemplo
+simvastatina/lovastatina) en un paciente que toma verapamilo debe iniciarse con la dosis
+más baja posible y valorarse hacia arriba. Si el tratamiento con verapamilo se añade a los
+pacientes que ya están recibiendo un inhibidor de HMG CoA reductasa (por ejemplo
+simvastatina/lovastatina), debe considerarse una reducción en la dosis de estatina y valorar
+de nuevo frente a las concentraciones de colesterol sérico.
+No existe evidencia clínica directa in vivo para una interacción entre atorvastatina y
+verapamilo, sin embargo, existe una fuerte posibilidad de que verapamilo afecte de forma
+significativa la farmacocinética de atorvastatina de forma similar a simvastatina y
+lovastatina. Se considera que hay que tener precaución cuando se administren de forma
+concomitante atorvastatina y verapamilo.
+Fluvastatina, pravastatina y rosuvastatina no son metabolizadas por CYP3A4 y es menos
+probable que interactúen con verapamilo.
+Anestésicos inhalatorios
+_
+Cuando se usan de forma concomitante los anestésicos inhalatorios y los antagonistas del
+calcio, como verapamilo, cada uno debe ser valorado cuidadosamente para evitar una
+excesiva depresión cardiovascular.
+Fármacos que se unen a las proteínas
+_
+Como hidrocloruro de verapamilo se une en gran medida a las proteínas plasmáticas, debe
+ser administrado con precaución a los pacientes que están recibiendo otros fármacos que se
+unen en gran extensión a las proteínas.
+ _     En raras ocasiones, incluyendo cuando los pacientes con cardiomiopatía grave, insuficiencia
+cardiaca congestiva o infarto de miocardio reciente reciben agentes bloqueantes beta
+adrenérgicos intravenosos o disopiramida de forma concomitante con hidrocloruro de
+verapamilo intravenoso, han ocurrido efectos adversos graves. El empleo concomitante de
+hidrocloruro de verapamilo con agentes que disminuyen la función adrenérgica puede dar
+como resultado una respuesta hipotensora exagerada.
+ 4.6   Embarazo y lactancia.
+                                                                                                       MINISTERIO
+No se ha establecido la seguridad del fármaco durante el embarazo; por lo tanto, no se
+recomienda su uso, especialmente en el primer trimestre.
+Asimismo, se tendrá en cuenta que se elimina en parte por la leche materna, por lo que
+durante el tratamiento con verapamilo se debe suspender la lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas.
+A veces puede producirse una disminución de la capacidad en la conducción de vehículos o
+máquinas peligrosas.
+ 4.8   Reacciones adversas.
+Formas orales:
+Trastornos gastrointestinales: Estreñimiento, náuseas, vómitos, íleo, hiperplasia gingival,
+dolor/malestar abdominal.
+Trastornos cardíacos: Bradicardia sinusal, palpitaciones, edema periférico, bloqueo AV de
+primero, segundo y tercer grado, taquicardia, insuficiencia cardíaca, pausa sinusal.
+Trastornos vasculares: hipotensión, crisis vasomotora.
+Trastornos del sistema nervioso central: Mareo, cefaleas ,              parestesia, temblor,
+somnolencia.
+Trastornos del sistema reproductor y de la mama: Impotencia, galactorrea, ginecomastia.
+Trastornos del oído y del laberinto: vértigo.
+Trastornos del sistema inmunitario: reacciones alérgicas.
+Trastornos del músculo esquelético y del tejido conectivo: debilidad muscular, dolor de
+articulaciones.
+Trastornos de la piel y del tejido subcutáneo: Angioedema, síndrome de Stevens-Johnson,
+exantema maculopapular, urticaria, púrpura, prurito, eritema multiforme, diaforesis.
+Trastornos generales: Fatiga.
+Parámetros de laboratorio: Elevación de enzimas hepáticos, niveles elevados de prolactina.
+Forma inyectable:
+Se ha usado la siguiente convención: frecuente: (>1/100, <1/10), poco frecuente (>1/1000,
+<1/100)
+Trastornos vasculares: Hipotensión sintomática (frecuente).
+Trastornos cardiacos: bradicardia (frecuente), taquicardia grave (poco frecuente).
+Trastornos del sistema nervioso central: Mareo (frecuente), cefalea (frecuente).
+Trastornos gastrointestinales: Náuseas (poco frecuente), malestar abdominal (poco
+frecuente).
+Se han referido casos de convulsiones.
+Raramente hipersensibilidad, broncoespasmo acompañado de prurito y urticaria.
+ 4.9   Sobredosis
+La sobredosificación de verapamilo se ha relacionado con la aparición de bradicardia,
+hipotensión, disociación AV e hiperglucemia. Se administrarán betaadrenérgicos, atropina
+y, si fuera necesario, se realizará electroestimulación.
+En caso de aparecer insuficiencia cardíaca se podrá utilizar alguno de los siguientes
+fármacos: dopamina, dobutamina, digitálicos o gluconato cálcico (10-20 ml de solución al
+10%).
+Si hubiese hipotensión marcada colocar al paciente en posición de Trendelenburg y
+administrar: norepinefrina, dopamina o dobutamina.
+Para las formulaciones orales de liberación prolongada como la absorción de verapamilo es
+más lenta, los pacientes pueden requerir observación y hospitalización hasta las 48 horas.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.2   Propiedades farmacocinéticas
+Más del 90% de una dosis oral se absorbe rápidamente. Sin embargo, la biodisponibilidad
+es sólo de un 20-30% debido al metabolismo de primer paso hepático.
+Con las formulaciones orales de liberación instantánea, las concentraciones plasmáticas
+máximas se alcanzan entre la 1ª y la 2ª hora después de la administración. La vida media
+plasmática, de un rango entre 2 a 8 horas tras una dosis única, se incrementa de 4,5 a 12
+horas tras la administración de dosis repetidas.
+Con las formulaciones orales de liberación sostenida, las concentraciones plasmáticas
+máximas se alcanzan entre la 4ª y la 8ª hora tras la administración tanto de una dosis única
+como de dosis repetidas.
+El verapamilo administrado por vía intravenosa presenta una cinética de eliminación de tipo
+biexponencial, con una rápida distribución en la fase inicial (actúa en aproximadamente 5
+minutos) y una eliminación más lenta en la fase terminal, con una vida media plasmática de
+2 a 8 horas.
+La unión del verapamilo a proteínas plasmáticas es de aproximadamente el 90%. El
+verapamilo es ampliamente metabolizado en el hígado en numerosos metabolitos, de los
+que solo el norverapamilo ha demostrado tener actividad farmacológica.
+El verapamilo y sus metabolitos se excretan principalmente por la orina, solo el 3-4% se
+excreta como fármaco inalterado. A las 24 horas se excreta el 50% de la dosis con la orina;
+a las 48 horas el 55-60%, y a los 5 días el 70% de la dosis administrada. El 16% como
+máximo se excreta por las heces.
+Estudios recientes han demostrado que no existen diferencias en la farmacocinética del
+verapamilo entre personas con función renal normal y pacientes con insuficiencia renal
+terminal.
+ 5.3   Datos preclínicos sobre seguridad
+En estudios crónicos, de hasta 18 meses, con dosis orales entre 10 - 62,5 mg/Kg de peso en
+ratas y 10 - 85 mg/Kg de peso en perros Beagle, el verapamilo fue en general bien tolerado.
+Los exámenes cardiocirculatorios revelaron bradicardia, inhibición de la conducción AV y
+descenso de la tensión arterial.
+Estudios de reproducción realizados con verapamilo en conejos y ratas, con dosis orales de
+hasta 15 mg/Kg/día y 60 mg/Kg/día, no revelaron evidencia de teratogenicidad. Sin
+embargo, en ratas con la dosis más alta se observó efecto embriotóxico (tasa de reabsorción
+superior a la normal).
+El verapamilo no resultó mutagénico en una amplia batería de pruebas: test de Ames, de
+aberración cromosómica con linfocitos humanos in vitro, inducción de intercambio de
+cromátidas hermanas, etc.
+Tampoco mostró potencial carcinogénico en ratas, administrado en la dieta durante dos
+años, a dosis de 10, 35 y 120 mg/Kg/día.
+                                                                                                          MINISTERIO
+
+6.    DATOS FARMACÉUTICOS
+	6.2   Incompatibilidades
+El hidrocloruro de verapamilo inyectable puede precipitar con soluciones alcalinas (p. ej.
+solución de bicarbonato).
+ 6.3   Periodo de validez
+Todas las especialidades Manidón® tienen cinco años de periodo de validez, excepto
+Manidón® 180 retard con una caducidad actual de tres años.
+ 6.4   Precauciones especiales de conservación
+No se precisan condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del envase
+Formas orales:
+Manidón® 80: envases con 30 y 60 comprimidos con cubierta pelicular.
+Manidón® 120 retard: envases con 60 comprimidos de liberación prolongada.
+Manidón® 180 retard: envases con 60 comprimidos de liberación prolongada.
+Manidón® HTA: envases con 30 comprimidos de liberación prolongada.
+(Todas las formas orales Manidón® se presentan en blister).
+Forma inyectable:
+Manidón® inyectable: envase con 5 ampollas de 5 mg/2 ml.
+ 6.6   Precauciones especiales de eliminación
+Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+Manidón® 80: 50891
+Manidón® 120 retard: 53434
+Manidón® 180 retard: 60724
+Manidón® HTA: 58369
+Manidón® inyectable: 39784
+
+9.    FECHA DE LA REVALIDACIÓN DE LA AUTORIZACIÓN
+	10. FECHA DE LA REVISIÓN DEL TEXTO
+Junio 2007
+
+	 
+      MANIDON 80 ,comprimidos con cubierta pelicular, 30 comprimidos
+         Prospectos de medicamentos.

@@ -1,0 +1,163 @@
+URINORM, 30 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	URINORM, 100 mg, comprimidos.
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene:
+Benzbromarona (D.C.I.)...............................................100 mg
+ Lista de excipientes, en 6.1
+ 
+3.     FORMA FARMACÉUTICA
+	Comprimidos.
+ 
+
+
+4.     DATOS CLÍNICOS
+	4.1    Indicaciones terapéuticas
+Urinorm es un medicamento hepatotóxico y por tanto está indicado únicamente en
+pacientes que no respondan o no toleren el tratamiento con alopurinol en alguna de las
+siguientes situaciones:
+            -     Pacientes con gota severa (gota poliarticular o gota tofácea) en los que es
+imprescindible el control de la hiperuricemia
+-     Hiperuricemia en pacientes con insuficiencia renal con aclaramiento de creatinina
+superior a 20 ml/min
+-     Hiperuricemia en pacientes con transplante renal
+        Urinorm es una especialidad de Diagnóstico Hospitalario, por lo que los tratamientos con
+esta especialidad únicamente deben ser iniciados por médicos especialistas en reumatología
+o nefrología.
+ 4.2    Posología y forma de administración
+La dosificación es habitualmente de 50 a 100 mg/día (medio o un comprimido).
+Las dosis pueden incrementarse a 2 comprimidos al día (200 mg), especialmente en la gota
+tofácea.
+ 4.3    Contraindicaciones
+- Alergia conocida a Benzbromarona.
+- Pacientes con insuficiencia hepática.
+- Porfiria hepática.
+       - Uso concomitante de fármacos hepatotóxicos, especialmente agentes antituberculosos
+(ver apartado 4.5 Interacción con con otros medicamentos y otras formas de interacción).
+- Hiperuraturia superior a 700 mg/24 h.
+- Litiasis úrica.
+- Gota secundaria a hemopatía.
+ 4.4   Advertencias y precauciones especiales de empleo
+       4.4.1 Advertencias especiales
+       Hepatotoxicidad: se han notificado casos de hepatotoxicidad grave, algunos de ellos
+con desenlace mortal. La lesión hepática es predominantemente de tipo citolítico y
+aparece principalmente en el curso del primer año de tratamiento, por lo que se
+recomienda realizar pruebas de la función hepática con una periodicidad quincenal
+durante el primer año de tratamiento. No obstante, esta pauta en la periodicidad de
+los controles de función hepática puede modificarse a criterio médico o según los
+protocolos clínicos establecidos
+       En caso de que los valores de las transaminasas excediesen en dos veces o más el límite
+superior normal, debe de valorarse bien el aumentar la frecuencia de los controles analíticos
+o la interrupción del tratamiento. El paciente debe ser sometido a una vigilancia estricta
+hasta la normalización de las pruebas de función hepática. En caso de que los valores de las
+transaminasas siguieran aumentando, se deberá de interrumpir el tratamiento.
+ Antes del comienzo del tratamiento, es preciso informar a los pacientes de la posible
+aparición de trastornos hepáticos graves (ver apartado 4.8.: Reacciones Adversas),
+obteniendo su consentimiento expreso para comenzar el tratamiento. Se le debe de
+advertir que debe interrumpir el tratamiento y ponerse inmediatamente en contacto
+con su médico si experimenta náuseas, vómitos, dolor abdominal, astenia, anorexia,
+ictericia o coluria.
+       4.4.2 Precauciones especiales
+       Antes del inicio del tratamiento debe determinarse la uraturia de 24 horas, que no debe
+superar los 700 mg/24 h (ver apartado 4.3 Contraindicaciones). Para prevenir el riesgo de
+cálculos renales (litiasis úrica) y cólico renal (ver apartado 4.8 Reacciones adversas) se
+indicará al paciente que aumente la la ingesta de líquidos para incrementar la diuresis y se
+le prescribirá un agente alcalinizante de la orina.
+       Benzbromarona debe utilizarse con prudencia en pacientes con insuficiencia renal,
+especialmente en pacientes con insuficiencia renal grave (tasa de filtración glomerular <
+20ml), ya que en estos pacientes la eficacia del tratamiento es muy limitada. Por tanto,
+ deberá considerarse de forma individual el beneficio que se obtiene frente al riesgo
+potencial del tratamiento.
+Igual que con otros uricosúricos, el tratamiento con Benzbromarona no debe iniciarse en el
+curso de un ataque agudo de gota.
+       Al inicio del tratamiento conviene adoptar las precauciones habituales para evitar un ataque
+agudo de gota, como ocurre frecuentemente al inicio de un tratamiento uricosúrico. Para
+reducir la frecuencia de los ataques puede prescribirse colchicina conjuntamente con
+Benzbromarona
+       El médico valorará en todos los casos la conveniencia de otras medidas terapéuticas e
+higiénico-dietéticas (tratamiento diurético, dieta)
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+       Fármacos hepatotóxicos: Debe evitarse su administración concomitante, especialmente con
+los fármacos antituberculosos (ver apartado 4.3 Contraindicaciones).
+       La piracinamida puede interferir con la actividad uricosúrica de Benzbromarona; su
+administración concomitante puede disminuir la eficacia de Benzbromarona. Además, tal
+como se ha indicado anteriormente, puede constituir un factor de riesgo de hepatotoxicidad.
+       Salicilatos: Los salicilatos disminuyen el efecto uricosúrico (competencia con la
+eliminación de ácido úrico en los túbulos renales).
+       Anticoagulantes orales: Benzbromarona puede incrementar la actividad anticoagulante de
+las antivitaminas K.
+ 4.6   Embarazo y lactancia
+       Embarazo:
+Aunque en los estudios de experimentación animal no se han demostrado efectos
+teratógenos, no se dispone de datos suficientes para administrar Benzbromarona en mujeres
+gestantes; en consecuencia, no se efectuarán tratamientos con Benzbromarona durante el
+embarazo.
+       Lactancia: Debido a la carencia de datos, no se recomienda administrar Benzbromarona
+durante la lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+No procede.
+ 4.8   Reacciones adversas
+       Trastornos hepáticos: Se han notificado infrecuentemente casos de lesión hepática,
+incluyendo casos de hepatitis fulminante. Esta lesión hepática, predominantemente de tipo
+citolítico, aparece principalmente en el curso del primer año de tratamiento (ver apartados
+4.3 Contraindicaciones y 4.4.1 Advertencias especiales).
+Trastornos renales como litiasis úrica y cólico renal (ver apartado 4.4.2 Precauciones
+especiales).
+       Reacciones de Hipersensibilidad: con escasa frecuencia se han notificado exantemas
+alérgicos.
+       Trastornos gastrointestinales: diarrea, náuseas.
+ 4.9   Sobredosis
+En caso de sobredosis pueden aparecer, náuseas, vómitos, diarrea, trastornos de la función
+renal y lesión hepatocelular. Debe controlarse la función renal y las transaminasas y
+administrar el tratamiento sintomático apropiado.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+Benzbromarona es un agente hipouricémico y uricosúrico.
+Benzbromarona inhibe la reabsorción tubular de ácido úrico incrementando su aclaramiento
+renal y también puede aumentar la eliminación intestinal del mismo.
+Aumenta la uraturia y la alantoinuria y reduce al mismo tiempo la uricemia.
+Benzbromarona corrige específicamente la hiperuricemia derivada de una eliminación
+deficiente pero no la originada por un exceso de síntesis de ácido úrico.
+ 5.2   Propiedades farmacocinéticas
+Se han estudiado las propiedades farmacocinéticas con Benzbromarona marcada con tritio.
+Tras la administración de una única dosis oral de 100 mg, la concentración plasmática
+aumenta durante unas 6 horas. La concentración plasmática máxima es en promedio de 1,5
+g/ml.
+La radiactividad declina hasta la duodécima hora; seguidamente, se mantiene durante un
+periodo prolongado comprendido entre 12 y 48 horas. Por último, la radiactividad
+desaparece rápidamente de la sangre.
+       Se excreta principalmente por el intestino: 94% en las heces (sólo 6% en la orina).
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+Almidón de maíz, lactosa, povidona K-90, carboximetilalmidón sódico y estearato
+magnésico.
+ 6.2   Incompatibilidades
+No procede.
+ 6.3   Periodo de validez
+Tres años.
+                                                                                                    MINISTERIO
+6.4   Precauciones especiales de conservación
+Debe conservarse en un lugar seco y a temperatura ambiente (inferior a 25ºC).
+ 6.5   Naturaleza y contenido del recipiente
+Blister de PVC y aluminio. Envase con 30 comprimidos.
+ 6.6   Instrucciones de uso y manipulación
+Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	PROSTRAKAN FARMACEUTICA, S.L.
+Avda. burgos, 17 - 1ª Planta
+28036 Madrid (España)
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Este producto se autorizó en España en fecha 22-06-1971.
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ Febrero 2004
+
+	 
+      URINORM, 30 comprimidos
+         Prospectos de medicamentos.

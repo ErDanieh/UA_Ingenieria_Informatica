@@ -1,0 +1,154 @@
+BACTROBAN POMADA, 30G POMADA
+	Información Basica del medicamento Toda la información del medicamento 
+1.       NOMBRE DEL MEDICAMENTO
+	
+2.       COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	
+3.       FORMA FARMACEUTICA
+	Pomada
+ Pomada de color blanquecino.
+ 
+
+
+4.       DATOS CLÍNICOS
+	4.2     Posología y forma de administración
+Adultos y niños
+Una aplicación 2-3 veces al día durante 5-10 días, dependiendo de la respuesta.
+Si tras 3-5 días de tratamiento con mupirocina no se aprecia mejoría se debe reconsiderar el
+diagnóstico y/o el tratamiento.
+Ancianos
+No es necesario efectuar un ajuste posológico a menos que exista riesgo de absorción sistémica de
+polietilenglicol y haya evidencia de insuficiencia renal moderada o grave (ver apartado 4.4).
+ Pacientes con insuficiencia renal
+Bactroban debe utilizarse con precaución en pacientes con insuficiencia renal (ver apartado 4.4).
+Forma de administración
+Uso cutáneo, mediante la aplicación de una pequeña cantidad de pomada sobre la zona afectada.
+En caso necesario puede cubrirse la zona tratada con un vendaje oclusivo o de gasa. La zona a
+tratar debe lavarse y secarse cuidadosamente antes de la administración.
+ 4.3     Contraindicaciones
+Hipersensibilidad a la mupirocina o a cualquiera de los excipientes de la formulación.
+ 4.4     Advertencias y precauciones especiales de empleo
+Bactroban debe administrase exclusivamente mediante uso cutáneo, debiéndose evitar el contacto
+con los ojos y las mucosas. En caso de contacto con los ojos, éstos se deben lavar cuidadosamente
+con agua hasta eliminar los residuos de pomada.
+Bactroban pomada no es adecuado para administración nasal (existe una presentación diferente de
+mupirocina para administración por esta vía).
+Bactroban pomada contiene polietilenglicol (macrogol), motivo por el que debe administrarse con
+precaución a pacientes con insuficiencia renal o a pacientes de edad avanzada, en los que la
+presencia de insuficiencia renal y la posibilidad de absorción sistémica de polietilenglicol a través
+de piel dañada podrían empeorar la función renal.
+En el caso de que se produjera sensibilización o irritación local grave durante el empleo de este
+medicamento, el tratamiento debe interrumpirse y el resto de crema eliminarse, instaurándose un
+tratamiento alternativo apropiado para la infección.
+El uso prolongado de este medicamento puede dar lugar a la selección de microorganismos
+resistentes.
+ 4.5     Interacción con con otros medicamentos y otras formas de interacción
+No se han realizado estudios de interacción con con otros medicamentos. Sin embargo, no se
+recomienda el uso simultáneo con otras preparaciones de uso cutáneo.
+ 4.6     Embarazo y lactancia
+Embarazo
+No se dispone de datos adecuados sobre el uso de mupirocina en mujeres embarazadas. Los
+estudios en animales no muestran efectos dañinos directos o indirectos sobre el embarazo,
+desarrollo embriofetal, parto o desarrollo postnatal (ver apartado 5.3). Este medicamento debería
+prescribirse con precaución a mujeres embarazadas.
+Lactancia
+No se dispone de información suficiente sobre la excreción de mupirocina por la leche materna.
+Dado que no se puede descartar la exposición del lactante a este antibiótico, especialmente
+cuando el riesgo de absorción sistémica sea mayor, el uso de mupirocina debe basarse en la
+relación beneficio-riesgo tanto para la madre como para el lactante.
+ 4.7     Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+No se han llevado a cabo estudios específicos pero es poco probable que este medicamento afecte
+la capacidad para conducir vehículos y manejar maquinaria.
+ 4.8    Reacciones adversas
+A continuación se enumeran las reacciones adversas clasificadas por órganos y frecuencia. Las
+frecuencias se definen como: muy frecuentes (1/10), frecuentes (1/100, <1/10), poco frecuentes
+(1/1000, <1/100), raras (1/10.000, <1/1000), muy raras (<1/10.000), incluyendo casos aislados.
+Las reacciones adversas frecuentes y poco frecuentes se determinaron a partir de los datos de
+seguridad de una población de ensayos clínicos de 1.573 pacientes tratados en 12 ensayos
+clínicos. Las reacciones adversas muy raras se determinaron fundamentalmente a partir de los
+datos de post-comercialización.
+Trastornos del sistema inmunológico
+Muy raras:           Reacciones alérgicas sistémicas.
+Trastornos de la piel y del tejido subcutáneo
+Frecuentes:           Quemazón localizada en el área de aplicación.
+Poco frecuentes:      Picor, eritema, escozor y sequedad localizados en el área de aplicación.
+4.9     Sobredosis
+Se dispone de información limitada sobre casos de sobredosis con Bactroban pomada. En caso de
+ingestión accidental se debe administrar tratamiento sintomático.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	      Grupo farmacoterapéutico (código ATC): Otros antibióticos para uso tópico (D06A X09)
+       Modo de acción
+ La mupirocina es un antibiótico producido a través de la fermentación de Pseudomonas
+fluorescens. Ejerce su acción antibacteriana a través de la inhibición de la síntesis proteica,
+compitiendo con la isoleucina por su sitio de fijación a la enzima isoleucil-tRNA sintetasa,
+impidiendo así la incorporación de la isoleucina a la cadena de aminoácidos en formación.
+ La mupirocina presenta actividad bacteriostática a concentraciones similares a la CMI y es
+bactericida a concentraciones superiores.
+       Mecanismos de resistencia
+ La resistencia de bajo nivel en estafilococos (CMIs 8-256 mcg/ml) se debe a cambios en la
+enzima isoleucil tRNA sintetasa nativa. La resistencia de alto nivel en estafilococos (CMIs > 512
+mcg/ml) se debe a una enzima isoleucil tRNA sintetasa nativa diferente, codificada por plásmidos.
+ La mupirocina no muestra resistencia cruzada con ningún otro antibacteriano conocido.
+ Puntos de corte
+Los valores de CMI que permiten distinguir entre microorganismos sensibles y resistentes son los
+siguientes:
+ La prevalencia de la resistencia adquirida puede variar geográficamente y con el tiempo para
+                                                                                                     MINISTERIO
+determinadas especies, por lo que es deseable disponer de información local sobre la misma,
+sobre todo en el tratamiento de infecciones graves. Se debería solicitar la opinión de un experto si
+la prevalencia local de resistencia es tal que limite el uso de mupirocina en, al menos, algunos
+tipos de infecciones.
+ Microorganismos habitualmente sensibles
+Staphylococcus aureus*
+Streptococcus spp*
+Microorganismos para los cuales la resistencia adquirida puede constituir un problema
+ Staphylococcus epidermidis*
+Estafilococos coagulasa negativos*
+Microorganismos intrínsecamente resistentes
+ Corinebacterium spp
+Micrococcus spp
+Enterobacteriaceae
+Bacilos gram negativos no fermentadores
+ * Se ha demostrado eficacia clínica para aislados sensibles a mupirocina en las indicaciones
+clínicas aprobadas.
+5.2         Propiedades farmacocinéticas
+ La mupirocina no se absorbe prácticamente a través de la piel humana intacta. Puede ocurrir
+absorción sistémica a través de la piel dañada o de heridas abiertas o tras administración por vía
+sistémica, en cuyo caso se metaboliza a ácido mónico, metabolito inactivo, que se excreta
+principalmente por el riñón (90%).
+ 5.3         Datos preclínicos sobre seguridad
+ Los resultados de los estudios no clínicos de toxicidad de dosis repetidas y toxicidad para la
+reproducción no muestran riesgos especiales para los seres humanos. En algunos estudios de
+genotoxidad se observó que mupirocina fue débilmente positiva. Se desconoce la relevancia
+clínica de este hallazgo.
+
+6.          DATOS FARMACÉUTICOS
+	6.2         Incompatibilidades
+                                                                                                        MINISTERIO
+No procede.
+ 6.3      Periodo de validez
+2 años
+ 6.4      Precauciones especiales de conservación
+No conservar a temperatura superior a 25 ºC.
+ 6.5      Naturaleza y contenido del envase
+Tubo de aluminio con boquilla y tapón conteniendo 15 o 30 gramos de pomada.
+ 6.6      Precauciones especiales de eliminación
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en
+contacto con él, se realizará de acuerdo con las normativas locales.
+ 7        TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ GlaxoSmithKline, S.A.
+P.T.M.- C/Severo Ochoa, 2
+28760 Tres Cantos (Madrid)
+ 
+8.       NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	58.868
+ 9.       FECHA DE LA PRIMERA AUTORIZACIÓN / RENOVACIÓN DE LA
+AUTORIZACIÓN
+Fecha de la primera autorización: 04/02/1991
+Fecha de la renovación: 30/11/ 2000
+ 10.      FECHA DE REVISIÓN DEL TEXTO
+
+	 
+      BACTROBAN POMADA,  15G POMADA
+         Prospectos de medicamentos.

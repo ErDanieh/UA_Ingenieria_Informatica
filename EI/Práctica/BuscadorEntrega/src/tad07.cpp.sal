@@ -1,0 +1,4 @@
+0 DFR fichero1 0 1.775699 pal1 pal4 pal2 pal3 pal1. pal2, pal4 pal2
+0 DFR fichero2 1 1.260583 pal1 pal4 pal2 pal3 pal1. pal2, pal4 pal2
+0 BM25 fichero1 0 -2.193723 pal1 pal4 pal2 pal3 pal1. pal2, pal4 pal2
+0 BM25 fichero2 1 -3.326297 pal1 pal4 pal2 pal3 pal1. pal2, pal4 pal2

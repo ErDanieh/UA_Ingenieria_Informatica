@@ -1,0 +1,317 @@
+FACTOR IX/X P BEHRING 1200UI 1 VIAL 30ML
+	Información Basica del medicamento Toda la información del medicamento Aventis Behring
+ FICHA TÉCNICA
+ 
+1.      NOMBRE DEL MEDICAMENTO
+	        FACTORES IX/X P BEHRING 600 U.I.
+FACTORES IX/X P BEHRING 1200 U.I.
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	        2.1       Composición cualitativa
+Factores IX y X de la coagulación, humanos.
+         2.2       Composición cuantitativa
+FACTORES IX/X P BEHRING                                        600 UI                 1200 UI
+Liofilizado                                                                           784-1791
+Factor IX                                                                             1200 UI*
+Factor X                                                                              1200 UI*
+Proteína total                                                                        60-300 mg
+*OMS estándar 84/681
+ 
+3.      FORMA FARMACÉUTICA
+	        FACTORES IX/X P BEHRING se presenta en un vial con polvo liofilizado y un vial de
+disolvente para preparación de una solución inyectable intravenosa.
+ 
+4.      DATOS CLÍNICOS
+	"        4.1       Indicaciones
+- Profilaxis y tratamiento de hemorragias en pacientes con:
+- deficiencia congénita de factor IX (hemofilia B)
+- deficiencia adquirida de factor IX
+         4.2 Posología y forma de administración
+4.2.1 Posología
+La dosis y duración de la terapia sustitutiva dependen de la gravedad de la alteración
+de la función hemostática, del lugar y extensión de la hemorragia y del cuadro
+clínico.
+La actividad de una unidad de factor IX es equivalente a la cantidad de factor IX
+existente en un ml de plasma humano normal.
+El cálculo de la dosis requerida de factor IX se basa en el hallazgo empírico de que
+una UI de factor IX por kilo de peso corporal produce aproximadamente un
+incremento medio en actividad del 0,8%.
+La dosis necesaria se determina utilizando la fórmula siguiente:
+Dosis inicial:
+                Unidades necesarias = peso corporal (kg) x aumento deseado de factor IX (%) x 1,2
+ IMPORTANTE:
+La dosis a administrar y la frecuencia de administración dependen de la eficacia
+clínica en cada caso en particular.
+En los episodios hemorrágicos que se detallan en la tabla siguiente, la actividad de
+factor IX no deberá ser inferior al nivel plasmático dado (% del valor normal),
+durante el período que se indica:
+                 Episodio hemorrágico                          Nivel plasmático de      Tiempo durante el
+Hemorragias menores:                                   30%             Como mínimo un día
+- Hemorragias intraarticulares                                         dependiendo de la
+Hemorragias mayores:                                 30-50%            3-4 días o hasta la
+- Hemorragias intramusculares.                                         adecuada
+- Extracción dental.                                                   cicatrización
+- Traumatismo craneal leve.
+- Operaciones intermedias
+- Hemorragias en la cavidad bucal
+Hemorragias con riesgo vital:                        50-75%            7 días, luego
+- Cirugía mayor.                                                       tratamiento durante
+- Hemorragia gastrointestinal.                                         un mínimo de 7 días
+- Hemorragias intracraneales,                                          más, para mantener
+intraabdominales o intratorácicas.                                  el nivel de factor IX
+- Fracturas                                                            en un 30-50%
+                En ciertas circunstancias, pueden necesitarse cantidades superiores a las calculadas,
+especialmente en el caso de la dosis inicial. Particularmente en intervenciones de
+cirugía mayor, es indispensable realizar una monitorización de la terapia sustitutoria
+mediante pruebas de coagulación (actividad plasmática de factor IX).
+En profilaxis antihemorrágica de larga duración, en pacientes con hemofilia B grave,
+deberán administrarse dosis de 10 hasta 25 UI de factor IX por kg de peso corporal, a
+intervalos de 3 a 4 días.
+Los hemofílicos con anticuerpos frente al factor IX (inhibidores) necesitarán un
+tratamiento específico.
+El tratamiento con FACTORES IX/X P BEHRING puede producir tolerancia
+inmunitaria.
+          4.2.2 Forma de administración
+Inyección:
+Reconstituir la preparación tal como se describe en el apartado 6.6, luego:
+1. Abrir el envase del filtro, montar la jeringa en el filtro y retirar el envase.
+2. Quitar la cubierta protectora y, sin tocar la punta de la aguja, introducir ésta en el
+tapón del vial que contiene la solución.
+3. Aspirar lentamente la solución (si se precisan varias jeringas dejar el filtro en el
+vial).
+                                                                                                            MINISTERIO
+4. Administrar mediante inyección intravenosa lenta (máx. 4 ml/min.) utilizando un
+equipo de perfusión o una aguja de inyección adecuada teniendo la precaución de
+que no entre sangre en la jeringa llena.
+Infusión:
+(Cuando a criterio facultativo deban administrarse dosis relativamente grandes):
+Reconstituir la preparación tal como se describe en el apartado 6.6, e infundir
+lentamente mediante un equipo de infusión con dispositivo filtrante.
+ 4.3   Contraindicaciones
+En pacientes con trombosis o infarto de miocardio recientes o enfermedad coronaria
+conocida, debe sopesarse la relación riesgo-beneficio del tratamiento frente al riesgo
+de no tratar al paciente (ver apartado 4.4).
+Evidencia presente o pasada de alergia a la heparina, con descenso del número de
+trombocitos (trombocitopenia de tipo II).
+Se recomienda precaución en pacientes con hipersensibilidad conocida a los
+constituyentes del preparado.
+ 4.4   Advertencias y precauciones especiales de empleo
+En pacientes con historia de alergias conocidas, deberán administrarse
+profilácticamente, corticosteroides y/o antihistamínicos.
+Si se presentan reacciones alérgicas o anafilácticas, la inyección/infusión debe
+suspenderse inmediatamente y proceder de acuerdo con las pautas de la terapia actual
+contra el shock.
+La experiencia con preparados de factor IX de baja pureza (concentrados del
+complejo de protrombina) demuestra que existe un riesgo potencial de trombosis,
+infarto de miocardio o de coagulación intravascular diseminada en los pacientes
+tratados con concentrado de factor IX por lo que, pacientes bajo tratamiento con
+FACTORES IX/X P BEHRING, deberán ser controlados atentamente al objeto de
+detectar posibles signos o síntomas de coagulación intravascular o trombosis. Debido
+al riesgo potencial de complicaciones tromboembólicas, se extremarán las medidas
+de precaución, en los pacientes con un historial de enfermedad coronaria o infarto de
+miocardio, enfermedad hepática, a los que estén en el post operatorio, en neonatos o
+en pacientes con riesgo de acontecimientos tromboembólicos o coagulación
+intravascular diseminada. En cada una de estas situaciones, deberá sopesarse la
+relación entre el beneficio potencial del tratamiento con FACTORES IX/X P
+BEHRING, y el riesgo de estas complicaciones.
+Dado que los FACTORES IX/X P BEHRING contienen heparina, deberá realizarse
+un contaje de plaquetas previamente a la administración, 24 horas después de
+comenzar el tratamiento y luego cada 3 a 4 días, de modo regular, durante las 3
+primeras semanas. Al finalizar el tratamiento con FACTORES IX/X P BEHRING
+se recomienda realizar un recuento adicional de plaquetas.
+Tras un tratamiento repetido con concentrados de factor IX de coagulación de plasma
+humano, deberá determinarse el nivel plasmático de inhibidores frente a los factores
+IX y X.
+Hasta el momento la eliminación o inactivación de algunos virus, tales como el
+parvovirus B 19 es especialmente difícil. El parvovirus B 19 puede afectar con
+especial gravedad a los individuos inmunocomprometidos o a mujeres gestantes
+seronegativas.
+En pacientes tratados con hemoderivados deberá considerarse la conveniencia de una
+vacunación adecuada contra la hepatitis.
+Cuando se administran medicamentos derivados de la sangre o plasma humanos, no
+puede excluirse totalmente la posibilidad de transmisión de enfermedades infecciosas
+(ver apartado 4.8 ""Reacciones adversas"").
+Pacientes con inhibidores
+En el caso de hemofílicos con anticuerpos contra el factor IX (inhibidores) es
+necesario realizar una terapia específica. A partir de la experiencia clínica, se sabe
+que puede obtenerse inmunotolerancia tratando a estos pacientes con concentrados
+del factor IX plasmático humano de la coagulación (ver también ""Reacciones
+adversas"").
+El tratamiento con factor IX se ha mostrado eficaz en pacientes con un título de
+inhibidores inferior a 5 Unidades Bethesda (U.B.). Deberán determinarse los niveles
+de factor IX y los títulos de inhibidor para asegurar una terapia de sustitución
+adecuada. El control de las hemorragias en pacientes con título alto de inhibidores,
+superiores a 5 U.B., puede requerir una terapia exhaustiva de infusión de factor IX,
+que puede no resultar factible debido a las grandes dosis necesarias para mantener los
+niveles adecuados de factor IX. Si no se alcanza la hemostasia con la administración
+de factor IX en presencia de un título alto de inhibidores, habrá de considerarse la
+utilización de concentrado del complejo de protrombina (activados) (CPa) o de
+preparaciones de factor VII activado (FVIIa).
+ 4.5   Interacciones con con otros medicamentos y otras formas de interacción
+Hasta el momento se desconocen interacciones de FACTORES IX/X P BEHRING
+con otros fármacos.
+Al realizar pruebas de coagulación sensibles a la heparina ""ex vivo"", en pacientes
+tratados con altas dosis de FACTORES IX/X P BEHRING, hay que tener en cuenta
+la heparina que contiene el producto.
+ 4.6   Embarazo y lactancia
+No se ha determinado en ensayos clínicos controlados, la seguridad de los
+FACTORES IX/X P BEHRING con respecto a su utilización durante el embarazo
+o el período de lactancia. Los estudios de experimentación animal son insuficientes
+para confirmar la seguridad en la reproducción, desarrollo del embrión o del feto,
+curso de la gestación y desarrollo peri y postnatal. Por lo tanto, los FACTORES
+IX/X P BEHRING sólo deberán utilizarse, durante el embarazo y la lactancia, en
+casos estrictamente necesarios.
+ 4.7   Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+No existen indicios de que los FACTORES IX/X P BEHRING puedan alterar la
+capacidad para conducir vehículos o para manejar maquinaria.
+ 4.8   Reacciones adversas
+- En raras ocasiones, se observan reacciones alérgicas o anafilácticas y/o
+incremento de la temperatura.
+- Desarrollo de anticuerpos frente a los factores IX y/o X.
+- Raramente se ha observado hipervolemia después de la administración de dosis
+muy elevadas de concentrados de factor IX.
+- Existe un riesgo potencial de episodios tromboembólicos y de coagulación
+intravascular diseminada tras la administración de concentrados de factor IX
+- En casos aislados se ha informado del desarrollo de una trombocitopenia de
+origen alérgico (tipo II), con descenso del número de plaquetas a valores
+netamente inferiores a 100.000 por l o menores que el 50% de su valor inicial.
+En pacientes sin hipersensibilidad preexistente a la heparina, el descenso del
+número de plaquetas comienza generalmente entre 6 a 14 días después del inicio
+del tratamiento. En pacientes hipersensibles a la heparina, este descenso puede
+producirse al cabo de horas.
+La forma grave de trombocitopenia puede estar asociada con trombosis arteriales
+y venosas/tromboembolismos, coagulopatía de consumo, en algunos con necrosis
+cutáneas en el lugar de la inyección, petequias, púrpura y melenas. En estos casos,
+el efecto inhibidor de la heparina sobre la coagulación sanguínea puede disminuir
+(tolerancia a la heparina).
+El tratamiento con FACTORES IX/X P BEHRING debe interrumpirse
+inmediatamente en pacientes que desarrollen las reacciones alérgicas antes
+mencionadas. Deberá informarse a estos pacientes de que en el futuro no podrán
+ser tratados con ningún fármaco que contenga heparina. En la sección 4.4 se
+indican las pautas para el control del nivel plaquetario.
+- Cuando se administren medicamentos obtenidos a partir de sangre o plasma
+humanos, no se pueden excluir con total seguridad la aparición de enfermedades
+infecciosas debido a la transmisión de agentes patógenos, incluidas aquellas cuya
+naturaleza no se conoce en la actualidad.
+Para reducir el riesgo de transmisión de agentes infecciosos, se realiza una estricta
+selección de donantes de sangre, así como de las donaciones. Además en el
+proceso de producción de FACTORES IX/X P BEHRING se incluyen
+procedimientos de eliminación y/o inactivación vírica (ver también 5.3.2
+""Seguridad viral"").
+      4.9   Sobredosificación
+La utilización de dosis altas de concentrados de factor IX ha sido asociada con
+infarto de miocardio, coagulación intravascular diseminada, trombosis venosa y
+embolia pulmonar. Por lo tanto, en caso de sobredosis, el desarrollo de
+complicaciones tromboembólicas o de coagulación intravascular diseminada se
+encuentra incrementado en pacientes con riesgo de padecer dichas complicaciones.
+ "
+5.   PROPIEADES FARMACOLÓGICAS
+	     5.2   Propiedades farmacocinéticas
+Para los FACTORES IX/X P BEHRING se determinó una recuperación in vivo de
+34,2 ± 15,3%. Con referencia a la administración de 1 UI de factor IX/kg peso
+corporal, el incremento en factor IX es aproximadamente el 0,8% del valor normal.
+La vida media biológica es de 21,2 ± 10,0 horas. Los FACTORES IX/X P
+BEHRING se metabolizan en el organismo de la misma manera que los factores
+endógenos de coagulación IX y X.
+5.3 Datos preclínicos sobre seguridad
+5.3.1 Propiedades toxicológicas
+Los factores IX y X humanos (contenidos en el concentrado) son constituyentes
+normales del plasma humano y actúan como los factores fisiológicos IX y X. Los
+ensayos de toxicidad de dosis repetidas, en animales son impracticables debido al
+desarrollo de anticuerpos frente a la proteína heteróloga.
+Los ensayos con FACTORES IX/X P BEHRING en conejos no revelaron
+trombogenicidad.
+Como la experiencia clínica no muestra que los factores IX y X de la coagulación
+plasmática humana estén asociados a efectos carcinogénicos o mutagénicos, se
+considera innecesario realizar estudios experimentales, particularmente en especies
+heterólogas.
+      5.3.2 Seguridad viral
+FACTORES IX/X P BEHRING se obtiene exclusivamente de donaciones de
+plasma que se han encontrado negativas respecto a anti-HIV/1, anti-HIV/2, anti-VHC
+y Ag HBs. Los niveles plasmáticos de ALT (GPT) se determinan y el valor hallado
+no debe ser mayor que el doble del límite superior, especificado en el método de
+determinación.
+Adicionalmente, el pool de plasma se analiza para detectar la presencia de los
+marcadores virales VIH/1, VIH/2, VHC y HBsAg. El pool de plasma sólo se usa en
+procesos de fabricación si los resultados de los ensayos son negativos.
+Diversas etapas del procedimiento de producción, contribuyen a la
+eliminación/inactivación vírica.
+Éstas incluyen el proceso de fraccionamiento según el método de Cohn modificado y
+el tratamiento térmico en solución acuosa a 60º C durante 10 horas (pasteurización).
+ 
+6.   DATOS FARMACÉUTICOS
+	     6.1   Lista de excipientes
+1 vial de polvo liofilizado contiene:
+                                                                                       1200 UI
+FACTORES IX/X P BEHRING                              600 UI
+Heparina                                                                Max. 400 UI
+Antitrombina III                                                        Max. 10 UI
+Glicina                                                                 600-999 mg
+Cloruro cálcico                                                           3-12 mg
+Cloruro sódico                                                           81-240 mg
+Citrato sódico                                                           39-201 mg
+1 vial de disolvente contiene:
+FACTORES IX/X P BEHRING                              600 UI                 1200 UI
+Agua p.i.                                            20 ml
+ 6.2   Incompatibilidades
+Los FACTORES IX/X P BEHRING no deben mezclarse con otros fármacos, ésto
+podría causar activación o inactivación de los factores de la coagulación contenidos
+en el preparado.
+ Solamente los equipos de inyección/infusión aprobados pueden utilizarse ya que de
+lo contrario el tratamiento podría fallar debido a la adsorción de los factores IX y X
+sobre la superficie de algunos equipos de infusión.
+      6.3   Período de validez
+Los FACTORES IX/X P BEHRING poseen un período de caducidad de 2 años.
+      6.4   Precauciones especiales de conservación
+Los FACTORES IX/X P BEHRING deberán conservarse entre +2º y +8º C.
+Evítese la congelación.
+      6.5   Naturaleza y contenido del envase
+- Viales inyectables de vidrio incoloro, sellados con tapones de goma para infusión,
+disco de plástico y cápsula de aluminio.
+            FACTORES IX/X P BEHRING 600 UI
+1 vial (cerrado herméticamente al vació) con sustancia liofilizada
+1 vial con 20 ml de agua para inyección
+1 equipo de reconstitución
+1 equipo de infusión
+FACTORES IX/X P BEHRING 1200 UI
+1 vial (cerrado herméticamente al vacío) con sustancia liofilizada
+1 vial con 30 ml de agua para inyección
+1 equipo de reconstitución
+1 equipo de infusión
+      6.6   Instrucciones para su uso/manipulación
+Preparación de la solución:
+1. Atemperar el disolvente entre 20º y 37º C.
+2. Retirar la cubierta de los viales de liofilizado y disolvente.
+3. Desinfectar la superficie de ambos tapones de goma.
+4. Insertar la aguja, que se encuentra en la cubierta acanalada del equipo transfusor,
+en el vial de disolvente. Eliminar la cubierta protectora del otro extremo del
+equipo transfusor. Invertir el vial de disolvente e insertar la aguja, sin tocarla, en
+el vial de la preparación.
+El disolvente es succionado por efecto del vacío en el vial de la preparación. Al
+terminar, retirar el vial de disolvente y el equipo transfusor.
+5. Mediante movimientos rotatorios suaves disolver completamente el liofilizado.
+Evitar todo tipo de agitación brusca.
+No utilizar después de la fecha de caducidad indicada en el envase.
+El preparado deberá administrarse inmediatamente después de su reconstitución.
+Cualquier solución no utilizada deberá eliminarse de forma adecuada.
+Generalmente la solución es transparente o ligeramente opalescente. No utilizar
+soluciones turbias o con sedimentos.
+ 
+7.   NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+	     AVENTIS BEHRING, S.A.
+Pza. Dr. Emil von Behring, s/n
+08980 ­ S. Feliu de Llobregat
+(Barcelona)
+
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	      FACTORES IX/X P BEHRING 600 UI Nº de Registro: 58.882
+FACTORES IX/X P BEHRING 1200 UI Nº de Registro: 58.883
+ 
+9.    FECHA DE REVALIDACIÓN DE LA AUTORIZACIÓN
+	      Agosto 1996
+ 10.   FECHA DE APROBACIÓN/REVISIÓN DE LA FICHA TÉCNICA
+       Fecha de la última revisión: Enero 1999
+ Aventis Behring, S.A.
+                                                                002
+
+	Prospectos de medicamentos.

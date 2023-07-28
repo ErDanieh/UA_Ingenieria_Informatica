@@ -1,0 +1,869 @@
+LABILENO 100 mg comprimidos dispersables , 56 comprimidos
+	"Información Basica del medicamento Toda la información del medicamento DENOMINACIÓN DEL MEDICAMENTO
+LABILENO 5 mg comprimidos dispersables
+LABILENO 25 mg comprimidos dispersables
+LABILENO 50 mg comprimidos dispersables
+LABILENO 100 mg comprimidos dispersables
+LABILENO 200 mg comprimidos dispersables
+ composición cualitativa y cuantitativa
+ Cada comprimido dispersable de Labileno 5 mg contiene 5 mg de Lamotrigina (DOE).
+Cada comprimido dispersable de Labileno 25 mg contiene 25 mg de Lamotrigina (DOE).
+Cada comprimido dispersable de Labileno 50 mg contiene 50 mg de Lamotrigina (DOE).
+Cada comprimido dispersable de Labileno 100 mg contiene 100 mg de Lamotrigina (DOE).
+Cada comprimido dispersable de Labileno 200 mg contiene 200 mg de Lamotrigina (DOE).
+ Lista de excipientes en 6.1.
+ forma farmacéutica
+Comprimidos dispersables.
+Labileno 5 mg son comprimidos blancos a blanquecinos, alargados, biconvexos, ranurados,
+grabados con ""5"" en una de sus caras
+Labileno 25 mg son comprimidos blancos a blanquecinos, de múltiples caras, superelípticos, no
+ranurados, grabados con ""25"" en una de sus caras.
+Labileno 50 mg son comprimidos blancos a blanquecinos, de múltiples caras, superelípticos, no
+ranurados, grabados con ""50"" en una de sus caras.
+Labileno 100 mg son comprimidos blancos a blanquecinos, de múltiples caras, superelípticos, no
+ranurados, grabados con ""100"" en una de sus caras.
+Labileno 200 mg son comprimidos blancos a blanquecinos, de múltiples caras, superelípticos, no
+ranurados, grabados con ""200"" en una de sus caras.
+ Los comprimidos de Labileno pueden estar ligeramente moteados.
+ dATOS clínicos
+Indicaciones Terapéuticas
+EPILEPSIA
+Tratamiento de la epilepsia en pacientes adultos tanto en monoterapia como en terapia añadida,
+así como en niños en terapia añadida. Lamotrigina está indicada fundamentalmente en el caso de:
+- crisis parciales, incluidas aquellas con generalización tónico-clónica secundaria,
+- crisis primarias generalizadas tónico-clónicas,
+- crisis asociadas al síndrome de Lennox-Gastaut.
+TRASTORNO BIPOLAR
+Prevención de los episodios depresivos en pacientes con trastorno bipolar.
+ Posología y forma de administración
+EPILEPSIA
+Posología en monoterapia:
+ Adultos y niños mayores de 12 años:
+ La escalada de dosis recomendada se realizará según el cuadro siguiente:
+      Semanas 1 y 2*               Semanas 3 y 4*                  Dosis de Mantenimiento
+Dosis inicial de 25              50 mg/día                        100-200 mg/día**
+mg/día              (divididos en dos dosis de    (una vez al día o divididos en dos dosis)
+(una vez al día)                 25 mg)
+* Para una correcta escalada de dosis durante estas 4 primeras semanas se deberá utilizar el
+Envase de Iniciación de 25 mg.
+** Algunos pacientes han precisado una dosis de 500 mg/día de lamotrigina para alcanzar la
+respuesta adecuada.
+ Debido al riesgo de aparición de erupción cutánea, no se deben exceder la dosis inicial ni la
+recomendada en la escalada de dosis posterior (ver 4.4 Advertencias y Precauciones especiales de
+empleo).
+En pacientes pediátricos no se recomienda el tratamiento en monoterapia.
+ Posología en terapia añadida:
+Adultos y niños mayores de 12 años:
+La escalada de dosis recomendada se realizará según el cuadro siguiente:
+                            Semanas 1 y 2      Semanas 3 y 4          Dosis de Mantenimiento(#)
+Valproato con/sin          12,5 mg/día*        25 mg/día*                   100-200 mg/día
+cualquier otro           (comprimido de      (una vez al día)    (una vez al día o divididos en dos
+fármaco                        25 mg                                             dosis)
+concomitante             administrado en                           A partir de la 5ª semana y hasta
+Fármacos                   50 mg/día**        100 mg/día**                  200-400 mg/día
+inductores1 de la        (una vez al día)   (divididos en dos          (divididos en dos dosis)
+glucuronidacion de                           dosis de 50 mg)       A partir de la 5ª semana y hasta
+lamotrigina                                                      llegar a la dosis de mantenimiento
+(excepto valproato)                                               se deberá incrementar la dosis en
+Con oxcarbazepina           25 mg/día           50 mg/día                 100-200 mg/día**
+y sin inductores1 o    (una vez al día)     (una vez al día)     (una vez al día o divididos en dos
+inhibidores2 de la                                                             dosis)
+glucuronidacion de
+lamotrigina                                                       A partir de la 5ª semana y hasta
+* Para una correcta escalada de dosis durante estas 4 semanas se deberá utilizar el Envase de
+Iniciación de 25 mg.
+** Para una correcta escalada de dosis durante estas 4 semanas se deberá utilizar el Envase de
+Iniciación de 50 mg.
+1
+fenitoína, carbamazepina, fenobarbital, primidona y rifampicina.
+2
+valproato.
+(#) Algunos pacientes han requerido 700 mg/día de lamotrigina para alcanzar la respuesta
+deseada.
+NOTA: En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción
+farmacocinética con lamotrigina (ver 4.5 Interacción con con otros medicamentos y otras formas de
+interacción) se debe utilizar la escalada de dosis recomendada para lamotrigina cuando se
+administra conjuntamente con valproato.
+ Debido al riesgo de erupción cutánea, no se deberá exceder la dosis inicial ni la dosis posterior
+utilizada en la escalada de dosis (ver 4.4 Advertencias y Precauciones especiales de empleo).
+ Una vez se haya alcanzado el control epiléptico durante la terapia añadida, los fármacos
+antiepilépticos administrados de forma concomitante pueden ser retirados y los pacientes pueden
+continuar con monoterapia de Labileno.
+ Niños (2 a 12 años):
+ La escalada de dosis recomendada se realizará según el cuadro siguiente:
+                           Semanas 1 y 2        Semanas 3 y 4          Dosis de Mantenimiento
+Valproato con/sin       0,15 mg/kg/día**       0,3 mg/kg/día      Aumentar dosis en 0,3 mg/kg
+cualquier otro           (una vez al día)     (una vez al día)    máximo cada 1-2 semanas hasta
+fármaco                                                           alcanzar dosis de mantenimiento
+concomitante                                                      de 1-5 mg/kg/día (respuesta
+Fármacos                                                          Aumentar dosis en 1,2 mg/kg
+inductores1 de la                                                 máximo cada 1-2 semanas hasta
+glucuronidacion de                                                alcanzar dosis de mantenimiento
+lamotrigina (excepto                                              de 5-15 mg/kg/día (respuesta
+valproato)                                                        óptima) (divididos en dos dosis)
+                                                                                                     MINISTERIO
+Con oxcarbazepina y                                                   Aumentar dosis en 0,6 mg/kg
+sin inductores1 o                                                     máximo cada 1-2 semanas hasta
+inhibidores2 de la                                                    alcanzar dosis de mantenimiento
+glucuronidacion de                                                    de 1-10 mg/kg/día (respuesta
+lamotrigina                                                           optima) (una vez al día o
+1
+fenitoína, carbamazepina, fenobarbital, primidona y rifampicina.
+2
+valproato.
+NOTA: En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción
+farmacocinética con lamotrigina (ver 4.5 Interacción con con otros medicamentos y otras formas de
+interacción), se debe utilizar la escalada de dosis recomendada para lamotrigina cuando se
+administra conjuntamente con valproato.
+** NOTA:- Si la dosis diaria calculada es de 1-2 mg, se pueden tomar comprimidos de
+lamotrigina de 2 mg en días alternos durante las primeras dos semanas. Si la dosis diaria calculada
+es menor de 1 mg, no se debe administrar lamotrigina.
+ Para asegurar que se mantiene una dosis terapéutica, se debe monitorizar el peso del niño y si hay
+cambios en el mismo, la dosis debe revisarse.
+ Debido al riesgo de erupción cutánea, no se debe exceder la dosis inicial ni la dosis posterior
+utilizada en la escalada de dosis (ver 4.4 Advertencias y Precauciones especiales de empleo).
+ Es probable que los pacientes con edad comprendida entre 2-6 años requieran una dosis de
+mantenimiento que sea la más alta del rango recomendado.
+ Niños menores de 2 años:
+No existe información suficiente sobre el uso de lamotrigina en niños menores de 2 años.
+ TRASTORNO BIPOLAR
+Adultos (mayores de 18 años):
+El tratamiento con lamotrigina debe instaurarse de forma gradual durante 6 semanas, dependiendo
+la dosis inicial y las dosis posteriores del tratamiento asociado, tal y como se señala en el cuadro
+adjunto:
+      Régimen de            Semanas 1 y 2      Semanas 3 y 4            Semana 5                Dosis de
+Tratamiento                                                                            estabilización
+a) Monoterapia con
+lamotrigina             (una vez al      (una vez al día o     (una vez al día o      (una vez al día o
+o                                día)         divididos en dos      divididos en dos    divididos en dos dosis)
+Terapia añadida en                                 dosis)                dosis)         Rango 100-400mg/día
+pacientes tomando
+litio, bupropión,
+olanzapina,
+oxcarbazepina, u otros
+                                                                                                        MINISTERIO
+fármacos que no
+inducen o inhiben
+significativamente la
+glucuronidación de
+lamotrigina
+                                 12,5 mg/día          25 mg/día            50 mg/día                100 mg/día
+b) Terapia añadida
+con inhibidores de la          (comprimido        (una vez al día)     (una vez al día o        (una vez al día o
+glucuronidación de               de 25 mg                              divididos en dos      divididos en dos dosis)
+lamotrigina (ej.               administrado                                 dosis)            Dosis diaria máxima
+Valproato)                        en días                                                    200 mg ** (una vez al
+c) Terapia añadida
+con inductores de la
+glucuronidación de
+lamotrigina en
+pacientes que no                                                                              A partir de la Semana
+toman inhibidores                                                                            7 se puede aumentar a
+como Valproato                                                                                400 mg/día divididos
+Este régimen de
+dosificación debe
+usarse con:
+Fenitoína
+Carbamazepina
+Fenobarbital
+Primidona
+ O con otros inductores
+de la glucuronidación
+de lamotrigina (ver 4.5
+Interacción con con otros medicamentos y otras
+formas de interacción)
+NOTA: En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción farmacocinética con
+lamotrigina, se debe utilizar la escalada de dosis recomendada para lamotrigina cuando se administra conjuntamente
+con valproato.
+**La dosis de estabilización fijada, podrá modificarse en función de la respuesta clínica.
+ Debido al riesgo de erupción cutánea, no se debe exceder la dosis inicial ni la dosis posterior
+utilizada en la escalada de dosis (ver 4.4 Advertencias y Precauciones especiales de empleo).
+ Si está clínicamente indicado, una vez que se haya alcanzado la dosis de mantenimiento, se
+pueden retirar gradualmente otros fármacos psicótropos siguiendo el esquema de dosificación
+indicado a continuación.
+                                                                                                             MINISTERIO
+Régimen Tratamiento                           Semana 1                     Semana 2     Semana 3 en
+a) Tras retirada de
+fármacos psicótropos o
+antiepilépticos en pacientes                                    mg)
+que no están tomando
+inductores o inhibidores
+significativos de la
+glucuronidación de
+lamotrigina (ej. Litio,
+bupropión, olanzapina,
+oxcarbazepina)
+(b) Tras retirada de
+inhibidores de la
+glucuronidación de
+lamotrigina (ej. Valproato)
+(c) Tras retirada de           400 mg                                      300 mg         200 mg
+inductores de la
+glucuronidación de
+lamotrigina dependiendo
+de la dosis original
+Este régimen de
+tratamiento debe usarse
+con: Fenitoína,
+Carbamazepina,
+Fenobarbital, Primidona o
+con otros inductores de la
+glucuronidación de
+lamotrigina
+NOTA: En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción
+farmacocinética con lamotrigina, se debe utilizar la escalada de dosis recomendada para lamotrigina
+cuando se administra conjuntamente con valproato.
+*La dosis se puede aumentar a 400 mg/día a demanda
+ a) Tras retirada de fármacos psicótropos o antiepilépticos sin interacción farmacocinética
+significativa con lamotrigina (ej. Litio, bupropión, olanzapina, oxcarbazepina).
+La dosis fijada alcanzada en la escalada de dosis recomendada debe mantenerse durante la retirada
+de cualquier otro fármaco.
+(b) Tras retirada de inhibidores de la glucuronidación de lamotrigina (ej. Valproato):
+La dosis de lamotrigina se debe aumentar hasta el doble de la dosis de estabilización fijada
+original, debiéndose mantener esta dosis, una vez retirado el valproato.
+(c) Tras retirada de terapia combinada con inductores de la glucuronidación de lamotrigina
+dependiendo de la dosis de mantenimiento original. Este régimen de tratamiento debe
+usarse con Fenitoína, Carbamazepina, Fenobarbital, Primidona o con otros inductores de la
+glucuronidación de lamotrigina.
+ La dosis de lamotrigina se debe reducir gradualmente a lo largo de 3 semanas, mientras que se
+retira el inductor de la glucuronidación.
+ Niños y adolescentes (menores de 18 años):
+Lamotrigina no está indicada para el tratamiento de trastorno bipolar en niños y adolescentes
+menores de 18 años (ver 4.4 Advertencias y Precauciones especiales de empleo).
+ Recomendaciones generales de dosificación
+ Mujeres que toman anticonceptivos hormonales:
+ a) Inicio de tratamiento con lamotrigina en pacientes que están tomando anticonceptivos
+hormonales:
+    Aunque se ha demostrado un incremento del aclaramiento de lamotrigina tras el uso de un
+anticonceptivo oral (ver 4.4 Advertencias y Precauciones especiales de empleo y 4.5
+Interacción con con otros medicamentos y otras formas de interacción), no son necesarios ajustes
+en las pautas de escalada de dosis recomendadas para lamotrigina, basándose únicamente en
+el uso de anticonceptivos hormonales. La escalada de dosis deberá seguir las pautas
+recomendadas basándose en si lamotrigina se añade a un inhibidor de la glucuronidación de
+lamotrigina (ej. Valproato), a un inductor de la glucuronidación de lamotrigina (ej.
+Carbamazepina, Fenitoína, Fenobarbital, Primidona o Rifampicina), o si la lamotrigina se
+añade en ausencia de Valproato, Carbamazepina, Fenitoína, Fenobarbital, Primidona o
+Rifampicina. (ver Régimen recomendado para epilepsia y para trastorno bipolar).
+ b) Inicio de tratamiento con anticonceptivos hormonales en pacientes que están tomando
+dosis de mantenimiento de lamotrigina y NO están tomando inductores de la
+glucuronidación de lamotrigina (ej, carbamazepina, fenitoína, fenobarbital, primidona o
+rifampicina):
+    Puede ser necesario incrementar la dosis de mantenimiento de lamotrigina hasta el doble
+dependiendo de la respuesta clínica individual (ver 4.4 Advertencias y Precauciones
+especiales de empleo y 4.5 Interacción con con otros medicamentos y otras formas de
+interacción).
+    En pacientes que SI están tomando inductores de la glucuronidación de lamotrigina (ej.
+carbamazepina, fenitoína, fenobarbital, primidona o rifampicina), no se requiere ningún ajuste
+de la dosis de mantenimiento de lamotrigina cuando se inicia el tratamiento con
+anticonceptivos hormonales.
+ c) Discontinuación de tratamiento con anticonceptivos hormonales en pacientes que están
+tomando dosis de mantenimiento de lamotrigina y NO están tomando inductores de la
+glucuronidación de lamotrigina (ej, carbamazepina, fenitoína, fenobarbital, primidona o
+rifampicina):
+    Puede ser necesario reducir la dosis de mantenimiento de lamotrigina hasta un máximo del
+50% dependiendo de la respuesta clínica individual (ver 4.4 Advertencias y Precauciones
+especiales de empleo y 4.5 Interacción con con otros medicamentos y otras formas de
+interacción).
+    En pacientes que SI están tomando inductores de la glucuronidación de lamotrigina (ej.
+carbamazepina, fenitoína, fenobarbital, primidona o rifampicina), no se requiere ningún ajuste
+de la dosis de mantenimiento de lamotrigina cuando se discontinua el tratamiento con
+anticonceptivos hormonales.
+ La monitorización de niveles plasmáticos no se realiza de manera rutinaria y no se han establecido
+rangos terapéuticos.
+ Ancianos (más de 65 años de edad):
+No se requiere ningún ajuste de la posología con respecto a la pauta recomendada. La
+farmacocinética de lamotrigina en este grupo de edad no varía significativamente con relación a la
+población no anciana.
+ Insuficiencia hepática:
+Las dosis iniciales, las dosis posteriores utilizadas en la escalada de dosis y las dosis de
+mantenimiento se deben reducir generalmente en aproximadamente un 50 % en pacientes con
+insuficiencia hepática moderada (grado B de la clasificación Child-Pugh) y un 75 % en pacientes
+con insuficiencia hepática grave (grado C de la clasificación Child-Pugh). Las dosis posteriores
+utilizadas en la escalada de dosis y las dosis de mantenimiento se deben ajustar en función de la
+respuesta clínica (ver 5.2 Propiedades farmacocinéticas).
+ Insuficiencia renal:
+Se debe tener precaución al administrar lamotrigina a pacientes con insuficiencia renal. En casos
+de insuficiencia renal terminal, la dosis inicial de lamotrigina debe ajustarse a lo indicado en las
+recomendaciones posológicas, teniendo en consideración la medicación concomitante que esté
+tomando el paciente; puede ser eficaz reducir las dosis de mantenimiento en pacientes con
+insuficiencia renal significativa (ver 4.4 Advertencias y Precauciones especiales de empleo). Para
+información farmacocinética más detallada ver 5.2. Características farmacocinéticas.
+ Forma de Administración:
+Los comprimidos dispersables de Labileno se pueden masticar, dispersar en un pequeño volumen
+de agua (al menos en cantidad suficiente para cubrir el comprimido completo) o tragar enteros con
+un poco de agua.
+Si una vez calculada la dosis de lamotrigina (p. ej. pacientes con insuficiencia hepática) ésta no se
+pudiera administrar en forma de varios comprimidos de concentraciones menores, la dosis a
+administrar será igual a la del comprimido entero de concentración más baja.
+ Contraindicaciones
+Labileno está contraindicado en individuos con hipersensibilidad conocida a lamotrigina o a
+cualquiera de los excipientes de la formulación.
+ Advertencias y precauciones especiales de empleo
+Erupción cutánea
+Durante las primeras 8 semanas de tratamiento, se ha comunicado la aparición de reacciones
+adversas cutáneas, que en su mayoría han sido de naturaleza leve y resolución espontánea. No
+obstante, también se han comunicado casos de erupciones cutáneas graves, de riesgo potencial
+                                                                                                         MINISTERIO
+para la vida, incluyendo Síndrome de Stevens-Johnson y necrolisis epidérmica tóxica, que
+requirieron hospitalización y la discontinuación de la lamotrigina (ver 4.8 Reacciones Adversas).
+En adultos incluidos en estudios en los que se utilizan las recomendaciones de dosificación de
+lamotrigina actuales, la incidencia de erupciones cutáneas graves es aproximadamente 1 de cada
+500 pacientes con epilepsia. Aproximadamente la mitad de estos casos se ha comunicado como
+Síndrome de Stevens-Johnson (1 de cada 1000).
+En ensayos clínicos en pacientes con trastorno bipolar, la incidencia de erupción cutánea grave es
+aproximadamente 1 de cada 1000.
+El riesgo de erupciones cutáneas graves en los niños (2 a 12 años) es mayor que en los adultos.
+Los datos disponibles de una serie de estudios sugieren que la incidencia de erupciones cutáneas
+asociadas con hospitalización en niños epilépticos varía de 1 de cada 300 a 1 de cada 100.
+En niños, la aparición inicial de una erupción cutánea se puede confundir con una infección,
+siendo los médicos los que deben considerar la posibilidad de una reacción al fármaco en los
+niños que desarrollen síntomas de erupción cutánea y fiebre durante las ocho primeras semanas de
+tratamiento.
+Adicionalmente, el riesgo global de erupción cutánea parece estar fuertemente asociado con:
+ - Dosis iniciales elevadas de lamotrigina que exceden la escalada de dosis recomendada (ver 4.2
+Posología y forma de administración).
+- Uso concomitante de valproato, (ver 4.2 Posología y forma de administración).
+ Se debe tener precaución cuando se trate a pacientes con antecedentes de alergia o erupciones
+cutáneas a con otros medicamentos antiepilépticos, ya que la frecuencia de la aparición de erupciones
+cutáneas no graves tras el tratamiento con lamotrigina, fue aproximadamente 3 veces superior en
+estos pacientes, en comparación a los que no tenían dichos antecedentes.
+ Todos los pacientes (adultos y niños) que desarrollen una erupción deben ser evaluados
+rápidamente. Se debe retirar el tratamiento con lamotrigina inmediatamente dado que es imposible
+predecir la evolución ulterior de estas erupciones cutáneas, a menos que, de una forma clara, la
+erupción no esté relacionada con el fármaco. Se recomienda que no se reinicie el tratamiento con
+lamotrigina en pacientes que lo han dejado debido a la aparición de erupción cutánea tras haber
+recibido tratamiento previamente con lamotrigina, a menos que el beneficio supere claramente al
+riesgo.
+La erupción también se ha comunicado como parte de un síndrome de hipersensibilidad asociado
+con un patrón variable de síntomas sistémicos que incluyen fiebre, linfadenopatía, edema facial y
+anomalías en sangre e hígado (ver 4.8 Reacciones Adversas). El síndrome muestra un amplio
+espectro de gravedad clínica y puede, raramente, dar lugar a coagulación intravascular diseminada
+y a fallo multiorgánico. Es importante resaltar que incluso cuando la erupción no es evidente,
+pueden aparecer manifestaciones tempranas de hipersensibilidad (fiebre, linfadenopatía). Si
+aparecen tales signos y síntomas, el paciente debe ser evaluado inmediatamente y se debe
+suspender la lamotrigina si no se puede establecer una etiología alternativa.
+Antes de iniciar un tratamiento con lamotrigina el paciente debe ser informado de que la aparición
+de erupción cutánea o de otros síntomas sugestivos de alergia como fiebre o adenopatías linfáticas
+pueden ser el preludio de una complicación grave del tratamiento y por tanto el paciente debe
+comunicar de inmediato estas incidencias al médico
+Anticonceptivos hormonales
+Efectos de los anticonceptivos hormonales sobre la eficacia de lamotrigina:
+Se ha demostrado un aumento del aclaramiento de lamotrigina de aproximadamente el doble con
+la administración de una combinación de etinilestradiol/levonorgestrel (30 mcg/150 mcg) dando
+como resultado una disminución en los niveles de lamotrigina (ver 4.5 Interacción con con otros medicamentos y otras formas de interacción). Tras la escalada de dosis, pueden ser necesarias
+dosis de mantenimiento más altas (hasta el doble) para conseguir una respuesta terapéutica
+óptima. En mujeres que no están tomando un inductor de la glucuronidación de lamotrigina (ej,
+carbamazepina, fenitoína, fenobarbital, primidona o rifampicina) y están tomando un
+anticonceptivo hormonal que incluye una semana sin medicación (semana ""libre de píldora""),
+durante esa semana se producirán incrementos graduales transitorios en los niveles de lamotrigina.
+Estos incrementos serán mayores cuando los aumentos en la dosis de lamotrigina se realicen en
+los días previos o durante la semana sin medicación. (ver Recomendaciones generales de
+dosificación).
+Debe ejercerse un control clínico apropiado en mujeres que inician o discontinúan tratamiento con
+anticonceptivos hormonales durante el tratamiento con lamotrigina; pueden ser necesarios ajustes
+en la dosificación de lamotrigina.
+No se han realizado estudios con otros anticonceptivos orales y tratamientos hormonales
+sustitutivos, aunque podrían afectar de forma similar los parámetros farmacocinéticos de
+lamotrigina.
+Efectos de lamotrigina sobre la eficacia de los anticonceptivos hormonales:
+En un estudio con 16 voluntarias sanas, se ha visto un leve aumento en el aclaramiento de
+levonorgestrel y cambios en los niveles séricos de FSH y LH (ver (ver 4.5 Interacción con con otros medicamentos y otras formas de interacción) tras la administración concomitante de lamotrigina y
+un anticonceptivo hormonal (etilnilestradiol/levonorgestrel). El impacto de estos cambios en la
+actividad ovulatoria es desconocido. Sin embargo, no puede excluirse la posibilidad de que estos
+cambios produzcan una disminución en la eficacia anticonceptiva en pacientes que toman
+preparados hormonales y lamotrigina. Por tanto, los pacientes deben comunicar rápidamente a su
+médico cualquier cambio producido en el patrón de sangrado menstrual, por ej. aparición de
+hemorragia.
+ Dihidrofolato reductasa
+Lamotrigina es un inhibidor débil de la dihidrofolato reductasa y, por lo tanto, existe una
+posibilidad de interferencia con el metabolismo del folato durante el tratamiento a largo plazo. Sin
+embargo, en el tratamiento prolongado en humanos, la lamotrigina no indujo cambios
+significativos en la concentración de hemoglobina, en el volumen corpuscular medio, ni en las
+concentraciones de folato en suero o en glóbulos rojos durante un período de 1 año, ni en las
+concentraciones de folato en glóbulos rojos durante un período de 5 años.
+ Insuficiencia renal
+En estudios con dosis única en sujetos en fase terminal de insuficiencia renal, las concentraciones
+plasmáticas de lamotrigina no se alteraron significativamente. Sin embargo, se puede esperar la
+acumulación del metabolito glucurónido, que es inactivo; por tanto, se debe tener precaución en el
+tratamiento de pacientes con insuficiencia renal.
+Pacientes que estén tomando con otros medicamentos que contienen lamotrigina
+Labileno no debe administrarse a pacientes que están siendo tratados con con otros medicamentos que
+contengan lamotrigina sin consultarlo previamente con el médico.
+ EPILEPSIA
+Como ocurre con otros antiepilépticos, la retirada brusca de lamotrigina puede dar lugar a la
+aparición de convulsiones por un efecto rebote. La dosis de lamotrigina se deberá reducir de
+forma gradual durante un período de 2 semanas, a menos que por motivos de seguridad (p. ej.
+aparición de erupción cutánea) se requiera una retirada brusca de la misma.
+Se han descrito casos en la literatura en los que las crisis convulsivas graves, incluyendo el status
+epilepticus, pueden dar lugar a rabdomiolisis, fallo multiorgánico y coagulación intravascular
+diseminada, a veces con resultado fatal. Casos similares han ocurrido en asociación con el uso de
+lamotrigina.
+ En caso de empeoramiento en el control de las crisis epilépticas, el paciente debe comunicarlo a
+su médico.
+ TRASTORNO BIPOLAR
+ Niños y adolescentes (menores de 18 años):
+El tratamiento con antidepresivos está asociado con un incremento del riesgo de ideación y
+comportamientos suicidas en niños y adolescentes con trastorno depresivo mayor y otros
+trastornos psiquiátricos.
+ Empeoramiento clínico y riesgo de suicidio asociados con trastorno bipolar
+ Los pacientes con trastorno bipolar pueden sufrir un empeoramiento de los síntomas depresivos
+y/o aparición de ideación y comportamientos suicidas, tanto si están, o no, tomando medicación
+para el trastorno bipolar. Se debe realizar un estrecho seguimiento de los pacientes para observar
+si hay un empeoramiento clínico (incluyendo la aparición de nuevos síntomas) y comportamientos
+o ideación suicidas, especialmente al inicio del tratamiento o cuando se incrementa o disminuye la
+dosis.
+ Los pacientes con mayor riesgo, es decir, aquellos con antecedentes de comportamiento o
+pensamientos suicidas, adultos jóvenes, o aquellos que muestren un grado significativo de
+ideación suicida antes del comienzo del tratamiento, tienen un mayor riesgo de intento de suicidio
+o pensamientos suicidas y deben ser objeto de una mayor vigilancia durante el tratamiento.
+ Se debe poner en sobreaviso, tanto a los pacientes como a las personas que los tienen a su cargo,
+acerca de la necesidad de vigilar un empeoramiento de la enfermedad (incluyendo la aparición de
+nuevos síntomas), la aparición de ideas/comportamientos suicidas o pensamientos de autolesión y
+de buscar atención médica inmediata si aparecen estos síntomas.
+ Se debe considerar un cambio en el régimen terapéutico, incluyendo la posibilidad de una
+interrupción de la medicación, en pacientes que sufran un empeoramiento clínico (incluido la
+aparición de nuevos síntomas) y /o aparición de ideación o comportamientos suicidas,
+especialmente si estos síntomas son graves, aparecen de forma brusca o no son los que el paciente
+presentaba inicialmente.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+ Interacciones de con otros medicamentos con lamotrigina
+ Se ha comprobado que las enzimas responsables del metabolismo de lamotrigina son las UDP-
+glucuronil transferasas. No se tiene evidencia de que lamotrigina origine inducción o inhibición
+clínicamente significativa de las enzimas responsables del metabolismo oxidativo hepático de
+fármacos, y es poco probable que se produzcan interacciones entre lamotrigina y fármacos
+metabolizados por enzimas del citocromo P-450. Lamotrigina puede inducir su propio
+metabolismo pero el efecto es escaso con pocas probabilidades de presentar consecuencias
+clínicas significativas.
+ Efectos de otros fármacos sobre la glucuronidación de lamotrigina
+ Fármacos       que      inhiben    Fármacos         que      inducen Fármacos que no inhiben ni
+significativamente             la  significativamente              la inducen significativamente la
+glucuronidación de lamotrigina     glucuronidación de lamotrigina glucuronidación de lamotrigina
+Valproato                          Carbamazepina                      Litio
+* No se han estudiado otros tratamientos hormonales sustitutivos y anticonceptivos orales, aunque
+podrían afectar de forma similar los parámetros farmacocinéticos de lamotrigina.
+ Valproato, que inhibe la glucuronidación de lamotrigina, reduce el metabolismo de lamotrigina y
+aumenta casi al doble el valor medio de la semivida de lamotrigina (ver 4.2 Posología y forma de
+administración).
+ Se han comunicado casos de afectación del sistema nervioso central que incluyen vértigo, ataxia,
+diplopía, visión borrosa y náuseas en pacientes que toman carbamazepina después de la
+introducción de lamotrigina. Estos efectos se resuelven normalmente cuando se reduce la dosis de
+carbamazepina. Se ha observado un efecto similar en un estudio con voluntarios adultos sanos con
+lamotrigina y oxcarbazepina, pero no se estudió una reducción en la dosificación.
+ En un estudio realizado con voluntarios adultos sanos tomando 200 mg de lamotrigina y 1200 mg
+de oxcarbazepina, la oxcarbazepina no alteró el metabolismo de lamotrigina y viceversa.
+ Ciertos fármacos antiepilépticos inductores del metabolismo (tales como fenitoína,
+carbamazepina, fenobarbital y primidona), inducen las enzimas responsables del metabolismo
+hepático y la glucuronidacion de lamotrigina y aumentan el metabolismo de lamotrigina,
+disminuyendo, en consecuencia, sus niveles plasmáticos.
+ En un estudio realizado en voluntarios sanos adultos, la administración de 15 mg de olanzapina
+produjo una reducción en el área bajo la curva (AUC) y la Concentración plasmática máxima
+(Cmax) de lamotrigina en un porcentaje del 24% y del 20%, respectivamente. No se espera que
+dicho efecto sea clínicamente relevante. La administración de 200 mg de lamotrigina, no afecto la
+farmacocinética de olanzapina.
+ En un estudio realizado en 10 voluntarios varones, rifampicina produjo un incremento en el
+aclaramiento y una disminución en la vida media de lamotrigina debido a la inducción de las
+enzimas hepáticas responsables de la glucuronidación. Los pacientes en tratamiento concomitante
+con rifampicina, deben seguir las pautas recomendadas de dosificación de terapia añadida con
+inductores de la glucuronidación (ver 4.2 Posología y forma de administración).
+ La administración de dosis orales múltiples de bupropión no tuvo ningún efecto estadísticamente
+significativo en la farmacocinética de lamotrigina administrada en dosis única a 12 sujetos, en los
+que solamente se observó un ligero incremento en el AUC del glucurónido de lamotrigina.
+Los estudios de inhibición in vitro indican que la formación del principal metabolito de
+lamotrigina, el 2-N-glucurónido, se vio mínimamente afectada por la incubación conjunta con
+amitriptilina, bupropión, clonazepam, fluoxetina, haloperidol o lorazepam.
+ Los resultados de las pruebas in vitro también sugieren que el aclaramiento de lamotrigina es poco
+probable que se vea afectado por clozapina, fenelzina, risperidona, sertralina o trazodona.
+ Interacciones de lamotrigina con con otros medicamentos
+ Aunque se han comunicado cambios en las concentraciones plasmáticas de otros fármacos
+antiepilépticos, los estudios controlados no han presentado evidencia de que lamotrigina afecte las
+concentraciones plasmáticas de fármacos antiepilépticos que se administran concomitantemente.
+Los resultados procedentes de estudios in vitro indican que lamotrigina no desplaza a otros
+fármacos antiepilépticos de su lugar de unión a las proteínas plasmáticas.
+ En un estudio con 16 voluntarias, la administración de la píldora anticonceptiva combinada con
+30 mcg de etinilestradiol/150 mcg levonorgestrel causó un aumento del aclaramiento de
+lamotrigina de aproximadamente el doble, dando lugar a una reducción del AUC y la Cmax de
+lamotrigina del 52% y 39%, respectivamente. Las concentraciones séricas de lamotrigina
+aumentaron de forma gradual durante la semana ""libre de píldora"", siendo las concentraciones
+pre-dosis al final de dicha semana de media, aproximadamente dos veces superiores al período de
+tratamiento concomitante.
+ En un estudio con 16 voluntarias, no se produjo ningún efecto en la farmacocinética del
+etinilestradiol de la píldora anticonceptiva oral de combinación con una dosis de 300 mg de
+lamotrigina en estado de equilibrio estacionario. Sin embargo, si se observó un leve aumento en el
+aclaramiento de levonorgestrel, dando lugar a una reducción del AUC y Cmax de levonorgestrel
+del 19% y 12%, respectivamente. Las medidas realizadas durante el estudio de los niveles
+sanguíneos de FSH, LH y estradiol, indicaron cierta perdida de la actividad hormonal ovárica de
+algunas mujeres, aunque las medidas de los niveles sanguíneos de progesterona indicaron que no
+había evidencia hormonal de ovulación en ninguna de las 16 pacientes. Se desconoce el impacto
+sobre la actividad ovulatoria de este leve aumento en el aclaramiento de levonorgestrel y de los
+cambios en los niveles sanguíneos de FSH y LH (ver 4.4 Advertencias y Precauciones especiales
+de empleo). No se han realizado estudios de estos efectos con otras dosis de lamotrigina diferentes
+a 300 mg/día, ni con otros preparados hormonales femeninos.
+ La farmacocinética del litio, después de la administración de 2 g de gluconato de litio anhidro dos
+veces al día durante seis días a 20 sujetos sanos, no se vio alterada por la administración
+concomitante de 100 mg/día de lamotrigina.
+ Los datos del metabolismo de bufuralol en microsomas hepáticos humanos, sugieren que
+lamotrigina no reduce el aclaramiento de fármacos eliminados predominantemente por el
+CYP2D6.
+ 4.6.   Embarazo y lactancia
+ Fertilidad:
+En los estudios de reproducción realizados en animales, la administración de lamotrigina, no
+produjo ninguna alteración en la fertilidad.
+No existe experiencia del efecto de lamotrigina sobre la fertilidad humana.
+Embarazo:
+Riesgo relacionado con fármacos antiepilépticos
+Se debe de proporcionar consejo por un especialista a las mujeres que estén en periodo fértil.
+Asimismo, se debe reevaluar la necesidad del tratamiento antiepiléptico cuando una mujer decida
+quedarse embarazada. El tratamiento antiepiléptico no debe interrumpirse de forma brusca, ya que
+esto podría dar lugar a la aparición de convulsiones, lo que podría conllevar graves consecuencias
+para la madre y el feto.
+ El riesgo de malformaciones congénitas se ve incrementado en 2-3 veces en los recién nacidos de
+madres tratadas con antiepilépticos, en comparación con la incidencia aproximada del 3%
+esperada en la población general. Los defectos notificados de forma más frecuente son labio
+leporino, malformaciones cardiovasculares y defectos del tubo neural.
+El uso en combinación de antiepilépticos se ha asociado con un mayor riesgo de malformaciones
+congénitas que el uso en monoterapia, por lo que ésta debe ser utilizada siempre que sea posible.
+ Riesgo relacionado con lamotrigina
+De los datos obtenidos de estudios epidemiológicos realizados en un total de aproximadamente
+2.000 mujeres que tomaron lamotrigina en monoterapia durante el embarazo, no se puede excluir
+un incremento en el riesgo de malformaciones congénitas. Datos de un registro de casos han
+mostrado un incremento en la incidencia de hendidura oral. Los datos procedentes de otros
+registros de casos no han confirmado este hecho. Los estudios en animales han mostrado efectos
+tóxicos en el desarrollo. (ver 5.3. Datos preclínicos sobre seguridad).
+Si se considera necesario el tratamiento con lamotrigina durante el embarazo, se recomienda
+administrar la menor dosis terapéutica posible.
+ Lamotrigina tiene un ligero efecto inhibidor de la dihidrofolato reductasa, lo cual podría
+conllevar, teóricamente, un aumento del riesgo de daño embriofetal debido a la reducción de los
+niveles de ácido fólico. Debe considerarse la administración de ácido fólico en mujeres que
+deseen quedarse embarazadas y en las primeras etapas del embarazo.
+ .
+ Los cambios fisiológicos que se producen durante el embarazo pueden afectar a los niveles de
+lamotrigina y/o a su efecto terapéutico. Ha habido informes de niveles de lamotrigina disminuidos
+durante el embarazo. Debe asegurarse un manejo clínico adecuado de las mujeres embarazadas
+durante el tratamiento con lamotrigina.
+ Lactancia:
+La información referente al uso de lamotrigina durante la lactancia es limitada. Los datos
+preliminares indican que lamotrigina pasa a la leche materna en concentraciones normalmente del
+orden del 40-60% de la concentración sérica. En un pequeño número de niños que han sido
+alimentados con leche materna, las concentraciones séricas de lamotrigina alcanzaron niveles con
+los que pueden aparecer efectos farmacológicos.
+ Debe evaluarse el posible beneficio de la lactancia materna frente al riesgo potencial para el
+recién nacido de reacciones adversas.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar máquinas
+ En ensayos clínicos con lamotrigina, se han informado efectos adversos de carácter neurológico
+tales como vértigo y diplopía. Por lo tanto, los pacientes deben observar cómo les afecta el
+tratamiento con lamotrigina, antes de conducir o de utilizar maquinaria.
+Debido a que existe una variación individual en la respuesta a todas las terapias con fármacos
+antiepilépticos, los pacientes deben consultar a su médico sobre aspectos específicos relacionados
+con la conducción y epilepsia.
+ 4.8.   Reacciones adversas
+ Las reacciones adversas se han dividido en secciones específicas para epilepsia y para trastorno
+bipolar, basándose en los datos actualmente disponibles. Sin embargo, ambas secciones deben ser
+consultadas cuando se considere el perfil total de seguridad de lamotrigina.
+Se ha utilizado el criterio siguiente para la clasificación de la frecuencia de las reacciones
+adversas:- Muy frecuentes (> 1/10), Frecuentes (> 1/100, < 1/10), Poco frecuentes (> 1/1000, <
+1/100), Raras (> 1/10.000, < 1/1000), Muy raras (< 1/10.000) incluyendo notificaciones aisladas.
+ EPILEPSIA:
+Trastornos de la piel y tejido subcutáneo
+Durante ensayos clínicos en monoterapia:
+ Muy frecuentes:         Erupción cutánea.
+En otro uso clínico (ensayos clínicos en terapia añadida y datos post-comercialización):
+ Muy frecuentes:         Erupción cutánea.
+Raras:                  Síndrome de Stevens-Johnson.
+Muy raras:              Necrolisis epidérmica tóxica.
+ En ensayos clínicos doble ciego en terapia añadida, aparecieron erupciones cutáneas hasta en un
+10% de los pacientes tratados con lamotrigina y en un 5% de los pacientes a los que se administró
+placebo. Las erupciones cutáneas llevaron a la retirada del tratamiento con lamotrigina en un 2%
+de los pacientes. La erupción, normalmente de aspecto maculopapular, aparece generalmente en
+las 8 semanas siguientes al comienzo del tratamiento y desaparece al retirar lamotrigina (ver 4.4
+Advertencias y precauciones especiales de empleo).
+ Raramente se han comunicado erupciones cutáneas graves de riesgo potencial para la vida,
+incluyendo el síndrome de Stevens-Johnson y necrolisis epidérmica tóxica (síndrome de Lyell).
+Aunque la mayoría de los pacientes se recupera con la retirada del fármaco, algunos pacientes
+experimentan lesiones cutáneas irreversibles, que raramente pueden provocar un desenlace fatal
+(ver 4.4 Advertencias y precauciones especiales de empleo).
+ El riesgo global de aparición de la erupción está altamente asociado con:
+ - Dosis iniciales elevadas de lamotrigina que exceden la pauta de escalada de dosis
+recomendada (ver 4.2 Posología y forma de administración).
+- Uso concomitante de valproato (ver 4.2 Posología y forma de administración).
+ La erupción cutánea también se ha comunicado como parte de un síndrome de hipersensibilidad
+asociado con un patrón variable de síntomas sistémicos (ver Trastornos del sistema
+inmunológico**).
+ Trastornos de la sangre y del sistema linfático
+                                                                                                      MINISTERIO
+Muy raras:              Anomalías hematológicas incluyendo, neutropenia, leucopenia, anemia,
+Las anomalías hematológicas pueden o no estar asociadas al síndrome de hipersensibilidad
+asociado con un patrón variable de síntomas sistémicos (ver Trastornos del sistema
+inmunológico**).
+ Trastornos del sistema inmunológico
+Muy raras:              Síndrome de hipersensibilidad** (incluyendo síntomas tales como,
+ ** La erupción cutánea también se ha comunicado como parte de un síndrome de
+hipersensibilidad asociado con un patrón variable de síntomas sistémicos incluyendo fiebre,
+linfadenopatía, edema facial y anomalías de la sangre e hígado. El síndrome muestra un amplio
+espectro de gravedad clínica y puede, raramente, conducir a la coagulación intravascular
+diseminada y a fallo multiorgánico. Es importante resaltar que incluso cuando la erupción no es
+evidente, pueden aparecer manifestaciones tempranas de hipersensibilidad (ej. fiebre,
+linfadenopatía). Si tales signos y síntomas aparecen, el paciente debe ser evaluado
+inmediatamente y se debe suspender la lamotrigina si no se puede establecer una etiología
+alternativa.
+ Trastornos psiquiátricos
+ Frecuentes:             Irritabilidad.
+Poco frecuentes:        Agresividad.
+Muy raras:              Tics, alucinaciones, confusión.
+ Trastornos del sistema nervioso
+Durante ensayos clínicos en monoterapia:
+ Muy frecuentes:         Dolor de cabeza.
+Frecuentes:             Somnolencia, insomnio, vértigo, temblor.
+Poco frecuentes:        Ataxia.
+ En otro uso clínico (ensayos clínicos en terapia añadida y datos post-comercialización):
+ Muy frecuentes:         Dolor de cabeza, vértigo.
+Frecuentes:             Nistagmo, temblor, ataxia, somnolencia, insomnio.
+Muy raras:              Agitación, inestabilidad, alteraciones del movimiento, empeoramiento de
+ Se ha comunicado que lamotrigina puede empeorar los síntomas en pacientes con enfermedad de
+Parkinson preexistente, así como producir en casos aislados efectos extrapiramidales y
+coreoatetosis en pacientes sin esta condición subyacente.
+ Trastornos oculares
+ Muy frecuentes:         Diplopía, visión borrosa.
+Raras:                  Conjuntivitis.
+                                                                                                   MINISTERIO
+Trastornos gastrointestinales
+ Durante ensayos clínicos en monoterapia:
+Frecuentes: Náuseas.
+En otro uso clínico (ensayos clínicos en terapia añadida y datos post-comercialización):
+Frecuentes: Alteraciones gastrointestinales, incluyendo vómitos y diarrea.
+ Trastornos hepatobiliares
+ Muy raras:      Aumento en los valores de las pruebas de función hepática, disfunción hepática,
+insuficiencia hepática.
+ La disfunción hepática ocurre generalmente en asociación con reacciones de hipersensibilidad
+pero se han comunicado casos aislados sin la aparición de signos de hipersensibilidad.
+ Trastornos musculoesqueléticos, del tejido conjuntivo y de los huesos
+ Muy raras:      Reacciones de tipo lupus.
+ Trastornos generales y condiciones en el lugar de administración
+ Frecuentes:     Cansancio.
+ TRASTORNO BIPOLAR:
+ Las reacciones adversas indicadas a continuación, se deben considerar junto con las mencionadas
+en la sección de Epilepsia para conocer el perfil de seguridad global de lamotrigina.
+ Durante los ensayos clínicos en trastorno bipolar se han comunicado las siguientes reacciones
+adversas:
+ Trastornos de la piel y tejido subcutáneo
+ Muy frecuentes:         Erupción cutánea.
+Raras:                  Síndrome de Stevens-Johnson.
+ Cuando se considera el conjunto de todos los estudios realizados en trastorno bipolar (controlados
+y no controlados) con lamotrigina, las erupciones cutáneas ocurrieron en el 14 % de pacientes en
+el grupo de lamotrigina. Mientras que, si se consideran sólo los ensayos clínicos controlados en
+pacientes con trastorno bipolar, las erupciones cutáneas ocurrieron en el 9 % de pacientes que
+tomaban lamotrigina y en el 8 % de pacientes que tomaban placebo.
+Trastornos del sistema nervioso
+ Muy frecuentes:      Dolor de cabeza.
+Frecuentes:          Agitación, somnolencia, vértigo.
+Trastornos musculoesqueléticos, del tejido conjuntivo y de los huesos
+ Frecuentes:           Artralgia.
+Trastornos generales y alteraciones en el lugar de administración
+                                                                                                      MINISTERIO
+Frecuentes:            Dolor, dolor de espalda.
+ 4.9.   Sobredosificación
+ Se ha comunicado la ingestión aguda de dosis superiores a 10-20 veces la dosis terapéutica
+máxima. La sobredosificación ha dado lugar a la aparición de nistagmo, ataxia, aumento en la
+frecuencia de convulsiones, alteración de la conciencia y coma.
+En caso de sobredosis, el paciente debe ser ingresado en un hospital y se le debe aplicar el
+tratamiento adecuado. Si estuviera indicado, debería realizarse un lavado gástrico.
+ propiedades Farmacológicas
+ Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Otros antiepilépticos; Código ATC: (N03AX09)
+ Mecanismo de acción:
+Los resultados de los estudios farmacológicos sugieren que lamotrigina es un bloqueante uso-
+dependiente de los canales de sodio voltaje dependientes. Produce un bloqueo, uso y voltaje
+dependiente, de neuronas cultivadas hiperexcitadas repetidamente e inhibe la liberación
+patológica del glutamato (aminoácido que juega un papel clave en la generación de crisis
+epilépticas), así como los potenciales de acción evocados tras la administración de glutamato.
+ Farmacodinamia:
+ En pruebas diseñadas para evaluar los efectos de los fármacos sobre el sistema nervioso central,
+los resultados obtenidos empleando dosis de 240 mg de lamotrigina administrada a voluntarios
+sanos adultos, no se diferenciaron de los obtenidos empleando placebo, en tanto que, 1000 mg de
+fenitoína y 10 mg de diazepam alteraron notablemente la coordinación fina visual motora y
+movimientos oculares, incrementaron el desequilibrio corporal y produjeron efectos sedativos
+subjetivos.
+ En otro estudio, dosis únicas por vía oral de 600 mg de carbamazepina, alteraron
+significativamente la coordinación fina motora visual y movimientos oculares incrementando
+tanto el desequilibrio corporal como la frecuencia cardiaca, mientras que los resultados obtenidos
+con dosis de lamotrigina de 150 y 300 mg no se diferenciaron de los resultados obtenidos con
+placebo.
+ Trastorno bipolar
+ Dos estudios pivotales han demostrado la eficacia de lamotrigina en la prevención de episodios de
+trastorno del estado del ánimo en pacientes con trastorno bipolar de tipo I.
+ Ambos estudios fueron multicéntricos, doble ciego, controlados con placebo y con litio y constan
+de dos fases, una fase preliminar y una fase aleatorizada. En el estudio SCAB2003 pacientes con
+un episodio reciente o actual de depresión mayor fueron asignados a 5 grupos de tratamiento:
+lamotrigina (50, 200 y 400 mg/día), litio (niveles en suero de 0,8 a 1,1 mEq/l) y placebo. En el
+estudio SCAB2006 pacientes con un episodio actual o reciente de manía/hipomanía fueron
+asignados a lamotrigina en dosificación flexible (100-400 mg/día), litio o placebo.
+ Durante las 8-16 semanas de la fase preliminar todos los pacientes recibían lamotrigina en
+monoterapia o en combinación con otros fármacos psicoactivos según sus necesidades. Sólo los
+sujetos que durante 4 semanas consecutivas en la fase preliminar mantuvieron una puntuación  3
+en la escala de impresión clínica global (CGI-S) fueron aleatorizados a los grupos de tratamiento
+durante 76 semanas o hasta que el investigador consideró necesario intervenir mediante la
+administración de tratamiento adicional o con terapia electroconvulsivante.
+ La variable principal de eficacia fue el ""tiempo hasta una intervención debida a un episodio de
+trastorno del estado de ánimo"". En el estudio SCAB2003 la dosis de lamotrigina de 50 mg/día no
+se consideró para el análisis mientras que las dosis de 200 y 400 mg/día se analizaron de forma
+conjunta.
+ En los estudios clínicos se incluyeron un total de 1315 pacientes (población ITT).
+Aproximadamente un 50% de estos sujetos no finalizaron la fase preliminar debido a
+acontecimientos adversos (13%), retirada del consentimiento (12%), otros (10%), pérdida para el
+seguimiento (7%), fallo para cumplir con los criterios de aleatorización (6%) y violación de
+protocolo (2%).
+ La comparación de las curvas de supervivencia de los distintos grupos de tratamiento demostró en
+ambos estudios que lamotrigina fue superior a placebo mientras que no hubo diferencias
+estadísticamente significativas respecto a litio en el tiempo hasta la intervención. La tabla
+siguiente muestra la mediana de tiempo (días) por grupo de tratamiento hasta la intervención.
+  Estudio                Placebo                  Litio                    Lamotrigina
+SCAB2003               58                       105                      110
+SCAB2006               82                       202                      86
+ En un análisis secundario lamotrigina fue también superior a placebo en el tiempo hasta una
+intervención debida a un episodio depresivo. Sin embargo, la diferencia entre lamotrigina y
+placebo en el tiempo hasta la intervención debido a un episodio de manía/hipomanía o a episodios
+mixtos no fue estadísticamente significativa en ninguno de los estudios.
+ 5.2.   Propiedades farmacocinéticas
+Absorción
+Lamotrigina se absorbe completa y rápidamente en el intestino con un insignificante metabolismo
+de primer paso. El pico de concentraciones plasmáticas se produce aproximadamente 2,5 horas
+tras la administración oral del fármaco. El tiempo hasta conseguir la concentración máxima se
+retrasa ligeramente después de ingerir alimentos aunque la extensión de la absorción no se ve
+afectada. El perfil farmacocinético es lineal hasta 450 mg, la dosis más alta probada. Existe una
+considerable variación interindividual en las concentraciones máximas en estado de equilibrio
+estacionario, pero dentro del mismo individuo las concentraciones varían muy poco.
+ Distribución
+La unión de lamotrigina a proteínas plasmáticas es de alrededor del 55 %; el volumen de
+distribución es 0,92 a 1,22 l/kg.
+ Metabolismo
+Las UDP-glucuronil transferasas han sido identificadas como las enzimas responsables del
+metabolismo de lamotrigina.
+ Lamotrigina induce su propio metabolismo de forma modesta y dosis dependiente. Sin embargo,
+no existe evidencia de que lamotrigina afecte la farmacocinética de otros fármacos antiepilépticos
+y los datos sugieren que las interacciones entre lamotrigina y fármacos metabolizados por enzimas
+del citocromo P450 son poco probables.
+ Eliminación
+El aclaramiento medio en el estado de equilibrio en adultos sanos es 39 ±14 ml/min. El
+aclaramiento de lamotrigina es primariamente metabólico con eliminación posterior del
+glucurónido conjugado en orina. Menos del 10% se excreta inalterado en orina. Sólo el 2% del
+material relacionado con el fármaco se excreta en heces. El aclaramiento y la semivida son
+independientes de la dosis. La semivida de eliminación en adultos sanos es 24 a 35 horas. En un
+estudio de sujetos con el Síndrome de Gilbert, el aclaramiento medio aparente se redujo en un
+32% comparado con los controles normales aunque los valores estaban dentro del rango para la
+población general.
+ La semivida de eliminación de la lamotrigina se ve ampliamente afectada por la medicación
+concomitante.
+ La semivida se redujo aproximadamente a 14 horas cuando se administró con fármacos inductores
+de la glucuronidación tales como carbamazepina y fenitoína y se incrementa a una media de 70
+horas aproximadamente cuando se administra conjuntamente con valproato solo (ver 4.2.
+Posología y forma de administración y 4.5 Interacción con con otros medicamentos y otras formas de
+interacción).
+ Niños:
+El aclaramiento ajustado al peso corporal es mayor en niños que en adultos con los valores más
+altos en niños de edad inferior a cinco años. La semivida de lamotrigina es generalmente más
+corta en los niños que en los adultos con un valor medio de aproximadamente 7 horas cuando se
+administra con fármacos inductores enzimáticos tales como carbamazepina y fenitoína y se
+incrementa a valores medios de 45 a 50 horas cuando se administra conjuntamente con valproato
+solo (ver 4.2. Posología y forma de administración).
+ Ancianos:
+Los resultados obtenidos a partir de un análisis farmacocinético poblacional, que incluyó tanto a
+adultos jóvenes como a ancianos con epilepsia, procedentes de los mismos ensayos, indicaron que
+el aclaramiento de lamotrigina no varió de forma clínicamente relevante. Después de administrar
+dosis únicas, el aclaramiento aparente disminuyó en un 12 % desde 35 ml/min a la edad de 20
+años a 31 ml/min a los 70 años. La disminución tras 48 semanas de tratamiento fue del 10%,
+desde 41 a 37 ml/min, entre grupos de jóvenes y ancianos. Además, se estudió la farmacocinética
+de lamotrigina en 12 ancianos voluntarios sanos tras administración de una dosis única de 150
+mg. El aclaramiento medio en los ancianos (0,39 ml/min/kg) está dentro del intervalo de los
+valores de aclaramiento medio (0,31 a 0,65 ml/min/kg) obtenidos en 9 estudios con adultos no
+ancianos tras la administración de dosis únicas de 30 a 450 mg.
+ Pacientes con insuficiencia renal:
+Se administró una dosis única de 100 mg de lamotrigina a doce voluntarios con insuficiencia renal
+crónica y a otros 6 individuos sometidos a hemodiálisis. El CL/F medio fue de 0,42 ml/min/kg
+(insuficiencia renal crónica), 0,33 ml/min/kg (entre hemodiálisis) y 1,57 ml/min/kg (durante la
+hemodiálisis) comparado con 0,58 ml/min/kg en voluntarios sanos. Las semividas plasmáticas
+medias fueron de 42,9 horas (insuficiencia renal crónica), 57,4 horas (entre hemodiálisis) y 13,0
+horas (durante la hemodiálisis), comparadas con 26,2 horas en voluntarios sanos. Como media,
+aproximadamente un 20 % (rango = 5,6 a 35,1) de la cantidad de lamotrigina presente en el
+cuerpo, se eliminó durante una sesión de cuatro horas de hemodiálisis. Para esta población de
+pacientes, la dosis inicial de lamotrigina se debe basar en las medicaciones concomitantes que
+reciban; a pesar de que se recomienda una reducción en la dosis de mantenimiento en pacientes
+con insuficiencia renal funcional significativa, esta puede ser eficaz.
+ Pacientes con insuficiencia hepática:
+Se realizó un estudio farmacocinético de dosis únicas en el que participaron 24 sujetos con grados
+variables de insuficiencia hepática y 12 sujetos sanos como controles. La mediana del
+aclaramiento aparente de lamotrigina fue de 0,31, 0,24 o 0,10 ml/min/kg en pacientes con Grado
+A, B o C Child-Pugh, respectivamente, en comparación con 0,34 ml/min/kg en los controles
+sanos. Las dosis iniciales, las dosis posteriores de escalada y las dosis de mantenimiento deberán
+reducirse por lo general en aproximadamente un 50 % en pacientes con insuficiencia hepática
+moderada (Grado B de Child-Pugh) y un 75 % en pacientes con insuficiencia hepática grave
+(Grado C de Child-Pugh). Las dosis posteriores de escalada y las dosis de mantenimiento deberán
+ajustarse en función de la respuesta clínica.
+ 5.3.   Datos preclínicos sobre seguridad
+ Teratogenicidad
+En estudios de toxicidad sobre la reproducción y el desarrollo en roedores y conejos no se han
+observado efectos teratogénicos, aparte de una reducción del peso corporal y retraso en la
+osificación, a dosis menores o similares a las exposiciones al fármaco clínicamente esperadas.
+Debido a que no se pueden realizar estudios en animales a dosis superiores, debido a toxicidad
+materna, no se ha determinado el posible efecto teratogénico de lamotrigina a dosis superiores a
+las clínicas.
+ En ratas se ha observado un incremento en la mortalidad fetal y post-natal cuando se administró
+lamotrigina en etapas tardías de la gestación (días 15-20). Estos efectos se observaron a las
+exposiciones al fármaco clínicamente esperadas.
+Los experimentos en animales no evidenciaron alteraciones en la fertilidad debidas a lamotrigina.
+En ratas, lamotrigina redujo los niveles de ácido fólico fetal. La deficiencia de ácido fólico está
+relacionada con un incremento en el riesgo de malformaciones congénitas en animales y en seres
+humanos.
+ Mutagenicidad
+Los resultados obtenidos de un gran número de pruebas de mutagenicidad muestran que
+lamotrigina no presenta un riesgo genético para los seres humanos.
+ Carcinogenicidad
+En los estudios a largo plazo en ratones y ratas no se evidenció un potencial carcinogénico de
+lamotrigina.
+ "
+6.     DATOS FARMACÉUTICOS
+	6.2.   Incompatibilidades
+No procede.
+ 6.3.   Periodo de validez
+3 años
+ 6.4.   Precauciones especiales de conservación
+No conservar a temperatura superior a 30ºC. Conservar protegido de la luz y de la humedad.
+ 6.5.   Naturaleza y contenido del recipiente
+LABILENO 5 mg comprimidos dispersables
+Blister PVC/PVDC/Al conteniendo 56 comprimidos dispersables.
+ LABILENO 25 mg comprimidos dispersables
+Blister PVC/PVDC/Al conteniendo 21 comprimidos dispersables (envase iniciación para terapia
+combinada con inhibidores enzimáticos),
+Blister PVC/PVDC/Al conteniendo 42 comprimidos dispersables (envase iniciación para
+monoterapia),
+Blister PVC/PVDC/Al conteniendo 56 comprimidos dispersables.
+ LABILENO 50 mg comprimidos dispersables
+Blister PVC/PVDC/Al conteniendo 42 comprimidos dispersables (envase iniciación para terapia
+combinada con inductores enzimáticos),
+Blister PVC/PVDC/Al conteniendo 56 comprimidos dispersables
+ LABILENO 100 mg comprimidos dispersables
+Blister PVC/PVDC/Al conteniendo 56 comprimidos dispersables.
+ LABILENO 200 mg comprimidos dispersables
+Blister PVC/PVDC/Al conteniendo 30 comprimidos dispersables.
+ 6.6.     Instrucciones de uso y manipulación
+ No procede.
+ 
+7.  NOMBRE O RAZÓN SOCIAL Y DOMICILIO PERMANENTE O SEDE
+	FAES FARMA, S.A.
+Máximo Aguirre, 14
+48940 Leioa
+Bajo licencia GLAXO Wellcome
+ 8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+-   LABILENO 5 mg Comprimidos Dispersables: 63.287
+-   LABILENO 25 mg Comprimidos Dispersables: 63.288
+-   LABILENO 50 mg Comprimidos Dispersables: 65.284
+-   LABILENO 100 mg Comprimidos Dispersables: 64.943
+-   LABILENO 200 mg Comprimidos Dispersables: 65.283
+ 
+9. FECHA DE LA PRIMERA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	-   LABILENO 5 mg Comprimidos Dispersables: 26-07-00
+-   LABILENO 25 mg Comprimidos Dispersables: 26-07-00
+-   LABILENO 50 mg, 200 mg, Comprimidos Dispersables: 18-03-03
+-   LABILENO 100 mg Comprimidos Dispersables: 26-07-02
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+Agosto de 2006
+
+	Prospectos de medicamentos.

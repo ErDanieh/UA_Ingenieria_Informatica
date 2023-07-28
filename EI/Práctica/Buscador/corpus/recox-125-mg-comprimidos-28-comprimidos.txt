@@ -1,0 +1,524 @@
+RECOX 12,5 mg comprimidos 28 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1.    DENOMINACION DEL MEDICAMENTO
+	RECOX® 12,5 mg comprimidos
+ 
+2.    COMPOSICION CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 12,5 mg de rofecoxib.
+Lista de excipientes, en 6.1.
+ 
+3.    FORMA FARMACEUTICA
+	Comprimido.
+ Comprimido redondo, de color crema/blanquecino, con concavidad poco profunda, grabado con
+`74' en una cara y plano en la otra.
+ 
+
+
+4.    DATOS CLINICOS
+	4.1   Indicaciones terapéuticas
+ Alivio sintomático en el tratamiento de la artrosis o de la artritis reumatoide en adultos.
+ 4.2   Posología y forma de administración
+ RECOX se administra por vía oral.
+ RECOX puede tomarse con o sin alimentos.
+ RECOX no debe utilizarse concomitantemente con otros productos que contengan el mismo
+principio activo, rofecoxib.
+ Artrosis
+La dosis inicial recomendada para adultos es de 12,5 mg una vez al día. En algunos pacientes, con
+alivio insuficiente de los síntomas, un aumento de la dosis hasta 25 mg al día puede aumentar la
+eficacia. No debe superarse la dosis de 25 mg al día.
+ Artritis reumatoide
+La dosis recomendada es de 25 mg una vez al día. En pacientes con artritis reumatoide (AR), no
+se ha observado eficacia adicional significativa con la dosis diaria de 50 mg una vez al día en
+comparación con la dosis de 25 mg una vez al día. La dosis diaria máxima recomendada es de
+25 mg.
+ Para la dosis de 25 mg una vez al día, también hay disponible un comprimido de 25 mg.
+ Ancianos: en los ancianos (> 65 años de edad), debe utilizarse inicialmente la dosis más baja
+(12,5 mg al día). Se debe tener precaución al aumentar la dosis diaria de 12,5 mg a 25 mg en los
+ancianos.
+ Insuficiencia hepática: no es necesario realizar ajuste de dosis en pacientes con insuficiencia
+hepática leve (puntuación 5-6 en la clasificación de Child-Pugh). En pacientes con insuficiencia
+hepática moderada (puntuación 7-9 en la clasificación de Child-Pugh o albúmina sérica 25-35 g/l)
+no debe superarse la dosis más baja recomendada de 12,5 mg una vez al día. La experiencia
+clínica es limitada principalmente en pacientes con insuficiencia hepática moderada y se aconseja
+precaución (véase 4.4 y 5.2).
+ Insuficiencia renal: no es necesario realizar ajuste de dosis en los pacientes con artrosis con
+aclaramiento renal de creatinina de 30-80 ml/min (véase 4.4 y 5.2). Actualmente, solo hay datos
+limitados de pacientes con artritis reumatoide con aclaramiento renal de creatinina de 30-
+80 ml/min.
+ Uso en pediatría: el uso de RECOX no está indicado en niños.
+ 4.3   Contraindicaciones
+ Antecedentes de hipersensibilidad al principio activo o a cualquiera de los excipientes (véase 6.1).
+ Úlcera péptica activa o con hemorragia gastrointestinal (GI).
+ Pacientes que hayan experimentado broncoespasmo, rinitis aguda, pólipos nasales, edema
+angioneurótico, urticaria o reacciones de tipo alérgico después de tomar ácido acetil salicílico o
+AINEs, incluyendo inhibidores de la COX-2 (ciclooxigenasa-2).
+ Tercer trimestre del embarazo y lactancia (véase 4.6 y 5.3)
+ Disfunción hepática grave (albúmina sérica <25 g/l o puntuación de Child-Pugh  10)
+ Aclaramiento de creatinina renal estimado < 30 ml/min
+ Enfermedad intestinal inflamatoria
+ Insuficiencia cardíaca congestiva severa (NYHA III-IV).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Debido a la posibilidad de aumento de reacciones adversas con dosis mayores de rofecoxib, otros
+inhibidores de la COX-2 y AINEs, se evaluará a los pacientes después del aumento de dosis y, en
+ausencia de aumento de eficacia, se considerarán otras opciones terapéuticas (véase 4.2).
+ En pacientes tratados con rofecoxib, se han producido complicaciones gastrointestinales altas
+[perforaciones, úlceras o hemorragias (PUHs)], algunas de ellas tuvieron resultados mortales.
+ Se recomienda precaución en el tratamiento de pacientes con elevado riesgo de desarrollar una
+complicación gastrointestinal con AINEs: ancianos, pacientes que utilizan cualquier otro AINE o
+ácido acetil salicílico concomitantemente, o pacientes con antecedentes previos de enfermedad
+gastrointestinal, como úlcera y hemorragia GI.
+                                                                                                        MINISTERIO
+Hay un elevado riesgo de efectos adversos gastrointestinales para rofecoxib, otros inhibidores de
+la COX-2 y AINEs, cuando se toman concomitantemente con ácido acetil salicílico (incluso a
+dosis bajas).
+ Los inhibidores selectivos de la COX-2 no son sustitutos del ácido acetil salicílico en la profilaxis
+de enfermedades cardiovasculares tromboembólicas debido a su falta de efecto sobre la función
+plaquetaria. Dado que rofecoxib no inhibe la agregación plaquetaria, los tratamientos
+antiagregantes (p. ej., ácido acetil salicílico) no deben ser interrumpidos y si está indicado, el uso
+de antiagregantes debe tenerse en consideración en pacientes con antecedentes de acontecimientos
+cardiovasculares u otros acontecimientos trombóticos o con riesgo de desarrollarlos (antecedentes
+de IM, angina, cardiopatía isquémica, cardiopatía ateroesclerótica, accidente cerebrovascular,
+isquemia cerebral, operación de injerto de derivación coronaria u operación vascular periférica).
+Sin embargo, debe advertirse que el uso concomitante de rofecoxib 25 mg más ácido acetil
+salicílico a dosis bajas (81 mg) resulta en un aumento de la tasa de úlcera endoscópica, en
+comparación con el uso de ácido acetil salicílico solo a dosis bajas. (Véase 4.5 y 5.1).
+ Debe tenerse precaución en pacientes con antecedentes personales patológicos de cardiopatía
+isquémica debido al perfil farmacodinámico de los inhibidores selectivos de la COX-2 indicado
+anteriormente. Deben tomarse las medidas apropiadas y debe considerarse la interrupción del
+tratamiento de rofecoxib si hay evidencia clínica de deterioro en el estado de los síntomas clínicos
+específicos en estos pacientes.
+ Las prostaglandinas renales pueden desempeñar una función compensatoria en el mantenimiento
+de la perfusión renal. Por eso, en condiciones de perfusión renal comprometida, la administración
+de rofecoxib puede producir una reducción de la formación de prostaglandinas y,
+secundariamente, una reducción del flujo renal, y en consecuencia una alteración de la función
+renal. Los pacientes con mayor riesgo de presentar esta respuesta son los que padecen de
+antemano alteraciones significativas de la función renal, insuficiencia cardíaca no compensada o
+cirrosis. En estos pacientes se debe considerar la monitorización de la función renal.
+ Hay que tener cuidado al iniciar el tratamiento con rofecoxib en pacientes con deshidratación
+considerable. Se aconseja rehidratar a los pacientes antes de iniciar el tratamiento con rofecoxib.
+ Se ha observado retención de líquidos, edema e hipertensión en pacientes tratados con rofecoxib.
+Estos efectos parecen estar relacionados con la dosis y se han visto con una frecuencia mayor en
+el uso crónico de rofecoxib y a dosis terapéuticas superiores. Los índices de notificación de
+hipertensión con rofecoxib han sido similares a o, en ocasiones, ligeramente superiores a los de
+algunos otros AINEs, a dosis comparables. Puesto que el tratamiento con rofecoxib puede causar
+retención de líquidos, debe tenerse cuidado en los pacientes con historia de insuficiencia cardíaca,
+disfunción ventricular izquierda o hipertensión, y en los que presentan edema preexistente por
+cualquier otra causa. En esos pacientes rofecoxib debe ser introducido a la dosis recomendada
+más baja. (Véase 4.5)
+ Debe mantenerse una supervisión médica adecuada cuando se utiliza rofecoxib en ancianos y en
+pacientes con disfunción renal, hepática o cardíaca.
+ Durante la vigilancia postcomercialización y en asociación con el uso de AINEs, incluyendo
+rofecoxib, se han comunicado reacciones cutáneas graves, incluyendo dermatitis exfoliativa,
+síndrome de Stevens-Johnson y necrólisis epidérmica tóxica (véase 4.8). En pacientes recibiendo
+rofecoxib, se han comunicado reacciones de hipersensibilidad (anafilaxia y angioedema) (véase
+4.8). Rofecoxib debe dejar de administrarse al primer signo de hipersensibilidad.
+                                                                                                          MINISTERIO
+Rofecoxib puede enmascarar la fiebre y otros signos de inflamación.
+ Se debe tener precaución cuando se administra concomitantemente rofecoxib con warfarina u
+otros anticoagulantes orales (véase 4.5).
+No se recomienda el uso de rofecoxib, como el de cualquier especialidad farmacéutica con
+capacidad conocida para inhibir la ciclooxigenasa/síntesis de prostaglandina, en mujeres que
+intenten concebir (véase 4.6, 5.1 y 5.3).
+ Se han comunicado elevaciones de la ALT y/o la AST (aproximadamente tres o más veces el
+límite superior de la normalidad) en aproximadamente el 1 % de los pacientes en estudios clínicos
+con rofecoxib.
+ Un paciente con síntomas y/o signos que sugieran disfunción hepática, o en quien se haya
+obtenido un resultado anormal de las pruebas de función hepática, debe ser evaluado por si dichos
+resultados anormales persisten. Si se detecta que los resultados de las pruebas de función hepática
+se mantienen anormales (tres veces el límite superior de la normalidad), debe suspenderse el
+tratamiento con rofecoxib.
+ Pacientes pediátricos: rofecoxib no ha sido estudiado en niños, y sólo debe utilizarse en pacientes
+adultos.
+ Los comprimidos de RECOX contienen lactosa. No deben tomar este medicamento los pacientes
+con problemas hereditarios raros de intolerancia a la galactosa, intolerancia a la lactosa Lapp o
+absorción insuficiente de glucosa-galactosa.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Interacciones farmacodinámicas
+ En sujetos estabilizados con un tratamiento crónico con warfarina, la administración de 25 mg
+diarios de rofecoxib se asoció a un aumento aproximado del 8 % del índice de tiempo de
+protrombina INR (International Normalised Ratio). Ha habido informes de incrementos en el
+INR, que condujeron a la interrupción del tratamiento con warfarina y en algunos casos sugirieron
+reversión de la anticoagulación, en pacientes que tomaban rofecoxib a dosis clínicas
+concomitantemente con warfarina. También ha habido casos aislados de aumentos en el INR en
+pacientes que toman rofecoxib y el anticoagulante fluindiona. Por consiguiente, en los pacientes
+tratados con anticoagulantes orales debe monitorizarse minuciosamente el tiempo de protrombina
+INR, especialmente en los primeros días cuando la terapia con rofecoxib se inicie o la dosis de
+rofecoxib se cambie (véase 4.4).
+ En pacientes con hipertensión leve a moderada, la administración de 25 mg diarios de rofecoxib
+junto con un inhibidor de la ECA (benazepril, 10 mg a 40 mg al día) durante 4 semanas se asoció
+con una pequeña atenuación del efecto antihipertensivo (promedio de aumento de la presión
+arterial media de 2,8 mm Hg) en comparación con el inhibidor de la ECA solo. Al igual que con
+otros agentes que inhiben la ciclooxigenasa, en algunos pacientes con función renal
+comprometida, la administración conjunta de un inhibidor de la ECA y rofecoxib puede dar lugar
+a un mayor deterioro de la función renal, que es generalmente reversible. Estas interacciones
+deben tenerse en cuenta en pacientes que toman rofecoxib concomitantemente con inhibidores de
+la ECA.
+ El uso concomitante de AINEs puede también reducir la eficacia antihipertensiva de los beta-
+bloqueantes y los diuréticos, y los otros efectos de los diuréticos. No existen datos sobre la posible
+interacción de rofecoxib y beta-bloqueantes o diuréticos.
+ En el estado de equilibrio, rofecoxib 50 mg una vez al día no tuvo efecto sobre la actividad
+antiplaquetaria del ácido acetil salicílico a dosis bajas. Debe evitarse la administración
+concomitante de rofecoxib con dosis más altas de ácido acetil salicílico o con otros AINEs.
+ El uso concomitante de rofecoxib 25 mg más ácido acetil salicílico a dosis bajas (81 mg) resulta
+en un aumento de la tasa de úlcera endoscópica, en comparación con el uso de ácido acetil
+salicílico solo a dosis bajas. (Véase 5.1).
+ La administración conjunta de ciclosporina o tacrolimo y AINEs puede aumentar el efecto
+nefrotóxico de ciclosporina o tacrolimo. Debe monitorizarse la función renal cuando rofecoxib y
+cualquiera de estos fármacos se usan en combinación.
+ Interacciones farmacocinéticas
+ El efecto de rofecoxib sobre la farmacocinética de otros fármacos
+ La concentración plasmática de litio podría incrementarse por los AINEs. En la experiencia tras la
+comercialización de rofecoxib, ha habido informes de aumento de los niveles plasmáticos de litio.
+ RECOX 12,5, 25, y 50 mg, administrada cada dosis una vez al día durante 7 días, no tuvo efecto
+significativo sobre la concentración plasmática de metotrexato medida mediante el Área Bajo la
+Curva0-24h (ABC0-24h) en pacientes tratados con dosis únicas semanales de metotrexato de 7,5 a
+20 mg para el tratamiento de la artritis reumatoide. Rofecoxib 75 mg (dosis 3 a 6 veces superior a
+la recomendada para la artrosis) administrado una vez al día durante 10 días aumentó las
+concentraciones plasmáticas de metotrexato (ABC(0-24h)) en un 23 % en pacientes con AR tratados
+con metotrexato 7,5 mg a 15 mg/semana. Cuando se administren rofecoxib y metotrexato
+concomitantemente se debe considerar una monitorización adecuada de la toxicidad relacionada
+con metotrexato.
+ No se ha observado interacción con digoxina en estudios farmacocinéticos. Sin embargo, los
+pacientes con riesgo elevado de toxicidad por digoxina deben ser monitorizados cuando se
+administran concomitantemente rofecoxib y digoxina.
+ Los datos in vivo relativos a las interacciones rofecoxib/warfarina y rofecoxib/teofilina sugieren
+que rofecoxib puede producir una modesta inhibición de la CYP1A2. Debe tenerse precaución
+cuando se administre rofecoxib simultáneamente con otros fármacos metabolizados
+principalmente por la CYP1A2 (p. ej. tacrina, zileutón, olanzapina y clozapina). Rofecoxib 12,5,
+25 y 50 mg administrados una vez al día durante 7 días aumentaron las concentraciones
+plasmáticas de teofilina (AUC(0-)) entre un 38 y un 60 % en sujetos sanos a los que se administró
+una dosis única de 300 mg de teofilina. Cuando se inicie o se cambie el tratamiento con rofecoxib
+en pacientes tratados con teofilina, se debe considerar una monitorización adecuada de las
+concentraciones plasmáticas de teofilina.
+ La capacidad de rofecoxib para inhibir o inducir la actividad la CYP3A4 se investigó en estudios
+en seres humanos mediante la prueba de midazolam oral y la prueba del aliento con eritromicina
+intravenosa. Rofecoxib (25 mg diarios durante 12 días) produjo una modesta inducción del
+metabolismo de midazolam catalizado por la CYP3A4, reduciendo el ABC de midazolam en un
+30 %. Esta reducción se debe principalmente al aumento del metabolismo de primer paso a través
+de la inducción de la actividad de la CYP3A4 intestinal por rofecoxib. Comparado con placebo,
+rofecoxib (75 mg diarios durante 14 días) no produjo ningún efecto significativo en la
+desmetilación de eritromicina, indicando que no hay inducción de la actividad de la CYP3A4
+hepática.
+ Aunque rofecoxib produce una modesta inducción de la actividad de la CYP3A4 intestinal, no
+cabe esperar que la farmacocinética de los fármacos que se metabolizan principalmente por la
+CYP3A4 se vea afectada en un grado clínicamente significativo. No obstante, debe tenerse
+precaución cuando se prescriban conjuntamente sustratos de la CYP3A4.
+ En estudios de interacción farmacológica, rofecoxib no tuvo efectos de importancia clínica sobre
+la farmacocinética de prednisona/prednisolona o anticonceptivos orales (etinil
+estradiol/noretindrona 35/1).
+ En base a los estudios in vitro, no cabe esperar que rofecoxib inhiba los citocromos P450 2C9,
+2C19, 2D6 o 2E1, aunque no se dispone de datos in vivo.
+ Efectos de otros fármacos sobre la farmacocinética de rofecoxib
+ La vía principal del metabolismo de rofecoxib es la reducción que produce cis- y trans-dihidro
+rofecoxib (como hidroxiácidos). En ausencia de inductores potentes del citocromo P450 (CYP), el
+metabolismo catalizado por el CYP no es la vía dominante del metabolismo de rofecoxib.
+ No obstante, la administración conjunta de rofecoxib con rifampicina, un inductor potente de las
+enzimas del CYP, produjo una disminución aproximada del 50 % en las concentraciones
+plasmáticas de rofecoxib. Por tanto, el uso de la dosis de 25 mg de rofecoxib debe considerarse
+cuando rofecoxib se administra conjuntamente con inductores potentes del metabolismo hepático.
+ La administración de ketoconazol (un inhibidor potente de la CYP3A4) no afectó a la
+farmacocinética plasmática de rofecoxib. La cimetidina o los antiácidos no afectan a la
+farmacocinética de rofecoxib de forma clínicamente relevante.
+ 4.6   Embarazo y lactancia
+ Embarazo
+No se recomienda el uso de rofecoxib, como el de cualquier fármaco con capacidad conocida para
+inhibir la COX-2, en mujeres que intenten concebir (véase 5.1).
+ Está contraindicado el uso de rofecoxib en el último trimestre del embarazo porque, al igual que
+otros fármacos de los que se conoce que inhiben la síntesis de prostaglandinas, puede causar
+inercia uterina y cierre prematuro del conducto arterioso (véase 4.3).
+ El uso de rofecoxib en mujeres embarazadas no se ha estudiado en ensayos clínicos adecuados y
+bien controlados y, por tanto, no se debe utilizar durante los dos primeros trimestres del embarazo
+a menos que el beneficio potencial para el paciente justifique el riesgo potencial para el feto
+(véase 5.3).
+ Madres lactantes
+Se desconoce si rofecoxib se excreta por la leche humana. Rofecoxib se excreta en la leche de
+ratas lactantes. Las mujeres que usan rofecoxib no deben alimentar al pecho (véase 4.3 y 5.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+Los pacientes que presenten mareo, vértigo o somnolencia mientras toman rofecoxib deben evitar
+la conducción de vehículos y el manejo de maquinaria.
+ 4.8   Reacciones adversas
+ La seguridad de rofecoxib fue evaluada en estudios clínicos en aproximadamente
+11.600 individuos, incluyendo 1.000 pacientes tratados durante un año o más.
+ En estudios clínicos en artrosis y artritis reumatoide realizados en pacientes tratados con 12,5 mg
+o 25 mg de rofecoxib durante un período de hasta 6 meses o en la experiencia tras la
+comercialización, se comunicaron las reacciones adversas siguientes, con una incidencia mayor
+que placebo:
+ [Muy frecuentes (>1/10) Frecuentes (> 1/100, < 1/10) Poco frecuentes (> 1/1.000, < 1/100)
+Raras (> 1/10.000, < 1/1.000) Muy raras (< 1/10.000 incluyendo casos aislados)]
+ Trastornos sanguíneos y del sistema linfático:
+Frecuentes: descenso del hematócrito.
+Poco frecuentes: disminución de la hemoglobina, disminución de eritrocitos, disminución de
+leucocitos.
+Muy raras: anemia aplásica, pancitopenia, trombocitopenia.
+ Trastornos del sistema inmune:
+Muy raras: reacciones de               hipersensibilidad,   incluyendo   angioedema,    reacciones
+anafiláticas/anafilactoides.
+ Trastornos del metabolismo y nutrición:
+Poco frecuentes: ganancia de peso.
+ Trastornos psiquiátricos:
+Poco frecuentes: depresión, disminución de la agudeza mental.
+Muy raras: ansiedad, confusión, alucinaciones.
+ Trastornos del sistema nervioso:
+Frecuentes: mareos, cefalea.
+Poco frecuentes: insomnio, somnolencia, vértigo.
+Muy raras: empeoramiento de la epilepsia, parestesia, meningitis aséptica.
+ Trastornos oculares:
+Muy raras: visión borrosa.
+ Trastornos del oído y del laberinto:
+Poco frecuentes: tinnitus.
+ Trastornos cardíacos:
+Raras: insuficiencia cardíaca congestiva.
+Muy raras: palpitaciones, infarto de miocardio, edema pulmonar.
+ Trastornos vasculares:
+Frecuentes: hipertensión.
+Muy raras: accidente cerebrovascular, crisis hipertensiva, vasculitis.
+Trastornos respiratorios, torácicos y mediastínicos:
+Poco frecuentes: disnea.
+Muy raras: broncoespasmo.
+ Trastornos digestivos:
+Frecuentes: dolor abdominal, pirosis, molestias epigástricas, diarrea, náuseas, dispepsia.
+Poco frecuentes: distensión abdominal, estreñimiento, úlceras bucales, vómitos, síntomas de gas
+digestivo, reflujo ácido.
+Raras: úlceras pépticas, perforación gastrointestinal y sangrado (principalmente en pacientes
+ancianos), gastritis.
+Muy raras: empeoramiento de enfermedad intestinal inflamatoria, colitis, pancreatitis.
+ Trastornos hepatobiliares:
+Frecuentes: aumento de alanina aminotransferasa, aumento de aspartato aminotransferasa.
+Poco frecuentes: aumento de la fosfatasa alcalina.
+Muy raras: hepatotoxicidad incluyendo hepatitis con o sin ictericia, insuficiencia hepática.
+(Véase 4.4).
+ Trastornos de la piel y tejido subcutáneo:
+Frecuentes: prurito, erupción.
+Poco frecuentes: dermatitis atópica.
+Muy raras: alopecia, reacciones de fotosensibilidad, urticaria, reacciones adversas cutáneo-
+mucosas y reacciones cutáneas graves incluyendo el síndrome de Stevens-Johnson, necrolisis
+epidérmica tóxica.
+ Trastornos musculoesqueléticos, del tejido conectivo y óseos:
+Poco frecuentes: calambres musculares.
+ Trastornos renales y urinarios:
+Poco frecuentes: aumento del BUN, aumento de la creatinina sérica, proteinuria.
+Muy raras: hiperpotasemia, insuficiencia renal, incluyendo fallo renal, generalmente reversible
+tras la retirada del tratamiento (véase 4.4), nefritis intersticial.
+ Aparato reproductor y trastornos mamarios:
+Muy raras: trastornos menstruales.
+ Trastornos generales y en el lugar de administración:
+Frecuentes: edema/retención de líquidos.
+Poco frecuentes: astenia/fatiga, dolor torácico.
+ En estudios clínicos, el perfil de reacciones adversas fue similar en pacientes tratados con
+rofecoxib durante 1 año o más.
+ Se ha comunicado síndrome nefrótico en asociación con el uso de otros AINEs y no se puede
+excluir para rofecoxib.
+ 4.9   Sobredosis
+ En estudios clínicos, la administración de dosis únicas de rofecoxib de hasta 1.000 mg y de dosis
+múltiples de hasta 250 mg/día durante 14 días no produjo toxicidad significativa.
+                                                                                                     MINISTERIO
+En caso de sobredosis es razonable emplear las medidas de apoyo habituales, p. ej., retirar el
+medicamento no absorbido del tracto GI, utilizar la monitorización clínica e instaurar un
+tratamiento de apoyo si es necesario.
+ Rofecoxib no es dializable por hemodiálisis; se desconoce si puede serlo por diálisis peritoneal.
+ 
+5.    PROPIEDADES FARMACOLOGICAS
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Productos antiinflamatorios y antirreumáticos, no esteroideos,
+coxibes.
+ Código ATC: M01 AH02
+ Rofecoxib es un inhibidor por vía oral, selectivo de la ciclooxigenasa 2 (COX-2) dentro del
+intervalo de dosis terapéuticas.
+ La ciclooxigenasa es responsable de la síntesis de prostaglandinas. Se han identificado dos
+isoformas, la COX-1 y la COX-2. Se ha demostrado que la COX-2 es la isoforma de la enzima
+que resulta inducida por los estímulos proinflamatorios y ha sido propuesta como principal
+responsable de la síntesis de los mediadores prostanoides del dolor, la inflamación y la fiebre. La
+COX-2 también interviene en la ovulación, la implantación y el cierre del conducto arterioso, la
+regulación de la función renal y en las funciones del sistema nervioso central (inducción de la
+fiebre, percepción del dolor y función cognoscitiva). También puede intervenir en la cicatrización
+de la úlcera. Se ha identificado la COX-2 en los tejidos que rodean las úlceras gástricas en el
+hombre pero no se ha establecido su relevancia en la cicatrización de las úlceras.
+ La inhibición estadísticamente significativa de la COX-1 no se ha documentado en seres humanos
+con ninguna dosis de rofecoxib. Según los datos in vitro, la inhibición de la COX-1 puede
+producirse durante la administración crónica de rofecoxib a > 250 mg por día.
+ Los efectos antiinflamatorios de rofecoxib se demostraron en modelos estándar animales,
+utilizados para evaluar los AINEs.
+ A lo largo de estudios de farmacología clínica, en comparación con placebo, rofecoxib produjo
+una inhibición de la COX-2 dosis-dependiente con dosis diarias de 12,5 mg y 25 mg inhibiendo la
+COX-2 en ~70 %, mientras que rofecoxib a dosis diarias de 375 mg y una dosis única de
+1.000 mg inhibió la COX-2 en ~95 %. No hubo inhibición de la COX-1 relacionada con la dosis
+en comparación con placebo. Rofecoxib no inhibió la síntesis gástrica de prostaglandinas y no
+tuvo efecto sobre la función plaquetaria.
+ Un gran estudio clínico (aproximadamente 8.000 pacientes) en pacientes con artritis reumatoide
+ha comparado la seguridad a largo plazo de 50 mg de rofecoxib una vez al día (dos veces la dosis
+máxima recomendada) y de 500 mg de naproxeno dos veces al día. El índice de acontecimientos
+adversos trombo-embólicos cardiovasculares graves fue significativamente menor en los pacientes
+que recibían naproxeno que en los pacientes tratados con rofecoxib: 0,70 acontecimientos por
+100 pacientes - años comparado con 1,67 acontecimientos por 100 pacientes - años. La diferencia
+en la actividad antiplaquetaria entre algunos AINE que inhiben la COX-1 e inhibidores selectivos
+de la COX-2 puede tener importancia clínica en los pacientes con riesgo de episodios
+tromboembólicos. (Véase 4.4). Los inhibidores selectivos de la COX-2 reducen la formación de
+prostaciclina sistémica (y por tanto, posiblemente la endotelial) sin afectar al tromboxano
+plaquetario. No se ha establecido la relevancia clínica de estas observaciones.
+Rofecoxib se estudió para el tratamiento sintomático de la artrosis. La valoración primaria de
+eficacia se hizo solo en las articulaciones de rodilla y cadera; no obstante, la población del estudio
+incluyó un 33 % de pacientes con artrosis concomitante de las articulaciones inter-falángicas, un
+21 % con artrosis del pulgar y un 35 % con artrosis de columna. Después de una semana de
+tratamiento (tiempo de la primera determinación de eficacia), rofecoxib produjo una reducción
+significativa del dolor en pacientes con artrosis. No se evaluaron tiempos inferiores a una semana.
+Por tanto, debe tenerse en cuenta el Tmax de rofecoxib (de dos a cuatro horas) cuando se desee un
+comienzo de acción inmediato.
+ Se estudió rofecoxib 25 mg una vez al día para el tratamiento sintomático de la AR. En pacientes
+con AR, rofecoxib 25 mg una vez al día proporcionó mejoras significativas en las medidas de la
+respuesta relacionadas con la enfermedad, incluyendo valoraciones del dolor y de la función. Los
+efectos beneficiosos se mantuvieron durante los periodos de 12 semanas controlados con placebo.
+No se observó eficacia adicional significativa con la dosis de 50 mg una vez al día en
+comparación con la dosis de 25 mg una vez al día.
+ En un análisis combinado y predefinido de dos estudios de endoscopia de 24 semanas de duración
+en pacientes con artrosis, los porcentajes de pacientes en los que se detectaron úlceras
+gastroduodenales mediante endoscopia fueron similares en el grupo placebo y en los tratados con
+rofecoxib 25 mg y 50 mg al día a las 12 semanas. En cada uno de estos estudios, la incidencia
+acumulada de úlceras gastroduodenales fue significativamente menor a lo largo de 12 y
+24 semanas en pacientes tratados con rofecoxib que en los tratados con ibuprofeno 2.400 mg al
+día. En un estudio endoscópico adicional de 12 semanas en pacientes con artrosis, la incidencia
+acumulada de úlceras gastroduodenales detectadas mediante endoscopia fue significativamente
+mayor en los pacientes tratados con ácido acetil salicílico a dosis bajas (81 mg) más rofecoxib
+25 mg al día que en los pacientes tratados con ácido acetil salicílico a dosis bajas (81 mg) solo, y
+similar a la de los pacientes tratados con ibuprofeno 2.400 mg al día solo. En pacientes de 65 años
+de edad y mayores, el grupo de rofecoxib y ácido acetil salicílico a dosis bajas mostró un aumento
+del doble en la frecuencia de úlceras endoscópicas comparado con pacientes más jóvenes. No se
+han estudiado pacientes en tratamiento con ácido acetil salicílico a dosis bajas más ibuprofeno.
+ En un estudio de endoscopia en pacientes con AR, de 12 semanas de duración, doble ciego,
+placebo y activo-controlado la incidencia acumulada de úlceras gastroduodenales fue
+significativamente menor a lo largo de 12 semanas en los pacientes tratados con rofecoxib 50 mg
+una vez al día (dos veces la dosis máxima recomendada) que en los pacientes tratados con
+naproxeno 500 mg dos veces al día.
+ En un análisis combinado y predefinido de ocho estudios clínicos, la incidencia acumulada de
+PUH gastrointestinales altas confirmadas en pacientes tratados con rofecoxib fue
+significativamente menor que la incidencia combinada acumulada observada en pacientes tratados
+con AINEs utilizados como agentes de comparación (diclofenaco 50 mg tres veces al día,
+ibuprofeno 800 mg tres veces al día y nabumetona 1.500 mg al día. Estos resultados se indujeron
+principalmente por la experiencia con ibuprofeno 800 mg tres veces al día). A una dosis de 50 mg,
+la incidencia de PUHs fue numéricamente superior en comparación con 25 mg, sin embargo, fue
+menor que el riesgo con datos combinados en AINEs utilizados en estos estudios. El número de
+retiradas por reacciones adversas gastrointestinales a lo largo de 12 meses fue menor con
+rofecoxib. Las incidencias de un grupo predefinido de acontecimientos adversos gastrointestinales
+relacionados con el fármaco fueron menores con rofecoxib a lo largo de 12 meses; este efecto fue
+mayor durante los primeros 6 meses.
+                                                                                                          MINISTERIO
+Se observó una reducción similar en la incidencia de PUHs en un estudio clínico extenso
+(aproximadamente 8000 pacientes) realizado en pacientes con artritis reumatoide. Los pacientes
+que requerían ácido acetil salicílico para la profilaxis cardiovascular se excluyeron del estudio. El
+uso de rofecoxib 50 mg una vez al día (dos veces la dosis máxima recomendada) comparado con
+naproxeno 500 mg dos veces al día se asoció con reducciones significativas en los índices de
+acontecimientos gastrointestinales: PUHs (2,08 acontecimientos por 100 pacientes-años frente a
+4,49 acontecimientos por 100 pacientes-años), PUHs complicadas (0,59 por 100 pacientes-años
+frente a 1,37 por 100 pacientes-años) y hemorragias gastrointestinales superiores o inferiores
+(1,15 por 100 pacientes-años frente a 3,04 por 100 pacientes-años).
+ 5.2   Propiedades farmacocinéticas
+ Absorción
+Administrado por vía oral, rofecoxib se absorbe bien a las dosis recomendadas de 12,5 mg y
+25 mg. La biodisponibilidad oral media es aproximadamente del 93 %. Tras administrar 25 mg
+una vez al día hasta alcanzar el estado de equilibrio, la concentración plasmática máxima (media
+geométrica Cmax = 0,305 µg/ml) se observó aproximadamente entre las 2 a 4 horas (Tmax) de la
+administración a adultos en ayunas. La media geométrica del área bajo la curva (ABC24h) fue de
+3,87 µg·h/ml. Los comprimidos de RECOX y la suspensión oral de RECOX son bioequivalentes.
+ La ingestión concomitante de alimentos no afecta a la farmacocinética de rofecoxib.
+ Distribución
+Rofecoxib se encuentra unido a proteínas plasmáticas humanas en aproximadamente un 85 % a
+concentraciones de 0,05 µg/ml a 25 µg/ml. El volumen de distribución (Vdss) es de unos 100 litros
+(aproximadamente 1,55 l/kg) en seres humanos.
+ Rofecoxib atraviesa la placenta en ratas y conejos, y la barrera hematoencefálica en ratas.
+ Metabolismo
+Rofecoxib es intensamente metabolizado, de forma que el ~1 % de una dosis se recupera en orina
+como fármaco original. La principal vía metabólica es la reducción hepática, para producir cis- y
+trans-dihidro rofecoxib (como hidroxiácidos), y no la oxidación por las enzimas del citocromo
+P450 (CYP).
+ Se han identificado seis metabolitos en el hombre. Los principales fueron cis- y trans-dihidro
+rofecoxib (como hidroxiácidos), responsables de aproximadamente el 56 % de la radiactividad
+recuperada en orina, y el metabolito 5-hidroxi-glucurónido, responsable de otro 9 % adicional.
+Estos metabolitos principales no demostraron actividad medible como inhibidores de la
+ciclooxigenasa, o fueron sólo débilmente activos como inhibidores de la COX-2.
+ Eliminación
+Tras la administración por vía oral de una dosis radiomarcada de 125 mg de rofecoxib a sujetos
+sanos, se recuperó el 72 % de la radiactividad en orina, y el 14 % en heces.
+ La eliminación de rofecoxib se produce casi exclusivamente por el metabolismo, seguido por la
+eliminación renal. Las concentraciones de rofecoxib alcanzan el estado de equilibrio en un plazo
+de 4 días tras la administración de una dosis única diaria de 25 mg, con un cociente de
+acumulación del 1,7 aproximadamente, que corresponde a una semivida de acumulación de
+17 horas. Se calcula que el aclaramiento plasmático es de unos 120 ml/min para una dosis de
+25 mg.
+                                                                                                         MINISTERIO
+Características en los pacientes
+ Ancianos: la farmacocinética en los ancianos (65 años de edad o más) es similar a la de personas
+jóvenes. La exposición sistémica es  30 % mayor en los ancianos que en los jóvenes (véase 4.2).
+ Sexo: la farmacocinética de rofecoxib es comparable en varones y mujeres.
+ Insuficiencia hepática: los pacientes cirróticos con insuficiencia hepática leve (puntuación 5-6 en
+la clasificación de Child-Pugh) que recibieron una dosis única de 25 mg de rofecoxib presentaron
+un ABC medio similar a la de sujetos sanos a los que se administró la misma dosis. Los pacientes
+con insuficiencia hepática moderada (puntuación 7-9 en la clasificación de Child-Pugh) que
+recibieron tratamiento diariamente con 12,5 mg durante diez días tuvieron un ABC medio en el
+estado de equilibrio aproximadamente un 55 % mayor que los sujetos sanos que recibieron la
+misma dosis. La dosis máxima diaria de rofecoxib para pacientes con insuficiencia hepática
+moderada (puntuación 7-9 en la clasificación de Child-Pugh o albúmina sérica 25-35 g/l) debe ser
+de 12,5 mg. No hay datos clínicos ni farmacocinéticos en pacientes con insuficiencia hepática
+severa (puntuación > 9 en la clasificación de Child-Pugh o albúmina sérica <25 g/l). (Véase 4.2 y
+4.3).
+ Insuficiencia renal: la farmacocinética de una dosis única de 50 mg de rofecoxib en pacientes con
+enfermedad renal en fase terminal tratados con hemodiálisis no fue significativamente diferente
+de la correspondiente a sujetos sanos. La hemodiálisis no contribuyó significativamente a la
+eliminación (aclaramiento con diálisis 40 ml/min). (Véase 4.3 y 4.4).
+ Pacientes pediátricos: no se ha estudiado la farmacocinética de rofecoxib en pacientes
+pediátricos.
+ 5.3   Datos preclínicos de seguridad
+ En estudios preclínicos, se ha demostrado que rofecoxib no es genotóxico, mutagénico ni
+carcinogénico.
+ En un estudio de toxicidad crónica en ratas, rofecoxib causó úlceras intestinales a dosis
+comparables y ligeramente superiores a la dosis terapéutica humana, basado en la exposición
+sistémica. A exposiciones varias veces superiores al nivel terapéutico humano, se indujo en la rata
+basofilia renal tubular, y a exposiciones más altas se indujo necrosis renal papilar. A exposiciones
+altas se observaron también en el perro anormalidades renales y gastrointestinales.
+ Estudios de toxicidad sobre la reproducción mostraron que rofecoxib (a dosis > 2 veces la dosis
+diaria recomendada en seres humanos basado en la exposición sistémica) disminuyó la fertilidad y
+la supervivencia embrio/fetal en la rata. Se observó también una disminución en el diámetro del
+conducto arterioso relacionado con el tratamiento, hecho que se conoce que está asociado a los
+AINEs. Estudios de toxicidad sobre la reproducción realizados en ratas y conejos han demostrado
+que no hay evidencia de anormalidades del desarrollo a dosis de hasta 50 mg/kg/día (en ratas esto
+representa 29 veces la dosis diaria recomendada en seres humanos basado en la exposición
+sistémica). (Véase 4.3 y 4.6). En conejos, sin embargo, no se determinó el perfil metabólico, por
+tanto es difícil realizar una evaluación de la relevancia clínica del modelo de conejo.
+ Los datos de un estudio de amamantamiento cruzado evidenciaron toxicidad en las crías,
+probablemente como consecuencia de la exposición a la leche de los animales madres tratados.
+(Véase 4.6).
+                                                                                                        MINISTERIO
+
+6.    DATOS FARMACEUTICOS
+	6.1   Lista de excipientes
+ Llactosa monohidrato, celulosa microcristalina, hidroxipropil celulosa, croscarmelosa de sodio,
+estearato de magnesio y óxido de hierro amarillo (E-172).
+ 6.2   Incompatibilidades
+ No aplicable
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No se requieren precauciones especiales de conservación.
+ 6.5   Naturaleza y contenido del recipiente
+ Blísters opacos de PVC/aluminio en envases que contienen 2, 5, 7, 10, 14, 15, 20, 28, 30, 50, 56,
+60, 84, 90 o 98 comprimidos.
+ Blisters opacos de PVC/aluminio (unidosis) en envases de 50 o 500 comprimidos.
+ Frascos de HDPE redondos, blancos con cierre no a prueba de niños, de polipropileno blanco que
+contienen 30 o 100 comprimidos.
+ No todos los tamaños de envase pueden estar comercializados.
+ 6.6   Instrucciones de uso y manipulación
+ No aplicable.
+ 
+7.    TITULAR DE LA AUTORIZACION DE COMERCIALIZACION
+	      Laboratorios Abelló, S. A.
+Josefa Valcárcel, 38. 28027 ­ MADRID.
+ 
+8.    NUMERO DE LA AUTORIZACION DE COMERCIALIZACION
+	      63.088
+ 
+9.    FECHA DE LA PRIMERA AUTORIZACION O DE LA RENOVACION DE LA
+	      29 de mayo de 2000.
+10.   FECHA DE LA REVISION DEL TEXTO
+       Julio de 2004.
+
+	 
+      RECOX 12,5 mg comprimidos, 500 comprimidos
+         Prospectos de medicamentos.

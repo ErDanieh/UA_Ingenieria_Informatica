@@ -1,0 +1,714 @@
+FASTURTEC 1,5MG/ML 1 INY 5ML SOL PERF
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                            1
+
+1.     NOMBRE DEL MEDICAMENTO
+	Fasturtec 1,5 mg/ml polvo y disolvente para concentrado para solución para perfusión.
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Después de la reconstitución, 1 ml de concentrado de Fasturtec contiene 1,5 mg de rasburicasa.
+ Fasturtec es un enzima recombinante urato-oxidasa obtenida a partir de una cepa de Saccharomyces
+cerevisiae genéticamente modificada. Rasburicasa es una proteína tetramérica con subunidades
+idénticas con un peso molecular de aproximadamente 34 kDa.
+ 1 mg corresponde a 18,2 UAE*.
+ *Una Unidad de Actividad Enzimática (UAE) corresponde a la actividad del enzima que transforma
+un mol de ácido úrico en alantoína por minuto en las siguientes condiciones: +30 ºC ± 1 ºC tampón
+TEA pH 8,9.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.     FORMA FARMACÉUTICA
+	Polvo y disolvente para concentrado para solución para perfusión.
+ El polvo es blanco o blanquecino, de aspecto aglomerado o no.
+El disolvente es un líquido transparente e incoloro.
+ 
+
+
+4.     DATOS CLÍNICOS
+	4.1.   Indicaciones terapéuticas
+ Tratamiento y profilaxis de la hiperuricemia aguda para prevenir la insuficiencia renal aguda en
+pacientes con neoplasia hematológica maligna, con elevada carga tumoral y riesgo de lisis o reducción
+tumoral rápidas al inicio de la quimioterapia.
+ 4.2.   Posología y forma de administración
+ Fasturtec debe administrarse bajo supervisión de un médico cualificado en quimioterapia de neoplasias
+hematológicas.
+ Fasturtec sólo debe utilizarse antes y durante el inicio de la quimioterapia, dado que actualmente no
+existen suficientes datos como para recomendar ciclos múltiples de tratamiento.
+ La dosis recomendada de Fasturtec es de 0,20 mg/kg/día. Fasturtec se administra una vez al día en una
+perfusión intravenosa en 50 ml de solución de cloruro sódico al 9 mg/ml (0,9%) durante 30 minutos
+(ver apartado 6.6).
+ La duración del tratamiento con Fasturtec puede ser de hasta 7 días, la duración exacta debe basarse en
+el control adecuado de los niveles séricos de ácido úrico y en el criterio médico.
+ La administración de rasburicasa no requiere cambiar el horario o la pauta de inicio de la
+quimioterapia citorreductora.
+                                                   2
+La solución de rasburicasa debe perfundirse durante 30 minutos. La solución de rasburicasa debe
+perfundirse por una vía diferente a la utilizada para la perfusión de los quimioterápicos para evitar
+cualquier incompatibilidad de los medicamentos. Si no puede utilizarse una vía alternativa, la vía debe
+lavarse con solución salina entre la perfusión de quimioterápicos y la de rasburicasa. Para las
+instrucciones de uso, ver sección 6.6.
+ Dado que la rasburicasa puede degradar el ácido úrico in vitro, se deben tomar precauciones especiales
+durante la manipulación de la muestra para determinación del ácido úrico en el plasma, ver sección
+6.6.
+ Información adicional sobre poblaciones especiales
+Pacientes con insuficiencia renal o hepática: No es necesario ajustar las dosis.
+Niños: Como no es necesario ningún ajuste, la dosis recomendada es de 0,20 mg/kg/día.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+Deficiencia de G6PDH y otros trastornos metabólicos celulares que causan anemia hemolítica.
+El peróxido de hidrógeno es un subproducto derivado de la conversión del ácido úrico en alantoína.
+Por tanto, para evitar una posible anemia hemolítica inducida por el peróxido de hidrógeno, la
+rasburicasa está contraindicada en pacientes con estos trastornos.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Rasburicasa, como otras proteínas, puede inducir respuestas alérgicas en seres humanos. La
+experiencia clínica con Fasturtec demuestra que los pacientes deben monitorizarse estrechamente al
+inicio de la aparición de las reacciones adversas de tipo alérgico, especialmente reacciones graves de
+hipersensibilidad incluyendo anafilaxia (ver apartado 4.8). En estos casos, el tratamiento debe ser
+interrumpido de inmediato y permanentemente y debe iniciarse una terapia adecuada.
+ Se deben tomar precauciones especiales en pacientes con antecedentes de alergia atópica.
+ Actualmente no hay suficientes datos en pacientes que hayan sido tratados repetidamente con
+Fasturtec como para recomendar múltiples ciclos de tratamiento. Se han detectado anticuerpos anti-
+rasburicasa tras el tratamiento en pacientes y en voluntarios sanos.
+ Se han notificado casos de metahemoglobinemia en pacientes que recibían tratamiento con Fasturtec.
+Se debe interrumpir el tratamiento con Fasturtec de inmediato y permanentemente en los pacientes que
+hayan desarrollado metahemoglobinemia, y se deben iniciar medidas adecuadas (ver apartado 4.8).
+ Se han notificado casos de hemólisis en pacientes que recibían tratamiento con Fasturtec. En este caso,
+el tratamiento debe ser interrumpido de inmediato y permanentemente y se deben iniciar las medidas
+adecuadas (ver apartado 4.8).
+ La administración de Fasturtec reduce los niveles de ácido úrico por debajo de los niveles normales;
+por este mecanismo se reduce el riesgo de desarrollar un fallo renal causado por la precipitación de
+cristales de ácido úrico en los túbulos renales derivada de la hiperuricemia. La lisis tumoral puede
+también provocar hiperfosfatemia, hiperpotasemia e hipocalcemia. Fasturtec no es efectivo en el
+tratamiento de estas anomalías. Por tanto, los pacientes deben ser estrechamente monitorizados.
+ Fasturtec no ha sido investigado en pacientes con hiperuricemia relacionada con enfermedades
+mieloproliferativas.
+ No hay datos disponibles para recomendar el uso secuencial de Fasturtec y alopurinol.
+                                                  3
+Para asegurar una determinación exacta del ácido úrico en plasma durante el tratamiento con Fasturtec,
+se debe seguir un procedimiento estricto de manipulación de muestras (ver apartado 6.6).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han llevado a cabo ningún estudio de metabolismo. Al ser la rasburicasa una enzima, son
+improbables las interacciones farmacológicas.
+ 4.6   Embarazo y lactancia
+ No hay datos clínicos disponibles de exposición a rasburicasa en mujeres embarazadas. No se han
+realizado estudios en animales respecto a los efectos en parto y desarrollo post-natal (ver apartado 5.3).
+El riesgo potencial en humanos es desconocido. Fasturtec no debe utilizarse durante el embarazo o
+lactancia.
+ No se conoce si la rasburicasa se excreta por la leche materna.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ Fasturtec se administra concomitantemente como tratamiento de soporte de la quimioterapia
+citorreductora de neoplasias malignas avanzadas, por lo que es difícil valorar la causalidad de las
+reacciones adversas, debido a la alta incidencia de efectos adversos esperados tanto por la enfermedad
+subyacente como por el tratamiento concomitante.
+ Las reacciones adversas relacionadas con el fármaco más significativas fueron reacciones alérgicas
+frecuentes, principalmente rash. También se han atribuido a Fasturtec casos de hipotensión (< 1%),
+broncoespasmo (< 1%), rinitis (< 0,1%) y reacciones graves de hipersensibilidad (< 1%), incluyendo
+anafilaxia (< 0,1%).
+ En ensayos clínicos, los trastornos hematológicos tales como hemólisis, anemia hemolítica y
+metahemoglobinemia poco frecuentemente estaban causados por Fasturtec. Se han observado, en
+poblaciones de riesgo tal como los pacientes con deficiencia en G6PDH, casos de anemia hemolítica o
+metahemoglobinemia, debido a que en la conversión enzimática del ácido úrico en alantoína por la
+rasburicasa se produce peróxido de hidrógeno.
+ Asimismo, se enumeran las reacciones adversas de grado 3 y 4 posiblemente atribuibles a Fasturtec
+notificadas en los ensayos clínicos, clasificadas por órganos y sistemas y por frecuencia. Las
+frecuencias se definen como: frecuente ( 1/100, < 1/10), poco frecuente ( 1/1.000, < 1/100) .
+Trastornos del sistema nervioso                                        Cefalea
+Trastornos gastrointestinales                                          Diarrea
+Trastornos generales y              Fiebre
+alteraciones en el lugar de
+administración
+ Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+ 4.9   Sobredosis
+ Según el mecanismo de acción de Fasturtec, una sobredosis dará lugar a niveles plasmáticos bajos o no
+detectables de ácido úrico y a un aumento de la producción de peróxido de hidrógeno. Por tanto, si se
+sospecha que un paciente ha podido recibir una sobredosis, se debe monitorizar la aparición de
+hemólisis e iniciar medidas generales de soporte, ya que no se ha identificado ningún antídoto
+específico para Fasturtec.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Agentes detoxificantes para tratamientos antineoplásicos, código ATC:
+V03AF07.
+ En seres humanos, el ácido úrico es el último producto de la vía catabólica de las purinas. El aumento
+agudo de los niveles plasmáticos de ácido úrico durante la quimioterapia citorreductora que conlleva
+una lisis masiva de células tumorales puede conducir a la insuficiencia e incluso fallo renal, debido a
+la precipitación de cristales de ácido úrico en los túbulos renales. La rasburicasa es un agente
+uricolítico de elevada potencia que cataliza la oxidación enzimática del ácido úrico a alantoína, un
+producto hidrosoluble, que se excreta fácilmente por vía renal.
+La oxidación enzimática del ácido úrico conduce a la formación estequiométrica de peróxido de
+hidrógeno. El incremento de peróxido de hidrógeno por encima de los niveles normales puede ser
+eliminado por antioxidantes endógenos y únicamente se incrementa el riesgo en pacientes con
+hemólisis por déficit de G6PDH y en pacientes con anemia congénita.
+ En voluntarios sanos, se observó un notable descenso de los niveles plasmáticos de ácido úrico con el
+intervalo de dosis entre 0,05 mg/kg y 0,20 mg/kg de Fasturtec.
+ En un ensayo clínico comparativo de fase III aleatorizado, utilizando la dosis recomendada, se observó
+una acción significativamente más rápida de Fasturtec en comparación con alopurinol. A las 4 horas
+de la primera dosis, se observó una diferencia significativa (p < 0,0001) en la variación porcentual
+media de las concentraciones plasmáticas de ácido úrico desde el nivel basal en el grupo de Fasturtec
+(-86,0%), comparado con el grupo de alopurinol (-12,1%).
+ El tiempo transcurrido hasta la primera normalización confirmada de los niveles de ácido úrico en
+pacientes hiperuricémicos es de 4 horas para Fasturtec y de 24 horas para alopurinol. Además, este
+rápido control del ácido úrico en esta población se acompaña de una mejoría de la función renal. A su
+vez, ello permite una excreción eficaz del fosfato sérico, evitando un posterior deterioro de la función
+renal debido a una precipitación calcio/fósforo.
+ Niños
+En ensayos clínicos pivotales, se trataron 246 pacientes (< 18 años) con rasburicasa a dosis de
+0,15 mg/kg/día o 20 mg/kg/día durante 1 a 8 días (principalmente de 5 a 7 días). Los resultados de
+eficacia en 229 pacientes evaluables mostraron una tasa de respuesta total (normalización en plasma de
+los niveles de ácido úrico) del 96,1%. Los resultados de seguridad en 246 pacientes fueron
+consistentes con el perfil de reacciones adversas en la población total.
+En estudios de seguridad a largo plazo, un análisis de datos de 867 pacientes (< 18 años) tratados con
+rasburicasa a 0,20 mg/kg/día durante 1 a 24 días (principalmente de 1 a 4 días) mostró conclusiones
+consistentes con los ensayos clínicos pivotales en términos de eficacia y seguridad.
+ 5.2   Propiedades farmacocinéticas
+ Después de una perfusión de rasburicasa a una dosis de 0,20 mg/kg/día, las concentraciones en el
+estado estacionario se alcanzan a los 2 - 3 días. No se observó una acumulación inesperada de
+rasburicasa. En pacientes, el rango del volumen de distribución es de 110 - 127 ml/kg, lo cual es
+similar al volumen vascular fisiológico. El aclaramiento renal fue de aprox. 3,5 ml/h/kg y la semivida
+de eliminación de 19 horas. Los pacientes incluidos en los estudios farmacocinéticos fueron
+principalmente niños y adolescentes. Según estos datos limitados parece que el aclaramiento renal es
+mayor (aprox. 35%) y, por consiguiente, la exposición sistémica más baja en niños y adolescentes que
+en adultos.
+Rasburicasa es una proteína, y por lo tanto: 1) no se espera que se una a proteínas, 2) se espera que
+siga la ruta de degradación metabólica de otras proteínas, es decir hidrólisis péptica, 3) no se esperan
+interacciones farmacológicas.
+La eliminación renal de la rasburicasa está considerada como una vía de eliminación minoritaria.
+Puesto que se prevé que el metabolismo ocurra por hidrólisis péptica, la insuficiencia hepática no
+debería afectar a la farmacocinética de la rasburicasa.
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos de los estudios no clínicos no muestran riesgos especiales para los seres humanos según los
+estudios convencionales de farmacología de seguridad, toxicidad de dosis repetidas y genotoxicidad.
+La presencia de urato-oxidasa endógena en los modelos animales estándar dificulta la interpretación de
+los resultados de los estudios no clínicos.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Polvo:
+alanina
+manitol
+fosfato disódico dodecahidrato
+fosfato disódico dihidrato
+dihidrógeno fosfato sódico dihidrato
+ Disolvente:
+poloxámero 188
+agua para preparaciones inyectables
+ 6.2   Incompatibilidades
+ Este producto no debe mezclarse con otros, excepto con los mencionados en la sección 6.6.
+La solución de rasburicasa debe perfundirse por una vía diferente a la utilizada para la perfusión de los
+agentes quimioterapéuticos para evitar cualquier tipo de incompatibilidad. Si no puede utilizarse una
+vía alternativa, la vía debe lavarse con solución salina entre la perfusión de agentes quimioterapéuticos
+y la de rasburicasa.
+No se debe utilizar ningún filtro durante la perfusión.
+No se debe utilizar ninguna solución de glucosa para dilución, debido a la potencial incompatibilidad.
+ 6.3   Periodo de validez
+ 3 años.
+ Se recomienda el uso inmediato después de la reconstitución o dilución. No obstante, se ha
+demostrado que la estabilidad, tanto después de la reconstitución como de la dilución, es de 24 horas
+entre +2ºC y +8ºC.
+ 6.4   Precauciones especiales de conservación
+ Polvo en vial: conservar en nevera (entre 2ºC y 8ºC).
+No congelar.
+Conservar en el embalaje original para protegerlo de la luz.
+ Para las condiciones de conservación del medicamento diluido, ver sección 6.3.
+ 6.5   Naturaleza y contenido del envase
+ Fasturtec se presenta en envases con:
+ 3 viales de 1,5 mg de rasburicasa y 3 ampollas de 1 ml de disolvente. El polvo se presenta en viales de
+vidrio transparente de 3 ml (tipo I) con un tapón de caucho y el disolvente en una ampolla de vidrio
+transparente (tipo I) de 2 ml.
+ 1 vial de 7,5 mg de rasburicasa y 1 ampolla de 5 ml de disolvente. El polvo se presenta en viales de
+vidrio transparente de 10 ml (tipo I) con un tapón de caucho y el disolvente en una ampolla de vidrio
+transparente (tipo I) de 5 ml.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ Rasburicasa debe reconstituirse con el volumen completo de la ampolla de disolvente proporcionada
+(vial con 1,5 mg de rasburicasa a reconstituir con la ampolla de disolvente de 1 ml; vial con 7,5 mg de
+rasburicasa a reconstituir con la ampolla de disolvente de 5 ml). Tras la reconstitución, se obtiene una
+solución con una concentración de 1,5 mg/ml de rasburicasa que tendrá que diluirse en una solución
+intravenosa de cloruro sódico al 9 mg/ml (0,9%).
+ Reconstitución de la solución:
+ Añadir el contenido de una ampolla de disolvente al vial conteniendo rasburicasa y mezclar girándolo
+muy suavemente bajo condiciones asépticas controladas y validadas.
+No agitar.
+Examinar visualmente antes de su uso. Sólo se deben utilizar las soluciones trasparentes e incoloras,
+sin partículas.
+De un solo uso. Todo resto de solución no utilizada debe desecharse.
+El disolvente no contiene conservantes, por tanto, la solución reconstituida debe diluirse bajo
+condiciones asépticas controladas.
+ Dilución antes de la perfusión:
+ El volumen requerido de solución reconstituida depende del peso corporal del paciente. Puede ser
+necesario el uso de varios viales para obtener la cantidad de rasburicasa requerida para una
+administración. El volumen requerido de solución reconstituida, obtenido a partir de uno o varios
+viales, debe diluirse posteriormente con una solución de cloruro de sodio al 9 mg/ml (0,9%) para
+obtener un volumen total de 50 ml. La concentración en rasburicasa de la solución final para perfusión
+depende del peso corporal del paciente.
+ La solución reconstituida no contiene conservantes, por tanto, la solución diluida debe perfundirse
+inmediatamente.
+ Perfusión:
+ La solución final deberá perfundirse durante 30 minutos.
+ Manipulación de las muestras:
+ En caso de que tenga que monitorizarse los niveles de ácido úrico, se debe seguir rigurosamente el
+siguiente procedimiento de manipulación de las muestras, para evitar la degradación del analito ex
+vivo. La sangre se debe recoger en tubos prerrefrigerados que contengan heparina como
+anticoagulante. Las muestras deben sumergirse en un baño de agua/hielo. Las muestras de plasma
+deben prepararse por centrifugación en una centrífuga previamente refrigerada (4 ºC). Por último, el
+plasma debe mantenerse en un baño de agua/hielo y la determinación del ácido úrico se debe realizar
+en las 4 horas siguientes.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	sanofi-aventis
+174, avenue de France
+F - 75013 Paris
+Francia
+ 
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/00/170/001-002
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 23 de Febrero de 2001
+Fecha de la última revalidación: 23 de Febrero de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu/.
+                                                 8
+ANEXO II
+ A. FABRICANTE(S) DEL (DE LOS) PRINCIPIO(S) ACTIVO(S)
+BIOLÓGICO(S) Y TITULAR(ES) DE LA AUTORIZACIÓN
+DE FABRICACIÓN RESPONSABLE(S) DE LA
+LIBERACIÓN DE LOS LOTES
+ B. CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    FABRICANTE(S) DEL (DE LOS) PRINCIPIO(S) ACTIVO(S) BIOLÓGICO(S) Y
+TITULAR(ES) DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE(S) DE
+LA LIBERACIÓN DE LOS LOTES
+ Nombre y dirección del (de los) fabricante(s) del (de los) principio(s) activo(s) biológico(s)
+ Sanofi Chimie
+Route d'Avignon
+30390 Aramon
+Francia
+ Nombre y dirección del (de los) fabricante(s) responsable(s) de la liberación de los lotes
+ Glaxo Wellcome Production
+1, rue de l'Abbaye
+76960 Notre Dame de Bondeville
+Francia
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Ver Anexo I: Ficha Técnica o Resumen de las
+Características del Producto, sección 4.2).
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 11
+A. ETIQUETADO
+ 12
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ ENVASE CON 3 VIALES DE POLVO Y 3 AMPOLLAS DE DISOLVENTE
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Fasturtec 1,5 mg/ml polvo y disolvente para concentrado para solución para perfusión.
+ rasburicasa
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ rasburicasa 1,5 mg/1 ml
+ La rasburicasa se produce por ingeniería genética en una cepa de Saccharomyces cerevisiae
+ 
+3.    LISTA DE EXCIPIENTES
+	El polvo también contiene: alanina, manitol, fosfato disódico dodecahidrato, fosfato disódico
+dihidrato, dihidrógeno fosfato sódico dihidrato.
+ Disolvente: poloxámero 188, agua para preparaciones inyectables.
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Polvo y disolvente para concentrado para solución para perfusión
+ 3 viales y 3 ampollas
+ 1,5 mg/1 ml
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Leer el prospecto antes de utilizar este medicamento.
+ La reconstitución debe realizarse con todo el contenido de la ampolla de disolvente de 1 ml
+ Vía intravenosa
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.     FECHA DE CADUCIDAD
+	CAD
+Utilizar inmediatamente después de la reconstitución o dilución.
+ 9      CONDICIONES ESPECIALES DE CONSERVACIÓN
+ Conservar en nevera
+ No congelar
+ Conservar en el embalaje original para protegerlo de la luz.
+ 10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES QUE ESTÉN DERIVADOS DE SU USO
+(CUANDO CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ sanofi-aventis
+174, avenue de France
+F - 75013 Paris
+Francia
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/00/170/001
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ INFORMACIÓN MÍNIMA A INCLUIR EN BLÍSTERS O TIRAS
+ENVASE CON 3 VIALES DE POLVO Y 3 AMPOLLAS DE DISOLVENTE
+ 
+1.     NOMBRE DEL MEDICAMENTO
+	Fasturtec 1,5 mg/ml polvo y disolvente para concentrado para solución para perfusión.
+ rasburicasa
+ 
+2.     NOMBRE DEL TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	sanofi-aventis
+ 
+3.     FECHA DE CADUCIDAD
+	CAD
+ 
+4.     NÚMERO DE LOTE
+	Lote
+ 
+5.     OTROS
+	INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ POLVO/VIAL
+ 1.     NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Fasturtec 1,5 mg/ml polvo para concentrado para solución para perfusión.
+rasburicasa
+Vía intravenosa
+ 
+2.     FORMA DE ADMINISTRACIÓN
+	
+3.     FECHA DE CADUCIDAD
+	CAD
+ 
+4.     NÚMERO DE LOTE
+	Lote
+ 5.     CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ 1,5 mg
+ 
+6.     OTROS
+	INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ DISOLVENTE/AMPOLLA
+ 1.     NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Disolvente para rasburicasa 1,5 mg
+ 
+2.     FORMA DE ADMINISTRACIÓN
+	
+3.     FECHA DE CADUCIDAD
+	CAD
+ 
+4.     NÚMERO DE LOTE
+	Lote
+ 5.     CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ 1 ml
+ 
+6.     OTROS
+	INFORMACIÓN QUE DEBE FIGURAR EN EL ACONDICIONAMIENTO EXTERIOR
+ ENVASE CON 1 VIAL DE POLVO Y 1 AMPOLLA DE DISOLVENTE
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Fasturtec 1,5 mg/ml polvo y disolvente para concentrado para solución para perfusión
+ rasburicasa
+ 
+2.    PRINCIPIO ACTIVO
+	rasburicasa 7,5 mg/5 ml
+ La rasburicasa se obtiene por ingeniería genética en una cepa de Saccharomyces cerevisiae.
+ 
+3.    LISTA DE EXCIPIENTES
+	El polvo también contiene: alanina, manitol, fosfato disódico dodecahidrato, fosfato disódico
+dihidrato, dihidrógeno fosfato sódico dihidrato.
+ Disolvente: poloxámero 188, agua para preparaciones inyectables.
+ 
+4.      FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Polvo y disolvente para concentrado para solución para perfusión
+ 1 vial y 1 ampolla
+ 7,5 mg/5 ml
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Leer el prospecto antes de utilizar este medicamento.
+ La reconstitución debe realizarse con todo el contenido de la ampolla de disolvente de 5 ml.
+ Vía intravenosa.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.     FECHA DE CADUCIDAD
+	CAD
+Utilizar inmediatamente después de la reconstitución o dilución.
+ 9      CONDICIONES ESPECIALES DE CONSERVACIÓN
+ Conservar en nevera
+ No congelar
+ Conservar en el embalaje original para proptegerlo de la luz
+ 10.    PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ sanofi-aventis
+174, avenue de France
+F - 75013 Paris
+Francia
+ 12.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/00/170/002
+ 13.    NÚMERO DE LOTE
+ Lote
+ 14.    CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.    INSTRUCCIONES DE USO
+ 16.    INFORMACIÓN EN BRAILLE
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ POLVO/VIAL
+ 1.     NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Fasturtec 1,5 mg/ml polvo para concentrado para solución para perfusión.
+rasburicasa
+Vía intravenosa
+ 
+2.     FORMA DE ADMINISTRACIÓN
+	
+3.     FECHA DE CADUCIDAD
+	CAD
+ 
+4.     NÚMERO DE LOTE
+	Lote
+ 5.     CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ 7,5 mg
+ 
+6.     OTROS
+	INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ DISOLVENTE/AMPOLLA
+ 1.     NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Disolvente para rasburicasa 7,5 mg
+ 
+2.     FORMA DE ADMINISTRACIÓN
+	
+3.     FECHA DE CADUCIDAD
+	CAD
+ 
+4.     NÚMERO DE LOTE
+	Lote
+ 5.     CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ 5 ml
+ 
+6.     OTROS
+	B. PROSPECTO
+ 22
+      Fasturtec 1,5 mg/ml polvo y disolvente para concentrado para solución para perfusión
+ Lea todo el prospecto detenidamente antes de empezar a usar este medicamento.
+-   Conserve este prospecto, ya que puede tener que volver a leerlo.
+-   Si tiene alguna duda, consulte a su médico.
+-   Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ Contenido del prospecto
+1.   Qué es Fasturtec y para qué se utiliza
+2.   Antes de usar Fasturtec
+3.   Cómo usar Fasturtec
+4.   Posibles efectos adversos
+5.   Conservación de Fasturtec
+6.   Información adicional
+ 
+1.    QUÉ ES FASTURTEC Y PARA QUÉ SE UTILIZA
+	Agente desintoxicante para el tratamiento antineoplásico.
+ La enfermedad hematológica que usted padece, así como su tratamiento, pueden provocar un
+incremento significativo del ácido úrico circulante en la sangre. Fasturtec se prescribe para disminuir
+estos niveles excesivos de ácido úrico o para evitar un incremento excesivo del nivel de ácido úrico
+circulante.
+ Cuando está presente en la sangre en cantidades normales, el ácido úrico suele eliminarse por la orina
+a través de los riñones. Si está presente en exceso, los riñones podrían no tener capacidad suficiente
+para eliminar el ácido úrico. En tal caso, el ácido úrico podría dañar los riñones.
+ Fasturtec transforma el ácido úrico en otra sustancia (denominada alantoína) que es más soluble y, por
+lo tanto, puede eliminarse con mayor facilidad y seguridad por la orina. De este modo, protege los
+riñones.
+ 
+2.    ANTES DE USAR FASTURTEC
+	No es necesario un ajuste específico de la dosis en caso de:
+- insuficiencia hepática o renal
+- uso en niños.
+ No use Fasturtec
+- si es alérgico (hipersensible) a la rasburicasa, a otra uricasa o a cualquiera de los demás
+componentes de Fasturtec.
+- si tiene antecedentes de anemia hemolítica por déficit de G6PDH o cualquier otro trastorno
+metabólico celular.
+ Tenga especial cuidado con Fasturtec
+Si tiene antecedentes de alergia.
+Al igual que otras proteínas de origen no humano que se administran por vía intravenosa, Fasturtec
+puede provocar reacciones de tipo alérgico. Éstas se producen en raras ocasiones. Informe a su médico
+si ha sufrido algún episodio anterior de reacciones de tipo alérgico con con otros medicamentos.
+                                                  23
+Debe tener en cuenta que hasta ahora la experiencia clínica con pacientes que hayan sido tratados
+previamente con rasburicasa es limitada. Por tanto no se sabe si el riesgo de reacciones alérgicas
+aumenta en caso de repetir el tratamiento con Fasturtec.
+ Si aparecen determinados trastornos reversibles que afectan a las células sanguíneas, como la
+metahemoglobinemia o la hemólisis, el tratamiento debe interrumpirse inmediatamente y de forma
+permanente.
+ No hay datos disponibles que recomienden el uso secuencial de Fasturtec y alopurinol.
+ Uso de con otros medicamentos
+Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente con otros medicamentos, incluso los adquiridos sin receta.
+ Embarazo y lactancia
+No se debe usar Fasturtec durante el embarazo y la lactancia.
+ Conducción y uso de máquinas
+No hay información disponible sobre la capacidad para conducir y utilizar máquinas.
+ 
+3.    CÓMO USAR FASTURTEC
+	La dosis se calculará según el peso corporal. La dosis recomendada es de 0,20 mg por kg de peso
+corporal y día, tanto en niños como en adultos.
+ La rasburicasa se debe reconstituir con el volumen completo de disolvente suministrado en la ampolla
+(el vial de 1,5 mg de rasburicasa debe reconstituirse con la ampolla de 1 ml de disolvente; el vial de
+7,5 mg de rasburicasa debe reconstituirse con la ampolla de 5 ml de disolvente). No agitar.
+Tras la reconstitución se obtiene una solución con una concentración de 1,5 mg/ml de rasburicasa que
+debe ser diluida posteriormente con una solución de 9 mg/ml de cloruro sódico (0,9%).
+ Este medicamento se administrará por vía intravenosa en forma de perfusión durante una media de
+30 minutos.
+Se administrará una vez al día, hasta 7 días. Se controlará periódicamente el ácido úrico y su médico
+determinará la duración exacta del tratamiento.
+ Si usa más Fasturtec del que debiera
+En el hospital se debe realizar un control periódico riguroso de los glóbulos rojos en sangre y recurrir
+a medidas generales de soporte.
+ Si tiene cualquier otra duda sobre el uso de este producto, pregunte a su médico o farmacéutico.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, Fasturtec puede producir efectos adversos, aunque no todas las
+personas los sufran.
+Fasturtec se administrará al mismo tiempo que con otros medicamentos que también podrían tener efectos
+adversos.
+ Un efecto adverso frecuente significa que afecta entre 1/10 y 1/100 personas.
+Un efecto adverso poco frecuente significa que afecta entre 1/100 y 1/1000 personas.
+ Efectos adversos frecuentes que han sido causados por Fasturtec incluyen fiebre y reacciones alérgicas
+cutáneas. Se han observado casos poco frecuentes de hipersensibilidad (reacciones de tipo alérgico)
+tales como dificultades respiratorias e hipotensión (tensión arterial baja). Se han observado casos raros
+de anafilaxis y rinitis (goteo e irritación de nariz).
+ Se han registrado casos poco frecuentes de trastornos reversibles que afectan a los glóbulos rojos, tales
+como hemólisis o metahemoglobinemia.
+ Asimismo, se han registrado casos poco frecuentes de diarrea, vómitos, náuseas y dolor de cabeza.
+ Debe informar inmediatamente a su médico si presenta estos síntomas.
+ Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico.
+ 
+5.    CONSERVACIÓN DE FASTURTEC
+	Mantener fuera del alcance y de la vista de los niños.
+ No utilice Fasturtec después de la fecha de caducidad que aparece en el envase.
+ Conservar en nevera (entre 2°C y 8°C).
+ No congelar.
+ Conservar en el embalaje original para protegerlo de la luz.
+ No utilice Fasturtec si observa que la solución no es transparente y/o contiene partículas.
+ 
+6.    INFORMACIÓN ADICIONAL
+	"Composición de Fasturtec
+- El principio activo es rasburicasa 1,5 mg/ml. La rasburicasa se obtiene por ingeniería genética en
+una cepa de Saccharomyces cerevisiae.
+- Los demás componentes del polvo son: alanina, manitol, fosfato disódico dodecahidrato, fosfato
+disódico dihidrato, dihidrógeno fosfato sódico dihidrato.
+- Los demás componentes del disolvente son: poloxámero 188, agua para preparaciones inyectables.
+ Aspecto del producto y contenido del envase
+Polvo y disolvente para concentrado para solución para perfusión.
+El polvo es blanco o blanquecino, de aspecto aglomerado o no.
+El disolvente es un líquido transparente e incoloro.
+ Envase con 3 viales de 1,5 mg de rasburicasa y 3 ampollas de 1 ml de disolvente. El polvo se presenta
+en viales de vidrio transparente de 3 ml (tipo I) con un tapón de caucho y el disolvente en una ampolla
+de vidrio transparente (tipo I) de 2 ml.
+ Envase de 1 vial de 7,5 mg de rasburicasa y 1 ampolla de 5 ml de disolvente. El polvo se presenta en
+viales de vidrio transparente de 10 ml (tipo I) con un tapón de caucho y el disolvente en 1 ampolla de
+vidrio transparente (tipo I) de 5 ml.
+Puede que solamente estén comercializados algunos tamaños de envase.
+ Titular de la autorización de comercialización
+sanofi-aventis
+174, avenue de France
+F - 75013 París
+Francia
+ Responsable de la fabricación
+Glaxo Wellcome Production
+1, rue de l'Abbaye
+F- 76960 Notre Dame de Bondeville
+Francia
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización.
+ België/Belgique/ Belgien                           Luxembourg/Luxemburg
+sanofi-aventis Belgium                             sanofi-aventis Belgium
+Tél/Tel: +32 (0)2 710 54 00                        Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+                                                    Magyarország
+sanofi-aventis Bulgaria EOOD                       sanofi-aventis zrt., Magyarország
+.: +359 (0)2 970 53 00                             Tel.: +36 1 505 0050
+ Ceská republika                                    Malta
+sanofi-aventis, s.r.o.                             sanofi-aventis Malta Ltd.
+Tel: +420 233 086 111                              Tel: +356 21493022
+ Danmark                                            Nederland
+sanofi-aventis Denmark A/S                         sanofi-aventis Netherlands B.V.
+Tlf: +45 45 16 70 00                               Tel: +31 (0)182 557 755
+ Deutschland                                        Norge
+Sanofi-Aventis Deutschland GmbH                    sanofi-aventis Norge AS
+Tel: +49 (0)180 2 222010                           Tlf: +47 67 10 71 00
+ Eesti                                              Österreich
+sanofi-aventis Estonia OÜ                          sanofi-aventis GmbH
+Tel: +372 627 34 88                                Tel: +43 1 80 185 ­ 0
+                                                    Polska
+sanofi-aventis AEBE                                sanofi-aventis Sp. z o.o.
+: +30 210 900 16 00                                Tel.: +48 22 541 46 00
+ España                                             Portugal
+sanofi-aventis, S.A.                               sanofi-aventis - Produtos Farmacêuticos, S.A.
+Tel: +34 93 485 94 00                              Tel: +351 21 35 89 400
+ France                                             România
+sanofi-aventis france                              sanofi-aventis România S.R.L.
+Tél: 0 800 222 555                                 Tel: +40 (0) 21 317 31 36
+Appel depuis l'étranger : +33 1 57 63 23 23
+ Ireland                                            Slovenija
+sanofi-aventis Ireland Ltd.                        sanofi-aventis d.o.o.
+Tel: +353 (0) 1 403 56 00                          Tel: +386 1 560 48 00
+ Ísland                                             Slovenská republika
+Vistor hf.                                         sanofi-aventis Pharma Slovakia s.r.o.
+Sími: +354 535 7000                                Tel: +421 2 57 103 777
+ Italia                                             Suomi/Finland
+sanofi-aventis S.p.A.                              sanofi-aventis Oy
+Tel +39 02 393 91                                  Puh/Tel: +358 (0) 201 200 300
+ sanofi-aventis Cyprus Ltd.                         sanofi-aventis AB
+: +357 22 871600                                   Tel: +46 (0)8 634 50 00
+ Latvija                                            United Kingdom
+sanofi-aventis Latvia SIA                          sanofi-aventis
+Tel: +371 67 33 24 51                              Tel: +44 (0) 1483 505 515
+ Lietuva
+UAB sanofi-aventis Lietuva
+Tel: +370 5 2755224
+ Este prospecto ha sido aprobado por última vez en
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA): http://www.emea.europa.eu
+ ---------------------------------------------------------------------------------------------------------------------------
+ La siguiente información está dirigida únicamente a médicos o profesionales sanitarios:
+Ver sección 3 ""Cómo usar Fasturtec"" y la información práctica sobre la preparación y manipulación
+descrita a continuación.
+ Reconstitución de la solución:
+Añadir el contenido de una ampolla de disolvente a un vial que contiene rasburicasa y mezclar girando
+suavemente bajo condiciones asépticas controladas y validadas.
+No agitar.
+Inspeccionar visualmente antes de utilizar. Únicamente se deben utilizar las soluciones transparentes e
+incoloras y sin partículas.
+Solamente para un único uso, cualquier solución sin usar se deberá desechar.
+El disolvente no contiene ningún conservante. Por lo tanto, la solución reconstituida debe diluirse bajo
+condiciones asépticas controladas y validadas.
+ Dilución antes de la perfusión:
+El volumen requerido de solución reconstituida depende del peso corporal del paciente. Puede ser
+necesario el uso de varios viales para obtener la cantidad de rasburicasa requerida para una
+administración. El volumen requerido de solución reconstituida, obtenido a partir de uno o varios
+viales, tendrá que diluirse posteriormente con una solución de 9 mg/ml de cloruro de sodio (0,9%)
+para obtener un volumen total de 50 ml. La concentración de rasburicasa de la solución final para
+perfusión depende del peso corporal del paciente.
+ La solución reconstituida no contiene ningún conservante. Por lo tanto, la solución diluida tendrá que
+perfundirse inmediatamente.
+ Perfusión:
+La solución final tendrá que perfundirse durante 30 minutos.
+ Manipulación de muestras:
+Si es necesario monitorizar el nivel de ácido úrico de un paciente, se deberán seguir un procedimiento
+estricto de manipulación de muestras, con el objeto de minimizar la degradación ex vivo del analito. La
+sangre deberá colocarse en tubos previamente refrigerados y que contengan un anticoagulante
+heparínico. Las muestras deberán sumergirse en un baño de hielo/agua. Las muestras de plasma serán
+preparadas inmediatamente por centrifugación en una centrífuga previamente refrigerada (4ºC). Por
+último, el plasma deberá mantenerse en un baño de hielo/agua y analizar el nivel de ácido úrico dentro
+de las 4 horas siguientes.
+"
+	Prospectos de medicamentos.

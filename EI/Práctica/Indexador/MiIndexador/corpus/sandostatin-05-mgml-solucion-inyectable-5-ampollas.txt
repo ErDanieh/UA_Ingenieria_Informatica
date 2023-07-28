@@ -1,0 +1,368 @@
+"SANDOSTATIN 0,5 mg/ml solución inyectable; 5 ampollas"
+	Información Basica del medicamento Toda la información del medicamento 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	      Sandostatin 0,5 mg/ml solución inyectable
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada ampolla de 1 ml contiene: 0,5 mg de octreotida.
+Lista de excipientes, en 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Solución inyectable
+ 
+
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ - Acromegalia
+Para el control sintomático y reducción de los niveles plasmáticos de hormona del
+crecimiento y Somatomedina-C en pacientes con acromegalia que responden
+inadecuadamente al tratamiento convencional. El tratamiento con Sandostatin® también
+está    indicado en pacientes acromegálicos que presentan malas condiciones físicas o se
+muestran        poco dispuestos a sufrir una intervención quirúrgica, o en el período intermedio
+hasta que la    radioterapia resulte completamente efectiva.
+ - Tumores gastroenteropancreáticos
+Para la mejoría de los síntomas asociados a tumores endocrinos gastroenteropancreáticos:
+-      Tumores carcinoides.
+-      VIPomas.
+-   Otros tumores gastroenteropancreáticos: glucagonomas, gastrinomas, insuli-
+nomas, GRFomas.
+Sandostatin® no es un tratamiento antitumoral y no resulta curativo en estos pacientes.
+ - Prevención de las complicaciones surgidas tras la cirugía pancreática
+Para la prevención de las complicaciones surgidas tras la cirugía pancreática.
+ - Varices gastro-esofágicas sangrantes
+En el tratamiento de urgencia para detener la hemorragia y proteger de una hemorragia
+recurrente      debido a varices gastro-esofágicas en pacientes afectos de cirrosis.
+Sandostatin® debe ser utilizado en asociación con un tratamiento específico, como es, la
+escleroterapia endoscópica.
+ 4.2   Posología y forma de administración
+ - Acromegalia
+Inicialmente, 0,05-0,1 mg por inyección subcutánea cada 8 ó 12 horas. El ajuste de dosis
+debe realizarse en base a una valoración mensual de los niveles de GH y a los síntomas
+clínicos, así como a la tolerancia. En la mayoría de los pacientes la dosis diaria óptima es
+de 0,2 a 0,3 mg. No debe sobrepasarse una dosis máxima de 1,5 mg al día.
+Si a los 3 meses de tratamiento con Sandostatin® no se ha conseguido una reducción
+relevante de los niveles de GH ni una mejoría de los síntomas clínicos, debe considerarse
+la interrupción del tratamiento.
+ - Tumores endocrinos gastroenteropancreáticos
+Inicialmente, 0,05 mg una o dos veces al día mediante inyección subcutánea. La dosis
+puede incrementarse gradualmente a 0,1-0,2 mg tres veces al día, según la respuesta
+clínica, efecto sobre los niveles de hormonas producidas por tumores (en casos de
+tumores carcinoides, sobre la excreción urinaria del ácido 5-hidroxiindol acético), y sobre
+la tolerancia.
+En circunstancias excepcionales, pueden requerirse dosis superiores. Las dosis de
+mantenimiento son variables.
+ - Prevención de las complicaciones surgidas tras la cirugía pancreática
+0,1 mg tres veces al día mediante inyección subcutánea durante 7 días consecutivos,
+empezando en el día de la operación al menos 1 hora antes de la laparotomía.
+ - Varices gastro-esofágicas sangrantes
+25 microgramos/hora durante 5 días mediante perfusión intravenosa continua.
+Sandostatin® puede utilizarse en dilución con solución salina fisiológica.
+En pacientes cirróticos con varices gastro-esofágicas sangrantes, Sandostatin® ha sido
+bien tolerado a dosis de hasta 50 microgramos/hora durante 5 días administrado en
+perfusión i.v. continua.
+ Nota: Sandostatin® puede administrarse por vía intravenosa en perfusión continua a dosis
+medias de 0,025 a 0,05 mg/hora.
+                                                                                                       MINISTERIO
+Los pacientes que se administran ellos mismos el fármaco mediante inyección subcutánea
+deben recibir instrucciones precisas del médico o ATS. Para reducir las molestias locales,
+se recomienda que la solución alcance la temperatura ambiente antes de su inyección.
+Deben evitarse las inyecciones múltiples en intervalos cortos y en el mismo lugar. Para
+prevenir la contaminación, se recomienda no pinchar más de 10 veces el tapón del vial
+multidosis.
+En pacientes de edad avanzada tratados con Sandostatin® no existe evidencia de una
+tolerancia reducida o de exigencias posológicas diferentes. La experiencia con
+Sandostatin® en niños es muy limitada.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a la octreotida o a cualquiera de los componentes contenidos en las
+especialidades.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Debido a que los tumores de la hipófisis secretores de GH pueden, en algunas ocasiones,
+expandirse produciendo con ello graves complicaciones (ej.: defectos del campo visual),
+resulta esencial que todos los pacientes sean monitorizados cuidadosamente. Si existen
+muestras de una expansión del tumor deben considerarse procedimientos alternativos.
+En el 10-20% de los pacientes tratados con Sandostatin® a largo plazo se ha descrito la
+formación de cálculos biliares. Por consiguiente, se recomienda realizar un examen
+ecográfico de la vesícula biliar antes y a intervalos de 6 a 12 meses, durante el tratamiento
+con Sandostatin®. Cuando se forman cálculos biliares, éstos son normalmente
+asintomáticos; los cálculos sintomáticos deberán tratarse para su disolución con ácidos
+biliares o mediante cirugía.
+En los tumores endocrinos gastroenteropancreáticos tratados con Sandostatin® puede
+producirse, de forma excepcional, un fenómeno de escape del control sintomático con una
+rápida recurrencia de los síntomas graves.
+En pacientes con insulinomas, Sandostatin® puede incrementar la intensidad y prolongar
+la duración de la hipoglucemia, debido a su mayor potencia relativa para inhibir la
+secreción de la hormona de crecimiento y del glucagón, que la de insulina, y a su corta
+duración de acción en la inhibición de la última. Tales pacientes deben ser observados
+minuciosamente al inicio de tratamiento con Sandostatin® y en los cambios de dosis. Las
+fluctuaciones importantes de concentración de glucosa sanguínea pueden reducirse
+posiblemente mediante la administración más frecuente de Sandostatin®.
+Los pacientes con diabetes mellitus que precisan de un tratamiento con insulina pueden
+reducir las necesidades de la misma, tras la administración de Sandostatin®.
+Durante los episodios de una hemorragia en pacientes cirróticos, existe un riesgo
+incrementado de desarrollo de diabetes insulino-dependiente o de cambios en la exigencia
+de insulina en pacientes con diabetes pre-existente, por lo que es obligatoria una
+monitorización apropiada de los niveles de glucosa en sangre.
+                                                                                                        MINISTERIO
+4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Sandostatin® reduce la absorción intestinal de ciclosporina y retarda la de cimetidina.
+ 4.6   Embarazo y lactancia
+ No se dispone de experiencia en la administración de Sandostatin® durante el embarazo o
+la lactancia. Solamente se administrará el fármaco a estos pacientes, cuando las
+circunstancias lo hagan necesario.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Ninguno.
+ 4.8   Reacciones adversas
+ Las principales reacciones adversas encontradas tras la administración de Sandostatin®
+son locales y gastrointestinales.
+Las reacciones locales tras la administración s.c. de Sandostatin® incluyen dolor,
+sensación de picor, escozor o ardor en el lugar de la inyección con enrojecimiento e
+inflamación. En raras ocasiones la duración de estos síntomas es superior a 15 minutos.
+Las molestias locales pueden reducirse permitiendo que la solución alcance la
+temperatura ambiente antes de su inyección o inyectando un volumen inferior utilizando
+la solución más concentrada.
+Las reacciones adversas gastrointestinales incluyen anorexia, náuseas, vómitos, espasmos
+abdominales, distensión abdominal, flatulencia, deposiciones líquidas, diarrea y
+esteatorrea. Aunque la medición de la excreción grasa fecal puede aumentar, no existe
+evidencia hasta la fecha de que el tratamiento a largo plazo con Sandostatin® produzca
+una deficiencia nutricional debida a una malabsorción.
+En raras ocasiones, las reacciones adversas gastrointestinales pueden parecerse a una
+obstrucción intestinal aguda con distensión abdominal progresiva, dolor epigástrico
+intenso con resistencia.
+A fin de reducir la aparición de las reacciones adversas gastrointestinales, se recomienda
+administrar Sandostatin® entre las comidas o antes de acostarse.
+El uso prolongado de Sandostatin® puede dar como resultado la formación de cálculos
+biliares (ver ""Advertencias y Precauciones especiales de empleo"").
+Debido a su acción inhibidora sobre la hormona de crecimiento, glucagón e insulina,
+Sandostatin® puede afectar en la regulación de la glucosa. Puede alterarse la tolerancia a
+la glucosa postprandial y, en raras ocasiones, con la administración crónica puede
+inducirse un estado de hiperglucemia persistente. También se han observado casos de
+                                                                                                     MINISTERIO
+hipoglicemia. Raramente se ha observado pérdida de cabello en pacientes tratados con
+Sandostatin®.
+En raras ocasiones se han notificado casos de pancreatitis aguda. Generalmente, este
+efecto se observa durante las primeras horas o días del tratamiento con Sandostatin®, y
+revierte tras la retirada del fármaco. Además, la pancreatitis puede desarrollarse en
+pacientes que han sido sometidos a un tratamiento con Sandostatin® a largo plazo y han
+desarrollado colelitiasis.
+Se han descrito casos aislados de disfunción hepática o biliar asociada a la administración
+de Sandostatin®, consistente en lo siguiente:
+Hepatitis aguda sin colestasis que al suspender la administración de Sandostatin®
+-
+ha producido una normalización de los valores de las transaminasas.
+-    Desarrollo lento de hiperbilirrubinemia asociado a la elevación de fosfatasa
+alcalina,                     gamma-glutamil transferasa y, en menor proporción, de
+transaminasas.
+ 4.9   Sobredosis
+ Después de una sobredosificación masiva, no se han descrito reacciones que pongan en
+peligro la vida del paciente. La dosis única máxima administrada hasta el momento, ha
+sido 1,0 mg mediante inyección intravenosa.
+Los síntomas y signos observados fueron una breve caída en la frecuencia cardíaca,
+ruborización facial, calambres abdominales, diarrea, sensación de vacío en el estómago y
+náuseas, que se corrigieron durante las 24 horas siguientes a la administración del
+fármaco.
+Se ha descrito un paciente que recibió una sobredosificación accidental de Sandostatin®
+mediante perfusión continua (0,25 mg por hora durante 48 horas en lugar de 0,025 mg
+por hora). El paciente no experimentó reacciones adversas.
+El tratamiento de la sobredosificación es sintomático.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: inhibidores de la hormona del crecimiento, código ATC:
+H01CB02
+Sandostatin® es un octapéptido sintético derivado de la somatostatina de origen natural,
+con efectos farmacológicos similares, pero con una duración de acción considerablemente
+superior. Inhibe la secreción basal y patológicamente aumentada de la hormona del
+crecimiento (GH), y de péptidos y serotonina producidos en el sistema endocrino
+gastroenteropancreático (GEP).
+En animales, Sandostatin® es un inhibidor más potente de la hormona del crecimiento, del
+glucagón y de la liberación de insulina, que la somatostatina, con mayor selectividad para
+la GH y supresión del glucagón. La administración crónica (26 semanas) de una dosis
+máxima de 1 mg/kg al día (por vía intraperitoneal) en rata y de una dosis máxima de 0,5
+mg/kg al día (por vía intravenosa) en perro, ha sido bien tolerada.
+En individuos sanos normales Sandostatin® ha producido inhibición de:
+-   Liberación de la hormona del crecimiento (GH) estimulada por: arginina,
+ejercicio e hipoglucemia inducida por insulina.
+-   Liberación postprandial de insulina, glucagón, gastrina, otros péptidos del sistema
+GEP, y liberación de insulina y glucagón estimulada por arginina.
+-   Respuesta de la hormona estimulante del tiroides (TSH) inducida por la hormona
+liberadora de tirotropina (TRH).
+En pacientes con acromegalia (incluyendo los que no han respondido a cirugía, radiación
+o tratamiento con agonistas dopaminérgicos) Sandostatin® reduce los niveles plasmáticos
+de hormona del crecimiento y/o de Somatomedina-C. Una reducción clínicamente
+relevante de GH (un 50% o más) tiene lugar en casi todos los pacientes, y una
+normalización (GH plasmática < 5 ng/ml) puede obtenerse en aproximadamente la mitad
+de los casos. En la mayoría de los pacientes Sandostatin® reduce de forma muy notable
+los síntomas clínicos de la enfermedad tal como la cefalea, infiltración de la piel y tejidos
+blandos, hiperhidrosis, artralgia y parestesias. En pacientes con macroadenoma
+hipofisario, el tratamiento con Sandostatin® puede producir alguna reducción del tejido
+tumoral.
+ En pacientes con tumores del sistema endocrino gastroenteropancreático,
+Sandostatin® debido a sus diversos efectos endocrinos, modifica diferentes características
+clínicas produciéndose una mejoría clínica y sintomática en pacientes que presentan
+síntomas relacionados con sus tumores, a pesar de tratamientos anteriores que pueden
+incluir cirugía, embolización arterial hepática y quimioterapias diversas, por ej.:
+estreptozotocina y 5-fluorouracilo.
+Los efectos de Sandostatin® en los distintos tipos de tumores son los siguientes:
+ - Tumor carcinoide
+La administración de Sandostatin® puede producir una mejoría de los síntomas,
+concretamente de los episodios de rubor y de la diarrea. Esto va acompañado de una
+disminución de los niveles de serotonina plasmática y de una disminución en la excreción
+urinaria del ácido 5-hidroxiindol acético. En el caso de que no se produzca respuesta
+durante el tratamiento con Sandostatin®, se recomienda no proseguir con el tratamiento
+más de una semana, aunque no se hayan registrado reacciones adversas graves y
+persistentes en ningún paciente.
+ - VIPomas
+La característica bioquímica de estos tumores es la superproducción de péptido intestinal
+vasoactivo (VIP).
+En la mayoría de los casos la administración de Sandostatin® produce un alivio de la
+diarrea secretora grave, típica de esta afección, con la consecuente mejoría en la calidad
+de vida. Esto va acompañado de una mejoría de las anormalidades electrolíticas
+asociadas, por ej.: hipokaliemia, permitiendo suprimir el fluido parenteral, enteral y el
+suplemento electrolítico. En algunos pacientes el TAC (tomografía axial computerizada)
+revela una interrupción o disminución de la progresión del tumor, incluso la reducción del
+mismo, fundamentalmente de las metástasis hepáticas. La mejoría clínica va acompañada
+generalmente de una reducción en los niveles plasmáticos de VIP, que pueden descender
+hasta niveles normales de referencia.
+ - Otros tumores gastroenteropancreáticos
+Glucagonomas: En la mayor parte de los casos, la administración de Sandostatin®
+produce una mejoría notable de la erupción migratoria necrolítica, característica de esta
+afección.
+El efecto de Sandostatin® en la diabetes mellitus moderada, que frecuentemente se
+produce, no es notable, y en general no conduce a una reducción de las necesidades de
+insulina o agentes hipoglucemiantes orales. Sandostatin® produce una mejoría de la
+diarrea en los pacientes afectados y un aumento de peso.
+Aunque la administración de Sandostatin®, conduce a menudo a una reducción immediata
+de los niveles de glucagón plasmáticos, esta disminución no se mantiene generalmente
+durante un período prolongado de administración, a pesar de la mejoría sintomática.
+Gastrinomas/Síndrome de Zollinger-Ellison: Aunque el tratamiento con bloqueantes H2-
+selectivos y antiácidos controla la ulceración péptica recurrente, resultante de la
+hipersecreción crónica de ácido gástrico estimulada por la gastrina, este control resulta
+insuficiente. La diarrea también es un síntoma importante que no se alivia con este
+tratamiento. Sandostatin® en monoterapia o en combinación con antagonistas de los
+receptores H2, puede reducir la hipersecreción de ácido gástrico y mejorar los síntomas,
+incluyendo la diarrea. También pueden mejorarse otros síntomas posiblemente debidos a
+la producción de péptido por el tumor, por ej.: episodios de rubor.
+En algunos pacientes se produce un descenso de los niveles de gastrina en plasma.
+ Insulinomas: La administración de Sandostatin® produce un descenso en la insulina
+inmunorreactiva circulante que puede ser, sin embargo, de corta duración (aprox. dos
+horas). En los pacientes con tumores operables, puede ayudar a restaurar y mantener la
+normoglucemia del pre-operatorio. En pacientes con tumores malignos o benignos no
+operables, el control de la glucemia puede mejorarse sin una reducción sostenida
+concomitante de los niveles de insulina circulantes.
+GRFomas (tumores secretores de GRF): Estos tumores especiales se caracterizan por
+una producción del factor de liberación de la hormona del crecimiento (GRF) única o en
+combinación con otros péptidos activos. Sandostatin® produce una mejoría de las
+características y síntomas de la acromegalia resultante. Esto se debe a la inhibición del
+GRF y de la secreción de la hormona de crecimiento.
+Para pacientes sometidos a cirugía pancreática, la administración pre- y post-operatoria
+de Sandostatin®, reduce la incidencia de complicaciones post-operatorias típicas (p.ej.
+fístula pancreática, absceso y sepsis subsiguiente, pancreatitis aguda post-operatoria).
+En pacientes que presentan varices gastro-esofágicas sangrantes debido a una cirrosis
+subyacente, la administración de Sandostatin® en combinación con un tratamiento
+específico (p.ej. escleroterapia), está asociada con un mejor control de la hemorragia y de
+la hemorragia recurrente temprana, una necesidad de transfusión reducida y un aumento
+de la supervivencia a los 5 días.
+Aunque el modo de acción exacto de Sandostatin® no está completamente dilucidado, se
+ha postulado que Sandostatin® reduce el flujo sanguíneo esplácnico inhibiendo las
+hormonas vasoactivas (p.ej. VIP, glucagón).
+5.2   Propiedades farmacocinéticas
+ Sandostatin® se absorbe de forma rápida y por completo tras la administración
+subcutánea. Las concentraciones plasmáticas máximas se alcanzan en 30 minutos. La
+eliminación después de administración subcutánea tiene lugar con una vida media de 100
+minutos. Después de la administración intravenosa la eliminación es bifásica con vidas
+medias de 10 y 90 minutos, respectivamente. El volumen de distribución es de 0,27 l/kg
+de peso corporal y el aclaramiento corporal total es de 160 ml/min. La unión a las
+proteínas plasmáticas alcanza el 65%. La cantidad de Sandostatin® unida a las células
+sanguíneas no es significativa.
+ 5.3   Datos preclínicos sobre seguridad
+ Toxicidad aguda
+        Estudios de toxicidad aguda con octreotida en ratones revelaron valores de DL50 de 72
+mg/kg por vía intravenosa y de 470 mg/kg por vía subcutánea. El valor agudo de DL50
+intravenosa fue determinado a 18 mg/kg. Acetato octreotida fue bien tolerado por perros
+que recibieron hasta 1 mg/kg de peso corporal mediante inyección intravenosa por bolo.
+ Toxicidad de dosis repetidas
+En un estudio de toxicidad por administración intravenosa en perros durante 26 semanas
+realizado con dosis de hasta 0,5 mg/kg dos veces al día revelaron cambios progresivos las
+células acidófilas secretoras de prolactina en la pituitaria. Nuevos estudios demostraron
+que estos valores se encontraban dentro del rango fisiólogico, aparentemente sin relación
+con la somatostatina administrada exógenamente. No hubo alteraciones significativas en
+los niveles de hormona en plasma. Monos Rhesus hembra que recibían dosis de 0,5 mg/kg
+dos veces al día durante 3 semanas no mostraron cambios en la pituitaria y no hubo
+alteraciones en los niveles plasmáticos basales de la hormona del crecimiento, prolactina
+ni de la glucosa.
+Mientras que el vehículo ácido produjo inflamación y fibroplasia en inyecciones
+subcutáneas repetidas en ratas, no hubo evidencia de que acetato octreotida causara
+reacciones de hipersensibilidad retardada al inyectarla intradérmicamente en cobayas
+mediante un solución al 0,1% solución salina fisiológica al 0,9%
+ Mutagenicidad
+        Octreotida y/o sus metabolitos no mostraron potencial mutagénico cuando se investigaron
+in vitro en sistemas validados de tests de células bacteriológicas y de mamíferos. Se
+observó un aumento en la frecuencia de cambios cromosómicos en células de hámster
+chinos V79 in vitro, aunque sólo a altas concentraciones y citotóxicas. Sin embargo, las
+aberraciones cromosómicas no aumentaron en los linfocitos humanos incubados con
+acetato octreotida in vitro. In vivo, no se observó actividad clastogénica en la médula ósea
+del ratón tratado con octreotida intravenosa (test del micronúcleo) y no se obtuvo
+evidencia de genotoxicicidad en las ratas macho mediante un test de reparación de DNA
+en las cabezas de los espermas. Las microesferas no mostraron potencial mutagénico al
+probarse en un ensayo en batería in vitro validado.
+ Cancerogénesis/ Toxicidad crónica
+        En estudios realizados en ratas que recibieron octreotida en dosis diarias de hasta 1,25
+mg/kg de peso corporal, se observaron fibrosarcomas, sobre todo en un cierto número de
+animales macho, en el punto de inyección subcutánea a las 52, 104 y 113/116 semanas.
+También aparecieron tumores en las ratas control, sin embargo, el desarrollo de estos
+tumores fue atribuido a la fibroplasia desordenada, producida por los efectos irritantes
+continuados en los puntos de inyección, aumentados por el vehículo ácido de ácido
+láctico/manitol. Esta reacción del tejido no específica resultó ser característica en ratas.
+No se observaron lesiones neoplásicas ni en ratones que recibieron inyecciones
+subcutáneas diarias de octreotida hasta 2 mg/kg durante 98 semanas, ni en perros tratados
+con dosis subcutáneas de fármaco durante 52 semanas.
+        El estudio de carcinogenicidad de 116 semanas en ratas con octreotida subcutánea
+también reveló adenocarcinomas de endometrio, alcanzando su incidencia significancia
+estadística a la dosis subcutánea más alta de 1,25 mg/kg por día. Este hecho fue asociado
+con una mayor incidencia de endometritis, un menor número de cuerpos lúteos ováricos,
+una reducción de los adenomas mamarios y la presencia de dilatación luminal y glandular
+uterina, sugiriendo un estado de desequilibrio hormonal. La información disponible
+muestra claramente que los tumores de tipo endocrino hallados en rata son específicos de
+la especie y no tienen significancia alguna para el uso del fármaco en el hombre.
+ Reproducción
+        En estudios de fertilidad así como estudios pre-, peri- y postnatales realizados en ratas
+hembras no se observaron efectos adversos en el rendimiento reproductivo ni en el
+desarrollo de los niños, al administrar dosis subcutáneas de hasta 1 mg/kg de peso
+corporal por día. Se observó cierto retraso en el crecimiento fisiológico de los cachorros
+que fue pasajero y atribuido a la inhibición de la GH originada por un exceso de actividad
+farmacodinámica.
+ 
+6.   DATOS FARMACÉUTICOS
+	                                                                                                      MINISTERIO
+6.1   Lista de excipientes
+ Ampolla (0,5 mg/ml): ácido láctico, manitol, bicarbonato de sodio, dióxido de carbono,
+agua para    inyección.
+ 6.2   Incompatibilidades
+ Ninguna.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ Las ampollas de Sandostatin® deben conservarse a temperaturas entre 2-8ºC (en nevera) y
+protegerse de la luz. Para su utilización diaria pueden mantenerse a temperatura no
+superior a 30ºC        hasta un máximo de 2 semanas.
+ 6.5   Naturaleza y contenido del recipiente
+ Envase con 5 ampollas de 0,5 mg/ml.
+ 6.6   Instrucciones de uso y manipulación
+ Nueva ampolla rompible.                         Colocar el pulgar por encima del punto
+Línea de ruptura por debajo                     coloreado      y   romper   la   ampolla
+presionando
+del punto coloreado.                            hacia atrás.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	NOVARTIS FARMACÉUTICA, S.A.
+Gran Via de les Corts Catalanes, 764
+08013 - Barcelona
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 60.275
+ 9.    FECHA DE LA             PRIMERA         AUTORIZACIÓN/RENOVACIÓN   DE   LA
+AUTORIZACIÓN
+ Octubre 2003
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+
+	Prospectos de medicamentos.

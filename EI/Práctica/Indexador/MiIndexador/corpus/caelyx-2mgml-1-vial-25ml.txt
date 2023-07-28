@@ -1,0 +1,984 @@
+CAELYX 2MG/ML 1 VIAL 25ML
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Caelyx 2 mg/ml concentrado para solución para perfusión
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Un ml de Caelyx contiene 2 mg de doxorubicina clorhidrato en una formulación liposomal pegilada.
+ Caelyx en formulación liposomal, es doxorubicina clorhidrato encapsulada en liposomas con
+metoxipolietilenglicol (MPEG) unido a su superficie. Este proceso se denomina pegilación y evita que
+los liposomas sean detectados por el sistema mononuclear fagocítico (SMF), lo cual aumenta el tiempo
+de permanencia en sangre.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Concentrado para solución para perfusión
+ La suspensión es estéril, translúcida y roja.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Caelyx está indicado:
+-    En monoterapia para pacientes con cáncer de mama metastásico en los que existe un riesgo
+cardíaco aumentado.
+-    Para el tratamiento del cáncer de ovario avanzado en mujeres en las que ha fallado un régimen
+de quimioterapia de primera línea conteniendo platino.
+-    En combinación con bortezomib para el tratamiento de mieloma múltiple progresivo en
+pacientes que hayan recibido al menos un tratamiento previo y que ya hayan recibido un
+trasplante de médula ósea o no sean candidatos a recibirlo.
+-    Para el tratamiento del sarcoma de Kaposi (SK) asociado con SIDA en pacientes con recuentos
+bajos de CD4 (< 200 linfocitos CD4/mm3) y enfermedad extensiva mucocutánea o visceral.
+Caelyx se puede utilizar como quimioterapia sistémica de primera línea, o como quimioterapia
+de segunda línea en pacientes con SK-SIDA cuya enfermedad haya progresado con, o no
+toleren, la quimioterapia sistémica de combinación previa que comprenda por lo menos dos de
+los siguientes agentes: un alcaloide de la vinca, bleomicina y doxorubicina estándar (u otra
+antraciclina).
+ 4.2   Posología y forma de administración
+ Caelyx sólo debe administrarse bajo la supervisión de un oncólogo titulado especializado en la
+administración de agentes citotóxicos.
+ Caelyx presenta unas propiedades farmacocinéticas particulares por lo que no debe utilizarse de
+manera intercambiable con otras formulaciones de doxorubicina clorhidrato.
+ Cáncer de mama/Cáncer de ovario:
+Caelyx se administra por vía intravenosa a dosis de 50 mg/m² una vez cada 4 semanas mientras la
+enfermedad no progrese y el paciente siga tolerando el tratamiento.
+Mieloma Múltiple: Caelyx se administra en dosis de 30 mg/m², mediante perfusión de 1 hora de
+duración inmediatamente después de la perfusión de bortezomib, en el día 4 del régimen de 3 semanas
+                                                     2
+de bortezomib. El régimen de bortezomib consiste en 1,3 mg/m² administrados los días 1, 4, 8, y
+11 cada 3 semanas. La dosis se debe repetir siempre que los pacientes respondan satisfactoriamente y
+toleren el tratamiento. La administración de ambos medicamentos en el día 4 se puede retrasar hasta
+48 horas según criterio médico. Las dosis de bortezomib se deben distanciar al menos 72 horas.
+ Para dosis < 90 mg: diluir Caelyx en 250 ml de solución para perfusión intravenosa de glucosa al 5 %
+(50 mg/ml).
+Para dosis  90 mg: diluir Caelyx en 500 ml de solución para perfusión intravenosa de glucosa al 5 %
+(50 mg/ml).
+ Para reducir al máximo el riesgo de reacciones a la perfusión, la dosis inicial se administra a una
+velocidad no superior a 1 mg/minuto. Si no se observa reacción a la perfusión, las perfusiones
+posteriores de Caelyx se pueden administrar durante un periodo de 60 minutos.
+ En aquellos pacientes que experimenten una reacción a la perfusión, el método de perfusión se deberá
+modificar de la siguiente manera:
+el 5 % de la dosis total se deberá perfundir lentamente durante los primeros 15 minutos. Si se tolera sin
+reacción, la tasa de perfusión se puede entonces doblar durante los siguientes 15 minutos. Si se tolera,
+la perfusión se puede entonces completar durante la siguiente hora hasta un tiempo de perfusión total
+de 90 minutos.
+ SK asociado con SIDA:
+Caelyx se administra por vía intravenosa a 20 mg/m² cada dos a tres semanas. Evitar intervalos de
+tiempo menores a 10 días ya que no se pueden excluir ni la acumulación del medicamento ni el
+incremento de toxicidad. Con el fin de alcanzar una respuesta terapéutica se recomienda tratar a los
+pacientes durante dos a tres meses. Continuar el tratamiento según sea necesario para mantener la
+respuesta terapéutica.
+ La dosis de Caelyx se diluye en 250 ml de solución para perfusión intravenosa de glucosa al 5 %
+(50 mg/ml) y se administra mediante perfusión intravenosa de 30 minutos.
+ Para todos los pacientes:
+Si el paciente experimenta signos o síntomas precoces de reacción a la perfusión (ver secciones
+4.4 y 4.8), interrumpir inmediatamente la perfusión, administrar tratamiento sintomático adecuado
+(antihistamínico y/o corticosteroide de corta acción) y reanudar a una velocidad más lenta.
+ No administrar Caelyx en forma de inyección en bolus o en solución sin diluir. Se recomienda que el
+gotero de Caelyx se conecte lateralmente a una perfusión intravenosa de glucosa al 5 % (50 mg/ml)
+para conseguir una mayor dilución y reducir al máximo el riesgo de trombosis y extravasación. La
+perfusión se puede administrar a través de una vena periférica. No utilizar filtros en la línea de
+perfusión. No se debe administrar Caelyx por vía intramuscular o subcutánea (ver apartado 6.6).
+ Para manejar acontecimientos adversos como eritrodisestesia palmo-plantar (EPP), estomatitis o
+toxicidad hematológica, la dosis puede reducirse o espaciarse. En las tablas que se muestran a
+continuación se proporcionan las normas de modificación de la dosis de Caelyx en función de estos
+efectos adversos. El grado de toxicidad en estas tablas se basa en los Criterios de Toxicidad Común
+del National Cancer Institute (CTC-NCI).
+ Las tablas para EPP (Tabla 1) y estomatitis (Tabla 2) proporcionan la pauta seguida para los ajustes de
+dosis en ensayos clínicos en el tratamiento del cáncer de mama o de ovario (modificación del ciclo de
+tratamiento recomendado de 4 semanas): si estas toxicidades se producen en pacientes con SK
+asociado con SIDA, el ciclo de tratamiento recomendado de 2 a 3 semanas se puede modificar de una
+forma similar.
+ La tabla para la toxicidad hematológica (Tabla 3) proporciona la pauta seguida para el ajuste de dosis
+en ensayos clínicos en el tratamiento de pacientes con cáncer de mama o de ovario solamente. El
+ajuste de dosis en pacientes con SK-SIDA se describe en la sección 4.8.
+                                                     3
+ Tabla 1. ERITRODISESTESIA PALMO ­ PLANTAR
+Grado de Toxicidad             Semana 4                  Semana 5               Semana 6
+en la Valoración
+Actual
+Grado 1                  Volver a                   Volver a         Disminuir la dosis
+(eritema leve,        administrar la dosis       administrar la dosis   en un 25 %; volver
+tumefacción o            a menos que el             a menos que el         al intervalo de
+descamación que no           paciente haya              paciente haya           4 semanas
+interfiera con las       experimentado una          experimentado una
+actividades diarias)     toxicidad cutánea de       toxicidad cutánea de
+Grado 2           Esperar una semana         Esperar una semana     Disminuir la dosis
+(eritema, descamación           adicional                  adicional        en un 25 %; volver
+o tumefacción que                                                          al intervalo de
+interfiera, pero que no                                                         4 semanas
+imposibilite las
+actividades físicas
+normales; pequeñas
+ampollas o
+ulceraciones de menos
+de 2 cm de diámetro)
+Grado 3           Esperar una semana         Esperar una semana        Retirada del
+(aparición de            adicional                  adicional          tratamiento del
+ampollas, ulceración o                                                           paciente
+tumefacción que
+interfiera al caminar o
+con las actividades
+diarias normales; no
+poder llevar la ropa
+habitual)
+Grado 4           Esperar una semana         Esperar una semana        Retirada del
+(proceso difuso o local        adicional                  adicional          tratamiento del
+que cause                                                                paciente
+complicaciones
+infecciosas o
+postración u
+hospitalización)
+ Tabla 2. ESTOMATITIS
+Grado de Toxicidad                4                           5                       6
+en la Valoración
+Actual
+Grado 1                 Volver a                    Volver a           Disminuir la dosis
+(úlceras indoloras,    administrar la dosis        administrar la dosis    en un 25 %; volver
+eritema o inflamación       a menos que el              a menos que el          al intervalo de
+leve)               paciente haya               paciente haya       4 semanas o retirada
+Grado 2           Esperar una semana          Esperar una semana       Disminuir la dosis
+(eritema doloroso,            adicional                   adicional         en un 25 %; volver
+edema o úlceras, pero                                                           al intervalo de
+puede comer)                                                              4 semanas o retirada
+Grado 3          Esperar una semana          Esperar una semana          Retirada del
+(eritema doloroso,          adicional                   adicional            tratamiento del
+edema o úlceras, pero                                                               paciente
+no puede comer)
+Grado 4          Esperar una semana          Esperar una semana          Retirada del
+(requiere              adicional                   adicional            tratamiento del
+mantenimiento                                                                  paciente
+parenteral o enteral)
+ Tabla 3. TOXICIDAD HEMATOLÓGICA (RECUENTO ABSOLUTO DE
+NEUTRÓFILOS O PLAQUETAS) ­ MANEJO DE PACIENTES CON CÁNCER DE
+MAMA O DE OVARIO
+GRADO        Recuento absoluto         PLAQUETAS                    MODIFICACIÓN
+de neutrófilos
+1.500 ­ 1.900         75.000 ­ 150.000      Reanudar el tratamiento sin
+Grado 1
+1.000 ­ < 1.500       50.000 ­ < 75.000     Esperar hasta que el recuento
+Grado 2
+500 ­ < 1.000        25.000 ­ < 50.000     Esperar hasta que el recuento
+Grado 3
+Grado 4
+ En los pacientes con mieloma múltiple tratados con Caelyx en combinación con bortezomib que
+experimenten EPP o estomatitis, la dosis de Caelyx se debe modificar tal y como se describe en las
+Tablas 1 y 2 anteriores, respectivamente. La Tabla 4 que figura a continuación incluye la posología
+que se siguió en otras modificaciones de dosis durante el ensayo clínico para el tratamiento de
+pacientes con mieloma múltiple que recibían el tratamiento combinado de Caelyx y bortezomib. Para
+obtener una información más detallada sobre la posología y los ajustes posológicos de bortezomib, ver
+la Ficha Técnica o Resumen de las Características del Producto de bortezomib.
+   Tabla 4. AJUSTES POSOLÓGICOS DURANTE EL TRATAMIENTO COMBINADO
+CON CAELYX Y BORTEZOMIB - PACIENTES CON MIELOMA MÚLTIPLE
+Estado del Paciente                         Caelyx                       Bortezomib
+Fiebre  38C y                  Si es antes del Día 4 no         Reducir la siguiente dosis en
+Recuento absoluto de           administrar la dosis             un 25 %.
+neutrófilos < 1.000/mm3        correspondiente a ese ciclo; si
+En cualquier día de            Si es antes del Día 4 no         No administrar la dosis; si no
+administración de              administrar la dosis             se administran 2 o más dosis
+medicamento después del Día    correspondiente a ese ciclo; si  en un ciclo, reducir la dosis
+1 de cada ciclo:               es después del Día 4 reducir la en un 25 % en los siguientes
+Recuento plaquetario           siguiente dosis en un 25 % en    ciclos.
+< 25.000/mm3                   los siguientes ciclos si se
+Hemoglobina < 8 g/dl           reduce la dosis de bortezomib
+Recuento absoluto de           por toxicidad hematológica.*
+neutrófilos < 500/mm
+Toxicidad no hematológica de No administrar la dosis hasta      No administrar la dosis hasta
+grado 3 o 4 relacionada con el que se recupere un Grado         que se recupere un Grado
+medicamento                    < 2 y reducir la dosis en un     < 2 y reducir todas las dosis
+                                                   6
+Dolor neuropático o neuropatía          No se requieren ajustes                 Ver la Ficha Técnica o el
+periférica                              posológicos.                            Resumen de las
+* para mayor información sobre la posología y los ajustes posológicos de bortezomib, ver la Ficha Técnica o el Resumen de
+las Características del Producto de bortezomib
+ Pacientes con insuficiencia hepática: La farmacocinética de Caelyx determinada en un pequeño
+número de pacientes con niveles elevados de bilirrubina total no fue distinta de la de pacientes con
+bilirrubina total normal; sin embargo, hasta que se tenga más experiencia, la dosis de Caelyx en
+pacientes con insuficiencia hepática debe reducirse en base a la experiencia de los programas de
+ensayo clínico en mama y ovario de la siguiente forma: si al iniciar la terapia la bilirrubina se
+encuentra entre 1,2 - 3,0 mg/dl, la primera dosis se reduce en un 25 %. Si la bilirrubina es > 3,0 mg/dl,
+la primera dosis se reduce en un 50 %. Si el paciente tolera la primera dosis sin un aumento en la
+bilirrubina sérica o enzimas hepáticas, la dosis del ciclo 2 se puede aumentar hasta el siguiente nivel
+de dosis, por ejemplo, si se reduce en un 25 % en la primera dosis, aumentar hasta la dosis completa en
+el ciclo 2; si se reduce en un 50 % en la primera dosis, aumentar hasta el 75 % de la dosis completa en
+el ciclo 2. La dosis se puede aumentar hasta la dosis completa durante los ciclos posteriores si se
+tolera. Caelyx se puede administrar a pacientes con metástasis hepática con elevación asociada de
+bilirrubina y enzimas hepáticas hasta 4 veces el límite superior del intervalo normal. Antes de la
+administración de Caelyx, evaluar la función hepática utilizando las pruebas clínicas de laboratorio
+convencionales tales como ALT/AST, fosfatasa alcalina y bilirrubina.
+ Pacientes con insuficiencia renal: Como la doxorubicina se metaboliza en el hígado y se excreta en la
+bilis, no se debería requerir una modificación de la dosis. Los datos de farmacocinética poblacional (en
+el intervalo de aclaramiento de creatinina ensayado de 30 - 156 ml/min) demuestran que el
+aclaramiento de Caelyx no se ve influenciado por la función renal. No se dispone de datos
+farmacocinéticos en pacientes con aclaramiento de creatinina de menos de 30 ml/min.
+ Pacientes con SK-SIDA con esplenectomía: Debido a que no hay experiencia con Caelyx en pacientes
+que han sido sometidos a una esplenectomía, no se recomienda utilizar el tratamiento con Caelyx.
+ Pacientes pediátricos: La experiencia en niños es limitada. Caelyx no está recomendado en pacientes
+menores de 18 años de edad.
+ Pacientes geriátricos: El análisis basado en la población demuestra que la edad en el intervalo
+ensayado (21 ­ 75 años) no altera significativamente la farmacocinética de Caelyx.
+ 4.3    Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ No debe utilizarse Caelyx para tratar SK-SIDA que puede ser tratado eficazmente con terapia local o
+interferón-alfa sistémico.
+ 4.4    Advertencias y precauciones especiales de empleo
+ Toxicidad cardíaca: Se recomienda que todos los pacientes que reciban Caelyx sean monitorizados de
+forma rutinaria con ECG frecuentes. Cambios pasajeros en el ECG como aplanamiento de la onda T,
+depresión del segmento S-T y arritmias benignas no se consideran indicaciones obligatorias para la
+suspensión del tratamiento con Caelyx. Sin embargo, la reducción del complejo QRS se considera más
+indicativa de toxicidad cardíaca. Si se produce este cambio, deberá considerarse la prueba más
+definitiva de daño miocárdico por antraciclinas, esto es, la biopsia endomiocárdica.
+ Métodos más específicos que el ECG para la evaluación y monitorización de las funciones cardíacas
+son la medida de la fracción de eyección ventricular izquierda mediante ecocardiografía o
+preferiblemente mediante ventriculografía isotópica (FEVI). Estos métodos deben realizarse de forma
+                                                             7
+rutinaria antes de iniciar el tratamiento con Caelyx y deben repetirse periódicamente durante el
+tratamiento. La evaluación de la función ventricular izquierda se considera obligatoria antes de cada
+administración adicional de Caelyx que exceda de una dosis de antraciclina acumulada de por vida de
+450 mg/m2.
+ Las pruebas de evaluación y métodos anteriormente mencionados relativos a la monitorización de la
+función cardíaca durante el tratamiento con antraciclina se realizarán en el siguiente orden:
+monitorización del ECG, medida de la fracción de eyección ventricular izquierda, biopsia
+endomiocárdica. Si el resultado de una prueba indica posible daño cardíaco asociado al tratamiento
+con Caelyx se debe sopesar cuidadosamente el beneficio de continuar el tratamiento con respecto al
+riesgo de daño miocárdico.
+ En los pacientes con enfermedad cardíaca que requiera tratamiento, sólo se administrará Caelyx
+cuando el beneficio supere el riesgo para el paciente.
+ Proceder con precaución con los pacientes con insuficiencia cardíaca que reciban Caelyx.
+ Siempre que se sospeche una cardiomiopatía, esto es, cuando la fracción de eyección ventricular
+izquierda haya disminuido sustancialmente con respecto a los valores previos al tratamiento y/o la
+fracción de eyección ventricular izquierda sea menor a un valor pronósticamente relevante (por
+ejemplo < 45 %), se puede considerar la práctica de una biopsia endomiocárdica y se deberá evaluar
+cuidadosamente el beneficio de continuar el tratamiento con respecto al riesgo de desarrollar un daño
+cardíaco irreversible.
+ La insuficiencia cardíaca congestiva debida a la cardiomiopatía puede ocurrir de forma repentina, sin
+haberse presentado cambios previos en el ECG y también puede suceder varias semanas después de la
+interrupción del tratamiento.
+ Se deberá tener precaución con los pacientes que hayan recibido otras antraciclinas. La dosis total de
+doxorubicina clorhidrato también deberá tener en cuenta cualquier tratamiento previo (o concomitante)
+con sustancias cardiotóxicas tales como otras antraciclinas/antraquinonas o por ejemplo 5-
+fluorouracilo. La toxicidad cardíaca también se puede producir a dosis acumuladas de antraciclina
+menores de 450 mg/m2 en pacientes con irradiación mediastínica previa o en aquellos que reciban
+terapia con ciclofosfamida concomitante.
+ El perfil de seguridad cardiaco para el régimen posológico recomendado para ambos cánceres de
+mama y de ovario (50 mg/m2) es similar al perfil de 20 mg/m2 en pacientes con SK-SIDA (ver apartado 4.8).
+ Mielosupresión: Muchos pacientes tratados con Caelyx presentan mielosupresión basal debida a
+factores tales como su enfermedad VIH preexistente o numerosos tratamientos concomitantes o
+previos, o tumores que afecten la médula ósea. En el ensayo principal en pacientes con cáncer de
+ovario tratados a la dosis de 50 mg/m2, la mielosupresión fue generalmente de leve a moderada,
+reversible, y no se asoció con episodios de infección neutropénica o sepsis. Además, en un ensayo
+clínico controlado de Caelyx frente a topotecan, la incidencia de sepsis relacionada con el tratamiento
+fue sustancialmente menor en los pacientes con cáncer de ovario tratados con Caelyx que en el grupo
+de tratamiento con topotecan. En pacientes con cáncer de mama metastásico que recibieron Caelyx en
+un ensayo clínico de primera línea se observó una baja incidencia similar de mielosupresión. A
+diferencia de la experiencia en pacientes con cáncer de mama o de ovario, en pacientes con SK-SIDA
+el acontecimiento adverso limitante de dosis parece ser la mielosupresión (ver apartado 4.8). Debido a
+su potencial de supresión de la médula ósea, se deberán llevar a cabo recuentos sanguíneos periódicos
+frecuentemente durante el transcurso del tratamiento con Caelyx y como mínimo, antes de cada dosis
+de Caelyx.
+ La mielosupresión grave persistente, puede producir superinfección o hemorragia.
+ En estudios clínicos controlados en pacientes con SK-SIDA frente al régimen bleomicina/vincristina,
+                                                    8
+las infecciones oportunistas fueron aparentemente más frecuentes durante el tratamiento con Caelyx.
+Los pacientes y médicos deben conocer esta mayor incidencia y tomar la acción oportuna.
+ Al igual que con otros agentes antineoplásicos susceptibles de provocar alteración del ADN, se han
+notificado mielodisplasias y leucemias mieloides agudas secundarias en pacientes que habían recibido
+tratamiento combinado con doxorubicina. Por lo tanto, se deberá mantener bajo supervisión
+hematológica cualquier paciente tratado con doxorubicina.
+ Dada la diferencia en los perfiles farmacocinéticos y regímenes posológicos, Caelyx no deberá
+utilizarse de manera intercambiable con otras formulaciones de doxorubicina clorhidrato.
+ Reacciones asociadas a la perfusión: a los pocos minutos de iniciar la perfusión de Caelyx pueden
+producirse reacciones a la perfusión graves y a veces con amenaza para la vida, de tipo alérgico o
+anafilactoide, con síntomas que incluyen asma, enrojecimiento facial, urticaria, dolor torácico, fiebre,
+hipertensión, taquicardia, prurito, sudoración, dificultad al respirar, edema facial, escalofríos, dolor
+lumbar, opresión en el pecho y garganta e/o hipotensión. En relación con las reacciones a la perfusión
+también se han observado convulsiones muy raramente (ver apartado 4.8). Estos síntomas generalmente
+se resuelven con la interrupción temporal de la perfusión, sin terapia adicional. No obstante, deberán
+estar disponibles para un uso inmediato medicamentos para tratar estos síntomas (por ejemplo,
+antihistamínicos, corticosteroides, adrenalina y anticonvulsivantes) así como un equipo de emergencia.
+En la mayoría de los pacientes el tratamiento se puede reanudar después de que todos los síntomas se
+hayan resuelto, sin recurrencia. Raramente vuelven a producirse reacciones a la perfusión después del
+primer ciclo de tratamiento Para disminuir al máximo el riesgo de reacciones a la perfusión, se deberá
+administrar la dosis inicial a una velocidad no superior a 1 mg/minuto (ver apartado 4.2).
+ Pacientes diabéticos: Se debe tener en cuenta que cada vial de Caelyx contiene sacarosa y que la dosis
+se administra en solución para perfusión intravenosa de glucosa al 5 % (50 mg/ml).
+ Ver sección 4.8 para información acerca de las reacciones adversas frecuentes que requieren
+modificación de la dosis o interrupción del tratamiento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios específicos de interacción farmacológica con Caelyx, aunque se han
+realizado ensayos fase II en combinación con agentes quimioterápicos convencionales en pacientes
+con procesos malignos ginecológicos. Debe procederse con precaución cuando se administren
+concomitantente medicamentos que se sabe que interaccionan con doxorubicina clorhidrato estándar.
+Caelyx, al igual que otros preparados de doxorubicina clorhidrato, puede potenciar la toxicidad de
+otras terapias anticancerosas. Durante ensayos clínicos en pacientes con tumores sólidos (incluido el
+cáncer de mama y de ovario) que han recibido concomitantemente ciclofosfamida o taxanos, no se
+observaron nuevas toxicidades asociadas. En pacientes con SIDA, se ha notificado el agravamiento de
+la cistitis con hemorragia inducida por ciclofosfamida y un incremento de la hepatotoxicidad de 6-
+mercaptopurina con la doxorubicina clorhidrato estándar. Se deberá tener cuidado cuando se
+administre al mismo tiempo cualquier otro agente citotóxico, especialmente agentes mielotóxicos.
+ 4.6   Embarazo y lactancia
+ Embarazo: Se cree que doxorubicina clorhidrato puede producir graves defectos congénitos si se
+administra durante el embarazo. Por lo tanto, Caelyx no debería utilizarse durante el embarazo excepto
+si fuese claramente necesario. Se deberá aconsejar a las mujeres en edad fértil que eviten el embarazo
+mientras ellas o sus parejas estén recibiendo Caelyx y durante los seis meses posteriores a la
+interrupción de la terapia con Caelyx (ver apartado 5.3).
+ Lactancia: Se desconoce si Caelyx se excreta en la leche materna.Debido a que muchos
+medicamentos, incluyendo antraciclinas, se excretan en la leche materna, y debido a las potenciales
+reacciones adversas graves en lactantes, las madres deben abandonar la lactancia antes de comenzar el
+tratamiento con Caelyx. Los expertos en salud recomiendan que las mujeres infectadas con VIH no
+                                                    9
+amamanten a sus niños bajo ninguna circunstancia para evitar la transmisión del VIH.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ La influencia de Caelyx sobre la capacidad para conducir y utilizar máquinas es nula o insignificante.
+No obstante, en estudios clínicos realizados hasta la fecha la administración de Caelyx se asoció a
+mareo y somnolencia de forma infrecuente (< 5 %). Los pacientes que sufran estos efectos deben
+evitar conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ La reacción adversa notificada con mayor frecuencia en ensayos clínicos en mujeres con cáncer de
+mama/ovario (50 mg/m2 cada 4 semanas) fue la eritrodisestesia palmo-plantar (EPP). La incidencia
+global notificada de EPP fue del 44,0 % - 46,1 %. Estas reacciones fueron principalmente leves,
+siendo graves (Grado III) entre un 17 % y un 19,5 % de las mismas. La notificación de reacciones
+adversas amenazantes para la vida (Grado IV) constituyó menos de un 1 %. La EPP provocó una
+interrupción permanente del tratamiento de manera poco frecuente (3,7 % - 7,0 %). La EPP se
+caracteriza por erupciones cutáneas dolorosas con enrojecimiento macular y aparece generalmente tras
+dos o tres ciclos de tratamiento. Los pacientes suelen experimentar mejoría en una o dos semanas
+aunque, en algunos casos, la resolución completa puede llevar hasta 4 semanas o más. La piridoxina a
+dosis de 50 - 150 mg al día y los corticosteroides se han utilizado para la profilaxis y tratamiento de
+EPP sin embargo, estas terapias no se han evaluado en ensayos clínicos de fase III. Otras estrategias
+para prevenir y tratar la EPP, que pueden iniciarse de 4 a 7 días después de comenzar del tratamiento
+con Caelyx, incluyen mantener las manos y pies fríos, colocándolos en agua fría (en remojo, baños o
+nadando), evitando el calor/agua caliente excesivos y manteniéndolos sin compresión (sin calcetines,
+guantes o zapatos que queden muy estrechos). La EPP parece estar principalmente relacionada con la
+pauta de administración y se puede reducir ampliando el intervalo de la dosis 1 - 2 semanas (ver apartado 4.2). No obstante, esta reacción puede ser grave y debilitante en algunos pacientes y puede
+requerir la interrupción del tratamiento. También se notificaron frecuentemente en las poblaciones de
+pacientes con cáncer de mama/ovario casos de estomatitis/mucositis y náuseas, mientras que en el
+Programa de SK-SIDA (20 mg/m2 cada 2 semanas), la reacción adversa más frecuente fue la
+mielosupresión (principalmente leucopenia) (ver SK-SIDA). Se notificó EPP en el 16 % de los
+pacientes con mieloma múltiple tratados con el tratamiento combinado de Caelyx más bortezomib. Se
+notificó EPP de Grado 3 en el 5 % de los pacientes. No se notificó ningún caso de EPP de grado 4. Las
+reacciones adversas notificadas con mayor frecuencia (relacionadas con el medicamento y derivadas
+del tratamiento) con el tratamiento combinado (Caelyx + bortezomib) fueron náuseas (40 %), diarrea
+(35 %), neutropenia (33 %), trombocitopenia (29 %), vómitos (28 %), fatiga (27 %), y estreñimiento
+(22 %).
+ Programa de cáncer de mama: En un ensayo clínico de fase III, 509 pacientes con cáncer de mama
+avanzado que no habían recibido quimioterapia previa para la enfermedad metastásica, se trataron con
+Caelyx (n=254) a una dosis de 50 mg/m2 cada 4 semanas, o doxorubicina (n=255) a una dosis de
+60 mg/m2 cada 3 semanas. De las reacciones adversas muy frecuentes, las siguientes se notificaron con
+una frecuencia superior para doxorubicina que para Caelyx: náuseas (53 % frente a 37 %; Grado III/IV
+5 % frente a 3 %), vómitos (31 % frente a 19 %; Grado III/IV 4 % frente a menos del 1 %), cualquier
+alopecia (66 % frente a 20 %), alopecia marcada (54 % frente a 7 %) y neutropenia (10 % frente a
+4 %; Grado III/IV 8 % frente a 2 %).
+Las siguientes reacciones adversas se notificaron con una frecuencia superior en el grupo de Caelyx
+que en el de doxorubicina: mucositis (23 % frente a 13 %; Grado III/IV 4 % frente a 2 %) y estomatitis
+(22 % frente a 15 %; Grado III/IV 5 % frente a 2 %). La duración media de las reacciones clasificadas
+como severas (Grado III/IV) para ambos grupos fue de 30 días o menos. La lista completa de
+reacciones adversas notificadas en pacientes tratados con Caelyx se proporciona en la tabla 5.
+ La incidencia de efectos hematológicos con amenaza para la vida (Grado IV) fue < 1,0 % y se
+notificaron casos de sepsis en el 1 % de los pacientes. Fue necesario el tratamiento con factor
+estimulante de colonias celulares o transfusiones en el 5,1 % y 5,5 % de los pacientes respectivamente
+(ver apartado 4.2).
+                                                   10
+Las alteraciones de laboratorio clínicamente significativas (Grados III y IV) en este grupo fueron
+elevación de la bilirrubina total, AST y ALT notificadas en el 2,4 %, 1,6 % y < 1 % de los pacientes
+respectivamente. No se notificaron aumentos clínicamente significativos de la creatinina sérica.
+ Tabla 5.   Reacciones adversas relacionadas con el tratamiento, notificadas en ensayos clínicos en
+cáncer de mama (50 mg/m2 cada 4 semanas) (pacientes tratados con Caelyx)
+clasificadas por gravedad, clasificación de órganos del sistema MedDRA y término preferente
+Muy Frecuentes ( 1/10); Frecuentes ( 1/100, < 1/10); Poco Frecuentes ( 1/1.000, < 1/100)
+Reacciones adversas
+por sistemas
+Infecciones e
+infestaciones
+Frecuentes
+                                                        Faringitis
+Poco frecuentes
+Trastornos de la
+sangre y del sistema
+linfático
+Frecuentes
+ Poco frecuentes
+Trastornos del
+metabolismo y de la
+nutrición
+Muy frecuentes
+                                                        Anorexia
+Frecuentes
+Trastornos
+psiquiátricos
+Frecuentes
+                          Somnolencia
+Poco frecuentes
+Trastornos oculares
+Frecuentes
+Trastornos cardiacos
+Frecuentes
+Trastornos
+respiratorios,
+torácicos y
+mediastínicos
+Frecuentes
+ Trastornos
+gastrointestinales
+Muy Frecuentes
+                              Dolor abdominal,                                            Dolor de boca
+Frecuentes
+ Poco frecuentes
+Trastornos de la piel
+y del tejido
+subcutáneo
+Muy Frecuentes
+                              Sequedad cutánea,                  Rash                     Erupción bullosa,
+Frecuentes
+Poco frecuentes
+Trastornos
+musculoesqueléticos
+y del tejido
+conjuntivo
+Frecuentes
+Trastornos del
+aparato reproductor
+y de la mama
+Frecuentes
+Trastornos generales
+y alteraciones en el
+lugar de
+administración
+Muy Frecuentes
+ Frecuentes
+                                                                 Fatiga, debilidad,
+Poco frecuentes
+*     eritrodisestesia palmo-plantar (Síndrome palmo-plantar)
+ Programa de cáncer de ovario: En los distintos ensayos clínicos, 512 pacientes con cáncer de ovario
+(subgrupo de 876 pacientes con tumores sólidos) fueron tratados con Caelyx a una dosis de 50 mg/m2.
+El listado de reacciones adversas notificadas en pacientes tratados con Caelyx se encuentra en la
+tabla 6.
+                                                           12
+Tabla 6    Reacciones adversas relacionadas con el tratamiento, notificadas en ensayos clínicos de
+cáncer de ovario (50 mg/m2 cada 4 semanas) (pacientes tratados con Caelyx)
+clasificadas por gravedad, clasificación de órganos del sistema MedDRA y término preferente
+Muy Frecuentes ( 1/10); Frecuentes ( 1/100, < 1/10); Poco Frecuentes ( 1/1.000, < 1/100)
+Reacciones adversas
+por sistemas
+ Infecciones e
+infestaciones
+Frecuentes
+                                                 Faringitis
+Poco frecuentes
+Trastornos de la
+sangre y del sistema
+linfático
+Muy frecuentes
+ Frecuentes
+ Trastornos del
+sistema inmunológico
+Frecuentes
+Trastornos del
+metabolismo y de la
+nutrición
+Muy frecuentes
+                                                                            Deshidratación,
+Frecuentes
+Poco frecuentes
+Trastornos
+psiquiátricos
+Frecuentes
+Trastornos del
+sistema nervioso
+Frecuentes
+                                                 Parestesia, somnolencia
+Poco frecuentes
+Trastornos oculares
+Frecuentes
+Trastornos cardiacos
+Frecuentes
+ Trastornos
+vasculares
+Frecuentes
+Trastornos
+respiratorios,
+torácicos y
+mediastínicos
+Frecuentes
+Trastornos
+gastrointestinales
+Muy frecuentes
+                         Dolor abdominal,          Náuseas, estomatitis,       Ulceración en la boca,
+Frecuentes
+                                                   Estreñimiento, dispepsia,
+Poco frecuentes
+Trastornos de la piel
+y del tejido
+subcutáneo
+Muy frecuentes
+                         Sequedad cutánea,         Alopecia, rash              Rash vesiculobulloso,
+Frecuentes
+Trastornos
+musculoesqueléticos
+y del tejido
+conjuntivo
+Frecuentes
+Trastornos renales y
+urinarios
+Frecuentes
+Trastornos del
+aparato reproductor
+y de la mama
+Frecuentes
+ Trastornos generales
+y alteraciones en el
+lugar de
+administración
+Muy Frecuentes
+                              Fiebre, dolor                 Astenia, alteración de   Escalofríos, dolor
+Frecuentes
+Poco frecuentes
+Exploraciones
+complementarias
+Frecuentes
+*     eritrodisestesia palmo-plantar (Síndrome palmo-plantar).
+ La mayoría de los casos de mielosupresión fueron leves o moderados y controlables. Se observaron de
+manera infrecuente (< 1 %) casos de sepsis asociada con leucopenia. En escasas ocasiones (< 5 %) se
+requirió la ayuda de factores estimulantes de colonias y aproximadamente el 15 % de los pacientes
+necesitaron transfusión (ver apartado 4.2).
+ En un subgrupo de 410 pacientes con cáncer de ovario, las alteraciones de laboratorio clínicamente
+significativas ocurridas en ensayos clínicos con Caelyx incluyeron aumentos en la bilirrubina total
+(generalmente en pacientes con metástasis hepáticas) (5 %) y en los niveles de creatinina sérica (5 %).
+Los aumentos en la AST se notificaron menos frecuentemente (< 1 %).
+ Pacientes con tumores sólidos: en una cohorte más amplia de 929 pacientes con tumores sólidos
+(incluidos cáncer de mama y de ovario) tratados en su mayoría con una dosis de 50 mg/m2 cada
+4 semanas, el perfil de seguridad y la incidencia de efectos adversos son comparables a los de los
+pacientes tratados en los ensayos pivotales de cáncer de mama y de ovario.
+ Programa de Mieloma Múltiple: en un ensayo clínico fase III que incluyó a 646 pacientes con
+mieloma múltiple que habían recibido al menos 1 tratamiento previo, 318 pacientes fueron tratados
+con la combinación de 30 mg/m2 de Caelyx en perfusión intravenosa de una hora, administrada el día
+4 tras la administración de bortezomib el cual se administra en dosis de 1,3 mg/m² los días 1, 4, 8, y
+11, cada tres semanas o con bortezomib en monoterapia. Ver la Tabla 7 para las reacciones adversas
+notificadas en  5 % de los pacientes tratados con el tratamiento combinado de Caelyx junto con
+bortezomib.
+ Las reacciones hematológicas notificadas con mayor frecuencia fueron neutropenia, trombocitopenia y
+anemia tanto con el tratamiento combinado de Caelyx junto con bortezomib como con bortezomib en
+monoterapia. La incidencia de neutropenia de grado 3 y 4 fue superior en el grupo que recibía el
+tratamiento combinado que en el grupo al que se administró bortezomib en monoterapia (28 % frente a
+14 %). La incidencia de trombocitopenia de grado 3 y 4 fue superior en el grupo que recibía el
+tratamiento combinado que en el grupo al que se administró bortezomib en monoterapia (22 % frente a
+14 %). La incidencia de anemia fue similar en ambos grupos de tratamiento (7 % frente a 5 %).
+ La estomatitis se notificó más frecuentemente en el grupo que recibía el tratamiento combinado (16 %)
+que en el grupo al que se administró bortezomib en monoterapia (3 %), y la mayoría de los casos
+fueron de gravedad de grado 2 o menor. Se notificó estomatitis de grado 3 en el 2 % de los pacientes
+del grupo que recibía el tratamiento combinado. No se notificó ningún caso de estomatitis de grado 4.
+ Se notificaron náuseas y vómitos más frecuentemente en el grupo que recibía el tratamiento
+combinado (40 % y 28 %) que en el grupo al que se administró bortezomib en monoterapia (32 % y
+15 %) y la mayoría fueron de gravedad de grado 1 y 2.
+ El 38 % de los pacientes interrumpió el tratamiento con uno o ambos medicamentos a consecuencia de
+las reacciones adversas. Las reacciones adversas frecuentes que provocaron la interrupción del
+tratamiento con bortezomib y Caelyx incluyen EPP, neuralgia, neuropatía periférica, neuropatía
+sensorial periférica, trombocitopenia, disminución de la fracción de eyección y fatiga.
+     Tabla 7. Reacciones Adversas Relacionadas con el Tratamiento Notificadas en un Ensayo
+Clínico en Mieloma Múltiple (Caelyx 30 mg/m2 en combinación con bortezomib cada 3 semanas)
+por Gravedad, Clasificación de Órganos del Sistema MedDRA y Término Preferente
+Muy frecuentes ( 1/10); Frecuentes ( 1/100, < 1/10); Poco frecuentes ( 1/1.000, < 1/100)
+Reacciones adversas
+por sistemas
+Infecciones e
+infestaciones
+Frecuentes
+Trastornos de la
+sangre y del sistema
+linfático
+Muy frecuentes
+                         Leucopenia                     Anemia, leucopenia   Neutropenia febril,
+Frecuentes
+Trastornos del
+metabolismo y de la
+nutrición
+Muy frecuentes
+                         Disminución del apetito        Anorexia             Deshidratación,
+Frecuentes
+Poco frecuentes
+Trastornos
+psiquiátricos
+Frecuentes
+ Trastornos del
+sistema nervioso
+Muy frecuentes
+                                                      Neuralgia,              Letargia, hipoestesia,
+Frecuentes
+                                                      Cefalea, neuropatía
+Poco frecuentes
+ Trastornos oculares
+Frecuentes
+Trastornos
+vasculares
+Frecuentes
+ Trastornos
+respiratorios,
+torácicos y
+mediastínicos
+Frecuentes
+                                                        Disnea
+Poco frecuentes
+Trastornos
+gastrointestinales
+Muy frecuentes
+                                                        Náuseas, diarrea,      Dolor abdominal superior,
+Frecuentes
+                                                        Estreñimiento, dolor
+Poco frecuentes
+Trastornos de la piel
+y del tejido
+subcutáneo
+Muy frecuentes
+                         Sequedad cutánea               EPP*                   Prurito, rash papular,
+Frecuentes
+Poco frecuentes
+ Trastornos
+musculoesqueléticos
+y del tejido
+conjuntivo
+Frecuentes
+Trastornos del
+aparato reproductor
+y de la mama
+Frecuentes
+ Trastornos generales
+y alteraciones en el
+lugar de
+administración
+Muy frecuentes
+                                                                 Astenia, fatiga           Edema periférico,
+Frecuentes
+                                                                 Pirexia
+Poco frecuentes
+Exploraciones
+complementarias
+Frecuentes
+*     Eritrodisestesia palmo-plantar (síndrome mano-pie).
+**    Las reacciones adversas de grado 3/4 se basan en las reacciones adversas de todos los niveles de gravedad con una
+incidencia global  5 % (ver las reacciones adversas mencionadas en la primera columna).
+ Programa de SK-SIDA: Ensayos clínicos en pacientes con SK-SIDA tratados con 20 mg/m2 de Caelyx
+muestran que la mielosupresión fue la reacción adversa más frecuente que se consideró relacionada
+con Caelyx, apareciendo muy frecuentemente (en aproximadamente la mitad de los pacientes).
+ La leucopenia es la reacción adversa más frecuente experimentada con Caelyx en esta población;
+también se han observado neutropenia, anemia y trombocitopenia. Estos acontecimientos pueden
+ocurrir al principio del tratamiento. La toxicidad hematológica puede requerir una reducción de la
+dosis o una interrupción o retraso del tratamiento. Se deberá interrumpir de forma temporal el
+tratamiento con Caelyx en los pacientes cuando el recuento absoluto de neutrófilos sea
+< 1.000/mm3 y/o el recuento plaquetario < 50.000/mm3. Cuando el recuento absoluto de neutrófilos
+sea < 1.000/mm3 puede administrarse G-CSF (ó GM-CSF) en los ciclos posteriores como terapia
+concomitante para mantener el recuento sanguíneo. La toxicidad hematológica en los pacientes con
+cáncer de ovario es menos severa que la observada en el SK-SIDA (ver la sección para los pacientes
+con cáncer de ovario más arriba).
+ En estudios clínicos con Caelyx aparecieron frecuentemente reacciones adversas respiratorias que
+pueden estar relacionadas con infecciones oportunistas en la población afectada de SIDA. Las
+infecciones oportunistas (IO) se observaron en pacientes con SK tras la administración de Caelyx y se
+observan de forma frecuente en pacientes con inmunodeficiencia inducida por VIH. Las IO más
+frecuentemente observadas en estudios clínicos fueron candidiasis, citomegalovirus, herpes simplex,
+neumonía por Pneumocystis carinii y el complejo mycobacterium avium.
+ Las reacciones adversas observadas en pacientes con SK-SIDA según las categorías de frecuencia
+CIOMS III (Muy frecuentes (> 1/10); Frecuentes (> 1/100, < 1/10); Poco frecuentes (> 1/1.000,
+< 1/100)) fueron las siguientes:
+ Infecciones e infestaciones:
+Frecuentes: moniliasis oral
+ Trastornos de la sangre y del sistema linfático:
+Muy frecuentes: neutropenia, anemia, leucopenia
+Frecuentes: trombocitopenia
+                                                            19
+Trastornos del metabolismo y de la nutrición:
+Frecuentes: anorexia
+ Trastornos psiquiátricos:
+Poco frecuentes: confusión
+ Trastornos del sistema nervioso:
+Frecuentes: mareo
+Poco frecuentes: parestesia
+ Trastornos oculares:
+Frecuentes: retinitis
+ Trastornos vasculares:
+Frecuentes: vasodilatación
+ Trastornos respiratorios, torácicos y mediastínicos:
+Frecuentes: disnea
+ Trastornos gastrointestinales:
+Muy frecuentes: náuseas
+Frecuentes: diarrea, estomatitis, vómitos, ulceración en la boca, dolor abdominal, glositis,
+estreñimiento, náuseas y vómitos
+ Trastornos de la piel y del tejido subcutáneo:
+Frecuentes: alopecia, rash
+Poco frecuentes: eritrodisestesia palmo-plantar (EPP)
+ Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes: astenia, fiebre, reacciones agudas asociadas a la perfusión
+ Exploraciones complementarias:
+Frecuentes: pérdida de peso.
+ Otras reacciones adversas observadas menos frecuentemente (< 5 %) incluyeron reacciones de
+hipersensibilidad incluyendo reacciones anafilácticas. Después de la comercialización, se han
+notificado raramente casos de erupción bullosa.
+ Se han notificado frecuentemente ( 5 %) alteraciones significativas de las pruebas clínicas de
+laboratorio entre las que se incluyen incrementos en la fosfatasa alcalina, AST y bilirrubina; se creía
+que estas reacciones estaban relacionadas con la enfermedad subyacente y no con Caelyx. De forma
+menos frecuente (< 5 %) se han notificado disminuciones en los niveles de hemoglobina y en el
+número de plaquetas. Raramente (< 1 %) se observó sepsis relacionada con leucopenia. Algunas de
+estas anormalidades se pueden haber relacionado con la infección VIH subyacente y no con Caelyx.
+ Todos los pacientes: En 100 de los 929 pacientes (10,8 %) con tumores sólidos se describió una
+reacción asociada a la perfusión durante el tratamiento con Caelyx definida bajo los siguientes
+términos: reacción alérgica, reacción anafilactoide, asma, edema facial, hipotensión, vasodilatación,
+urticaria, dolor de espalda, dolor torácico, escalofríos, fiebre, hipertensión, taquicardia, dispepsia,
+náuseas, mareo, disnea, faringitis, rash, prurito, sudoración, reacción en el punto de inyección e
+interacción farmacológica. El 2 % de los pacientes interrumpieron el tratamiento. En el programa de
+cáncer de mama se observó una incidencia similar de reacciones a la perfusión (12,4 %) y de
+interrupción del tratamiento (1,5 %). En pacientes con mieloma múltiple que recibieron Caelyx junto
+con bortezomib, se han notificado reacciones adversas asociadas a la perfusión con una frecuencia del
+3 %. En los pacientes con SK-SIDA, las reacciones asociadas a la perfusión se caracterizaron por
+enrojecimiento facial, dificultad al respirar, edema facial, cefalea, escalofríos, dolor de espalda,
+opresión en el pecho y garganta y/o hipotensión y su frecuencia de aparición fue del 5 % al 10 %. En
+relación con las reacciones a la perfusión se han observado convulsiones muy raramente. Las
+reacciones asociadas a la perfusión ocurrieron principalmente durante la primera perfusión. La
+interrupción temporal de la perfusión generalmente revierte estos síntomas sin necesidad de terapia
+posterior. El tratamiento con Caelyx se puede continuar en casi todos los pacientes una vez que todos
+los síntomas se hayan resuelto sin que los mismos recurran. Las reacciones a la perfusión raramente
+vuelven a producirse después del primer ciclo de tratamiento con Caelyx (ver apartado 4.2).
+ Se ha notificado en pacientes tratados con Caelyx mielosupresión asociada con anemia,
+trombocitopenia, leucopenia y raramente neutropenia febril.
+ Se ha notificado estomatitis en pacientes que recibieron perfusiones continuas de doxorubicina
+clorhidrato convencional; esta reacción se ha notificado de forma frecuente en pacientes que recibieron
+Caelyx. La aparición de la reacción no impidió a los pacientes terminar el tratamiento y generalmente
+no requiere ajuste de la dosis, salvo en los casos en los que la estomatitis afecte la capacidad de comer
+del paciente. En este caso, el intervalo de dosis se puede ampliar 1-2 semanas o bien se puede reducir
+la dosis (ver apartado 4.2).
+ La terapia con doxorubicina a dosis acumuladas de por vida > 450 mg/m2 o a dosis menores en
+pacientes con factores de riesgo cardíaco está asociada con una elevada incidencia de insuficiencia
+cardíaca congestiva. Las biopsias endomiocárdicas de nueve de los diez pacientes con SK-SIDA que
+recibieron dosis acumuladas de Caelyx mayores a 460 mg/m2 demostraron ausencia de cardiomiopatía
+inducida por antraciclinas. La dosis recomendada de Caelyx para los pacientes con SK-SIDA es de
+20 mg/m2 cada dos a tres semanas. La dosis acumulada a la que la cardiotoxicidad empezaría a ser
+preocupante en estos pacientes con SK-SIDA (> 400 mg/m2) requeriría más de 20 ciclos de terapia con
+Caelyx durante 40 a 60 semanas.
+ Además, se realizaron biopsias endomiocárdicas en 8 pacientes con tumor sólido con dosis
+acumuladas de antraciclina de 509 mg/m2 ­ 1.680 mg/m2. El intervalo de las puntuaciones de
+cardiotoxicidad de Billingham fue de grados 0 - 1,5. Estos grados de afectación están de acuerdo con
+una toxicidad cardíaca leve o ausencia de ella.
+ En el ensayo pivotal fase III frente a doxorubicina, 58 de los 509 (11,4 %) pacientes aleatorizados
+(10 tratados con Caelyx a una dosis de 50 mg/m2/cada 4 semanas frente a 48 tratados con doxorubicina
+a una dosis de 60 mg/m2/cada 3 semanas) cumplieron los criterios de toxicidad cardíaca definidos en el
+protocolo durante el tratamiento y/o el seguimiento. Se definió la toxicidad cardíaca como una
+disminución en 20 puntos o más del valor basal si la FEVI en reposo permanecía en el rango normal o
+una disminución en 10 puntos o más si la FEVI llegaba a ser anormal (por debajo del límite inferior de
+la normalidad). Ninguno de los 10 pacientes tratados con Caelyx que tuvieron toxicidad cardíaca
+según los criterios de la FEVI desarrollaron signos y síntomas de insuficiencia cardíaca congestiva. En
+contraste, 10 de los 48 pacientes tratados con doxorubicina que tuvieron toxicidad cardíaca según los
+criterios de la FEVI desarrollaron signos y síntomas de insuficiencia cardíaca congestiva.
+ En pacientes con tumores sólidos, incluyendo un subgrupo de pacientes con cáncer de mama y de
+ovario, tratados a una dosis de 50 mg/m2/ciclo con dosis acumuladas de por vida de antraciclina hasta
+1.532 mg/m2, la incidencia de alteración cardíaca clínicamente significativa fue baja. De los
+418 pacientes tratados con 50 mg/m2/ciclo de Caelyx, y con una medida basal de la fracción de
+eyección ventricular izquierda (FEVI) y por lo menos una medida de seguimiento evaluada mediante
+ventriculografía isotópica (FEVI), 88 pacientes recibieron una dosis acumulada de antraciclina
+> 400 mg/m2, nivel de exposición asociado con un aumento del riesgo de toxicidad cardiovascular con
+doxorubicina convencional. Sólo 13 de estos 88 pacientes (15 %) presentaron una alteración en su
+FEVI clínicamente significativa, definida como un valor de FEVI menor del 45 % o una disminución
+de por lo menos 20 puntos respecto al basal. Además, sólo 1 paciente (dosis acumulada de antraciclina
+de 944 mg/m2), interrumpió el tratamiento del estudio por síntomas clínicos de insuficiencia cardíaca
+congestiva.
+ Al igual que con otros agentes antineoplásicos susceptibles de lesionar el ADN, se han notificado
+                                                    21
+mielodisplasias y leucemias mieloides agudas secundarias en pacientes que habían recibido
+tratamiento combinado con doxorubicina. Por lo tanto, se deberá mantener bajo supervisión
+hematológica cualquier paciente tratado con doxorubicina.
+ Aunque muy raramente se ha notificado necrosis local tras la extravasación, Caelyx se considera un
+agente irritante. Estudios en animales indican que la administración de doxorubicina clorhidrato como
+una formulación liposomal reduce el potencial de lesión por extravasación. Si aparece cualquier signo
+o síntoma de extravasación (por ejemplo, escozor, eritema) se debe detener inmediatamente la
+perfusión y reanudarla en otra vena. Puede ser útil la aplicación de hielo sobre el lugar de la
+extravasación durante aproximadamente 30 minutos para aliviar la reacción local. No se debe
+administrar Caelyx por vía intramuscular o subcutánea.
+ La reactivación de la reacción cutánea debida a radioterapia previa raramente ha tenido lugar con la
+administración de Caelyx.
+ Tras la comercialización de Caelyx, muy raramente se han notificado alteraciones cutáneas graves,
+incluido eritema multiforme, síndrome de Stevens Johnson y necrólisis epidérmica tóxica.
+ En pacientes tratados con Caelyx, se han observado de forma poco frecuente casos de
+tromboembolismo venoso, incluyendo tromboflebitis, trombosis venosa y embolismo pulmonar. No
+obstante, como los pacientes con cáncer presentan un mayor riesgo de enfermedad tromboembólica,
+no se puede establecer una relación de causalidad.
+ 4.9   Sobredosis
+ La sobredosificación aguda de doxorubicina clorhidrato empeora los efectos tóxicos de la mucositis,
+leucopenia y trombocitopenia. El tratamiento de la sobredosis aguda del paciente intensamente
+mielosuprimido consiste en hospitalización, antibióticos, transfusiones de plaquetas y granulocitos y
+tratamiento sintomático de la mucositis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Agentes citotóxicos (antraciclinas y sustancias relacionadas), código ATC:
+L01DB
+ El principio activo de Caelyx es doxorubicina clorhidrato, un antibiótico antraciclínico citotóxico
+obtenido a partir de Streptomyces peucetius var. caesius. No se conoce el mecanismo exacto de la
+actividad antitumoral de la doxorubicina. Se cree que la inhibición del ADN, del ARN y de la síntesis
+proteica es la responsable de la mayor parte del efecto citotóxico. Esto probablemente sea el resultado
+de la intercalación de la antraciclina entre pares de bases adyacentes de la doble hélice del ADN,
+impidiendo por consiguiente su desenrollamiento para la replicación.
+ Un estudio aleatorizado fase III de Caelyx frente a doxorubicina en pacientes con cáncer de mama
+metastásico fue finalizado en 509 pacientes. Se cumplió el objetivo especificado en el protocolo de
+demostrar no inferioridad entre Caelyx y doxorubicina, el hazard ratio para la supervivencia libre de
+progresión fue 1,00 (95 % IC para el hazard ratio = 0,82 - 1,22). Cuando se ajustó para las variables de
+pronóstico, el hazard ratio del tratamiento fue consistente con la supervivencia libre de progresión para
+la población analizada por intención de tratar.
+ El análisis primario de la toxicidad cardíaca mostró que el riesgo de desarrollar un acontecimiento
+cardíaco dependiente de la dosis acumulada de antraciclina fue significativamente menor con Caelyx
+que con doxorubicina (relación de riesgo = 3,16, p < 0,001). A dosis acumuladas superiores a
+450 mg/m2 no se produjeron acontecimientos cardíacos con Caelyx.
+ Un estudio fase III comparativo de Caelyx frente a topotecan se ha concluido en 474 pacientes con
+cáncer epitelial de ovario después de fracasar la quimioterapia de primera línea con platino. Se
+observó un beneficio en la supervivencia global para los pacientes tratados con Caelyx sobre los
+pacientes tratados con topotecan indicado por un hazard ratio de 1,216 (95 % CI; 1,000, 1,478),
+p=0,050. Las tasas de supervivencia con Caelyx a 1, 2 y 3 años fueron 56,3 %, 34,7 % y 20,2 %
+respectivamente, frente a 54,0 %, 23,6 % y 13,2 % con topotecan.
+ En el subgrupo de pacientes con enfermedad sensible al platino la diferencia fue mayor: hazard ratio
+de 1,432 (95 % CI; 1,066, 1,923), p=0,017. Las tasas de supervivencia con Caelyx a 1, 2 y 3 años
+fueron 74,1 %, 51,2 % y 28,4 % respectivamente, frente a 66,2 %, 31,0 % y 17,5 % con topotecan.
+ En el subgrupo de pacientes con enfermedad refractaria al platino los tratamientos fueron similares:
+hazard ratio de 1,069 (95 % CI; 0,823, 1,387), p=0,618. Las tasas de supervivencia con Caelyx a 1, 2 y
+3 años fueron 41,5 %, 21,1 % y 13,8 % respectivamente, frente a 43,2 %, 17,2 % y 9,5 % con
+topotecan.
+ En un ensayo fase III aleatorizado, paralelo, abierto, multicéntrico, llevado a cabo en 646 pacientes
+con mieloma múltiple que habían recibido al menos 1 tratamiento previo y que no habían progresado
+al recibir un tratamiento basado en antraciclinas, se comparó la seguridad y la eficacia de la
+combinación de Caelyx más bortezomib con respecto a bortezomib en monoterapia. Se observó una
+mejoría significativa en la variable principal de eficacia, tiempo hasta progresión (THP), en los
+pacientes tratados con la combinación de Caelyx más bortezomib en comparación con aquellos
+tratados con bortezomib en monoterapia, tal y como indica la reducción del riesgo (RR) del 35 %
+(95 % IC; 21-47 %), p < 0,0001, basada en 407 eventos definidos como THP. La mediana del THP fue
+de 6,9 meses para los pacientes que recibieron bortezomib en monoterapia en comparación con
+8,9 meses para los pacientes que recibieron la combinación de Caelyx más bortezomib. Un análisis
+intermedio definido en el protocolo (basado en 249 eventos definidos como THP) provocó la
+finalización precoz del ensayo en cuanto a eficacia. Este análisis intermedio mostró una reducción del
+riesgo de THP del 45 % (95 % IC; 29-57 %), p < 0,0001. La mediana del THP fue de 6,5 meses para
+los pacientes con bortezomib en monoterapia en comparación con 9,3 meses para los pacientes que
+recibían la combinación de Caelyx más bortezomib. Estos resultados, aunque no son definitivos,
+constituyen el análisis final definido en el protocolo.
+ 5.2   Propiedades farmacocinéticas
+ Caelyx es una formulación liposomal pegilada de doxorubicina clorhidrato de larga permanencia en la
+circulación sanguínea. Los liposomas pegilados contienen segmentos del polímero hidrofílico
+metoxipolietilenglicol (MPEG) unidos a su superficie. Estos grupos de MPEG lineal se extienden
+desde la superficie del liposoma creando una capa protectora que reduce las interacciones entre la
+membrana bifásica lipídica y los componentes del plasma. Esto permite que los liposomas de Caelyx
+circulen durante períodos prolongados de tiempo por el flujo sanguíneo. Los liposomas pegilados son
+lo suficientemente pequeños (diámetro medio de aproximadamente 100 nm) como para que pasen
+intactos (extravasación) a través de los vasos sanguíneos defectuosos que riegan los tumores. La
+penetración de los liposomas pegilados desde los vasos sanguíneos y su entrada y acumulación en
+tumores, ha sido comprobada en ratones con tumores de carcinoma de colon C-26 y en ratones
+transgénicos con lesiones de tipo SK. Los liposomas pegilados también tienen una matriz lipídica de
+baja permeabilidad y un sistema regulador acuoso interno que se combinan para mantener la
+doxorubicina clorhidrato encapsulada durante el tiempo de permanencia del liposoma en circulación.
+ La farmacocinética plasmática de Caelyx en humanos difiere de forma significativa de la presentada
+en la bibliografía para los preparados de doxorubicina clorhidrato estándar. Caelyx presentó una
+farmacocinética lineal a dosis más bajas (10 mg/m2 ­ 20 mg/m2). En el intervalo de dosis de
+10 mg/m2 ­ 60 mg/m2 Caelyx presentó una farmacocinética no lineal. La doxorubicina clorhidrato
+estándar presenta una distribución en tejido extensa (volumen de distribución de entre
+700 a 1.100 l/m2) y un rápido aclaramiento de eliminación (de 24 a 73 l/h/m2). En contraste, el perfil
+farmacocinético de Caelyx indica que Caelyx se restringe principalmente al volumen de fluido
+vascular y que el aclaramiento de doxorubicina de la sangre depende del portador liposomal. La
+                                                    23
+doxorubicina se hace disponible una vez que los liposomas se extravasan y penetran en el
+compartimento tisular.
+ A dosis equivalentes, la concentración plasmática y los valores de AUC de Caelyx que representan
+principalmente la doxorubicina clorhidrato liposomal pegilada (conteniendo del 90 % al 95 % de la
+doxorubicina medida) son significativamente superiores con respecto a los alcanzados con los
+preparados de doxorubicina clorhidrato estándar.
+ Caelyx no deberá utilizarse de manera intercambiable con otras formulaciones de doxorubicina
+clorhidrato.
+ Farmacocinética poblacional
+La farmacocinética de Caelyx se evaluó en 120 pacientes de 10 ensayos clínicos diferentes utilizando
+el enfoque de la farmacocinética poblacional. La descripción mejor de la farmacocinética de Caelyx en
+el intervalo de dosis de 10 mg/m2 a 60 mg/m2 fue el modelo no lineal bicompartimental con cinética de
+orden cero y eliminación de Michaelis-Menten. El aclaramiento intrínseco medio de Caelyx fue
+0,030 l/h/m2 (intervalo 0,008 a 0,152 l/h/m2) y el volumen de distribución central medio fue
+1,93 l/m2 (intervalo 0,96 ­ 3,85 l/m2) aproximándose al volumen plasmático. La semivida aparente
+osciló entre 24 ­ 231 horas, con una media de 73,9 horas.
+ Pacientes con cáncer de mama
+La farmacocinética de Caelyx determinada en 18 pacientes con carcinoma de mama fue similar a la
+farmacocinética determinada en la población más grande de 120 pacientes con varios cánceres. El
+aclaramiento intrínseco medio fue 0,016 l/h/m2 (intervalo 0,008 - 0,027 l/h/m2), el volumen de
+distribución central medio fue 1,46 l/m2 (intervalo 1,10 - 1,64 l/m2). La media aparente de la semivida
+fue 71,5 horas (intervalo 45,2 - 98,5 horas).
+ Pacientes con cáncer de ovario
+La farmacocinética de Caelyx determinada en 11 pacientes con carcinoma ovárico fue similar a la
+farmacocinética determinada en una población más grande de 120 pacientes con diversos cánceres. El
+aclaramiento intrínseco medio fue 0,021 l/h/m2 (intervalo 0,009 ­ 0,041 l/h/m2), el volumen central
+medio de distribución fue 1,95 l/m2 (intervalo 1,67 ­ 2,40 l/m2). La semivida aparente media fue
+75,0 horas (intervalo 36,1 ­ 125 horas).
+ Pacientes con SK-SIDA
+La farmacocinética plasmática de Caelyx se evaluó en 23 pacientes con SK, que recibieron dosis
+únicas de 20 mg/m2 vía perfusión de 30 minutos. Los parámetros farmacocinéticos de Caelyx
+(representando principalmente doxorubicina clorhidrato liposomal pegilada y niveles bajos de
+doxorubicina clorhidrato sin encapsular) que se observaron después de las dosis de 20 mg/m2 se
+presentan en la Tabla 8.
+       Tabla 8.    Parámetros Farmacocinéticos en Pacientes con SK-SIDA Tratados con Caelyx
+                                                                            Media ± Error estándar
+                                                                                20 mg/m2 (n=23)
+Parámetro
+             Concentración Plasmática Máxima* (µg/ml)                              8,34 ± 0,49
+Aclaramiento Plasmático (l/h/m²)                                    0,041 ± 0,004
+Volumen de Distribución (l/m²)                                       2,72 ± 0,120
+AUC (µg/mlh)
+1 semivida (horas)
+2 semivida (horas)
+*Medida al final de una perfusión de 30 minutos
+ 5.3     Datos preclínicos sobre seguridad
+                                                               24
+En estudios con dosis repetidas realizados en animales, el perfil de toxicidad de Caelyx parece ser muy
+similar al presentado en humanos sometidos a perfusiones de larga duración de doxorubicina
+clorhidrato estándar. En Caelyx la encapsulación de doxorubicina clorhidrato en liposomas pegilados
+hace que estos efectos difieran en intensidad de la siguiente manera.
+ Cardiotoxicidad: Estudios en conejo han mostrado que la cardiotoxicidad de Caelyx es reducida
+comparada con los preparados de doxorubicina clorhidrato convencionales.
+ Toxicidad dérmica: En estudios realizados tras la administración repetida de Caelyx a la rata y el
+perro, se observaron inflamaciones dérmicas graves y formaciones ulcerosas con dosis clínicamente
+relevantes. En el estudio en el perro, la aparición y gravedad de estas lesiones se redujo disminuyendo
+la dosis o prolongando los intervalos entre dosis. Se observaron también lesiones dérmicas similares
+que se describen como eritrodisestesia palmo-plantar en pacientes tras perfusión intravenosa de larga
+duración (ver apartado 4.8).
+ Respuesta anafilactoide: Durante estudios toxicológicos con dosis repetidas en el perro, se observó
+una respuesta aguda caracterizada por hipotensión, palidez de mucosas, salivación, emesis y períodos
+de hiperactividad seguidos por hipoactividad y letargo, tras la administración de liposomas pegilados
+(placebo). Una respuesta similar pero menos grave se observó también en perros tratados con Caelyx y
+doxorubicina estándar.
+ La respuesta hipotensiva se redujo en magnitud mediante el pretratamiento con antihistamínicos. No
+obstante, la respuesta no amenazó la vida y los perros se recuperaron rápidamente una vez
+discontinuado el tratamiento.
+ Toxicidad local: Estudios de tolerancia subcutánea indican que Caelyx en comparación con
+doxorubicina clorhidrato estándar, causa una menor irritación local o daño al tejido tras una posible
+extravasación.
+ Mutagenicidad y carcinogenicidad: Aunque no se han realizado estudios con Caelyx la doxorubicina
+clorhidrato, el componente farmacológicamente activo de Caelyx es mutagénico y carcinogénico. Los
+liposomas placebo pegilados no son ni mutagénicos ni genotóxicos.
+ Toxicidad reproductiva: Caelyx provocó atrofia testicular y ovárica de leve a moderada en el ratón tras
+una dosis única de 36 mg/kg. Se presentaron hipospermia y pesos testiculares disminuidos en la rata
+tras dosis repetidas  0,25 mg/kg/día y se observó degeneración difusa de los túbulos seminíferos y
+una marcada disminución de la espermatogénesis en el perro tras dosis repetidas de 1 mg/kg/día (ver apartado 4.6).
+ Nefrotoxicidad: Un estudio ha demostrado que Caelyx a una dosis intravenosa única por encima del
+doble de la dosis clínica produce toxicidad renal en el mono. Se ha observado toxicidad renal en la rata
+y el conejo con dosis únicas de doxorubicina HCl incluso menores. Como la valoración de la base de
+datos de seguridad después de la comercialización de Caelyx en pacientes no ha sugerido
+responsabilidad significativa de Caelyx en la nefrotoxicidad, estos hallazgos en el mono pueden no
+tener relevancia en la evaluación del riesgo para el paciente.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ -(2-[1,2-distearoil-sn-glicero(3)fosfooxi]etilcarbamoil)--metoxipoli(oxietilen)-40 sal sódica
+(MPEG-DSPE)
+fosfatidilcolina de soja totalmente hidrogenada (HSPC)
+colesterol
+sulfato de amonio
+sacarosa
+histidina
+agua para preparaciones inyectables
+ácido clorhídrico
+hidróxido de sodio
+ 6.2   Incompatibilidades
+ Este medicamento no debe mezclarse con otros excepto con los mencionados en la sección 6.6.
+ 6.3   Periodo de validez
+ 20 meses
+ Después de la dilución:
+-    Se comprobó la estabilidad química y física durante su utilización, por un periodo de 24 horas
+entre 2°C y 8°C.
+-    Desde un punto de vista microbiológic
+ 
+	Prospectos de medicamentos.

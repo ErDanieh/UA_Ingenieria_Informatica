@@ -1,0 +1,882 @@
+MABTHERA 500 MG 1 VIAL 50 ML
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	MabThera 100 mg (10 mg/ml) concentrado para solución para perfusión
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada solución contiene 10 mg/ml de Rituximab
+ Cada vial monodosis contiene 100 mg de Rituximab
+ Rituximab es un anticuerpo monoclonal quimérico murino/humano, obtenido por ingeniería genética,
+que representa una inmunoglobulina glucosilada con las regiones constantes de la IgG1 humana y las
+secuencias de la región variable de las cadenas ligeras y cadenas pesadas murinas. Este anticuerpo se
+produce a partir de un cultivo en suspensión de células de mamífero (células de ovario de hámster
+chino) y se purifica mediante cromatografía de afinidad y de intercambio iónico, incluyendo
+procedimientos específicos de inactivación y de eliminación viral.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Concentrado para solución para perfusión.
+ MabThera es un líquido transparente e incoloro.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Linfoma no-Hodgkin (LNH)
+ MabThera está indicado en combinación con quimioterapia en el tratamiento de pacientes con linfoma
+no-Hodgkin folicular estadio III-IV que no hayan sido tratados previamente.
+ MabThera está indicado en el tratamiento de mantenimiento de pacientes con linfoma no-Hodgkin
+folicular en recidiva o refractario que respondan a la terapia de inducción con quimioterapia sola o en
+combinación con MabThera.
+ MabThera en monoterapia está indicado en el tratamiento de pacientes con linfoma no-Hodgkin
+folicular estadio III-IV que son quimiorresistentes o están en su segunda o posterior recidiva tras la
+quimioterapia.
+ MabThera está indicado en combinación con quimioterapia CHOP (ciclofosfamida, doxorubicina,
+vincristina, prednisolona) en el tratamiento de pacientes con linfoma no-Hodgkin difuso de células B
+grandes CD20 positivas.
+ Para más información ver sección 5.1.
+ Artritis reumatoide
+ MabThera, en combinación con metotrexato, está indicado para el tratamiento de pacientes adultos
+con artritis reumatoide activa grave que hayan presentado una respuesta inadecuada o intolerancia a
+                                                     2
+otros fármacos antirreumáticos modificadores de la enfermedad (FAMEs), incluyendo uno o más
+tratamientos con inhibidores del factor de necrosis tumoral (TNF).
+ 4.2   Posología y forma de administración
+ Las perfusiones de MabThera deben administrarse bajo la estrecha supervisión de un médico con
+experiencia, y en un entorno que disponga de forma inmediata de un equipo completo de reanimación.
+ Posología
+ Linfoma no-Hodgkin
+ Se debe considerar la premedicación con glucocorticoides si MabThera no se va a administrar en
+combinación con quimioterapia que incluya glucocorticoides para el tratamiento del linfoma no-
+Hodgkin.
+ Primera perfusión
+La velocidad inicial recomendada para la perfusión es 50 mg/h, después de los primeros 30 minutos se
+puede aumentar en intervalos de 50 mg/h cada 30 minutos, hasta un máximo de 400 mg/h.
+ Siguientes perfusiones
+Las siguientes dosis de MabThera pueden ser perfundidas a una velocidad inicial de 100 mg/h, que
+puede incrementarse en intervalos de 100 mg/h cada 30 minutos, hasta un máximo de 400 mg/h.
+ Ajuste de dosis durante el tratamiento
+No están recomendadas las reducciones de dosis de MabThera. Cuando MabThera se administre en
+combinación con quimioterapia, se deben aplicar las reducciones de dosis estándar a la quimioterapia.
+ Linfoma no-Hodgkin folicular
+ Terapia combinada
+Para el tratamiento de inducción en pacientes con linfoma no-Hodgkin folicular en recidiva o
+refractario o que no hayan sido previamente tratados, la posología recomendada de MabThera en
+combinación con quimioterapia es de 375 mg/m2 de superficie corporal por ciclo, hasta 8 ciclos.
+MabThera debe ser administrado el día 1 de cada ciclo de quimioterapia, después de la administración
+intravenosadel componente glucocorticoide de la quimioterapia, si procede.
+ Monoterapia/Mantenimiento
+La posología recomendada de MabThera, cuando se utiliza para el tratamiento de mantenimiento en
+pacientes con linfoma no-Hodgkin folicular en recidiva o refractario que hayan respondido a la
+quimioterapia de inducción con o sin MabThera, es de 375 mg/m2 de superficie corporal una vez cada
+3 meses hasta progresión de la enfermedad o hasta un periodo máximo de dos años.
+ La posología recomendada de MabThera en monoterapia usado como tratamiento de inducción en
+pacientes adultos con linfoma folicular estadio III-IV que sean quimiorresistentes o estén en su
+segunda o subsiguientes recidivas tras la quimioterapia es de 375 mg/m2 de superficie corporal
+administrada en forma de perfusión intravenosa una vez por semana durante cuatro semanas.
+ La posología recomendada para repetir el tratamiento con MabThera en monoterapia en pacientes con
+linfoma no-Hodgkin folicular en recidiva o refractario que ya habían respondido a un tratamiento
+previo con MabThera en monoterapia es de 375 mg/m2 de superficie corporal administrada en forma
+de perfusión intravenosa una vez por semana durante cuatro semanas (ver apartado 5.1).
+ Linfoma no-Hodgkin difuso de células B grandes
+MabThera debe usarse en combinación con quimioterapia CHOP. La posología recomendada es de
+375 mg/m2 de superficie corporal el primer día de cada ciclo de quimioterapia, durante 8 ciclos, tras la
+perfusión intravenosa del componente glucocorticoide de CHOP. No se han establecido la seguridad y
+ eficacia de la combinación de MabThera con otras quimioterapias en el linfoma no-Hodgkin difuso de
+células B grandes.
+ Artritis reumatoide
+ Cada ciclo de MabThera se compone de dos perfusiones intravenosas de 1.000 mg. La dosis
+recomendada de MabThera es de 1.000 mg en perfusión intravenosa, seguida, dos semanas más tarde,
+de una segunda perfusión intravenosa de 1.000 mg.
+ La actividad de la enfermedad se debe monitorizar periódicamente. Existen datos clínicos limitados
+sobre la seguridad y eficacia con más ciclos de tratamiento con MabThera. En un pequeño estudio de
+cohortes observacional, aproximadamente 600 pacientes que presentaban evidencias de actividad
+continuada de la enfermedad se repitió el tratamiento con 2-5 ciclos a los 6 a 12 meses después del
+ciclo anterior (ver secciones 4.8 y 5.1).
+Algunos pacientes han desarrollado anticuerpos humanos anti-quiméricos (HACA) después del primer
+ciclo de tratamiento (ver apartado 5.1). La presencia de los HACA puede estar asociada con un
+agravamiento de las reacciones relacionadas con la perfusión o de las reacciones alérgicas después de
+la segunda perfusión de los ciclos siguientes. Además, en un caso con HACA, se ha observado fallo en
+la depleción de células B después de recibir más ciclos de tratamiento. Por tanto, el balance
+beneficio/riesgo de la terapia con MabThera debe ser cuidadosamente considerado antes de
+administrar los siguientes ciclos de MabThera. Si se considera repetir un ciclo de tratamiento, no se
+debe administrar a intervalos menores de 16 semanas.
+Durante el tratamiento con MabThera se puede continuar con el tratamiento base glucocorticoides,
+salicilatos, antiinflamatorios no esteroideos o analgésicos.
+ Los pacientes con artritis reumatoide deben recibir tratamiento con 100 mg de metilprednisolona
+intravenosa30 minutos antes de MabThera para reducir la incidencia y la gravedad de las reacciones
+agudas a la perfusión (ver Forma de administración).
+ Primera perfusión de cada ciclo
+La velocidad inicial recomendada de la perfusión es de 50 mg/h, y después de los primeros 30 minutos
+se puede aumentar, en incrementos de 50 mg/h cada 30 minutos, hasta un máximo de 400 mg/h.
+ Segunda perfusión de cada ciclo
+Las dosis posteriores de MabThera se pueden perfundir con una velocidad inicial de 100 mg/h, y
+aumentar, en incrementos de 100 mg/h cada 30 minutos, hasta un máximo de 400 mg/h.
+ Poblaciones especiales
+ Uso en pediatría
+MabThera no está recomendado para uso en niños y adolescentes debido a la ausencia de datos sobre
+seguridad y eficacia.
+ Ancianos
+No se requiere ajustar la dosis en los pacientes ancianos (> 65 años).
+ Forma de administración
+ La solución preparada de MabThera debe administrarse como perfusión intravenosa empleando una
+vía específica. Las soluciones preparadas no deben administrarse en perfusión rápida o en bolo
+intravenoso.
+ Siempre se debe administrar premedicación consistente en un antipirético y un medicamento
+antihistamínico ej. paracetamol y difenhidramina, antes de cada perfusión de MabThera. También se
+debe considerar la premedicación con glucocorticoides (ver posología).
+ Los pacientes deben ser estrechamente monitorizados para detectar el inicio de un síndrome de
+liberación de citoquinas (ver apartado 4.4). Se debe interrumpir inmediatamente la perfusión en
+aquellos pacientes que muestren evidencia de reacciones graves, especialmente disnea grave,
+broncoespasmo o hipoxia. En los pacientes con linfoma no-Hodgkin se debe evaluar posteriormente la
+evidencia de síndrome de lisis tumoral incluyendo pruebas de laboratorio adecuadas, y la evidencia de
+infiltración pulmonar por radiología torácica. En ningún paciente debe reiniciarse la perfusión hasta la
+remisión completa de todos los síntomas, y normalización de los valores de laboratorio y de los
+resultados de la radiología torácica. A partir de ese momento, la perfusión puede reiniciarse
+inicialmente como máximo a la mitad de la velocidad de la perfusión previa. Si se presentasen por
+segunda vez las mismas reacciones adversas graves, se debe considerar seriamente, y caso por caso, la
+decisión de finalizar el tratamiento.
+ Las reacciones relacionadas con la perfusión de grado leve o moderado (sección 4.8) se resuelven
+generalmente reduciendo la velocidad de perfusión. La velocidad de perfusión puede incrementarse
+cuando mejoren los síntomas.
+ 4.3   Contraindicaciones
+ Linfoma no-Hodgkin
+ Hipersensibilidad al principio activo o a alguno de los excipientes o a las proteínas murinas.
+ Artritis reumatoide
+ Hipersensibilidad al principio activo o a alguno de los excipientes o a las proteínas murinas.
+ Infecciones graves y activas (ver apartado 4.4).
+ Insuficiencia cardiaca grave (clase IV de la New York Heart Association) o enfermedades cardiacas
+graves no controladas.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Linfoma no-Hodgkin
+ Los pacientes con gran masa tumoral o con un elevado número de células tumorales circulantes
+( 25 x 109/l), que pueden tener un riesgo mayor de desarrollar un síndrome de liberación de
+citoquinas muy grave, deben tratarse únicamente cuando se hayan descartado otras alternativas
+terapéuticas, extremando las precauciones durante el tratamiento. Estos pacientes deben monitorizarse
+muy estrechamente durante la primera perfusión. En estos pacientes se debe considerar reducir la
+velocidad de la primera perfusión.
+ El síndrome de liberación de citoquinas grave se caracteriza por disnea grave, frecuentemente
+acompañada de broncoespasmo e hipoxia, además de fiebre, escalofríos, rigidez, urticaria y
+angioedema. Este síndrome puede estar asociado con algunas características del síndrome de lisis
+tumoral, tales como hiperuricemia, hiperpotasemia, hipocalcemia, hiperfosfatemia, fallo renal agudo,
+elevación de la Lactato dehidrogenasa (LDH)y puede estar asociado con fallo respiratorio agudo y
+muerte. El fallo respiratorio agudo puede estar acompañado de infiltración intersticial o edema
+pulmonar, visibles a la exploración radiológica torácica. El síndrome se manifiesta frecuentemente
+dentro de la primera o segunda hora después de iniciar la primera perfusión. Los pacientes con
+historial de insuficiencia pulmonar o con infiltración tumoral pulmonar, pueden tener un riesgo mayor
+de mal pronóstico y deben aumentarse las precauciones durante su tratamiento. En aquellos pacientes
+que desarrollen síndrome de liberación de citoquinas grave (ver apartado 4.2) se debe interrumpir la
+perfusión inmediatamente y deben recibir tratamiento sintomático de choque. Dado que a la mejoría
+inicial de los síntomas clínicos puede seguir una recidiva, se debe monitorizar estrechamente a estos
+pacientes hasta que el síndrome de lisis tumoral y la infiltración pulmonar se hayan resuelto o hayan
+sido descartados. Una vez resueltos completamente los signos y síntomas, raramente se repite el
+ síndrome de liberación de citoquinas en tratamientos posteriores. En el 10 % de los pacientes tratados
+con MabThera se han observado reacciones adversas relacionadas con la perfusión, incluyendo el
+síndrome de liberación de citoquinas (ver apartado 4.8) acompañado de hipotensión y broncoespasmo.
+Generalmente, estos síntomas son reversibles tras la interrupción de la perfusión de MabThera y la
+administración de un antipirético, un antihistamínico, y ocasionalmente, oxígeno, solución salina
+intravenosa o broncodilatadores, y, en caso de necesidad, glucocorticoides. Para reacciones graves, ver
+síndrome de liberación de citoquinas.
+ Se han notificado casos de reacciones de hipersensibilidad, incluyendo anafilácticas, después de la
+administración intravenosa de proteínas. A diferencia del síndrome de liberación de citoquinas, las
+reacciones de hipersensibilidad verdaderas se presentan típicamente durante los primeros minutos de
+la perfusión. Conviene disponer para uso inmediato de medicamentos utilizados para combatir las
+reacciones de hipersensibilidad, es decir, adrenalina, antihistamínicos y glucocorticoides, por si
+ocurriera una reacción alérgica durante la administración de MabThera. Las manifestaciones clínicas
+de anafilaxia pueden parecerse a las del síndrome de liberación de citoquinas (anteriormente descrito).
+Las reacciones atribuibles a la hipersensibilidad se han notificado menos frecuentemente que las
+atribuidas a la liberación de citoquinas.
+ Dado que se puede producir hipotensión durante la perfusión con MabThera, se debe considerar
+interrumpir los tratamientos antihipertensivos 12 horas antes de dicha perfusión.
+ Se han notificado casos de angina de pecho, arritmias cardiacas tales como flutter y fibrilación
+auricular, fallo cardiaco o infarto de miocardio en pacientes tratados con MabThera. Por lo tanto, se
+deben monitorizar cuidadosamente los pacientes con historial de enfermedad cardiaca y/o
+cardiotoxicidad asociada a la quimioterapia.
+ Aunque MabThera en monoterapia no tiene efecto mielosupresor, se recomienda prudencia antes de
+aplicar el tratamiento a pacientes con un recuento de neutrófilos < 1,5 × 109/l y/o plaquetas < 75 ×
+109/l, puesto que la experiencia clínica en esta población es limitada. MabThera se ha utilizado en 21
+pacientes sometidos a trasplante autólogo de médula ósea y en otros grupos de riesgo con una función
+de la médula ósea presumiblemente reducida, sin que haya inducido mielotoxicidad.
+ Se debe considerar la necesidad de realizar recuentos de sangre total de forma regular, incluyendo
+recuentos de plaquetas, durante la monoterapia con MabThera. Cuando MabThera se administre en
+combinación con quimioterapia CHOP o CVP (ciclofosfamida, vincristina y prednisona), se deben
+realizar de forma regular recuentos de sangre total de acuerdo a la práctica médica habitual.
+ Se han notificado casos muy raros de reactivación de hepatitis Ben pacientes tratados con rituximab
+que incluyeron hepatitis fulminante con fallecimiento. La mayoría de estos pacientes habían estado
+expuestos también a quimioterapia citotóxica. Tanto el estado de la enfermedad subyacente como la
+quimioterapia citotóxica pueden considerarse factores de confusión en la notificación de los casos.
+Cuando rituximab se utilice en combinación con quimioterapia citotóxica, los pacientes con
+antecedentes de hepatitis B deben ser monitorizados cuidadosamente para detectar signos de infección
+activa por el virus de la hepatitis B.
+ Se han notificado casos muy raros de Leucoencefalopatía Multifocal Progresiva (LMP), durante el uso
+post-comercialización de MabThera en LNH(ver apartado 4.8). La mayoría de los pacientes habían
+recibido rituximab en combinación con quimioterapia o como parte de un transplante de células madre
+hematopoyéticas. Los médicos que traten a pacientes con linfoma no-Hodgkin deben considerar la
+posibilidad de LMP en el diagnóstico diferencial de pacientes que presenten síntomas neurológicos y
+considerar la consulta del caso a un neurólogo conforme a su criterio clínico.
+ No se ha estudiado la seguridad de la inmunización con ninguna vacuna, especialmente con vacunas
+de virus vivos, después de recibir tratamiento con MabThera. Tampoco se ha estudiado la capacidad
+para generar una respuesta humoral primaria o anamnésica frente a ninguna vacuna.
+ Artritis reumatoide
+ Reacciones a la perfusión
+El uso de MabThera se asocia con reacciones a la perfusión que pueden estar mediadas por la
+liberación de citoquinas y/o otros mediadores químicos. La premedicación con glucocorticoides por
+vía intravenosa redujo significativamente la incidencia y la gravedad de estas reacciones (ver apartado
+4.8).
+ La mayoría de las reacciones a la perfusión notificadas fueron de gravedad leve a moderada. El
+porcentaje de pacientes afectados disminuye con las sucesivas perfusiones. Las reacciones notificadas
+revirtieron, por lo general, tras disminuir la velocidad de perfusión de MabThera o suspender la
+perfusión y administrar un antipirético, un antihistamínico y, en ocasiones, oxígeno, una solución
+salina intravenosa o broncodilatadores, y, en caso de necesidad, glucocorticoides. En la mayoría de los
+casos, la perfusión se pudo reanudar al 50% de la velocidad anterior (p. ej., de 100 mg/h a 50 mg/h),
+una vez resueltos completamente todos los síntomas.
+ Después de la administración intravenosa de proteínas, incluyendo MabThera, se han notificado
+reacciones anafilácticas y otras reacciones de hipersensibilidad. Los medicamentos para tratar las
+reacciones de hipersensibilidad, como la adrenalina, los antihistamínicos y los glucocorticoides deben
+estar disponibles para su uso inmediato por si ocurre una reacción alérgica durante la administración
+de MabThera. La presencia de los anticuerpos humanos anti-quiméricos (HACA) puede estar asociada
+con un empeoramiento en la perfusión o con reacciones alérgicas después de la segunda perfusión de
+los ciclos siguientes (ver apartado 5.1).
+ Durante los ensayos clínicos, 10/990 (1 %) pacientes con artritis reumatoide que habían recibido la
+primera perfusión de MabThera experimentaron una reacción adversa durante la perfusión (ver apartado 4.8), independientemente de la dosis.
+ No existen datos sobre la seguridad de MabThera en pacientes con insuficiencia cardiaca moderada
+(clase III de la NYHA) o enfermedad cardiovascular grave no controlada. En pacientes con isquemia
+miocárdica preexistente se ha notificado con MabThera su exacerbación sintomática, resultando en
+angina de pecho, así como fibrilación auricular y flutter. Por lo tanto, si el paciente refiere
+antecedentes de cardiopatía, se sopesará el riesgo de complicaciones cardiovasculares derivadas de las
+reacciones a la perfusión antes de administrar MabThera y se monitorizará rigurosamente a los
+pacientes durante el tratamiento. Dado que se puede producir hipotensión durante la perfusión de
+MabThera, se evaluará la necesidad de interrumpir temporalmente cualquier medicación
+antihipertensiva 12 horas antes de la perfusión de MabThera.
+ Infecciones
+Se han producido infecciones graves, incluyendo casos mortales (ver apartado 4.8), durante el
+tratamiento con MabThera. No debe administrarse MabThera a pacientes con una infección activa y/o
+grave (es decir tuberculosis, sepsis e infecciones oportunistas, ver sección 4.3) ni a aquéllos con
+inmunodeficiencia grave (p. ej., hipogammaglobulinemia o a los que tengan niveles de CD4 o CD8
+muy bajos). Los médicos extremarán la prudencia antes de administrar MabThera a pacientes que
+refieran antecedentes de infecciones recidivantes o crónicas o con patologías subyacentes que puedan
+predisponer a infecciones graves (ver apartado 4.8).
+Se evaluará de inmediato y se tratará convenientemente a todo paciente que manifieste signos y
+síntomas de infección después del tratamiento con MabThera. Antes de administrar los ciclos
+siguientes del tratamiento con MabThera, en estos pacientes debe ser re-evaluado el riesgo potencial
+de infecciones.
+ Se han notificado casos muy raros de reactivación de la hepatitis B entre pacientes con linfoma no-
+Hodgkin que habían recibido rituximab en combinación con la quimioterapia citotóxica (ver linfoma
+no-Hodgkin, sección 4.4).
+ Vacunación
+No hay datos relativos al uso de las vacunas en pacientes mientras persista la depleción de linfocitos B
+después del tratamiento con MabThera (ver apartado 5.1). Los médicos deben revisar el estado de
+vacunación de los pacientes que se estén considerando para el tratamiento con MabThera y seguir las
+directrices locales/nacionales para la vacunación de los adultos frente a las enfermedades infecciosas.
+La vacunación se debe haber completado por lo menos cuatro semanas antes de la primera
+administración de MabThera. No se recomienda la administración de vacunas vivas a pacientes
+mientras persista la depleción de linfocitos B.
+ Uso concomitante/secuencial con otros fármacos antirreumáticos modificadores de la enfermedad
+(FAMEs)
+No está recomendado el uso concomitante de MabThera y otros tratamientos antirreumáticos distintos
+a los incluidos en la indicación y la posología de artritis reumatoide.
+ No hay datos suficientes en los ensayos clínicos para evaluar totalmente la seguridad del uso
+secuencial de otros FAMEs (incluidos los inhibidores del TNF) tras la terapia con MabThera (ver apartado 4.5). Si se administra un agente biológico y/o un FAME después de la terapia con MabThera,
+los pacientes deben ser estrechamente monitorizados por si hubiese signos de infección.
+ Neoplasias malignas
+Los fármacos inmunomoduladores pueden aumentar el riesgo de neoplasias malignas. En base a la
+limitada experiencia con MabThera en pacientes con artritis reumatoide (ver apartado 4.8) no se puede
+excluir un posible riesgo de desarrollo de tumores sólidos en este momento, aunque los datos
+existentes no parecen sugerir un aumento del riesgo.
+ Notificación espontánea
+Se han notificado casos mortales de Leucoencefalopatía Multifocal Progresiva tras el uso en
+indicaciones no autorizadas de MabThera para el tratamiento de ciertas enfermedades autoinmunes,
+incluyendo Lupus Eritematoso Sistémico (LES) y vasculitis. Los pacientes con enfermedades
+autoinmunes tenían una historia de terapia inmunosupresora anterior o concurrente y se les diagnosticó
+LMP en los 12 meses siguientes a la última perfusión de MabThera. No se ha notificado ningún caso
+de LMP en pacientes con artritis reumatoide. También se han notificado casos de LMP en pacientes
+con enfermedad autoinmune no tratados con MabThera. Los casos notificados tenían múltiples
+factores de riesgo de LMP, incluyendo la enfermedad subyacente y la terapia inmunosupresora a largo
+plazo. Los médicos que traten a pacientes con enfermedades autoinmunes deben considerar la
+posibilidad de LMP en el diagnóstico diferencial de pacientes que presenten síntomas neurológicos y
+considerar la consulta del caso a un neurólogo conforme a su criterio clínico.
+ No se han establecido la eficacia y seguridad de MabThera para el tratamiento de enfermedades
+autoinmunes diferentes a la artritis reumatoide.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Actualmente existen datos limitados sobre las posibles interacciones medicamentosas con MabThera.
+ La coadministración con metotrexato no modifica la farmacocinética de MabThera en los pacientes
+con artritis reumatoide.
+ Los pacientes con títulos de anticuerpos humanos anti-murinos o anti-quiméricos (HAMA/HACA)
+pueden sufrir reacciones alérgicas o de hipersensibilidad al ser tratados con otros anticuerpos
+monoclonales terapéuticos o de diagnóstico.
+ En una pequeña cohorte de pacientes con artritis reumatoide, 110 pacientes recibieron terapia con otro
+FAME (incluidos biológicos) después de MabThera. Los pacientes, recibieron FAMEs 4-6 meses
+después de la terapia con MabThera, generalmente mientras persistía la depleción de células B
+periféricas. La incidencia de infecciones clínicamente relevantes fue de 7,8 por 100 pacientes-año.
+                                                    8
+4.6   Embarazo y lactancia
+ Embarazo
+ Se sabe que las inmunoglobulinas IgG atraviesan la barrera placentaria. No se han determinado los
+niveles de linfocitos B en recién nacidos de madres expuestas a MabThera en ensayos clínicos. No
+existen datos suficientes ni controlados en mujeres embarazadas, sin embargo se han notificado
+depleción transitoria de células B y linfocitopenia en algunos niños nacidos de madres expuestas a
+rituximab durante el embarazo. Por estos motivos MabThera/Rituximab no debe administrarse a una
+mujer embarazada a menos que el beneficio esperado supere el riesgo potencial.
+Durante y hasta 12 meses después del tratamiento con MabThera las mujeres en edad fértil deben usar
+métodos contraceptivos eficaces, debido al largo tiempo de permanencia de rituximab en el organismo
+en pacientes con depleción de células B.
+ En los estudios de toxicidad llevados a cabo en monos cinomolgos, no se han hallado indicios de
+embriotoxicidad intrauterina. Las crías de animales nacidas de madres expuestas a MabThera
+presentaron una depleción de las poblaciones de linfocitos B durante el período postnatal.
+ Lactancia
+ Se desconoce si rituximab se excreta en la leche materna. Sin embargo, teniendo en cuenta que la IgG
+materna se excreta en la leche y que se ha detectado rituximab en la leche de monas en periodo de
+lactancia, las mujeres no deben dar el pecho a sus hijos durante el tratamiento con MabThera ni
+durante los 12 meses siguientes.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos de MabThera sobre la capacidad para conducir y utilizar
+máquinas, aunque la actividad farmacológica y las reacciones adversas notificadas hasta la fecha no
+indiquen que tales efectos sean probables.
+ 4.8   Reacciones adversas
+ Experiencia en linfoma no -Hodgking
+ El perfil de seguridad global de MabThera en linfoma no-Hodgking se basa en los datos de pacientes
+de ensayos clínicos y de los estudios post comercialización. Estos pacientes fueron tratados
+principalmente con MabThera en monoterapia (como tratamiento de inducción o como tratamiento de
+mantenimiento tras el tratamiento de inducción) o en combinación con quimioterapia
+ En pacientes que recibieron MabThera, las reacciones adversas al fármaco (RAFs) observadas con
+mayor frecuencia fueron las reacciones relacionadas con la perfusión y en la mayoría de los pacientes
+ocurrieron durante la primera perfusión. La incidencia de los síntomas relacionados con la perfusión
+disminuyó sustancialmente con las posteriores perfusiones y es menor del 1% después de ocho dosis
+de MabThera.
+ Durante los ensayos clínicos en pacientes con LNH aproximadamente el 30-55% de los pacientes
+experimentaron reacciones infecciosas (en su mayoría bacterianas y virales)
+ Las reacciones adversas graves más frecuentes al fármaco, notificadas u observadas fueron:
+·     Reacciones relacionadas con la perfusión (incluyendo síndrome de liberación de citoquinas,
+síndrome de lisis tumoral), ver sección 4.4
+·     Infecciones, ver sección 4.4
+·     Acontecimientos cardiovasculares, ver sección 4.4
+Otras RAFs graves notificadas incluyen reactivación de la hepatitis B y LMP (ver apartado 4.4)
+ En las tablas de abajo están incluidas las frecuencias de las RAFsnotificadas con MabThera tanto sólo
+como en combinación con quimioterapia.. Las reacciones adversas se enumeran en orden decreciente
+de gravedad dentro de cada intervalo de frecuencia. Las frecuencias se definen como muy frecuentes
+( 1/10); frecuentes ( 1/100, < 1/10); y poco frecuentes ( 1/1.000, < 1/100). Las RAFs identificadas
+solo durante los estudios de post comercialización, y cuya frecuencia no puede ser estimada, se
+denominan como ""desconocidas"".
+ Tabla 1     Resumen de las RAFs notificadas en pacientes con LNH tratados con MabThera en
+monoterapia/mantenimiento o en combinación con quimioterapia en los ensayos
+clínicos o durante los estudios de post comercialización
+Base de datos de
+clasificación de
+órganos del sistema
+MedDRA
+Infecciones e
+infestaciones
+Trastornos de l a
+sangre y del sistema
+linfático
+Trastornos del
+sistema
+inmunológico
+Trastornos del
+metabolismo y de la
+nutrición
+Trastornos
+psiquiátricos
+ Base de datos de
+clasificación de
+órganos del sistema
+MedDRA
+Trastornos del
+sistema nervioso
+Trastornos oculares
+Trastornos del oído
+y del laberinto
+Trastornos
+cardiacos
+Trastornos
+vasculares
+Trastornos
+respiratorios,
+torácicos y
+mediastínicos
+Trastornos
+gastrointestinales
+Trastornos de la
+piel y del tejido
+subcutáneo
+Trastornos
+musculoesqueleticos
+y del tejido
+                                                11
+Base de datos de
+clasificación de
+órganos del sistema
+MedDRA
+conjuntivo
+Trastornos renales
+y urinarios
+Trastornos
+generales y
+alteraciones en el
+Lugar de
+administración
+Exploraciones
+complementarias
+Para el cálculo de la frecuencia de cada reacción se tuvo en cuenta todos los grados de la reacción (de
+leve a grave), exceptuando las reacciones marcadas con ""+"" donde el cálculo de la frecuencia se realizó
+teniendo en cuenta sólo las reacciones graves ( del grado 3 de NCI criterios comunes de toxicidad).
+Solo se notifica la frecuencia más alta observada en los ensayos clínicos.
+1 véase también más abajo la sección infección
+2 véase también más abajo la sección reacciones adversas hematológicas
+3 véase también más abajo la sección reacciones relacionadas con la perfusión. Raramente se han
+notificado casos mortales
+4 Signos y síntomas de la neuropatía craneal. Ocurridas en diferentes tiempos hasta varios meses tras la
+finalización de la terapia con MabThera
+5 Observados principalmente en pacientes con enfermedad cardiaca preexistente y/o cardiotoxicidad
+asociada a quimioterapia. La mayoría de ellas fueron asociadas con reacciones relacionadas con la
+perfusión
+6 Incluidos casos mortales
+ Los siguientes acontecimientos han sido notificados como acontecimientos adversos durante los
+ensayos clínicos, sin embargo, fueron notificados con una incidencia menor o similar en el brazo de
+MabThera comparado con el brazo control: hematotoxicidad, infección neutropenica, infección en el
+tracto urinario, trastorno sensorial, fiebre.
+ Reacciones relacionadas con la perfusión
+Los signos y síntomas indican que más del 50% de los pacientes en los ensayos clínicos sufrieron
+reacciones relacionadas con la perfusión, que en su mayoría se observaron durante la primera
+perfusión, generalmente durante las primeras dos horas. Estos síntomas incluyeron principalmente
+fiebre, escalofríos y rigidez. Otros síntomas incluyeron rubor, angioedema, broncoespasmo, vómitos,
+náuseas, urticaria/rash, fatiga, cefalea, irritación de garganta, rinitis, prurito, dolor, taquicardia,
+hipertensión, hipotensión, disnea, dispepsia, astenia y características del síndrome de lisis tumoral. Las
+reacciones graves relacionadas con la perfusión (como broncoespasmo, hipotensión) ocurrieron
+aproximadamente en el 10% de los casos. Además en algunos casos las reacciones notificadas fueron
+infarto de miocardio, fibrilación auricular y edema pulmonar. Se notificaron con menor frecuencia o
+frecuencia desconocida, exacerbación de las patologías cardiacas preexistentes, tales como angina de
+pecho o insuficiencia cardiaca congestiva o acontecimientos cardiacos graves (insuficiencia cardiaca,
+infarto de miocardio, fibrilación auricular), edema pulmonar, insuficiencia multiorgánica, síndrome de
+lisis tumoral, síndrome de liberación de citoquinas, insuficiencia renal e insuficiencia respiratoria. La
+incidencia de síntomas relacionados con la perfusión disminuye considerablemente en las perfusiones
+siguientes y es menor al 1% de los pacientes en el octavo ciclo del tratamiento de MabThera.
+ Infecciones
+MabThera indujo la depleción de células B en el 70-80% de los pacientes, pero se asoció con una
+disminución de las inmunoglobulinas séricas solamente en una minoría de pacientes.
+ En los estudios aleatorizados en el brazo de MabThera se notificó una mayor incidencia en las
+infecciones localizadas de candida así como de Herpes zoster.Senotificaron infecciones graves en
+aproximadamente el 4% de los pacientes3 ó 4 Comparando un tratamiento de mantenimiento con
+MabThera hasta 2 años con el brazo de observación, se notificaron frecuencias más elevadas de las
+infecciones globales, incluyendo infecciones de grado 3 ó 4. No se observó toxicidad acumulada en
+términos de infecciones notificadas durante los dos años del periodo de mantenimiento. En los
+pacientes tratados con MabThera además, se han notificado otras infecciones virales graves, ya sean
+nuevas, reactivaciones o exacerbaciones, algunas de las cuales fueron mortales. La mayoría de los
+pacientes habían recibido MabThera en combinación con quimioterapia o como parte de un
+transplante de células madre hematopoyéticas. Ejemplos de estas infecciones virales graves son las
+causadas por los virus de la familia herpes (Citomegalovirus, Virus de la Varicela Zóster y Virus
+Herpes Simple), virus JC (leucoencefalopatía multifocal progresiva (LMP)) y el virus hepatitis C. Se
+han notificado casos de reactivación de la hepatitis B, la mayoría de los cuales fueron en pacientes que
+recibieron MabThera en combinación con quimioterapia citotóxica. Se ha observado una progresión
+del sarcoma de Kaposi en pacientes expuestos a rituximab con sarcoma de Kaposi preexistente. Estos
+casos ocurrieron en indicaciones no aprobadas y la mayoría de los pacientes eran VIH positivos.
+ Reacciones adversas de tipo hematológico
+En los ensayos clínicos con MabThera en monoterapia administrado durante 4 semanas, las anomalías
+hematológicas que aparecieron en una minoría de pacientes fueron, en general, leves y reversibles. Se
+notificaron casos graves de neutropenia (grado 3/4) en un 4,2% , anemia en un 1,1% y
+trombocitopenias en el 1,7 % de los pacientes. Durante el tratamiento de mantenimiento con
+MabThera de hasta 2 años se notificó una mayor incidencia de casos de leucopenia (grado 3/4, 5% vs
+2%) y neutropenia (grado 3/4, 10% vs 4%) comparado con el brazo de observación. La incidencia de
+trombocitopenia fue baja (<1 grado 3/4%) y no hubo diferencias entre los brazos del tratamiento. En
+los estudios que comparan MabThera en combinación con quimioterapia frente a quimioterapia sola se
+notificó un aumento en las frecuencias de leucopenia (grado 3/4, 88 vs 79%), neutropenia (R-CVP
+24% vs CVP 14%; R-CHOP 97% vs CHOP 88%) fue mayor en el brazo MabThera que en los brazos
+de quimioterapia sola. Sin embargo, la alta incidencia de neutropenia en pacientes tratados con
+MabThera y quimioterapia no se asoció con una mayor incidencia de infecciones e infestaciones en
+comparación con pacientes tratados sólo con quimioterapia y la neutropenia no se prolongó en el
+grupo de MabThera. No se notificaron diferencias para la incidencia de trombocitopenia o anemia. Se
+notificaron algunos casos de neutropenia tardía ocurridas tras más de 4 semanas después de la última
+perfusión.
+ En estudios de MabThera en pacientes con macroglobulinemia de Waldenstrom se han observado
+aumentos transitorios de los niveles séricos de IgM tras el inicio del tratamiento que podrían estar
+asociados con hiperviscosidad y síntomas relacionados. El aumento transitorio de IgM generalmente
+volvió hasta al menos el nivel basal en un periodo de 4 meses
+ Reacciones cardiovasculares
+Durante los ensayos clínicos con MabThera en monoterapia se notificaron reacciones
+cardiovasculares en el 18,8% de los pacientes, las más frecuentemente notificadas fueron hipotensión
+e hipertensión. Se notificaron casos de arritmia de grado 3 ó 4 (incluyendo taquicardia ventricular y
+supraventricular) y de angina de pecho durante la perfusión. Durante el tratamiento de mantenimiento,
+la incidencia de los trastornos cardiacos de grado 3/4 fue comparable entre los pacientes tratados con
+MabThera y el brazo de observación. Los acontecimientos cardiacos se notificaron como reacciones
+adversas graves (fibrilación auricular, infarto de miocardio, fallo del ventrículo izquierdo, isquemia
+miocárdica) en el 3% de los pacientes tratados con MabThera en comparación con < 1% de los
+pacientes del brazo de observación. En los ensayos que evalúan MabThera en combinación con
+quimioterapia, la incidencia de arritmias cardiacas de grado 3 y 4, fundamentalmente arritmia
+supraventricular como taquicardia y flutter/fibrilación auricular, fue mayor en el grupo de R-CHOP
+(14 pacientes, 6,9%) comparado con el grupo de CHOP (3 pacientes, 1,5%). Todas estas arritmias
+fueron notificadas en el contexto de la perfusión con MabThera o estuvieron asociadas a condiciones
+propensas como fiebre, infección, infarto agudo de miocardio o enfermedad pre-existente respiratoria
+y cardiovascular. No hubo diferencias entre los grupos de R-CHOP y CHOP en otras reacciones
+ cardiacas de grado 3 y 4 incluido fallo cardiaco, trastorno miocárdico y trastorno de las arterias
+coronarias.
+ Trastornos Neurológicos
+Durante el periodo de tratamiento cuatro pacientes (2%) en el grupo de R-CHOP, todos con factores
+de riesgo cardiovascular, sufrieron accidentes cerebrovasculares tromboembólicos durante el primer
+ciclo de tratamiento. No hubo diferencias en la incidencia de otros trastornos tromboembólicos entre
+los grupos de tratamiento. En contraste, tres pacientes (1,5%) tuvieron acontecimientos
+cerebrovasculares en el grupo de CHOP, todos ellos ocurridos durante el periodo de seguimiento.
+ Trastornos Gastrointestinales
+En pacientes tratados con MabThera para el linfoma no-Hodgkin, se han observado casos de
+perforación gastrointestinal, que en algunos casos causaron la muerte. En la mayoría de estos casos se
+administró Mabthera en combinación con quimioterapia.
+ Niveles de IgG
+En los ensayos clínicos que evaluaban el tratamiento con MabThera en mantenimiento, después del
+tratamiento de inducción, la mediana de los niveles de IgG estaba por debajo del límite inferior de la
+normalidad (LLN) (<7g/L) en ambos grupos, tanto en el de observación como en el de MabThera. En
+el grupo de observación, la mediana del nivel de IgG aumentó posteriormente por encima de LLN,
+pero se mantuvo constante en el grupo de MabThera. La proporción de pacientes con niveles IgG por
+debajo de LLN fue aproximadamente del 60% en el grupo de MabThera durante los 2 años de
+tratamiento, mientras que en el grupo de observación el descenso fue del 36% después de 2 años.
+ Subpoblaciones de pacientes (MabThera en monoterapia)
+ Pacientes ancianos
+(  65 años): La incidencia de RAFs de todos los grados y las RAF sgrado 3/4 fueron similares en
+pacientes ancianos en comparación con pacientes más jóvenes (<65 años).
+ Enfermedad voluminosa o Bulky
+Existe una mayor incidencia en las RAFs de grado 3/4 en pacientes con enfermedad Bulky que en
+pacientes sin enfermedad de Bulky (25,6% vs 15,4%). La incidencia de RAFs de cualquier grado fue
+similar en estos dos grupos.
+ Retratamiento
+El porcentaje de pacientes que notificaron RAFs, en el retratamiento con ciclos posteriores de
+MabThera fue similar al porcentaje de pacientes que notificaron RAFs de cualquier grado y RAFs de
+grado 3/4 para el tratamiento inicial
+ Experiencia en artritis reumatoide en ensayos clínicos
+ La eficacia clínica de MabThera en combinación con el metotrexato se investigó en tres ensayos
+clínicos doble ciego y controlados (uno fase III y dos fase II) en pacientes con artritis reumatoide. Más
+de 1.000 pacientes recibieron al menos un ciclo de tratamiento, con un periodo de seguimiento de 6
+meses hasta más de 3 años; casi 600 pacientes recibieron dos o más ciclos de tratamiento durante el
+período de seguimiento.
+ Los pacientes recibieron 2 dosis de 1.000 mg de MabThera, separadas por un intervalo de 2 semanas
+sobre su tratamiento con metotrexato (10-25 mg/semana). Las perfusiones de MabThera se
+administraron después de la perfusión intravenosa de 100 mg de metilprednisolona; los pacientes
+recibieron también tratamiento con prednisona oral durante 15 días. La tabla de abajo enumera las
+reacciones adversas al medicamento observadas con al menos una diferencia del 2% comparado con el
+brazo control y más frecuentemente en pacientes que habían recibido al menos una perfusión de
+MabThera que en pacientes que habían recibido placebo en el ensayo fase III y que en la población
+agrupada incluida en los ensayos de fase II. Las frecuencias se definen como muy frecuentes ( 1/10)
+                                                     14
+y frecuentes ( 1/100 < 1/10). Las reacciones adversas se enumeran en orden decreciente de gravedad
+dentro de cada intervalo de frecuencia.
+ Las reacciones adversas más frecuentes y que se consideraron atribuibles a la administración de 2
+dosis de 1.000 mg de MabThera en los ensayos fase II y III consistieron en reacciones agudas a la
+perfusión. Las reacciones a la perfusión se produjeron en el 15 % de los pacientes después de la
+primera perfusión de rituximab y en el 5 % de los pacientes con placebo. Las reacciones a la perfusión
+disminuyeron hasta un 2 % después de la segunda perfusión, en ambos grupos de rituximab y placebo.
+ Tabla 2        Resumen de las reacciones adversas al medicamento observadas en pacientes con
+artritis reumatoide que habían recibido MabThera en los ensayos clínicos fase II y
+III.
+                         Población agrupada de los ensayos                  Población del ensayo fase III
+                                              hipertensión,                                hipertensión, nausea,
+Reacciones
+relacionadas con
+la perfusión
+Trastornos
+gastrointestinales
+Infecciones e
+infestaciones
+Trastornos del
+metabolismo y de
+la nutrición
+Trastornos
+musculoesquelétic
+os
+Trastornos del
+sistema nervioso
+Esta tabla incluye todas las reacciones adversas que ocurren con una mayor incidencia ( 2 % de diferencia) en
+rituximab en comparación con el placebo.
+* Reacciones que se produjeron en las primeras 24 horas desde el inicio de la perfusión
+ Los siguientes acontecimientos han sido notificados como reacciones adversas, sin embargo, fueron
+notificados con una incidencia similar en el brazo de MabThera y en brazo control: infecciones en el
+tracto respiratorio inferior/neumonía, dolor del tracto superior abdominal, espasmos músculo
+esqueléticos y astenia.
+ Además de los acontecimientos tabulados anteriormente, otras reacciones clínicamente significativas
+poco frecuentes notificadas en la población tratada con rituximab y potencialmente relacionadas con el
+tratamiento incluyeron las siguientes:
+ Trastornos generales y alteraciones en el lugar de administración: Edema generalizado
+Trastornos respiratorios, torácicos y mediastínicos: Broncoespasmo, sibilancias, edema de laringe
+Trastornos de la piel y del tejido subcutáneo: Edema angioneurótico, prurito generalizado
+Trastornos del sistema inmunológico: Anafilaxia, reacción anafilactoide.
+ Ciclos múltiples
+Los datos limitados de los ensayos clínicos sobre la administración de ciclos múltiples de tratamiento
+a pacientes con artritis reumatoide, parecen mostrar un perfil de RAF similar al observado tras la
+primera exposición. Sin embargo, con los datos disponibles no se puede excluir un posible
+                                                             15
+empeoramiento de las reacciones a la perfusión o de las reacciones alérgicas ni tampoco el fallo en la
+depleción de células B tras la exposición repetida a rituximab, en pacientes positivos para HACAs. La
+incidencia de reacciones agudas a la perfusión después de posteriores ciclos de tratamiento fue
+generalmente más baja que después de la primera perfusión de MabThera.
+ Reacciones agudas a la perfusión
+Los síntomas indicativos de una reacción aguda a la perfusión (prurito, fiebre, urticaria/rash,
+escalofríos, fiebre, rigidez, estornudos, edema angioneurótico, irritación de garganta, tos y
+broncoespasmo, asociados o no a hipotensión o hipertensión) se notificaron en 79/540 (15 %)
+pacientes tras la primera exposición a MabThera; en un ensayo en el que se comparó el efecto de un
+régimen de glucocorticoides, estas reacciones fueron notificadas en 5/149 (3 %) pacientes después de
+la primera perfusión de placebo y en 42/192 (22 %) tras la primera perfusión de 1.000 mg de
+rituximab. La premedicación con glucocorticoides intravenosos redujo significativamente la incidencia
+y la gravedad de estas reacciones. De los pacientes que habían recibido 1.000 mg de rituximab sin la
+premedicación con glucocorticoides, 18/65 (28 %) experimentaron una reacción aguda a la perfusión,
+frente a 24/127 (19 %) de los que habían recibido premedicación con glucocorticoidesintravenosos,
+respectivamente.
+ Infecciones
+La incidencia de infecciones se aproximó a 0,9 por paciente-año en los pacientes tratados con
+MabThera. Las infecciones afectaron mayoritariamente al tracto respiratorio superior y al tracto
+urinario. La incidencia de infecciones clínicamente significativas, con algunos casos mortales, llegó a
+0,05 por paciente-año en los pacientes tratados con MabThera.
+ Neoplasias malignas
+Los datos clínicos, particularmente los relativos a ciclos múltiples, son demasiado limitados para
+evaluar la incidencia potencial de neoplasias malignas después de una exposición a rituximab, aunque
+los datos actuales no parecen sugerir un incremento del riesgo. La evaluación de la seguridad a largo
+plazo está en curso.
+ Cardiovascular
+En los ensayos clínicos se notificaron acontecimientos cardiacos en el 11% de los pacientes. En
+ensayos controlados con placebo se notificaron acontecimientos cardiacos graves en una proporción
+comparable en los pacientes tratados con MabThera y con placebo (2%)
+ 4.9   Sobredosis
+ No existe experiencia relacionada con la sobredosis en los ensayos clínicos. Sin embargo, no se han
+ensayado dosis únicas superiores a 1.000 mg en ensayos clínicos controlados.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico:anticuerpos monoclonales, código ATC: L01XC02
+ Rituximab se une específicamente al antígeno CD20, una fosfoproteína transmembrana no-
+glucosilada, expresada en los linfocitos pre-B y B maduros. El antígeno se expresa en más del 95 % de
+todos los linfomas no-Hodgkin de células B.
+ CD20 se expresa tanto en células B normales como en tumorales, pero no en células madre
+hematopoyéticas, células pro-B, células plasmáticas normales ni en otros tejidos normales. Este
+antígeno no se internaliza tras la unión del anticuerpo ni se elimina de la superficie celular. CD20 no
+circula en plasma como antígeno libre, y, por esta razón, no compite por la unión con los anticuerpos.
+                                                    16
+El dominio Fab de rituximab se une al antígeno CD20 en la superficie de los linfocitos B, mientras que
+el dominio Fc puede reclutar efectores de la respuesta inmune para mediar la lisis de las células B. Los
+mecanismos posibles de la lisis celular mediada por efector incluyen citotoxicidad dependiente del
+complemento (CDC) como resultado de la unión de C1q, y la citotoxicidad celular dependiente de
+anticuerpos (ADCC) mediada por uno o más receptores Fc de la superficie de los granulocitos,
+macrófagos y células NK (natural killer). También se ha demostrado que la unión del rituximab al
+antígeno CD20 de los linfocitos B induce la muerte celular por apoptosis.
+ Tras completarse la administración de la primera dosis de MabThera, los recuentos de células B
+periféricas disminuyeron por debajo de lo normal. En los pacientes tratados de neoplasias
+hematológicas, la repoblación de células B comenzó a los 6 meses de tratamiento y se recuperaron los
+niveles normales entre los 9 y los 12 meses después de finalizado el tratamiento.
+En pacientes con artritis reumatoide se observa una depleción inmediata de células B en sangre
+periférica después de las dos perfusiones de 1.000 mg de MabThera separadas por un intervalo de 14
+días. El recuento de células B en sangre periférica empieza a aumentar desde la semana 24 y la
+evidencia de repoblación se observa, en la mayoría de los pacientes, en la semana 40,
+independientemente de que MabThera se administre en monoterapia o en combinación con
+metotrexato.
+ Experiencia clínica en linfoma no-Hodgkin
+ Linfoma no-Hodgkin folicular
+ Monoterapia
+ Tratamiento inicial, semanal, 4 dosis
+En el ensayo pivotal, 166 pacientes con LNH de bajo grado o folicular de células B quimiorresistente
+o en recidiva recibieron 375 mg/m2 de MabThera como perfusión intravenosa una vez por semana
+durante cuatro semanas. La tasa de respuesta global (TRG/ORR) en la población por intención de
+tratar (ITT) fue del 48 % (IC95 %: 41 % - 56 %) con un 6 % de respuestas completas (RC) y un 42 % de
+respuestas parciales (RP). La mediana proyectada del tiempo hasta progresión (TTP) en los pacientes
+respondedores fue de 13,0 meses. En un análisis de subgrupos, la TRG fue mayor en pacientes con
+subtipos histológicos de la IWF (International Working Formulation) B, C y D si se compara con el
+subtipo IWF A (58 % vs. 12 %), la TRG fue mayor en pacientes cuyo diámetro mayor de la lesión más
+grande era < 5 cm vs > 7 cm (53 % vs 38 %) y la TRG también fue mayor en pacientes con recidiva
+quimiosensible si se compara con las recidivas quimioresistentes (definidas como duración de la
+respuesta < 3 meses) (50 % vs 22 %). La TRG en pacientes sometidos previamente a un trasplante
+autólogo de médula ósea (TAMO) fue del 78 % vs. 43 % en pacientes sin TAMO. Ni los factores
+como la edad, sexo, grado del linfoma, diagnóstico inicial, presencia o ausencia de enfermedad bulky,
+LDH normal o elevada ni la presencia de enfermedad extranodal tuvieron un efecto estadísticamente
+significativo (test de exactitud de Fisher) sobre la respuesta de MabThera. Se ha determinado una
+correlación estadísticamente significativa entre la tasa de respuesta y la afectación de la médula ósea.
+El 40 % de los pacientes con afectación de la médula ósea respondieron al tratamiento frente al 59 %
+de los pacientes sin afectación de la médula ósea (p=0,0186). Este hallazgo no fue apoyado por un
+análisis de regresión logística por etapas en el cual se identificaron los siguientes factores pronósticos:
+tipo histológico, positividad basal para bcl-2, resistencia a la última quimioterapia administrada y
+enfermedad bulky.
+ Tratamiento inicial, semanal, 8 dosis
+En un ensayo multicéntrico, no controlado, 37 pacientes con LNH de bajo grado o folicular de células
+B en recidiva o quimiorresistente recibieron 375 mg/m2 de MabThera como perfusión
+intravenosasemanal durante 8 semanas. La TRG fue del 57 % (Intervalo de confianza (CI) del
+95%;41 % - 73 %; RC 14 %, RP 43 %) con una mediana proyectada del TTP de 19,4 meses (rango 5,3
+a 38,9 meses) para los pacientes que respondieron a la terapia.
+ Tratamiento inicial, enfermedad bulky, semanal, 4 dosis
+Con datos agrupados de tres ensayos clínicos, 39 pacientes con LNH de tipo bulky de bajo grado o
+folicular de células B (lesión única  10 cm de diámetro), en recidiva o quimiorresistente, recibieron
+375 mg/m2 de MabThera como perfusión intravenosa semanal durante 4 semanas. La TRG fue del
+36 % (IC95 % 21 % - 51 %; RC 3 %, RP 33 %) con una mediana del TTP de 9,6 meses (rango 4,5 a
+26,8 meses) para los pacientes que respondieron a la terapia.
+ Retratamiento, semanal, 4 semanas
+En un ensayo multicéntrico, no controlado, 58 pacientes con LNH folicular de bajo grado o folicular
+de células B en recidiva o quimiorresistente, que habían alcanzado una respuesta clínica objetiva en un
+tratamiento previo con MabThera, fueron retratados con 375 mg/m2 de MabThera en perfusión
+intravenosa semanal durante cuatro semanas. Tres de estos pacientes habían recibido dos ciclos de
+tratamiento antes de ser incluidos en el ensayo, lo que significa que recibieron su tercer ciclo de
+tratamiento en el ensayo. Dos pacientes fueron retratados dos veces en el ensayo. En los 60
+retratamientos del ensayo, la TRG fue del 38 % (IC95 % 26 % - 51 %; RC 10 %, RP 28 %) con una
+mediana proyectada de TTP de 17,8 meses (rango 5,4 a 26,6 meses) para los pacientes que
+respondieron a la terapia. Estos datos son más favorables que el TTP alcanzado tras el tratamiento
+previo con MabThera (12,4 meses).
+ Tratamiento inicial, en combinación con quimioterapia
+ En un ensayo abierto aleatorizado, un total de 322 pacientes con linfoma folicular no tratados
+previamente recibieron quimioterapia CVP (ciclofosfamida 750 mg/m2, vincristina 1,4 mg/m2 hasta un
+máximo de 2 mg el día 1, y prednisolona 40 mg/m2/día los días 1-5) cada 3 semanas durante 8 ciclos o
+bien MabThera 375 mg/m2 en combinación con CVP (R-CVP). MabThera se administró el primer día
+de cada ciclo de tratamiento. La eficacia se evaluó en un total de 321 pacientes tratados (162 R-CVP,
+159 CVP). La mediana de la duración del seguimiento de los pacientes fue de 53 meses. El grupo
+tratado con R-CVP obtuvo un beneficio significativo sobre el tratado con CVP en lo que respecta a la
+variable principal de eficacia, el tiempo hasta el fracaso del tratamiento (TFT) (27 meses vs. 6,6
+meses; p < 0,0001; log-rank test). . La proporción de pacientes con respuesta antitumoral (RC,
+respuesta completa no confirmada RCnc, RP) fue significativamente superior (p< 0,0001 test Chi-
+cuadrado) en el grupo R-CVP (80,9 %) que en el grupo CVP (57,2 %). El tratamiento R-CVP
+prolongó significativamente el tiempo hasta progresión de la enfermedad o fallecimiento en
+comparación con CVP; 33,6 meses y 14,7 meses, respectivamente (p < 0,0001; log-rank test). La
+mediana de la duración de la respuesta fue de 37,7 meses en el grupo R-CVP y de 13,5 meses en el
+grupo CVP (p < 0,0001; log-rank test).
+La diferencia entre los grupos de tratamiento con respecto a la supervivencia global fue clínicamente
+significativa (p = 0,029; log-rank test estratificado por centros): la tasa de supervivencia a los 53
+meses fue del 80,9 % para pacientes del grupo R-CVP comparada con el 71,1 % para pacientes del
+grupo CVP.
+ Los resultados de otros tres ensayos aleatorizados en los que se utilizó MabThera/Rituxan en
+combinación con un régimen de quimioterapia distinto de CVP (CHOP, MCP, CHVP/Interferon-)
+han demostrado también mejorías significativas en las tasas de respuesta, en parámetros dependientes
+del tiempo, así como en supervivencia global.
+La tabla 3 resume los resultados clave de los cuatro ensayos.
+ Tabla 3      Resumen de los resultados clave de cuatro ensayos aleatorizados de fase III para
+evaluar el beneficio de MabThera con diferentes regímenes de quimioterapia en
+linfoma folicular
+  Ensayo      Tratamiento      Mediana de        Tasa de      Respuesta Mediana de             TSG, %
+CVP, 159
+M39021
+R-CVP, 162
+                                                                                                18-meses
+GLSG'00 CHOP, 205                   18             90              17        2,6años
+R-CHOP, 223                                96              20      No alcanzada
+                                                                            Mediana SLP:        48-meses
+MCP- 96                47             75              25          28,8               74
+OSHO-39
+R-MCP, 105                            92              50      No alcanzada           87
+                                                                          Mediana SLE: 36       42-meses
+CHVP-IFN,
+183
+FL2000
+R-CHVP-
+IFN, 175
+ TP ­ Tiempo hasta Progresión o fallecimiento
+SLP ­ Supervivencia Libre de Progresión
+SLE ­ Supervivencia Libre de Evento
+TFT ­ Tiempo hasta Fracaso del Tratamiento
+TSG ­ Tasa de Supervivencia Global en el momento de los análisis
+ Terapia de mantenimiento
+ En un ensayo de fase III, prospectivo, abierto, internacional y multicéntrico, en la primera fase se
+distribuyeron aleatoriamente, 465 pacientes con LNH folicular en recidiva o refractario para recibir
+una terapia de inducción con CHOP (ciclofosfamida, doxorrubicina, vincristina y prednisona; n=231)
+o con MabThera más CHOP (R-CHOP, n=234). Los dos grupos de tratamiento estuvieron bien
+equilibrados en cuanto a las características basales y el estado de la enfermedad. En la segunda fase los
+334 pacientes que consiguieron una remisión completa o parcial tras la terapia de inducción fueron
+distribuidos aleatoriamente, para recibir terapia de mantenimiento con MabThera (n=167) u
+observación (n=167). El tratamiento de mantenimiento con MabThera consistió en una perfusión única
+de MabThera a una dosis de 375 mg/m2 de superficie corporal, administrado cada 3 meses durante un
+periodo máximo de 2 años o hasta progresión de la enfermedad.
+ El análisis de eficacia final incluyó a todos los pacientes aleatorizados en ambas fases del ensayo. Tras
+una mediana de tiempo de observación de 31 meses, el resultado de los pacientes con LNH folicular
+en recidiva o refractario incluidos en la fase de inducción, con R-CHOP mejoró significativamente
+comparado con CHOP (ver Tabla 4).
+ Tabla 4     Fase de inducción: resumen de los resultados de eficacia de CHOP vs. R-CHOP (
+tiempo de observación 31 meses de mediana)
+Eficacia primaria
+TRG 2)       74%            87%            0.0003            Nd
+RC 2)       16%            29%            0.0005            Nd
+RP 2)       58%            58%            0.9449            Nd
+1)
+Las estimaciones fueron calculadas por hazard ratio
+2)
+La última respuesta tumoral evaluada por el investigador. La evaluación estadística primaria de la
+respuesta fue un test de tendencia de la respuesta completa vs respuesta parcial vs no respuesta
+(p< 0,0001) Abreviaturas: Nd: no disponible; TRG: tasa de respuesta global; RC: respuesta completa;
+RP: respuesta parcial.
+ Para los pacientes aleatorizados en la fase de mantenimiento del estudio, la mediana del tiempo de
+observación fue 28 meses desde la aleatorización. El tratamiento de mantenimiento con MabThera
+condujo a una mejoría significativa y clínicamente relevante de la variable principal de eficacia, la
+supervivencia libre de progresión o SLP (tiempo desde la aleatorización al tratamiento de
+mantenimiento hasta la recidiva, progresión de la enfermedad o fallecimiento) en comparación con los
+pacientes en observación (p< 0,0001 log-rank test). La mediana de la SLP fue 42,2 meses en el brazo
+de mantenimiento con MabThera en comparación con los 14,3 meses del brazo en observación.
+Utilizando el análisis de regresión de Cox, el riesgo de experimentar una progresión de la enfermedad
+o fallecimiento se redujo un 61 % con el tratamiento de mantenimiento con MabThera en comparación
+con el brazo de observación (95 % IC; 45 %-72 %). Según una estimación de las curvas de Kaplan­
+Meier, la supervivencia libre de eventos a los 12 meses fue de 78 % en el grupo de mantenimiento con
+MabThera vs 57 % en el grupo en observación. Un análisis de la supervivencia global confirmó el
+beneficio significativo del tratamiento de mantenimiento con MabThera versus observación (p=0,0039
+log-rank test). El tratamiento de mantenimiento con MabThera redujo el riesgo de fallecimiento en un
+56 % (95 % IC: 22 %-75 %).
+ Tabla 5     Fase de mantenimiento: resumen de los resultados de eficacia de MabThera vs.
+Observación (tiempo de observación 28 meses de mediana)
+Variable de eficacia           Estimación según las curvas de Kaplan-        Reducción
+Supervivencia libre de                 14.3          42.2         <0.0001            61%
+progresión (SLP)
+ Supervivencia global (SG)              NA              NA            0.0039          56%
+ Tiempo hasta un nuevo                  20.1           38.8          <0.0001          50%
+tratamiento del linfoma
+ Supervivencia libre de                 16.5           53.7           0.0003          67%
+enfermedada
+ Análisis de subgrupos
+SLP
+ SG
+ NA: no alcanzado; a: sólo aplicable a pacientes que consiguieron una CR
+ El beneficio del tratamiento de mantenimiento con MabThera se confirmó en todos los análisis de
+subgrupos, independientemente del régimen de inducción (CHOP o R-CHOP) o la calidad de la
+respuesta al tratamiento de inducción (RC o RP) (tabla 5). El tratamiento de mantenimiento con
+MabThera prolongó significativamente la mediana de la SLP en los pacientes respondedores a la
+terapia de inducción con CHOP (mediana de SLP 37,5 meses vs 11,6 meses, p< 0,0001) y también en
+los pacientes respondedores a la terapia de inducción con R-CHOP (mediana de SLP 51,9 meses vs
+22,1 meses, p=0,0071). Aunque los subgrupos fueron pequeños, el tratamiento de mantenimiento con
+MabThera proporcionó un beneficio significativo en términos de supervivencia global tanto para los
+pacientes respondedores a CHOP como para los pacientes respondedores a R-CHOP, aunque se
+necesita un seguimiento más largo para confirmar esta observación.
+ Linfoma no-Hodgkin difuso de células B grandes
+ En un ensayo abierto, aleatorizado, un total de 399 pacientes ancianos previamente no tratados (edad
+entre 60 y 80 años) que padecían linfoma difuso de células B grandes recibieron quimioterapia CHOP
+estándar (ciclofosfamida 750 mg/m2, doxorrubicina 50 mg/m2, vincristina 1,4 mg/m2 hasta un máximo
+de 2 mg el día 1 y prednisolona 40 mg/m2/día los días 1-5) cada 3 semanas durante 8 ciclos o bien
+recibieron MabThera 375 mg/m2 más CHOP (R-CHOP). MabThera se administró el primer día de
+cada ciclo de tratamiento.
+ El análisis final de eficacia incluyó todos los pacientes aleatorizados (197 CHOP, 202 R-CHOP), y
+obtuvo una mediana de tiempo de seguimiento de aproximadamente 31 meses. Los dos grupos de
+ tratamiento estuvieron bien equilibrados en cuanto a las características basales y el estatus de la
+enfermedad. El análisis final confirmó que el tratamiento con R-CHOP estaba asociado con una
+mejoría clínicamente relevante y estadísticamente significativa en la duración de la supervivencia libre
+de eventos (variable principal de eficacia, donde los eventos fueron fallecimiento, recidiva o
+progresión del linfoma o instauración de un nuevo tratamiento anti-linfoma) (p=0,0001). La
+estimación de la duración media de la supervivencia libre de eventos fue de 35 meses según las curvas
+de Kaplan Meier en el brazo tratado con R-CHOP frente a 13 meses en el brazo con CHOP, lo cual
+representa una reducción del riesgo del 41 %. A 24 meses, la estimación de la supervivencia global fue
+del 68,2 % en el brazo con R-CHOP frente al 57,4 % en el brazo con CHOP. Un análisis posterior de
+la duración de la supervivencia global, durante un periodo de seguimiento de 60 meses de mediana,
+confirmó el beneficio del tratamiento de R-CHOP sobre el CHOP (p=0,0071), lo cual representa una
+reducción del riesgo del 32 %.
+ El análisis de todas las variables secundarias (índices de respuesta, supervivencia libre de progresión,
+supervivencia libre de enfermedad, duración de la respuesta) confirma el efecto del tratamiento con R-
+CHOP cuando se compara con CHOP. El índice de respuestas completas tras el ciclo 8 fue de 76,2 %
+en el grupo con R-CHOP y de 62,4 % en el grupo con CHOP (p=0,0028). El riesgo de progresión de la
+enfermedad se redujo en un 46 % y el riesgo de recidiva en un 51 %. En todos los subgrupos de
+pacientes (sexo, edad, IPI ajustado por edad, estadio Ann Arbor, ECOG, 2 microglobulina, LDH,
+albúmina, síntomas- B, enfermedad bulky, localizaciones extranodulares, afectación de médula ósea),
+las relaciones de riesgo para la supervivencia libre de eventos y la supervivencia global (R-CHOP
+comparado con CHOP) fueron menos de 0,83 y 0,95, respectivamente. El R-CHOP se asoció con
+mejoría en el resultado del tratamiento tanto de pacientes de alto como de bajo riesgo, de acuerdo al
+IPI ajustado por edad.
+ Datos de laboratorio
+ No se apreciaron respuestas en los 67 pacientes en los que se evaluó el anticuerpo antimurino humano
+HAMA. De 356 pacientes en los que se evaluó el HACA, el 1,1 % fueron positivos (4 pacientes).
+ Experiencia clínica en la artritis reumatoide
+ La eficacia y la seguridad de MabThera para aliviar los síntomas y los signos de la artritis reumatoide
+se demostró en tres ensayos aleatorizados, controlados, doble ciego y multicéntricos.
+ El ensayo 1 fue un ensayo comparativo, doble ciego, que incluyo 517 pacientes que habían mostrado
+una respuesta inadecuada o intolerancia a uno o más tratamientos inhibidores de TNF. Los pacientes
+elegibles sufrían una artritis reumatoide activa, desde hace por lo menos 6 meses, diagnosticada según
+los criterios de la American College of Rheumatology (ACR), con recuento de articulaciones dolorosas
+(SJC) (8 (66 articulaciones contadas)), y recuento de articulaciones tumefactas (TJC) (8 (68
+articulaciones contadas)) aumento en la proteína C reactiva (PCR) o la tasa de sedimentación
+eritrocítica (ESR). La variable principal de eficacia fue el porcentaje de pacientes que habían
+alcanzado una respuesta ACR20 a las 24 semanas. Los pacientes recibieron dos perfusiones
+intravenosas de 1000 mg de MabThera en un intervalo de 15 días; cada perfusión siguió a la perfusión
+intravenosa de 100 mg de metilprednisona. Todos los pacientes recibieron al mismo tiempo
+metotrexato por ví
+ 
+	Prospectos de medicamentos.

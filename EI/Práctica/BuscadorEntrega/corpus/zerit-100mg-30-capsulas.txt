@@ -1,0 +1,834 @@
+ZERIT 100MG 30 CAPSULAS
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Zerit 15 mg cápsula dura
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula dura contiene 15 mg de estavudina.
+Para la lista completa de Excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Cápsula dura.
+La cápsula dura es roja y amarilla opaca y lleva las siglas BMS sobre un código de BMS ""1964""
+marcadas en una parte y ""15"" en la otra.
+ 
+
+"
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Zerit está indicado en combinación con otros fármacos antirretrovirales, en el tratamiento de pacientes
+infectados por el VIH.
+ 4.2   Posología y forma de administración
+ Por vía oral.
+ El tratamiento debe iniciarse por un médico con experiencia en el manejo de la infección por VIH (ver
+también sección 4.4).
+ Adultos: la dosis recomendada es:
+Peso del paciente                         Dosis de Zerit
+< 60 kg                                   30 mg dos veces al día (cada 12 horas)
+60 kg                                    40 mg dos veces al día
+ Adolescentes, niños y lactantes mayores de 3 meses: la dosis recomendada es:
+Edad y/o Peso del paciente              Dosis de Zerit
+< 30 kg                                 1 mg/kg dos veces al día (cada 12 horas)
+30 kg                                  dosis recomendada para adultos
+ Para conseguir una absorción óptima, Zerit debe administrarse con el estómago vacío (es decir, al
+menos una hora antes de las comidas), si esto no fuera posible, se puede tomar con una comida ligera.
+Zerit puede también administrarse abriendo cuidadosamente la cápsula y mezclando el contenido con
+los alimentos.
+ Lactantes menores de 3 meses: consultar la Ficha técnica de la formulación, polvo para solución oral.
+ Ancianos: Zerit no se ha estudiado específicamente en pacientes mayores de 65 años.
+ Ajuste de la dosis
+ Neuropatía Periférica: si se desarrollan síntomas de neuropatía periférica (caracterizada generalmente
+por entumecimiento persistente, hormigueo o dolor en los pies y/o las manos) (ver apartado 4.4)
+debería considerarse la posibilidad de cambiar a los pacientes a un tratamiento alternativo, si fuera
+adecuado. En los casos poco habituales en los que esto no fuese conveniente, debería considerarse la
+                                                     2
+reducción de la dosis de estavudina, siempre que los síntomas de neuropatía periférica estén bajo
+monitorización y el mantenimiento de la supresión viral sea satisfactorio. Los posibles beneficios de
+una reducción de dosis deberán sopesarse en cada caso, en función de los riesgos que podría provocar
+esta medida (como, concentraciones intracelulares más bajas).
+ Insuficiencia hepática: no es necesario un ajuste de la dosis inicial.
+ Insuficiencia renal: se recomiendan las dosis siguientes:
+Peso del paciente 26-50 ml/min                 25 ml/min
+< 60 kg             15 mg dos veces al día 15 mg cada 24 horas
+60 kg               20 mg dos veces al día    20 mg cada 24 horas
+* Los pacientes en hemodiálisis deberán tomar Zerit al finalizar la sesión de hemodiálisis, y a la
+misma hora en los días sin sesión de diálisis.
+ Teniendo en cuenta que en los pacientes pediátricos, la vía urinaria es la principal vía de eliminación
+de estavudina, el aclaramiento de estavudina podria estar alterado en los pacientes pediátricos con
+insuficiencia renal. Aunque no se dispone de datos suficientes para recomendar un ajuste específico de
+la dosificación de Zerit en esta población de pacientes, debería considerarse una reducción de la dosis
+y/o un incremento del intervalo de tiempo entre dosis tal como se considera en el caso de los adultos.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a estavudina o a cualquiera de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Neuropatía periférica: los pacientes con antecedentes de neuropatía periférica presentan un riesgo más
+elevado de desarrollar neuropatía. Si es necesario administrar Zerit en este tipo de pacientes, es
+esencial una monitorización clínica cuidadosa. Los síntomas de neuropatía periférica se caracterizan
+por entumecimiento persistente, hormigueo o dolor en los pies y/o las manos.
+ Pancreatitis: los pacientes tratados con Zerit, con antecedentes de pancreatitis tienen una incidencia de
+pancreatitis de aproximadamente un 5%, en comparación con aproximadamente un 2% en pacientes
+sin dicho antecedente. Se debe vigilar de cerca la aparición de síntomas de pancreatitis en pacientes de
+alto riesgo o en aquéllos que estén recibiendo productos que se sabe están asociados con la aparición
+de pancreatitis.
+ Acidosis láctica: con el uso de nucleósidos inhibidores de la transcriptasa inversa (NRTIs) se ha
+comunicado acidosis láctica, generalmente asociada a hepatomegalia y esteatosis hepática. Los
+primeros síntomas (hiperlactatemia sintomática) incluyen síntomas digestivos benignos (náuseas,
+vómitos y dolor abdominal), malestar general, pérdida de apetito, pérdida de peso, síntomas
+respiratorios (respiración rápida y/o profunda) o síntomas neurológicos (incluyendo debilidad motora).
+La acidosis láctica tiene una alta mortalidad y puede estar asociada a pancreatitis, fallo hepático, fallo
+renal o parálisis motora.
+La acidosis láctica generalmente aparece después de unos pocos o varios meses de tratamiento.
+El tratamiento con nucleósidos inhibidores de la transcriptasa inversa (NRTIs) debe interrumpirse si se
+producen síntomas de hiperlactatemia sintomática y acidosis láctica/metabólica, hepatomegalia
+progresiva o una elevación rápida de los niveles de aminotransferasas.Deberá tenerse precaución
+cuando se administren NRTIs a pacientes (en especial mujeres obesas) con hepatomegalia, hepatitis u
+otros factores de riesgo conocidos de enfermedad hepática y esteatósis hepática (incluyendo ciertos
+medicamentos y el alcohol). Los pacientes con infección concomitante de hepatitis C y tratados con
+interferón alfa y ribavarina pueden tener un riesgo especial.
+ Deberá realizarse un seguimiento pormenorizado de estos pacientes de mayor riesgo. (Ver también
+sección 4.6).
+ Disfunción hepática: se han registrado casos de hepatitis o insuficiencia hepática, que en ocasiones
+han sido fatales. No se ha establecido la seguridad y eficacia de estavudina en pacientes con trastornos
+hepáticos subyacentes importantes. Los pacientes con hepatitis B o C crónica tratados con
+medicamentos antirretrovirales de combinación tienen un mayor riesgo de acontecimientos adversos
+hepáticos graves y potencialmente mortales. En caso de tratamiento antiviral concomitante para
+hepatitis B o C, se debe consultar también la información relacionada con estas especialidades
+farmacéuticas.
+ Los pacientes con disfunción hepática preexistente, incluyendo hepatitis crónica activa, presentan una
+mayor frecuencia de anomalías de la función hepática durante el tratamiento antirretroviral combinado
+y deben ser vigilados según la práctica estándar. Si hay pruebas de empeoramiento de la hepatopatía
+en estos pacientes, debe considerarse la interrupción o suspensión del tratamiento.
+ En el caso de elevaciones rápidas de los niveles de transaminasas (ALT/AST > 5 veces el límite
+normal superior, LNS), debería considerarse la interrupción del tratamiento con Zerit y cualquier otro
+medicamento potencialmente hepatotóxico.
+ Síndrome de Reconstitución Inmune: Cuando se instaura una terapia antirretroviral combinada
+(TARC) en pacientes infectados por VIH con deficiencia inmune grave, puede aparecer una respuesta
+inflamatoria frente a patógenos oportunistas residuales o asintomáticos y provocar situaciones clínicas
+graves, o un empeoramiento de los síntomas. Normalmente estas reacciones se han observado en las
+primeras semanas o meses después del inicio de la terapia antirretroviral combinada. Algunos
+ejemplos relevantes de estas reacciones son: retinitis por citomegalovirus, infecciones micobacterianas
+generalizadas y/o localizadas y neumonía por Pneumocystis carinii. Se deberá evaluar cualquier
+síntoma inflamatorio y establecer un tratamiento cuando fuese necesario.
+ Lipodistrofia y alteraciones metabólicas: La terapia antirretroviral combinada se ha asociado con una
+redistribución de la grasa corporal (lipodistrofia) en pacientes VIH positivo. Actualmente se
+desconocen las consecuencias a largo plazo de estos acontecimientos. El conocimiento actual sobre el
+mecanismo de acción es incompleto. Se ha planteado la hipótesis de una relación entre la lipomatosis
+visceral y los Inhibidores de la Proteasa, y la lipoatrofia y los nucleósidos inhibidores de la
+Transcriptasa Inversa (NRTIs). Se ha relacionado un mayor riesgo de lipodistrofia con factores
+individuales tales como la edad avanzada, y con factores relacionados con el fármaco tales como una
+larga duración del tratamiento antirretroviral o trastornos metabólicos asociados. El examen clínico
+debe incluir una evaluación de los signos físicos de redistribución de la grasa. Se deben tener en
+cuenta los niveles de lípidos en suero y de glucosa en sangre. Los trastornos lipídicos deben tratarse
+como se considere clínicamente apropiado (véase sección 4.8).
+ En los pacientes a tratamiento con estavudina, existen evidencias de que la toxicidad ADN
+mitocondrial podría estar asociada con características específicas de lipoatrofia. Esto debería tenerse
+en cuenta cuando se considere iniciar una terapia antirretroviral de combinación con estavudina.
+ Osteonecrosis: se han notificado casos de osteonecrosis, especialmente en pacientes con infección
+avanzada por VIH y/o exposición prolongada al tratamiento antirretroviral combinado (TARC),
+aunque se considera que la etiología es multifactorial (incluyendo uso de corticosteroides, consumo de
+alcohol, inmunodepresión grave, índice de masa corporal elevado). Se debe aconsejar a los pacientes
+que consulten al médico si experimentan molestias o dolor articular, rigidez articular o dificultad para
+moverse.
+ Ancianos: Zerit no se ha estudiado específicamente en pacientes mayores de 65 años.
+ Lactantes menores de 3 meses: se dispone de datos de seguridad provenientes de estudios clínicos de
+hasta 6 semanas de tratamiento realizados en 179 pacientes recién nacidos y lactantes menores de 3
+meses (ver apartado 4.8).
+                                                     4
+Se deberá tener en especial consideración la historia del tratamiento antirretroviral administrado a la
+madre y el perfil de resistencia de la cepa VIH de la misma.
+ Disfunción mitocondrial: se ha demostrado in vitro e in vivo que los análogos de nucleótido y de
+nucleósido causan un grado variable de daño mitocondrial. Ha habido informes de disfunción
+mitocondrial en bebés VIH negativo expuestos in utero y/o post-parto a análogos de nucleósido (ver
+además sección 4.8). Los principales acontecimientos adversos notificados son trastornos
+hematológicos (anemia, neutropenia), trastornos metabólicos (hiperlactatemia, hiperlipasemia). Estos
+acontecimientos son a menudo transitorios. Se han notificado algunos trastornos neurológicos de
+aparición tardía (hipertonía, convulsión, comportamiento anormal). Actualmente no se sabe si los
+trastornos neurológicos son transitorios o permanentes. Cualquier niño expuesto in utero a análogos de
+nucleótido o de nucleósido, incluso los niños VIH negativo, deben someterse a un seguimiento clínico
+y de laboratorio, y en caso de signos o síntomas relevantes debe ser minuciosamente investigada una
+posible disfunción mitocondrial. Estos hallazgos no afectan a las recomendaciones actuales para
+utilizar tratamiento antirretroviral en mujeres embarazadas para prevenir la transmisión vertical del
+VIH.
+ Combinaciones no recomendadas: en pacientes infectados por VIH que fueron tratados con estavudina
+asociada con hidroxiurea y didanosina, se detectaron casos de pancreatitis (mortal y no mortal) y
+neuropatía periférica (grave en algunos casos). En pacientes infectados con VIH, tratados con
+medicamentos antirretrovirales y hidroxiurea, durante el seguimiento post-comercialización de
+seguridad del medicamento, se han encontrado casos de hepatotoxicidad y fallo hepático que en
+algunos casos terminó en muerte, las alteraciones hepáticas mortales se detectaron con más frecuencia
+en los pacientes tratados con estavudina, hidroxiurea y didanosina. Por lo tanto, no se recomienda la
+administración de hidroxiurea en el tratamiento de la infección por VIH.
+ Intolerancia a la lactosa: la cápsula dura contiene lactosa (120 mg). Los pacientes con problemas
+hereditarios poco comunes de intolerancia a galactosa, insuficiencia de lactasa de Lapp o malabsorción
+de glucosa-galactosa no deberían tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Los estudios de interacciones se han realizado solo en adultos.
+ Ya que estavudina se secreta activamente por los túbulos renales, son posibles las interacciones con
+con otros medicamentos secretados activamente, por ejemplo, con trimetoprim. Sin embargo no se ha
+observado ninguna interacción farmacocinética clínicamente relevante con lamivudina.
+ Zidovudina y estavudina son fosforiladas por el enzima celular (timidina quinasa), que fosforila
+preferencialmente zidovudina, disminuyendo de este modo la fosforilación de estavudina a su forma
+activa trifosfato. Por ello, no se recomienda la utilización de zidovudina en combinación con
+estavudina.
+ Los estudios in vitro indicaron que la activación de estavudina es inhibida por doxorubicina y
+ribavirina, pero no por con otros medicamentos utilizados en el tratamiento de la infección por el VIH que
+igualmente se fosforilan, (por ej: didanosina, zalcitabina, ganciclovir y foscarnet). Por lo tanto, la
+coadministración de estavudina con doxorrubicina o ribavirina deberá asumirse con precaución. No se
+ha investigado la influencia de estavudina sobre las cinéticas de fosforilación de otros análogos de
+nucleósidos distintos de zidovudina.
+ No se han observado interacciones clínicamente significativas de estavudina o de estavudina y
+didanosina con nelfinavir.
+ La estavudina no inhibe a las principales isoformas del citocromo P450, CYP1A2, CYP2C9,
+CYP2C19, CYP2D6 y CYP3A4 por lo tanto, es poco probable que haya interacciones farmacológicas
+clínicamente significaticas con medicamentos que sean metabolizados por estas vías.
+ Como la estavudina no se une a las proteínas plasmáticas, no se espera que afecte a la farmacocinética
+de los medicamentos unidos a estas proteínas.
+ No se han realizado estudios específicos de interacción con otros fármacos.
+ 4.6   Embarazo y lactancia
+ Zerit no debería administrarse durante el embarazo, a menos que sea claramente necesario.
+ La experiencia clínica en mujeres embarazadas es limitada, pero se han observado casos de anomalías
+congénitas y abortos.
+ El estudio AI455-094, realizado en Sudáfrica, fue un estudio de prevención de la transmisión madre-
+hijo en el que se incluyeron 362 parejas madre-hijo. Las mujeres embarazadas sin tratamiento previo
+fueron incluidas en el estudio en la semana 34-36 de la gestación y tratadas hasta el momento del
+parto. Como profilaxis antirretroviral se administró a los recién nacidos la misma medicación que se
+había administrado a la madre durante las 36 horas posteriores al parto y hasta las 6 semanas de vida.
+En las ramas de tratamiento del estudio en que se incluía estavudina, los recién nacidos eran tratados
+con 1 mg/Kg de estavudina, dos veces al día durante 6 semanas. El tiempo máximo fue en algunos
+casos hasta 24 semanas de edad.
+Las parejas madre-hijo fueron randomizadas según el tratamiento recibido, estavudina (N= 91),
+didanosina (N= 94), estavudina + didanosina (N= 88) o zidovudina (N= 89).
+Los promedios de intervalos de confianza 95% para la transmisión madre a hijo fueron de, 5.4-19.3%
+(estavudina); 5.2-18.7% (didanosina); 1.3-11.2% (estavudina + didanosina) y 1.9-12.6% para
+zidovudina.
+ Los datos de seguridad preliminares de este estudio (ver también sección 4.8) mostraron un
+incremento de la mortalidad infantil en el grupo tratado con estavudina + didanosina (10%) en
+comparación con los grupos tratados con estavudina (2%), didanosina (3%) o zidovudina (6%), con
+una incidencia más elevada de partos con fetos muertos en el grupo estavudina + didanosina.
+ En este estudio no se recogieron datos sobre el contenido de ácido láctico en suero. Sin embargo, se ha
+notificado acidosis láctica (ver apartado 4.4), en ocasiones fatal, en mujeres embarazadas que recibieron
+la combinación de didanosina y estavudina, con o sin otro tratamiento anti-retroviral. En animales,
+solamente se ha observado toxicidad embriofetal a niveles elevados de exposición. Estudios
+preclínicos han demostrado transferencia de estavudina a traves de la placenta (ver apartado 5.3).Hasta
+que se disponga de datos adicionales, Zerit debe administrarse durante el embarazo sólo después de
+haberlo considerado cuidadosamente, la información de que se dispone es insuficiente para
+recomendar Zerit en la prevención de la transmisión madre a hijo del VIH. Además, la combinación de
+estavudina y didanosina deberá ser utilizada con precaución durante el embarazo y se recomendará
+solamente si el beneficio potencial prevalece claramente sobre el riesgo potencial.
+ Se recomiendan que las mujeres infectadas por el VIH no amamanten bajo ninguna circunstancia, para
+evitar la transmisión del VIH a los niños.
+Los datos disponibles sobre la excreción de estavudina en la leche humana, son insuficientes para
+establecer el riesgo en el lactante. Estudios en ratas lactantes demostraron que estavudina se excreta en
+la leche materna. Por esta razón debe recomendarse a las madres interrumpir la lactancia antes de
+tomar Zerit.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ En base a las propiedades farmacodinámicas de estavudina, es poco probable que Zerit afecte a la
+capacidad para conducir y utilizar maquinaria.
+                                                     6
+4.8   Reacciones adversas
+ Adultos: existe disponible una amplia experiencia de seguridad con Zerit utilizado en monoterapia y
+en regímenes de combinación. Muchas de las reacciones adversas graves notificadas con estavudina
+fueron compatibles con el curso de la infección por VIH o con los efectos secundarios de tratamientos
+concomitantes.
+ Neuropatía periférica: En los estudios en combinación de Zerit con lamivudina más efavirenz, la
+frecuencia de los síntomas neurológicos periféricos fue del 19% (6% de moderado a grave), con un
+promedio de discontinuación debido a la neuropatía del 2%.
+En los estudios en monoterapia con Zerit la neuropatía periférica fue dosis-dependiente y requirió
+modificación de la dosis (ver secciones 4.2 y 4.4). Los pacientes generalmente experimentaron
+resolución de los síntomas tras la interrupción o la reducción de la dosis.
+ Pancreatitis: la pancreatitis, en ocasiones fatal, se presentó en hasta un 2-3% de los pacientes
+reclutados en ensayos clínicos de monoterapia (ver apartado 4.4). La pancreatitis fue detectada en < 1%
+de los pacientes en los estudios de terapia de combinación con Zerit.
+ Acidosis láctica: se han notificado casos de acidosis láctica, en ocasiones fatal, generalmente asociada
+con hepatomegalia y esteatosis hepática graves, con el uso de análogos de nucleósidos (ver apartado 4.4).
+ Se han notificado casos de hepatitis o fallo hepático, fatales en algunos casos, con el uso de estavudina
+y con otros análogos de nucleósidos (ver apartado 4.4).
+ Síndrome de Reactivación Inmune: Al inicio de la terapia antirretroviral combinada, en los pacientes
+infectados por VIH con deficiencia inmune grave, puede aparecer una respuesta inflamatoria frente a
+infecciones oportunistas latentes o asintomáticas (véase sección 4.4).
+ Lipodistrofia y alteraciones metabólicas: La terapia antirretroviral combinada se ha asociado con una
+redistribución de la grasa corporal (lipodistrofia) en pacientes VIH, que incluye pérdida de grasa
+subcutánea periférica y facial, aumento de la grasa intra-abdominal y visceral, hipertrofia de las
+mamas y acumulación de la grasa dorsocervical (joroba de búfalo).
+ La terapia antirretroviral combinada se ha asociado con anomalías metabólicas tales como
+hipertrigliceridemia, hipercolesterolemia, resistencia a la insulina, hiperglucemia e hiperlactacidemia
+(véase sección 4.4).
+ Osteonecrosis: se han notificado casos de osteonecrosis, especialmente en pacientes con factores de
+riesgo generalmente reconocidos, enfermedad avanzada por VIH o exposición prolongada al
+tratamiento antirretroviral combinado (TARC). Se desconoce la frecuencia de esta reacción adversa
+(ver apartado 4.4).
+ La frecuencia de reacciones adversas listadas a continuación está definida aplicando la siguiente
+convención: muy frecuente (> 1/10); frecuente (> 1/100, < 1/10); poco frecuente (> 1/1,000, < 1/100);
+rara (> 1/10,000, < 1/1,000); muy rara (< 1/10,000). Las reacciones adversas se presentan en orden
+decreciente de gravedad dentro de cada frecuencia.
+ Reacciones adversas (moderadas a graves) fueron notificadas por 467 pacientes tratados con Zerit en
+combinación con lamivudina y efavirenz en dos ensayos clínicos aleatorios y un estudio de
+continuación a largo plazo (investigación total llevada a cabo: 56 semanas de mediana extendiendose a
+119 semanas). Las siguientes reacciones adversas están posiblemente relacionadas con el régimen del
+estudio en base a atribución de los investigadores y han sido identificadas como frecuentes:
+ Trastornos endocrinos:              Poco frecuentes: ginecomastia
+ Trastornos gastrointestinales:      Frecuentes: diarrea; dolor abdominal, náusea; vómitos; dispepsia
+ Alteraciones generales y            Frecuentes: fatiga
+condiciones en el punto de          Poco frecuentes: astenia
+administración:
+ Alteraciones hepatobiliares:        Poco frecuentes: hepatitis o ictericia
+ Trastornos nutricionales y del      Frecuentes: lipoatrofia*, lipodistrofia
+metabolismo:                        Poco frecuentes: acidosis láctica (incluyendo debilidad motora en
+ Trastornos musculoesqueléticos      Poco frecuentes: artralgia, mialgia
+y del tejido conectivo:
+ Trastornos del sistema nervioso:    Frecuentes: síntomas neurológicos periféricos incluyendo
+ Trastornos psiquiátricos:           Frecuentes: depresión
+ Trastornos de la piel y tejidos     Frecuentes: erupción, prurito
+subcutáneos:                        Poco frecuentes: urticaria
+ * Fue observada lipoatrofia en un estudio de seguimiento a largo plazo de estavudina en combinación
+con lamivudina y efavirenz (seguimiento total: una mediana de 148 semanas hasta 207 semanas).
+ Los porcentajes de interrupción del tratamiento debido a los efectos indeseables fueron de 7% para los
+pacientes tratados con Zerit.
+ Fueron notificadas anomalías en los parámetros de laboratorio en estos dos ensayos clínicos y en otro
+estudio de seguimiento que están en desarrollo incluyendo elevaciones de GPT (> 5 x LNS) en un 3%,
+de GOT (> 5 x LNS) en un 2% y de lipasa ( 2,1 LNS) en un 3%, de los pacientes en el grupo de
+Zerit. Se ha notificado neutropenia (< 750 células/mm3) en un 5%, trombocitopenia (plaquetas
+< 50.000/mm3) en un 2%, y baja hemoglobina (< 8 g/dl) en < de 1% de los pacientes que recibieron
+Zerit.
+En estos estudios no fue evaluada la macrocitosis, pero en un estudio realizado anteriormente se
+detectó que Zerit estaba asociado con ella (MCV > 112 fl en 30% de los pacientes con Zerit.
+ Adolescentes, niños y lactantes: los efectos adversos y las anomalías graves en los parámetros de
+laboratorio comunicados en pacientes pediátricos en el rango de edad comprendida entre el nacimiento
+y la adolescencia que recibieron estavudina en estudios clínicos, fueron en general, similares en tipo y
+frecuencia a los observados en adultos. No obstante, es menos frecuente la neuropatía periférica
+clínicamente significativa. Estos estudios incluyen el ACTG 240, en el que 105 pacientes pediátricos
+de edades entre 3 meses y 6 años recibieron 2 mg/kg/día de Zerit durante una media de 6.4 meses; un
+estudio clínico controlado donde 185 pacientes recién nacidos recibieron 2 mg/kg/día de Zerit solo o
+en combinación con didanosina, desde el nacimiento hasta las 6 semanas de edad y un estudio clínico
+donde 8 pacientes recién nacidos recibieron 2 mg/kg/día de Zerit en combinación con didanosina y
+nelfinavir, desde el nacimiento hasta las 4 semanas de edad.
+ En el estudio AI455-094 (ver también sección 4.6) el período de seguimiento de la seguridad fue
+limitado, de sólo 6 meses, lo que resulta insuficiente para detectar a largo plazo, reacciones adversas
+                                                     8
+neurológicas y toxicidad mitocondrial. Anomalías importantes en los parámetros de laboratorio de
+grado 3-4 detectadas en el grupo de 91 lactantes tratados con estavudina fueron: neutrófilos bajos en
+un 7%, hemoglobina baja en un 1%, incremento de ALT en un 1%, y sin anomalías en cuanto a la
+lipasa. Las posibles alteraciones del ácido láctico en suero, no fueron recogidas. No se detectaron
+diferencias notables en la frecuencia de las reacciones adversas entre los grupos de tratamiento. Hubo,
+sin embargo, un incremento de la mortalidad infantil en el grupo de estavudina + didanosina (10%) en
+comparación con los grupos tratados con estavudina (2%), didanosina (3%) o zidovudina (6%), con
+una incidencia muy elevada de partos con fetos muertos en el grupo estavudina + didanosina.
+ Post-comercialización
+ Las siguientes reacciones adversas fueron comunicadas espontáneamente despues del lanzamiento del
+producto, durante su comercialización:
+ Alteraciones del sistema sanguineo y     Desconocida: trombocitopenia
+linfático:
+ Alteraciones metabólicas y               Frecuente: hiperlactatemia asintomática;
+nutricionales:                           Desconocida: acidosis láctica
+ Alteraciones hepatobiliares:             Desconocida: fallo hepático, hepatitis y esteatosis hepática.
+ Alteraciones del sistema nervioso:       Desconocida: debilidad motora (a menudo informada en los
+ Disfunción mitocondrial: una revisión de los datos de seguridad post-comercialización mostraron
+reacciones adversas que indicaban una disfunción mitocondrial que fue detectada en recién nacidos y
+en pacientes pediátricos expuestos a tratamiento con uno o más análogos nucleósidos (ver también
+sección 4.4). El estado del VIH para los recién nacidos y los lactantes menores de 3 meses fue
+negativo, para los lactantes mayores en cambio el estado tendía a ser positivo. El perfil de las
+reacciones adversas en los recién nacidos y en los lactantes  de 3 meses de edad mostró incrementos
+en los niveles de ácido láctico, neutropenia, anemia, trombocitopenia, aumento de la transaminasa
+hepática e incremento de lípidos incluyendo hipertrigliceridemia. El número de casos en los lactantes
+mayores fue demasiado pequeño como para identificar una relación.
+ 4.9   Sobredosis
+ La experiencia en adultos tratados con hasta 12 veces la dosis diaria recomendada no reveló toxicidad
+aguda. Las complicaciones de una sobredosificación crónica podrían incluir neuropatía periférica y
+alteración de la función hepática. El aclaramiento medio de estavudina en hemodiálisis es
+de 120 ml/min. Se desconoce su contribución a la eliminación total en caso de sobredosis. Asimismo,
+no se conoce si estavudina se elimina por diálisis peritoneal.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: nucleósido inhibidor de transcriptasa inversa
+código ATC J05AF04.
+ Estavudina, un análogo de la timidina, es un agente antivírico con actividad in vitro frente al VIH en
+células humanas. Por medio de las quinasas celulares se fosforila a estavudina trifosfato inhibiendo la
+transcriptasa inversa por competición con el sustrato natural, timidina trifosfato. También inhibe la
+síntesis del ADN viral, provocando la terminación de la cadena de ADN debido a la ausencia del
+grupo 3'-hidroxilo necesario para la elongación del ADN. La polimerasa  celular del ADN es también
+                                                    9
+sensible a la inhibición por la estavudina trifosfato, mientras que las polimerasas celulares  y  se
+inhiben a concentraciones 4.000 y 40 veces superiores, respectivamente, a las necesarias para inhibir
+la transcriptasa inversa del VIH.
+Se puede elegir el tratamiento con estavudina y/o mantener mutaciones asociadas a la resistencia a
+zidovudina. Los cultivos que contienen estas mutaciones permanecen sensibles a estavudina. No se
+conoce la relevancia clínica de estos descubrimientos.
+La actividad de la estavudina se ve afectada por la resistencia multi-fármaco asociada a mutaciones
+tales como Q151 M. Se ha comunicado una reducción de hasta más de 10 veces de la sensibilidad de
+la estavudina frente a algunas cepas que reducen la sensibilidad de zidovudina y lamivudina. No se
+han identificado in vivo mutaciones asociadas con un alto grado de resistencia específica a la
+estavudina.
+ Eficacia clínica
+ Zerit ha sido estudiado en combinación con otros agentes antirretrovirales, p.e. didanosina,
+lamivudina, ritonavir, indinavir, saquinavir, efavirenz y nelfinavir.
+ El estudio AI455-099 fue de 48 semanas, randomizado, doble-ciego, con Zerit (40 mg dos veces al
+día) en combinación con lamivudina (150 mg dos veces al día) más efavirenz (600 mg una vez al día),
+en 391 pacientes no tratados previamente, con una mediana de recuento de células CD4 de 272
+células/mm3 (rango entre 61 y 1.215 células/mm3) y una mediana de ARN de VIH-1 plasmático de
+4,80 log10 copias/ml (rango 2,6 a 5,9 log10 copias/ml) en estado basal. Los pacientes eran
+principalmente varones (70%) y no blancos (58%) con una media de edad de 33 años (rango de 18 a
+68 años).
+ El estudio AI455-096 fue de 48 semanas, randomizado, doble ciego, con Zerit (40 mg dos veces al
+día) en combinación con lamivudina (150 mg dos veces al día) más efavirenz (600 mg una vez al día),
+en 76 pacientes no tratados previamente, con una mediana de recuento de células CD4 de 261
+células/mm3 (rango entre 63 y 962 células/mm3) y una mediana de ARN de VIH-1 plasmático de 4,63
+log10 copias/ml (rango 3,0 a 5,9 log10 copias/ml) en estado basal. Los pacientes eran principalmente
+varones (76%) y blancos (66%) con una media de edad de 34 años (rango de 22 a 67 años).
+ Los resultados de AI455-099 y AI455-096 se presentan en la tabla siguiente:
+Estudio                    Porcentaje de     Porcentaje de       Cambio medio         Cambio medio de
+AI455-099 (48 semanas)b
+Zerit+ lamivudina +               73                55                -2,83                    +182
+efavirenz (n = 391)
+ AI455-096 (48 semanas)b
+Zerit+ lamivudina +                 66                  38               -2,64                 +195
+efavirenz (n = 76)
+a
+Porcentaje de pacientes que tienen ARN del VIH < 400 c/ml ó < 50 c/ml y que no cumplieron ningún
+criterio de fracaso de tratamiento incluyendo el desarrollo de un nuevo evento definitorio de SIDA.
+b
+Estos estudios fueron diseñados para comparar dos formulaciones de Zerit. Se presentan solamente
+los datos de la formulación comercializada.
+ En pacientes adolescentes, pediátricos y lactantes la administración de estavudina está avalada por los
+resultados de estudios adecuados y bien controlados en adultos con datos adicionales de
+farmacocinética y seguridad en pacientes pediátricos (Ver también las secciones 4.8 y 5.2).
+                                                    10
+5.2   Propiedades farmacocinéticas
+ Adultos
+ Absorción: la biodisponibilidad absoluta es del 86±18%. Tras la administración de dosis orales
+múltiples de 0,5-0,67 mg/kg, se obtuvo un valor de Cmax de 810±175 ng/ml. Cmax y AUC aumentaron
+proporcionalmente con la dosis en los rangos de dosis intravenosa de 0,0625-0,75 mg/kg, y oral
+de 0,033-4,0 mg/kg. En ocho pacientes que recibieron 40 mg de estavudina dos veces al día en ayunas,
+la AUC en estado de equilibrio fue 1284± 227 ngh/ml (18%) (media ± DS [% CV], la Cmáx fue
+536±146 ng/ml (27%), y la Cmin fue 9±8 ng/ml (89%).Un estudio realizado en pacientes asintomáticos
+demostró que la exposición sistémica es similar mientras que la Cmax es más baja y la Tmax más
+prolongada, cuando estavudina se administra con una ingesta estándar rica en grasas en comparación
+con la administración en ayunas. Se desconoce la significación clínica de este aspecto.
+ Distribución: el volumen aparente de distribución en estado estacionario es de 46±21 l. No es posible
+detectar niveles de estavudina en líquido cefalorraquídeo (LCR) hasta transcurridas al menos 2 horas
+despues de la administración oral. Cuatro horas después de la administración, la relación LCR/plasma
+fue de 0,39±0,06. No se observó acumulación significativa de estavudina con administraciones
+repetidas cada 6, 8, ó 12 horas.La unión de estavudina a las proteínas plasmáticas fue despreciable
+para un rango de concentración de 0.01 a 11.4µg/ml. La estavudina se distribuye igualmente entre los
+glóbulos rojos y el plasma.
+ Metabolismo: No se ha determinado el metabolismo de la estavudina en humanos. Los estudios
+realizados en monos indican que la mayor parte de la dosis que no se excreta inalterada en orina
+(aproximadamente el 50%) se hidroliza a timina y azúcar.
+ Eliminación: la vida media de eliminación terminal es de 1,3±0,2 horas tras una dosis única, y
+de 1,4±0,2 horas tras dosis múltiples, y es independiente de la dosis. In vitro, el trifosfato de
+estavudina tiene una vida media intracelular de 3,5 horas en las células T-CEM (una línea
+linfoblastoide T humana) y en las células sanguíneas periféricas mononucleares, avalando la
+dosificación de dos veces al día.
+El aclaramiento total de estavudina es de 594±164 ml/min, y el aclaramiento renal es
+de 237±98 ml/min, indicando la presencia de secreción tubular activa añadida a la filtración
+glomerular. Tras la administración i.v., el 42±7% de la dosis se excreta inalterada en la orina. Los
+valores correspondientes tras la administración oral de una dosis única y dosis múltiples son 34±5%
+y 40±12%,respectivamente. El 60% del fármaco restante se elimina presumiblemente por vias
+endógenas. La vida media de estavudina es aproximadamente de 2 horas.
+La farmacocinética de la estavudina fue independiente del tiempo, ya que la relación entre AUC(ee) en
+estado estacionario y AUC(0-t) tras la primera dosis fue aproximadamente de 1. Tras la administración
+oral, la variación intra- e interindividual en las características farmacocinéticas de la estavudina es
+baja, aproximadamente un 15% y un 25%, respectivamente.
+ Poblaciones especiales
+ Adolescentes, niños y lactantes: La exposición total a estavudina fue comparable entre adolescentes,
+niños y lactantes de más de 14 días que recibieron 2 mg/kg/día y adultos que recibieron 1 mg/kg/día.
+El aclaramiento oral aparente fue aproximadamente de 14 ml/min/kg en pacientes de 5 semanas a 15
+años, 12 ml/min/kg en lactantes de 14 a 28 días y 5 ml/min/kg en el día del nacimiento. De 2 a 3 horas
+después de la administración, la relación LCR/plasma de estavudina osciló en el rango de 16% hasta el
+125% (media de 59±35%).
+ Insuficiencia renal: el aclaramiento de la estavudina disminuye cuando disminuye el aclaramiento de
+creatinina; por tanto, se recomienda ajustar la dosificación de Zerit en pacientes con función renal
+disminuida (ver apartado 4.2).
+ Insuficiencia hepática: la farmacocinética de la estavudina en pacientes con insuficiencia hepática fue
+similar a la observada en pacientes con función hepática normal.
+                                                    11
+5.3   Datos preclínicos sobre seguridad
+ Los datos en animales muestran toxicidad embriofetal a niveles muy elevados de exposición. un
+estudio ex vivo empleando un modelo de placenta humana demostró que la estavudina alcanza la
+circulación fetal por simple difusión. Un estudio en rata también mostró la transferencia de la
+estavudina a la placenta, con una concentración en el tejido fetal de aproximadamente 50% de la
+concentración plasmática materna.
+La estavudina fue genotóxica en los ensayos in vitro en linfocitos humanos con actividad
+trifosforilante (en los cuales no se establecieron los niveles sin efecto), en fibroblastos de ratón, y en el
+ensayo in vivo de aberraciones cromosómicas. Con otros análogos nucleósidos se han observado
+efectos similares.
+Estavudina fue carcinogénica en ratón (tumores hepáticos) y rata (tumores hepáticos colangiocelular,
+hepatocelular, hepatocolangiocelular, y/o vascular, y carcinomas de vejiga urinaria) a niveles de
+exposición muy elevados. No se observó carcinogenicidad a dosis de 400 mg/kg/día en ratón
+y 600 mg/kg/día en rata, correspondiendo, a exposiciones ~ 39 y 168 veces, respectivamene, la
+esperada en humanos, lo que sugiere un potencial carcinogénico no significativo de estavudina en la
+terapia clínica.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo de la cápsula:
+Lactosa
+Estearato de magnesio
+Celulosa microcristalina
+Almidón glicolato sódico
+ Cubierta de la cápsula:
+Gelatina
+Colorante óxido de hierro (E172)
+Dióxido de silicona
+Laurilsulfato sódico
+Dióxido de titanio (E171)
+ Las cubiertas de las cápsulas están marcadas utilizando tinta de impresión comestible de color negro
+que contiene:
+Shellac
+Propilenglicol
+Agua purificada
+Hidróxido de potasio
+Oxido de hierro (E172)
+ 6.2   Incompatibilidades
+ No aplicable.
+ 6.3   Período de validez
+ 2 años.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC.
+Conservar en su envase original.
+                                                      12
+6.5   Naturaleza y contenido del recipiente
+ Frasco de polietileno de alta densidad (HDPE) con tapa hermética de seguridad (60 cápsulas duras por
+frasco), o blisters de aclar/aluminio con 14 cápsulas duras por blister y 4 blisters (56 cápsulas duras)
+por estuche.
+ 6.6   Precauciones especiales de eliminación
+ La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMMERCIALIZACIÓN
+	BRISTOL-MYERS SQUIBB PHARMA EEIG
+Uxbridge Business Park
+Sanderson Road
+Uxbridge UB8 1DH
+Reino Unido
+ 
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/96/009/001 - 002
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la Primera Autorización: 8 de mayo de 1996
+Renovación de la última autorización: 8 de junio de 2001
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ {mes año}
+ La información detallada de este medicamento está disponible en la página web de la Agencia
+Europea de Medicamentos (EMEA) http://www.emea.europa.eu/
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Zerit 20 mg cápsula dura
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada cápsula dura contiene 20 mg de estavudina.
+Para la lista completa de Excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Cápsula dura.
+La cápsula dura es marron opaca y lleva las siglas BMS sobre un código de BMS ""1965"" marcadas en
+una parte y ""20"" en la otra.
+ "
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Zerit está indicado en combinación con otros fármacos antirretrovirales, en el tratamiento de pacientes
+infectados por el VIH.
+ 4.2   Posología y forma de administración
+ Por vía oral.
+ El tratamiento debe iniciarse por un médico con experiencia en el manejo de la infección por VIH (ver
+también sección 4.4).
+ Adultos: la dosis recomendada es:
+Peso del paciente                         Dosis de Zerit
+< 60 kg                                   30 mg dos veces al día (cada 12 horas)
+60 kg                                    40 mg dos veces al día
+ Adolescentes, niños y lactantes mayores de 3 meses: la dosis recomendada es:
+Edad y/o Peso del paciente              Dosis de Zerit
+< 30 kg                                 1 mg/kg dos veces al día (cada 12 horas)
+30 kg                                  dosis recomendada para adultos
+ Para conseguir una absorción óptima, Zerit debe administrarse con el estómago vacío (es decir, al
+menos una hora antes de las comidas), si esto no fuera posible, se puede tomar con una comida ligera.
+Zerit puede también administrarse abriendo cuidadosamente la cápsula y mezclando el contenido con
+los alimentos.
+ Lactantes menores de 3 meses: consultar la Ficha técnica de la formulación, polvo para solución oral.
+ Ancianos: Zerit no se ha estudiado específicamente en pacientes mayores de 65 años.
+ Ajuste de la dosis
+ Neuropatía Periférica: si se desarrollan síntomas de neuropatía periférica (caracterizada generalmente
+por entumecimiento persistente, hormigueo o dolor en los pies y/o las manos) (ver apartado 4.4)
+debería considerarse la posibilidad de cambiar a los pacientes a un tratamiento alternativo, si fuera
+adecuado. En los casos poco habituales en los que esto no fuese conveniente, debería considerarse la
+                                                    14
+reducción de la dosis de estavudina, siempre que los síntomas de neuropatía periférica estén bajo
+monitorización y el mantenimiento de la supresión viral sea satisfactorio. Los posibles beneficios de
+una reducción de dosis deberán sopesarse en cada caso, en función de los riesgos que podría provocar
+esta medida (como, concentraciones intracelulares más bajas).
+ Insuficiencia hepática: no es necesario un ajuste de la dosis inicial.
+ Insuficiencia renal: se recomiendan las dosis siguientes:
+Peso del paciente 26-50 ml/min                 25 ml/min
+< 60 kg             15 mg dos veces al día 15 mg cada 24 horas
+60 kg               20 mg dos veces al día    20 mg cada 24 horas
+* Los pacientes en hemodiálisis deberán tomar Zerit al finalizar la sesión de hemodiálisis, y a la
+misma hora en los días sin sesión de diálisis.
+ Teniendo en cuenta que en los pacientes pediátricos, la vía urinaria es la principal vía de eliminación
+de estavudina, el aclaramiento de estavudina podria estar alterado en los pacientes pediátricos con
+insuficiencia renal. Aunque no se dispone de datos suficientes para recomendar un ajuste específico de
+la dosificación de Zerit en esta población de pacientes, debería considerarse una reducción de la dosis
+y/o un incremento del intervalo de tiempo entre dosis tal como se considera en el caso de los adultos.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a estavudina o a cualquiera de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Neuropatía periférica: los pacientes con antecedentes de neuropatía periférica presentan un riesgo más
+elevado de desarrollar neuropatía. Si es necesario administrar Zerit en este tipo de pacientes, es
+esencial una monitorización clínica cuidadosa. Los síntomas de neuropatía periférica se caracterizan
+por entumecimiento persistente, hormigueo o dolor en los pies y/o las manos.
+ Pancreatitis: los pacientes tratados con Zerit, con antecedentes de pancreatitis tienen una incidencia de
+pancreatitis de aproximadamente un 5%, en comparación con aproximadamente un 2% en pacientes
+sin dicho antecedente. Se debe vigilar de cerca la aparición de síntomas de pancreatitis en pacientes de
+alto riesgo o en aquéllos que estén recibiendo productos que se sabe están asociados con la aparición
+de pancreatitis.
+ Acidosis láctica: con el uso de nucleósidos inhibidores de la transcriptasa inversa (NRTIs) se ha
+comunicado acidosis láctica, generalmente asociada a hepatomegalia y esteatosis hepática. Los
+primeros síntomas (hiperlactatemia sintomática) incluyen síntomas digestivos benignos (náuseas,
+vómitos y dolor abdominal), malestar general, pérdida de apetito, pérdida de peso, síntomas
+respiratorios (respiración rápida y/o profunda) o síntomas neurológicos (incluyendo debilidad motora).
+La acidosis láctica tiene una alta mortalidad y puede estar asociada a pancreatitis, fallo hepático, fallo
+renal o parálisis motora.
+La acidosis láctica generalmente aparece después de unos pocos o varios meses de tratamiento.
+El tratamiento con nucleósidos inhibidores de la transcriptasa inversa (NRTIs) debe interrumpirse si se
+producen síntomas de hiperlactatemia sintomática y acidosis láctica/metabólica, hepatomegalia
+progresiva o una elevación rápida de los niveles de aminotransferasas.Deberá tenerse precaución
+cuando se administren NRTIs a pacientes (en especial mujeres obesas) con hepatomegalia, hepatitis u
+otros factores de riesgo conocidos de enfermedad hepática y esteatósis hepática (incluyendo ciertos
+medicamentos y el alcohol). Los pacientes con infección concomitante de hepatitis C y tratados con
+interferón alfa y ribavarina pueden tener un riesgo especial.
+ Deberá realizarse un seguimiento pormenorizado de estos pacientes de mayor riesgo. (Ver también
+sección 4.6).
+ Disfunción hepática: se han registrado casos de hepatitis o insuficiencia hepática, que en ocasiones
+han sido fatales. No se ha establecido la seguridad y eficacia de estavudina en pacientes con trastornos
+hepáticos subyacentes importantes. Los pacientes con hepatitis B o C crónica tratados con
+medicamentos antirretrovirales de combinación tienen un mayor riesgo de acontecimientos adversos
+hepáticos graves y potencialmente mortales. En caso de tratamiento antiviral concomitante para
+hepatitis B o C, se debe consultar también la información relacionada con estas especialidades
+farmacéuticas.
+ Los pacientes con disfunción hepática preexistente, incluyendo hepatitis crónica activa, presentan una
+mayor frecuencia de anomalías de la función hepática durante el tratamiento antirretroviral combinado
+y deben ser vigilados según la práctica estándar. Si hay pruebas de empeoramiento de la hepatopatía
+en estos pacientes, debe considerarse la interrupción o suspensión del tratamiento.
+ En el caso de elevaciones rápidas de los niveles de transaminasas (ALT/AST > 5 veces el límite
+normal superior, LNS), debería considerarse la interrupción del tratamiento con Zerit y cualquier otro
+medicamento potencialmente hepatotóxico.
+ Síndrome de Reconstitución Inmune: Cuando se instaura una terapia antirretroviral combinada
+(TARC) en pacientes infectados por VIH con deficiencia inmune grave, puede aparecer una respuesta
+inflamatoria frente a patógenos oportunistas residuales o asintomáticos y provocar situaciones clínicas
+graves, o un empeoramiento de los síntomas. Normalmente estas reacciones se han observado en las
+primeras semanas o meses después del inicio de la terapia antirretroviral combinada. Algunos
+ejemplos relevantes de estas reacciones son: retinitis por citomegalovirus, infecciones micobacterianas
+generalizadas y/o localizadas y neumonía por Pneumocystis carinii. Se deberá evaluar cualquier
+síntoma inflamatorio y establecer un tratamiento cuando fuese necesario.
+ Lipodistrofia y alteraciones metabólicas: La terapia antirretroviral combinada se ha asociado con una
+redistribución de la grasa corporal (lipodistrofia) en pacientes VIH positivo. Actualmente se
+desconocen las consecuencias a largo plazo de estos acontecimientos. El conocimiento actual sobre el
+mecanismo de acción es incompleto. Se ha planteado la hipótesis de una relación entre la lipomatosis
+visceral y los Inhibidores de la Proteasa, y la lipoatrofia y los nucleósidos inhibidores de la
+Transcriptasa Inversa (NRTIs). Se ha relacionado un mayor riesgo de lipodistrofia con factores
+individuales tales como la edad avanzada, y con factores relacionados con el fármaco tales como una
+larga duración del tratamiento antirretroviral o trastornos metabólicos asociados. El examen clínico
+debe incluir una evaluación de los signos físicos de redistribución de la grasa. Se deben tener en
+cuenta los niveles de lípidos en suero y de glucosa en sangre. Los trastornos lipídicos deben tratarse
+como se considere clínicamente apropiado (véase sección 4.8).
+ En los pacientes a tratamiento con estavudina, existen evidencias de que la toxicidad ADN
+mitocondrial podría estar asociada con características específicas de lipoatrofia. Esto debería tenerse
+en cuenta cuando se considere iniciar una terapia antirretroviral de combinación con estavudina.
+ Osteonecrosis: se han notificado casos de osteonecrosis, especialmente en pacientes con infección
+avanzada por VIH y/o exposición prolongada al tratamiento antirretroviral combinado (TARC),
+aunque se considera que la etiología es multifactorial (incluyendo uso de corticosteroides, consumo de
+alcohol, inmunodepresión grave, índice de masa corporal elevado). Se debe aconsejar a los pacientes
+que consulten al médico si experimentan molestias o dolor articular, rigidez articular o dificultad para
+moverse.
+ Ancianos: Zerit no se ha estudiado específicamente en pacientes mayores de 65 años.
+ Lactantes menores de 3 meses: se dispone de datos de seguridad provenientes de estudios clínicos de
+hasta 6 semanas de tratamiento realizados en 179 pacientes recién nacidos y lactantes menores de 3
+meses (ver apartado 4.8).
+                                                    16
+Se deberá tener en especial consideración la historia del tratamiento antirretroviral administrado a la
+madre y el perfil de resistencia de la cepa VIH de la misma.
+ Disfunción mitocondrial: se ha demostrado in vitro e in vivo que los análogos de nucleótido y de
+nucleósido causan un grado variable de daño mitocondrial. Ha habido informes de disfunción
+mitocondrial en bebés VIH negativo expuestos in utero y/o post-parto a análogos de nucleósido (ver
+además sección 4.8). Los principales acontecimientos adversos notificados son trastornos
+hematológicos (anemia, neutropenia), trastornos metabólicos (hiperlactatemia, hiperlipasemia). Estos
+acontecimientos son a menudo transitorios. Se han notificado algunos trastornos neurológicos de
+aparición tardía (hipertonía, convulsión, comportamiento anormal). Actualmente no se sabe si los
+trastornos neurológicos son transitorios o permanentes. Cualquier niño expuesto in utero a análogos de
+nucleótido o de nucleósido, incluso los niños VIH negativo, deben someterse a un seguimiento clínico
+y de laboratorio, y en caso de signos o síntomas relevantes debe ser minuciosamente investigada una
+posible disfunción mitocondrial. Estos hallazgos no afectan a las recomendaciones actuales para
+utilizar tratamiento antirretroviral en mujeres embarazadas para prevenir la transmisión vertical del
+VIH.
+ Combinaciones no recomendadas: en pacientes infectados por VIH que fueron tratados con estavudina
+asociada con hidroxiurea y didanosina, se detectaron casos de pancreatitis (mortal y no mortal) y
+neuropatía periférica (grave en algunos casos). En pacientes infectados con VIH, tratados con
+medicamentos antirretrovirales y hidroxiurea, durante el seguimiento post-comercialización de
+seguridad del medicamento, se han encontrado casos de hepatotoxicidad y fallo hepático que en
+algunos casos terminó en muerte, las alteraciones hepáticas mortales se detectaron con más frecuencia
+en los pacientes tratados con estavudina, hidroxiurea y didanosina. Por lo tanto, no se recomienda la
+administración de hidroxiurea en el tratamiento de la infección por VIH.
+ Intolerancia a la lactosa: la cápsula dura contiene lactosa (180 mg). Los pacientes con problemas
+hereditarios poco comunes de intolerancia a galactosa, insuficiencia de lactasa de Lapp o malabsorción
+de glucosa-galactosa no deberían tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Los estudios de interacciones se han realizado solo en adultos.
+ Ya que estavudina se secreta activamente por los túbulos renales, son posibles las interacciones con
+con otros medicamentos secretados activamente, por ejemplo, con trimetoprim. Sin embargo no se ha
+observado ninguna interacción farmacocinética clínicamente relevante con lamivudina.
+ Zidovudina y estavudina son fosforiladas por el enzima celular (timidina quinasa), que fosforila
+preferencialmente zidovudina, disminuyendo de este modo la fosforilación de estavudina a su forma
+activa trifosfato. Por ello, no se recomienda la utilización de zidovudina en combinación con
+estavudina.
+ Los estudios in vitro indicaron que la activación de estavudina es inhibida por doxorubicina y
+ribavirina, pero no por con otros medicamentos utilizados en el tratamiento de la infección por el VIH que
+igualmente se fosforilan, (por ej: didanosina, zalcitabina, ganciclovir y foscarnet). Por lo tanto, la
+coadministración de estavudina con doxorrubicina o ribavirina deberá asumirse con precaución. No se
+ha investigado la influencia de estavudina sobre las cinéticas de fosforilación de otros análogos de
+nucleósidos distintos de zidovudina.
+ No se han observado interacciones clínicamente significativas de estavudina o de estavudina y
+didanosina con nelfinavir.
+ La estavudina no inhibe a las principales isoformas del citocromo P450, CYP1A2, CYP2C9,
+CYP2C19, CYP2D6 y CYP3A4 por lo tanto, es poco probable que haya interacciones farmacológicas
+clínicamente significaticas con medicamentos que sean metabolizados por estas vías.
+ Como la estavudina no se une a las proteínas plasmáticas, no se espera que afecte a la farmacocinética
+de los medicamentos unidos a estas proteínas.
+ No se han realizado estudios específicos de interacción con otros fármacos.
+ 4.6   Embarazo y lactancia
+ Zerit no debería administrarse durante el embarazo, a menos que sea claramente necesario.
+ La experiencia clínica en mujeres embarazadas es limitada, pero se han observado casos de anomalías
+congénitas y abortos.
+ El estudio AI455-094, realizado en Sudáfrica, fue un estudio de prevención de la transmisión madre-
+hijo en el que se incluyeron 362 parejas madre-hijo. Las mujeres embarazadas sin tratamiento previo
+fueron incluidas en el estudio en la semana 34-36 de la gestación y tratadas hasta el momento del
+parto. Como profilaxis antirretroviral se administró a los recién nacidos la misma medicación que se
+había administrado a la madre durante las 36 horas posteriores al parto y hasta las 6 semanas de vida.
+En las ramas de tratamiento del estudio en que se incluía estavudina, los recién nacidos eran tratados
+con 1 mg/Kg de estavudina, dos veces al día durante 6 semanas. El tiempo máximo fue en algunos
+casos hasta 24 semanas de edad.
+Las parejas madre-hijo fueron randomizadas según el tratamiento recibido, estavudina (N= 91),
+didanosina (N= 94), estavudina + didanosina (N= 88) o zidovudina (N= 89).
+Los promedios de intervalos de confianza 95% para la transmisión madre a hijo fueron de, 5.4-19.3%
+(estavudina); 5.2-18.7% (didanosina); 1.3-11.2% (estavudina + didanosina) y 1.9-12.6% para
+zidovudina.
+ Los datos de seguridad preliminares de este estudio (ver también sección 4.8) mostraron un
+incremento de la mortalidad infantil en el grupo tratado con estavudina + didanosina (10%) en
+comparación con los grupos tratados con estavudina (2%), didanosina (3%) o zidovudina (6%), con
+una incidencia más elevada de partos con fetos muertos en el grupo estavudina + didanosina.
+ En este estudio no se recogieron datos sobre el contenido de ácido láctico en suero. Sin embargo, se ha
+notificado acidosis láctica (ver apartado 4.4), en ocasiones fatal, en mujeres embarazadas que recibieron
+la combinación de didanosina y estavudina, con o sin otro tratamiento anti-retroviral. En animales,
+solamente se ha observado toxicidad embriofetal a niveles elevados de exposición. Estudios
+preclínicos han demostrado transferencia de estavudina a traves de la placenta (ver apartado 5.3).Hasta
+que se disponga de datos adicionales, Zerit debe administrarse durante el embarazo sólo después de
+haberlo considerado cuidadosamente, la información de que se dispone es insuficiente para
+recomendar Zerit en la prevención de la transmisión madre a hijo del VIH. Además, la combinación de
+estavudina y didanosina deberá ser utilizada con precaución durante el embarazo y se recomendará
+solamente si el beneficio potencial prevalece claramente sobre el riesgo potencial.
+ Se recomiendan que las mujeres infectadas por el VIH no amamanten bajo ninguna circunstancia, para
+evitar la transmisión del VIH a los niños.
+Los datos disponibles sobre la excreción de estavudina en la leche humana, son insuficientes para
+establecer el riesgo en el lactante. Estudios en ratas lactantes demostraron que estavudina se excreta en
+la leche materna. Por esta razón debe recomendarse a las madres interrumpir la lactancia antes de
+tomar Zerit.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ En base a las propiedades farmacodinámicas de estavudina, es poco probable que Zerit afecte a la
+capacidad para conducir y utilizar maquinaria.
+                                                    18
+4.8   Reacciones adversas
+ Adultos: existe disponible una amplia experiencia de seguridad con Zerit utilizado en monoterapia y
+en regímenes de combinación. Muchas de las reacciones adversas graves notificadas con estavudina
+fueron compatibles con el curso de la infección por VIH o con los efectos secundarios de tratamientos
+concomitantes.
+ Neuropatía periférica: En los estudios en combinación de Zerit con lamivudina más efavirenz, la
+frecuencia de los síntomas neurológicos periféricos fue del 19% (6% de moderado a grave), con un
+promedio de discontinuación debido a la neuropatía del 2%.
+En los estudios en monoterapia con Zerit la neuropatía periférica fue dosis-dependiente y requirió
+modificación de la dosis (ver secciones 4.2 y 4.4). Los pacientes generalmente experimentaron
+resolución de los síntomas tras la interrupción o la reducción de la dosis.
+ Pancreatitis: la pancreatitis, en ocasiones fatal, se presentó en hasta un 2-3% de los pacientes
+reclutados en ensayos clínicos de monoterapia (ver apartado 4.4). La pancreatitis fue detectada en < 1%
+de los pacientes en los estudios de terapia de combinación con Zerit.
+ Acidosis láctica: se han notificado casos de acidosis láctica, en ocasiones fatal, generalmente asociada
+con hepatomegalia y esteatosis hepática graves, con el uso de análogos de nucleósidos (ver apartado 4.4).
+ Se han notificado casos de hepatitis o fallo hepático, fatales en algunos casos, con el uso de estavudina
+y con otros análogos de nucleósidos (ver apartado 4.4).
+ Síndrome de Reactivación Inmune: Al inicio de la terapia antirretroviral combinada, en los pacientes
+infectados por VIH con deficiencia inmune grave, puede aparecer una respuesta inflamatoria frente a
+infecciones oportunistas latentes o asintomáticas (véase sección 4.4).
+ Lipodistrofia y alteraciones metabólicas: La terapia antirretroviral combinada se ha asociado con una
+redistribución de la grasa corporal (lipodistrofia) en pacientes VIH, que incluye pérdida de grasa
+subcutánea periférica y facial, aumento de la grasa intra-abdominal y visceral, hipertrofia de las
+mamas y acumulación de la grasa dorsocervical (joroba de búfalo).
+ La terapia antirretroviral combinada se ha asociado con anomalías metabólicas tales como
+hipertrigliceridemia, hipercolesterolemia, resistencia a la insulina, hiperglucemia e hiperlactacidemia
+(véase sección 4.4).
+ Osteonecrosis: se han notificado casos de osteonecrosis, especialmente en pacientes con factores de
+riesgo generalmente reconocidos, enfermedad avanzada por VIH o exposición prolongada al
+tratamiento antirretroviral combinado (TARC). Se desconoce la frecuencia de esta reacción adversa
+(ver apartado 4.4).
+ La frecuencia de reacciones adversas listadas a continuación está definida aplicando la siguiente
+convención: muy frecuente (> 1/10); frecuente (> 1/100, < 1/10); poco frecuente (> 1/1,000, < 1/100);
+rara (> 1/10,000, < 1/1,000); muy rara (< 1/10,000). Las reacciones adversas se presentan en orden
+decreciente de gravedad dentro de cada frecuencia.
+ Reacciones adversas (moderadas a graves) fueron notificadas por 467 pacientes tratados con Zerit en
+combinación con lamivudina y efavirenz en dos ensayos clínicos aleatorios y un estudio de
+continuación a largo plazo (investigación total llevada a cabo: 56 semanas de mediana extendiendose a
+119 semanas). Las siguientes reacciones adversas están posiblemente relacionadas con el régimen del
+estudio en base a atribución de los investigadores y han sido identificadas como frecuentes:
+ Trastornos endocrinos:              Poco frecuentes: ginecomastia
+ Trastornos gastrointestinales:      Frecuentes: diarrea; dolor abdominal, náusea; vómitos; dispepsia
+ Alteraciones generales y            Frecuentes: fatiga
+condiciones en el punto de          Poco frecuentes: astenia
+administración:
+ Alteraciones hepatobiliares:        Poco frecuentes: hepatitis o ictericia
+ Trastornos nutricionales y del      Frecuentes: lipoatrofia*, lipodistrofia
+metabolismo:                        Poco frecuentes: acidosis láctica (incluyendo debilidad motora en
+ Trastornos musculoesqueléticos      Poco frecuentes: artralgia, mialgia
+y del tejido conectivo:
+ Trastornos del sistema nervioso:    Frecuentes: síntomas neurológicos periféricos incluyendo
+ Trastornos psiquiátricos:           Frecuentes: depresión
+ Trastornos de la piel y tejidos     Frecuentes: erupción, prurito
+subcutáneos:                        Poco frecuentes: urticaria
+ * Fue observada lipoatrofia en un estudio de seguimiento a largo plazo de estavudina en combinación
+con lamivudina y efavirenz (seguimiento total: una mediana de 148 semanas hasta 207 semanas).
+ Los porcentajes de interrupción del tratamiento debido a los efectos indeseables fueron de 7% para los
+pacientes tratados con Zerit.
+ Fueron notificadas anomalías en los parámetros de laboratorio en estos dos ensayos clínicos y en otro
+estudio de seguimiento que están en desarrollo incluyendo elevaciones de GPT (> 5 x LNS) en un 3%,
+de GOT (> 5 x LNS) en un 2% y de lipasa ( 2,1 LNS) en un 3%, de los pacientes en el grupo de
+Zerit. Se ha notificado neutropenia (< 750 células/mm3) en un 5%, trombocitopenia (plaquetas
+< 50.000/mm3) en un 2%, y baja hemoglobina (< 8 g/dl) en < de 1% de los pacientes que recibieron
+Zerit.
+En estos estudios no fue evaluada la macrocitosis, pero en un estudio realizado anteriormente se
+detectó que Zerit estaba asociado con ella (MCV > 112 fl en 30% de los pacientes con Zerit.
+ Adolescentes, niños y lactantes: los efectos adversos y las anomalías graves en los parámetros de
+laboratorio comunicados en pacientes pediátricos en el rango de edad comprendida entre el nacimiento
+y la adolescencia que recibieron estavudina en estudios clínicos, fueron en general, similares en tipo y
+frecuencia a los observados en adultos. No obstante, es menos frecuente la neuropatía periférica
+clínicamente significativa. Estos estudios incluyen el ACTG 240, en el que 105 pacientes pediátricos
+de edades entre 3 meses y 6 años recibieron 2 mg/kg/día de Zerit durante una media de 6.4 meses; un
+estudio clínico controlado donde 185 pacientes recién nacidos recibieron 2 mg/kg/día de Zerit solo o
+en combinación con didanosina, desde el nacimiento hasta las 6 semanas de edad y un estudio clínico
+donde 8 pacientes recién nacidos recibieron 2 mg/kg/día de Zerit en combinación con didanosina y
+nelfinavir, desde el nacimiento hasta las 4 semanas de edad.
+ En el estudio AI455-094 (ver también sección 4.6) el período de seguimiento de la seguridad fue
+limitado, de sólo 6 meses, lo que resulta insuficiente para detectar a largo plazo, reacciones adversas
+                                                    20
+neurológicas y toxicidad mitocondrial. Anomalías importantes en los parámetros de laboratorio de
+grado 3-4 detectadas en el grupo de 91 lactantes tratados con estavudina fueron: neutrófilos bajos en
+un 7%, hemoglobina baja en un 1%, incremento de ALT en un 1%, y sin anomalías en cuanto a la
+lipasa. Las posibles alteraciones del ácido láctico en suero, no fueron recogidas. No se detectaron
+diferencias notables en la frecuencia de las reacciones adversas entre los grupos de tratamiento. Hubo,
+sin embargo, un incremento de la mortalidad infantil en el grupo de estavudina + didanosina (10%) en
+comparación con los grupos tratados con estavudina (2%), didanosina (3%) o zidovudina (6%), con
+una incidencia muy elevada de partos con fetos muertos en el grupo estavudina + didanosina.
+ Post-comercialización
+ Las siguientes reacciones adversas fueron comunicadas espontáneamente despues del lanzamiento del
+producto, durante su comercialización:
+ Alteraciones del sistema sanguineo y     Desconocida: tromboc
+ 
+	Prospectos de medicamentos.

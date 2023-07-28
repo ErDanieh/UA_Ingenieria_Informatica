@@ -1,0 +1,818 @@
+RAPAMUNE 1MG/SOBRE 30 SOBRES 1ML SOLUC ORAL
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Rapamune 1 mg/ml solución oral.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada ml contiene 1 mg de sirolimus.
+ Excipientes:
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Solución oral.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Rapamune está indicado para la profilaxis del rechazo de órganos en pacientes adultos que presentan
+de bajo a moderado riesgo inmunológico, sometidos a un trasplante renal. Se recomienda que
+Rapamune se utilice inicialmente en combinación con ciclosporina microemulsión y corticosteroides
+durante un período de 2 a 3 meses. Rapamune puede mantenerse como terapia de mantenimiento con
+corticosteroides sólo si la ciclosporina microemulsión puede interrumpirse progresivamente (ver
+secciones 4.2 y 5.1).
+ 4.2   Posología y forma de administración
+ Rapamune es exclusivamente para uso oral.
+ El tratamiento debe iniciarse y mantenerse bajo la dirección de un especialista apropiadamente
+cualificado en trasplantes.
+ Uso en adultos
+Terapia inicial (2 a 3 meses post-transplante): La pauta de dosificación usual de Rapamune es una
+dosis de inducción oral de 6 mg, administrada tan pronto como sea posible después del trasplante,
+seguida de 2 mg una vez al día. La dosis de Rapamune debe individualizarse entonces para obtener
+niveles valle en sangre total de 4 a 12 ng/ml (ensayo cromatográfico: ver Monitorización terapéutica
+del fármaco). La terapia con Rapamune debe optimizarse con un régimen de disminución de esteroides
+y ciclosporina microemulsión. El intervalo sugerido de concentración valle de ciclosporina para los 2-
+3 primeros meses después del trasplante son de 150-400 ng/ml (ensayo monoclonal o técnica
+equivalente).
+ Terapia de mantenimiento: La ciclosporina debe interrumpirse progresivamente durante un período de
+4 a 8 semanas y la dosis de Rapamune debe ajustarse para obtener niveles valle en sangre total de 12 a
+20 ng/ml (ensayo cromatográfico ver Monitorización terapéutica del fármaco). Rapamune debe
+administrarse con corticosteroides. En los pacientes en los que el abandono de ciclosporina o bien no
+da resultado o no puede intentarse, la combinación de ciclosporina y Rapamune no debe mantenerse
+durante más de 3 meses después del trasplante. En tales pacientes, cuando resulte apropiado
+clínicamente, debe interrumpirse Rapamune e iniciarse un régimen inmunosupresivo alternativo.
+ Uso en receptores de raza negra: Hay escasa información que indique que los receptores de
+transplante renal de raza negra (predominantemente afroamericanos) requieran dosis y niveles valle
+                                                     2
+más elevados de sirolimus para conseguir la misma eficacia que se observa en los pacientes que no son
+de raza negra. Actualmente, los datos de eficacia y seguridad son demasiado limitados para permitir
+recomendaciones específicas para el uso de sirolimus en los receptores de raza negra.
+ Uso en niños y adolescentes (< 18 años): No hay suficiente experiencia para recomendar el uso de
+sirolimus en niños y adolescentes. La información farmacocinética disponible es limitada en niños (ver apartado 5.2).
+ Uso en pacientes de edad avanzada (>65 años): Los ensayos clínicos de Rapamune no incluyeron el
+número suficiente de pacientes > de 65 años para determinar si ellos podrían responder de forma
+diferente a los pacientes jóvenes. Los datos de concentración de sirolimus en 35 pacientes con
+transplante renal > de 65 años fueron similares a los de la población adulta de entre 18 y 65 años (n =
+822).
+ Uso en pacientes con insuficiencia renal: No se requiere ningún ajuste de la dosis (ver apartado 5.2).
+ Uso en pacientes con insuficiencia hepática: El aclaramiento de sirolimus puede estar reducido en
+pacientes con alteración de la función hepática (ver apartado 5.2). En pacientes con insuficiencia
+hepática grave, se recomienda reducir la dosis de mantenimiento de Rapamune a la mitad,
+aproximadamente.
+ En pacientes con insuficiencia hepática se recomienda monitorizar cuidadosamente los niveles valle de
+sirolimus en sangre total (ver Monitorización terapéutica del fármaco). No es necesario modificar la
+dosis de inducción de Rapamune.
+ Monitorización terapéutica del fármaco: La mayoría de los pacientes que recibieron 2 mg de
+Rapamune 4 horas después de la ciclosporina tuvo concentraciones valle de sirolimus en sangre total
+dentro del intervalo objetivo de 4 a 12 ng/ml (expresado como valores del ensayo cromatográfico). La
+terapia óptima requiere la monitorización de la concentración terapéutica del fármaco en todos los
+pacientes. Deben monitorizarse estrechamente los niveles de sirolimus en sangre total en las
+siguientes poblaciones: (1) en pacientes que presentaninsuficiencia hepática; (2) cuando inductores o
+inhibidores del CYP3A4 se administran conjuntamente y después de su interrupción (ver apartado 4.5);
+y/o (3) si la dosis de ciclosporina se reduce notablemente o se elimina, ya que es más probable que
+estas poblaciones tengan necesidad de una dosificación especial.
+ La monitorización terapéutica del fármaco no debe ser la única base para ajustar la terapia con
+sirolimus. Se debe prestar una especial atención a los signos/síntomas clínicos, biopsias tisulares, y
+parámetros de laboratorio.
+ Para minimizar la variabilidad, Rapamune debe tomarse al mismo tiempo con relación a la
+ciclosporina, 4 horas después de tomar la dosis de ciclosporina y consecuentemente, con o sin
+alimento (ver apartado 5.2). De manera óptima, los ajustes en la dosificación de Rapamune deben
+basarse en más de un único nivel valle obtenido después de 5 días o más de un cambio de dosificación
+anterior.
+ Tras la interrupción de la terapia de ciclosporina, se recomienda un intervalo objetivo de valle de 12 a
+20 ng/ml (ensayo cromatográfico). La ciclosporina inhibe el metabolismo del sirolimus y por
+consiguiente, los niveles de sirolimus descenderán cuando la ciclosporina se interrumpa, a menos que
+se incremente la dosis de sirolimus. Por término medio, la dosis de sirolimus necesitará ser 4 veces
+mayor para responder tanto a la ausencia de interacción farmacocinética (incremento de 2 veces) como
+al aumento de la necesidad inmunosupresiva en ausencia de ciclosporina (incremento de 2 veces). La
+velocidad a la que se aumenta la dosis de sirolimus debe corresponder con la velocidad de eliminación
+de la ciclosporina.
+ Si durante la terapia de mantenimiento se requieren ajustes adicionales de la dosis (tras la interrupción
+de la ciclosporina), en la mayoría de los pacientes estos ajustes pueden basarse en una simple
+proporción: La nueva dosis de Rapamune = dosis actual x (concentración deseada/concentración
+                                                     3
+actual). Además de una nueva dosis de mantenimiento debe considerarse una dosis de carga cuando
+sea necesario incrementar considerablemente las concentraciones valle de sirolimus: Dosis de carga de
+Rapamune = 3x (nueva dosis de mantenimiento- dosis de mantenimiento actual). La dosis máxima de
+Rapamune diaria no debe exceder los 40 mg. Si la dosis diaria estimada excede los 40 mg debido a la
+adición de la dosis de carga, la dosis de carga deberá administrarse en 2 días. Las concentraciones
+valle de sirolimus se deben monitorizar al menos 3 o 4 días después de la(s) dosis de carga.
+ En pacientes con insuficiencia hepática grave, tras un ajuste de dosis o tras una dosis de carga deben
+medirse los niveles de sirolimus cada 5 a 7 días hasta que 3 niveles valle consecutivos muestren una
+concentración estable, debido al retraso en alcanzar el estado estacionario que se produce por la
+prolongación de la semivida.
+ Los intervalos recomendados de la concentración valle de 24 horas del sirolimus se basan en métodos
+cromatográficos. Se han utilizado varios métodos de ensayo para medir la concentración en sangre
+total de sirolimus. En la práctica clínica actual, la concentración en sangre total se mide tanto por
+métodos cromatográficos como con inmunoensayos. Los valores de concentración obtenidos mediante
+estas técnicas no son intercambiables. Cuando se use un método de inmunoensayo registrado, siempre
+se debe hacer referencia a la información del fabricante que relaciona los valores a un método
+cromatográfico de referencia. Todas las concentraciones de sirolimus que se indican en esta ficha
+técnica fueron medidas utilizando métodos cromatográficos o han sido convertidas a equivalentes
+cromatográficos. Los ajustes al intervalo objetivo deben realizarse de acuerdo con el ensayo que se
+utilice para determinar las concentraciones valle de sirolimus.
+ Otras consideraciones de uso: La ciclosporina (microemulsión) y otros productos medicinales o no
+medicinales pueden interaccionar con sirolimus (ver apartado 4.5).
+ 4.3     Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4     Advertencias y precauciones especiales de empleo
+ Rapamune no se ha estudiado adecuadamente en pacientes que presentan alto riesgo inmunológico
+(ver apartado 5.1.).
+ Uso concomitante con otros agentes inmunosupresores
+En ensayos clínicos, sirolimus se ha administrado conjuntamente con los siguientes agentes:
+ciclosporina, azatioprina, micofenolato mofetil, corticosteroides y anticuerpos citotóxicos. Sirolimus
+no se ha estudiado extensamente en combinación con otros agentes inmunosupresores.
+ En base a la información obtenida en ensayos clínicos posteriores, el uso de Rapamune, micofenolato
+mofetil, y corticosteroides, en combinación con inducción con anticuerpos frente al receptor de IL-2
+(IL-2R Ac) , no se recomienda en el marco del transplante renal de novo (ver apartado 5.1)..
+ Los inmunosupresores pueden variar la respuesta a la vacunación. Durante el tratamiento con
+inmunosupresores, incluyendo Rapamune, la vacunación puede ser menos efectiva. Se debe evitar el
+uso de vacunas atenuadas durante el tratamiento con Rapamune.
+ En pacientes con insuficiencia hepática, se recomienda monitorizar cuidadosamente los niveles valle
+de sirolimus en sangre total. En pacientes con insuficiencia hepática grave, se recomienda la reducción
+de la dosis de mantenimiento a la mitad, en función de la reducción del aclaramiento (ver las secciones
+4.2 y 5.2). Dado que en estos pacientes se prolonga la semivida, tras una dosis de carga o un cambio
+de dosis deben monitorizarse los niveles del medicamento durante un periodo prolongado de tiempo,
+hasta que se alcancen concentraciones estables (ver secciones 4.2 y 5.2).
+ No se recomienda la co-administración de sirolimus con inhibidores potentes de CYP3A4 (tales como
+ketoconazol, voriconazol, itraconazol, telitromicina o claritromicina) o inductores (tales como
+rifampicina, rifabutina) (ver apartado 4.5).
+ La mayor susceptibilidad a infecciones y el posible desarrollo de linfoma y de otros tumores,
+particularmente de la piel, pueden ser el resultado de la inmunosupresión (ver apartado 4.8). La
+supresión excesiva del sistema inmune también puede aumentar la susceptibilidad a la infección,
+incluyendo las infecciones oportunistas, las infecciones mortales y la sepsis.
+ No se ha establecido la seguridad y eficacia de Rapamune como terapia inmunosupresora en pacientes
+sometidos a transplante de hígado o pulmón, y por lo tanto, tales usos no están recomendados.
+ En dos ensayos clínicos de receptores de novo de transplante de hígado, el uso de sirolimus con
+ciclosporina o tacrolimus se asoció con un incremento en trombosis de la arteria hepática (HAT),
+desembocando la mayoría en la pérdida del injerto o la muerte.
+ Se han notificado casos de alteración o retraso en la cicatrización de heridas en pacientes que recibían
+Rapamune, incluyendo linfocele y dehiscencia de heridas. Basándose en los datos de la bibliografía
+médica los pacientes con un IMC superior a 30 kg/m2 pueden presentarmayor riesgode cicatrización
+anómala de heridas También se han notificado casos de acumulación de fluidos, incluso edema
+periférico, linfedema, derrame pleural y derrame pericárdico (incluyendo derrames
+hemodinámicamente significativos en niños y adultos), en pacientes que recibieron Rapamune.
+ Se han notificado casos de dehiscencia de la anastomosis bronquial, resultando algunos de ellos
+mortales, cuando se ha utilizado Rapamune como parte de un régimen inmunosupresor, en pacientes
+con transplante de novo de pulmón.
+ Se han asociado con la administración de sirolimus, reacciones de hipersensibilidad, incluyendo
+reacciones anafilácticas/anafilactoides, angioedema, dermatitis exfoliativa y vasculitis por
+hipersensibilidad (ver apartado 4.8).
+ En raras ocasiones, la administración concomitante de sirolimus e IECA (inhibidores de la enzima
+convertidora de angiotensina) ha desencadenado reacciones del tipo de edema angioneurótico.
+ Como es usual para los pacientes que presentan mayor riesgo de padecer cáncer de piel, debe limitarse
+la exposición a la luz solar y a la luz UV usando prendas protectoras y una pantalla solar con factor de
+protección elevado.
+ En pacientes que no recibieron profilaxis antimicrobiana, se han notificado casos de neumonía por
+Pneumocystis carinii. Por tanto, debe administrarse una profilaxis antimicrobiana para la neumonía
+producida por Pneumocystis carinii durante los 12 meses siguientes al trasplante.
+ Se recomienda profilaxis para el citomegalovirus (CMV) durante los 3 meses siguientes al transplante,
+especialmente en pacientes con alto riesgo de enfermedad por CMV.
+ El uso de Rapamune en pacientes sometidos a transplante renal se ha asociado con un incremento de
+los niveles séricos de colesterol y de triglicéridos que puede requerir tratamiento. Los pacientes que
+reciban Rapamune deben ser monitorizados en cuanto a hiperlipidemia, utilizando tests de laboratorio
+y, si se detectase hiperlipidemia, deben adoptarse medidas como dieta, ejercicio o agentes reductores
+de lípidos. En pacientes con hiperlipidemia establecida, antes de iniciar un tratamiento
+inmunosupresor, incluyendo Rapamune, debe considerarse el riesgo/beneficio. De la misma manera,
+en pacientes con hiperlipidemia refractaria debe reevaluarse el riesgo/beneficio para continuar el
+tratamiento con Rapamune.
+ En los ensayos clínicos, la administración concomitante de Rapamune con inhibidores de la HMG-
+CoA reductasa y/o fibratos fue aparentemente bien tolerada. Durante la terapia con Rapamune, los
+pacientes a los que se les administra un inhibidor de la HMG (hidroxi-metil-glutaril)- CoA reductasa
+                                                    5
+y/o fibrato, deben ser monitorizados para controlar el posible desarrollo de rabdomiólisis y otros
+efectos adversos descritos en los respectivos Resúmenes de las Características de Producto de estos
+agentes.
+ Durante la administración concomitante de Rapamune y ciclosporina debe monitorizarse la función
+renal. En pacientes que presentan niveles elevados de creatinina sérica debe considerarse un ajuste
+apropiado del régimen de inmunosupresión. Cuando se coadministran otros agentes, conocidos por
+tener un efecto perjudicial para la función renal, debe tenerse precaución.
+ Los pacientes tratados con ciclosporina y Rapamune durante un período de más de 3 meses tuvieron
+niveles más altos de creatinina sérica y tasas más bajas de filtración glomerular calculada en
+comparación con los pacientes tratados con ciclosporina y placebo o con controles de azatioprina. Los
+pacientes a los que se retiró con éxito la ciclosporina tuvieron niveles más bajos de creatinina sérica y
+tasas más altas de filtración glomerular calculada, así como una reducción en la incidencia de
+neoplasia, en comparación con los pacientes que seguían con ciclosporina. No puede recomendarse la
+coadministración continuada de ciclosporina y de Rapamune como terapia de mantenimiento.
+ En pacientes que presentan retraso en la función del injerto, sirolimus puede retrasar la recuperación
+de la función renal.
+ Se recomienda realizar un control cuantitativo periódico de la excreción de proteínas urinarias. En un
+estudio de evaluación de la conversión de los inhibidores de calcineurina a Rapamune en pacientes en
+mantenimiento con transplante renal, se observó como rasgo común un incremento en la excreción de
+proteínas urinarias entre los 6 y 24 meses posteriores a la conversión a Rapamune (ver apartado 5.1).
+También se notificó una nueva aparición de nefrosis (síndrome nefrótico) en el 2% de los pacientes del
+estudio (ver apartado 4.8.). No se han establecido la seguridad y eficacia de la conversión de
+inhibidores de calcineurina a Rapamune en pacientes en mantenimiento con trasplante renal.
+ El uso concomitante de Rapamune con un inhibidor de la calcineurina puede incrementar el riesgo de
+síndrome hemolítico urémico / púrpura trombocitopénica trombótica / microangiopatía trombótica
+(SHU/PTT/MAT) asociados a inhibidores de la calcineurina.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Sirolimus es extensamente metabolizado en la pared intestinal y en el hígado por el isoenzima
+CYP3A4. Sirolimus es también un sustrato de la bomba de flujo multifármaco, glicoproteína P (gp-P)
+situada en el intestino delgado. Por tanto, la absorción y posterior eliminación de sirolimus pueden
+estar influenciadas por las sustancias que afectan a estas proteínas. Los inhibidores de CYP3A4 (tales
+como ketoconazol, voriconazol, itraconazol, telitromicina o claritromicina) disminuyen el
+metabolismo de sirolimus e incrementan los niveles de sirolimus. Los inductores de CYP3A4 (tales
+como rifampicina o rifabutina) incrementan el metabolismo de sirolimus y disminuyen los niveles de
+sirolimus. No se recomienda la co-administración de sirolimus con inhibidores potentes de CYP3A4 o
+inductores de CYP3A4 (ver apartado 4.4).
+ Ciclosporina (sustrato de CYP3A4): La tasa y grado de absorción de sirolimus se vieron
+significativamente incrementados por la ciclosporina A (CsA). 5 mg de sirolimus administrados
+simultáneamente con ciclosporina (300 mg), 5 mg de sirolimus administrados 2h después de
+ciclosporina (300 mg) y 10 mg de sirolimus 4 horas después de ciclosporina (300 mg) produjeron un
+incremento del AUC de aproximadamente un 183%, 141% y 80% respectivamente. El efecto de la
+ciclosporina también se reflejó en los incrementos de la Cmax y del tmax. Cuando se administró 2 horas
+antes de la administración de la ciclosporina, la Cmax y el AUC de sirolimus no se vieron afectadas.
+Una dosis única de sirolimus administrada, en voluntarios sanos, simultáneamente o con 4 horas de
+diferencia, no afectó la farmacocinética de la ciclosporina (microemulsión). Se recomienda administrar
+Rapamune 4 horas después de la ciclosporina (microemulsión).
+ Rifampicina (inductor de CYP3A4): La administración de dosis repetidas de rifampicina redujo las
+concentraciones de sirolimus en sangre total después de una dosis única de 10 mg de solución oral de
+                                                     6
+Rapamune. La rifampicina aumentó el aclaramiento de sirolimus aproximadamente 5,5 veces y redujo
+el AUC y la Cmáx aproximadamente un 82 % y un 71 %, respectivamente. No se recomienda la co-
+administración de sirolimus y rifampicina (ver apartado 4.4).
+ Ketoconazol (inhibidor de CYP3A4): La administración de dosis repetidas de ketoconazol afectó
+significativamente a la tasa y grado de absorción y de exposición de sirolimus, tal como se refleja en
+los aumentos de los valores de Cmáx., Tmáx. y AUC de sirolimus de 4,4; 1,4 y 10,9 veces,
+respectivamente. No se recomienda la co-administración de sirolimus y ketoconazol (ver apartado 4.4).
+ Voriconazol (inhibidor de CYP3A4): Se ha notificado que la co-administración de sirolimus (una
+única dosis de 2 mg) con la administración de múltiples dosis de voriconazol oral (400 mg cada 12
+horas durante 1 día, 100 mg cada 12 horas durante 8 días) en sujetos sanos incrementa la Cmax y el
+AUC de sirolimus entre 7 y 11 veces, respectivamente. No se recomienda la co-administración de
+sirolimus y voriconazol (ver apartado 4.4).
+ Diltiazem (inhibidor de CYP3A4): La administración oral simultánea de 10 mg de solución oral de
+Rapamune y 120 mg de diltiazem, afectó significativamente la biodisponibilidad de sirolimus. Los
+valores de Cmáx., tmáx. y AUC aumentaron 1,4; 1,3 y 1,6 veces, respectivamente. Sirolimus no afectó la
+farmacocinética del diltiazem o de sus metabolitos desacetildiltiazem y desmetildiltiazem. Si se
+administra diltiazem, deben monitorizarse los niveles de sirolimus en sangre y puede ser necesario un
+ajuste de dosis.
+ Verapamilo (inhibidor de CYP3A4): La administración de múltiples dosis de verapamilo y sirolimus
+solución oral afectó significativamente la tasa y el grado de absorción de ambos fármacos. La Cmax,
+tmax y el AUC de sirolimus en sangre total aumentaron 2,3, 1,1 y 2,2 veces, respectivamente. Tanto la
+Cmax como el AUC de verapamilo en plasma S-(-) aumentaron 1,5 veces y la t max disminuyó un 24%.
+Los niveles de sirolimus deben ser monitorizados y deben considerarse reducciones adecuadas de
+dosis en ambas medicaciones.
+ Eritromicina (inhibidor de CYP3A4): La administración de múltiples dosis de eritromicina y sirolimus
+solución oral aumentó significativamente la tasa y el grado de absorción de ambos fármacos. La Cmax, t
+max y el AUC de sirolimus en sangre total aumentaron 4,4, 1,4 y 4,2 veces, respectivamente. La Cmax, el
+t max y el AUC de eritromicina base en plasma aumentaron 1,6, 1,3 y 1,7 veces, respectivamente. Los
+niveles de sirolimus deben ser monitorizados y deben considerarse reducciones de dosis adecuadas en
+ambas medicaciones.
+ Anticonceptivos orales: No se observó ninguna interacción farmacocinética clínicamente significativa
+entre sirolimus y 0,3 mg de norgestrel/0,03 mg de etinilestradiol. Aunque, los resultados de un estudio
+de interacción de dosis única del fármaco con un anticonceptivo oral sugiere que no hay interacciones
+farmacocinéticas, los resultados no pueden excluir la posibilidad de cambios en la farmacocinética que
+puedan afectar la eficacia del anticonceptivo oral durante un tratamiento a largo plazo con Rapamune.
+ Otras interacciones posibles:
+Los inhibidores moderados y débiles de CYP3A4 pueden reducir el metabolismo y aumentar los
+niveles en sangre de sirolimus (p. ej. bloqueantes de los canales de calcio: nicardipina; agentes
+antifúngicos: clotrimazol, fluconazol; antibióticos: troleandomicina; otras sustancias:
+bromocriptina, cimetidina, danazol, inhibidores de proteasa).
+ Los inductores de CYP3A4 pueden aumentar el metabolismo y reducir los niveles en sangre de
+sirolimus (p. ej. Hierba de San Juan (Hypericum perforatum) anticonvulsivos: carbamazepina,
+fenobarbital, fenitoína).
+ Aunque sirolimus inhibe in vitro el citocromo hepático microsomal P450, CYP2C9, CYP2C19,
+CYP2D6 y CYP3A4/5, no se espera que in vivo el principio activo inhiba la actividad de estas
+isoenzimas, ya que las concentraciones de sirolimus, necesarias para producir la inhibición, son mucho
+más elevadas que las observadas en pacientes que reciben dosis terapéuticas de Rapamune. Los
+ inhibidores de gp-P pueden disminuir el flujo de sirolimus de células intestinales y aumentar los
+niveles de sirolimus.
+        El zumo de pomelo afecta al metabolismo mediado por CYP3A4 y por tanto debe ser evitado.
+        Pueden observarse interacciones farmacocinéticas con agentes procinéticos gastrointestinales como
+cisaprida y metoclopramida.
+        No se han observado interacciones farmacocinéticas clínicamente significativas entre sirolimus y
+algunas de las siguientes sustancias: aciclovir, atorvastatina, digoxina, glibenclamida,
+metilprednisolona, nifedipino, prednisolona, y trimetoprim/sulfametoxazol.
+        4.6   Embarazo y lactancia
+        No existen datos suficientes sobre la utilización de sirolimus en mujeres embarazadas. Los estudios
+en animales han mostrado toxicidad reproductiva (ver apartado 5.3). Se desconoce el riesgo en seres
+humanos. Rapamune no debe utilizarse durante el embarazo, a no ser que sea claramente necesario.
+Durante el tratamiento con Rapamune y durante las 12 semanas siguientes a la interrupción del mismo,
+debe utilizarse un método anticonceptivo eficaz.
+        Después de la administración de sirolimus radiomarcado a ratas lactantes, se detectó radioactividad en
+la leche. No se sabe si sirolimus se excreta en la leche humana. Dado el potencial de sirolimus para
+provocar reacciones adversas en lactantes, la lactancia debe ser interrumpida durante el tratamiento.
+        Se han observado alteraciones de los parámetros de esperma en algunos pacientes tratados con
+Rapamune. En la mayoría de los casos estos efectos han sido reversibles al interrumpir Rapamune
+(versección 5.3).
+        4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+        No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+        4.8     Reacciones adversas
+        Las reacciones adversas más frecuentes notificadas (ocurren en >10% de los pacientes) son la
+trombocitopenia, anemia, hipocalemia, hipofosfatemia, infecciones del tracto urinario,
+hipercolesterolemia, hiperglucemia, hipertrigliceridemia, dolor abdominal, linfocele, edema periférico,
+artralgia, acné, diarrea y aumento de la lactato deshidrogenasa (LDH) en sangre.
+        La incidencia de algunos efectos adversos puede incrementarse conforme se incrementan los niveles
+valle de sirolimus.
+        En la siguiente tabla se resumen las reacciones adversas en función de la clasificación de órganos y de
+su frecuencia de acuerdo a los últimos ensayos clínicos realizados y a la experiencia post-
+comercialización. Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de
+cada intervalo de frecuencia. Sólo se enumeran las reacciones para las que existe al menos una
+sospecha razonable de relación causal con el tratamiento de Rapamune.
+         La mayoría de los pacientes fueron sometidos a regímenes de inmunosupresión administrando
+Rapamune en combinación con otros agentes inmunosupresores.
+Clasificación de        Muy frecuentes            Frecuentes                  Poco frecuentes Raras
+órganos y sistemas      ( 1/10)                   ( 1/100, < 1/10)            ( 1/1.000, <      ( 1/10.000, <
+Infecciones e
+infestaciones
+                                                           8
+                                                Cáncer de piel                 Linfoma /
+Neoplasias benignas,
+malignas y no
+especificadas (incl
+quistes y pólipos)
+Trastornos de la
+sangre y del sistema
+linfático
+Trastornos
+hepatobiliares
+Trastornos del
+sistema
+inmunológico
+Trastornos del
+metabolismo y de la
+nutrición
+Trastornos
+cardiacos
+Trastornos
+vasculares
+Trastornos
+respiratorios,
+torácicos y
+mediastínicos
+Trastornos
+gastrointestinales
+Trastornos de la piel   Acné                   Erupción
+y del tejido
+subcutáneo
+Trastornos
+musculoesqueléticos
+y del tejido
+conjuntivo
+Trastornos renales y
+urinarios
+Trastornos
+generales y
+alteraciones en el
+lugar de
+administración
+Exploraciones
+complementarias
+        La inmunosupresión aumenta la susceptibilidad al desarrollo de linfoma y otros tumores, en particular
+de la piel (ver apartado 4.4).
+        Se han notificado casos de hepatotoxicidad, el riesgo puede incrementarse conforme se incrementa el
+nivel valle de sirolimus. Se han notificado casos raros de necrosis hepática mortal con niveles valle de
+sirolimus elevados.
+        Han aparecido casos de neumopatía intersticial de etiología infecciosa desconocida (incluyendo
+neumonitis y raramente bronquiolitis obliterante idiopática con neumonía organizativa (BONO
+idiopática) y fibrosis pulmonar), algunas de ellas mortales, en pacientes con terapias inmunosupresoras
+que incluían Rapamune. En algunos casos, la neumopatía intersticial se resolvió con la reducción de la
+dosis o la suspensión de Rapamune. El riesgo aumenta proporcionalmente al nivel valle de Sirolimus.
+        Se han notificado casos de cicatrización anormal posterior a la cirugía de transplante, incluyendo
+dehiscencia fascial, hernia quirúrgica y dehiscencia anastomótica (por ejemplo de heridas, vascular, de
+los conductos respiratorios, ureteral, biliar).
+        Se han observado alteraciones de los parámetros de esperma en algunos pacientes tratados con
+Rapamune. En la mayoría de los casos estos efectos han sido reversibles al interrumpir Rapamune (ver apartado 5.3).
+        En pacientes que presentan retraso en la función del injerto, sirolimus puede retrasar la recuperación
+de la función renal.
+        El uso concomitante de sirolimus con un inhibidor de la calcineurina puede incrementar el riesgo de
+SHU/PTT/MAT asociados a inhibidores de la calcineurina.
+        En un estudio en marcha que evalúa la seguridad y eficacia de la conversión de inhibidores de
+calcineurina a sirolimus (niveles deseados de 12 ­ 20 ng/ml) en el mantenimiento de pacientes con
+transplante renal, se cesó el reclutamiento en un subgrupo de pacientes (n = 90) con una tasa de
+filtrado glomerular basal de menos de 40 ml/min (ver apartado 5.1). Hubo una tasa mayor de efectos
+adversos serios, incluyendo neumonía, rechazo agudo, pérdida del injerto y muerte en el brazo de
+tratamiento con sirolimus (n = 60, mediana de tiempo post-transplante: 36 meses).
+        4.9    Sobredosis
+        Actualmente, hay una experiencia limitada en sobredosis. Un paciente experimentó un episodio de
+fibrilación auricular después de la ingestión de 150 mg de Rapamune. En general, los efectos adversos
+por sobredosificación, son los listados en la sección 4.8. En todos los casos de sobredosis, deben
+iniciarse medidas de soporte generales. Basándose en la baja solubilidad acuosa y en la alta unión a los
+eritrocitos y proteínas plasmáticas del Rapamune, se sospecha que Rapamune no será dializable en una
+cantidad significativa.
+                                                           10
+
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: agentes inmunosupresores selectivos. Código ATC: L04A A10.
+ Sirolimus inhibe la activación de las células T inducida por la mayoría de los estímulos, mediante el
+bloqueo de la transducción de señales intracelulares dependientes e independientes de calcio. Ciertos
+estudios demuestran que sus efectos están mediados por un mecanismo diferente del de la
+ciclosporina, tacrolimus y otros agentes inmunosupresores. La evidencia experimental sugiere que
+sirolimus se une a la proteína citosólica específica FKPB-12 y que el complejo FKPB 12-sirolimus
+inhibe la activación de la Molécula Diana de la Rapamicina en mamíferos (mTOR), una quinasa
+crítica para la progresión del ciclo celular. La inhibición de mTOR resulta en el bloqueo de varias
+rutas específicas de transducción de señales. El resultado neto es la inhibición de la activación de los
+linfocitos, que da como resultado la inmunosupresión.
+ En animales, sirolimus tiene un efecto directo sobre la activación de las células T y B, suprimiendo
+reacciones mediadas por el sistema inmune tales como el rechazo de aloinjertos.
+ Ensayos clínicos
+Se estudiaron pacientes que presentaron un riesgo inmunológico de bajo a moderado en el ensayo fase
+3 de eliminación de ciclosporina-mantenimiento de Rapamune, que incluyó pacientes que recibieron
+un aloinjerto renal de un donante vivo o muerto. Además, se incluyeron receptores de re-trasplante
+cuyos injertos anteriores sobrevivieron durante al menos 6 meses tras el trasplante. La ciclosporina no
+se retiró en los pacientes que experimentaron episodios de rechazo agudos de Grado de Banff 3, que
+eran dependientes de diálisis, que tenían la creatinina sérica >400 micromoles/l o que tenían una
+función renal inadecuada para justificar la retirada de ciclosporina. Los pacientes con riesgo
+inmunológico elevado de pérdida del injerto no se estudiaron en número suficiente en los ensayos de
+eliminación de ciclosporina-mantenimiento de Rapamune y no se recomiendan para este régimen de
+tratamiento.
+ A los 12, 24 y 36 meses, la supervivencia del injerto y del paciente fue similar para ambos grupos. A
+los 48 meses, hubo una diferencia estadísticamente significativa en la supervivencia del injerto a favor
+del grupo de Rapamune seguido de la eliminación de ciclosporina en comparación con el grupo de
+tratamiento de Rapamune con ciclosporina (incluyendo y excluyendo la pérdida de seguimiento).
+Hubo una tasa significativamente más alta del primer episodio de rechazo agudo confirmado por
+biopsia en el grupo de eliminación de la ciclosporina comparado con el grupo de mantenimiento de la
+ciclosporina durante el período post-aleatorización a los 12 meses (9.8% vs. 4.2%, respectivamente).
+Después, la diferencia entre ambos grupos no fue significativa.
+ La media de la tasa de filtración glomerular (FG) calculada a los 12, 24, 36, 48 y 60 meses fue
+significativamente más elevada para los pacientes que recibieron Rapamune seguido de eliminación de
+ciclosporina que aquellos pacientes del grupo de tratamiento de Rapamune con ciclosporina. En base a
+los análisis de datos a los 36 meses y siguientes, que mostraron una creciente diferencia en la
+supervivencia del injerto y en la función renal, así como una presión sanguínea significativamente más
+baja en el grupo de eliminación de ciclosporina, se decidió quitar a los sujetos del grupo de Rapamune
+con ciclosporina. A los 60 meses, la incidencia de neoplasias no cutáneas fue significativamente más
+elevada en la cohorte de pacientes que continuaron con la ciclosporina en comparación con la cohorte
+de aquellos pacientes a los que les fue retirada la ciclosporina (8.4% vs. 3.8%, respectivamente). Para
+el carcinoma de piel, la mediana de tiempo al primer suceso se retrasó significativamente.
+ Mediante un estudio aleatorizado, multicéntrico y controlado, estratificado en base a la FG calculada
+al inicio del estudio (20-40 mL/min vs >40 mL/min), se evaluó la seguridad y eficacia de la
+conversión del tratamiento de inhibidores de calcineurina a Rapamune en pacientes en mantenimiento
+ con trasplante renal (6-120 meses tras el trasplante). El uso concomitante de agentes inmunosupresores
+incluyó micofenolato mofetil, azatioprina, y corticosteroides.
+Se interrumpió el reclutamiento en el estrato de pacientes cuya FG era <40 mL/min, debido a un
+desequilibrio en los eventos de seguridad (ver apartado 4.8).
+ En el estrato de pacientes cuya FG fue >40 mL/min, la función renal no mejoró de forma global. Las
+tasas de rechazo agudo, pérdida del injerto, y muerte fueron similares a 1 y 2 años. Las reacciones
+adversas emergentes como consecuencia del tratamiento se dieron con más frecuencia durante los 6
+primeros meses después de la conversión del tratamiento a Rapamune.
+En el estrato de pacientes cuya FG fue <40 mL/min, la media y la mediana de los ratios
+proteína/creatinina en orina fueron significativamente más altos en el grupo que continuó con
+Rapamune comparados con aquellos que continuaron con inhibidores de calcineurina a los 24 meses
+(ver apartado 4.4). También se notificó una nueva aparición de nefrosis (síndrome nefrótico) (ver apartado 4.8).
+ A los 2 años, la tasa de neoplasias cutáneas no melanóticas fue significativamente más baja en el
+grupo de conversión a Rapamune comparado con el grupo que continuó con inhibidores de la
+calcineurina (1.8% y 6.9%). En el subgrupo de pacientes del estudio con una FG >40 mL/min y una
+excreción de proteínas urinaria normal, la FG calculada fue más alta a los 1 y 2 años en pacientes
+convertidos a Rapamune que en el subgrupo correspondiente de pacientes que continuaron con los
+inhibidores de la calcineurina. Las tasas de rechazo agudo, pérdida del injerto, y muerte fueron
+similares, pero la excreción de proteínas urinarias se vio incrementada en el brazo de tratamiento con
+Rapamune de éste subgrupo.
+ En 2 estudios clínicos multicéntricos, los pacientes con trasplante renal de novo tratados con
+Rapamune, micofenolato mofetil (MMF), corticosteroides, y un antagonista del receptor de IL-2
+tuvieron tasas de rechazo agudo significativamente más altas y tasas de muerte numéricamente más
+altas en comparación con los pacientes tratados con un inhibidor de calcineurina, MMF,
+corticosteroides, y un antagonista del receptor de IL-2 (ver apartado 4.4). La función renal no fue mejor
+en el brazo de tratamiento con Rapamune de novo sin inhibidor de calcineurina.
+En uno de estos estudios se utilizó una pauta de dosificación abreviada de daclizumab.
+ 5.2   Propiedades farmacocinéticas
+ Después de la administración de la solución oral, sirolimus se absorbe rápidamente, con un tiempo
+hasta la concentración pico de 1 hora en sujetos sanos que recibieron dosis únicas y de 2 horas en
+pacientes con aloinjertos renales estables que recibieron dosis repetidas. La disponibilidad sistémica de
+sirolimus en combinación con administración simultánea de ciclosporina (Sandimmun), es de
+aproximadamente un 14 %. Tras la administración repetida, la concentración media en sangre de
+sirolimus aumenta aproximadamente 3 veces. La semivida final en los pacientes con transplante renal
+estable tras dosis orales repetidas fue de 62 ± 16 h. Sin embargo, la semivida efectiva es más corta y
+las concentraciones medias en el estado estable se alcanzaron después de 5 a 7 días. La relación entre
+sangre y plasma (S/P) de 36 indica que sirolimus se distribuye ampliamente en los elementos celulares
+de la sangre.
+ Los parámetros farmacocinéticos de sirolimus obtenidos de 19 pacientes con trasplante renal que
+recibían ciclosporina microemulsión (4 horas antes que Rapamune) y corticosteroides, después de
+dosis diarias de 2 mg de Rapamune solución en un ensayo clínico de fase III, fueron: Cmax,ss 12,2 ±
+6,2 ng/ml, tmax,ss 3,01 ± 2,40 h, AUCt,ss 158 ± 70 ng·h/ml, CL/F/W 182 ± 72 ml/h/kg (parámetros
+calculados a partir de los resultados del ensayo LC-SM/SM). No hubo ninguna diferencia significativa
+en ninguno de estos parámetros durante un periodo de tiempo de hasta 6 meses después del trasplante.
+Los niveles valle medios de sirolimus en sangre total del mismo ensayo de fase III fueron de 7,2
+ng/ml (4,0 a 11 ng/mL, expresado como valores del ensayo cromatográfico; n=226) para la dosis de
+2 mg por día y de 14 ng/ml (8,0 a 22 ng/ml, expresado como valores del ensayo cromatográfico;
+n=219) para la dosis de 5 mg por día (ver apartado 4.2).
+                                                    12
+Sirolimus es sustrato del citocromo P450 IIIA (CYP3A4) y la glicoproteína P. Sirolimus se metaboliza
+ampliamente por O-desmetilación y/o hidroxilación. En sangre total se identificaron siete metabolitos
+principales incluyendo hidroxilo, desmetil e hidroxidesmetil. Sirolimus es el componente mayoritario
+en sangre total humana y constituye más del 90 % de la actividad inmunosupresora. Después de una
+dosis única de [14C]sirolimus en voluntarios sanos, se recuperó la mayor parte (91,1 %) de la
+radioactividad en heces, y solo se excretó una pequeña cantidad (2,2 %) en orina.
+ Los ensayos clínicos de Rapamune no incluyeron un número suficiente de pacientes > de 65 años para
+determinar si responderían de diferente forma que los pacientes jóvenes. Los datos de concentraciones
+valle de sirolimus en 35 pacientes > de 65 años con transplante renal, fueron similares a los obtenidos
+en población adulta (n = 822) de 18 a 65 años de edad.
+ En voluntarios sanos, una alimentación con alto contenido en grasa alteró las características de
+biodisponibilidad de sirolimus líquido oral. Se produjo una reducción del 34 % en la concentración
+pico de sirolimus en sangre (Cmáx.), un aumento de 3,5 veces en el tiempo hasta alcanzar la
+concentración pico (tmáx.) y un aumento del 35 % en la exposición total (AUC). Se recomienda tomar
+Rapamune bien con o sin alimentos pero siempre del mismo modo. El uso de zumo de naranja y agua
+para diluir el Rapamune fueron equivalentes con respecto a la Cmáx. y AUC. El zumo de pomelo afecta
+al metabolismo mediado por CYP3A4 y, por este motivo, debe evitarse.
+ En pacientes pediátricos sometidos a diálisis (con un 30 % - 50 % de reducción en la tasa de filtración
+glomerular) dentro de los intervalos de edad de 5 a 11 años y de 12 a 18 años, el valor medio de CL/F
+normalizado para el peso era mayor para pacientes pediátricos de menor edad (580 ml/h/kg) que para
+pacientes pediátricos mayores (450 ml/h/kg) en comparación con adultos (287 ml/h/kg). Hubo una
+gran variabilidad entre los individuos dentro de cada grupo de edad.
+ En pacientes con insuficiencia hepática leve y moderada (Clasificación de Child-Pugh A o B), los
+valores medios del AUC y el t1/2 de sirolimus aumentaron un 61 % y un 43 %, respectivamente, y el
+valor de CL/F se redujo un 33 %, en comparación con los sujetos sanos normales. En pacientes con
+insuficiencia hepática grave (Clasificación de Child-Pugh C), los valores medios de AUC y de t1/2 para
+sirolimus aumentaron un 210 % y un 170 %, respectivamente, y el valor de Cl/F se redujo un 67 %, en
+comparación con los valores obtenidos en sujetos sanos normales. La prolongación de la
+semividaobservada en pacientes con insuficiencia hepática produce un retraso en la consecución del
+estado estacionario..
+ Los parámetros farmacocinéticos de sirolimus fueron similares en diversas poblaciones con función
+renal que varía de normal a ausente (pacientes sometidos a diálisis).
+ 5.3   Datos preclínicos sobre seguridad
+ Las reacciones adversas no observadas en ensayos clínicos, pero detectadas en animales con niveles de
+exposición similares a los clínicos y con posible repercusión en el uso clínico fueron las siguientes:
+vacuolación de islotes de células pancreáticas, degeneración tubular de los testículos, ulceración
+gastrointestinal, fracturas y callosidades óseas, hematopoyesis hepática y fosfolipidosis pulmonar.
+ Sirolimus no fue mutagénico en ensayos de mutación inversa de bacterias in vitro, en el ensayo de
+aberración cromosómica en células de ovario de hámster chino, en el ensayo de avance de mutación de
+células de linfoma de ratón o en el ensayo in vivo de micronúcleos de ratón.
+ Estudios de carcinogenicidad llevados a cabo en ratones y en ratas, mostraron un aumento de
+incidencias de linfomas (ratones machos y hembras), adenoma hepatocelular y carcinoma (ratones
+macho) y de leucemia granulocítica (ratones hembra). Es conocido que pueden esperarse tumores
+(linfomas) secundarios debidos al uso crónico de agentes inmunosupresores y han sido observados, en
+casos muy raros, en pacientes. En ratones, aumentaron las lesiones cutáneas ulcerosas crónicas. Los
+cambios pueden estar relacionados con la inmunosupresión crónica. En ratas, los adenomas celulares
+intersticiales testiculares probablemente fueron indicativos de una respuesta dependiente de la especie
+ para los niveles de la hormona luteinizante y normalmente se consideran de importancia clínica
+limitada.
+ En estudios de toxicidad en la reproducción se observó una disminución de la fertilidad en ratas
+macho. En un estudio sobre ratas de 13 semanas se observaron reducciones parcialmente reversibles
+en los recuentos de espermatozoides. Se observaron reducciones de los pesos de los testículos y/o
+lesiones histológicas (por ejemplo, atrofia tubular y células gigantes en los túbulos) en ratas y en un
+estudio sobre monos. En ratas, sirolimus provocó embrio/fetotoxicidad que se manifestó como
+mortalidad y reducción del peso de los fetos (con retrasos asociados en la osificación esquelética). Ver
+sección 4.6.
+ 
+6.       DATOS FARMACÉUTICOS
+	6.1      Lista de excipientes
+ Polisorbato 80
+Phosal 50 PG (fosfatidilcolina, propilenglicol, monoglicéridos, diglicéridos, etanol (1,5% a 2,5%),
+ácidos grasos de soja y palmitato de ascorbilo).
+ 6.2   Incompatibilidades
+ Rapamune no debe ser diluido en zumo de pomelo o en cualquier otro líquido que no sea agua o zumo
+de naranja. Ver Precauciones especiales de eliminación, sección 6.6.
+ Rapamune solución oral contiene polisorbato 80, lo cual aumenta la tasa de extracción de di-(2-
+Etilhexil)ftalato (DEHP) a partir de policloruro de vinilo (PVC). Por este motivo es importante
+considerar las instrucciones para administrar inmediatamente Rapamune solución oral, cuando se
+utilice un envase plástico para su dilución y/o administración (ver apartado 6.6.).
+ 6.3      Período de validez
+ 2 años
+ Frasco abierto: 30 días
+ En las jeringas dosificadoras 24 horas (a temperatura ambiente, pero sin sobrepasar los 25º C)
+ Después de la dilución, (ver apartado 6.6) la preparación debe usarse inmediatamente.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2º C y 8º C). Conservar en la botella original para protegerlo de la luz.
+ Si es necesario, el paciente puede conservar las botellas a temperatura ambiente, hasta 25º C, por un
+corto período de tiempo (24 horas).
+ 6.5      Naturaleza y contenido del envase
+ Botellas de vidrio topacio tipo III de 60 ml con adaptador de jeringa y 30 jeringas de plástico.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con las normativas locales.
+ Instrucciones de uso, manipulación y eliminación:
+ La jeringa dosificadora debe usarse para extraer la cantidad prescrita de Rapamune de la botella.
+Vaciar la cantidad correcta de Rapamune desde la jeringa en un vaso de vidrio o plástico, no usar
+vasos de ningún otro material, con, al menos, 60 ml de agua o zumo de naranja. Para la dilución, no
+deben utilizarse otros líquidos, incluido el zumo de pomelo. Agitar vigorosamente y beber de una vez.
+Rellenar el recipiente con un volumen adicional (mínimo de 120 ml) de agua o zumo de naranja, agitar
+vigorosamente y beber de una vez.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Wyeth Europa Ltd.
+Huntercombe Lane South
+Taplow, Maidenhead
+Berkshire, SL6 0PH
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/01/171/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de primera autorización: 14 de marzo de 2001.
+ Fecha de la última revalidación: 15 de marzo de 2006.
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+de Medicamentos (EMEA) http://www.emea.europa.eu
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rapamune 1 mg comprimidos recubiertos.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 1 mg de sirolimus.
+ Excipientes:
+Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido recubierto.
+Comprimido recubierto triangular de color blanco que lleva grabado en una cara ""RAPAMUNE
+1 mg"".
+ "
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Rapamune está indicado para la profilaxis del rechazo de órganos en pacientes adultos que presentan
+de bajo a moderado riesgo inmunológico, sometidos a un trasplante renal. Se recomienda que
+Rapamune se utilice inicialmente en combinación con ciclosporina microemulsión y corticosteroides
+durante un período de 2 a 3 meses. Rapamune puede mantenerse como terapia de mantenimiento con
+corticosteroides sólo si la ciclosporina microemulsión puede interrumpirse progresivamente (ver las
+secciones 4.2 y 5.1).
+ 4.2   Posología y forma de administración
+ Rapamune es exclusivamente para uso oral.
+ No se ha determinado la biodisponibilidad para los comprimidos tras haberse machacado, masticado o
+partido y por tanto no puede recomendarse.
+ El tratamiento debe iniciarse y mantenerse bajo la dirección de un especialista apropiadamente
+cualificado en trasplantes.
+ Uso en adultos
+Terapia inicial (2 a 3 meses post-transplante): La pauta de dosificación usual de Rapamune es una
+dosis de inducción oral de 6 mg, administrada tan pronto como sea posible después del trasplante,
+seguida de 2 mg una vez al día. La dosis de Rapamune debe individualizarse entonces para obtener
+niveles valle en sangre total de 4 a 12 ng/ml (ensayo cromatográfico: ver Monitorización terapéutica
+del fármaco). La terapia con Rapamune debe optimizarse con un régimen de disminución de esteroides
+y ciclosporina microemulsión. El intervalo sugerido de concentración valle de ciclosporina para los 2-
+3 primeros meses después del trasplante son de 150-400 ng/ml (ensayo monoclonal o técnica
+equivalente).
+ Terapia de mantenimiento: La ciclosporina debe interrumpirse progresivamente durante un período de
+4 a 8 semanas y la dosis de Rapamune debe ajustarse para obtener niveles valle en sangre total de 12 a
+20 ng/ml (ensayo cromatográfico: ver Monitorización terapéutica del fármaco). Rapamune debe
+administrarse con corticosteroides. En los pacientes en los que el abandono de ciclosporina o bien no
+da resultado o no puede intentarse, la combinación de ciclosporina y Rapamune no debe mantenerse
+ durante más de 3 meses después del transplante. En tales pacientes, cuando resulte apropiado
+clínicamente, debe interrumpirse Rapamune e iniciarse un régimen inmunosupresivo alternativo.
+ Uso en receptores de raza negra: Hay escasa información que indique que los receptores de
+transplante renal de raza negra (predominantemente afroamericanos) requieran dosis y niveles valle
+más elevados de sirolimus para conseguir la misma eficacia que se observa en los pacientes que no son
+de raza negra. Actualmente, los datos de eficacia y seguridad son demasiado limitados para permitir
+recomendaciones específicas para el uso de sirolimus en los receptores de raza negra.
+ Uso en niños y adolescentes (< 18 años): No hay suficiente experiencia para recomendar el uso de
+sirolimus en niños y adolescentes. La información farmacocinética disponible es limitada en niños (ver apartado 5.2).
+ Uso en pacientes de edad avanzada (>65 años): Los ensayos clínicos con Rapamune solución oral no
+incluyeron el número suficiente de pacientes > de 65 años para determinar si ellos podrían responder
+de forma diferente a los pacientes jóvenes. Los datos de concentración de sirolimus en 35 pacientes
+con transplante renal > de 65 años fueron similares a los de la población adulta de entre 18 y 65 años
+(n = 822). Los comprimidos de Rapamune administrados a 12 pacientes con transplante renal mayores
+de 65 años proporcionaron resultados similares a los de los pacientes adultos (n=167) de entre 18 y 65
+años.
+ Uso en pacientes con insuficiencia renal: No se requiere ningún ajuste de la dosis (ver apartado 5.2).
+ Uso en pacientes con insuficiencia hepática: El aclaramiento de sirolimus puede estar reducido en
+pacientes con alteración de la función hepática (ver apartado 5.2). En pacientes con insuficiencia
+hepática grave, se recomienda reducir la dosis de mantenimiento de Rapamune a la mitad,
+aproximadamente.
+ En pacientes con insuficiencia hepática se recomienda monitorizar cuidadosamente los niveles valle de
+sirolimus en sangre total (ver Monitorización terapéutica delfármaco). No es necesario modificar la
+dosis de inducción de Rapamune.
+ Monitorización terapéutica del fármaco: La mayoría de los pacientes que recibieron 2 mg de
+Rapamune 4 horas después de la ciclosporina tuvo concentraciones valle de sirolimus en sangre total
+dentro del intervalo objetivo de 4 a 12 ng/ml (expresado como valores del ensayo cromatográfico). La
+terapia óptima requiere la monitorización de la concentración terapéutica del fármaco en todos los
+pacientes. Deben monitorizarse estrechamente los niveles de sirolimus en sangre total en las siguientes
+poblaciones: (1) en pacientes que presentan insuficiencia hepática; (2) cuando inductores o inhibidores
+del CYP3A4 se administran conjuntamente y después de su interrupción (ver apartado 4.5); y/o (3) si la
+dosis de ciclosporina se reduce notablemente o se elimina, ya que es más probable que estas
+poblaciones tengan necesidad de una dosificación especial.
+ La monitorización terapéutica del fármaco no debe ser la única base para ajustar la terapia con
+sirolimus. Se debe prestar una especial atención a los signos/síntomas clínicos, biopsias tisulares, y
+parámetros de laboratorio.
+ Para minimizar la variabilidad, Rapamune debe tomarse al mismo tiempo con relación a la
+ciclosporina, 4 horas después de tomar la dosis de ciclosporina y consecuentemente, con o sin
+alimento (ver apartado 5.2). De manera óptima, los ajustes en la dosificación de Rapamune deben
+basarse en más de un único nivel valle obtenido después de 5 días o más de un cambio de dosificación
+anterior. Los pacientes pueden ser cambiados de la formulación de la solución oral a la formulación de
+comprimidos sobre una base de mg a mg. Se recomienda tomar una concentración valle 1 ó 2 semanas
+después del cambio a otras formulaciones o a otras dosificaciones de comprimidos para confirmar que
+la concentración valle está en el intervalo objetivo recomendado.
+ Tras la interrupción de la terapia de ciclosporina, se recomienda un intervalo objetivo de valle de 12 a
+20 ng/ml (ensayo cromatográfico). La ciclosporina inhibe el metabolismo del sirolimus y por
+                                                     17
+consiguiente, los niveles de sirolimus descenderán cuando la ciclosporina se interrumpa, a menos que
+se incremente la dosis de sirolimus. Por término medio, la dosis de sirolimus necesitará ser 4 veces
+mayor para responder tanto a la ausencia de interacción farmacocinética (incremento de 2 veces) como
+al aumento de la necesidad inmunosupresiva en ausencia de ciclosporina (incremento de 2 veces). La
+velocidad a la que se aumenta la dosis de sirolimus debe corresponder con la velocidad de eliminación
+de la ciclosporina.
+ Si durante la terapia de mantenimiento se requieren ajustes adicionales de la dosis (tras la interrupción
+de la ciclosporina), en la mayoría de los pacientes estos ajustes pueden basarse en una simple
+proporción: La nueva dosis de Rapamune = dosis actual x (concentración deseada/concentración
+actual). Además de una nueva dosis de mantenimiento debe considerarse una dosis de carga cuando
+sea necesario incrementar considerablemente las concentraciones valle de sirolimus: Dosis de carga de
+Rapamune = 3x (nueva dosis de mantenimiento- dosis de mantenimiento actual). La dosis máxima de
+Rapamune diaria no debe exceder los 40 mg. Si la dosis diaria estimada excede los 40 mg debido a la
+adición de la dosis de carga, la dosis de carga debería ser administrada en 2 días. Las concentraciones
+valle de sirolimus se deben monitorizar al menos 3 o 4 días después de la(s) dosis de carga.
+ En pacientes con insuficiencia hepática grave, tras un ajuste de dosis o tras una dosis de carga deben
+medirse los niveles de sirolimus cada 5 a 7 días hasta que 3 niveles valle consecutivos muestren una
+concentración estable, debido al retraso en alcanzar el estado estacionario que se produce por la
+prolongación de la semivida.
+ Los intervalos recomendados de la concentración valle de 24 horas del sirolimus se basan en métodos
+cromatográficos. Se han utilizado varios métodos de ensayo para medir la concentración en sangre
+total de sirolimus. En la práctica clínica actual, la concentración en sangre total se mide tanto por
+métodos cromatográficos como con inmunoensayos. Los valores de concentración obtenidos mediante
+estas técnicas no son intercambiables. Cuando se use un método de inmunoensayo registrado, siempre
+se debe hacer referencia a la información del fabricante que relaciona los valores a un método
+cromatográfico de referencia. Todas las concentraciones de sirolimus que se indican en esta ficha
+técnica fueron medidas utilizando métodos cromatográficos o han sido convertidas a equivalentes
+cromatográficos. Los ajustes al intervalo objetivo deben realizarse de acuerdo con el ensayo que se
+utilice para determinar las concentraciones valle de sirolimus.
+ Otras consideraciones de uso: La ciclosporina (microemulsión) y otros productos medicinales o no
+medicinales pueden interaccionar con sirolimus (ver apartado 4.5).
+ 4.3.   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4.   Advertencias y precauciones especiales de empleo
+ Rapamune no se ha estudiado adecuadamente en pacientes que presentan alto riesgo inmunológico
+(ver apartado 5.1.).
+ Uso concomitante con otros agentes inmunosupresores
+En ensayos clínicos, sirolimus se ha administrado conjuntamente con los siguientes agentes:
+ciclosporina, azatioprina, micofenolato mofetil, corticosteroides y anticuerpos citotóxicos. Sirolimus
+no se ha estudiado extensamente en combinación con otros agentes inmunosupresores.
+ En base a la información obtenida en ensayos clínicos posteriores, el uso de Rapamune, micofenolato
+mofetil, y corticosteroides, en combinación con inducción con anticuerpos frente al receptor de IL-2
+(IL-2R Ac), no se recomienda en el marco del transplante renal de novo (ver apartado 5.1.).
+ Los inmunosupresores pueden variar la respuesta a la vacunación. Durante el tratamiento con
+inmunosupresores, incluyendo Rapamune, la vacunación puede ser menos efectiva. Se debe evitar el
+uso de vacunas atenuadas durante el tratamiento con Rapamune.
+                                                    18
+En pacientes con insuficiencia hepática, se recomienda monitorizar cuidadosamente los niveles valle
+de sirolimus en sangre total. En pacientes con insuficiencia hepática grave, se recomienda la reducción
+de la dosis de mantenimiento a la mitad, en función de la reducción del aclaramiento (ver las secciones
+4.2 y 5.2). ). Dado que en estos pacientes se prolonga la semivida, tras una dosis de carga o un cambio
+de dosis deben monitorizarse los niveles del medicamento durante un periodo prolongado de tiempo,
+hasta que se alcancen concentraciones estables (ver secciones 4.2 y 5.2).
+ No se recomienda la co-administración de sirolimus con inhibidores potentes de CYP3A4 (tales como
+ketoconazol, voriconazol, itraconazol, telitromicina o claritromicina) o inductores (tales como
+rifampicina, rifabutina) (ver apartado 4.5).
+ La mayor susceptibilidad a infecciones y el posible desarrollo de linfoma y de otros tumores,
+particularmente de la piel, pueden ser el resultado de la inmunosupresión (ver apartado 4.8). La
+supresión excesiva del sistema inmune también puede aumentar la susceptibilidad a la infección,
+incluyendo las infecciones oportunistas, las infecciones mortales y la sepsis.
+ No se ha establecido la seguridad y eficacia de Rapamune como terapia inmunosupresora en pacientes
+sometidos a transplante de hígado o pulmón, y por lo tanto, tales usos no están recomendados.
+ En dos ensayos clínicos de receptores de novo de transplante de hígado, el uso de sirolimus con
+ciclosporina o tacrolimus se asoció con un incremento en trombosis de la arteria hepática (HAT),
+desembocando la mayoría en la pérdida del injerto o la muerte.
+ Se han notificado casos de alteración o retraso en la cicatrización de heridas en pacientes que recibían
+Rapamune, incluyendo linfocele y dehiscencia de heridas. Basándose en los datos de la bibliografía
+médica los pacientes con un IMC superior a 30 kg/m2 pueden presentar mayor riesgo de cicatrización
+anómala de heridas.
+ También se han notificado casos de acumulación de fluidos, incluso edema periférico, linfedema,
+derrame pleural y derrame pericárdico (incluyendo derrames hemodinámicamente significativos en
+niños y adultos), en pacientes que recibieron Rapamune.
+ Se han notificado casos de dehiscencia de la anastomosis bronquial, resultando algunos de ellos
+mortales, cuando se ha utilizado Rapamune como parte de un régimen inmunosupresor, en pacientes
+con transplante de novo de pulmón.
+ Se han asociado con la administración de sirolimus, reacciones de hipersensibilidad, incluyendo
+reacciones anafilácticas/anafilactoides, angioedema, dermatitis exfoliativa y vasculitis por
+hipersensibilidad (ver apartado 4.8).
+En raras ocasiones, la administración concomitante de sirolimus e IECA (inhibidores de la enzima
+convertidora de angiotensina) ha desencadenado reacciones del tipo de edema angioneurótico.
+ Como es usual para los pacientes que presentan mayor riesgo de padecer cáncer de piel, debe limitarse
+la exposición a la luz solar y a la luz UV usando prendas protectoras y una pantalla solar con factor de
+protección elevado.
+ En pacientes que no recibieron profilaxis antimicrobiana, se han notificado casos de neumonía por
+Pneumocystis carinii. Por tanto, debe administrarse una profilaxis antimicrobiana para la neumonía
+producida por Pneumocystis carinii durante los 12 meses siguientes al trasplante.
+ Se recomienda profilaxis para el citomegalovirus (CMV) durante los 3 meses siguientes al transplante,
+especialmente en pacientes con alto riesgo de enfermedad por CMV.
+ El uso de Rapamune en pacientes sometidos a transplante renal se ha asociado con un incremento de
+los niveles séricos de colesterol y de triglicéridos que puede requerir tratamiento. Los pacientes que
+reciban Rapamune deben ser monitorizados en cuanto a hiperlipidemia, utilizando tests de laboratorio
+                                                    19
+y, si se detectase hiperlipidemia, deben adoptarse medidas como dieta, ejercicio o agentes reductores
+de lípidos. En pacientes con hiperlipidemia establecida, antes de iniciar un tratamiento
+inmunosupresor, incluyendo Rapamune, debe considerarse el riesgo/beneficio. De la misma manera,
+en pacientes con hiperlipidemia refractaria debe reevaluarse el riesgo/beneficio para continuar el
+tratamiento con Rapamune.
+ En los ensayos clínicos, la administración concomitante de Rapamune con inhibidores de la HMG-
+CoA reductasa y/o fibratos fue aparentemente bien tolerada. Durante la terapia con Rapamune, los
+pacientes a los que se les administra un inhibidor de la HMG (hidroxi-metil-glutaril)-CoA reductasa
+y/o fibrato, deben ser monitorizados para controlar el posible desarrollo de rabdomiólisis y otros
+efectos adversos descritos en los respectivos Resúmenes de las Características de Producto de estos
+agentes.
+ Durante la administración concomitante de Rapamune y ciclosporina debe monitorizarse la función
+renal. En pacientes que presentan niveles elevados de creatinina sérica debe considerarse un ajuste
+apropiado del régimen de inmunosupresión. Cuando se coadministran otros agentes, conocidos por
+tener un efecto perjudicial para la función renal, debe tenerse precaución.
+ Los pacientes tratados con ciclosporina y Rapamune durante un período de más de 3 meses tuvieron
+niveles más altos de creatinina sérica y tasas más bajas de filtración glomerular calculada en
+comparación con los pacientes tratados con ciclosporina y placebo o con controles de azatioprina. Los
+pacientes a los que se retiró con éxito la ciclosporina tuvieron niveles más bajos de creatinina sérica y
+tasas más altas de filtración glomerular calculada, así como una reducción en la incidencia de
+neoplasia, en comparación con los pacientes que seguían con ciclosporina. No puede recomendarse la
+coadministración continuada de ciclosporina y de Rapamune como terapia de mantenimiento.
+ En pacientes que presentan retraso en la función del injerto, sirolimus puede retrasar la recuperación
+de la función renal.
+ Se recomienda realizar un control cuantitativo periódico de la excreción de proteínas urinarias. En un
+estudio de evaluación de la conversión de los inhibidores de calcineurina a Rapamune en pacientes en
+mantenimiento con trasplante renal, se observó como rasgo común un incremento en la excreción de
+proteínas urinarias entre los 6 y 24 meses posteriores a la conversión a Rapamune (ver apartado 5.1).
+También se notificó una nueva aparición de nefrosis (síndrome nefrótico) en el 2% de los pacientes del
+estudio (ver apartado 4.8.). No se han establecido la seguridad y eficacia de la conversión de
+inhibidores de calcineurina a Rapamune en pacientes en mantenimiento con trasplante renal.
+ El uso concomitante de Rapamune con un inhibidor de la calcineurina puede incrementar el riesgo de
+síndrome hemolítico urémico / púrpura trombocitopénica trombótica / microangiopatía trombótica
+(SHU/PTT/MAT) asociados a inhibidores de la calcineurina.
+ Los comprimidos de sirolimus contienen sacarosa y lactosa. En aquellos pacientes con un historial de
+déficit de sacarasa, déficit de isomaltasa, intolerancia a la fructosa, malabsorción de glucosa,
+malabsorción de galactosa, intolerancia a la galactosa (p.ej. galactosemia), o deficiencia de 
+ 
+	Prospectos de medicamentos.

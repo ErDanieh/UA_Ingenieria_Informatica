@@ -1,0 +1,161 @@
+TALIDAT 500MG 20 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento 
+1.    NOMBRE DEL MEDICAMENTO
+	
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	      Ver relación de excipientes en el apartado 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	
+
+
+4.    DATOS CLÍNICOS
+	"4.2   Posología y forma de administración
+Adultos y Adolescentes de 13 años y mayores: 1-2 comprimidos tomados varias veces al
+día hasta un máximo de 8 por día, entre las comidas y antes de acostarse; o cuando
+aparezcan dolores gástricos inducidos por acidez. (ver la sección 4.4).
+Los comprimidos deben masticarse bien antes de ser ingeridos.
+       Niños de 12 años y menores: No se recomienda la administración de Talidat en este grupo
+de edad puesto que no se dispone de datos de eficacia y seguridad.
+ 4.3   Contraindicaciones
+Talidat no debe administrarse en caso de hipersensibilidad a alguno de los principios
+activos o de los excipientes de la especialidad, insuficiencia renal severa (aclaramiento de
+creatinina <30 ml/min), y/o hipofosfatemia.
+       Los pacientes con problemas hereditarios raros de intolerancia a la fructosa no deben tomar
+este medicamento.
+ 4.4   Advertencias y precauciones especiales de empleo
+Las siguientes advertencias y precauciones especiales de empleo están relacionadas con los
+dos componentes principales de la hidrotalcita: magnesio y aluminio.
+       Los pacientes con insuficiencia renal de leve a moderada (aclaramiento de creatinina 30
+ml/min), deben tomar Talidat con gran precaución.
+       Tratamientos crónicos con hidrotalcita pueden dar lugar en estos pacientes a encefalopatías
+(aluminio) o, en casos aislados, a hipermagnesemia (magnesio).
+ Tratamientos crónicos asociados con una dieta baja en fosfatos (Ej. malnutrición) pueden
+causar hipofosfatemia, con riesgo de osteomalacia. Por lo tanto, se debería evitar hacer un
+uso crónico de Talidat.
+       En tratamientos prolongados, la concentración plasmática de aluminio debe ser
+monitorizada regularmente, no debiendo exceder de 40 µg/l. En pacientes con función renal
+disminuida, debería evitarse una administración prolongada y una terapia a dosis altas.
+       Síntomas severos y persistentes pueden ser indicativos de úlcera péptica o malignidad. Si
+los síntomas no mejoran en los 14 días siguientes al tratamiento con Talidat se debería
+consultar al médico y efectuar un examen completo. En el caso de aparición de heces
+oscuras o sanguinolentas o si hay hematemesis, se deberá acudir al médico inmediatamente.
+       No existen datos disponibles sobre la eficacia y seguridad de Talidat en niños.
+       El producto contiene etanol (alcohol), menos de 100 mg por dosis.
+       Debido a que con la dosis máxima diaria de Talidat, la cantidad máxima del excipiente
+maltitol es superior a 5 g, Talidat puede tener un ligero efecto laxante.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+Talidat puede reducir la absorción en el tracto gastrointestinal de con otros medicamentos, tales
+como glicósidos cardíacos, tetraciclinas y quinolonas (por ej. ciprofloxacina).
+       Consecuentemente, se debe dejar un intervalo de 1-2 horas entre la administración de
+Talidat y con otros medicamentos.
+       Al incrementar el pH de la orina, Talidat puede modificar la eliminación de algunos
+medicamentos. Esto puede causar, por ejemplo, una posible disminución en los niveles de
+salicilato o un incremento en los niveles de quinidina.
+       Debe evitarse la administración simultánea de Talidat y bebidas ácidas (zumos de fruta,
+vino, etc.), puesto que incrementa la absorción de aluminio en el intestino.
+ 4.6   Embarazo y lactancia
+La relación riesgo-beneficio debe ser cuidadosamente evaluada antes de usar Talidat en
+mujeres embarazadas. No se han descrito efectos indeseables durante el embarazo y la
+lactancia por el momento.
+       Durante el embarazo, Talidat debe ser administrado en la mínima dosis posible y el período
+de tratamiento debe ser corto para evitar el paso de aluminio hacia el feto.
+       Estudios en animales demuestran los efectos nocivos de las sales de aluminio en la
+descendencia (ver ""Datos Preclínicos de Seguridad"").
+       Los compuestos de aluminio se excretan a través de la leche materna. Sin embargo, no se
+espera que puedan constituir un riesgo para el recién nacido puesto que se absorben en muy
+poca cantidad.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar maquinaria
+No se han descrito
+ 4.8   Reacciones adversas
+Alteraciones del metabolismo y nutricionales:
+El uso crónico de especialidades conteniendo dosis altas de aluminio pueden causar en
+casos aislados (  0,01 % -< 0,1 % de todos los pacientes tratados) el ""síndrome de
+deficiencia de fosfatos"".
+       Alteraciones gastrointestinales
+En casos aislados (  0,01 % -< 0,1 % de todos los pacientes tratados) dosis altas pueden
+causar deposiciones blandas y molestias gastrointestinales (ej. diarrea).
+       Alteraciones generales y de las condiciones de la vía de administración
+En casos muy raros (< 0,01 % de todos los pacientes tratados) se han observado reacciones
+alérgicas asociadas al uso de Talidat).
+ 4.9   Sobredosis
+No se ha descrito.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	      La hidrotalcita tiene propiedades neutralizantes, así como adsorbentes, dosis y pH
+dependientes, de ácidos biliares y lisolecitina. Estudios en animales han indicado que la
+hidrotalcita tiene un efecto citoprotector.
+       La hidrotalcita tiene efecto neutralizante en un intervalo óptimo de pH 3-5 y el pH
+intragástrico se incrementa unas 2 horas.
+       Se han encontrado depósitos de aluminio intracerebrales en pacientes con encefalopatías
+debidas a diálisis y en pacientes dializados se puede desarrollar osteomalacia asociada a
+aluminio. También se han observado anemias microcíticas e hipocrómicas asociadas a
+aluminio.
+ 5.2   Propiedades farmacocinéticas
+La estructura compleja de hidrotalcita se disuelve en función del pH y los iones aluminio y
+magnesio se liberan intragástricamente. Entonces precipitan como carbonatos y fosfatos en
+el intestino delgado. En presencia de alimentos, el proceso de precipitación también puede
+tener lugar en el estómago.
+       Algunos iones de aluminio que forman parte de la hidrotalcita también se absorben, lo que
+implica un incremento temporal en la concentración plasmática del ión aluminio, así como
+un incremento en la excreción renal de este ión. Los niveles séricos del ión aluminio
+permanecen dentro de los límites normales.
+ La absorción del magnesio es poco importante. Sin embargo, su concentración plasmática
+permanece generalmente constante debido a la eliminación renal.
+       La insuficiencia renal y administraciones prolongadas de dosis altas pueden conducir a una
+hipermagnesemia y a una infiltración gradual de aluminio, especialmente en el tejido óseo y
+nervioso.
+ 5.3   Datos preclínicos sobre seguridad
+Estudios en animales han demostrado que la incorporación de aluminio en el tejido
+nervioso tiene efectos neurotóxicos.
+       Los síntomas de intoxicación por magnesio incluyen trastornos a nivel del sistema
+nervioso central, debilidad muscular, ausencia de reflejos, fatiga, paresias, arritmias
+cardíacas y coma.
+       Toxicología de la reproducción (sales de aluminio)
+Estudios realizados en distintas especies animales (conejo, ratón) han demostrado que el
+aluminio atraviesa la placenta y se acumula en el tejido fetal, mayoritariamente en los
+huesos. Después de exposición durante el embarazo, la eliminación vía leche materna
+persiste algún tiempo.
+       Después de la administración oral a ratones (57,5 mg aluminio/kg/día) se observó letalidad
+en embriones, incidencia aumentada de fisuras del paladar y deformaciones en la columna
+vertebral. Fetos de rata estudiados presentaban           osificación reducida (133 mg
+aluminio/kg/día). Efectos postnatales de la exposición al aluminio incluyen un aumento en
+la proporción de nacimientos de crías muertas, mortalidad perinatal, crecimiento retardado,
+cambios en la conducta, cambios bioquímicos en el cerebro (efecto a largo plazo, mínima
+dosis efectiva: 10-20 mg aluminium/kg/día).
+       En estudios en animales, la infiltración de aluminio en el tejido óseo es claramente mayor
+en el feto que en animales adultos. Estudios en neonatos prematuros humanos indican que
+el aluminio se acumula en los huesos después de administración intravenosa. Se supone que
+existen condiciones similares en el feto dentro del útero.
+       Potencial mutagénico y cancerígeno.
+Los estudios de mutagenicidad realizados no han desvelado ningún potencial mutagénico
+relevante.
+       No se dispone de estudios sobre el poder cancerígeno.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.2   Incompatibilidades
+No procede.
+ 6.3   Período de validez
+2 años
+ 6.4   Precauciones especiales de conservación
+No conservar a temperatura superior a 30ºC.
+ 6.5   Naturaleza y contenido del recipiente
+Hoja de Aluminio en blíster de PVC/PVDC con 10 comprimidos masticables.
+Envases con 10, 20, 30, 50 ó 100 comprimidos masticables.
+       No todos los formatos se comercializarán en todos los países.
+ 6.6   Instrucciones de uso /manipulación
+Ninguna especial.
+ 7     TITULAR DE LA AUTORIZACIÓN
+Merck Selbstmedikation GmbH
+Rösslerstr. 96
+D-64293 Darmstadt (Alemania)
+ 
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN O DE LA RENOVACIÓN DE LA
+	10. FECHA DE LA REVISIÓN DEL TEXTO
+Febrero 2003
+
+	 
+      TALIDAT 500MG 50 COMPRIMIDOS
+         Prospectos de medicamentos.

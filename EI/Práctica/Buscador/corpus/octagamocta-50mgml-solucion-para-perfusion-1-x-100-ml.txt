@@ -1,0 +1,304 @@
+OCTAGAMOCTA 50mg/ml  Solución para perfusión, 1 x 100 ML
+	"Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ DENOMINACIÓN DEL MEDICAMENTO
+ OCTAGAMOCTA®
+50 mg/ml solución para perfusión
+ COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+Principio activo
+Inmunoglobulina humana normal para administración intravenosa.
+ Composición cuantitativa
+1 ml de solución contiene:
+Proteína, de la cual como mínimo el 95% es
+Inmunoglobulina G humana normal
+IgA                                                           < 0,1mg
+ Distribución de las subclases de IgG
+IgG1   ca. 60%
+IgG2   ca. 32%
+IgG3   ca. 7%
+IgG4   ca. 1%
+Para excipientes, ver 6.1
+ FORMA FARMACÉUTICA
+Solución para perfusión.
+ DATOS CLÍNICOS
+ Indicaciones terapéuticas
+ Terapia de sustitución
+    ·   Síndromes de inmunodeficiencia primaria:
+- agammaglobulinemia congénita e hipogammaglobulinemia.
+ - Immunodeficiencia común variable
+- inmunodeficiencias combinadas graves
+- síndrome de Wiskott Aldrich
+·   Mieloma o leucemia linfática crónica con hipogammaglobulinemia secundaria
+grave e infecciones recurrentes.
+·   Niños con SIDA congénito que sufren infecciones bacterianas repetidas.
+ Efecto inmunomodulador
+    ·   Púrpura trombocitopénica idiopática, en adultos o niños con alto riesgo de
+hemorragia o antes de intervención quirúrgica para corregir el recuento
+plaquetario.
+·   Síndrome de Guillain Barré
+·   Enfermedad de Kawasaki.
+·   Transplante alogénico de médula ósea.
+ Posología y forma de administración
+ Posología
+ La dosis y el régimen posológico dependen de la indicación. En la terapia sustitutiva la
+dosis puede necesitar ser individualizada para cada paciente dependiendo de su respuesta
+farmacocinética.
+Debido a que el régimen posológico puede puede ser individualizado para cada paciente
+Utilice las siguientes pautas posológicas como referencia.
+Terapia de sustitución en inmunodeficiencias primarias:
+ El régimen posológico debe alcanzar un nivel valle de inmunoglobulina G (IgG) (medido
+justo antes de la perfusión siguiente) de al menos 4-6 g/L. Se requieren de tres a seis
+meses después del inicio de la terapia para llegar al equilibrio. La dosis inicial
+recomendada es de 0,4-0,8 g/kg dependiendo de las circunstancias (p.ej. infección activa)
+seguida de 0,2 g/kg cada tres semanas. La dosis requerida para alcanzar un nivel valle de
+6 g/L es del orden de 0,2-0,8 g/kg/mes. El intervalo de dosificación cuando se ha
+alcanzado el estado de equilibrio varía de 2 a 4 semanas. Se deben determinar los niveles
+valle para ajustar la dosis y los intervalos posológicos.
+Terapia de sustitución en mieloma o leucemia linfática crónica con
+hipogammaglobulinemia secundaria grave e infecciones recurrentes;Terapia de
+sustitución en niños con SIDA e infecciones recurrentes:
+La dosis recomendada es de 0,2-0,4 g/kg cada tres o cuatro semanas.
+                                                                                             MINISTERIO
+Púrpura trombocitopénica idiopática:
+ Para el tratamiento de un episodio agudo, 0,8-1 g/kg el primer día, repetido al tercer día si
+es necesario, o 0,4 g/kg diariamente durante 2 a 5 días. El tratamiento se puede repetir si
+hay una recaída.
+Síndrome de Guillain Barré:
+ 0,4 g/kg/día durante 3 a 7 días. La experiencia en niños es limitada.
+Enfermedad de Kawasaki:
+ Se administran 1,6-2,0 g/kg en dosis fraccionadas durante 2 a 5 días. Los pacientes han de
+recibir un tratamiento concomitante con ácido acetilsalicílico.
+Transplante alogénico de médula ósea:
+ El tratamiento con inmunoglobulina intravenosa se puede utilizar como parte del régimen
+de acondicionamiento y después del transplante. Para el tratamiento de infecciones y
+profilaxis de la enfermedad de injerto contra huéspedse ha de individualizar la pauta. Se
+recomienda una dosis inicial de 0,5 g/kg/semana. El tratamiento empieza 7 días antes del
+transplante y continua hasta tres meses después del transplante
+ Forma de administración
+ OCTAGAMOCTA® se administra como perfusión intravenosa a una velocidad inicial de
+0,75-1,0 ml/min o 15 gotas por minuto (gpm) durante 15 minutos, seguido de 1,2-1,5
+ml/min (o 25 gpm) durante los 15 minutos siguientes. Si se tolera bien, la velocidad de la
+administración se aumenta progresivamente hasta un máximo de 3,0 ml/min (o 54 gpm)
+para el resto de la perfusión.
+ Contraindicaciones
+Hipersensibilidad a inmunoglobulinas homólogas, especialmente en casos muy raros de
+deficitde inmunoglobulina A (IgA), cuando el paciente tiene anticuerpos contra IgA.
+OCTAGAMOCTA® está contraindicado en los pacientes con historia previa de
+reacciones alérgicas a cualquier preparación de inmunoglobulina humana o cualquier
+componente de OCTAGAMOCTA®.
+ Advertencias y precauciones especiales de empleo
+Algunas reacciones adversas graves pueden estar relacionadas con la velocidad de
+perfusión.
+Se ha de seguir estrictamente la velocidad de perfusión recomendada en ""4.2 Posología y
+forma de administración"". Los pacientes han de ser atentamente monitorizados y
+cuidadosamente observados por si aparece algún síntoma durante el periodo de perfusión.
+Ciertas reacciones adversas pueden aparecer con mayor frecuencia:
+·   en casos de una velocidad de perfusión elevada
+·   en pacientes con hipo- o agammaglobulinemia con o sin deficit de IgA
+·   en pacientes que reciben inmunoglobulina humana normal por primera vez, o en
+casos poco frecuentes, cuando se cambia de maraca comercial de inmunoglobulina
+humana normal o cuando se ha interrumpido el tratamiento durante más de ocho
+semanas.
+Las reacciones de hipersensibilidad verdaderas son poco frecuentes. Estas pueden
+aparecer en en pacientes con deficit de IgA con anticuerpos anti-IgA que son muy
+escasos.
+Con poca frecuencia, la inmunoglobulina humana normal puede inducir un descenso en la
+presión sanguínea con reacción anafiláctica, incluso en pacientes que habían tolerado
+tratamientos previos con inmunoglobulina humana normal.
+Las complicaciones potenciales se pueden evitar a menudo asegurando:
+·   que los pacientes no son sensibles a la inmunoglobulina humana normal mediante
+la administración de una primera inyección lenta del producto (0.016 ml/kg/min);
+·   que los pacientes sean monitorizados cuidadosamente para cualquier síntoma
+durante el periodo de perfusión. En particular, en pacientes a los que no se ha
+administrado previamente inmunoglobulina humana normal, en pacientes a los
+que se ha cambiado la terapia previa con un producto de inmunoglobulina
+intravenosa (IGIV) alternativo o cuando se ha interrumpido el tratamiento durante
+más de ocho semanas se ha de monitorizar durante la primera perfusión y durante
+la primera hora después de la primera perfusión, para detectar signos de
+potenciales reacciones adversas. El resto de pacientes deben ser observados como
+mínimo durante los 20 minutos después de la administración.
+Se han comunicado casos de insuficiencia renal aguda en pacientes que habían recibido
+tratameinto con inmunoglobulina humana normal intravenosa . En muchos casos, se han
+identificado factores de riesgo, como insuficiencia renal pre-existente, diabetes mellitus,
+edad superior a 65 años, hipovolemia, sobrepeso o administración concomitante de
+productos medicinales nefrotóxicos.
+La administración de IGIV requiere en todos los pacientes:
+·   hidratación adecuada antes de iniciar la perfusión con IGIV.
+·   monitorización de la excreción de orina.
+·   monitorización de los niveles séricos de creatinina.
+·   evitar el uso concomitante de diuréticos de asa.
+ En casos de insuficiencia renal, se debe considerar la interrupción del tratamiento con
+IGIV.
+Mientras que los casos de disfunción renal y de insuficiencia renal aguda se han asociado
+con el uso de muchos de los productos IGIV autorizados, aquellos que contienen sacarosa
+como estabilizante representaban un porcentaje desproporcionado del número total. En
+pacientes de riesgo, se ha de considerar la utilización de productos IGIV que no
+contengan sacarosa.
+En casos de reacciones adversas, debe reducirse la velocidad de administración o
+suspender la perfusión. El tratamiento requerido dependerá de la naturaleza y de la
+gravedad de la reaccion adversa.
+En caso de shock, debe seguirse las pautas de la terapia de shock..
+En pacientes con enfermedades cerebrovasculares, enfermedades cardiovasculares u otros
+factores de riesgo vascular, se deben de administrar las inmunoglobulinas con precaución
+, especialmente si se utilizan a dosis elevadas, debido al incremento potencial de la
+viscosidad del plasma. Es conveniente medir la viscosidad sanguínea en pacientes de
+riesgo.
+Cuando se administran medicamentos derivados de sangre o plasma humanos, no se
+puede descartar por completo la posibilidad de transmisión de enfermedades infecciosas.
+Esto también es aplicable a los patógenos de naturaleza desconocida hasta la fecha. Sin
+embargo, el riesgo de transmisión de agentes infecciosos se reduce mediante:
+·   selección de los donantes mediante un reconocimiento médico y despistaje de las
+donaciones para los tres principales virus patógenos, VIH, VHC, VHB.
+·   El análisis de material genómico del VHC, inclusión de procedimientos de
+eliminación/ inactivación en el proceso de producción que han sido validados
+utilizando virus modelo y que se consideran efectivos contra VIH, VHC y VHB.
+Los procedimientos de eliminación/inactivación viral pueden tener un valor limitado
+frente a los virus no encapsulados, tales como Hepatitis A y Parvovirus B 19.
+En interés de los pacientes, se recomienda que siempre que sea posible cuando se
+administre OCTAGAMOCTA, se registre el nombre y el lote del producto.
+ Interacción con con otros medicamentos y otras formas de interacción
+Vacunas con virus vivos atenuados
+La administración de inmunoglobulina puede disminuir durante un periodo de como
+mínimo 6 semanas y hasta 3 meses la eficacia de vacunas con virus vivos atenuados, tales
+como sarampión, rubéola, paperas y varicela.
+Después de la administración de este medicamento, debe transcurrir un intervalo de 3
+meses antes de la vacunación con virus vivos atenuados. En el caso de sarampión esta
+disminución puede persistir hasta un año.
+ Por lo tanto, en los pacientes que reciban vacunas contra el sarampión deberá controlarse
+el estado de sus anticuerpos.
+ Interferencias con pruebas serológicas
+ Tras la inyección de inmunoglobulina el aumento transitorio de diversos anticuerpos
+transferidos pasivamente a la sangre de los pacientes puede dar lugar a falsos positivos en
+pruebas serológicas.
+La transmisión pasiva de anticuerpos para los antígenos eritrocíticos, (p.ej. A, B o D)
+puede interferir en algunos ensayos serológicos para los allo-anticuerpos de los glóbulos
+rojos (p.ej. ensayo de Coombs), haptoglobina y recuento reticulocítico.
+OCTAGAMOCTA Contiene maltosa que puede interferir en los test de glucosa en la
+sangre y en la orina.
+ Embarazo y lactancia
+No se ha demostrado en ensayos clínicos controlados la seguridad de este producto para
+su uso durante el embarazo y, por tanto, sólo se administrará cuando sea estrictamente
+necesario en mujeres embarazadas y en periodo de lactancia. La experiencia clínica con
+inmunoglobulinas indica que no deben esperarse efectos perjudiciales durante el
+embarazo, en el feto ni en el recién nacido.
+Las inmunoglobulinas se excretan en la leche materna y pueden contribuir a la
+transferencia de anticuerpos protectores al neonato.
+ Efectos sobre la capacidad para conducir y utilizar máquinas
+No existe ningún indicio de que las inmunoglobulinas puedan afectar a la capacidad de
+conducir vehículos o utilizar máquinas.
+ Reacciones adversas
+Ocasionalmente pueden aparecer reacciones adversas tales como escalofríos, cefalea,
+fiebre, vómitos, reacciones alérgicas, náuseas, artralgia, cambios de la presión arterial
+(hipotensión/hipertensión), y dolor lumbar moderado.
+Con poca frecuencia las inmunoglobulinas provocan una caída de la presión arterial y en
+casos aislados, shock anafiláctico, incluso cuando el paciente no ha demostrado ningún
+tipo de hipersensibilidad en administraciones previas.
+Se han observado casos de meningitis aséptica reversible, casos aislados de anemia
+hemolítica/hemólisis reversible, incremento de transaminasas hepáticas y casos poco
+frecuentes de reacciones cutáneas regresivas, a menudo de tipo eczematoso, con la
+inmunoglobulina humana normal.
+Se han observado incremento de creatinina y/o insuficiencia renal aguda (ver 4.4,
+Advertencias y precauciones especiales de empleo) con preparaciones IGIV.
+ Se ha informado de casos de trombosis en pacientes ancianos, en pacientes con signos de
+isquemia cerebral o cardiaca, y en pacientes con sobrepeso y volumen global disminuido
+con preparaciones IGIV. (ver 4.4, Advertencias y precauciones especiales de empleo).
+ Sobredosis
+Una sobredosis puede producir una sobrecarga de fluidos e hiperviscosidad,
+particularmente en pacientes de riesgo, incluyendo pacientes ancianos y pacientes con
+insuficiencia renal.
+ PROPIEDADES FARMACOLÓGICAS
+ Propiedades farmacodinámicas
+Grupo farmacoterapéutico, código ATC: J06 BA 02/ Inmunoglobulina G (Humana)
+OCTAGAMOCTA® contiene todas las actividades de IgG que están presentes en la
+población normal. Se obtiene a partir de una mezcla de plasma procedente de más de
+3.500 donantes.
+OCTAGAMOCTA® tiene una distribución de subclases de IgG:
+IgG1   ca. 60%
+IgG2   ca. 32%
+IgG3   ca. 7%
+IgG4   ca. 1%
+la cual es prácticamente proporcional a la del plasma humano natural. Si se utilizan dosis
+adecuadas de este medicamento pueden restablecer los niveles anormalmente bajos de
+IgG a los límites normales.
+El mecanismo de acción en caso de púrpura trombocitopénica idiopática no se conoce
+con exactitud. Las moléculas de IgG no se han modificado ni química ni
+enzimáticamente. Las actividades de los anticuerpos son absolutamente funcionales.
+OCTAGAMOCTA® contiene un nivel 3,0% de polímeros. El monómero y el dímero
+representan un porcentaje  90 %.
+OCTAGAMOCTA® tiene un amplio espectro de anticuerpos contra varios agentes
+infecciosos (ej: el título de anticuerpo para streptococos y el antígeno de hepatitis B se ha
+establecido en 3 veces el de la mezcla de plasma inicial), que se corresponde con los
+patógenos endémicos en Europa y Norteamérica.
+ Propiedades farmacocinéticas
+ OCTAGAMOCTA® está biodisponible inmediata y completamente en la circulación del
+individuo receptor tras la administración intravenosa. Se distribuye de modo
+relativamente rápido desde el plasma y el fluido extravascular. Después de
+aproximadamente 3-5 días se alcanza el equilibrio entre los compartimentos intra- y
+extravasculares.
+OCTAGAMOCTA® tiene una semivida de aproximadamente 26-34 días, determinada en
+pacientes inmunodeficientes.
+Esta semivida      puede variar de paciente a paciente, particularmente en la
+inmunodeficiencia primaria.
+La inmunoglobulina G (IgG) y los complejos de IgG se metabolizan en las células del
+sistema reticuloendotelial.
+ Datos preclínicos sobre seguridad
+Las inmunoglobulinas son componentes normales del cuerpo humano. En animales, el
+ensayo de toxicidad a dosis única no es relevante y dosis superiores pueden provocar una
+sobrecarga. El ensayo de toxicidad a dosis repetidas y el ensayo de toxicidad embriofetal
+no se pueden realizar debido a la inducción de anticuerpos y a las interferencias con estos.
+Los efectos del producto sobre el sistema inmune del neonato no se han estudiado.
+Dado que la experiencia clínica ha demostrado que no existen indicios de efectos
+tumorogénicos o mutagénicos de las inmunoglobulinas, no se consideran necesarios
+estudios experimentales, particularmente en especies heterólogas.
+ DATOS FARMACÉUTICOS
+ Lista de excipientes
+Maltosa
+Agua para inyectables
+Tritón X-100 [Polietilenglicol mono (octilfenil) eter]
+TNBP [Tri n-butil fosfato]
+ Incompatibilidades
+La inmunoglobulina humana normal i.v. no debe mezclarse con con otros medicamentos.
+ Periodo de validez
+Dos años.
+ Precauciones especiales de almacenamiento
+No conservar o transportar por encima de 25ºC.
+No congelar.
+                                                                                                MINISTERIO
+Mantener el recipiente en el acondicionamiento secundario para protegerlo de la luz.
+No utilizar después de la fecha de caducidad. Desde el punto de vista microbiológico , a
+no ser que el método de apertura excluya el riesgo de contaminación bacteriana, el
+producto se debe usar inmediatamente. Si no se usa inmediatamente las condiciones y
+tiempo de almacenamiento son responsabilidad del usuario. Se debe desechar cualquier
+resto del contenido.
+ Naturaleza y contenido del envase
+El acondicionamiento primario es de vidrio tipo II, cerrado con un tapón de caucho de
+bromobutilo.
+1 frasco para infusión con 50 ml
+1 frasco para infusión con 100 ml
+1 frasco para infusión con 200 ml
+ Instrucciones de uso y manipulación
+El producto debe llevarse a temperatura ambiente o a temperatura corporal antes de la
+administración.
+No deben utilizarse soluciones que no sean homogéneas, o aquellas que presenten un
+sedimento.
+Cualquier fracción restante debe desecharse.
+ TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+Octapharma S.A.
+C/Velazquez 150 2º Dcha.
+28002 Madrid
+Spain
+ NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ FECHA DE LA PRIMERA AUTORIZACIÓN /RENOVACIÓN DE LA
+AUTORIZACIÓN:
+ FECHA DE LA REVISIÓN DEL TEXTO:.
+Septiembre de 2004
+  
+      OCTAGAMOCTA 50mg/ml  Solución para perfusión, 1 x  200 ML
+          
+      OCTAGAMOCTA 50mg/ml  Solución para perfusión, 1 x  200 ML
+          
+      OCTAGAMOCTA 50mg/ml  Solución para perfusión, 1 x 100 ML
+          
+      OCTAGAMOCTA 50mg/ml  Solución para perfusión, 1 x 50 ML
+          
+      OCTAGAMOCTA 50mg/ml  Solución para perfusión, 1 x 50 ML
+         Prospectos de medicamentos."

@@ -1,0 +1,848 @@
+BARACLUDE 0,5MG 30 COMPRIMIDOS RECUB CON P
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Baraclude 0,5 mg comprimidos recubiertos con película
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 0,5 mg de entecavir (como monohidrato).
+ Excipientes: cada comprimido contiene 120,5 mg de lactosa.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido recubierto con película (comprimido)
+ Comprimido triangular blanco a blanquecino con ""BMS"" grabado en una cara y ""1611"" en la otra.
+ 
+
+"
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Baraclude está indicado para el tratamiento de la infección crónica por el virus de la hepatitis B (VHB)
+en adultos con enfermedad hepática compensada y evidencia de replicación vírica activa, niveles de
+alanina aminotransferasa (ALT) sérica persistentemente elevados y pruebas histológicas de
+inflamación activa y/o fibrosis. Esta indicación se basa en datos de ensayos clínicos obtenidos en
+pacientes con infección por el VHB positiva para HBeAg y negativa para HBeAg, pacientes sin
+tratamiento previo con nucleósidos y pacientes con hepatitis B resistente a lamivudina (ver
+secciones 4.4 y 5.1).
+ 4.2   Posología y forma de administración
+ El tratamiento debe ser iniciado por un médico con experiencia en el tratamiento de la hepatitis B
+crónica.
+ Baraclude debe tomarse por vía oral, una vez al día.
+ Pacientes sin tratamiento previo con nucleósidos: la dosis recomendada es de 0,5 mg una vez al día,
+con o sin alimentos.
+ Pacientes resistentes a lamivudina (es decir, con indicios de viremia durante el tratamiento con
+lamivudina o con mutaciones que confieren resistencia a la lamivudina [LVDr]): la dosis recomendada
+es de 1 mg una vez al día en ayunas (más de 2 horas antes o más de 2 horas después de una comida)
+(ver apartado 5.2).
+ Duración del tratamiento: se desconoce la duración óptima del tratamiento. Para la interrupción del
+tratamiento se debe tener en cuenta lo siguiente:
+En pacientes HBeAg positivos, debe administrarse el tratamiento al menos hasta que se
+produzca la seroconversión HBe (pérdida de HBeAg y del ADN del VHB junto con detección
+de anticuerpos HBe en dos muestras consecutivas de suero separadas por lo menos por
+3 - 6 meses) o hasta la seroconversión HBs o hasta que haya pruebas de pérdida de eficacia (ver apartado 4.4).
+En pacientes HBeAg negativos, el tratamiento debe administrarse al menos hasta que se
+produzca la seroconversión HBs o hasta que haya pruebas de pérdida de eficacia. Con
+                                                     2
+tratamientos prolongados durante más de dos años, se recomienda una reevaluación periódica
+para asegurar que continuar el tratamiento sigue siendo apropiado para el paciente.
+ Niños y adolescentes: Baraclude no está recomendado para uso en niños menores de 18 años debido a
+la ausencia de datos sobre seguridad y eficacia.
+ Ancianos: no es necesario ajustar la dosis en función de la edad del paciente. La dosis debe ajustarse
+dependiendo de la función renal del paciente (ver recomendaciones de dosis en ""Insuficiencia renal"" y
+sección 5.2).
+ Sexo y grupo étnico: no es necesario un ajuste de dosis en función del sexo o la etnia.
+ Insuficiencia renal: el aclaramiento de entecavir disminuye al disminuir el aclaramiento de la
+creatinina (ver apartado 5.2). Se recomienda ajustar la dosis en los pacientes con aclaramiento de
+creatinina < 50 ml/min, incluidos aquéllos sometidos a hemodiálisis o diálisis peritoneal ambulatoria
+continua (DPAC). Se recomienda una reducción de la dosis diaria, utilizando para ello Baraclude
+solución oral, según se detalla en la tabla siguiente. En el caso de que la solución oral no estuviera
+disponible, se puede, como alternativa, ajustar la dosis aumentando los intervalos de dosificación,
+como también se indica en la tabla. Los ajustes de dosis propuestos están basados en la extrapolación
+de datos limitados, y su seguridad y eficacia no han sido evaluadas clínicamente. Por lo tanto, la
+respuesta virológica debe ser monitorizada rigurosamente.
+                                                    Posología de Baraclude*
+Aclaramiento de       Pacientes sin tratamiento previo          Resistencia a lamivudina
+creatinina (ml/min)            con nucleósidos
+               50                    0,5 mg una vez al día                 1 mg una vez al día
+30-49                  0,25 mg una vez al día*             0,5 mg una vez al día
+10-29                   0,15 mg una vez al día*            0,3 mg una vez al día*
+< 10                   0,05 mg una vez al día*            0,1 mg una vez al día*
+Hemodiálisis o                          ó                                 ó
+DPAC**                      0,5 mg cada 5-7 días              0,5 mg cada 72 horas
+* para dosis < 0,5 mg, se recomienda Baraclude solución oral.
+** en los días de hemodiálisis, entecavir debe administrarse después de la hemodiálisis.
+ Insuficiencia hepática: no es necesario ajustar la dosis en pacientes con insuficiencia hepática.
+ 4.3     Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4     Advertencias y precauciones especiales de empleo
+ Insuficiencia renal: en los pacientes con insuficiencia renal se recomienda un ajuste de la dosis (ver apartado 4.2). Los ajustes de dosis propuestos están basados en la extrapolación de datos limitados, y su
+seguridad y eficacia no han sido evaluadas clínicamente. Por lo tanto, la respuesta virológica debe ser
+monitorizada rigurosamente.
+ Reagudizaciones de la hepatitis: las reagudizaciones espontáneas de la hepatitis B crónica son
+relativamente frecuentes y se caracterizan por aumentos transitorios en los niveles de ALT sérica.
+Después de iniciar el tratamiento antiviral, la ALT sérica puede aumentar en algunos pacientes al
+ descender los niveles séricos del ADN del VHB (ver apartado 4.8). En los pacientes tratados con
+entecavir, la mediana del tiempo hasta la aparición de reagudizaciones durante el tratamiento fue de
+4 a 5 semanas. En pacientes con enfermedad hepática compensada, estos aumentos de la ALT sérica
+no van por lo general acompañados por un aumento de las concentraciones de la bilirrubina sérica o
+por descompensación hepática. Los pacientes con cirrosis pueden tener un mayor riesgo de
+descompensación hepática tras una reagudización de la hepatitis y, por consiguiente, deben estar bajo
+estrecha supervisión durante el tratamiento.
+ También se ha comunicado una reagudización de la hepatitis en pacientes que han suspendido el
+tratamiento de la hepatitis B. Las reagudizaciones post-tratamiento se asocian normalmente con una
+elevación de los niveles de ADN del VHB y la mayoría parece remitir espontáneamente. Sin embargo,
+se han notificado casos de reagudizaciones graves, incluso letales.
+ En los pacientes tratados con entecavir y sin tratamiento previo con nucleósidos, la media del tiempo
+hasta la aparición de reagudizaciones post-tratamiento fue de 23 a 24 semanas, y la mayoría se notificó
+en pacientes HBeAg negativos (ver apartado 4.8). La función hepática debe monitorizarse a intervalos
+periódicos mediante el seguimiento clínico y con pruebas de laboratorio durante un mínimo de 6
+meses después de interrumpir el tratamiento de la hepatitis B. En determinados casos, la reanudación
+del tratamiento de la hepatitis B puede estar justificada.
+ Pacientes con cirrosis descompensada: en pacientes con cirrosis descompensada se observó una
+incidencia más elevada de reacciones adversas hepáticas graves en comparación con los pacientes con
+función hepática compensada. Esta observación se limita a 45 pacientes que tenían una valoración en
+la escala Child-Pugh  7 al inicio del tratamiento con entecavir. En pacientes con cirrosis
+descompensada deben controlarse regularmente los parámetros clínicos, virológicos y serológicos
+asociados con la hepatitis B, las funciones hepática y renal y la respuesta antiviral durante el
+tratamiento, y en caso de que se interrumpa el tratamiento, por lo menos durante 6 meses después de la
+interrupción. Los pacientes que presenten síntomas de insuficiencia hepática durante el tratamiento o
+una vez finalizado el mismo deben someterse a los controles apropiados con mayor frecuencia.
+ Acidosis láctica y hepatomegalia grave con esteatosis: se han notificado casos de acidosis láctica (en
+ausencia de hipoxemia), en ocasiones mortal, asociados normalmente con hepatomegalia grave y
+esteatosis hepática, tras la administración de análogos de nucleósidos. Como entecavir es un análogo
+de nucleósido, no puede descartarse este riesgo. Debe interrumpirse el tratamiento con análogos de
+nucleósidos si se observa una elevación rápida de las transaminasas, hepatomegalia progresiva o
+acidosis metabólica/láctica de etiología desconocida. Los síntomas digestivos benignos, tales como
+náuseas, vómitos y dolor abdominal pueden indicar la aparición de acidosis láctica. Los casos graves,
+a veces con desenlace mortal, se asociaron con pancreatitis, fallo hepático/esteatosis hepática, fallo
+renal y aumento del lactato sérico. Debe actuarse con precaución cuando se prescriben análogos de los
+nucleósidos a los pacientes (en particular, a mujeres obesas) con hepatomegalia, hepatitis u otros
+factores de riesgo para la enfermedad hepática. Estos pacientes precisan un seguimiento riguroso.
+ Para diferenciar el aumento de las transaminasas debido a la respuesta al tratamiento del
+potencialmente relacionado con la acidosis láctica, los médicos deben asegurarse de que los cambios
+en la ALT se asocian con una mejoría de otros marcadores analíticos de la hepatitis B crónica.
+ Resistencia y precaución específica para pacientes resistentes a lamivudina: las mutaciones en la
+polimerasa del virus VHB que codifican sustituciones que confieren resistencia a lamivudina podrían
+conducir a la posterior aparición de sustituciones secundarias, incluyendo aquellas asociadas a la
+resistencia a entecavir (ETVr). En la población resistente a lamivudina, con carácter general debe
+monitorizarse muy rigurosamente la respuesta virológica y deben realizarse análisis apropiados para
+detectar resistencias. En un porcentaje pequeño de pacientes que habían sido tratados previamente con
+lamivudina, la resistencia a entecavir (ETVr) derivada de sustituciones en los residuos rtT184, rtS202
+y rtM250 estaba ya presente al inicio del tratamiento con entecavir o apareció durante el mismo, que
+tuvo una duración de hasta 144 semanas. La importancia clínica a largo plazo de estas mutaciones no
+se ha esclarecido completamente (ver apartado 5.1).
+ Receptores de trasplante hepático: hay datos limitados sobre la eficacia y la seguridad de entecavir en
+los receptores de un trasplante hepático. La función renal debe evaluarse minuciosamente antes y
+durante el tratamiento con entecavir en los receptores de un trasplante hepático tratados con
+ciclosporina o tacrolimus (ver apartado 5.2).
+ Coinfección con hepatitis C o D: no existen datos sobre la eficacia de entecavir en pacientes co-
+infectados con el virus de la hepatitis C o D.
+ Pacientes coinfectados con VIH/VHB que no están recibiendo simultáneamente tratamiento
+antirretroviral: entecavir no ha sido evaluado en pacientes coinfectados con VIH/VHB que no estaban
+recibiendo simultáneamente tratamiento efectivo para el VIH. Se ha observado la aparición de VIH
+resistentes cuando entecavir se utilizó para tratar pacientes con infección hepatitis B crónica y con
+infección por VIH que no estaban recibiendo tratamiento antirretroviral de gran actividad (TARGA)
+(ver apartado 5.1). Por lo tanto, no debe utilizarse entecavir en pacientes coinfectados con VIH/VHB
+que no estén recibiendo TARGA. Entecavir no ha sido estudiado como tratamiento para la infección
+por VIH y no se recomienda para este uso.
+ Pacientes coinfectados con VIH/VHB que están recibiendo simultáneamente tratamiento
+antirretroviral: entecavir ha sido estudiado en 68 adultos con coinfección por VIH/VHB que estaban
+recibiendo un régimen TARGA conteniendo lamivudina (ver apartado 5.1). No se dispone de datos
+sobre la eficacia de entecavir en pacientes HBeAg negativos coinfectados con VIH. Se dispone de
+información limitada sobre pacientes coinfectados con VIH que tienen bajos recuentos celulares CD4
+(< 200 células/mm3).
+ Aspectos generales: debe advertirse a los pacientes que no se ha demostrado que el tratamiento con
+entecavir reduzca el riesgo de transmisión del VHB, y que por lo tanto deben seguir tomando las
+medidas de precaución oportunas.
+ Lactosa: este medicamento contiene 120,5 mg de lactosa por cada dosis diaria de 0,5 mg.
+Los pacientes con problemas hereditarios raros de intolerancia a la galactosa, deficiencia de lactasa de
+Lapp o malabsorción de glucosa-galactosa no deben tomar este medicamento. Para estas personas se
+encuentra disponible una solución oral de Baraclude sin lactosa.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Dado que entecavir se elimina predominantemente por el riñón (ver apartado 5.2), la coadministración
+con medicamentos que afectan negativamente a la función renal o que compiten por la secreción
+tubular activa puede aumentar las concentraciones séricas de cualquiera de estos medicamentos. A
+excepción de lamivudina, adefovir dipivoxil y tenofovir disoproxil fumarato, no se han evaluado los
+efectos de la coadministración de entecavir con medicamentos que se excretan por vía renal o que
+afectan a la función renal. Si entecavir se coadministra con este tipo de medicamentos, debe vigilarse
+estrechamente a los pacientes para detectar posibles reacciones adversas.
+ No se han observado interacciones farmacocinéticas entre entecavir y lamivudina, adefovir o
+tenofovir.
+ Entecavir no actúa como sustrato, inductor ni inhibidor de las enzimas del citocromo P450 (CYP450)
+(ver apartado 5.2). Por consiguiente, es improbable que con entecavir se produzcan interacciones
+medicamentosas mediadas por CYP450.
+ 4.6   Embarazo y lactancia
+ No existen datos suficientes sobre la utilización de entecavir en mujeres embarazadas. Los estudios en
+animales han mostrado toxicidad reproductiva a dosis elevadas (ver apartado 5.3). Se desconoce el
+riesgo potencial en seres humanos. Baraclude no debe utilizarse durante el embarazo si no es
+claramente necesario.
+ Dado que no se conocen los riesgos potenciales sobre el desarrollo del feto, las mujeres en edad fértil
+deben utilizar métodos anticonceptivos eficaces.
+ No hay datos acerca del efecto de entecavir sobre la transmisión del VHB de la madre al recién nacido.
+Por lo tanto, debe recurrirse a las medidas apropiadas para impedir la infección del neonato con el
+VHB.
+ Se desconoce si entecavir se excreta a la leche materna en humanos. Los estudios en animales han
+demostrado la excreción de entecavir a la leche materna. No se recomienda la lactancia durante el
+tratamiento con Baraclude.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos de entecavir sobre la capacidad para conducir y utilizar
+máquinas. Basándose en el perfil farmacodinámico de entecavir, no se espera que tenga efecto sobre
+estas actividades. Mareos, fatiga y somnolencia son reacciones adversas frecuentes que podrían alterar
+la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ La evaluación de las reacciones adversas se basa en cuatro ensayos clínicos en los cuales un total de
+1.720 pacientes con hepatitis B crónica recibieron tratamiento con entecavir 0,5 mg/día (n = 679),
+entecavir 1 mg/día (n = 183) o lamivudina (n = 858) durante un periodo de hasta 107 semanas, bajo
+régimen doble ciego. En estos ensayos, los perfiles de seguridad de entecavir y lamivudina, incluidas
+las desviaciones en los resultados de las pruebas de laboratorio, fueron comparables.
+ Las reacciones adversas más frecuentes, de cualquier gravedad y consideradas como al menos
+posiblemente relacionadas con entecavir, fueron: cefalea (9%), fatiga (6%), mareos (4%) y náuseas
+(3%).
+ Las reacciones adversas consideradas al menos como posiblemente relacionadas con el tratamiento
+con entecavir, se enumeran según el sistema de clasificación por órganos y frecuencias. Las
+frecuencias se definen como muy frecuente ( 1/10); frecuente ( 1/100, < 1/10). Las reacciones
+adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de frecuencia.
+ Experiencia en pacientes sin tratamiento previo con nucleósidos (positivos y negativos para HBeAg):
+El perfil de seguridad se basa en la exposición al tratamiento con entecavir 0,5 mg una vez al día
+durante una media de 53 semanas.
+                                              frecuente: cefalea, mareos, somnolencia
+Trastornos del sistema nervioso:
+                                              frecuente: vómitos, diarrea, náuseas, dispepsia
+Trastornos gastrointestinales:
+ Trastornos generales y alteraciones en el
+lugar de la administración:
+                                              frecuente: insomnio
+Trastornos psiquiátricos:
+ Desviaciones en los resultados de las pruebas de laboratorio: el 2% de los pacientes presentó aumentos
+de la ALT > 10 veces el límite superior del rango normal (LSN) y al mismo tiempo > 2 veces el valor
+al inicio del tratamiento, el 5% presentó elevaciones de ALT > 3 veces el valor inicial, y < 1% de los
+pacientes valores de ALT > 2 veces superiores al inicial, junto con una bilirrubina total > 2 veces el
+LSN y > 2 veces el valor inicial. Se observaron concentraciones de albúmina < 2,5 g/dl en < 1% de los
+pacientes, concentraciones de amilasa > 3 veces el valor inicial en un 2% de los pacientes,
+concentraciones de lipasa > 3 veces el valor inicial en el 11% y un recuento de plaquetas
+< 50.000/mm3 en < 1% de los pacientes.
+ Duración del tratamiento superior a 48 semanas: el tratamiento crónico con entecavir con una duración
+media de 96 semanas no reveló nuevos aspectos relacionados con la seguridad.
+ Experiencia en pacientes resistentes a lamivudina:
+El perfil de seguridad se basa en la exposición al tratamiento con entecavir 1 mg una vez al día durante
+una media de 69 semanas.
+                                               muy frecuente: cefalea
+Trastornos del sistema nervioso:
+                                               frecuente: vómitos, diarrea, náuseas, dispepsia
+Trastornos gastrointestinales:
+ Trastornos generales y alteraciones en el
+lugar de la administración:
+                                               frecuente: insomnio
+Trastornos psiquiátricos:
+ Desviaciones de los resultados de las pruebas de laboratorio: el 2% de los pacientes presentó aumentos
+de la ALT > 10 x LSN y > 2x el valor al inicio del tratamiento, el 4% presentó aumentos de la ALT
+> 3x el valor inicial, y en < 1% de los pacientes la ALT fue > 2 x el valor inicial, junto con una
+bilirrubina total > 2x el LSN y > 2x el valor inicial. Se observaron concentraciones de amilasa > 3 x el
+valor inicial, en un 2% de los pacientes, concentraciones de lipasa > 3 x el valor inicial en el 18% y un
+recuento de plaquetas < 50.000/mm3 en < 1% de los pacientes.
+ Duración del tratamiento superior a 48 semanas: el tratamiento crónico con entecavir con una duración
+media de 96 semanas no reveló nuevos aspectos relacionados con la seguridad.
+ Reagudizaciones durante el tratamiento: en ensayos con pacientes sin tratamiento previo con
+nucleósidos, durante el tratamiento se produjeron aumentos de la ALT > 10 x el LSN y > 2x el valor
+inicial en el 2% de los pacientes tratados con entecavir, frente al 4% de los pacientes tratados con
+lamivudina. En ensayos con pacientes resistentes a lamivudina, durante el tratamiento se produjeron
+aumentos de la ALT > 10 x el LSN y > 2x el valor inicial en el 2% de los pacientes tratados con
+entecavir frente al 11% de los pacientes tratados con lamivudina. Entre los pacientes tratados con
+entecavir, el tiempo medio hasta el comienzo del aumento de la ALT durante el tratamiento fue de
+4 - 5 semanas; en general se resolvieron mientras continuaban con el tratamiento y, en la mayoría de
+los casos, se asociaron con una reducción de la carga viral  2 log10/ml que precedió a o coincidió con
+el aumento de la ALT. Se recomienda una monitorización periódica de la función hepática durante el
+tratamiento.
+ Reagudizaciones después de suspender el tratamiento: se han notificado reagudizaciones agudas de
+hepatitis en pacientes que han interrumpido el tratamiento contra el virus de la hepatitis B, incluido el
+tratamiento con entecavir (ver apartado 4.4). En ensayos con pacientes que no han recibido tratamiento
+previo con nucleósidos, el 6% de los pacientes tratados con entecavir y el 10% de los pacientes
+tratados con lamivudina experimentaron aumentos de la ALT (> 10 veces el LSN y > 2 veces el valor
+de referencia [nivel basal mínimo al inicio o la última medición al final del tratamiento]) durante el
+seguimiento post-tratamiento. En los pacientes tratados con entecavir y sin tratamiento previo con
+nucleósidos, la mediana del tiempo hasta el comienzo del aumento de la ALT fue de 23 - 24 semanas y
+la mayoría de estos (86%, 24/28) se notificaron en pacientes HBeAg negativos. En ensayos en
+pacientes resistentes a lamivudina, con seguimiento de sólo un número limitado de pacientes a los que
+se les hizo el seguimiento, el 11% de los pacientes tratados con entecavir y ninguno de los tratados con
+lamivudina experimentaron aumentos de la ALT durante el seguimiento post-tratamiento.
+ En los ensayos clínicos el tratamiento con entecavir se interrumpió si los pacientes alcanzaban una
+respuesta definida a priori. Si el tratamiento se interrumpe independientemente de la respuesta a la
+terapia, la incidencia de elevaciones de la ALT post-tratamiento, podría ser mayor.
+                                                     7
+Experiencia en pacientes coinfectados con VIH: el perfil de seguridad de entecavir en un número
+limitado de pacientes coinfectados con VIH/VHB tratados con regímenes de TARGA (tratamiento
+antirretroviral de gran actividad) que incluían lamivudina fue similar al perfil de seguridad de
+entecavir en pacientes con monoinfección por VHB (ver apartado 4.4).
+ Sexo/edad: no hubo diferencias aparentes en el perfil de seguridad de entecavir con respecto al sexo
+( 25% de mujeres en los ensayos clínicos) o la edad ( 5% de pacientes > 65 años).
+ Pacientes con cirrosis descompensada: en pacientes con cirrosis descompensada se observó una
+incidencia más elevada de reacciones adversas hepáticas graves en comparación con los pacientes con
+función hepática compensada. Esta observación se limita a 45 pacientes con una valoración en la
+escala Child-Pugh  7 al inicio del tratamiento con entecavir.
+ Experiencia postcomercialización: además de las reacciones adversas a este medicamento
+identificadas en los ensayos clínicos, se han identificado las siguientes reacciones adversas durante la
+utilización de entecavir después de su aprobación.
+                                                         frecuencia no conocida: rash
+Trastornos de la piel y del tejido subcutáneo:
+ 4.9   Sobredosis
+ No se han notificado ningún caso de sobredosis. Los voluntarios sanos que recibieron hasta 20 mg/día
+durante períodos de hasta 14 días y dosis únicas de hasta 40 mg, no experimentaron reacciones
+adversas inesperadas. En caso de producirse una sobredosis, debe vigilarse al paciente por si hubiera
+indicios de toxicidad y fuera necesario recurrir a una terapia de soporte estándar.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: nucleósidos y nucleótidos inhibidores de la transcriptasa inversa
+Código ATC: J05AF10
+ Mecanismo de acción: entecavir es un nucleósido análogo de guanosina con actividad sobre a la
+polimerasa del VHB, se fosforila efizcamente a la forma activa trifosfato (TP), la cual tiene una
+semivida intracelular de 15 horas. Al competir con su sustrato natural desoxiguanosina-TP,
+entecavir-TP inhibe funcionalmente las 3 actividades de la polimerasa viral: (1) cebado (priming) de la
+polimerasa del VHB, (2) transcripción inversa de la cadena (-) del ADN a partir del ARN mensajero
+pregenómico y (3) síntesis de la cadena (+) del ADN del VHB. La Ki de entecavir-TP para la ADN-
+polimerasa del VHB es de 0,0012 M. Entecavir TP es un inhibidor débil de las ADN-polimerasas ,
+y  celulares con valores de la Ki entre 18 y 40 µM. Además, una exposición elevada a entecavir no
+tuvo efectos adversos relevantes sobre la polimerasa  ni sobre la síntesis del ADN mitocondrial en
+células HepG2 (Ki > 160 µM).
+ Actividad antiviral: entecavir inhibe la síntesis del ADN del VHB (reducción del 50%, EC50) a una
+concentración de 0,004 µM en células HepG2 humanas transfectadas con el VHB de tipo silvestre. La
+media del EC50 para entecavir en el caso de los mutantes VHB resistentes a lamivudina LVDr
+(rtL180M y rtM204V) fue 0,026 µM (rango 0,010 - 0,059 µM). Los virus recombinantes con las
+mutaciones que confieren resistencia a adefovir, rtN236T o rtA181V, siguen siendo sensibles a
+entecavir.
+ El análisis de la actividad inhibitoria de entecavir frente a un panel de cepas de laboratorio y aislados
+clínicos de VIH-1 utilizando varios tipos de células y condiciones experimentales dió como resultado
+valores de EC50 en un rango desde 0,026 a > 10 M; los valores más bajos de EC50 se observaron al
+emplear títulos virales menores en el estudio. En cultivos celulares, concentraciones micromolares de
+entecavir seleccionaron una sustitución M184I, confirmando la presión inhibitoria a altas
+                                                     8
+concentraciones de entecavir. Los mutantes de VIH que contenían la sustitución M184V mostraron
+una pérdida de sensibilidad a entecavir (ver apartado 4.4).
+ En los estudios funcionales de interacción en cultivos celulares, abacavir, didanosina, lamivudina,
+estavudina, tenofovir o zidovudina no antagonizaron la actividad anti-VHB de entecavir en un amplio
+rango de concentraciones. En estudios de actividad antiviral frente al VIH, entecavir a concentraciones
+micromolares no antagonizó la actividad anti-HIV en cultivos celulares de estos seis inhibidores
+nucleósidos de la transcriptasa inversa (INTIs) o de emtricitabina.
+ Resistencia en cultivos celulares: respecto a la cepa silvestre del VHB, los virus resistentes a
+lamivudina (LVDr) con las sustituciones rtM204V y rtL180M en la transcriptasa inversa, presentan un
+descenso de 8 veces en la sensibilidad a entecavir. La incorporación de cambios adicionales en los
+aminoácidos rtT184, rtS202 o rtM250 que confieren resistencia a entecavir disminuye la
+susceptibilidad a entecavir en cultivos celulares. Las sustituciones observadas en los aislados clínicos
+(rtT184A, C, F, G, I, L, M o S; rtS202 C, G o I; y/o rtM250I, L o V) disminuyen la sensibilidad a
+entecavir de 16 a 741 veces con respecto al virus silvestre. Las monosustituciones en los residuos
+rtT184, rtS202 y rtM250 que confieren resistencia a entecavir, tienen sólo un efecto modesto sobre la
+sensibilidad a entecavir y no se han observado en ausencia de sustituciones que confieren resistencia a
+lamivudina en más de 1.000 muestras de pacientes secuenciadas. La resistencia se debe a la reducción
+de la unión del inhibidor a la transcriptasa inversa del VHB mutada. El VHB resistente presenta una
+menor tasa de replicación en cultivos celulares.
+ Experiencia clínica: la demostración del beneficio clínico se basa en las respuestas histológica,
+virológica, bioquímica y serológica después de 48 semanas de tratamiento en ensayos clínicos frente a
+comparador activo en 1.633 adultos con hepatitis B crónica y evidencia de replicación vírica.
+ En todos los ensayos, la mejoría histológica se definió como un descenso de  2 puntos en la escala
+necroinflamatoria de Knodell respecto al inicio del tratamiento, sin empeoramiento en la escala de la
+puntuación de fibrosis de Knodell. La respuesta en los pacientes con índice de fibrosis de Knodell
+igual a 4 (cirrosis) al inicio fue comparable a la respuesta global en todas las medidas de resultados de
+eficacia (todos los pacientes tenían enfermedad hepática compensada). Una puntuación basal alta
+(> 10) en la escala necroinflamatoria de Knodell, se asoció con una mejora histológica más
+pronunciada en pacientes no tratados previamente con nucleósidos. Los niveles basales de ALT
+2 x LSN y de DNA del VHB  9,0 log10 copias/ml se asociaron con una tasa de respuesta virológica
+mayor (semana 48, DNA del VHB < 400 copias/ml) en pacientes no tratados previamente con
+nucleósidos y HBeAg positivo. Independientemente de las características basales, la mayoría de los
+pacientes mostraron respuestas virológica e histológica al tratamiento.
+ Experiencia en pacientes sin tratamiento previo con nucleósidos y con enfermedad hepática
+compensada:
+En la tabla se presentan los resultados a las 48 semanas de dos ensayos aleatorizados, doble ciego en
+los que entecavir (ETV) se compara con lamivudina (LVD) en pacientes positivos para HBeAg
+(ensayo 022) y negativos para HBeAg (ensayo 027).
+                                                        Sin tratamiento previo con nucleósidos
+n                                               314             314           296
+Mejora histológicab                            72%*             62%          70%*          61%
+Mejora del índice de fibrosis de Ishak          39%             35%           36%          38%
+Empeoramiento del índice de fibrosis            8%              10%           12%          15%
+de Ishak
+                                                     9
+n                                                      354             355          325           313
+Reducción de la carga viral                          -6,86*           -5,39        -5,04*        -4,53
+(log10 copias/ml)c
+ADN del VHB indetectable                              67%*                36%            90%*                72%
+(< 300 copias/ml por PCR)c
+Normalización de la ALT ( 1 vez el                    68%*                60%            78%*                71%
+LSN)
+  Seroconversión HBeAg                                   21%                18%
+*valor de p frente a lamivudina  0,05
+a
+pacientes con histología basal evaluable (puntuación basal en la escala necroinflamatoria de Knodell  2)
+b
+una variable de eficacia primaria
+c
+Ensayo Roche Cobas Amplicor PCR (Límite inferior de cuantificación = 300 copias/ml)
+ Experiencia en pacientes resistentes a lamivudina:
+En un ensayo aleatorizado, doble ciego en pacientes positivos para HBeAg y resistentes a lamivudina
+(ensayo 026), en el cual el 85% de los pacientes presentaba mutaciones LVDr al inicio, los pacientes
+tratados con lamivudina al entrar en el ensayo se cambiaron a entecavir 1 mg una vez al día, sin
+periodos de lavado ni solapamiento (n = 141) o continuaron con lamivudina 100 mg una vez al día
+(n = 145). En la tabla se presentan los resultados a las 48 semanas.
+                                                                      Resistentes a lamivudina
+n
+Mejora histológicab                                           55%*                         28%
+Mejora del índice de fibrosis de Ishak                         34%                         16%
+Empeoramiento del índice de fibrosis de                        11%                         26%
+Ishak
+n                                                                 141                               145
+Reducción de la carga viral                                      -5,11*                            -0,48
+(log10 copias/ml)c
+ADN del VHB indetectable                                         19%*                               1%
+(< 300 copias/ml por PCR)c
+Normalización de la ALT ( 1 vez el                               61%*                              15%
+LSN)
+  Seroconversión HBeAg                                               8%                               3%
+*valor de p frente a lamivudina  0,05
+a
+pacientes con histología basal evaluable (puntuación basal en la escala necroinflamatoria de Knodell  2)
+b
+una variable de eficacia primaria
+c
+Ensayo Roche Cobas Amplicor PCR (Límite inferior de cuantificación = 300 copias/ml)
+ Resultados posteriores a las 48 semanas de tratamiento:
+El tratamiento se interrumpió cuando se cumplían los criterios de respuesta pre-establecidos, bien a la
+semana 48 o bien durante el segundo año de tratamiento. Los criterios de respuesta fueron: supresión
+virológica del VHB (ADN del VHB < 0,7 MEq/ml) y pérdida del HBeAg (en pacientes HBeAg
+positivos) o ALT > 1,25 veces el LSN (en pacientes HBeAg negativos). Los pacientes que respondían
+se siguieron durante 24 semanas más sin tratamiento. Los pacientes que cumplían los criterios de
+respuesta virológica pero no serológica o bioquímica, continuaron ciegos el tratamiento bajo régimen
+ciego. A los pacientes que no presentaron una respuesta virológica se les ofreció un tratamiento
+alternativo.
+ Pacientes sin tratamiento previo con nucleósidos:
+Pacientes HBeAg positivos (ensayo 022): el tratamiento con entecavir durante un máximo de
+96 semanas (n = 354) consiguió tasas de respuesta acumulada del 80% para el ADN del VHB
+< 300 copias/ml por PCR, 87% para la normalización de la ALT, 31% para la seroconversión del
+HBeAg y 2% para la seroconversión del HBsAg (5% para la pérdida del HBsAg). En pacientes
+tratados con lamivudina (n = 355), la tasa de respuesta acumulada fue del 39% para el ADN del VHB
+< 300 copias/ml por PCR, 79% para la normalización de la ALT, 26% para la seroconversión del
+HBeAg y 2% para la seroconversión del HBsAg (3% para la pérdida del HBsAg).
+Al finalizar el tratamiento, entre los pacientes que continuaron con el tratamiento superando de la
+semana 52 (media de 96 semanas), el 81% de los 243 pacientes tratados con entecavir y el 39% de los
+164 pacientes tratados con lamivudina presentaron niveles de ADN del VHB < 300 copias/ml por
+PCR, mientras que la ALT se normalizó (< ó = 1 ver el LSN) en el 79% de los pacientes tratados con
+entecavir frente al 68% de los tratados con lamivudina.
+ Pacientes HBeAg negativos (ensayo 027): el tratamiento con entecavir durante un máximo de
+96 semanas (n = 325) consiguió tasas de respuesta acumulada del 94% para el ADN del VHB
+< 300 copias/ml por PCR y del 89% para la normalización de la ALT frente al 77% para el ADN del
+VHB < 300 copias/ml por PCR y un 84% para la normalización de la ALT en pacientes tratados con
+lamivudina (n = 313).
+De los 26 pacientes tratados con entecavir y los 28 tratados con lamivudina superando la semana 52
+(media de 96 semanas), el 96% de los tratados con entecavir y el 64% de los tratados con lamivudina
+presentaron niveles de ADN del VHB < 300 copias/ml por PCR al final del tratamiento. La ALT se
+normalizó ( 1 vez el LSN) al final del tratamiento en el 27% de los pacientes tratados con entecavir
+frente al 21% de los tratados con lamivudina.
+ Para aquellos pacientes que cumplieron los criterios de respuesta definidos en el protocolo, la
+respuesta se mantuvo en el ensayo 022 a lo largo del período de seguimiento post-tratamiento de
+24 semanas en el 75% (83/111) de los pacientes que respondieron a entecavir frente al 73% (68/93) de
+los que respondieron a lamivudina, mientras que en el ensayo 027 se mantuvo en el 46% (131/286) de
+los pacientes que respondieron a entecavir frente al 31% (79/253) de los pacientes que respondieron a
+lamivudina. A las 48 semanas de seguimiento post-tratamiento, un número considerable de pacientes
+HBeAg negativos perdieron la respuesta.
+ Pacientes resistentes a lamivudina:
+Pacientes HBeAg positivos (ensayo 026): el tratamiento con entecavir durante un máximo de
+96 semanas (n = 141) consiguió tasas de respuesta acumulada del 30% para el ADN del VHB
+< 300 copias/ml por PCR, 85% para la normalización de la ALT y 17% para la seroconversión del
+HBeAg. De los 77 pacientes que continuaron el tratamiento con entecavir superando la semana 52
+(media de 96 semanas), el 40% presentaron niveles de ADN del VHB < 300 copias/ml por PCR y la
+ALT se normalizó ( 1x LSN) en el 81% de los pacientes al final del tratamiento.
+ Edad/Sexo:
+No hubo diferencias aparentes en la eficacia para entecavir en función del sexo ( 25% de mujeres en
+los ensayos clínicos) o de la edad ( 5% de los pacientes > 65 años).
+ Poblaciones especiales
+Pacientes con coinfección VIH/VHB que reciben simultáneamente TARGA: el ensayo 038 incluyó a
+67 pacientes HBeAg positivos y a 1 HBeAg negativo coinfectados con VIH. Los pacientes tenían
+controlado de forma estable el VIH (ARN del VIH < 400 copias/ml) pero presentaban viremia
+recurrente del VHB mientras seguían un régimen TARGA que incluía lamivudina. Los regímenes
+TARGA no incluyeron emtricitabina ni tenofovir disoproxil fumarato. Al inicio del ensayo, los
+pacientes tratados con entecavir habían estado bajo tratamiento previo con lamivudina durante una
+media de 4,8 años y presentaban un recuento medio de CD4 de 494 células/mm3 (solo en 5 pacientes
+tenían un recuento de CD4 < 200 células/mm3). Los pacientes continuaron con su régimen de
+                                                   11
+lamivudina y fueron asignados a los grupos de tratamiento con entecavir 1 mg una vez al día (n = 51)
+o placebo (n = 17) durante 24 semanas, seguido de un periodo adicional de 24 semanas durante el cual
+todos fueron tratados con entecavir. A las 24 semanas, la reducción de la carga viral de VHB fue
+significativamente mayor con entecavir (-3,65 frente a un incremento de 0,11 log10 copias/ml). En los
+pacientes inicialmente asignados al grupo de tratamiento con entecavir, la reducción del ADN del
+VHB a las 48 semanas fue -4,20 log10 copias/ml y la normalización de la ALT se produjo en un 37%
+de los pacientes con niveles basales alterados y ninguno de los pacientes presentó seroconversión del
+HBeAg.
+ Pacientes coinfectados con VIH/VHB que no recibían simultáneamente TARGA: entecavir no ha sido
+evaluado en pacientes coinfectados VIH/VHB que no estaban recibiendo simultáneamente tratamiento
+efectivo para el VIH. Se han notificado reducciones en el ARN del VIH en pacientes coinfectados con
+VIH/VHB que estaban recibiendo entecavir en monoterapia sin TARGA. En algunos casos, se ha
+observado la selección del mutante M184V de VIH, lo cual tiene consecuencias para la elección de los
+futuros regímenes TARGA del paciente. Por lo tanto, entecavir no debe utilizarse en estos casos
+debido al posible desarrollo de resistencias del VIH (ver apartado 4.4).
+ Pacientes con enfermedad hepática descompensada: actualmente está en marcha un ensayo
+aleatorizado, abierto (048) en pacientes con enfermedad hepática descompensada, que compara
+entecavir 1 mg una vez al día con adefovir 10 mg una vez al día.
+ Resistencia clínica: en los ensayos clínicos se monitorizó la resistencia de todos aquellos pacientes
+tratados inicialmente con dosis de entecavir de 0,5 mg (sin tratamiento previo con nucleósidos) ó
+1,0 mg (resistentes a lamivudina) para los que se había realizado durante el tratamiento una
+determinación por PCR del ADN del VHB, en la semana 24 o posterior.
+En ensayos en pacientes sin tratamiento previo con nucleósidos se identificaron evidencias genotípicas
+de sustituciones que confieren resistencia a entecavir (ETVr) en rtT184, rtS202, y/o rtM250, en menos
+del 1% de los pacientes tratados con entecavir hasta 144 semanas (ver tabla). Estas sustituciones sólo
+se observaron en presencia de las sustituciones que confieren resistencia a lamivudina LVDr (rtM204
+y rtL180M).
+  Resistencia a Entecavir (ETVr)Genotípica Emergente hasta la semana 144, en ensayos en
+pacientes sin tratamiento previo con nucleósidos
+Pacientes tratados y con                        663                       278                            149
+monitorización de resistencia
+c                                    1 (< 1%)                  1 (< 1%)                      1 (< 1%)
+ETVr Genotípica Emergente
+Probabilidad acumulativa de                  0,2%                       0,5%                          1,2%
+c
+ETVr Genotípica Emergente
+Rebote virológico debido a
+c
+la ETVr emergente
+a
+Los resultados al 3er año se refieren tanto al uso de una dosis de 1 mg de entecavir en 147 de 149 pacientes como a
+una terapia combinada entecavir-lamivudina durante una mediana de 20 semanas (seguidas del tratamiento con
+entecavir a largo plazo) en 130 de 149 pacientes en un estudio de extensión.
+b
+Incluidos pacientes con al menos una determinación por PCR del ADN del VHB durante el tratamiento, desde la
+semana 24 o hasta la 58 (1er año); desde la semana 58 hasta la 102 (2º año), o desde la semana 102 hasta la 156 (3er
+año).
+c
+Los pacientes también tienen mutaciones LVDr.
+Incremento 1 log10 por encima del punto más bajo en el ADN del VHB determinado por PCR,
+d
+       confirmado con medidas sucesivas o al final del período ventana.
+ Se observaron sustituciones resistentes a entecavir (ETVr) a nivel basal en aislados procedentes de
+10/187 (5%) pacientes refractarios a lamivudina tratados con entecavir y en los que se había
+monitorizado la resistencia, indicando que el tratamiento previo con lamivudina puede seleccionar
+dichas sustituciones de resistencia y que pueden existir con baja frecuencia antes del tratamiento con
+entecavir. Hasta la semana 144, 3 de los 10 pacientes experimentaron rebote virológico (aumento  1
+                                                                12
+log10 por encima del punto más bajo). La resistencia a entecavir emergente en los ensayos hasta la
+semana 144 en pacientes resistentes a lamivudina, se resume en la siguiente tabla.
+  Resistencia a Entecavir (ETVr) Genotípica Emergente hasta la semana 144, en ensayos en
+pacientes resistentes a lamivudina.
+Pacientes tratados y con                     187                       146                            80
+monitorización de resistencia
+c                                   11 (6%)                   12 (8%)                      15 (19%)
+ETVr Genotípica Emergente
+Probabilidad acumulativa de                 6%                       15%                          35%
+c
+ETVr Genotípica Emergente
+Rebote virológico debido a la                2 (1%)                  14 (10%)                      13 (16%)
+c
+ETVr emergente
+a
+Los resultados al 3er año se refieren al uso de una terapia combinada entecavir-lamivudine durante una mediana de
+13 semanas (seguidas del tratamiento con entecavir a largo plazo) en 48 de 80 pacientes en un estudio de extensión.
+b
+Incluidos pacientes con al menos una determinación por PCR del ADN del VHB, durante el tratamiento desde la
+semana 24 o hasta la 58 (1er año); desde la semana 58 hasta la 102 (2º año), o desde la semana 102 hasta la 156 (3er
+año).
+c
+Los pacientes también tienen mutaciones LVDr.
+d
+Incremento 1 log10 por encima del punto más bajo en el ADN del VHB determinado por PCR, confirmado con
+medidas sucesivas o al final del período ventana.
+e
+ETVr emergente en cualquier año; rebote en el año especificado.
+ 5.2     Propiedades farmacocinéticas
+ Absorción: entecavir se absorbe rápidamente, alcanzando concentraciones plasmáticas máximas a las
+0,5 - 1,5 horas. La biodisponibilidad absoluta no se ha determinado. Basándose en la excreción
+urinaria del fármaco inalterado se ha estimado que la biodisponibilidad es al menos un 70%. Se
+observa un incremento proporcional a la dosis en los valores de Cmáx y AUC tras la administración
+repetida de dosis en el rango 0,1 - 1 mg. El estado estacionario se alcanza entre 6 - 10 días con la
+administración una vez al día y una acumulación aproximada al doble. Los valores de Cmáx y Cmín en el
+estado estacionario para la dosis de 0,5 mg son 4,2 y 0,3 ng/ml, respectivamente y para la dosis de
+1 mg se alcanzan 8,2 y 0,5 ng/ml, respectivamente. Los comprimidos y la solución oral demostraron
+su bioequivalencia en voluntarios sanos; por consiguiente, ambas formas farmacéuticas pueden usarse
+indistintamente.
+ La administración de 0,5 mg de entecavir con una comida estándar rica en grasas (945 kcal, 54,6 g de
+grasas) o una comida ligera (379 kcal, 8,2 g de grasas) dio lugar a un retraso mínimo en la absorción
+(1 - 1,5 horas con alimentos frente a 0,75 horas en ayunas), un descenso en la Cmáx de 44 - 46% y un
+descenso en el AUC del 18 - 20%. La disminución de Cmáx y AUC cuando el medicamento se
+administra con alimentos no se consideró clínicamente relevante en el caso de pacientes sin
+tratamiento previo con nucleósidos, pero podría afectar a la eficacia en pacientes resistentes a
+lamivudina (ver apartado 4.2).
+ Distribución: el volumen de distribución estimado para entecavir excede del agua corporal total. La
+unión a proteínas séricas humanas in vitro es  13%.
+ Metabolismo: entecavir no actúa como sustrato, inhibidor o inductor del sistema enzimático CYP450.
+Tras la administración de entecavir marcado con C14, no se observaron metabolitos oxidativos o
+acetilados pero sí cantidades menores de los metabolitos conjugados de fase II, glucuronidados y
+sulfatados.
+ Eliminación: entecavir se elimina predominantemente por el riñón con una recuperación del fármaco
+inalterado en orina que en estado de equilibrio alcanza aproximadamente el 75% de la dosis. El
+aclaramiento renal es independiente de la dosis y oscila entre 360 - 471 ml/min, lo que sugiere que
+                                                              13
+entecavir sufre filtración glomerular y secreción tubular neta. Después de alcanzar los niveles
+máximos, las concentraciones plasmáticas de entecavir descendieron de manera biexponencial con una
+semivida de eliminación terminal de  128 - 149 horas. El índice de acumulación de fármaco
+observado es  2 veces con administración única diaria, lo que sugiere una semivida de acumulación
+efectiva de alrededor de 24 horas.
+ Insuficiencia hepática: los parámetros farmacocinéticos en pacientes con insuficiencia hepática
+moderada o grave fueron similares a los de los pacientes con función hepática normal.
+ Insuficiencia renal: el aclaramiento de entecavir disminuye al disminuir el aclaramiento de creatinina.
+Un periodo de hemodiálisis de 4 horas eliminó  13% de la dosis, mientras que con la Diálisis
+peritoneal ambulatoria continua (DPAC) se eliminó un 0,3%. En la tabla siguiente se muestra la
+farmacocinética de entecavir tras una dosis única de 1 mg en pacientes (sin hepatitis B crónica):
+                   Aclaramiento de creatinina al inicio (ml/min)
+No afectado    Leve       Moderado        Grave            Grave            Grave
+Cmáx (ng/ml)          8,1           10,4           10,5         15,3          15,4            16,6
+(CV%)               (30,7)         (37,2)         (22,7)       (33,8)        (56,4)          (29,7)
+                      27,9           51,5           69,5         145,7         233,9           221,8
+AUC(0-T)
+(ng·h /ml)
+(CV)
+CLR                  383,2          197,9         135,6          40,3          NA              NA
+(ml/min)            (101,8)         (78,1)        (31,6)        (10,1)
+(SD)
+CLT/F                588,1          309,2         226,3         100,6          50,6            35,7
+(ml/min)            (153,7)         (62,6)        (60,1)        (29,1)        (16,5)          (19,6)
+(SD)
+ Post-trasplante hepático: la exposición a entecavir en los receptores de un trasplante hepático
+infectados por VHB que reciben una dosis estable de ciclosporina A o tacrolimus (n = 9) fue  2 veces
+la exposición en voluntarios sanos con función renal normal. La insuficiencia renal alterada contribuyó
+al aumento de la exposición a entecavir en estos pacientes (ver apartado 4.4).
+ Sexo: el AUC fue un 14% mayor en mujeres que en hombres debido a las diferencias en la función
+renal y el peso. Después de ajustar las diferencias en el aclaramiento de creatinina y el peso corporal,
+no hubo diferencias entre ambos sexos.
+ Ancianos: se evaluó el efecto de la edad en la farmacocinética del entecavir comparando sujetos
+ancianos en el rango de edad de 65 - 83 años (edad media en mujeres 69 años, y de 74 en varones) y
+sujetos jóvenes en el rango de edad de 20 - 40 años (edad media en mujeres 29 años y de 25 en
+varones). El AUC fue un 29% mayor en ancianos que en sujetos jóvenes, principalmente debido a las
+diferencias en la función renal y el peso. Después de ajustar las diferencias en el aclaramiento de
+creatinina y peso corporal, el AUC de los ancianos fue 12,5% mayor que en los jóvenes. El análisis
+farmacocinético poblacional, en los pacientes en el rango de edad de 16 a 75 años, no identificó la
+edad como un parámetro farmacocinético que influya significativamente en la farmacocinética del
+entecavir.
+ Grupo étnico: el análisis farmacocinético poblacional no identificó el origen étnico como un
+parámetro que influya significativamente en la farmacocinética de entecavir. Sin embargo, estas
+conclusiones sólo pueden aplicarse a los grupos caucásicos y asiáticos, ya que no se estudiaron
+suficientes sujetos de otras etnias.
+                                                     14
+5.3   Datos preclínicos sobre seguridad
+ En estudios de toxicología de dosis repetidas en perros, se observó inflamación perivascular reversible
+en el sistema nervioso central, para la cual se estableció que las dosis sin efecto correspondían a
+exposiciones 19 y 10 veces mayores que las alcanzadas en humanos (con 0,5 y 1 mg respectivamente).
+Esta forma de toxicidad no se observó en estudios de dosis repetidas en otras especies, incluidos los
+monos, a los que se administró entecavir diariamente durante 1 año con exposiciones  100 veces las
+alcanzadas en humanos.
+ En estudios de toxicología en la reproducción en los cuales se administró entecavir a animales durante
+períodos de hasta 4 semanas, no hubo indicios de alteración de la fertilidad en ratas macho o hembra
+con altas exposiciones. Se observaron cambios testiculares (degeneración de los túbulos seminíferos)
+en los estudios de toxicología de dosis repetidas en roedores y perros con exposiciones  26 veces las
+alcanzadas en humanos. No se observaron cambios testiculares evidentes en un estudio a 1 año en
+monos.
+ En ratas y conejos gestantes a las que se administraba entecavir, no se observó embriotoxicidad ni
+efectos sobre las madres con exposiciones  21 veces las alcanzadas en humanos. En ratas sometidas a
+exposiciones elevadas, se observó toxicidad maternal, toxicidad embriofetal (resorciones), reducción
+del peso fetal, malformaciones vertebrales y de la cola, osificación reducida (vértebras, esternón y
+falanges) y aparición de vértebras lumbares y costillas adicionales. En conejos sometidos a
+exposiciones elevadas, se observó toxicidad embriofetal (resorciones), osificación reducida (hioides) y
+un aumento de la incidencia de la 13ª costilla. En un estudio de toxicidad peri-postnatal en ratas, no se
+observaron efectos adversos para la progenie. En un estudio independiente en el cual se administró
+entecavir a ratas preñadas lactantes a dosis de 10 mg/kg, se demostró la exposición fetal a entecavir y
+la excreción de entecavir a la leche.
+ No se observaron indicios de genotoxicidad en ninguno de los siguientes estudios: test de Ames de
+mutagenicidad microbiana mutagenicidad en células de mamífero, transformación en células
+embrionarias de hámster sirio, test de micronúcleos y reparación de ADN en ratas también fueron
+negativos. Entecavir fue clastogénico en cultivos de linfocitos humanos a concentraciones
+considerablemente más elevadas que las que se alcanzan en su uso clínico.
+ Estudios de carcinogenicidad de dos años: en ratones macho, se observaron aumentos en la incidencia
+de tumores pulmonares con exposiciones  4 veces las alcanzadas en humanos con 0,5 mg ( 2 veces
+con 1 mg). El desarrollo de tumores estuvo precedido por la proliferación de neumocitos en el pulmón,
+lo que no se observó en ratas, perros o monos, indicando que un evento clave en la patogenia de los
+tumores pulmonares observados en los ratones es probablemente específico de la especie. Se observó
+una mayor incidencia de otros tipos de tumores, entre ellos gliomas cerebrales en ratas
+macho/hembras, carcinomas hepáticos en ratones macho, tumores vasculares benignos en ratones
+hembra y adenomas y carcinomas hepáticos en ratas hembra solamente con exposiciones elevadas. Sin
+embargo, los niveles sin efecto no pudieron ser establecidos con precisión. El valor predictivo de estas
+observaciones para su extrapolación a humanos no se conoce.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo del comprimido:
+Crospovidona
+Lactosa monohidratada
+Estearato de magnesio
+Celulosa microcristalina
+Povidona
+ Cubierta pelicular:
+Dióxido de titanio
+Hipromelosa
+Macrogol 400
+Polisorbato 80 (E433)
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 2 años
+ 6.4   Precauciones especiales de conservación
+ Blíster:
+No conservar a temperatura superior a 30°C. Conservar en el envase original.
+ Frasco:
+No conservar a temperatura superior a 25°C. Mantener el frasco perfectamente cerrado.
+ 6.5   Naturaleza y contenido del envase
+ Cada envase contiene:
+30 x 1 comprimidos recubiertos con película; distribuido en 3 láminas blíster de Alu/Alu de
+dosis unitarias perforadas con 10 x 1 comprimidos, cada una
+90 x 1 comprimidos recubiertos con película; distribuido en 9 láminas blíster de Alu/Alu de
+dosis unitarias perforadas con 10 x 1 comprimidos, cada una
+ Frasco de polietileno de alta densidad (HDPE) con cierre de polipropileno a prueba de niños que
+contiene 30 comprimidos recubiertos con película. Cada envase contiene un frasco.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	BRISTOL-MYERS SQUIBB PHARMA EEIG
+Uxbridge Business Park
+Sanderson Road
+Uxbridge UB8 1DH
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+               EU/1/06/343/003
+Blister:
+EU/1/06/343/006
+EU/1/06/343/001
+Frasco:
+                                                  16
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 26 de Junio de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+de Medicamentos (EMEA), http://www.emea.europa.eu/.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Baraclude 1 mg comprimidos recubiertos con película
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 1 mg de entecavir (como monohidrato).
+ Excipientes: cada comprimido contiene 241 mg de lactosa.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido recubierto con película (comprimido)
+ Comprimido triangular rosa con ""BMS"" grabado en una cara y ""1612"" en la otra.
+ "
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Baraclude está indicado para el tratamiento de la infección crónica por el virus de la hepatitis B (VHB)
+en adultos con enfermedad hepática compensada y evidencia de replicación vírica activa, niveles de
+alanina aminotransferasa (ALT) sérica persistentemente elevados y pruebas histológicas de
+inflamación activa y/o fibrosis. Esta indicación se basa en datos de ensayos clínicos obtenidos en
+pacientes con infección por el VHB positiva para HBeAg y negativa para HBeAg, pacientes sin
+tratamiento previo con nucleósidos y pacientes con hepatitis B resistente a lamivudina (ver
+secciones 4.4 y 5.1).
+ 4.2   Posología y forma de administración
+ El tratamiento debe ser iniciado por un médico con experiencia en el tratamiento de la hepatitis B
+crónica.
+ Baraclude debe tomarse por vía oral, una vez al día.
+ Pacientes sin tratamiento previo con nucleósidos: la dosis recomendada es de 0,5 mg una vez al día,
+con o sin alimentos.
+ Pacientes resistentes a lamivudina (es decir, con indicios de viremia durante el tratamiento con
+lamivudina o con mutaciones que confieren resistencia a la lamivudina [LVDr]): la dosis recomendada
+es de 1 mg una vez al día en ayunas (más de 2 horas antes o más de 2 horas después de una comida)
+(ver apartado 5.2).
+ Duración del tratamiento: se desconoce la duración óptima del tratamiento. Para la interrupción del
+tratamiento se debe tener en cuenta lo siguiente:
+En pacientes HBeAg positivos, debe administrarse el tratamiento al menos hasta que se
+produzca la seroconversión HBe (pérdida de HBeAg y del ADN del VHB junto con detección
+de anticuerpos HBe en dos muestras consecutivas de suero separadas por lo menos por
+3 - 6 meses) o hasta la seroconversión HBs o hasta que haya pruebas de pérdida de eficacia (ver apartado 4.4).
+En pacientes HBeAg negativos, el tratamiento debe administrarse al menos hasta que se
+produzca la seroconversión HBs o hasta que haya pruebas de pérdida de eficacia. Con
+                                                     18
+tratamientos prolongados durante más de dos años, se recomienda una reevaluación periódica
+para asegurar que continuar el tratamiento sigue siendo apropiado para el paciente.
+ Niños y adolescentes: Baraclude no está recomendado para uso en niños menores de 18 años debido a
+la ausencia de datos sobre seguridad y eficacia.
+ Ancianos: no es necesario ajustar la dosis en función de la edad del paciente. La dosis debe ajustarse
+dependiendo de la función renal del paciente (ver recomendaciones de dosis en ""Insuficiencia renal"" y
+sección 5.2).
+ Sexo y grupo étnico: no es necesario un ajuste de dosis en función del sexo o la etnia.
+ Insuficiencia renal: el aclaramiento de entecavir disminuye al disminuir el aclaramiento de la
+creatinina (ver apartado 5.2). Se recomienda ajustar la dosis en los pacientes con aclaramiento de
+creatinina < 50 ml/min, incluidos aquéllos sometidos a hemodiálisis o diálisis peritoneal ambulatoria
+continua (DPAC). Se recomienda una reducción de la dosis diaria, utilizando para ello Baraclude
+solución oral, según se detalla en la tabla siguiente. En el caso de que la solución oral no estuviera
+disponible, se puede, como alternativa, ajustar la dosis aumentando los intervalos de dosificación,
+como también se indica en la tabla. Los ajustes de dosis propuestos están basados en la extrapolación
+de datos limitados, y su seguridad y eficacia no han sido evaluadas clínicamente. Por lo tanto, la
+respuesta virológica debe ser monitorizada rigurosamente.
+                                                    Posología de Baraclude*
+Aclaramiento de       Pacientes sin tratamiento previo          Resistencia a lamivudina
+creatinina (ml/min)            con nucleósidos
+               50                    0,5 mg una vez al día                 1 mg una vez al día
+30-49                  0,25 mg una vez al día*             0,5 mg una vez al día
+10-29                   0,15 mg una vez al día*            0,3 mg una vez al día*
+< 10                   0,05 mg una vez al día*            0,1 mg una vez al día*
+Hemodiálisis o                          ó                                 ó
+DPAC**                      0,5 mg cada 5-7 días              0,5 mg cada 72 horas
+* para dosis < 0,5 mg, se recomienda Baraclude solución oral.
+** en los días de hemodiálisis, entecavir debe administrarse después de la hemodiálisis.
+ Insuficiencia hepática: no es necesario ajustar la dosis en pacientes con insuficiencia hepática.
+ 4.3     Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4     Advertencias y precauciones especiales de empleo
+ Insuficiencia renal: en los pacientes con insuficiencia renal se recomienda un ajuste de la dosis (ver apartado 4.2). Los ajustes de dosis propuestos están basados en la extrapolación de datos limitados, y su
+seguridad y eficacia no han sido evaluadas clínicamente. Por lo tanto, la respuesta virológica debe ser
+monitorizada rigurosamente.
+ Reagudizaciones de la hepatitis: las reagudizaciones espontáneas de la hepatitis B crónica son
+relativamente frecuentes y se caracterizan por aumentos transitorios en los niveles de ALT sérica.
+Después de iniciar el tratamiento antiviral, la ALT sérica puede aumentar en algunos pacientes al
+ descender los niveles séricos del ADN del VHB (ver apartado 4.8). En los pacientes tratados con
+entecavir, la mediana del tiempo hasta la aparición de reagudizaciones durante el tratamiento fue de
+4 a 5 semanas. En pacientes con enfermedad hepática compensada, estos aumentos de la ALT sérica
+no van por lo general acompañados por un aumento de las concentraciones de la bilirrubina sérica o
+por descompensación hepática. Los pacientes con cirrosis pueden tener un mayor riesgo de
+descompensación hepática tras una reagudización de la hepatitis y, por consiguiente, deben estar bajo
+estrecha supervisión durante el tratamiento.
+ También se ha comunicado una reagudización de la hepatitis en pacientes que han suspendido el
+tratamiento de la hepatitis B. Las reagudizaciones post-tratamiento se asocian normalmente con una
+elevación de los niveles de ADN del VHB y la mayoría parece remitir espontáneamente. Sin embargo,
+se han notificado casos de reagudizaciones graves, incluso letales.
+ En los pacientes tratados con entecavir y sin tratamiento previo con nucleósidos, la media del tiempo
+hasta la aparición de reagudizaciones post-tratamiento fue de 23 a 24 semanas, y la mayoría se notificó
+en pacientes HBeAg negativos (ver apartado 4.8). La función hepática debe monitorizarse a intervalos
+periódicos mediante el seguimiento clínico y con pruebas de laboratorio durante un mínimo de 6
+meses después de interrumpir el tratamiento de la hepatitis B. En determinados casos, la reanudación
+del tratamiento de la hepatitis B puede estar justificada.
+ Pacientes con cirrosis descompensada: en pacientes con cirrosis descompensada se observó una
+incidencia más elevada de reacciones adversas hepáticas graves en comparación con los pacientes con
+función hepática compensada. Esta observación se limita a 45 pacientes que tenían una valoración en
+la escala Child-Pugh  7 al inicio del tratamiento con entecavir. En pacientes con cirrosis
+descompensada deben controlarse regularmente los parámetros clínicos, virológicos y serológicos
+asociados con la hepatitis B, las funciones hepática y renal y la respuesta antiviral durante el
+tratamiento, y en caso de que se interrumpa el tratamiento, por lo menos durante 6 meses después de la
+interrupción. Los pacientes que presenten síntomas de insuficiencia hepática durante el tratamiento o
+una vez finalizado el mismo deben someterse a los controles apropiados con mayor frecuencia.
+ Acidosis láctica y hepatomegalia grave con esteatosis: se han notificado casos de acidosis láctica (en
+ausencia de hipoxemia), en ocasiones mortal, asociados normalmente con hepatomegalia grave y
+esteatosis hepática, tras la administración de análogos de nucleósidos. Como entecavir es un análogo
+de nucleósido, no puede descartarse este riesgo. Debe interrumpirse el tratamiento con análogos de
+nucleósidos si se observa una elevación rápida de las transaminasas, hepatomegalia progresiva o
+acidosis metabólica/láctica de etiología desconocida. Los síntomas digestivos benignos, tales como
+náuseas, vómitos y dolor abdominal pueden indicar la aparición de acidosis láctica. Los casos graves,
+a veces con desenlace mortal, se asociaron con pancreatitis, fallo hepático/esteatosis hepática, fallo
+renal y aumento del lactato sérico. Debe actuarse con precaución cuando se prescriben análogos de los
+nucleósidos a los pacientes (en particular, a mujeres obesas) con hepatomegalia, hepatitis u otros
+factores de riesgo para la enfermedad hepática. Estos pacientes precisan un seguimiento riguroso.
+ Para diferenciar el aumento de las transaminasas debido a la respuesta al tratamiento del
+potencialmente relacionado con la acidosis láctica, los médicos deben asegurarse de que los cambios
+en la ALT se asocian con una mejoría de otros marcadores analíticos de la hepatitis B crónica.
+ Resistencia y precaución específica para pacientes resistentes a lamivudina: las mutaciones en la
+polimerasa del virus VHB que codifican sustituciones que confieren resistencia a lamivudina podrían
+conducir a la posterior aparición de sustituciones secundarias, incluyendo aquellas asociadas a la
+resistencia a entecavir (ETVr). En la población resistente a lamivudina, con carácter general debe
+monitorizarse muy rigurosamente la respuesta virológica y deben realizarse análisis apropiados para
+detectar resistencias. En un porcentaje pequeño de pacientes que habían sido tratados previamente con
+lamivudina, la resistencia a entecavir (ETVr) derivada de sustituciones en los residuos rtT184, rtS202
+y rtM250 estaba ya presente al inicio del tratamiento con entecavir o apareci
+ "
+	Prospectos de medicamentos.

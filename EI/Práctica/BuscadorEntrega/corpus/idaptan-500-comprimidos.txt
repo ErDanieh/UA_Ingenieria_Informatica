@@ -1,0 +1,154 @@
+IDAPTAN,  500 comprimidos
+	Información Basica del medicamento Toda la información del medicamento FICHA TECNICA
+ 
+1. NOMBRE DEL MEDICAMENTO
+	IDAPTAN.
+ 
+2. COMPOSICION CUALITATIVA Y CUANTITATIVA
+	Un comprimido contiene:
+Trimetazidina diclorhidrato (DCI): 20 mg
+ Para los excipientes, ver 6.1.
+ 
+3. FORMA FARMACEUTICA
+	Comprimido recubierto.
+ 
+
+
+4. DATOS CLINICOS
+	4.1. Indicaciones Terapéuticas
+ -   Tratamiento profiláctico de las crisis de angina de pecho.
+-   Tratamiento sintomático adyuvante del vértigo y tinnitus.
+ 4.2. Posología y método de administración
+ Por vía oral.
+ 60 mg cada 24 horas: 1 comprimido 3 veces al día con las comidas.
+ Los beneficios del tratamiento deben reevaluarse después de 3 meses de tratamiento,
+interrumpiéndose el mismo en caso de no haber obtenido respuesta.
+ 4.3. Contraindicaciones
+ Este medicamento no debe ser utilizado en caso de hipersensibilidad a Trimetazidina o a
+cualquiera de sus componentes.
+ 4.4. Advertencias especiales y Precauciones de empleo
+ Este medicamento no es un tratamiento curativo para las crisis de angina de pecho, tampoco está
+indicado como tratamiento inicial de la angina inestable o del infarto de miocardio. No debe ser
+utilizado en la fase prehospitalaria ni durante los primeros días de hospitalización.
+ En caso de una crisis de angina de pecho, debe reevaluarse la coronariopatía y considerarse la
+adaptación del tratamiento (tratamiento farmacológico y posible revascularización).
+ Advertencias sobre excipientes:
+IDAPTAN, comprimidos recubiertos, por contener glicerol como excipiente puede ser perjudicial
+a dosis elevadas. Puede provocar dolor de cabeza, molestias de estómago y diarrea.
+Este medicamento por contener los colorantes Amarillo Anaranjado S (E110) y Rojo Cochinilla A
+(E 124), puede causar reacciones de tipo alérgico, incluido asma especialmente en pacientes
+alérgicos al ácido acetil salicílico.
+ 4.5. Interacciones con otros fármacos y otras formas de interacción
+ No ha sido reseñada ninguna interacción medicamentosa; en particular, la trimetazidina puede ser
+prescrita en asociación con la heparina, la calciparina, las antivitaminas K, los hipolipemiantes
+orales, la aspirina, los beta-bloqueantes, los inhibidores cálcicos, digitálicos (la trimetazidina no
+modifica los niveles plasmáticos de digoxina).
+ 4.6. Embarazo y lactancia
+ Embarazo:
+ Los estudios en animales no han demostrado un efecto teratogénico; sin embargo, en ausencia de
+datos clínicos, no se puede excluir el riesgo de malformación. Por tanto, debe evitarse su uso
+durante el embarazo.
+ Lactancia:
+ En ausencia de datos de excreción en leche materna, no se recomienda la lactancia durante el
+tratamiento.
+ 4.7. Efectos sobre la capacidad para conducir y utilizar maquinaria
+ Basados en el perfil de seguridad global de la Trimetazidina, no se espera que IDAPTAN
+interfiera con la capacidad de conducir o usar maquinaria.
+ 4.8. Efectos adversos
+ Trastornos gastrointestinales:
+Frecuentes: dolor abdominal, diarrea, dispepsia, náuseas y vómitos.
+ Trastornos generales:
+Frecuentes: astenia
+ Trastornos del sistema nervioso:
+Frecuentes: mareos, cefaleas.
+Muy raros: síntomas extrapiramidales (temblor, rigidez, acinesia, inestabilidad), en particular en
+pacientes con enfermedad de Parkinson, que remiten tras la suspensión del tratamiento.
+ Trastornos cutáneos:
+Frecuentes: erupción, prurito, urticaria.
+ Trastornos vasculares:
+Raros: hipotensión ortostática, rubefacción.
+ 4.9. Sobredosificación
+ El elevado margen terapéutico hace difícil los accidentes graves por intoxicación.
+Los datos farmacológicos indican que la sobredosis podría manifestarse por bajada de la
+resistencia periférica con hipotensión y sofocos. En este caso, debe iniciarse un tratamiento
+sintomático.
+ 
+5. PROPIEDADES FARMACOLOGICAS
+	5.1. Propiedades farmacodinámicas
+ OTROS PREPARADOS PARA EL CORAZON
+Clasificación ATC: C01EB15 (C: Sistema Cardiovascular)
+ Mediante la preservación del metabolismo energético de las células expuestas a la hipoxia o
+isquemia, trimetazidina previene una disminución de las concentraciones de ATP intracelular,
+asegurando de esta manera el funcionamiento adecuado de las bombas iónicas y del flujo
+transmembranario de sodio-potasio, al mismo tiempo que se mantiene la homeostasis celular.
+ En Cardiología:
+ Trimetazidina ejerce su efecto anti-anginoso y anti-isquémico actuando sobre el metabolismo
+energético del corazón, sin afectar a los parámetros hemodinámicos.
+ La acción de la Trimetazidina sobre el metabolismo cardíaco se debe a la inhibición parcial de la
+oxidación de los ácidos grasos, de forma secundaria a la inhibición de la enzima 3-cetoacil CoA
+tiolasa de los ácidos grasos de cadena larga (inhibidor 3-CAT). Este mecanismo conlleva un
+incremento de la oxidación de la glucosa y una mejora en el acoplamiento entre la glucolisis y la
+oxidación de la glucosa. El cambio en la utilización de substrato energético, de la oxidación de los
+ácidos grasos a la oxidación de la glucosa, puede explicar las propiedades antianginosas de la
+trimetazidina.
+Además, la Trimetazidina protege la membrana del cardiomiocito de la isquemia al acelerar la
+tasa de recambio de los fosfolípidos.
+ En Otorrinolaringología:
+ Trimetazidina produce una mejoría de las alteraciones cocleovestibulares asociadas con el vértigo
+y con la enfermedad de Menière:
+- al proteger la actividad electrofisiológica de la cóclea sometida a hipoxia,
+- al proteger el epitelio laberíntico de los efectos nocivos de los radicales de oxígeno,
+- al estabilizar las membranas celulares,
+- al reducir la isquemia inducida por la acumulación de aminoácidos excitotóxicos,
+- al acelerar el recambio de fosfolípidos en la cóclea.
+ 5.2. Propiedades farmacocinéticas
+ Por vía oral, la absorción de la trimetazidina es rápida y el pico plasmático aparece en menos de 2
+horas tras la toma del medicamento.
+                                                                                                        MINISTERIO
+La concentración plasmática máxima alcanzada, tras administración única vía oral de 20 mg de
+trimetazidina, es de aproximadamente 55 ng/ml.
+El estado de equilibrio, alcanzado entre las 24 y las 36 horas en administración repetida, es muy
+estable durante el curso del tratamiento.
+El volumen aparente de distribución es de 4,8 l/kg, lo cual indica una buena difusión tisular; la
+fijación proteica es débil; su valor medido in vitro es del 16%.
+La eliminación de la trimetazidina se hace principalmente por vía urinaria, principalmente en
+forma inalterada. La vida media de eliminación es de aproximadamente 6 horas.
+ 5.3. Datos preclínicos sobre seguridad
+ La administración reiterada en el perro alcanza una dosis 40 veces superior a la dosis terapéutica y
+en la rata hasta 200 veces superior, sin provocar ni la muerte, ni modificaciones físicas,
+biológicas, anatomobiológicas o de comportamiento.
+La administración oral de dosis hasta 100 veces la dosis terapéutica humana no modifica las
+funciones de la reproducción, fertilidad, fecundación, gestación, embriogénesis, lactancia,
+desarrollo peri y post natal y capacidades reproductoras de los animales.
+ 
+6. DATOS FARMACEUTICOS
+	6.1. Lista de excipientes
+ Almidón de maíz, manitol, povidona, estearato de magnesio, talco, dióxido de titanio (E 171),
+glicerol, amarillo anaranjado S (E 110), rojo cochinilla A (E 124), macrogol 6000, hipromelosa.
+ 6.2. Incompatibilidades
+ No procede.
+ 6.3. Período de validez
+ 36 meses
+ 6.4. Precauciones especiales de almacenamiento
+ No se precisan condiciones especiales de conservación.
+ 6.5. Naturaleza y contenido del envase
+ Envase calendario de 60 comprimidos, conteniendo blisters precortados de PVC/aluminio que
+agrupan los comprimidos de 3 en 3.
+ 6.6. Instrucciones de uso
+ Conservar a menos de 30º C
+ 
+7. TITULAR DE LA AUTORIZACION DE COMERCIALIZACION
+	Danval, S.A.
+Avenida de los Madroños 33
+28043 Madrid
+ 
+8. NUMERO DE LA AUTORIZACION DE COMERCIALIZACION
+	56.704
+ 9. FECHA DE LA 1ª AUTORIZACION/RENOVACION DE LA AUTORIZACION
+ 4/02/1986
+ 10. FECHA DE REVISION DEL TEXTO
+ Febrero 2005
+
+	 
+      IDAPTAN,  60 comprimidos
+         Prospectos de medicamentos.

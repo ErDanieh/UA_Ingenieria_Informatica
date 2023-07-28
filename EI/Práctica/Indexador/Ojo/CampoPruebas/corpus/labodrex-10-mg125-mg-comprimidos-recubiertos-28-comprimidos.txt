@@ -1,0 +1,641 @@
+LABODREX 10 MG/12,5 MG COMPRIMIDOS RECUBIERTOS, 28 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1.     NOMBRE DEL MEDICAMENTO
+	
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	
+3.     FORMA FARMACÉUTICA
+	
+
+
+4.     DATOS CLÍNICOS
+	"4.1    Indicaciones terapéuticas
+Tratamiento de la hipertensión arterial cuando la respuesta terapéutica a la monoterapia
+no ha sido satisfactoria
+ 4.2    Posología y forma de administración
+En pacientes que no respondan suficientemente a la monoterapia con un inhibidor
+de la ECA, se puede lograr una reducción de la presión más significativa mediante el
+cambio de tratamiento a Labodrex. Para los pacientes que habían estado tomando
+Cibacen® 10 mg ó 20 mg una vez al día, la posología correspondiente al cambio de
+tratamiento será de un comprimido de Labodrex 10 mg / 12,5 mg ó un comprimido de
+Labodrex 20 mg / 25 mg, una vez al día.
+        En pacientes que no respondan suficientemente a hidroclorotiazida (25 ó 50 mg, una
+vez al día) o a otro diurético tiazídico, la posología recomendada es de un comprimido
+de Labodrex 10 mg / 12,5 mg una vez al día. El tratamiento con diurético deberá ser
+interrumpido por lo menos tres días antes del inicio del tratamiento con Labodrex. Los
+pacientes deberán ser adecuadamente controlados.
+        Aquellos pacientes cuya presión arterial esté controlada con la combinación libre de
+benazepril más hidroclorotiazida, podrán pasar a la posología de Labodrex que
+contenga la misma cantidad de benazepril.
+        Frecuencia de administración
+Si después de 3-4 semanas de tratamiento con 1 comprimido de Labodrex 10 mg / 12,5
+mg, una vez al día, la presión arterial no se ha controlado, se pasará a un comprimido de
+ Labodrex 20 mg / 25 mg una vez al día. Si tras un período similar todavía no se ha
+controlado la presión, o en pacientes con presión arterial grave o difícil de controlar, se
+administrará Labodrex 20 mg / 25 mg, dos veces al día y si aún no se logra controlar la
+presión, se asociará otro antihipertensor. No se recomienda asociar otro diurético.
+        Uso en pacientes con alteración de la función renal
+En pacientes con un aclaramiento de creatinina > 30 ml/min. (creatinina sérica < 3 mg/dL
+o 265 µmol/L) se recomienda la dosis usual de Labodrex, valorada en función de la
+respuesta clínica.
+        Cuando se precise terapia diurética en pacientes con insuficiencia renal severa
+(aclaramiento de creatinina  30 mL/min.) se asociará preferentemente benazepril a un
+diurético de asa en lugar de un diurético tiazídico. Por consiguiente, no se recomienda la
+administración de Labodrex en pacientes con insuficiencia renal severa (ver apartado 4.4
+""Advertencias y precauciones especiales de empleo"").
+        Uso en pacientes de edad avanzada
+En los ensayos clínicos no se observaron diferencias en la eficacia o en la seguridad entre
+los pacientes de edad avanzada tratados con Labodrex y pacientes más jóvenes.
+La dosis deberá determinarse cuidadosamente en pacientes de edad avanzada (Ver en
+sección 5.2 ""Propiedades farmacocinéticas"" de la hidroclorotiazida) y/o con insuficiencia
+renal ligera (aclaramiento de creatinina 30-60 mL/min.).
+        Uso en niños
+No se ha establecido la seguridad y la eficacia en niños
+ 4.3.   Contraindicaciones
+- Hipersensibilidad conocida a benazepril, a las tiazidas o a cualquiera de los
+componentes de la especialidad.
+- Hipersensibilidad a cualquier otro inhibidor de la ECA, o a otros derivados de
+sulfonamidas.
+- Antecedentes de edema angioneurótico asociados con otros inhibidores de la ECA.
+- Anuria, insuficiencia renal (aclaramiento de creatinina < 30 mL/min) o hepática
+graves.
+- Hipokalemia refractaria, hiponatremia e hiperuricemia sintomática.
+- Segundo y tercer trimestres del embarazo (Ver secciones 4.4 ""Advertencias y
+precauciones especiales de empleo"" y 4.6 ""Embarazo y lactancia"")
+ 4.4.   Advertencias y precauciones especiales de empleo
+Reacciones anafilactoides o relacionadas
+Los pacientes tratados con inhibidores de la ECA (incluido benazepril) pueden
+experimentar diversas reacciones adversas, algunas de ellas graves, probablemente debido
+a que los inhibidores de la enzima convertidora de la angiotensina afectan al metabolismo
+de eicosanoides y polipéptidos, inclusive la bradiquinina endógena.
+        Hipersensibilidad/Edema angioneurótico
+Se han descrito casos de edema angioneurótico en cara, extremidades, labios, lengua,
+glotis y laringe en pacientes tratados con inhibidores de la ECA, incluido el benazepril.
+Esto puede suceder en cualquier momento durante el tratamiento. En estos casos se
+retirará Labodrex inmediatamente y se someterá al enfermo a una observación cuidadosa
+y al tratamiento adecuado hasta que desaparezcan completamente los signos y síntomas.
+                                                                                                      MINISTERIO
+Cuando la inflamación se produce solamente en cara y labios, el paciente normalmente
+mejora sin tratamiento o con antihistamínicos.
+ Un angioedema asociado a edema laríngeo puede ser fatal. Si están afectados lengua,
+glotis o laringe con posibilidad de obstrucción de las vías respiratorias, se instaurará sin
+demora una terapéutica apropiada, p. ej.: solución de adrenalina al 1:1000 (0,3-0,5 mL)
+por vía subcutánea y/o se tomarán medidas para asegurar una apertura de las vías
+respiratorias.
+ Se ha observado que la incidencia de edema angioneurótico durante la terapia con
+inhibidores de la ECA es superior en pacientes de raza negra de origen africano que en
+pacientes de raza no negra.
+ Lupus eritematoso sistémico
+En pacientes bajo tratamiento con tiazidas, pueden darse reacciones de hipersensibilidad
+con o sin historia de alergia o asma bronquial. Se han descrito casos de exacerbación o
+activación de lupus eritematoso con los diuréticos tiazídicos.
+ Reacciones anafilactoides durante la desensibilización a himenópteros
+Dos pacientes sometidos a tratamiento de desensibilización con veneno de himenópteros
+(veneno de aguijón de avispa) mientras recibían inhibidores de la ECA sufrieron
+reacciones anafilactoides muy graves. Estas reacciones desaparecieron con la interrupción
+temporal de los inhibidores de la ECA.
+ Reacciones anafilactoides durante diálisis o aféresis de lipoproteínas de baja densidad
+(LDL)
+Se han descrito reacciones anafilactoides en pacientes dializados con membranas de alto
+flujo mientras recibían tratamiento con un inhibidor de la ECA. También se han descrito
+reacciones anafilactoides en pacientes sometidos a aféresis de lipoproteínas de baja
+densidad con absorción de sulfato de dextrano. En estos pacientes se debe considerar el
+empleo de otro tipo de membrana de diálisis o de otra clase de agente antihipertensivo.
+ Hipotensión sintomática
+Como con otros inhibidores de la ECA, en casos raros se ha observado hipotensión
+sintomática, típicamente en personas con depleción salina o de volumen como
+consecuencia de un tratamiento prolongado con diuréticos, restricción de sal en la dieta,
+diálisis, diarrea o vómitos. La depleción de volumen y/o salina debe ser corregida antes de
+iniciar el tratamiento con Labodrex.
+ En pacientes que reciban concomitantemente tratamiento con otros antihipertensivos,
+Labodrex deberá ser administrado con precaución. El componente tiazídico de Labodrex
+puede potenciar la acción de otros fármacos antihipertensivos. Si se produce hipotensión,
+el paciente se colocará en posición supina y si es necesario se le administrará solución
+salina fisiológica i.v. El tratamiento con Labodrex puede continuarse cuando la presión
+sanguínea y el volumen circulatorio hayan vuelto a sus valores normales.
+ En pacientes con insuficiencia cardiaca congestiva grave, el tratamiento con un inhibidor
+de la ECA puede provocar una hipotensión excesiva, que puede estar asociada con
+oliguria y/o azotermia progresiva y (raramente) con insuficiencia renal aguda. En estos
+pacientes, el tratamiento deberá iniciarse bajo vigilancia médica: deberán ser vigilados
+estrechamente durante las dos primeras semanas de tratamiento y cuando se aumente la
+dosis de benazepril o de diurético.
+Alteración de la función renal
+En pacientes con insuficiencia renal (aclaramiento de creatinina  30 mL/min), es
+necesario ajustar la dosis inicial de Labodrex en función del aclaramiento de creatinina
+del paciente y posteriormente en función de la respuesta del paciente al tratamiento, ya
+que las tiazidas pueden acelerar la aparición de azotermia y los efectos de dosis repetidas
+pueden ser acumulativos. Cuando el sistema renina-angiotensina es inhibido por el
+benazepril, pueden producirse cambios en la función renal en pacientes susceptibles.
+ En pacientes con insuficiencia cardiaca congestiva grave en los que la función renal
+dependa de la actividad del sistema renina-angiotensina, el tratamiento con inhibidores de
+la ECA (incluido el benazepril) puede estar asociado con oliguria y/o azotermia
+progresiva, y (raramente) insuficiencia renal aguda. En un estudio reducido en pacientes
+hipertensos con estenosis de la arteria renal en un riñón o estenosis de la arteria renal
+bilateral, el tratamiento con benazepril se asoció a incrementos del nitrógeno ureico en
+sangre (BUN) y de la creatinina sérica. Estos aumentos fueron reversibles cuando se
+interrumpió el tratamiento con benazepril o diurético, o de ambos. Si estos pacientes son
+tratados con Labodrex, deberá monitorizarse la función renal durante las primeras
+semanas de tratamiento y después, a intervalos regulares.
+ Algunos pacientes hipertensos sin aparente enfermedad vascular renal pre-existente
+desarrollaron una elevación de los niveles de BUN y de la creatinina sérica (normalmente
+poco elevados y pasajeros), especialmente en pacientes tratados con benazepril asociado
+con diurético. En tales casos puede ser precisa una reducción de la dosis de Labodrex o
+una suspensión del tratamiento. La evaluación del paciente hipertenso incluirá siempre la
+valoración de la función renal (ver apartado 4.3 ""Contraindicaciones"" y 4.2 ""Posología y
+forma de administración"").
+ Agranulocitosis/neutropenia
+En pacientes tratados con inhibidores de la ECA se han comunicado casos de
+neutropenia/agranulocitosis, trombocitopenia, anemia y depresión de la médula ósea;
+estos efectos ocurren más frecuentemente en pacientes con disfunción renal,
+especialmente si además presentan enfermedad del colágeno con afectación vascular,
+como el lupus eritematoso sistémico o escleroderma. Se considerará el control periódico
+del recuento leucocitario en los pacientes con enfermedad del colágeno con afectación
+vascular especialmente si ésta está asociada con una disfunción renal.
+          Alteración de la función hepática
+En pacientes tratados con inhibidores de la ECA se han descrito en raras ocasiones
+hepatitis predominantemente colestática y casos aislados de fallo hepático agudo, algunos
+de ellos fatales. El mecanismo no está explicado. Los pacientes tratados con inhibidores
+de la ECA que desarrollen ictericia o elevación marcada de las enzimas hepáticas deberán
+interrumpir el tratamiento con el inhibidor de la ECA y someterse a vigilancia médica.
+ Labodrex deberá administrarse con precaución en pacientes con alteración de la función
+hepática o enfermedad hepática progresiva, dado que los cambios menores en el equilibrio
+de fluidos y electrolitos pueden dar lugar a un coma hepático.
+         Cambios en los electrolitos séricos
+En raras ocasiones se ha observado una elevación de los niveles de potasio sérico durante
+el tratamiento con inhibidores de la ECA, incluido benazepril. El tratamiento con
+diuréticos tiazídicos se ha asociado con hipokalemia, hiponatremia y alcalosis
+hipoclorémica. Estas alteraciones han dado lugar, en ocasiones, a uno o más de los
+siguientes síntomas; sequedad de boca, sed, debilidad, somnolencia, inquietud, dolor o
+calambres musculares, debilidad muscular, hipotensión, oliguria, taquicardia y náuseas.
+La hipokalemia puede asimismo sensibilizar o exagerar la respuesta del corazón frente a
+los efectos tóxicos de los digitálicos. El riesgo de hipokalemia es superior en pacientes
+con cirrosis hepática, pacientes con diuresis rápida, pacientes en los que la ingestión de
+electrolitos sea inadecuada, pacientes que reciban concomitantemente tratamiento con
+corticosteroides o ACTH. Por consiguiente, con la finalidad de detectar alteraciones en el
+balance electrolítico, deberán llevarse a cabo determinaciones de los electrolitos séricos al
+inicio del tratamiento y periódicamente.
+ El tratamiento con sales potásicas o con diuréticos ahorradores de potasio deberá evitarse
+en pacientes que reciban un inhibidor de la ECA y un diurético tiazídico, incluido el
+Labodrex, a no ser que se considere necesario (ver apartado 4.5 ""Interacciones con con otros medicamentos y otras formas de interacción"").
+ Las tiazidas disminuyen la excreción del calcio. En algunos pacientes sometidos a un
+tratamiento a largo plazo con tiazidas, se han detectado cambios patológicos en la
+glándula paratiroidea con hipercalcemia e hipofosfatemia. Si se produce una
+hipercalcemia, será preciso una clarificación del diagnóstico. No se han observado, en
+cambio, las complicaciones más comunes del hiperparatiroidismo tales como litiasis
+renal, resorción ósea y ulceración péptica.
+ Las tiazidas también incrementan la excreción urinaria de magnesio, pudiendo dar lugar a
+una hipomagnesemia.
+ Otras alteraciones metabólicas
+A elevadas dosis, los diuréticos tiazídicos pueden reducir la tolerancia a la glucosa e
+incrementar los niveles séricos de colesterol, triglicéridos y ácido úrico. Por lo tanto en
+pacientes diabéticos tratados con antidiabéticos orales o insulina, se debe vigilar
+estrechamente el control glucémico durante el primer mes de tratamiento con un inhibidor
+de la ECA.
+ Tos
+Se han descrito casos de tos persistente y no productiva en el tratamiento con inhibidores
+de la ECA, posiblemente debido a la inhibición de la degradación de la bradiquinina
+endógena. Esta tos desaparece siempre al interrumpir el tratamiento. La tos inducida por
+un inhibidor de la ECA ha de ser considerada en el diagnóstico diferencial de la tos.
+ Cirugía/anestesia
+Antes de una intervención quirúrgica deberá informarse al anestesista que el paciente está
+bajo tratamiento con un inhibidor de la ECA. Durante la anestesia con agentes que
+induzcan hipotensión, los inhibidores de la ECA pueden bloquear la formación de
+angiotensina II secundaria a la liberación compensadora de renina. Si se produce
+hipotensión por este mecanismo puede corregirse por expansión de volumen.
+         Estenosis aórtica o mitral
+Al igual que con otros vasodilatadores, se recomienda una especial precaución en
+pacientes que sufren estenosis aórtica o mitral y evitar su uso en obstrucción
+hemodinámicamente significativa.
+ Embarazo
+No se debe iniciar ningún tratamiento con Inhibidores de la Enzima Convertidora de
+Angiotensina (IECA) durante el embarazo. Salvo que se considere esencial continuar el
+tratamiento con los IECAs, las pacientes que estén planeando quedarse embarazadas
+deberán cambiar a un tratamiento antihipertensivo alternativo que tenga un perfil de
+seguridad conocido para su uso durante el embarazo. Cuando se diagnostique un
+embarazo, deberá interrumpirse inmediatamente el tratamiento con los IECAs, y si
+procede, iniciar un tratamiento alternativo (Ver secciones 4.3 ""Contraindicaciones"" y 4.6
+""Embarazo y lactancia"").
+        Advertencias sobre excipientes:
+Este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa,
+de insuficiencia de lactasa de Lapp o problemas de absorción de glucosa o galactosa no
+deben tomar este medicamento.
+Este medicamento por contener aceite de ricino hidrogenado como excipiente puede
+provocar molestias de estómago y diarrea.
+ 4.5.   Interacciones con con otros medicamentos y otras formas de interacción
+        Interacciones del componente diurético con
+Otros diuréticos
+No se recomienda el empleo concomitante de Labodrex con diuréticos ahorradores de
+potasio (p. ej. espironolactona, triamtereno, amilorida), suplementos de potasio, o
+sustitutos de sal que contengan potasio, ya que puede producirse un aumento significativo
+del potasio sérico. Sin embargo, si dicha combinación se considera necesaria, se aconseja
+controlar frecuentemente el potasio sérico.
+        Otros antihipertensivos
+Las tiazidas (incluida la hidroclorotiazida) potencian la acción de otros fármacos
+antihipertensivos (p.ej. guanetidina, metildopa, -bloqueadores, vasodilatadores,
+antagonistas del calcio, inhibidores de la ECA).
+Se han descrito casos de anemia hemolítica en la literatura con la co-administración de
+hidroclorotiazida y metildopa.
+        Antiepilépticos
+Los pacientes que reciben hidroclorotiazida concomitantemente con carbamazepina
+pueden desarrollar hiponatremia. Por tanto, se le debería avisar a tales pacientes sobre la
+posibilidad de reacciones hiponatrémicas y, por consiguiente, deberían ser monitorizados.
+        Derivados del curare
+Las tiazidas pueden incrementar la respuesta a la tubocurarina.
+        Digitálicos
+La hipokalemia inducida por la tiazida o la hipomagnesemia, que pueden presentarse
+como efectos adversos, favorecen la aparición de arritmias cardiacas inducidas por los
+digitálicos. (ver secciones 4.4 ""Advertencias y Precauciones especiales de empleo"" y 4.8
+""Reacciones adversas"").
+        Antiinflamatorios no esteroideos
+La administración conjunta de antiinflamatorios no esteroideos (p. ej. indometacina)
+puede disminuir la acción diurética, natriurética y antihipertensiva de los diuréticos
+tiazídicos.
+Resinas
+La absorción de hidroclorotiazida se ve alterada por la presencia de resinas de intercambio
+aniónico. Dosis únicas de resinas de colestiramina o colestipol se unen a la
+hidroclorotiazida y reducen su absorción a partir del tracto gastrointestinal hasta un 85% y
+43%, respectivamente.
+ Anticolinérgicos
+La biodisponibilidad de los diuréticos tiazídicos puede verse incrementada por los agentes
+anticolinérgicos (p. ej. atropina, biperideno), debido aparentemente a una disminución de
+la motilidad gastrointestinal y a la velocidad de vaciado del estómago.
+ Citotóxicos
+La coadministración de diuréticos tiazídicos puede reducir la excreción renal de fármacos
+citotóxicos (p. ej. ciclofosfamida, metotrexato) y potenciar sus efectos mielosupresivos.
+ Ciclosporina
+El tratamiento concomitante con ciclosporina puede incrementar el riesgo de
+hiperuricemia y complicaciones como la gota.
+ Otros
+La administración de diuréticos tiazídicos con vitamina D o con sales de calcio puede
+potenciar un aumento del calcio sérico.
+ El efecto hipokalémico de los diuréticos (incluida la hidroclorotiazida) puede verse
+incrementado por los corticosteroides, ACTH, anfotericina y carbenoxolona (ver
+secciones 4.4 ""Advertencias y Precauciones especiales de empleo"" y 4.8 ""Reacciones
+adversas"")
+ La coadministración de diuréticos tiazídicos puede incrementar la incidencia de
+reacciones de hipersensibilidad al alopurinol.
+ La coadministración de diuréticos tiazídicos (incluida la hidroclorotiazida) puede
+incrementar el riesgo de efectos adversos causados por la amantadina, y puede intensificar
+el efecto hiperglucémico del diazóxido.
+ Los diuréticos tiazídicos (incluida la hidroclorotiazida) pueden alterar la tolerancia a la
+glucosa. Por tanto, puede ser necesario reajustar la dosis de insulina y de agentes
+antidiabéticos orales.
+ Interacciones del componente inhibidor de la ECA con:
+Antidiabéticos
+Estudios epidemiológicos han sugerido que la administración concomitante de inhibidores
+de la ECA y medicamentos antidiabéticos (insulinas, hipoglucemiantes orales) pueden
+potenciar el descenso de la glucosa en sangre, con riesgo de hipoglucemia. Este fenómeno
+es más probable que ocurra durante las primeras semanas de tratamiento combinado y en
+pacientes con insuficiencia renal.
+ En raros casos, los pacientes diabéticos que reciben un inhibidor de la ECA (incluido el
+benazepril) concomitantemente con insulina y antidiabéticos orales pueden desarrollar
+                                                                                                MINISTERIO
+hipoglucemia. Por tanto, tales pacientes deberían ser advertidos sobre la posibilidad de
+reacciones hipoglucémicas y en consecuencia deberían ser monitorizados.
+        Antiinflamatorio no esteroideos
+En algunos pacientes, el efecto antihipertensivo de los inhibidores de la ECA puede verse
+reducido por la administración concomitante de indometacina. Sin embargo, en un ensayo
+clínico controlado, la indometacina no interfirió con el efecto antihipertensivo de
+benazepril.
+        Litio
+Se han descrito casos de niveles elevados de litio sérico y síntomas de toxicidad por litio
+en pacientes tratados con inhibidores de la ECA (incluido el benazepril) durante la terapia
+con litio. Dado que el aclaramiento renal del litio se ve reducido por las tiazidas, el riesgo
+de toxicidad del litio incrementa presumiblemente más cuando, como sucede con
+Labodrex, se administra un diurético tiazídico junto a un inhibidor de la ECA. Por
+consiguiente, si se administra Labodrex concomitantemente con litio, se recomienda tener
+precaución, debiéndose monitorizar frecuentemente los niveles de litio séricos.
+        Alcohol
+El alcohol potencia el efecto hipotensor de los inhibidores de la ECA.
+ 4.6.   Embarazo y lactancia
+Embarazo
+        No se recomienda el uso de los IECAs durante el primer trimestre del embarazo (ver apartado 4.4). Está contraindicado el uso de los IECAs durante el segundo y tercer
+trimestre del embarazo (ver secciones 4.3 ""Contraindicaciones"" y 4.4 ""Advertencia y
+precauciones especiales de empleo"").
+        La evidencia epidemiológica sobre el riesgo de teratogenicidad tras la exposición a
+inhibidores de la ECA durante el primer trimestre de embarazo no ha sido concluyente;
+sin embargo, no se puede excluir un pequeño aumento del riesgo. Salvo que se considere
+esencial continuar el tratamiento con IECAs, las pacientes que estén planeando quedarse
+embarazadas deben cambiar a un tratamiento antihipertensivo alternativo que tenga un
+perfil de seguridad conocido para su uso durante el embarazo. Cuando se diagnostique un
+embarazo, deberá interrumpirse inmediatamente el tratamiento con los IECAs y, si
+procede, iniciar un tratamiento alternativo.
+        Se sabe que la exposición a IECAs durante el segundo y el tercer trimestre induce
+fetotoxicidad humana (disminución de la función renal, oligohidramnios, retraso de la
+osificación craneal) y toxicidad neonatal (fallo renal, hipotensión, hiperpotasemia). (Ver
+también sección 5.3. ""Datos preclínicos sobre seguridad"").
+        Si se produce una exposición a IECAs a partir del segundo trimestre del embarazo, se
+recomienda realizar una prueba de ultrasonidos de la función renal y del cráneo.
+ La exposición intrauterina a diuréticos tiazídicos se ha asociado a una trombocitopenia
+fetal o neonatal, que puede estar asociada con otras reacciones adversas que se han
+descrito en adultos.
+ La hidroclorotiazida atraviesa la barrera placentaria, alcanzándose unas concentraciones
+en la vena umbilical cercanas a las del plasma materno. Se acumula en el líquido
+amniótico, alcanzándose concentraciones de hasta 19 veces superiores que en el plasma
+de la vena umbilical.
+        Lactancia
+Los lactantes cuyas madres hayan sido tratadas con IECAs deberán ser cuidadosamente
+monitorizados por si se produce hipotensión (ver secciones 4.3 ""Contraindicaciones""
+y 4.4 ""Advertencias y precauciones especiales de empleo"").
+La hidroclorotiazida se excreta en la leche materna, y puede suprimir la lactancia. Debe
+tenerse en cuenta la posibilidad de que se produzcan reacciones alérgicas o idiosincráticas
+en el lactante, por tanto el uso de Labodrex, no se recomienda en mujeres lactantes.
+ 4.7.   Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+Al igual que con otros fármacos antihipertensivos, se recomienda tener precaución cuando
+se conduzcan vehículos o manejen máquinas.
+ 4.8.   Reacciones adversas
+Estimación de la frecuencia: muy raras < 0,01 %; raras  0,01 % a < 0,1 %; poco
+frecuentes  0,1 % a < 1%; frecuentes  1 % a < 10 %; muy frecuentes  10 %.
+        Los efectos indeseables que se producen con Labodrex son los mismos que los
+observados con la hidroclorotiazida y benazepril, siendo por lo general ligeros y
+pasajeros. Las reacciones adversas experimentadas con Labodrex se listan a continuación:
+ Sistema cardiovascular
+Frecuentes                      palpitaciones, síntomas ortostáticos.
+Raras                           hipotensión sintomática, dolor torácico.
+Tracto gastrointestinal
+Frecuentes                      trastornos gastrointestinales inespecíficos.
+Raras                           diarrea, estreñimiento, náuseas, vómitos, dolor
+Piel
+Frecuentes                      eritema, sofocos, prurito, fotosensibilidad.
+Sistema urogenital
+Frecuentes                      polaquiuria
+Raras                           hipokalemia, aumento del BUN y de la creatinina
+Muy raras                       hiponatremia.
+Efectos metabólicos
+Raras                           incrementos en los niveles de ácido úrico en sangre.
+Tracto respiratorio
+Frecuentes                      tos, síntomas de las vías respiratorias.
+Sistema nervioso central
+Frecuentes                      cefaleas, mareos, fatiga
+Raras                           somnolencia, insomnio,         nerviosismo,    vértigo,
+Sistema musculoesquelético
+Raras                        artralgia, artritis, mialgia, dolor musculoesquelético.
+Órganos sensoriales
+Muy raras                    tinnitus, disgeusia.
+Reacciones alérgicas e inmunológicas
+Raras                        angioedema, edema de labios y/o cara (ver
+ Con monoterapia con benazepril y/o otros inhibidores de la ECA de los que se
+dispone de mayor experiencia post-comercialización, se han observado las siguientes
+reacciones adversas adicionales:
+  Sistema cardiovascular
+Raras:                            angina de pecho, arritmias.
+Muy raras:                        infarto de miocardio
+Alteraciones de la sangre y del sistema linfático
+Muy raras:                        trombocitopenia (ver apartado 4.4 ""Advertencias:
+Tracto gastrointestinal
+Muy raras:                        pancreatitis
+Alteraciones hepatobiliares
+Raras:                            hepatitis (predominantemente colestásica),
+Sistema urogenital
+Muy raras:                        alteración de la función renal
+Alteraciones de la piel y tejido subcutáneo
+Raras:                            Se han descrito asimismo raros casos de pénfigo en
+Muy raras:                        Síndrome de Stevens-Johnson
+ Frecuencia desconocida: angioedema del intestino delgado, reacciones anafilactoides,
+hiperkalemia, agranulocitosis, neutropenia.
+ La hidroclorotiazida se ha prescrito durante muchos años, y a menudo a dosis superiores a
+las contenidas en Labodrex. En pacientes tratados con diuréticos tiazídicos
+administrados solos se han observado las siguientes reacciones adversas:
+  Sistema cardiovascular
+Frecuentes                      hipotensión postural, que pueden ser agravados por
+Raras                           arritmias cardiacas
+Alteraciones de la sangre y del sistema linfático
+Raras                           trombocitopenia, en ocasiones acompañada de
+Muy raras                       leucopenia, agranulocitosis, depresión de la médula
+Tracto gastrointestinal
+Frecuentes                      pérdida de apetito, náuseas y vómitos ligeros
+Raras                           alteración abdominal, estreñimiento, diarrea, y
+Muy raras                       Pancreatitis
+Alteraciones hepatobiliares
+Raras                           colestasis intrahepática o hiperbilirrubinemia
+Sistema respiratorio
+Muy raras                       molestias respiratorias incluido edema pulmonar y
+Sistema nervioso central
+Raras                           cefaleas, vértigos o mareos, alteraciones del sueño,
+Sistema Urogenital
+Frecuentes                      Impotencia
+Piel
+Frecuentes                      urticaria y otras formas de eritemas
+Raras                           Fotosensibilización
+Muy raras                       necrolisis epidérmica tóxica, reacciones cutáneas de
+Reacciones alérgicas e inmunológicas
+Muy raras                       reacciones de hipersensibilidad
+Trastornos electrolíticos y metabólicos
+Frecuentes                      sobre todo a altas dosis           (ver apartado 4.4
+        Datos de laboratorio
+Se observaron aumentos menores del BUN y de la creatinina sérica en pacientes que
+recibieron Labodrex a dosis de 20/25 mg o superiores.
+En diversos ensayos clínicos se detectó una ligera reducción en el potasio sérico medio, y
+sólo en un 0,2% de los pacientes tratados con Labodrex se desarrolló hipokalemia (más de
+0,5 mmol/L por debajo del intervalo normal).
+En pacientes tratados con Labodrex se han descrito adicionalmente hiponatremia, ácido
+úrico elevado y descenso de la hemoglobina.
+ 4.9.   Sobredosis
+Signos y síntomas
+No existe experiencia de sobredosificación con Labodrex.
+En una intoxicación por sobredosis de hidroclorotiazida pueden presentarse los siguientes
+signos y síntomas: mareo, náusea, somnolencia, hipovolemia, hipotensión y trastornos
+electrolíticos asociados con arritmias cardiacas y espasmos musculares. No existe
+experiencia de sobredosificación con benazepril. El principal signo de sobredosis sería
+una marcada hipotensión.
+        Tratamiento
+No hay antídoto específico ni para hidroclorotiazida ni para benazepril. El tratamiento
+debería ser en todo caso sintomático y de apoyo. Si la ingestión de la sobredosis es
+reciente, se inducirá el vómito o se realizará un lavado gástrico. Para reducir la absorción,
+puede administrarse carbón activado. Se colocará al paciente con las piernas elevadas y se
+sustituirá la pérdida de electrolitos y de fluidos. Deberá monitorizarse la función renal
+hasta que las condiciones se normalicen.
+Aunque el metabolito activo benazeprilato únicamente es ligeramente dializable, puede
+considerarse la diálisis como medida de apoyo para la eliminación de la sobredosis en
+pacientes con alteración grave de la función renal (ver apartado 4.4 ""Advertencias y
+Precauciones especiales de empleo""). En el caso de que se produzca una marcada
+hipotensión, deberá administrarse un tratamiento apropiado.
+ "
+5.     PROPIEDADES FARMACOLOGICAS
+	5.1.   Propiedades farmacodinámicas
+Grupo farmacoterapéutico: Hipotensores y diuréticos en asociación. Código ATC:
+C09BA.
+        Labodrex está formado por la asociación de un inhibidor de la enzima conversora de la
+angiotensina, benazepril, y un diurético, hidroclorotiazida, con efectos sinérgicos sobre la
+reducción de la presión arterial.
+        Benazepril es un profármaco que, tras hidrólisis da lugar a la sustancia activa, el
+benazeprilato, el cual inhibe a la enzima conversora de angiotensina (ECA) y por lo tanto
+bloquea la conversión de angiotensina I en angiotensina II, Consecuentemente reduce
+todos los efectos mediados por la angiotensina II - vasoconstricción y producción de
+aldosterona, que favorece la reabsorción de sodio y agua a nivel del túbulo renal- y
+aumenta el gasto cardíaco.
+        Benazepril disminuye el aumento reflejo simpático de la frecuencia cardiaca en respuesta
+a la vasodilatación.
+        Al igual que otros inhibidores de la ECA, benazepril también inhibe la degradación de la
+bradiquinina por la quininasa, inhibición que puede contribuir al efecto de disminución de
+la presión arterial.
+Benazepril reduce la presión sanguínea en posición sentada, supina y en bipedestación en
+todos los grados de hipertensión.
+En la mayoría de pacientes, el efecto antihipertensor se manifiesta aproximadamente una
+hora después de administrar una dosis oral única de benazepril, alcanza el máximo a las 2-
+4 horas y persiste durante al menos 24 horas. Durante la administración repetida, la
+reducción máxima de la presión arterial se consigue, con cada dosis, generalmente tras
+una semana y se mantiene durante el tratamiento prolongado. El efecto antihipertensivo se
+mantiene independientemente de la raza, de la edad o del nivel basal de la renina
+plasmática. Los efectos antihipertensivos de benazepril no difirieren de forma apreciable
+entre pacientes que reciban dietas pobres o ricas en sodio.
+        La interrupción brusca de benazepril no se ha asociado con un incremento rápido de la
+presión sanguínea. En un estudio con sujetos sanos, dosis únicas de benazepril produjeron
+un aumento del flujo sanguíneo renal y no tuvieron efecto sobre la tasa de filtración
+glomerular.
+        Hidroclorotiazida: Los diuréticos tiazídicos actúan principalmente sobre el túbulo renal
+distal (porción convoluta proximal), inhibiendo la reabsorción de NaCl (antagonizando el
+cotransporte de Na+-Cl-) y promoviendo la reabsorción de Ca++ (por un mecanismo no
+elucidado). La liberación incrementada de Na+ y agua en el túbulo colector cortical y/o
+mayor velocidad de flujo conduce a un incremento en la secreción y excreción de K+ e H+.
+En pacientes con la función renal normal, la diuresis es inducida tras la administración de
+cantidades tan pequeñas como 12,5 mg de hidroclorotiazida. La excreción urinaria
+incrementada resultante de sodio y de cloro y el incremento menos marcado en la
+kaluresis son dosis-dependientes. Los efectos diuréticos y natriuréticos que se inician
+después de 1-2 horas de la administración oral de hidroclorotiazida, alcanza el máximo
+después de 4-6 horas, y puede durar hasta 10-12 horas.
+La diuresis inducida por los compuestos tiazídicos da lugar a una disminución del
+volumen plasmático, del gasto cardíaco y de la presión sanguínea. El sistema renina-
+angiotensina-aldosterona puede activarse. El efecto hipotensor se mantiene durante la
+administración continuada, debido probablemente a una caída de la resistencia vascular
+periférica total; así, el gasto cardíaco vuelve consecuentemente a los valores pre-
+tratamiento, el volumen plasmático continúa ligeramente reducido, y la actividad de la
+renina plasmática puede elevarse.
+        Benazepril/hidroclorotiazida: La inhibición del sistema renina-angiotensina por parte del
+benazepril produce un efecto antihipertensivo sinérgico con la hidroclorotiazida al
+bloquear la estimulación reguladora de este sistema inducida por el diurético. La
+estimulación del sistema renina-angiotensina por parte de la hidroclorotiazida hace que la
+presión sanguínea dependa más de los niveles de angiotensina II, incrementando así la
+eficacia de benazepril.
+        Durante los ensayos clínicos controlados, se comprobó que la combinación de benazepril
+y hidroclorotiazida tiene un efecto estimulador aditivo sobre la actividad de la renina
+plasmática y un efecto inhibidor aditivo sobre la aldosterona.
+        Los ensayos clínicos controlados permiten concluir que Labodrex 10 mg / 12,5 mg,
+administrado una vez al día, reduce significativamente la presión arterial en casos de
+hipertensión ligera o moderada en un número considerable de pacientes y que Labodrex
+20 mg / 25 mg reduce la presión arterial en mayor grado que cada componente
+administrado por separado o que Labodrex 10 mg / 12,5 mg una vez al día por una
+cantidad equivalente a Labodrex 10 mg / 12,5 mg administrado dos veces al día. La
+combinación benazepril 20 mg + hidroclorotiazida 25 mg, dos veces al día, disminuyó la
+presión arterial diastólica en aprox. 18 mm Hg, 12 horas después de la administración.
+ 5.2.   Propiedades farmacocinéticas
+        Absorción y concentraciones plasmáticas
+No se produce ninguna interacción farmacocinética entre los componentes activos de
+Labodrex, no viéndose afectada la biodisponibilidad de cada componente por la
+administración conjunta de benazepril e hidroclorotiazida. Labodrex es bioequivalente a
+la combinación libre de los dos principios activos.
+        Como mínimo un 37% de una dosis oral de benazepril hidrocloruro es absorbida. El
+profármaco se convierte rápidamente en benazeprilato, el metabolito farmacológicamente
+activo. Tras la administración de benazepril hidrocloruro en ayunas, las concentraciones
+plasmáticas máximas de benazepril y benazeprilato se alcanzan tras 30 y 60-90 minutos,
+respectivamente.
+La hidroclorotiazida se absorbe en un 60-80% de la dosis oral. Las concentraciones
+plasmáticas máximas se alcanzan entre las 1,5 y las 3 horas. Las variaciones en la
+absorción de benazepril hidrocloruro y de hidroclorotiazida debido a la administración en
+ayunas son de escasa significación clínica.
+ En el rango de dosis terapéuticas, la disponibilidad sistémica de benazepril, benazeprilato
+e hidroclorotiazida es aproximadamente proporcional a la dosis. Asimismo, la
+administración repetida no altera la farmacocinética de benazepril hidrocloruro e
+hidroclorotiazida.
+ Distribución
+Benazepril y benazeprilato se unen aprox. en un 95% a proteínas séricas (principalmente
+albúmina); esta unión no se ve afectada por la edad. El volumen de distribución de
+benazeprilato en estado estacionario es de aprox. 9 L.
+La hidroclorotiazida se acumula en los eritrocitos. En la fase de eliminación, las
+concentraciones en los eritrocitos son de 3 a 9 veces superiores a las plasmáticas. La
+hidroclorotiazida se une aprox. en un 40-70% a las proteínas plasmáticas. El volumen de
+distribución durante la fase de eliminación terminal es de aprox. 3-6 L/kg
+(correspondientes a 210-420 L por 70 kg de peso corporal)
+ Biotransformación
+Benazepril es extensamente metabolizado, siendo el benazeprilato el metabolito principal.
+Otros dos metabolitos son los conjugados acilglucurónidos del benazepril y del
+benazeprilato.
+La hidroclorotiazida, en cambio, se metaboliza muy poco. El único metabolito hallado (a
+nivel de trazas) es el 2-amino-4-cloro-m-bencenodisulfonamida.
+ Eliminación
+La eliminación plasmática de benazepril es completa a las 4 horas, principalmente por
+biotransformación. La eliminación del benazeprilato es bifásica, con una semivida inicial
+de aprox. 3 horas y una semivida terminal de unas 22 horas. La fase de eliminación
+terminal a partir de las 24 horas sugiere una fuerte unión del benazeprilato a la ECA. El
+benazeprilato se elimina por vía renal y biliar; la excreción renal es la principal vía en
+pacientes con función renal normal. De una dosis oral de benazepril hidrocloruro, aparece
+en la orina menos de un 1% de benazepril y aprox. un 20% de benazeprilato.
+ La eliminación de la hidroclorotiazida es bifásica, con una semivida inicial de unas 2
+horas y una semivida terminal (a partir de las 10 y de las 12 horas) de unas 10 horas. La
+eliminación es práctica y exclusivamente por vía renal en pacientes con la función renal
+normal. En la orina aproximadamente un 50-75% de la dosis oral se encuentra en forma
+inalterada.
+ Grupos especiales de pacientes:
+Pacientes con insuficiencia cardiaca congestiva
+La absorción de benazepril y su conversión a benazeprilato no se ve afectada. Debido a
+que la eliminación es ligeramente inferior, la concentración de benazeprilato en estado
+estacionario tiende a ser más elevada en este grupo que en sujetos sanos o hipertensos.
+ Pacientes de edad avanzada y pacientes con insuficiencia renal
+La cinética de benazepril y benazeprilato se ve mínimamente afectada por la edad
+avanzada y por una disfunción renal leve o moderada (aclaramiento de creatinina 30-80
+mL/min).
+La farmacocinética de la hidroclorotiazida cambia sin embargo en tales pacientes. El
+aclaramiento del diurético se reduce significativamente, dando lugar a unas
+concentraciones plasmáticas sustancialmente más elevadas. La disminución en el
+aclaramiento con la edad se cree que es debido a un deterioro de la función renal. Las
+dosis eficaces de Labodrex en pacientes de edad avanzada y con insuficiencia renal
+pueden ser inferiores a las de los pacientes más jóvenes y con la función renal normal.
+Labodrex está contraindicado en pacientes con un aclaramiento de creatinina < 30 ml/min.
+        Pacientes con disfunción hepática
+La cinética del benazeprilato e hidroclorotiazida no se ven afectadas por la cirrosis
+hepática.
+ 5.3.   Datos preclínicos sobre seguridad
+No se han observado efectos teratógenos en conejos con dosis de hasta 10 mg/kg. En la
+rata, no se observaron efectos relacionados con el tratamiento ni en las madres ni en las
+crías durante el período peri y post-natal. Los componentes individuales, el benazepril
+hidrocloruro y la hidroclorotiazida, han sido evaluados de forma separada. Con
+benazepril, no se observaron efectos teratógenos en ratones tratados con dosis de hasta
+150 mg/kg/día, con ratas tratadas con dosis de hasta 500 mg/kg/día y conejos con dosis de
+hasta 5 mg/kg/día. La hidroclorotiazida tampoco fue teratógena en ratas (dosis de hasta
+1000 mg/kg) o en ratones (hasta 3000 mg/kg)
+        Mutagenicidad
+No se detectó potencial mutagénico en ninguno de los ensayos in vitro e in vivo llevados a
+cabo.
+        Carcinogenicidad
+No se han llevado a cabo estudios de carcinogenicidad con Labodrex.
+Sin embargo, los componentes individuales, benazepril hidrocloruro y la hidroclorotiazida
+han sido evaluados separadamente. No se observó evidencia de efecto tumorigénico con
+benazepril administrado a ratas o ratones a dosis de hasta 150 mg/kg/día (250 veces la
+dosis diaria total máxima recomendada en humanos). De acuerdo con los datos obtenidos
+a partir de diversos experimentos, la hidroclorotiazida no reveló evidencia de una
+actividad carcinogénica (en ratones los tumores hepatocelulares fueron observados
+únicamente en los ratones macho que recibieron dosis mayores; sin embargo, esta
+incidencia no sobrepasó los niveles históricamente hallados en los controles).
+ 
+6.     DATOS FARMACEUTICOS
+	6.1.   Lista de excipientes
+Aceite de ricino hidrogenado
+Lactosa
+Polivinilpirrolidona
+Hidroxipropilmetilcelulosa
+Polietilenglicol 8000
+Talco
+Dióxido de titanio (E-171)
+Óxido de hierro rojo (E 172)
+ 6.2.   Incompatibilidades
+No se han descrito
+ 6.3    Período de validez
+2 años
+ 6.4.   Precauciones especiales de conservación
+No conservar a temperatura superior a 30º C.
+Conservar en el envase original para protegerlo de la humedad
+ 6.5.   Naturaleza y contenido del recipiente
+Blister de Aluminio/PVC/PE/PVDC. Envases conteniendo 28 comprimidos.
+ 6.6.   Instrucciones de uso / manipulación
+Sin instrucciones especiales
+ 
+7.     TITULAR DE LA AUTORIZACION DE COMERCIALIZACION
+	
+8.     NÚMERO DE LA AUTORIZACION DE COMERCIALIZACION
+	9.     FECHA DE LA            PRIMERA        AUTORIZACIÓN/RENOVACIÓN          DE   LA
+AUTORIZACIÓN
+29 Enero 2004
+ 10.    FECHA DE LA REVISION DEL TEXTO
+Julio 2008
+
+	Prospectos de medicamentos.

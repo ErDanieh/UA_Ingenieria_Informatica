@@ -1,0 +1,305 @@
+RECOMBINATE 1000UI FACT ANTIHE 1 INY 10ML
+	"Información Basica del medicamento Toda la información del medicamento 1 NOMBRE DEL MEDICAMENTO
+ Recombinate 250 UI, Factor Antihemofílico (Recombinante)
+Recombinate 500 UI, Factor Antihemofílico (Recombinante)
+Recombinate 1000 UI, Factor Antihemofílico (Recombinante)
+ 2 COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+ Cada vial de Recombinate, Factor Antihemofílico (Recombinante), contiene nominalmente 250,
+500 ó 1000 UI.
+ Cada vial de Recombinate se etiqueta con la actividad de Factor Antihemofílico (FAH) expresada
+en Unidades Internacionales por vial. Esta potencia asignada está referida al Estándar
+Internacional de la O.M.S para Concentrado de Factor VIII:C.
+ 3 FORMA FARMACÉUTICA
+ Polvo y disolvente para solución inyectable.
+Recombinate está formulado como un polvo liofilizado blanquecino, estéril y apirógeno de Factor
+Antihemofílico (Recombinante) concentrado.
+ 
+
+4 DATOS CLÍNICOS
+ 4.1     INDICACIONES TERAPÉUTICAS
+ El uso de Recombinate está indicado en el tratamiento y profilaxis de episodios hemorrágicos en
+pacientes con hemofilia A (deficiencia congénita de Factor VIII). También está indicado para el
+tratamiento perioperatorio de pacientes con hemofilia A .
+ Recombinate es adecuado para utilizarse en niños de todas las edades, incluyendo el recién nacido
+(se han realizado estudios de seguridad y eficacia tanto en niños tratados previamente como en
+niños no tratados).
+ El producto NO es adecuado para el tratamiento de la enfermedad de Von Willebrand.
+ 4.2     POSOLOGÍA Y MÉTODO DE ADMINISTRACIÓN
+ 4.2.1. Posología
+ La dosificación y duración de la terapia de sustitución depende de la gravedad del trastorno en la
+función hemostática, de la localización y extensión de los episodios hemorrágicos y de la
+condición clínica del paciente. El tratamiento debe llevarse a cabo en colaboración con un médico
+con experiencia en desórdenes hemorrágicos y un laboratorio con capacidad para la determinación
+de concentraciones de FAH en plasma.
+ El aumento pico in vivo esperado en el nivel de Recombinate, Factor Antihemofílico, expresado
+como UI/dl de plasma o porcentaje (%) del normal puede ser calculado multiplicando la dosis
+ administrada por Kg de peso corporal (UI/Kg) por dos. El método de cálculo se ilustra en los
+siguientes ejemplos:
+ Aumento de Factor VIII esperado (%) =
+                                       1750 UI x 2% / UI / Kg
+Ejemplo para un adulto de 70 Kg:
+o bien
+Dosis requerida (UI) =
+                                       40 Kg x 70%
+Ejemplo para un niñ o de 40 Kg:                    = 1400 UI
+ En casos de cirugía mayor o hemorragias que amenazan la vida, es especialmente importante un
+control cuidadoso de la terapia de sustitución.
+Aunque la dosis puede estimarse por los cálculos dados anteriormente se recomienda que, cuando
+sea posible, se realicen ensayos de laboratorio apropiados incluyendo ensayos seriados de FAH en
+el plasma del paciente a los intervalos necesarios para asegurar que los niveles de FAH adecuados
+se han alcanzado y se mantienen. Si el FAH del plasma del paciente no alcanza los niveles
+esperados o si la hemorragia no se puede controlar tras una dosis adecuada, debe sospecharse de
+la presencia de algún inhibidor. La presencia de inhibidor puede demostrarse mediante
+procedimientos de laboratorio adecuados y cuantificarse como Unidades Internacionales de FAH
+neutralizados por cada ml de plasma (Unidades Bethesda) o por el volumen total de plasma
+estimado. Si el inhibidor está presente a niveles menores de 10 Unidades Bethesda por ml, la
+administración de FAH adicional puede neutralizar el inhibidor. Después, la administración de
+Unidades Internacionales de FAH adicionales debe conseguir la respuesta prevista.
+En estas situaciones, es necesario el control de los niveles de FAH mediante ensayos de
+laboratorio. Con títulos de inhibidor mayores de 10 Unidades Bethesda por ml, puede ser
+imposible o no práctico el control de la hemostasis con FAH por las grandes dosis requeridas.
+ La pauta de dosificación siguiente indicada en la Tabla 1 puede ser usada para adultos y niños. La
+cantidad a administrar y la frecuencia de aplicación deben siempre estar orientadas a la
+efectividad clínica en cada caso particular. Recombinate puede ser también administrado como
+profilaxis (a corto o largo plazo) de hemorragias, según criterio médico, para cada caso concreto.
+ HEMORRAGIA
+Grado de hemorragia          Actividad de FAH post-
+Hemartrosis incipiente o                20-40               Comenzar la infusión cada 12-24
+hemorragia oral o                                           horas durante uno a tres días hasta
+muscular                                                    que el episodio hemorrágico según
+Hemartrosis más extensa,                30-60               Repetir la infusión cada 12-24 horas,
+hemorragia muscular o                                       usualmente durante tres días o más,
+hematoma                                                    hasta que cese el dolor y la
+Hemorragias que                         60-100              Repetir la infusión cada 8-24 horas
+amenazan la vida, como                                      hasta superar el peligro
+las debidas a heridas en
+cabeza, hemorragia en
+garganta, dolor abdominal
+intenso
+CIRUGÍA
+Tipo de operación
+Cirugía menor, incluyendo               60-80               Una única infusión junto con terapia
+extracción dental                                           antifibrinolítica oral en una hora es
+Cirugía mayor                            80-100             Repetir la infusión cada 8-24 horas
+ Esto representa la actividad pico de FAH para pacientes con la semi-vida promedio de factor
+VIII esperada. Si se considera necesario, la actividad pico puede ser medida dentro de la media
+hora siguiente a la administración. En pacientes con semi-vida de factor VIII relativamente
+corta, puede ser necesario aumentar la dosificación y/o la frecuencia de administración
+ * Cada vial de Recombinate, está etiquetado con la actividad de Recombinate, Factor
+Antihemofílico (Recombinante) expresada en UI/vial. La asignación de potencia se hace con
+referencia al Estándar Internacional de la Organización Mundial de la Salud para Concentrado de
+Factor VIII:C. Se ha demostrado experimentalmente que para obtener niveles de actividad
+exactos, el ensayo de potencia debe ser realizado con tubos de ensayo y pipetas de plástico y
+utilizar substrato con niveles normales de Factor von Willebrand.
+ 4.2.2. Método de administración
+ El preparado es para administración intravenosa después de su reconstitución con el diluyente que
+se acompaña (ver también el apartado de ""Instrucciones de Uso/Manipulación""). Se recomienda
+que la administración comience dentro de las tres horas siguientes a la reconstitución. El material
+reconstituido no debe ser refrigerado. El preparado puede administrarse a un ritmo de hasta 10 ml
+por minuto. Antes y durante la administración de Recombinate, debe controlarse el pulso. Si
+hubiera un aumento significativo, al reducir el ritmo de administración o interrumpirla
+momentáneamente, los síntomas normalmente desaparecen pronto. (Ver las secciones de
+""Advertencias y Precauciones Especiales de empleo"" y ""Reacciones adversas"")
+ 4.3   CONTRAINDICACIONES
+ Recombinate está contraindicado en individuos que hayan experimentado reacciones alérgicas
+graves a las proteínas bovina, de ratón o hámster o a los constituyentes del preparado.
+ 4.4   ADVERTENCIA Y PRECAUCIONES ESPECIALES DE EMPLEO
+ Se han comunicado reacciones alérgicas graves al Recombinate. Los pacientes con
+hipersensibilidad conocida a las proteínas de ratón, hámster o bovinas deben ser tratados con
+precaución. Las reacciones alérgicas graves al Recombinate son una contraindicación (ver apartado 4.3.).
+ Si se producen reacciones alérgicas o anafilácticas, debe interrumpirse la inyección/infusión
+inmediatamente. Se debe disponer de medios para un adecuado tratamiento de choque.
+ Si los niveles de FAH en plasma no alcanzan los niveles esperados o si no se controla la
+hemorragia después de una dosis adecuada, deben realizarse ensayos de laboratorio apropiados
+para detectar la presencia de inhibidor.
+ 4.5   INTERACCIONES CON con otros medicamentos Y OTRAS FORMAS DE
+INTERACCIÓN
+ No se han observado interacciones con con otros medicamentos.
+ 4.6   EMBARAZO Y LACTANCIA
+ No se han realizado estudios de reproducción animal con Recombinate. No se sabe si
+Recombinate puede causar daño al feto al administrarlo a una mujer embarazada o puede afectar a
+la capacidad de reproducción. La administración de Recombinate a mujeres embarazadas debe
+hacerse únicamente si es estrictamente necesario.
+ 4.7   EFECTOS SOBRE LA CAPACIDAD PARA CONDUCIR Y UTILIZAR
+MAQUINARIA
+ No existen indicaciones de que el producto pueda afectar a la capacidad de conducir o manejar
+maquinaria.
+ 4.8   REACCIONES ADVERSAS
+ Al igual que con la administración de cualquier proteína, pueden producirse reacciones adversas
+con el uso de preparaciones de Factor Antihemofílico Recombinante (FAHr). Se han comunicado
+reacciones adversas después de la infusión de FAHr en estudios clínicos que incluían: náuseas,
+enrojecimiento, ligera fatiga, exantema, hematoma, diaforesis, escalofríos, agitación, fiebre, dolor
+de piernas, manos y pies fríos, garganta dolorida, infección de oídos y fallo en la prueba de
+escucha. Esporádicamente, en pacientes que recibieron Recombinate, se han comunicado
+reacciones adversas que se asemejaban a la hipersensibilidad de tipo alérgico. Los síntomas de
+tipo alérgico pueden incluir urticaria local y generalizada, exantema, disnea, tos, opresión en el
+pecho, jadeos, hipotensión y anafilaxis.
+ Los pacientes deben ser informados de los síntomas iniciales de las reacciones de
+hipersensibilidad y por tanto deben ser advertidos para interrumpir el uso del producto y ponerse
+en contacto con su médico si aparecen estos síntomas.
+ Se aconseja precaución en pacientes con reacciones alérgicas conocidas a los componentes del
+preparado (Ver las secciones de ""Contraindicaciones"" y ""Advertencias y Precauciones Especiales
+de empleo"").
+ La formación de anticuerpos neutralizantes, inhibidores, al Factor VIII es una complicación
+conocida en el control de pacientes con hemofilia A. Estos inhibidores son, invariablemente,
+inmunoglobulinas IgG, dirigidas contra la actividad procoagulante del Factor VIII, que se
+expresan como Unidades Bethesda (U.B.) por ml de plasma.
+ El riesgo de desarrollar inhibidores se correlaciona con la exposición al Factor VIII
+Antihemofílico, siendo más alto dentro de los 20 primeros días de exposición. La incidencia de
+anticuerpos inhibitorios comunicada en pacientes con hemofilia A grave, que tienen mayor riesgo
+de desarrollar el inhibidor (por ejemplo, los pacientes no tratados previamente), se ha estimado en
+estudios ser del 31% para Recombinate, que está dentro del rango reportado para FAH derivado
+de plasma. Los pacientes tratados con Recombinate deben ser controlados cuidadosamente por
+desarrollo de anticuerpos inhibitorios mediante observaciones clínicas y ensayos de laboratorio
+apropiados.
+ 4.9    SOBREDOSIFICACIÓN
+ No se conocen síntomas de sobredosificación
+ 5 PROPIEDADES FARMACOLÓGICAS
+ 5.1.   PROPIEDADES FARMACODINÁMICAS
+ El Factor Antihemofílico es un factor de coagulación específico, deficiente en pacientes con
+hemofilia A (deficiencia congénita en Factor VIII). La hemofilia A es un desorden genético de la
+coagulación caracterizada por hemorragias que se producen de forma espontánea o por traumas
+menores. El Factor VIII es responsable de la coagulación. Como cofactor del factor IX, acelera la
+conversión del factor X en factor X activado. El factor X activado convierte la protrombina en
+trombina. La trombina convierte entonces el fibrinógeno en fibrina y se puede formar el coágulo.
+La actividad del factor VIII está muy reducida en los pacientes con hemofilia A y por
+consiguiente, se requiere una terapia de sustitución.
+5.2.   PROPIEDADES FARMACOCINÉTICAS
+ Estudios farmacocinéticos en 69 pacientes previamente tratados revelaron una vida-media
+promedio circulante del Recombinate de 14,6 ± 4,9 horas (n= 67), cifra que no es
+significativamente diferente desde el punto de vista estadístico a la del Hemofil M, Factor
+Antihemofílico (Humano) derivado de plasma (FAHdp). La vida-media promedio de Hemofil M
+fue de 14,7 ± 5,1 horas (n=61). La recuperación de la línea base actual observada con
+Recombinate después de la infusión de una dosis de 50 UI/Kg fue de 123,9 + 47,7 UI/dl (n=23),
+que es significativamente superior que la recuperación de la línea base actual de Hemofil M de
+101,7 + 31,6 UI/dl (n=61). Sin embargo, la relación calculada de la recuperación actual respecto a
+la esperada (p.e. incremento del 2% en la actividad de Factor VIII de 1 UI de FAHr/kg de peso
+corporal) con Recombinate (121,2 + 48,9 %) es similar a la de Hemofil M (123,4 + 16,4%). Se
+obtuvieron un total de 494 estudios de recuperación de 68 pacientes previamente no tratados. Se
+realizaron doscientos doce estudios de recuperación cuando los pacientes eran tratados por
+hemorragias con una media + DE de recuperación actual de 70,0 + 37,9 UI/dl (N=208), por
+desviación se omitieron cuatro recuperaciones del análisis). La alta variabilidad es debida al
+amplio rango de la dosis actual dada, de 13,8 a 103,2 UI/kg (media + DE de 36,0 + 16,2 y
+mediana de 30,2 UI/kg). Se calcularon las relaciones entre las recuperaciones actuales y las
+esperadas para dar cuenta de los niveles de dosificación variable, dando como resultado una
+media de 1,0 + 0,3.
+ Se realizaron un total de 68 estudios de recuperación cuando los pacientes recibían una infusión
+de seguimiento para el tratamiento continuado de una hemorragia pre-existente. Se corrigió el
+nivel de recuperación actual de FVIII para el nivel de pre-infusión de FVIII. La media + DE de la
+recuperación actual fue de 88,6 + 38,2 UI/dl (N=66) con dos recuperaciones omitidas del análisis
+por desviación). De nuevo, el amplio rango de las dosis actuales dadas, de 18,5 a 85,7 UI/kg
+(media + DE de 38,6 + 15,9 y mediana de 32,1 UI/kg) da como resultado una variación
+sustancial de los niveles de recuperación observados. La relación entre la recuperación actual y la
+pronosticada, media + DE, fue de 1,0 + 0,3 con una mediana de 1,0.
+ Se realizaron un total de 214 estudios de recuperación cuando los pacientes estaban en estado
+estable dando como resultado un recuperación actual media del 71,6 ± 29,7 U.I./dl (N=209) con 5
+recuperaciones omitidas del análisis por desviación). Las dosis dadas se encontraban en el rango
+de 10,4 a 68,1 U.I./Kg (media ± DE de 38,0 ± 12,7 y mediana de 36,1 U.I./Kg). La relación entre
+la recuperación actual y la pronosticada, media ± DE, fue de 1,0 ±0,3.
+ 5.3.   DATOS PRECLÍNICOS SOBRE SEGURIDAD
+ Recombinate actúa como el factor VIII endógeno. Dosis varias veces superiores a las dosis por
+kilogramo de peso corporal recomendadas en humanos no mostraron ningún efecto tóxico en
+animales de laboratorio.
+ Recombinate fue ensayado por mutagenicidad a dosis considerablemente mayores que las
+concentraciones plasmáticas de FAH in vitro y a dosis hasta diez veces las dosis clínicas máximas
+in vivo esperadas y no causó mutaciones reversas, aberraciones cromosómicas o aumento de
+micronúcleos en eritrocitos policromáticos de médula ósea. Como la experiencia clínica no
+proporciona evidencia de efectos carcinogénicos ni mutagénicos, no se considera imperativo la
+realización de estudios a largo plazo en animales para evaluar el potencial carcinogénico.
+                                                                                                       MINISTERIO
+6 DATOS FARMACÉUTICOS
+ 6.1    RELACIÓN DE EXCIPIENTES
+ Solución de Albúmina, Humana
+Cloruro sódico
+Histidina
+Macrogol 3350
+Cloruro cálcico dihidrato
+Agua esterilizada para preparaciones inyectables
+ 6.2    INCOMPATIBILIDADES
+ Recombinate no debe ser mezclado con con otros medicamentos.
+ 6.3    PERIODO DE VALIDEZ
+ Período de validez:
+ Recombinate puede ser almacenado durante 2 años en condiciones de refrigeración (2-8°C). No
+usar después de la fecha de caducidad impresa en el vial. A lo largo de este periodo de dos años el
+producto puede almacenarse a 15-25ºC antes de su uso hasta seis meses.
+ Periodo de validez después de la reconstitución:
+ Recombinate debe administrarse dentro de las 3 horas siguientes a la reconstitución, a 15-25ºC.
+ 6.4.   PRECAUCIONES ESPECIALES DE CONSERVACIÓN
+ Almacenar el Recombinate en condiciones de refrigeración (+2ºC a +8ºC).
+No congelar.
+ No refrigerar de nuevo después de haber sido almacenado a temperatura ambiente.
+No refrigerar el Recombinate después de la reconstitución
+ 6.5    NATURALEZA Y CONTENIDO DEL ENVASE
+ Recombinate se presenta en viales de dosis única de vidrio transparente de Tipo I, F. Eur. de 30
+ml, con tapones de goma y tapas protectoras de aluminio. Cada vial se etiqueta con la potencia
+expresada en Unidades Internacionales y se empaqueta junto con 10 ml de Agua esterilizada para
+preparaciones inyectables F.Eur (diluyente para la reconstitución), un equipo BaxJect (para la
+reconstitución sin aguja), una jeringa estéril de plástico de un sólo uso y un miniequipo de
+infusión estéril.
+ Disponible en tres presentaciones con las siguientes potencias:
+Presentación 1:          250 UI/vial
+Presentación 2:          500 UI/vial
+Presentación 3:          1000 UI/vial
+ 6.6    INSTRUCCIONES DE USO/MANIPULACIÓN
+ El preparado es para administración intravenosa tras su reconstitución con el Agua esterilizada
+para preparaciones inyectables F. Eur. que se acompaña. Debe utilizarse la jeringa desechable de
+plástico que acompaña al producto:
+ · No utilizar después de la fecha de caducidad impresa en la etiqueta.
+ · Utilizar en las tres horas siguientes a su reconstitución.
+ · No refrigerar el preparado después de la reconstitución.
+ · Desechar adecuadamente la solución no utilizada.
+ Reconstitución: Usar una técnica aséptica
+ 1.    Llevar a 15-25ºC el Recombinate (concentrado liofilizado) y el Agua esterilizada para
+preparaciones inyectables F.Eur. (diluyente).
+ 2.    Retirar las cápsulas de los viales de concentrado y diluyente.
+ 3.    Limpiar los tapones con solución germicida.
+ 4. Abrir el envoltorio del accesorio BaxJect quitando la tapa de papel sin tocar el interior (figura
+a).
+ 5. No sacar el equipo del envoltorio. Darle la vuelta al equipo e insertar la punta de plástico a
+través del tapón del diluyente. Coger el equipo por su extremo y sacar el equipo BaxJect de su
+envoltorio (figura b).
+ 6. Con el equipo BaxJect unido al vial de diluyente, invertir el equipo de tal forma que el vial
+de diluyente esté en la parte superior del equipo.
+ 7. Insertar la otra punta de plástico dentro del tapón de Recombinate. El vacío hará que el
+diluyente penetre en el vial de Recombinate (figura c).
+ 8. Agitar con suavidad hasta que todo el material se haya disuelto. Asegurese que el
+Recombinate esté completamente disuelto, de otra manera el material activo no pasará a través del
+filtro del equipo.
+ Administración: Usar técnica aséptica
+ Se recomienda que la administración comience dentro de las tres horas siguientes a la
+reconstitución. No refrigerar el producto reconstituido. Los productos para administración
+parenteral deben ser inspeccionados por partículas y coloración antes de su administración en
+tanto la solución y el envase lo permitan. Para Recombinate es aceptable una apariencia incolora a
+ligeramente amarilla.
+ 1. Girar la manivela del equipo BaxJect (hacia el vial de Recombinate concentrado), eliminar el
+capuchón del conector (figura d).
+ 2. Introducir aire en la jeringa girando la manivela hacia abajo, conectar la jeringa al equipo
+BaxJect e inyectar el aire dentro del vial de concentrado (figura e).
+ 3. Mientras se mantiene la jeringa en el conector, invertir el equipo (con el vial de concentrado en
+la parte superior). Introducir el concentrado en la jeringa, girando la manivela despacio hacia
+abajo (figura f).
+ 4. Volver la manivela del equipo BaxJect a su posición original (en posición horizontal) y
+desconectar la jeringa.
+ 5. Conectar el equipo de administración a la jeringa. Inyectar intravenosamente. El preparado
+puede ser administrado a un ritmo de hasta 10 ml por minuto. Debe tomarse el pulso antes y
+durante la administración de Recombinate. Si se observa una elevación significativa del pulso, al
+reducir el ritmo de administración o interrumpir temporalmente la inyección, los síntomas
+normalmente desaparecen pronto (Ver los apartados de ""Adertencias y Precauciones Especiales de
+empleo"" y ""Reacciones Adversas""
+ 7 NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Baxter, S.L.
+Gremis 7, 46014 Valencia, España
+ 8   NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Recombinate 250 UI                       Nº de Registro: 60.110
+Recombinate 500 UI                       Nº de Registro: 60.111
+Recombinate 1000 UI                      Nº de Registro: 60.112
+ 9 FECHA DE LA PRIMERA APROBACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 29 de Marzo de 1994
+ 10 FECHA DE LA REVISIÓN (PARCIAL) DEL TEXTO
+ Julio 2002
+                                                                                                        MINISTERIO
+Figura a   Figura b   Figura c
+ Figura d   Figura e   Figura f
+ Prospectos de medicamentos."

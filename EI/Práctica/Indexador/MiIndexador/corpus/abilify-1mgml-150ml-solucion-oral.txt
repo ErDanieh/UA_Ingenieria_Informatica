@@ -1,0 +1,831 @@
+ABILIFY 1MG/ML 150ML SOLUCION ORAL
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	ABILIFY 5 mg comprimidos
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 5 mg de aripiprazol.
+ Excipiente: 67 mg de lactosa por comprimido
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido
+Rectangular y azul, grabado con ""A-007"" y ""5"" en una cara.
+ 
+
+"
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ ABILIFY está indicado en el tratamiento de la esquizofrenia.
+ABILIFY está indicado para el tratamiento de los episodios maníacos moderados o severos en
+pacientes con trastorno bipolar I y en la prevención de nuevos episodios maníacos en pacientes que
+presentaron episodios predominantemente maníacos y que respondieron al tratamiento con aripiprazol
+(ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ Por vía oral.
+ Esquizofrenia:
+La dosis recomendada de inicio de ABILIFY es de 10 ó 15 mg/día con una dosis de mantenimiento de
+15 mg/día administrada como una única dosis diaria independientemente de las comidas.
+ ABILIFYes eficaz en un rango de dosis de 10 a 30 mg/día. No se ha demostrado un aumento de la
+eficacia con dosis mayores a la dosis diaria de 15 mg, aunque algunos pacientes pueden beneficiarse
+de dosis mayores. La dosis máxima diaria no deberá exceder 30 mg/día.
+ Episodios maníacos:
+La dosis de inicio recomendada de ABILIFY es de 15 mg administrada como una única dosis diaria
+independientemente de las comidas en monoterapia o terapia combinada (ver apartado 5.1). Algunos
+pacientes podrían beneficiarse de dosis mayores. La dosis máxima diaria no deberá exceder 30 mg.
+ Prevención de recaídas de episodios maníacos en trastorno bipolar I:
+Para prevenir las recaídas de episodios maníacos en pacientes que han estado tomando aripiprazol,
+continuar con la misma dosis. Se deben considerar ajustes de la posología diaria, incluyendo reducción
+de la dosis, según el estado clínico.
+ Niños y adolescentes: no hay experiencia en niños ni adolescentes menores de 18 años.
+ Pacientes con insuficiencia hepática: no es necesario un ajuste de dosis en pacientes que presentan
+insuficiencia hepática leve a moderada. En pacientes que presentan insuficiencia hepática grave, los
+datos disponibles son insuficientes para establecer recomendaciones. En estos pacientes debe ajustarse
+                                                     2
+la dosis cuidadosamente. Sin embargo, se debe utilizar la dosis máxima de 30 mg/día con precaución
+en pacientes que presentan insuficiencia hepática grave (ver apartado 5.2).
+ Pacientes con insuficiencia renal: no es necesario un ajuste de dosis en pacientes que presentan
+insuficiencia renal.
+ Personas de edad avanzada: la eficacia de ABILIFY en el tratamiento de esquizofrenia y trastorno
+bipolar I en pacientes de 65 años o más no ha sido establecida. Debido a una mayor sensibilidad en
+esta población se debe considerar una dosis inicial menor si lo justifican los factores clínicos (ver apartado 4.4).
+ Sexo: no es necesario ajustar la dosis en función del sexo (ver apartado 5.2).
+ Fumadores: no es necesario un ajuste de dosis en pacientes fumadores debido al metabolismo de
+ABILIFY (ver apartado 4.5).
+ Cuando se administra conjuntamente aripiprazol con potentes inhibidores de CYP3A4 o CYP2D6,
+debe reducirse la dosis de aripiprazol. Cuando se deje el tratamiento conjunto con inhibidores de
+CYP3A4 ó CYP2D6, la dosis de aripiprazol debe ser aumentada (ver apartado 4.5).
+ Cuando se administra conjuntamente aripiprazol con potentes inductores de CYP3A4, la dosis de
+aripiprazol debe aumentarse. Cuando se deje el tratamiento combinado con inductores de CYP3A4 la
+dosis de aripiprazol debe entonces reducirse a la dosis recomendada (ver apartado 4.5).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ La mejoría clínica del paciente durante el tratamiento antipsicótico, puede tardar entre varios días a
+algunas semanas. Los pacientes deben estar estrechamente controlados durante este periodo.
+ La aparición de comportamiento suicida es inherente a las patologías psicóticas y trastornos del estado
+de ánimo y en algunos casos han sido notificados algunos casos tempranos tras la administración
+inicial o cambio de terapias antipsicóticas, incluyendo el tratamiento con aripiprazol (ver apartado 4.8).
+Debe realizarse una supervisión estrecha de los pacientes de alto riesgo cuando son tratados con
+antipsicóticos.Los resultados de un estudio epidemiológico demostraron que no se incrementó el
+riesgo de suicidio con aripiprazol comparado con otros antipsicóticos entre pacientes con trastorno
+bipolar.
+ Alteraciones cardiovasculares: aripiprazol debe ser utilizado con precaución en pacientes que
+presentan enfermedad cardiovascular conocida (historia de infarto de miocardio o enfermedad
+isquémica cardiaca, fallo cardíaco, o anormalidades de la conducción), enfermedad cerebrovascular,
+condiciones en las que puede predisponerse a pacientes a la hipotensión (deshidratación, hipovolemia,
+y tratamiento con medicación antihipertensiva) o hipertensión, incluyendo acelerada o maligna.
+ Anormalidades de la conducción: en ensayos clínicos de aripiprazol, la incidencia de la prolongación
+del intervalo QT fue comparable al placebo. Como con otros antipsicóticos, aripiprazol debe ser
+utilizado con precaución en pacientes con historia familiar de prolongación del intervalo QT.
+ Discinesia tardía: en ensayos clínicos de hasta un año de duración, se han notificado casos poco
+frecuentes de discinesia durante el tratamiento con aripiprazol. Si aparecen signos y síntomas de
+discinesia tardía en un paciente tratado con ABILIFY, se debe considerar una reducción de dosis o la
+interrupción del tratamiento. Estos síntomas pueden empeorar temporalmente o incluso pueden
+manifestarse después de la interrupción del tratamiento.
+ Síndrome Neuroléptico Maligno (SNM): SNM es un complejo de síntomas potencialmente mortal
+asociado con fármacos antipsicóticos. En ensayos clínicos se han notificado casos raros de SNM
+durante el tratamiento con aripiprazol. Las manifestaciones clínicas del SNM son hipertermia, rigidez
+muscular, estado mental alterado y evidencia de inestabilidad autonómica (pulso o presión sanguínea
+irregular, taquicardia, diaforesis y disritmia cardíaca). Los signos adicionales pueden incluir un
+aumento de creatina fosfoquinasa, mioglobinuria (rabdomiólisis), e insuficiencia renal aguda. También
+se han notificado elevaciones de la creatina fosfoquinasa y rabdomiólisis no necesariamente asociadas
+con el SNM. Si un paciente desarrolla signos y síntomas indicativos de SNM, o presenta una fiebre
+alta inexplicable sin manifestaciones clínicas adicionales de SNM, todos los medicamentos
+antipsicóticos, incluyendo ABILIFY deben ser interrumpidos.
+ Convulsiones: en ensayos clínicos se han notificado casos poco frecuentes de convulsiones durante el
+tratamiento con aripiprazol. Por lo tanto, se debe utilizar aripiprazol con precaución en pacientes
+epilépticos o con historia de convulsiones.
+ Pacientes de edad avanzada con psicosis relacionada con demencia:
+Aumento de mortalidad: en tres ensayos controlados con placebo (n= 938; edad media: 82,4 años;
+rango: 56-99 años) de aripiprazol en pacientes de edad avanzada con psicosis asociada a la enfermedad
+de Alzheimer, los pacientes tratados con aripiprazol presentaron mayor riesgo de muerte comparado
+con placebo. El porcentaje de muerte en pacientes tratados con aripiprazol fue del 3,5% comparado
+con el 1,7% del grupo placebo. Aunque las causas de muerte fueron variadas, la mayoría de las
+muertes parecieron ser de naturaleza cardiovascular (por ejemplo, fallo cardíaco, muerte súbita) o
+infecciosa (por ejemplo, pneumonía).
+Reacciones adversas cerebrovasculares: en los mismos ensayos, se notificaron reacciones adversas
+cerebrovasculares (por ejemplo ictus, crisis isquémica transitoria), incluyendo casos con desenlace
+fatal (media de edad: 84 años; rango: 78-88 años). En total, en estos ensayos, un 1,3% de los pacientes
+tratados con aripiprazol notificaron reacciones adversas cerebrovasculares en comparación con un
+0,6% de los pacientes tratados con placebo. Esta diferencia no fue estadísticamente significativa. Sin
+embargo, en uno de estos ensayos, un ensayo de dosis fijas, hubo una relación dosis respuesta
+significativa para las reacciones adversas cerebrovasculares en pacientes tratados con aripiprazol.
+ABILIFY no está aprobado para el tratamiento de la psicosis relacionada con demencia.
+ Hiperglucemia y Diabetes Mellitus: se ha notificado hiperglucemia, en algunos casos extrema y
+asociada con cetoacidosis o coma hiperosmolar o muerte, en pacientes tratados con antipsicóticos
+atípicos, incluyendo ABILIFY. Los factores de riesgo que pueden predisponer a los pacientes a
+padecer complicaciones graves incluyen la obesidad y la historia familiar de diabetes. En los ensayos
+clínicos con aripiprazol, no hubo diferencias significativas en la tasa de incidencia de reacciones
+adversas hiperglucémicas (incluyendo diabetes) en los valores clínicos anómalos de glucemia en
+comparación con placebo. No se dispone de la valoración del riesgo exacto de reacciones adversas
+hiperglucémicas que permita la comparación directa entre pacientes tratados con ABILIFY y pacientes
+tratados con otros antipsicóticos atípicos. Se debe prestar atención a los signos y síntomas de
+hiperglucemia (como polidipsia, poliuria, polifagia y debilidad), en pacientes tratados con
+antipsicóticos, incluyendo ABILIFY, y se debe monitorizar regularmente en pacientes con diabetes
+mellitus o con factores de riesgo de diabetes mellitus por el empeoramiento del control de glucosa.
+ Aumento de peso: el aumento de peso se ve comúnmente en pacientes con esquizofrenia y manía
+bipolar debido a la co-morbilidad, uso de antipsicóticos conocidos que causan aumento de peso, estilo
+de vida poco saludable, y puede conducir a complicaciones graves. El aumento de peso ha sido
+notificado en la post- comercialización entre pacientes a los que se les prescribe ABILIFY. Cuando se
+han visto, han sido habitualmente en aquellos con factores significativos de riesgo tales como historia
+de diabetes, alteraciones tiroideas o adenoma de la pituitaria. En ensayos clínicos con aripiprazol no se
+ha mostrado que induzcan a aumento de peso clínicamente relevante (ver apartado 5.1).
+ Disfagia: dismotilidad esofágica y aspiración han sido asociadas con la utilización de antipsicóticos
+incluyendo ABILIFY. Aripiprazol y con otros medicamentos antipsicóticos deben ser utilizados con
+precaución en pacientes con riesgo de neumonía por aspiración.
+ Lactosa: los pacientes con problemas hereditarios poco frecuentes de intolerancia a la galactosa,
+insuficiencia de lactasa o malabsorción de glucosa-galactosa no deben tomar este medicamento.
+ Hipersensibilidad: como con con otros medicamentos pueden aparacer reacciones de hipersensibilidad con
+aripiprazol, caracterizadas por síntomas alérgicos (ver apartado 4.8).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Debido al antagonismo del receptor 1-adrenérgico, aripiprazol puede aumentar los efectos de ciertos
+agentes antihipertensivos.
+ Debido a la acción principal de aripiprazol en el SNC, se debe utilizar aripiprazol con precaución
+cuando se utilice en combinación con alcohol u con otros medicamentos de acción central, ya que se
+solapan las reacciones adversas como sedación (ver apartado 4.8).
+ Debe utilizarse con precaución la administración concomitante de aripiprazol con otros fármacos que
+produzcan prolongación del intervalo QT o trastornos electrolíticos.
+ Interacción de con otros medicamentos con ABILIFY:
+ Famotidina, antagonista H2, bloqueante de los ácidos gástricos, reduce la tasa de absorción de
+aripiprazol, pero se considera que este efecto no es clínicamente significativo.
+ Aripiprazol se metaboliza por múltiples vías involucrando los enzimas CYP2D6 y CYP3A4 pero no el
+enzima CYP1A. Por lo tanto, no es necesario un ajuste de dosis en fumadores.
+ En un ensayo clínico en sujetos sanos, un potente inhibidor de CYP2D6 (quinidina) aumentó el AUC
+de aripiprazol en 107%, mientras que la Cmax no varió. El AUC y la Cmax de dehidro-aripiprazol, el
+metabolito activo, disminuyeron un 32% y un 47%, respectivamente. La dosis de ABILIFY se debe
+reducir a la mitad de la dosis prescrita si se administra ABILIFY conjuntamente con quinidina. Otros
+potentes inhibidores de CYP2D6, como fluoxetina o paroxetina, posiblemente tengan efectos similares
+y se deben administrar, por lo tanto, reducciones similares de dosis.
+ En un ensayo clínico en sujetos sanos, un potente inhibidor de CYP3A4 (ketoconazol) aumentó el
+AUC y la Cmax de aripiprazol en 63% y 37%, respectivamente. Aumentó el AUC y la Cmax de
+dehidro-aripiprazol en 77% y 43%, respectivamente. En metabolizadores lentos de CYP2D6, el uso
+concomitante de potentes inhibidores de CYP3A4 puede aumentar las concentraciones plasmáticas de
+aripiprazol comparado con metabolizadores rápidos de CYP2D6. Cuando se considere la
+administración concomitante de ketoconazol u otro potente inhibidor CYP3A4 con ABILIFY el
+posible beneficio debe estar por encima del posible riesgo para el paciente. Si se administra
+ketoconazol junto con ABILIFY, la dosis de ABILIFY se debe reducir a la mitad de la dosis prescrita.
+Con otros potentes inhibidores de CYP3A4 como itraconazol e inhibidores de la proteasa VIH, se
+pueden esperar efectos similares y se deben administrar, por lo tanto, reducciones similares de dosis.
+ En caso de interrupción del inhibidor CYP2D6 ó 3A4, se debe aumentar la dosis de ABILIFY hasta el
+nivel anterior a la iniciación del tratamiento concomitante.
+ Se pueden esperar pequeños aumentos de las concentraciones de aripiprazol cuando se utiliza de forma
+concomitante con inhibidores débiles del CYP3A4 (por ejemplo, diltiazem o escitalopram) o del
+CYP2D6.
+ Después de una administración concomitante con carbamazepina, un potente inductor de CYP3A4, las
+medias geométricas de Cmax y AUC para aripiprazol fueron 68% y 73% más bajas, respectivamente, si
+se compara con la administración de aripiprazol (30 mg) sólo. Del mismo modo, las medias
+geométricas de Cmax y AUC para dehidro-aripiprazol después de la co-administración de
+carbamazepina fueron 69% y 71% más bajas, respectivamente, que las de un tratamiento con
+aripiprazol sólo.
+                                                    5
+La dosis de ABILIFY debe ser duplicada cuando se administra conjuntamente con carbamazepina. De
+otros potentes inductores de CYP3A4 (tales como rifampicina, rifabutina, fenitoina, fenobarbital,
+primidona, efavirenz, nevirapina y Hierba de San Juan (Hypericum perforatum) se deben esperar
+efectos similares y se deben administrar, por lo tanto, aumentos similares de dosis. En cuanto se
+suspendan los inductores potentes de CYP3A4 la dosis de ABILIFY debe ser reducida a la dosis
+recomendada.
+ No se han encontrado cambios clínicamente significativos si se administra conjuntamente aripiprazol
+con valproato o litio.
+ Interacción de ABILIFY con con otros medicamentos:
+ En ensayos clínicos, dosis de aripiprazol de 10-30 mg/día no tuvieron efectos significativos sobre el
+metabolismo de los substratos CYP2D6 (índice dextrometorfano/3-metoximorfinano), 2C9
+(warfarina), 2C19 (omeprazol) y 3A4 (dextrometorfano). Además aripiprazol y dehidro-aripiprazol no
+modifican el metabolismo mediado por CYP1A2, in vitro. Por lo tanto, es improbable que aripiprazol
+provoque interacciones medicamentosas clínicamente importantes mediadas por estos enzimas.
+ Cuando se administra aripiprazol conjuntamente con valproato o litio, no se han encontrado cambios
+clínicamente significativos en las concentraciones de valproato o litio.
+ 4.6   Embarazo y lactancia
+ No hay ensayos en mujeres embarazadas bien controlados y adecuados con aripiprazol. Estudios en
+animales, no pueden excluir el desarrollo potencial de toxicidad (ver apartado 5.3). Las pacientes deben
+notificar a su médico si están embarazadas o tienen intención de quedarse embarazadas durante el
+tratamiento con aripiprazol. Debido a información de seguridad insuficiente en humanos y datos
+inciertos en estudios de reproducción animal, este medicamento no debe utilizarse en el embarazo, a
+menos que el beneficio esperado justifique claramente un riesgo potencial en el feto.
+ Aripiprazol se excreta en la leche de ratas tratadas durante la lactancia. Se desconoce si aripiprazol se
+excreta en la leche humana. Se debe advertir a las pacientes que no den el pecho si están tomando
+aripiprazol.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas. Sin
+embargo, al igual que con otros antipsicóticos, los pacientes deben tener cuidado al utilizar máquinas
+peligrosas, incluyendo vehículos a motor, hasta que tengan la certeza de que aripiprazol no les afecta
+negativamente.
+ 4.8   Reacciones adversas
+ Las siguientes reacciones adversas se producen con más frecuencia ( 1/100) que con placebo, o
+fueron identificadas como reacciones adversas de posible relevancia médica (*):
+La frecuencia de reacciones adversas listadas a continuación se definen siguiendo la siguiente
+clasificación: frecuentes ( 1/100, < 1/10) y poco frecuentes ( 1/1,000, < 1/100).
+ Trastornos cardíacos:
+Poco frecuentes: taquicardia*
+Trastornos del sistema nervioso:
+Frecuentes: trastorno extrapiramidal, acatisia, temblor, vértigo, somnolencia, sedación, dolor de
+cabeza
+Trastornos oculares:
+Frecuentes: visión borrosa
+Trastornos gastrointestinales:
+Frecuentes: dispepsia, vómitos, náuseas, estreñimiento, hipersecreción salivar
+Trastornos vasculares:
+Poco frecuentes: hipotensión ortostática*
+Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes: fatiga
+Trastornos psiquiátricos:
+Frecuentes: agitación, insomnio, ansiedad
+ Síntomas extrapiramidales (SEP): Esquizofrenia - en un ensayo controlado a largo plazo de 52
+semanas, los pacientes tratados con aripiprazol tuvieron una incidencia global menor (25,8%) de SEP
+incluyendo parkinsonismo, acatisia, distonía y discinesia, comparados con aquellos tratados con
+haloperidol (57,3%). En un ensayo controlado con placebo a largo plazo, de 26 semanas, la incidencia
+de SEP fue de 19% para pacientes tratados con aripiprazol y 13,1% para pacientes tratados con
+placebo. En otro ensayo controlado a largo plazo de 26 semanas, la incidencia de SEP fue de 14,8%
+para pacientes tratados con aripiprazol y 15,1% para pacientes tratados con olanzapina. Episodios
+maníacos en Trastorno Bipolar I - en un ensayo controlado de 12 semanas de duración, la incidencia
+de SEP fue de 23,5% en pacientes tratados con aripiprazol y de 53,3 % en pacientes tratados con
+haloperidol. En otro ensayo, también de 12 semanas de duración, la incidencia de SEP fue de 26,6%
+en pacientes tratados con aripiprazol y de 17,6% para aquellos tratados con litio. En la fase de
+mantenimiento a largo plazo de 26 semanas de duración de un ensayo controlado con placebo, la
+incidencia de SEP fue de 18,2% en pacientes tratados con aripiprazol y de 15,7% en pacientes tratados
+con placebo.
+ En ensayos controlados con placebo, la incidencia de acatisia en pacientes con trastorno bipolar fue de
+12,1% en los tratados con aripiprazol y de 3,2% en aquellos que recibieron placebo. En pacientes con
+esquizofrenia la incidencia de acatisia fue de 6,2% para aripiprazol y de 3,0% para placebo.
+ La comparación entre aripiprazol y placebo en aquella proporción de pacientes que experimentan
+potencialmente cambios clínicamente significativos en los parámetros rutinarios de laboratorio no
+revelan ninguna diferencia médica importante. Se observaron aumentos de CPK (Creatina
+Fosfoquinasa), generalmente transitorios y asintomáticos, en el 3,5% de pacientes tratados con
+aripiprazol en comparación al 2,0% de pacientes que recibieron placebo.
+ Otros hallazgos:
+Se han notificado efectos no deseados durante el tratamiento con aripiprazol que son conocidos en
+asociación con la terapia antipsicótica, incluyendo el síndrome neuroléptico maligno, discinesia tardía,
+convulsiones, acontecimientos adversos cerebrovasculares y aumento de mortalidad en pacientes
+ancianos con demencia, hiperglucemia y diabetes mellitus (ver apartado 4.4).
+ Post-comercialización:
+Se han notificado los siguientes efectos adversos durante la vigilancia post-comercialización. Se
+desconoce la frecuencia de estos efectos (no se puede estimar a partir de los datos disponibles).
+ Exploraciones complementarias:              aumento de creatina fosfoquinasa, aumento de los niveles
+ Trastornos cardiacos:                       prolongación del intervalo QT, arritmia ventricular,
+ Trastornos de la sangre y del sistema       leucopenia, neutropenia, trombocitopenia
+linfático:
+ Trastornos del sistema nervioso:            trastornos del lenguaje, síndrome neuroléptico maligno
+ Trastornos respiratorios, torácicos y       espasmo orofaríngeo, laringoespasmo, neumonia de
+mediastínicos:                              aspiración
+ Trastornos gastrointestinales:              pancreatitis, disfagia, molestia abdominal, malestar de
+ Trastornos renales y urinarios:             incontinencia urinaria, retención urinaria
+ Trastornos de la piel y del tejido          erupción cutánea, reacción de fotosensibilidad, alopecia,
+subcutáneo:                                 hiperhidrosis
+ Trastornos musculoesqueléticos y del
+tejido conjuntivo:                          rabdomiólisis, mialgia, rigidez
+ Trastornos endocrinos:                      hiperglicemia, diabetes mellitus, cetoacidosis diabética,
+ Trastornos del metabolismo y de la          aumento de peso, pérdida de peso, anorexia, hiponatremia
+nutrición:
+ Trastornos vasculares:                      Síncope, hipertensión, episodios tromboembólicos
+ Trastornos generales y alteraciones en el   trastorno de la regulación de la temperatura (por ejemplo,
+lugar de administración:                    hipotermia, pirexia), dolor torácico, edema periférico
+ Trastornos del sistema inmunológico:        reacciones alérgicas (por ejemplo, reacción anafiláctica,
+ Trastornos hepatobiliares:                  ictericia, hepatitis, aumento de alanina aminotransferasa
+ Trastornos del aparato reproductor y de
+la mama:                                    priapismo
+ Trastornos psiquiátricos:                   agitación, nerviosismo; intento de suicidio, ideación
+                                                     8
+4.9   Sobredosis
+ En ensayos clínicos y durante la experiencia post-comercialización se ha identificado sobredosis aguda
+involuntaria o voluntaria con solo aripiprazol, en pacientes adultos con dosis notificadas estimadas de
+hasta 1260 mg sin ningún desenlace fatal. Los signos y síntomas de potencial importancia clínica
+observados incluyeron letargia, aumento de la presión sanguínea, somnolencia, taquicardia, náuseas,
+vómitos, y diarrea Además, se han recibido informes de sobredosis involuntaria accidental con solo
+aripiprazol (hasta 195 mg) en niños sin ningún desenlace fatal. Los signos y síntomas médicos
+potencialmente graves notificados incluyeron somnolencia, pérdida del conocimiento transitorio y
+síntomas extrapiramidales.
+ El tratamiento de la sobredosis debe concentrarse en una terapia de sostén, manteniendo una adecuada
+aireación, oxigenación y ventilación, y tratamiento sintomático. Se debe considerar la posibilidad de
+múltiples medicamentos implicados. Entonces, se debe empezar inmediatamente la monitorización
+cardiovascular y se debe incluir la monitorización electrocardiográfica continua para detectar posibles
+arritmias. En cualquier confirmación o sospecha de sobredosis con aripiprazol, la monitorización y
+supervisión médica debe continuar hasta la recuperación del paciente.
+ Carbón activado (50 g) administrado una hora después de aripiprazol, disminuyó la Cmax en 41% y el
+AUC de aripiprazol en el 51%, esto sugiere que el carbón puede ser eficaz en el tratamiento de la
+sobredosis.
+ Aunque no hay información sobre los efectos de la hemodiálisis al tratar una sobredosis de aripiprazol,
+es improbable que sea útil en el tratamiento de la sobredosis dado que aripiprazol presenta una fuerte
+unión a proteínas plamáticas.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antipsicótico, código ATC: N05AX12
+ Se ha propuesto que la eficacia de aripiprazol en esquizofrenia y trastorno bipolar I está mediada a
+través de una combinación agonista parcial de los receptores D2 de la dopamina y 5HT1a de la
+serotonina y un antagonismo con los receptores 5HT2a de la serotonina. Aripiprazol presenta las
+propiedades de un antagonista en modelos animales de hiperactividad dopaminérgica y las
+propiedades de un agonista en modelos animales de hipoactividad dopaminérgica. Aripiprazol
+presenta in vitro una alta afinidad por los receptores D2 y D3 dopaminérgicos, 5HT1a y 5HT2a
+serotoninérgicos y una moderada afinidad por los receptores D4 dopaminérgicos, 5HT2c y 5HT7, -1
+adrenérgicos y H1 de la histamina. Aripiprazol presenta también una moderada afinidad por el lugar
+de recaptación de serotonina pero no se aprecia afinidad por los receptores muscarínicos. La
+interacción con otros receptores distintos de los subtipos de dopamina y serotonina puede explicar
+algunos de los otros efectos clínicos de aripiprazol.
+Dosis de aripiprazol desde 0,5 a 30 mg administrados una vez al día a voluntarios sanos durante
+2 semanas, produjo una reducción dosis dependiente en la unión del 11C-racloprida, que es un ligando
+del receptor D2/D3, al caudado y al putamen detectado por tomografía de emisión de positrones.
+ Información adicional sobre ensayos clínicos:
+Esquizofrenia:
+En tres ensayos de corta duración (de 4 a 6 semanas) controlados con placebo, con más de
+1.228 pacientes esquizofrénicos, que presentaban síntomas positivos o negativos, se observó una
+mejoría significativamente mayor con aripiprazol que con placebo en síntomas psicóticos.
+ ABILIFY es eficaz en el mantenimiento de la mejoría clínica durante el tratamiento de continuación,
+en pacientes que han mostrado una respuesta inicial al mismo. En un ensayo controlado con
+                                                    9
+haloperidol, la proporción de pacientes respondedores que mantienen la respuesta al medicamento en
+la semana 52, fue similar en ambos grupos (aripiprazol 77% y haloperidol 73%). La tasa de
+terminación global fue significativamente más alta para pacientes de aripiprazol (43%) que para
+haloperidol (30%). Las puntuaciones reales en las escalas de valoración utilizadas como objetivos
+secundarios (incluyendo PANNS y Escala de Valoración de Montgomery-Asberg) mostraron una
+mejoría significativa sobre haloperidol.
+En un ensayo de 26 semanas, controlado con placebo, en pacientes con esquizofrenia crónica estable,
+aripiprazol tuvo una reducción significativamente mayor en la tasa de recaída, 34% en el grupo de
+aripiprazol y 57% en el grupo placebo.
+ Aumento de peso: en ensayos clínicos no se ha demostrado que aripiprazol induzca a un aumento de
+peso clínicamente relevante. En un ensayo multinacional, doble ciego, de 26 semanas, controlado con
+olanzapina, en 314 pacientes con esquizofrenia, y donde el objetivo primario fue el aumento de peso,
+significativamente menos pacientes tuvieron al menos un 7% de aumento de peso sobre el basal (por
+ejemplo, un aumento de al menos 5,6 kg para un peso basal medio de aproximadamente 80,5 kg) con
+aripiprazol (N= 18 ó 13% de pacientes evaluables) comparados con olanzapina (N= 45 ó 33% de
+pacientes evaluables).
+ Episodios maníacos en pacientes con trastorno bipolar I tratados con aripiprazol:
+En dos ensayos en monoterapia de 3 semanas de duración, con titulación de la dosis y controlados con
+placebo, aripiprazol demostró una eficacia superior con respecto a placebo en la reducción de los
+síntomas maníacos más allá de las 3 semanas en pacientes que presentaban episodio maníaco o mixto
+de trastorno bipolar I. Estos ensayos incluyeron pacientes con o sin rasgos psicóticos y con o sin
+ciclación rápida.
+En un ensayo en monoterapia de 3 semanas de duración, a dosis fija y controlado con placebo,
+aripiprazol no logró demostrar una eficacia superior al placebo.
+ En dos ensayos en monoterapia de 12 semanas de duración controlados con placebo y fármaco activo,
+aripiprazol demostró una eficacia superior a placebo en la semana 3 y un mantenimiento del efecto
+comparable al del litio o el haloperidol en la semana 12 en pacientes que presentaban episodio
+maníaco o mixto de trastorno bipolar I, con o sin rasgos psicóticos. Asimismo, se obtuvieron
+resultados de eficacia con aripiprazol comparables a los del litio o el haloperidol en términos de
+proporción de pacientes en la remisión de síntomas de manía en la semana 12.
+ En un ensayo de 6 semanas controlado con placebo en pacientes que presentaban episodio maníaco o
+mixto de trastorno bipolar I, con o sin rasgos psicóticos, parcialmente no-respondedores a la
+monoterapia con litio o valproato durante 2 semanas a niveles plasmáticos terapéuticos, la adición de
+aripiprazol como tratamiento concomitante condujo a una eficacia superior en la reducción de los
+síntomas maníacos con respecto al tratamiento en monoterapia con litio o valproato.
+ En un ensayo de 26 semanas controlado con placebo, seguido de una extensión de 74 semanas, en
+pacientes maníacos que alcanzaron la remisión con aripiprazol durante una fase de estabilización
+previa a la randomización, aripiprazol demostró superioridad frente a placebo en la prevención de
+recaídas en trastorno bipolar, principalmente en la prevención de recaídas en manía, pero no logró
+demostrar superioridad frente a placebo en la prevención de recaídas en depresión.
+ 5.2   Propiedades farmacocinéticas
+ Absorción:
+Aripiprazol se absorbe bien y el pico plasmático se alcanza tras 3-5 horas de tomar la dosis.
+Aripiprazol sufre un metabolismo pre-sistémico mínimo. La biodisponibilidad oral absoluta de la
+formulación comprimido es del 87%. La farmacocinética de aripiprazol no se ve afectada por comidas
+con alto contenido en grasas.
+ Distribución:
+Aripiprazol se distribuye ampliamente por todo el cuerpo con un volumen aparente de distribución de
+4,9 l/kg, lo cual indica una extensa distribución extravascular. A concentraciones terapéuticas, la unión
+                                                    10
+de aripiprazol y dehidro-aripiprazol a las proteínas plasmáticas es superior al 99%, siendo ésta
+principalmente con la albúmina.
+ Metabolismo:
+Aripiprazol es metabolizado muy extensamente por el hígado, principalmente por tres vías de
+biotransformación: deshidrogenación, hidroxilación y N-dealquilación. Basados en estudios in vitro
+las enzimas CYP3A4 y CYP2D6 son responsables de la deshidrogenación e hidroxilación de
+aripiprazol y la N-dealquilación es catalizada por CYP3A4. Aripiprazol es el principal sustrato en la
+circulación sistémica. En niveles estables, el metabolito activo dehidro-aripiprazol representa
+aproximadamente el 40% del AUC de aripiprazol en plasma.
+ Eliminación:
+La semi-vida de eliminación media de aripiprazol es de aproximadamente 75 horas para
+metabolizadores rápidos del CYP2D6 y de aproximadamente de 146 horas para metabolizadores
+lentos del CYP2D6.
+ El aclaramiento corporal total de aripiprazol es de 0,7 ml/min/kg, y principalmente hepático.
+ Tras una única dosis oral de aripiprazol marcado con 14C, aproximadamente el 27% de la
+radioactividad administrada se recuperó en la orina y aproximadamente el 60% en las heces. Se
+excretó menos del 1% de aripiprazol inalterado en orina y aproximadamente un 18% se recuperó
+inalterado en las heces.
+ Farmacocinética en poblaciones especiales
+ Pacientes de edad avanzada:
+No hay diferencias en la farmacocinética de aripiprazol entre pacientes de edad vanzada sanos y
+adultos de menor edad, ni se detectó en un análisis farmacocinético de población, ningún efecto
+relacionado con la edad en pacientes esquizofrénicos.
+ Género:
+No hay diferencias en la farmacocinética de aripiprazol entre sujetos sanos masculinos y femeninos ni
+hay ningún efecto detectable en cuanto al sexo en un análisis farmacocinético de población en
+pacientes esquizofrénicos.
+ Raza y fumadores:
+Una evaluación farmacocinética de la población no demuestra ninguna evidencia clínica significativa
+relacionada con la raza ni el hecho de fumar o no con aripiprazol.
+ Trastornos renales:
+Las características farmacocinéticas de aripiprazol y dehidro-aripiprazol se han encontrado similares
+en pacientes que padecen insuficiencia renal severa en comparación con sujetos jóvenes sanos.
+ Trastornos hepáticos:
+En un estudio de dosis única en sujetos padeciendo varios niveles de cirrosis hepática (Child-Pugh
+clases A, B y C) no se ha detectado que la insuficiencia hepática tenga efectos significativos sobre la
+farmacocinética de aripiprazol y dehidro-aripiprazol, pero el estudio incluyó sólo 3 pacientes con
+cirrosis hepática clase C, esto es insuficiente para sacar conclusiones de su capacidad metabólica.
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos de los estudios no clínicos no muestran riesgos especiales para los seres humanos según los
+estudios convencionales de farmacología de seguridad, toxicidad a dosis repetidas, genotoxicidad,
+potencial carcinogénico, toxicidad para la reproducción.
+ Se observaron efectos toxicológicamente significativos sólo a dosis o exposiciones que excedían los
+límites de dosificación o de exposición máximos en humanos, indicando que estos efectos fueron
+limitados o sin relevancia clínica.
+ Estos incluían: toxicidad adrenocortical dosis dependiente (acumulación del pigmento lipofuscina y/o
+pérdida de células parenquimales) en ratas después de 104 semanas entre 20 y 60 mg/kg/día (3 a 10
+veces el AUC en el estado estacionario de la dosis máxima recomendada en humanos) y aumento de
+los carcinomas adrenocorticales y de la combinación de adenomas/carcinomas adrenocorticales en
+ratas hembras a 60 mg/kg/día (10 veces el AUC media en el estado estacionario de la dosis máxima
+recomendada para humanos).
+La exposición no tumorgénica en hembras de rata fue 7 veces más alta respecto a la exposición
+humana a la dosis recomendada.
+ Un hallazgo adicional fue el de la colelitiasis como consecuencia de la precipitación de conjugados de
+sulfato de hidroximetabolitos de aripiprazol en la bilis de monos después de una dosificación oral
+repetida de 25 a 125 mg/kg/día (1 a 3 veces el AUC media en niveles estables de la dosis clínicamente
+recomendada ó 16 a 81 veces la dosis máxima recomendada en humanos en mg/m2). Sin embargo, las
+concentraciones de los conjugados de sulfato de hidroxiaripiprazol en la bilis humana a la dosis
+máxima propuesta, 30 mg al día, no superaban el 6% de las concentraciones encontradas en la bilis de
+monos en el estudio de 39 semanas, estando muy por debajo (6%) de sus límites de solubilidad
+in vitro.
+ Basándose en los resultados de una serie completa de ensayos estándar de genotoxicidad, aripiprazol
+se consideró no genotóxico. Aripiprazol no redujo la fertilidad en estudios de toxicidad reproductiva.
+Se ha observado toxicidad en el desarrollo, incluidos retraso en la osificación fetal dosis-dependiente y
+posibles efectos teratógenos en ratas, a exposiciones de dosis subterapéuticas (basadas en AUC) y en
+conejos a exposiciones de dosis 3 a 11 veces el AUC media en niveles estables de la dosis clínica
+máxima recomendada. Se produjo toxicidad maternal a dosis similares que las encontradas para la
+toxicidad de desarrollo.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Lactosa monohidrato
+Almidón de maíz
+Celulosa microcristalina
+Hidroxipropilcelulosa
+Estearato de magnesio
+ Laca alumínica de índigo carmín (E132)
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 3 años
+ 6.4   Precauciones especiales de conservación
+ Conservar en el embalaje original para protegerlo de la humedad.
+ 6.5   Naturaleza y contenido del envase
+ Blister unidosis de aluminio en cajas de 14 x 1, 28 x 1, 49 x 1, 56 x 1, 98 x 1 comprimidos.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Otsuka Pharmaceutical Europe Ltd.
+Hunton House Highbridge Business Park, Oxford Road
+Uxbridge - Middlesex UB8 1HU - Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/04/276/001-005
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 4 de Junio de 2004
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ {Mes/año}
+ La información detallada de este medicamento está disponible en la pagina web de la Agencia Europea
+de Medicamentos (EMEA) http://www.emea.europa.eu/
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	ABILIFY 10 mg comprimidos
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 10 mg de aripiprazol.
+ Excipiente: 62,18 mg de lactosa por comprimido
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido
+Rectangular y rosa, grabado con ""A-008"" y ""10"" en una cara.
+ "
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ ABILIFY está indicado en el tratamiento de la esquizofrenia.
+ABILIFY está indicado para el tratamiento de los episodios maníacos moderados o severos en
+pacientes con trastorno bipolar I y en la prevención de nuevos episodios maníacos en pacientes que
+presentaron episodios predominantemente maníacos y que respondieron al tratamiento con aripiprazol
+(ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ Por vía oral.
+ Esquizofrenia:
+La dosis recomendada de inicio de ABILIFY es de 10 ó 15 mg/día con una dosis de mantenimiento de
+15 mg/día administrada como una única dosis diaria independientemente de las comidas.
+ ABILIFYes eficaz en un rango de dosis de 10 a 30 mg/día. No se ha demostrado un aumento de la
+eficacia con dosis mayores a la dosis diaria de 15 mg, aunque algunos pacientes pueden beneficiarse
+de dosis mayores. La dosis máxima diaria no deberá exceder 30 mg/día.
+ Episodios maníacos:
+La dosis de inicio recomendada de ABILIFY es de 15 mg administrada como una única dosis diaria
+independientemente de las comidas en monoterapia o terapia combinada (ver apartado 5.1). Algunos
+pacientes podrían beneficiarse de dosis mayores. La dosis máxima diaria no deberá exceder 30 mg.
+ Prevención de recaídas de episodios maníacos en trastorno bipolar I:
+Para prevenir las recaídas de episodios maníacos en pacientes que han estado tomando aripiprazol,
+continuar con la misma dosis. Se deben considerar ajustes de la posología diaria, incluyendo reducción
+de la dosis, según el estado clínico.
+ Niños y adolescentes: no hay experiencia en niños ni adolescentes menores de 18 años.
+ Pacientes con insuficiencia hepática: no es necesario un ajuste de dosis en pacientes que presentan
+insuficiencia hepática leve a moderada. En pacientes que presentan insuficiencia hepática grave, los
+datos disponibles son insuficientes para establecer recomendaciones. En estos pacientes debe ajustarse
+                                                     14
+la dosis cuidadosamente. Sin embargo, se debe utilizar la dosis máxima de 30 mg/día con precaución
+en pacientes que presentan insuficiencia hepática grave (ver apartado 5.2).
+ Pacientes con insuficiencia renal: no es necesario un ajuste de dosis en pacientes que presentan
+insuficiencia renal.
+ Personas de edad avanzada: la eficacia de ABILIFY en el tratamiento de esquizofrenia y trastorno
+bipolar I en pacientes de 65 años o más no ha sido establecida. Debido a una mayor sensibilidad en
+esta población se debe considerar una dosis inicial menor si lo justifican los factores clínicos (ver apartado 4.4).
+ Sexo: no es necesario ajustar la dosis en función del sexo (ver apartado 5.2).
+ Fumadores: no es necesario un ajuste de dosis en pacientes fumadores debido al metabolismo de
+ABILIFY (ver apartado 4.5).
+ Cuando se administra conjuntamente aripiprazol con potentes inhibidores de CYP3A4 o CYP2D6,
+debe reducirse la dosis de aripiprazol. Cuando se deje el tratamiento conjunto con inhibidores de
+CYP3A4 ó CYP2D6, la dosis de aripiprazol debe ser aumentada (ver apartado 4.5).
+ Cuando se administra conjuntamente aripiprazol con potentes inductores de CYP3A4, la dosis de
+aripiprazol debe aumentarse. Cuando se deje el tratamiento combinado con inductores de CYP3A4 la
+dosis de aripiprazol debe entonces reducirse a la dosis recomendada (ver apartado 4.5).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+ La mejoría clínica del paciente durante el tratamiento antipsicótico, puede tardar entre varios días a
+algunas semanas. Los pacientes deben estar estrechamente controlados durante este periodo.
+ La aparición de comportamiento suicida es inherente a las patologías psicóticas y trastornos del estado
+de ánimo y en algunos casos han sido notificados algunos casos tempranos tras la administración
+inicial o cambio de terapias antipsicóticas, incluyendo el tratamiento con aripiprazol (ver apartado 4.8).
+Debe realizarse una supervisión estrecha de los pacientes de alto riesgo cuando son tratados con
+antipsicóticos.Los resultados de un estudio epidemiológico demostraron que no se incrementó el
+riesgo de suicidio con aripiprazol comparado con otros antipsicóticos entre pacientes con trastorno
+bipolar.
+ Alteraciones cardiovasculares: aripiprazol debe ser utilizado con precaución en pacientes que
+presentan enfermedad cardiovascular conocida (historia de infarto de miocardio o enfermedad
+isquémica cardiaca, fallo cardíaco, o anormalidades de la conducción), enfermedad cerebrovascular,
+condiciones en las que puede predisponerse a pacientes a la hipotensión (deshidratación, hipovolemia,
+y tratamiento con medicación antihipertensiva) o hipertensión, incluyendo acelerada o maligna.
+ Anormalidades de la conducción: en ensayos clínicos de aripiprazol, la incidencia de la prolongación
+del intervalo QT fue comparable al placebo. Como con otros antipsicóticos, aripiprazol debe ser
+utilizado con precaución en pacientes con historia familiar de prolongación del intervalo QT.
+ Discinesia tardía: en ensayos clínicos de hasta un año de duración, se han notificado casos poco
+frecuentes de discinesia durante el tratamiento con aripiprazol. Si aparecen signos y síntomas de
+discinesia tardía en un paciente tratado con ABILIFY, se debe considerar una reducción de dosis o la
+interrupción del tratamiento. Estos síntomas pueden empeorar temporalmente o incluso pueden
+manifestarse después de la interrupción del tratamiento.
+ Síndrome Neuroléptico Maligno (SNM): SNM es un complejo de síntomas potencialmente mortal
+asociado con fármacos antipsicóticos. En ensayos clínicos se han notificado casos raros de SNM
+durante el tratamiento con aripiprazol. Las manifestaciones clínicas del SNM son hipertermia, rigidez
+muscular, estado mental alterado y evidencia de inestabilidad autonómica (pulso o presión sanguínea
+irregular, taquicardia, diaforesis y disritmia cardíaca). Los signos adicionales pueden incluir un
+aumento de creatina fosfoquinasa, mioglobinuria (rabdomiólisis), e insuficiencia renal aguda. También
+se han notificado elevaciones de la creatina fosfoquinasa y rabdomiólisis no necesariamente asociadas
+con el SNM. Si un paciente desarrolla signos y síntomas indicativos de SNM, o presenta una fiebre
+alta inexplicable sin manifestaciones clínicas adicionales de SNM, todos los medicamentos
+antipsicóticos, incluyendo ABILIFY deben ser interrumpidos.
+ Convulsiones: en ensayos clínicos se han notificado casos poco frecuentes de convulsiones durante el
+tratamiento con aripiprazol. Por lo tanto, se debe utilizar aripiprazol con precaución en pacientes
+epilépticos o con historia de convulsiones.
+ Pacientes de edad avanzada con psicosis relacionada con demencia:
+Aumento de mortalidad: en tres ensayos controlados con placebo (n= 938; edad media: 82,4 años;
+rango: 56-99 años) de aripiprazol en pacientes de edad avanzada con psicosis asociada a la enfermedad
+de Alzheimer, los pacientes tratados con aripiprazol presentaron mayor riesgo de muerte comparado
+con placebo. El porcentaje de muerte en pacientes tratados con aripiprazol fue del 3,5% comparado
+con el 1,7% del grupo placebo. Aunque las causas de muerte fueron variadas, la mayoría de las
+muertes parecieron ser de naturaleza cardiovascular (por ejemplo, fallo cardíaco, muerte súbita) o
+infecciosa (por ejemplo, pneumonía).
+Reacciones adversas cerebrovasculares: en los mismos ensayos, se notificaron reacciones adversas
+cerebrovasculares (por ejemplo ictus, crisis isquémica transitoria), incluyendo casos con desenlace
+fatal (media de edad: 84 años; rango: 78-88 años). En total, en estos ensayos, un 1,3% de los pacientes
+tratados con aripiprazol notificaron reacciones adversas cerebrovasculares en comparación con un
+0,6% de los pacientes tratados con placebo. Esta diferencia no fue estadísticamente significativa. Sin
+embargo, en uno de estos ensayos, un ensayo de dosis fijas, hubo una relación dosis respuesta
+significativa para las reacciones adversas cerebrovasculares en pacientes tratados con aripiprazol.
+ABILIFY no está aprobado para el tratamiento de la psicosis relacionada con demencia.
+ Hiperglucemia y Diabetes Mellitus: se ha notificado hiperglucemia, en algunos casos extrema y
+asociada con cetoacidosis o coma hiperosmolar o muerte, en pacientes tratados con antipsicóticos
+atípicos, incluyendo ABILIFY. Los factores de riesgo que pueden predisponer a los pacientes a
+padecer complicaciones graves incluyen la obesidad y la historia familiar de diabetes. En los ensayos
+clínicos con aripiprazol, no hubo diferencias significativas en la tasa de incidencia de reacciones
+adversas hiperglucémicas (incluyendo diabetes) en los valores clínicos anómalos de glucemia en
+comparación con placebo. No se dispone de la valoración del riesgo exacto de reacciones adversas
+hiperglucémicas que permita la comparación directa entre pacientes tratados con ABILIFY y pacientes
+tratados con otros antipsicóticos atípicos. Se debe prestar atención a los signos y síntomas de
+hiperglucemia (como polidipsia, poliuria, polifagia y debilidad), en pacientes tratados con
+antipsicóticos, incluyendo ABILIFY, y se debe monitorizar regularmente en pacientes con diabetes
+mellitus o con factores de riesgo de diabetes mellitus por el empeoramiento del control de glucosa.
+ Aumento de peso: el aumento de peso se ve comúnmente en pacientes con esquizofrenia y manía
+bipolar debido a la co-morbilidad, uso de antipsicóticos conocidos que causan aumento de peso, estilo
+de vida poco saludable, y puede conducir a complicaciones graves. El aumento de peso ha sido
+notificado en la post- comercialización entre pacientes a los que se les prescribe ABILIFY. Cuando se
+han visto, han sido habitualmente en aquellos con factores significativos de riesgo tales como historia
+de diabetes, alteraciones tiroideas o adenoma de la pituitaria. En ensayos clínicos con aripiprazol no se
+ha mostrado que induzcan a aumento de peso clínicamente relevante (ver apartado 5.1).
+ Disfagia: dismotilidad esofágica y aspiración han sido asociadas con la utilización de antipsicóticos
+incluyendo ABILIFY. Aripiprazol y con otros medicamentos antipsicóticos deben ser utilizados con
+precaución en pacientes con riesgo de neumonía por aspiración.
+ Lactosa: los pacientes con problemas hereditarios poco frecuentes de intolerancia a la galactosa,
+insuficiencia de lactasa o malabsorción de glucosa-galactosa no deben tomar este medicamento.
+ Hipersensibilidad: como con con otros medicamentos pueden aparacer reacciones de hipersensibilidad con
+aripiprazol, caracterizadas por síntomas alérgicos (ver apartado 4.8).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Debido al antagonismo del receptor 1-adrenérgico, aripiprazol puede aumentar los efectos de ciertos
+agentes antihipertensivos.
+ Debido a la acción principal de aripiprazol en el SNC, se debe utilizar aripiprazol con precaución
+cuando se utilice en combinación con alcohol u con otros medicamentos de acción central, ya que se
+solapan las reacciones adversas como sedación (ver apartado 4.8).
+ Debe utilizarse con precaución la administración concomitante de aripiprazol con otros fármacos que
+produzcan prolongación del intervalo QT o trastornos electrolíticos.
+ Interacción de con otros medicamentos con ABILIFY:
+ Famotidina, antagonista H2, bloqueante de los ácidos gástricos, reduce la tasa de absorción de
+aripiprazol, pero se considera que este efecto no es clínicamente significativo.
+ Aripiprazol se metaboliza por múltiples vías involucrando los enzimas CYP2D6 y CYP3A4 pero no el
+enzima CYP1A. Por lo tanto, no es necesario un ajuste de dosis en fumadores.
+ En un ensayo clínico en sujetos sanos, un potente inhibidor de CYP2D6 (quinidina) aumentó el AUC
+de aripiprazol en 107%, mientras que la Cmax no varió. El AUC y la Cmax de dehidro-aripiprazol, el
+metabolito activo, disminuyeron un 32% y un 47%, respectivamente. La dosis de ABILIFY se debe
+reducir a la mitad de la dosis prescrita si se administra ABILIFY conjuntamente con quinidina. Otros
+potentes inhibidores de CYP2D6, como fluoxetina o paroxetina, posiblemente tengan efectos similares
+y se deben administrar, por lo tanto, reducciones similares de dosis.
+ En un ensayo clínico en sujetos sanos, un potente inhibidor de CYP3A4 (ketoconazol) aumentó el
+AUC y la Cmax de aripiprazol en 63% y 37%, respectivamente. Aumentó el AUC y la Cmax de
+dehidro-aripiprazol en 77% y 43%, respectivamente. En metabolizadores lentos de CYP2D6, el uso
+concomitante de potentes inhibidores de CYP3A4 puede aumentar las concentraciones plasmáticas de
+aripiprazol comparado con metabolizadores rápidos de CYP2D6. Cuando se considere la
+administración concomitante de ketoconazol u otro potente inhibidor CYP3A4 con ABILIFY el
+posible beneficio debe estar por encima del posible riesgo para el paciente. Si se administra
+ketoconazol junto con ABILIFY, la dosis de ABILIFY se debe reducir a la mitad de la dosis prescrita.
+Con otros potentes inhibidores de CYP3A4 como itraconazol e inhibidores de la proteasa VIH, se
+pueden esperar efectos similares y se deben administrar, por lo tanto, reducciones similares de dosis.
+ En caso de interrupción del inhibidor CYP2D6 ó 3A4, se debe aumentar la dosis de ABILIFY hasta el
+nivel anterior a la iniciación del tratamiento concomitante.
+ Se pueden esperar pequeños aumentos de las concentraciones de aripiprazol cuando se utiliza de forma
+concomitante con inhibidores débiles del CYP3A4 (por ejemplo, diltiazem o escitalopram) o del
+CYP2D6.
+ Después de una administración concomitante con carbamazepina, un potente inductor de CYP3A4, las
+medias geométricas de Cmax y AUC para aripiprazol fueron 68% y 73% más bajas, respectivamente, si
+se compara con la administración de aripiprazol (30 mg) sólo. Del mismo modo, las medias
+geométricas de Cmax y AUC para dehidro-aripiprazol después de la co-administración de
+carbamazepina fueron 69% y 71% más bajas, respectivamente, que las de un tratamiento con
+aripiprazol sólo.
+                                                   17
+La dosis de ABILIFY debe ser duplicada cuando se administra conjuntamente con carbamazepina. De
+otros potentes inductores de CYP3A4 (tales como rifampicina, rifabutina, fenitoina, fenobarbital,
+primidona, efavirenz, nevirapina y Hierba de San Juan (Hypericum perforatum) se deben esperar
+efectos similares y se deben administrar, por lo tanto, aumentos similares de dosis. En cuanto se
+suspendan los inductores potentes de CYP3A4 la dosis de ABILIFY debe ser reducida a la dosis
+recomendada.
+ No se han encontrado cambios clínicamente significativos si se administra conjuntamente aripiprazol
+con valproato o litio.
+ Interacción de ABILIFY con con otros medicamentos:
+ En ensayos clínicos, dosis de aripiprazol de 10-30 mg/día no tuvieron efectos significativos sobre el
+metabolismo de los substratos CYP2D6 (índice dextrometorfano/3-metoximorfinano), 2C9
+(warfarina), 2C19 (omeprazol) y 3A4 (dextrometorfano). Además aripiprazol y dehidro-aripiprazol no
+modifican el metabolismo mediado por CYP1A2, in vitro. Por lo tanto, es improbable que aripiprazol
+provoque interacciones medicamentosas clínicamente importantes mediadas por estos enzimas.
+ Cuando se administra aripiprazol conjuntamente con valproato o litio, no se han encontrado cambios
+clínicamente significativos en las concentraciones de valproato o litio.
+ 4.6   Embarazo y lactancia
+ No hay ensayos en mujeres embarazadas bien controlados y adecuados con aripiprazol. Estudios en
+animales, no pueden excluir el desarrollo potencial de toxicidad (ver apartado 5.3). Las pacientes deben
+notificar a su médico si están embarazadas o tienen intención de quedarse embarazadas durante el
+tratamiento con aripiprazol. Debido a información de seguridad insuficiente en humanos y datos
+inciertos en estudios de reproducción animal, este medicamento no debe utilizarse en el embarazo, a
+menos que el beneficio esperado justifique claramente un riesgo potencial en el feto.
+ Aripiprazol se excreta en la leche de ratas tratadas durante la lactancia. Se desconoce si aripiprazol se
+excreta en la leche humana. Se debe advertir a las pacientes que no den el pecho si están tomando
+aripiprazol.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas. Sin
+embargo, al igual que con otros antipsicóticos, los pacientes deben tener cuidado al utilizar máquinas
+peligrosas, incluyendo vehículos a motor, hasta que tengan la certeza de que aripiprazol no les afecta
+negativamente.
+ 4.8   Reacciones adversas
+ Las siguientes reacciones adversas se producen con más frecuencia ( 1/100) que con placebo, o
+fueron identificadas como reacciones adversas de posible relevancia médica (*):
+La frecuencia de reacciones adversas listadas a continuación se definen siguiendo la siguiente
+clasificación: frecuentes ( 1/100, < 1/10) y poco frecuentes ( 1/1,000, < 1/100).
+ Trastornos cardíacos:
+Poco frecuentes: taquicardia*
+Trastornos del sistema nervioso:
+Frecuentes: trastorno extrapiramidal, acatisia, temblor, vértigo, somnolencia, sedación, dolor de
+cabeza
+Trastornos oculares:
+Frecuentes: visión borrosa
+Trastornos gastrointestinales:
+Frecuentes: dispepsia, vómitos, náuseas, estreñimiento, hipersecreción salivar
+Trastornos vasculares:
+Poco frecuentes: hipotensión ortostática*
+Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes: fatiga
+Trastornos psiquiátricos:
+Frecuentes: agitación, insomnio, ansiedad
+ Síntomas extrapiramidales (SEP): Esquizofrenia - en un ensayo controlado a largo plazo de 52
+semanas, los pacientes tratados con aripiprazol tuvieron una incidencia global menor (25,8%) de SEP
+incluyendo parkinsonismo, acatisia, distonía y discinesia, comparados con aquellos tratados con
+haloperidol (57,3%). En un ensayo controlado con placebo a largo plazo, de 26 semanas, la incidencia
+de SEP fue de 19% para pacientes tratados con aripiprazol y 13,1% para pacientes tratados con
+placebo. En otro ensayo controlado a largo plazo de 26 semanas, la incidencia de SEP fue de 14,8%
+para pacientes tratados con aripiprazol y 15,1% para pacientes tratados con olanzapina. Episodios
+maníacos en Trastorno Bipolar I - en un ensayo controlado de 12 semanas de duración, la incidencia
+de SEP fue de 23,5% en pacientes tratados con aripiprazol y de 53,3 % en pacientes tratados con
+haloperidol. En otro ensayo, también de 12 semanas de duración, la incidencia de SEP fue de 26,6%
+en pacientes tratados con aripiprazol y de 17,6% para aquellos tratados con litio. En la fase de
+mantenimiento a largo plazo de 26 semanas de duración de un ensayo controlado con placebo, la
+incidencia de SEP fue de 18,2% en pacientes tratados con aripiprazol y de 15,7% en pacientes tratados
+con placebo.
+ En ensayos controlados con placebo, la incidencia de acatisia en pacientes con trastorno bipolar fue de
+12,1% en los tratados con aripiprazol y de 3,2% en aquellos que recibieron placebo. En pacientes con
+esquizofrenia la incidencia de acatisia fue de 6,2% para aripiprazol y de 3,0% para placebo.
+ La comparación entre aripiprazol y placebo en aquella proporción de pacientes que experimentan
+potencialmente cambios clínicamente significativos en los parámetros rutinarios de laboratorio no
+revelan ninguna diferencia médica importante. Se observaron aumentos de CPK (Creatina
+Fosfoquinasa), generalmente transitorios y asintomáticos, en el 3,5% de pacientes tratados con
+aripiprazol en comparación al 2,0% de pacientes que recibieron placebo.
+ Otros hallazgos:
+Se han notificado efectos no deseados durante el tratamiento con aripiprazol que son conocidos en
+asociación con la terapia antipsicótica, incluyendo el síndrome neuroléptico maligno, discinesia tardía,
+convulsiones, acontecimientos adversos cerebrovasculares y aumento de mortalidad en pacientes
+ancianos con demencia, hiperglucemia y diabetes mellitus (ver apartado 4.4).
+ Post-comercialización:
+Se han notificado los siguientes efectos adversos durante la vigilancia post-comercialización. Se
+desconoce la frecuencia de estos efectos (no se puede estimar a partir de los datos disponibles).
+ Exploraciones complementarias:              aumento de creatina fosfoquinasa, aumento de los niveles
+ Trastornos cardiacos:                       prolongación del intervalo QT, arritmia ventricular,
+ Trastornos de la sangre y del sistema       leucopenia, neutropenia, trombocitopenia
+linfático:
+ Trastornos del sistema nervioso:            trastornos del lenguaje, síndrome neuroléptico maligno
+ Trastornos respiratorios, torácicos y       espasmo orofaríngeo, laringoespasmo, neumonia de
+mediastínicos:                              aspiración
+ Trastornos gastrointestinales:              pancreatitis, disfagia, molestia abdominal, malestar de
+ Trastornos renales y urinarios:             incontinencia urinaria, retención urinaria
+ Trastornos de la piel y del tejido          erupción cutánea, reacción de fotosensibilidad, alopecia,
+subcutáneo:                                 hiperhidrosis
+ Trastornos musculoesqueléticos y del
+tejido conjuntivo:                          rabdomiólisis, mialgia, rigidez
+ Trastornos endocrinos:                      hiperglicemia, diabetes mellitus, cetoacidosis diabética,
+ Trastornos del metabolismo y de la          aumento de peso, pérdida de peso, anorexia, hiponatremia
+nutrición:
+ Trastornos vasculares:                      Síncope, hipertensión, episodios tromboembólicos
+ Trastornos generales y alteraciones en el   trastorno de la regulación de la temperatura (por ejemplo,
+lugar de administración:                    hipotermia, pirexia), dolor torácico, edema periférico
+ Trastornos del sistema inmunológico:        reacciones alérgicas (por ejemplo, reacción anafiláctica,
+ Trastornos hepatobiliares:                  ictericia, hepatitis, aumento de alanina aminotransferasa
+ Trastornos del aparato reproductor y de
+la mama:                                    priapismo
+ Trastornos psiquiátricos:                   agitación, nerviosismo; intento de suicidio, ideación
+                                                    20
+4.9   Sobredosis
+ En ensayos clínicos y durante la experiencia post-comercialización se ha identificado sobredosis aguda
+involuntaria o voluntaria con solo aripiprazol, en pacientes adultos con dosis notificadas estimadas de
+hasta 1260 mg sin ningún desenlace fatal. Los signos y síntomas de potencial importancia clínica
+observados incluyeron letargia, aumento de la presión sanguínea, somnolencia, taquicardia, náuseas,
+vómitos, y diarrea Además, se han recibido informes de sobredosis involuntaria accidental con solo
+aripiprazol (hasta 195 mg) en niños sin ningún desenlace fatal. Los signos y síntomas médicos
+potencialmente graves notificados incluyeron somnolencia, pérdida del conocimiento transitorio y
+síntomas extrapiramidales.
+ El tratamiento de la sobredosis debe concentrarse en una terapia de sostén, manteniendo una adecuada
+aireación, oxigenación y ventilación, y tratamiento sintomático. Se debe considerar la posibilidad de
+múltiples medicamentos implicados. Entonces, se debe empezar inmediatamente la monitorización
+cardiovascular y se debe incluir la monitorización electrocardiográfica continua para detectar posibles
+arritmias. En cualquier confirmación o sospecha de sobredosis con aripiprazol, la monitorización y
+supervisión médica debe continuar hasta la recuperación del paciente.
+ Carbón activado (50 g) administrado una hora después de aripiprazol, disminuyó la Cmax en 41% y el
+AUC de aripiprazol en el 51%, esto sugiere que el carbón puede ser eficaz en el tratamiento de la
+sobredosis.
+ Aunque no hay información sobre los efectos de la hemodiálisis al tratar una sobredosis de aripiprazol,
+es improbable que sea útil en el tratamiento de la sobredosis dado que aripiprazol presenta una fuerte
+unión a proteínas plamáticas.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antipsicótico, código ATC: N05AX12
+ Se ha propuesto que la eficacia de aripiprazol en esquizofrenia y trastorno bipolar I está mediada a
+través de una combinación agonista parcial de los receptores D2 de la dopamina y 5HT1a de la
+serotonina y un antagonismo con los receptores 5HT2a de la serotonina. Aripiprazol presenta las
+propiedades de un antagonista en modelos animales de hiperactividad dopaminérgica y las
+propiedades de un agonista en modelos animales de hipoactividad dopaminérgica. Aripiprazol
+presenta in vitro una alta afinidad por los receptores D2 y D3 dopaminérgicos, 5HT1a y 5HT2a
+serotoninérgicos y una moderada afinidad por los receptores D4 dopaminérgicos, 5HT2c y 5HT7, -1
+adrenérgicos y H1 de la histamina. Aripiprazol presenta también una moderada afinidad por el lugar
+de recaptación de serotonina pero no se aprecia afinidad por los receptores muscarínicos. La
+interacción con otros receptores distintos de los subtipos de dopamina y serotonina puede explicar
+algunos de los otros efectos clínicos de aripiprazol.
+Dosis de aripiprazol desde 0,5 a 30 mg administrados una vez al día a voluntarios sanos durante
+2 semanas, produjo una reducción dosis dependiente en la unión del 11C-racloprida, que es un ligando
+del receptor D2/D3, al caudado y al putamen detectado por tomografía de emisión de positrones.
+ Información adicional sobre ensayos clínicos:
+Esquizofrenia:
+En tres ensayos de corta duración (de 4 a 6 semanas) controlados con placebo, con más de
+1.228 pacientes esquizofrénicos, que presentaban síntomas positivos o negativos, se observó una
+mejoría significativamente mayor con aripiprazol que con placebo en síntomas psicóticos.
+ ABILIFY es eficaz en el mantenimiento de la mejoría clínica durante el tratamiento de continuación,
+en pacientes que han mostrado una respuesta inicial al mismo. En un ensayo controlado con
+                                                   21
+haloperidol, la proporción de pacientes respondedores que mantienen la respuesta al medicamento en
+la semana 52, fue similar en ambos grupos (aripiprazol 77% y haloperidol 73%). La tasa de
+terminación global fue significativamente más alta para pacientes de aripiprazol (43%) que para
+haloperidol (30%). Las puntuaciones reales en las escalas de valoración utilizadas como objetivos
+secundarios (incluyendo PANNS y Escala de Valoración de Montgomery-Asberg) mostraron una
+mejoría significativa sobre haloperidol.
+En un ensayo de 26 semanas, controlado con placebo, en pacientes con esquizofrenia crónica estable,
+aripiprazol tuvo una reducción significativamente mayor en la tasa de recaída, 34% en el grupo de
+aripiprazol y 57% en el grupo placebo.
+  
+	Todos los prospectos de medicamentos.

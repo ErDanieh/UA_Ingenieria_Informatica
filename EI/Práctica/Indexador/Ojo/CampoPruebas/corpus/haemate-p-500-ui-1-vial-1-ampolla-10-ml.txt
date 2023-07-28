@@ -1,0 +1,351 @@
+HAEMATE P 500 UI, 1 vial + 1 ampolla 10 ml
+	Información Basica del medicamento Toda la información del medicamento CSL Behring
+ FICHA TÉCNICA
+ 
+1.     NOMBRE DEL MEDICAMENTO
+	       HAEMATE® P 600 UI/250 UI
+Polvo y disolvente para solución para inyectable
+HAEMATE® P 1200 UI/500 UI
+Polvo y disolvente para solución para inyectable
+HAEMATE® P 2400 UI/1000 UI
+Polvo y disolvente para solución para inyectable
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       HAEMATE P se presenta como polvo liofilizado para solución inyectable conteniendo
+nominalmente 600, 1200 y 2400 UI de factor de von Willebrand y 250, 500 ó 1000 UI de
+factor VIII de la coagulación humano por vial.
+Cuando se reconstituyen HAEMATE P 600 UI/250 UI, 1200 UI/500 UI y 2400 UI/1000
+UI con los respectivos disolventes, 5, 10 y 15 mL de Agua para inyección, contienen
+aproximadamente:
+HAEMATE P 600 UI/250 UI: 120 UI de factor de von Willebrand y 50 UI de factor VIII de coagulación humano/mL.
+HAEMATE P 1200 UI/500 UI: 120 UI de factor de von Willebrand y 50 UI de factor VIII
+de coagulación humano/mL.
+HAEMATE P 2400 UI/1000 UI: 160 UI de factor de von Willebrand y 66,6 UI de factor
+VIII de coagulación humano/mL
+La potencia (UI) se determina por el método cromogénico de la Farmacopea Europea. La
+actividad específica de HAEMATE P es de aproximadamente, 2-6 UI factor VIII/mg de
+proteína.
+Para información sobre excipientes, véase Apartado 6. 1
+ 
+3.     FORMA FARMACÉUTICA
+	       Polvo y disolvente para solución inyectable.
+ 
+4.     DATOS CLÍNICOS
+	"       4.2 Posología y forma de administración.
+        Posología
+Enfermedad de von Willebrand
+La dosis debe ajustarse según la extensión y origen de la hemorragia. Como norma, se
+administrarán de 20 a 40 UI de factor VIII por kg de peso corporal (que corresponde a 48-
+96 UI de FVW:RCo por kg de peso corporal), ca da 8 a 12 horas. Debe tenerse en cuenta
+ que el riesgo de sangrado postoperatorio y/o puerperal puede prolongarse hasta 10 ó 12
+días, después de la intervención, o del parto.
+Cabe esperar que la administración de 1 UI FVW:RCo por kg de peso corporal produzca un
+aumento de la actividad de FVW:RCo de aproximadamente un 1,5% del valor normal.
+La cantidad a administrar debe ajustarse individualmente, según el efecto clínico obtenido.
+En ciertas circunstancias pueden necesitarse cantidades superiores a las calculadas, por
+ejemplo en el caso de la dosis inicial.
+Especialmente en intervenciones quirúrgicas mayores, es esencial controlar la terapia de
+sustitución mediante pruebas de coagulación.
+ Deficiencia de factor VIII
+La dosis y duración del tratamiento dependen de la gravedad de la alteración de la función
+hemostática, de la localización y gravedad de la hemorragia y del estado clínico del
+paciente.
+El número de unidades de factor VIII administradas se expresa en Unidades Internacionales
+(UI), en relación con el estándar de la Organización Mundial de la Salud (OMS) vigente
+para concentrados de factor VIII. La actividad plasmática de factor VIII se expresa como un
+porcentaje (en relación con el plasma humano normal) o en Unidades Internacionales ( en
+relación con un estándar internacional para factor VIII en plasma).
+La actividad de una unidad internacional de factor VIII es equivalente a la actividad del
+factor VIII contenido en 1 ml de plasma humano normal.
+El cálculo de la dosis necesaria de factor VIII se basa en la observación empírica de que 1
+UI de factor VIII por kg de peso corporal eleva la actividad plasmática de factor VIII en
+aproximadamente entre el 1,5% y el 2%. La dosis necesaria se determina mediante la
+fórmula siguiente:
+Dosis inicial:
+Unidades necesarias = peso corporal (kg) x aumento deseado de FVIII (%) (UI/dL) x 0,5
+La dosis y la frecuencia de la administración se establecerán siempre en función de la
+eficacia clínica observada en cada caso.
+En el caso de episodios hemorrágicos como los detallados a continuación, la actividad de
+factor VIII no debe ser inferior al nivel plasmático de actividad establecido (en % de
+plasma normal o UI/dL) en el período correspondiente. Puede emplearse la siguiente tabla
+como guía de dosificación en episodios hemorrágicos y cirugía:
+ Grado de la hemorragia/Tipo de Nivel de factor VIII                Frecuencia de dosificación
+cirugía                        requerido (%) o (UI/dL)             (horas)/ Duración de la
+Hemorragia
+Hemartrosis y sangrado muscular
+u oral menores
+Hemartrosis y hemorragia                       30-60%              Repetir la perfusión cada
+muscular o hematoma moderado                                       12-24 horas, durante 3-4
+Hemorragias con peligro para la               60-100%              Repetir la perfusión cada 8-
+vida                                                               24 horas hasta que el riesgo
+ Cirugía
+Menor
+incluyendo extracciones dentales
+Mayor
+ Se recomienda la determinación adecuada de los niveles plasmáticos de factor VIII durante
+todo el tratamiento a fin de calcular la dosis y la frecuencia de las perfusiones a administrar.
+Particularmente, en las intervenciones de cirugía mayor, es imprescindible una
+monitorización precisa de la terapia de sustitución, por medio de análisis de la coagulación
+(actividad plasmática de factor VIII).
+La respuesta individual de los pacientes a la terapia con factor VIII puede variar,
+alcanzándose diferentes niveles de recuperación in vivo y de semivida.
+En la profilaxis a largo plazo, para impedir hemorragias en pacientes con hemofilia A
+grave, deben administrarse dosis de 20 a 40 UI de factor VIII/kg de peso corporal a
+intervalos de 2 a 3 días.
+En algunos casos, especialmente en pacientes jóvenes puede ser necesario acortar los
+intervalos de administración, o usar dosis más elevadas.
+En los pacientes se debe controlar el desarrollo de inhibidores del factor VIII. Si no se
+obtienen los niveles de actividad plasmática de factor VIII esperados, o si el sangrado no se
+controla con la dosis adecuada, deben realizarse ensayos para determinar la presencia de
+inhibidores del factor VIII. En pacientes con elevados niveles de inhibidor, puede ser que la
+terapia con factor VIII no sea efectiva y deban considerarse otras opciones terapéuticas.
+Dichas terapias deberán realizarse bajo la supervisión de un médico con experiencia en el
+tratamiento de la hemofilia.
+Ver también 4.4.
+ Forma de administración
+ Reconstituir el preparado tal como se describe en el punto 6.6.
+Administrar inmediatamente, por inyección o perfusión intravenosa lenta (máximo 4
+ml/min),
+utilizando el equipo de venopunción que se adjunta con el producto, o un equipo idóneo
+para inyección, asegurándose de que no entre sangre en la jeringa llena.
+ 4.3 Contraindicaciones
+Se recomienda extremar la precaución en pacientes con alergia conocida a los componentes
+del preparado.
+ 4.4 Advertencias y precauciones especiales de empleo
+Al igual que con cualquier producto proteico para administración intravenosa, es posible
+que se produzcan reacciones de hipersensibilidad de tipo alérgico. El producto contiene
+trazas de otras proteínas humanas, además de factor VIII. Los pacientes deben ser
+informados acerca de los signos precoces de reacciones de hipersensibilidad que incluyen
+erupciones cutáneas que pueden llegar a urticaria generalizada, opresión torácica, dificultad
+                                                                                                    MINISTERIO
+al respirar, hipotensión y anafilaxia. Si se producen reacciones de este tipo, se recomienda
+interrumpir la administración del preparado y contactar inmediatamente con el médico.
+En caso de shock. se seguirán las recomendaciones vigentes para el tratamiento del mismo.
+Cuando se administran medicamentos derivados de la sangre o plasma humanos, no puede
+excluirse totalmente la aparición de enfermedades debidas a la transmisión de agentes
+infecciosos. Esto también se refiere a la posible transmisión de patógenos de naturaleza
+desconocida. Sin embargo, el riesgo de transmisión de agentes infecciosos se reduce por:
+- La selección de donantes mediante un reconocimiento médico y el despistaje de AgHBs y
+anticuerpos frente a VIH y VHC en las donaciones individuales y en las mezclas de plasma.
+- El análisis de material génomico del VHC en las mezclas de plasma.
+- Los procedimientos de inactivación/eliminación incluidos en el proceso de producción
+que han sido validados utilizando virus modelos. Estos procedimientos se consideran
+efectivos para VIH, VHC, VHA y VHB.
+Los procedimientos de inactivación/eliminación pueden tener un valor limitado para virus
+no envueltos tales como el parvovirus B19.
+Se recomienda la vacunación apropiada (hepatitis A y B) para los pacientes que reciban
+concentrados de factor VIII.
+La infección por parvovirus B19 puede ser grave para una mujer embarazada (infección
+fetal) y para sujetos con inmunodeficiencia o con una producción aumentada de hematíes
+(p. ej. con anemia hemolítica).
+La formación de anticuerpos neutralizantes (inhibidores) es bien conocida en el tratamiento
+de pacientes con hemofilia A. Estos inhibidores son generalmente inmunoglobulinas IgG
+dirigidas contra la actividad procoagulante del factor VIII. Esta actividad se cuantifica en
+Unidades Bethesda (UB) por mL. de plasma utilizando el método modificado Nijmegen. El
+riesgo de desarrollar inhibidores se correlaciona con la exposición al factor VIII
+antihemofílico, siendo este riesgo más alto los primeros 20 días de exposición. Raramente,
+pueden desarrollarse inhibidores tras los primeros 100 días de exposición. En los pacientes
+tratados con el factor VIII humano de coagulación se debe controlar el posible desarrollo de
+inhibidores mediante observación clínica y pruebas de laboratorio adecuadas. Ver también
+4.8 ""Reacciones adversas"".
+En beneficio de los pacientes se recomienda que, siempre que sea posible, cada vez que se
+les administre HAEMATE P se deje constancia del nombre del medicamento y número del
+lote administrado.
+ 4.5 Interacciones con con otros medicamentos y otras formas de interacción
+Hasta ahora no se conocen interacciones de HAEMATE P con con otros medicamentos.
+ 4.6 Embarazo y lactancia
+No se han realizado estudios de reproducción en animales con factor VIII. Debido a la baja
+incidencia de hemofilia A en mujeres, se carece de experiencia acerca del uso de factor VIII
+en embarazo y lactancia. Por tanto, durante el embarazo y la lactancia puede utilizarse
+factor VIII únicamente si está claramente indicado.
+ 4.7 Efectos sobre la capacidad de conducir vehículos y utilizar maquinaria
+No existe ningún indicio de que HAEMATE P pueda afectar la capacidad de conducir o
+utilizar maquinaria.
+ 4.8 Reacciones adversas
+En pacientes tratados con productos que contienen factor VIII, rara vez se han observado
+reacciones alérgicas o de hipersensibilidad (que pueden incluir angioedema, sensación de
+ardor y picor en el lugar de la perfusión, escalofríos, enrojecimiento, erupciones cutáneas
+que pueden llegar a urticaria generalizada, cefalea, hipotensión, somnolencia, náuseas,
+inquietud, taquicardia, opresión torácica, hormigueo, vómitos, dificultad al respirar). En
+ciertos casos, estas reacciones han progresado hasta anafilaxia grave (incluyendo shock).
+ En raras ocasiones se ha observado fiebre.
+Algunos pacientes con hemofilia A pueden desarrollar anticuerpos neutralizantes contra el
+factor VIII (inhibidores), lo que ocasiona una respuesta clínica insuficiente al tratamiento.
+En tales casos, se recomienda contactar con un centro especializado en hemofilia.
+Para información sobre la seguridad viral, ver 4.4.
+ 4.9 Sobredosificación
+Hasta ahora no se conocen síntomas de sobredosificación con HAEMATE P.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1Propiedades farmacodinámicas
+Grupo farmacoterapéutico: antihemorrágico: factor VIII de la coagulación sanguínea y
+factor de von Willebrand. Código ATC: B02BD02
+En HAEMATE P, el factor VIII:C se presenta en forma de complejo con el factor de von
+Willebrand. El complejo factor VIII/factor von Willebrand está compuesto por dos
+moléculas (factor VIII y factor de von Willebrand) con funciones fisiológicas diferentes.
+El factor de von Willebrand, además de su función de proteína protectora del factor VIII, es
+un mediador de la adhesión de plaquetas en los lugares con daños vasculares e interviene en
+la agregación plaquetaria.
+Cuando se perfunde en un paciente hemofílico, el factor VIII se liga al factor de von
+Willebrand en la circulación del paciente.
+El factor VIII activado actúa como cofactor del factor IX activado, acelerando la
+conversión del factor X a factor X activado. El factor X activado transforma la protrombina
+en trombina, la cual a su vez convierte el fibrinógeno en fibrina, de manera que puede
+formarse el coágulo.
+La hemofilia A es un trastorno hereditario de la coagulación sanguínea ligado al sexo,
+debido a la disminución del nivel de factor VIII:C, lo que produce hemorragias graves en
+las articulaciones, músculos u órganos internos, bien de forma espontánea o como
+consecuencia de un accidente o trauma quirúrgico. Mediante una terapia de reposición
+aumenta el nivel plasmático de factor VIII y por tanto se corrige temporalmente la
+deficiencia de dicho factor y se controlan y previenen las hemorragias.
+ 5.2 Propiedades farmacocinéticas
+En un ensayo clínico con 27 pacientes con la enfermedad de von Willebrand (Tipo I: 18
+pacientes, Tipo II: 7 pacientes y Tipo III: 2 pacientes) se determinó la mediana de la vida
+media en 8,1 horas.
+No se apreció diferencia en la vida media entre los pacientes con diferentes tipos de
+enfermedad de von Willebrand.
+ Después de la sustitución con HAEMATE P se observa una estructura multimérica
+completamente normal en el plasma del paciente, durante varias horas.
+ Tras la inyección del producto, permanecen en la circulación entre dos tercios y tres
+cuartos, aproximadamente del factor VIII administrado. El nivel de actividad de factor VIII
+alcanzado en el plasma debe encontrarse entre el 80% y el 120% de la actividad plasmática
+prevista del factor VIII.
+La actividad plasmática de factor VIII disminuye según una degradación exponencial
+bifásica. En la fase inicial se realiza la distribución entre los compartimentos intravascular y
+otros (fluidos corporales), con una semivida de eliminación del plasma de 3 a 6 horas. En la
+fase posterior, más lenta (y que probablemente corresponde al consumo de factor VIII) la
+semivida varía entre 8 y 20 horas, con un valor medio de 12 horas. Esta cifra parece
+corresponder a la verdadera semivida biológica.
+La recuperación ""in vivo"" de FVIII, en pacientes afectos de hemofilia A incluidos en un
+ensayo clínico, resultó 101,5%. La administración de 1 UI FVIII/kg de peso corporal
+produjo un incremento medio de la actividad de factor VIII de 2,3%, en relación con el
+valor habitual en los pacientes. La semivida biológica resultó entre 15,3 ± 5,5 horas. En
+casos individuales, la semivida biológica puede variar.
+ 5.3 Datos preclínicos sobre seguridad
+El factor VIII de la coagulación humana (principio activo del concentrado) es un
+componente normal del plasma humano y actúa como el factor VIII endógeno.
+Carece de interés realizar pruebas de toxicidad de dosis únicas ya que las dosis elevadas
+producen sobredosificación.
+No pueden realizarse con animales pruebas de toxicidad a dosis repetidas, debido a la
+interferencia con los anticuerpos que se forman contra las proteínas heterólogas.
+No se han observado efectos tóxicos en los animales de laboratorio, ni siquiera con dosis
+que suponen varias veces la dosis humana recomendada por kilogramo de peso corporal.
+Dado que la experiencia clínica no proporciona ningún indicio de efectos carcinogénicos o
+mutagénicos del factor VIII de coagulación de plasma humano, no se considera necesario
+realizar estudios experimentales, especialmente en especies heterólogas.
+ "
+6. DATOS FARMACÉUTICOS
+	6.1 Lista de excipientes
+Albúmina humana, glicina, cloruro sódico y Agua para preparaciones inyectables.
+ 6.2 Incompatibilidades
+HAEMATE P no debe mezclarse con con otros medicamentos.
+Para la inyección/perfusión sólo deberán utilizarse equipos que hayan sido autorizados, ya
+que puede producirse un fallo en el tratamiento como consecuencia de adsorción del factor
+VIII por la superficie interna de algunos equipos de perfusión.
+ 6.3 Período de validez
+3 años
+Después de la reconstitución, la estabilidad físico-química ha sido demostrada para un
+tiempo de 48 horas a temperatura ambiente (máximo 25º C).
+Desde un punto de vista microbiológico, HAEMATE P no contiene conservantes por lo
+que la solución reconstituida debe usarse inmediatamente. Sí ello no es posible no
+almacenar más de 8 horas a temperatura ambiente
+ 6.4 Precauciones especiales de conservación
+HAEMATE® P deberá almacenarse a temperatura ambiente inferior a 25º C.
+No congelar. Mantener en su cartonaje original.
+ 6.5 Naturaleza y contenido del envase
+Envase primario:
+  -Viales con el polvo:
+--Presentación de 600UI/250 UI
+Vial para inyección de vidrio tubular incoloro Tipo I según Farmacopea Europea,
+cerrados al vacío, provisto de tapón de goma (libres de látex), disco de plástico y cápsula
+de aluminio.
+  --Presentación de 1200 UI/500 UI y 2400 UI/1.000 UI
+Vial para inyección de vidrio moldeado incoloro Tipo II según Farmacopea Europea,
+cerrados al vacío, provisto de tapón de goma (libres de látex), disco de plástico y cápsula
+de aluminio.
+  -Viales con el disolvente
+Vial para inyección de vidrio tubular incoloro Tipo I según Farmacopea Europea, con
+superficie interna tratada, cerrados al vacío, provisto de tapón de goma (libres de látex),
+disco de plástico y cápsula de aluminio.
+  Presentaciones:
+ Envase con 600 UI/250 UI:
+1 vial con polvo herméticamente cerrado al vacío
+1 vial con 5 mL de Agua para preparaciones inyectables
+1 trasvasador con filtro 20/20
+1 jeringa de 5 mL de un solo uso
+1 equipo para venopunción
+2 gasascon alcohol
+1 apósito adhesivo
+ Envase con 1200 UI/500 UI:
+1 vial con polvo herméticamente cerrado al vacío
+1 vial con 10 mL de Agua para preparaciones inyectables
+1 trasvasador 20/20 con filtro
+1 jeringa de 10 mL de un solo uso
+1 equipo de venopunción
+2 gasas con alcohol
+1 apósito adhesivo
+ Envase con 2400 UI/1000 UI:
+1 vial con polvo herméticamente cerrado al vacío
+1 vial con 15 mL de Agua para inyectables
+1 trasvasador 20/20 con filtro
+1 jeringa de 20 mL de un solo uso
+1 equipo de venopunción
+2 gasas con alcohol
+1 apósito adhesivo.
+ 6.6 Instrucciones de uso/manipulación
+ La reconstitución y el trasvase de la solución reconstituida a la jeringa deben realizarse bajo
+condiciones asépticas.
+ Reconstitución:
+                                                                                                   MINISTERIO
+Atemperar el disolvente a temperatura ambiente. Retirar las cápsulas de los viales,
+desinfectar la superficie de los tapones de goma con una solución antiséptica. Dejar secar
+los tapones, antes de proceder a abrir el envase que contiene el Mix2Vial.
+      FIGURA 1 TEXTO
+1.Abrir el envase que contiene el Mix2Vial desgarrando el precinto.
+      FIGURA 2 TEXTO
+2.Colocar el vial del disolvente sobre una superficie plana y limpia, sujetándolo
+firmemente. Coger el envase abierto que contiene el Mix2Vial y encajar el terminal azul en
+el tapón del vial con el disolvente.
+      FIGURA 3 TEXTO
+3.Retirar cuidadosamente el envase que contiene el Mix2Vial, asegurando que sólo se
+separa el envase y no el Mix2Vial.
+      FIGURA 4 TEXTO
+4. Manteniendo el vial del producto firmemente apoyado sobre una superficie, invertir el
+vial de disolvente con el adaptador acoplado y encajar el adaptador transparente en el tapón
+del vial del producto. El disolvente se transferirá automáticamente al vial del producto.
+      FIGURA 5 TEXTO
+5.Con los 2 viales aún acoplados, agitar suavemente mediante movimientos de rotación el
+vial del producto para garantizar la disolución total del liofilizado. No agitar el vial
+      FIGURA 6 TEXTO
+6.Sujetar con una mano el vial que contiene el producto, asir con la otra manoel otro lado
+del Mix2Vial que está acoplada al vial de disolvente. Desenroscar las 2 piezas del
+dispositivo de transferencia.
+Llenar con aire una jeringa vacía y estéril. Manteniendo el vial del producto en posición
+vertical, conectar la jeringa al vial de producto acoplado al Mix2Vial. Inyectar el aire en el
+vial del producto.
+      Trasvase de la solución reconstituida a la jeringa y administración:
+      FIGURA 7 TEXTO
+7.Manteniendo el émbolo de la jeringa presionado, invertir el sistema, aspirar el
+concentrado en la jeringa, tirando despacio del émbolo.
+      FIGURA 8 TEXTO
+8. Una vez que el concentrado ha sido transferido a la jeringa, asir firmemente el cuerpo de
+la jeringa, manteniendo el émbolo en la parte inferior del sistema y desenroscar a
+continuación el Mix2Vial de la jeringa.
+      Perfundir o inyectar inmediatamente por vía intravenosa lenta o inyección (Ver Apartado
+4.2.Método de administración).
+      No utilizar después de la fecha de caducidad indicada en el envase
+Cualquier solución no utilizada debe desecharse apropiadamente.
+ 
+7.   NOMBRE Y DIRECCIÓN PERMANENTE DEL TITULAR DE LA
+	
+8.    NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	      HAEMATE® P 600 UI/250 UI               Nº de registro: 56.866
+HAEMATE® P 1200 UI/500 UI              Nº de registro: 56.867
+HAEMATE® P 2400 UI/1000 UI             Nº de registro: 56.868
+ 9.    FECHA DE APROBACIÓN/REVISIÓN DE LA AUTORIZACIÓN
+       Fecha de autorización: Enero 1986
+Fecha de revalidación: Octubre 2010.
+ 10.   FECHA DE APROBACIÓN/REVISIÓN DE LA FICHA TÉCNICA
+ Junio 2008     CSL Behring, S.A.
+
+	Prospectos de medicamentos.

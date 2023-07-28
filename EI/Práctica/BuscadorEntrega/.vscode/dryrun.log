@@ -1,0 +1,10 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/daniel/Documents/BuscadorCampoPruebas'
+g++ -std=gnu++0x  -g   -c -Iinclude -o lib/buscador.o lib/buscador.cpp
+g++ -std=gnu++0x  -g   -c -Iinclude -o lib/indexadorHash.o lib/indexadorHash.cpp
+g++ -std=gnu++0x  -g   -c -Iinclude -o lib/tokenizador.o lib/tokenizador.cpp
+g++ -std=gnu++0x  -g   -c -Iinclude -o lib/stemmer.o lib/stemmer.cpp
+g++ -std=gnu++0x  -g   -c -Iinclude -o lib/indexadorInformacion.o lib/indexadorInformacion.cpp
+g++ -std=gnu++0x  -g   -Iinclude src/main.cpp lib/buscador.o lib/indexadorHash.o lib/tokenizador.o lib/stemmer.o lib/indexadorInformacion.o -o buscador
+make: Leaving directory '/home/daniel/Documents/BuscadorCampoPruebas'
+ 

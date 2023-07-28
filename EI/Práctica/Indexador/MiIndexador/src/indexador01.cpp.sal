@@ -1,0 +1,27 @@
+IndexadorHash a:
+################
+Fichero con el listado de palabras de parada: ./StopWordsEspanyol.txt
+Tokenizador: DELIMITADORES: . ,: TRATA CASOS ESPECIALES: 1 PASAR A MINUSCULAS Y SIN ACENTOS: 1
+Directorio donde se almacenara el indice generado: ./indicePrueba
+Stemmer utilizado: 1
+Informacion de la coleccion indexada: numDocs: 0	numTotalPal: 0	numTotalPalSinParada: 0	numTotalPalDiferentes: 0	tamBytes: 0
+Se almacenara parte del indice en disco duro: 0
+Se almacenaran las posiciones de los terminos: 1
+
+IndexadorHash b:
+################
+Fichero con el listado de palabras de parada: ./StopWordsIngles.txt
+Tokenizador: DELIMITADORES: . ,: TRATA CASOS ESPECIALES: 1 PASAR A MINUSCULAS Y SIN ACENTOS: 0
+Directorio donde se almacenara el indice generado: ./indicePruebaIngles
+Stemmer utilizado: 2
+Informacion de la coleccion indexada: numDocs: 0	numTotalPal: 0	numTotalPalSinParada: 0	numTotalPalDiferentes: 0	tamBytes: 0
+Se almacenara parte del indice en disco duro: 1
+Se almacenaran las posiciones de los terminos: 1
+
+. ,:
+./indicePruebaIngles
+2
+1
+1
+0
+1

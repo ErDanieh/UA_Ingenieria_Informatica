@@ -1,0 +1,604 @@
+VANDRAL 50 mg, 30 comprimidos
+	"Información Basica del medicamento Toda la información del medicamento 1. NOMBRE DEL MEDICAMENTO
+ VANDRAL 37,5 mg comprimidos
+VANDRAL 50 mg comprimidos
+VANDRAL 75 mg comprimidos
+    2. COMPOSICION CUALITATIVA Y CUANTITATIVA
+      VANDRAL 37,5 mg comprimidos:
+Un comprimido contiene venlafaxina (hidrocloruro), 37,5 mg
+Excipientes:
+Lactosa....... 27,5 mg
+VANDRAL 50 mg comprimidos:
+Un comprimido contiene venlafaxina (hidrocloruro), 50 mg
+Excipientes:
+Lactosa....... 36,6 mg
+VANDRAL 75 mg comprimidos:
+Un comprimido contiene venlafaxina (hidrocloruro) 75 mg
+Excipientes:
+Lactosa....... 54,9 mg
+       Para consultar la lista completa de excipientes, ver sección 6.1.
+    3. FORMA FARMACÉUTICA
+      Comprimido.
+       Vandral 37,5 mg: comprimidos en forma de cápsula, de color melocotón, planos, con los
+bordes biselados, con la inscripción ""37,5"" grabada en ambas caras.
+Vandral 50 mg: comprimidos en forma de escudo, de color melocotón, planos, con los
+bordes biselados, con la inscripción ""W50"" grabada e impresa en la cara superior.
+Vandral 75 mg: comprimidos en forma de cápsula, de color melocotón, planos, con los
+bordes biselados, con una ranura en cada cara.
+    4. DATOS CLÍNICOS
+      4.1.   Indicaciones terapéuticas
+Tratamiento de la depresión. Prevención de las recaídas del episodio depresivo y
+recurrencias de nuevos episodios.
+      4.2.   Posología y forma de administración
+Dosis habitual
+La dosis habitual recomendada es de 75 mg al día, administrados en 2 dosis
+fraccionadas (37,5 mg, dos veces al día) por vía oral.
+Si después de varias semanas de tratamiento no se obtiene la respuesta clínica
+esperada, la dosis puede incrementarse hasta 150 mg al día, administrados en dos
+dosis fraccionadas (75 mg, dos veces al día).
+Si a juicio facultativo (p. ej., en pacientes con depresión grave u hospitalizados)
+fuera necesario empezar el tratamiento con dosis superiores para obtener una
+respuesta más rápida, la dosis de 150 mg al día puede administrarse en 3 dosis (50
+ mg, tres veces al día). Seguidamente la dosis diaria debe incrementarse de forma
+gradual (50-75 mg cada 2 ó 3 días), hasta obtener la respuesta deseada. La dosis
+máxima recomendada es de 375 mg al día.
+A continuación, la dosis debe reducirse gradualmente hasta alcanzar el nivel de
+dosificación habitual, fundamentada en la respuesta y tolerancia del paciente.
+ Prevención de recaídas/recurrencias de la depresión
+Normalmente las dosis para la prevención de recaídas y recurrencias de la depresión
+son similares a las utilizadas durante el tratamiento inicial. Los pacientes deberían ser
+reevaluados para valorar el beneficio de la terapia a largo plazo.
+ Forma de administración
+Se recomienda ingerir Vandral durante las comidas con un poco de agua.
+ Pacientes con insuficiencia renal
+Los pacientes con insuficiencia renal deben recibir dosis de Vandral menores de las
+habituales.
+La dosis diaria de venlafaxina debe reducirse entre un 25% - 50% en los pacientes
+cuyo índice de filtración glomerular (IFG) esté comprendido entre 10 y 70 ml/min.
+ La dosis diaria de venlafaxina debe reducirse en un 50% en pacientes sometidos a
+hemodiálisis. No debe administrarse venlafaxina hasta que la sesión de hemodiálisis
+haya terminado.
+ Pacientes con insuficiencia hepática
+En pacientes con insuficiencia de leve a moderada debe reducirse la dosis total
+diaria un 50%.
+En pacientes con cuadros graves de disfunción hepática pueden ser necesarias
+reducciones de más del 50%.
+ Pacientes de edad avanzada
+Al igual que con otros antidepresivos debe individualizarse la dosis de Vandral y
+administrarse con precaución en pacientes de edad avanzada.
+ Niños y adolescentes
+No se ha establecido la inocuidad y eficacia del fármaco en pacientes de edades
+inferiores a 18 años y los datos de los ensayos clínicos sugieren un aumento del
+riesgo de ideación suicida e intento de suicidio, por lo que venlafaxina no debe
+utilizarse en pacientes menores de 18 años (ver apartado 4.4).
+ Tratamiento de mantenimiento/continuación/prolongado
+Los episodios agudos de depresión grave requieren, en general, un tratamiento
+farmacológico a largo plazo, por lo que el médico deberá reevaluar periódicamente la
+utilidad de administrar Vandral, por un período de tiempo más prolongado.
+ Síntomas de retirada observados durante el tratamiento con ISRS.
+Debe evitarse la suspensión brusca del tratamiento. Cuando se suspende el
+tratamiento con venlafaxina, la dosis debe reducirse paulatinamente durante un
+periodo de, al menos, una o dos semanas, con objeto de disminuir el riesgo de que
+aparezcan reacciones de retirada (ver apartado 4.4 y 4.8). En el caso de que aparezcan
+síntomas que el paciente no pueda tolerar después de una disminución de dosis o
+durante la retirada del tratamiento, debe valorarse la necesidad de restablecer la dosis
+prescrita previamente. Posteriormente, el médico puede continuar disminuyendo la
+dosis de forma más gradual.
+   4.3   Contraindicaciones
+         Vandral está contraindicado en pacientes con hipersensibilidad conocida a la
+venlafaxina o a alguno de los excipientes.
+         No administrar durante la lactancia.
+         No administrar concomitantemente con inhibidores de la monoaminoxidasa (IMAO).
+         El tratamiento con venlafaxina no debe iniciarse como mínimo, hasta pasados 14 días
+desde la interrupción del tratamiento con IMAO; este intervalo podría ser menor en el
+caso de IMAO reversibles (ver información de prescripción del IMAO reversible).
+Venlafaxina debe interrumpirse como mínimo 7 días antes de iniciar el tratamiento
+con cualquier IMAO (ver apartado 4.5).
+ 4.4     Advertencias y precauciones especiales de empleo
+         Uso en niños y adolescentes menores de 18 años
+Vandral no deberá utilizarse en el tratamiento de niños y adolescentes menores de 18
+años. Los comportamientos suicidas (intentos de suicidio e ideas de suicidio), y la
+hostilidad (predominantemente agresión, comportamiento de confrontación e
+irritación) fueron constatados con más frecuencia en ensayos clínicos con niños y
+adolescentes tratados con antidepresivos frente a aquellos tratados con placebo. Si se
+adoptase no obstante la decisión, sobre la base de las pruebas médicas, de efectuar el
+tratamiento, deberá supervisarse cuidadosamente en el paciente la aparición de
+síntomas de suicidio. Además, carecemos de datos sobre la seguridad a largo plazo
+en niños y adolescentes por lo que se refiere al crecimiento, la madurez y el
+desarrollo cognitivo y conductual.
+         No se ha evaluado el uso de venlafaxina en pacientes con un historial reciente de
+infarto de miocardio o cardiopatía inestable. Por ello, deberá evitarse su uso en estos
+pacientes.
+         Se recomienda controlar periódicamente la presión arterial en pacientes tratados con
+venlafaxina, dado que puede aumentar la presión arterial de forma dosis-dependiente
+(ver apartado 5.1). Durante el período postcomercialización, se han comunicado casos
+de tensión arterial elevada que han requerido tratamiento inmediato. Debe controlarse
+la hipertensión preexistente antes del tratamiento con venlafaxina.
+         Venlafaxina puede aumentar la frecuencia cardíaca, especialmente cuando se
+administra a dosis elevadas, por lo que se deberá tener precaución en aquellos
+pacientes cuyas condiciones pueden verse comprometidas por aumentos en la
+frecuencia cardíaca.
+         Pueden aparecer convulsiones en el tratamiento con venlafaxina y deberá
+administrarse con precaución en pacientes con antecedentes de convulsiones.
+         Dado que venlafaxina puede producir midriasis, se recomienda vigilar estrechamente
+a los pacientes con presión intraocular elevada o pacientes con riesgo de padecer
+glaucoma agudo de ángulo cerrado.
+ Al igual que con otros antidepresivos, se deberá usar venlafaxina con precaución, en
+pacientes con antecedentes o antecedentes familiares de trastorno bipolar, debido a
+que pueden aparecer cuadros de manía o hipomanía durante el tratamiento.
+ Durante el tratamiento con venlafaxina, puede aparecer hiponatremia y/o síndrome
+de secreción inapropiada de hormona antidiurética (SIADH), normalmente en
+pacientes con depleción de volumen o deshidratados, incluyendo ancianos y
+pacientes en tratamiento con diuréticos.
+ Pueden producirse episodios de agresividad en una pequeña proporción de pacientes
+que han recibido un tratamiento antidepresivo, incluyendo el tratamiento con
+venlafaxina, la reducción o la discontinuidad en la dosis.
+Al igual que con otros antidepresivos, venlafaxina debe administrarse
+cuidadosamente en aquellos pacientes con historiales de agresión.
+ Suicidio/pensamientos suicidas o empeoramiento clínico: La depresión se asocia con
+un riesgo incrementado de pensamientos suicidas, autoagresión y suicidio
+(acontecimientos relacionados con el suicidio). Este riesgo persiste hasta que se
+alcanza una remisión significativa. Dado que dicha mejoría puede no alcanzarse
+durante las primeras semanas o más de tratamiento, los pacientes deben ser
+estrechamente vigilados durante ese periodo. La experiencia clínica indica que el
+riesgo de suicidio puede aumentar cuando comienza a mejorar el cuadro clínico.
+ Otros estados psiquiátricos para los que se prescribe venlafaxina también pueden
+asociarse con un aumento del riesgo de acontecimientos relacionados con el suicidio.
+Además, estos estados pueden ser comórbidos con el trastorno depresivo mayor. Por
+tanto, deben considerarse las mismas precauciones adoptadas para tratar a pacientes
+con trastorno depresivo mayor que para tratar a pacientes con otros trastornos
+psiquiátricos.
+ Se sabe que los pacientes con antecedentes de acontecimientos relacionados con el
+suicidio y aquellos que presentan un grado significativo de ideación suicida previa al
+inicio del tratamiento tienen un mayor riesgo de pensamientos suicidas o intento de
+suicidio, por lo que deben ser cuidadosamente vigilados durante el tratamiento. Un
+meta-análisis de ensayos controlados con placebo de fármacos antidepresivos en
+pacientes adultos con trastornos psiquiátricos mostró un aumento del riesgo de
+comportamiento suicida con antidepresivos en comparación con el placebo en
+pacientes menores de 25 años de edad.
+ La estrecha supervisión de los pacientes y, en particular de aquellos con alto riesgo,
+debe acompañar a la terapia farmacológica especialmente al inicio del tratamiento y
+tras los cambios de dosis. Los pacientes (y sus cuidadores) deben ser alertados sobre
+la necesidad de vigilar la aparición de cualquier empeoramiento clínico,
+comportamiento o pensamientos suicidas y cambios inusuales en el comportamiento
+y de buscar atención médica inmediatamente si persisten estos síntomas.
+ Dado el riesgo de suicidio de los pacientes con depresión, se deberá prescribir
+inicialmente el envase con el número menor de comprimidos con la finalidad de
+reducir el riesgo de sobredosis (ver apartado 4.8).
+ Los fármacos que inhiben la recaptación de serotonina pueden dar lugar a anomalías
+de la agregación plaquetaria. Se han descrito algunos casos de hemorragias de
+diferente localización con inhibidores selectivos de la recaptación de serotonina. Este
+hecho debe de tenerse en cuenta especialmente en aquellos pacientes que, además,
+estén recibiendo anticoagulantes, medicamentos que afecten la función plaquetaria
+(p.ej., antipsicóticos atípicos y fenotiazinas, antidepresivos tricíclicos, ácido
+acetilsalicílico, ticlopidina, clopidogrel, antiinflamatorios no esteroideos) o que
+puedan incrementar el riesgo de hemorragia. Al igual que ocurre con otros
+inhibidores de la recaptación de serotonina, asimismo deberá tenerse especial
+precaución con los pacientes que presenten trastornos hemorrágicos o predisposición
+a los mismos.
+Venlafaxina no está indicada para la pérdida de peso, ni en monoterapia ni en
+combinación con otros productos ya que en esta indicación no se ha demostrado su
+seguridad y eficacia.
+ Síntomas de retirada observados durante el tratamiento con ISRS:
+ Cuando se suspende el tratamiento es frecuente que aparezcan síntomas de retirada,
+particularmente si la suspensión del tratamiento se realiza de forma brusca (ver apartado 4.8). En los ensayos clínicos las reacciones adversas observadas durante la
+suspensión del tratamiento se presentaron en aproximadamente el 35% de los
+pacientes tratados con venlafaxina y en el 17% de los pacientes que utilizaron
+placebo.
+El riesgo de reacciones de retirada depende de varios factores entre los que se
+encuentran la duración del tratamiento, la dosis utilizada y el ritmo de la reducción de
+dosis. Los síntomas de retirada comunicados con mayor frecuencia son mareos,
+alteraciones sensoriales (incluyendo parestesias), alteraciones del sueño (incluyendo
+insomnio y pesadillas), agitación o ansiedad, náuseas y/o vómitos, temblor y cefalea.
+Generalmente estos síntomas son leves o moderados, sin embargo en algunos
+pacientes pueden ser graves. Estos síntomas suelen presentarse durante los primeros
+días de la interrupción del tratamiento. Sin embargo, en raras ocasiones se han
+comunicado casos de pacientes en los que han aparecido estos síntomas tras olvidar
+una dosis de forma inadvertida. Normalmente estos síntomas son autolimitados y se
+resuelven en dos semanas, aunque en algunos pacientes su duración se puede
+prolongar. Por lo tanto es importante tener en cuenta que cuando se suspende el
+tratamiento con venlafaxina debe reducirse gradualmente la dosis durante un periodo
+de varias semanas o incluso meses de acuerdo con las necesidades de cada paciente
+(ver ""Reacciones de retirada observadas durante la retirada de ISRS"" en la sección
+4.2).
+Se deberán monitorizar los niveles de colesterol durante el tratamiento a largo plazo
+ya que en los ensayos clínicos se han observado elevaciones en los niveles séricos de
+colesterol en un 5% de los pacientes en tratamiento con venlafaxina durante al menos
+3 meses.
+Acatisia/agitación psicomotora: El uso de venlafaxina se ha asociado con la aparición
+de acatisia, caracterizada por intranquilidad y necesidad de estar en movimiento,
+frecuentemente acompañadas de dificultad para sentarse o permanecer en reposo. Su
+aparición es más probable durante las primeras semanas de tratamiento. En los
+ pacientes en los que aparece esta sintomatología, puede ser perjudicial aumentar la
+dosis y puede ser necesario valorar el uso de venlafaxina.
+       Advertencias sobre excipientes:
+Este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a
+galactosa, de insuficiencia de lactasa de Lapp (insuficiencia observada en ciertas
+poblaciones de Laponia) o problemas de absorción de glucosa o galactosa no deben
+tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+       Inhibidores de la monoaminoxidasa (IMAO)
+Se han notificado reacciones adversas en pacientes que habían interrumpido el
+tratamiento con un IMAO y seguidamente habían comenzado tratamiento con
+venlafaxina, o que interrumpieron el tratamiento con venlafaxina y seguidamente
+empezaron tratamiento con IMAO. Estas reacciones incluyeron temblor, mioclonía,
+sudoración, náuseas, vómitos, sofocos, vértigo, hipertermia con cuadros semejantes al
+síndrome neuroléptico maligno, convulsiones y muerte.
+       Fármacos activos sobre el sistema serotoninérgico
+Basándose en el mecanismo de acción conocido de la venlafaxina y en su potencial
+síndrome serotoninérgico, se recomienda precaución cuando se administre
+venlafaxina en combinación con fármacos que puedan afectar los sistemas de
+neurotransmisores serotoninérgicos tales como los triptanes, inhibidores selectivos de
+la recaptación de serotonina (ISRS), o litio.
+       Indinavir
+Un estudio farmacocinético realizado con indinavir ha mostrado una disminución del
+28% en el AUC y del 36% en la Cmáx para indinavir. Indinavir no afectó la
+farmacocinética de venlafaxina y O-desmetilvenlafaxina (ODV). Se desconoce la
+relevancia clínica de esta interacción.
+       Warfarina
+Venlafaxina puede potenciar el efecto anticoagulante de warfarina.
+       Etanol
+Al igual que con todos los fármacos que actúan sobre el SNC, se deberá advertir al
+paciente que evite el consumo de alcohol durante el tratamiento con venlafaxina.
+       Haloperidol
+Un estudio farmacocinético realizado con haloperidol mostró un descenso del 42%
+en el aclaramiento oral total para este fármaco, un incremento del 70% en el AUC,
+un incremento del 88% en la Cmáx, pero no afectó a la semivida del mismo. Esto
+deberá ser tenido en cuenta en pacientes que reciban haloperidol y venlafaxina de
+forma concomitante ya que será necesario disminuir la dosis de haloperidol.
+       Cimetidina
+Cimetidina ha mostrado inhibir el efecto de primer paso hepático de venlafaxina. Es
+esperable que la actividad farmacológica de venlafaxina se vea ligeramente
+incrementada en la mayoría de los pacientes. En ancianos y en pacientes con
+disfunción hepática esta interacción puede ser más pronunciada.
+                                                                                                MINISTERIO
+Imipramina
+Venlafaxina no alteró las farmacocinéticas de imipramina o 2-hidroxi-imipramina.
+Sin embargo incrementó el AUC, Cmáx y Cmín de desipramina alrededor de un 35%.
+El AUC para 2-hidroxi-imipramina duplicó su valor de 2,5 a 4,5. Imipramina no
+alteró las farmacocinéticas de venlafaxina ni de O-desmetilvenlafaxina. Esto deberá
+tenerse en cuenta en pacientes tratados con imipramina y venlafaxina de forma
+concomitante.
+ Ketoconazol:
+Un estudio farmacocinético realizado con ketoconazol con metabolizadores rápidos
+(MR) y metabolizadores lentos (ML) del CYP2D6 dio como resultado
+concentraciones plasmáticas de venlafaxina y ODV mayores, en la mayoría de los
+sujetos a los que se les administró seguidamente ketoconazol. La Cmax de venlafaxina
+aumentó un 26% en sujetos MR y un 48% en sujetos ML. Los valores de la Cmax para
+ODV aumentaron un 14% y un 29% en sujetos MR y ML, respectivamente. El AUC
+de venlafaxina aumentó un 21% en sujetos MR y un 70% en sujetos ML. Los valores
+de AUC para ODV se incrementaron un 23% y un 141% en sujetos MR y ML,
+respectivamente.
+ Metoprolol
+La administración concomitante de venlafaxina (50 mg cada 8 horas durante 5 días)
+y metoprolol (100 mg cada 24 horas durante 5 días) llevada a cabo en un estudio de
+interacción farmacocinética de ambas moléculas en voluntarios sanos dió lugar a un
+incremento de, aproximadamente, un 30% - 40% de las concentraciones plasmáticas
+de metoprolol sin que se alterasen las concentraciones plasmáticas de su metabolito
+activo, -hidroximetoprolol. Se desconoce la relevancia clínica de este hecho. El
+metoprolol no alteró el perfil farmacocinético de la venlafaxina o de su metabolito
+activo, O-desmetilvenlafaxina.
+ Risperidona
+Venlafaxina incrementó el AUC de risperidona en un 32% pero no alteró
+significativamente el perfil farmacocinético de la cantidad total de principio activo
+(suma de risperidona más 9-hidroxirisperidona). Se desconoce la relevancia clínica
+de esta interacción.
+ Diazepam
+Diazepam no parece afectar la farmacocinética tanto de venlafaxina como de O-
+desmetilvenlafaxina. Venlafaxina no tiene efectos sobre la farmacocinética o la
+farmacodinamia de diazepam.
+ Litio
+Las farmacocinéticas de venlafaxina y O-desmetilvenlafaxina no se ven afectadas
+con la administración concomitante de litio. Venlafaxina, a su vez, no tiene efectos
+sobre la farmacocinética del litio (ver también Fármacos con actividad sobre el
+sistema serotoninérgico).
+ Fármacos con elevada unión a proteínas plasmáticas
+Venlafaxina no se une en elevada proporción a proteínas plasmáticas (27%); por ello
+no es esperable que la administración de venlafaxina a pacientes en tratamiento con
+fármacos de elevada unión a proteínas plasmáticas provoque un aumento de la
+concentración libre de estos fármacos.
+Inhibidores o inductores de los enzimas hepáticos
+La inducción o inhibición en los sistemas enzimáticos hepáticos puede afectar el
+metabolismo y la farmacocinética de Vandral. Cuando se administra
+concomitantemente venlafaxina con un inhibidor de los enzimas hepáticos es
+conveniente reducir la dosis de venlafaxina al mínimo eficaz.
+                   Triptófano
+La administración concomitante de Vandral y triptófano podría inducir una mayor
+incidencia de efectos secundarios relacionados con la 5-HT. No hay experiencia en
+cuanto al uso concomitante de venlafaxina con triptófano en pacientes deprimidos.
+       Fármacos metabolizados por las isoenzimas del citocromo P450
+Los estudios indican que venlafaxina es un inhibidor relativamente débil de
+CYP2D6. Venlafaxina no inhibió CYP3A4, CYP1A2, y CYP2C9 in vitro. Tampoco
+se han hallado interacciones in vivo con los siguientes fármacos: alprazolam
+(CYP3A4), cafeína (CYP1A2), carbamazepina (CYP3A4), y diazepam (CYP3A4 y
+CYP2C19), y tolbutamida (CYP2C9).
+ 4.6   Embarazo y lactancia
+       Uso durante el embarazo
+No se ha establecido la seguridad de empleo de venlafaxina durante el embarazo.
+Venlafaxina debe administrarse a mujeres embarazadas sólo si el beneficio potencial
+supera al posible riesgo. Si se usa venlafaxina durante el embarazo o poco antes del
+parto pueden aparecer reacciones de retirada en el recién nacido. Los neonatos
+expuestos a venlafaxina después del tercer trimestre desarrollaron complicaciones
+que requirieron ayuda respiratoria o una hospitalización prolongada.
+       Uso durante la lactancia
+Venlafaxina y O-desmetilvenlafaxina se excretan en leche humana; por ello, está
+contraindicada su administración durante la lactancia.
+       Fertilidad
+En estudios de reproducción llevados a cabo en animales con el metabolito
+mayoritario de venlafaxina se observó una disminución de la fertilidad. Se
+desconoce la relevancia de este hallazgo en humanos (ver apartado 5.3).
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+       Aunque se ha comprobado en voluntarios sanos que Vandral no afecta la actividad
+psicomotora, cognoscitiva o el comportamiento complejo, los fármacos psicoactivos
+pueden deteriorar la facultad de juzgar, pensar o las habilidades motoras, por lo que
+los pacientes deben tener precaución al manejar maquinaria peligrosa, incluyendo
+automóviles, debiendo ser advertidos de tal circunstancia.
+ 4.8   Reacciones adversas
+       Las reacciones adversas se enumeran a continuación por órganos y sistemas de
+acuerdo con las categorías de frecuencia siguientes:
+       Frecuentes: > 1%
+Poco frecuentes: > 0,1% y < 1%
+Raras: > 0,01% y < 0,1%
+Muy raras: <0,01%
+ Trastornos generales y alteraciones en el lugar de administración
+Frecuentes:                 Astenia, fatiga.
+Poco frecuentes: Reacción de fotosensibilidad.
+Muy raras:         Anafilaxis.
+ Trastornos cardiovasculares
+Frecuentes:       Hipertensión, vasodilatación (principalmente sofocos).
+Poco frecuentes: Hipotensión, hipotensión postural, síncope, taquicardia.
+Muy raras:        Prolongación del intervalo QT, fibrilación ventricular, taquicardia
+ventricular (incluyendo torsade de pointes).
+ Trastornos gastrointestinales
+Frecuentes:        Disminución del apetito, estreñimiento, náuseas, vómitos.
+Poco frecuentes: Bruxismo, diarrea.
+Muy raras:         Pancreatitis.
+ Trastornos de la sangre y el sistema linfático
+Poco frecuentes: Equimosis, sangrado de mucosas.
+Raras:             Sangrados prolongados, trombocitopenia.
+Muy raras:                  Discrasias sanguíneas (incluyendo         agranulocitosis,
+anemia aplástica, neutropenia y pancitopenia).
+ Trastornos del metabolismo y la nutrición
+Frecuentes:        Hipercolesterolemia (especialmente tras la administración
+prolongada y a dosis elevadas), pérdida de peso.
+Poco frecuentes: Alteraciones de las pruebas de funcionalidad hepática,
+hiponatremia, aumento de peso.
+Raras:                     Hepatitis, Síndrome de secreción inapropiada de hormona
+antidiurética (SIADH).
+Muy raras:                 Aumento de prolactina.
+ Trastornos musculoesquelético y del tejido conjuntivo
+Muy raras:               Rabdomiólisis.
+ Trastornos del sistema nervioso
+Frecuentes:         Alteración del sueño, disminución de la libido, mareos, sequedad
+Poco frecuentes:             Apatía, alucinaciones, mioclonía, agitación.
+Raras:                       Acatisia, convulsiones, manía, síndrome neuroléptico
+Muy raras:                   Delirio, reacciones extrapiramidales (incluyendo distonía
+ Trastornos respiratorios, torácicos y mediastínicos
+Frecuentes:                 Bostezos.
+Muy raras:                  Eosinofilia pulmonar.
+                                                                                          MINISTERIO
+Trastornos de la piel y del tejido subcutáneo
+Frecuentes:         Sudoración (incluyendo sudores nocturnos).
+Poco frecuentes: Rash (erupción cutánea), alopecia.
+Muy raras:                   Eritema multiforme, síndrome de Stevens-Johnson,
+        Trastornos sensoriales
+Frecuentes:        Anomalías en la acomodación, midriasis, trastornos visuales.
+Poco frecuentes:         Percepción alterada del gusto, acúfenos.
+Muy raras:         Glaucoma de ángulo cerrado.
+        Trastornos del aparato reproductor
+Frecuentes:        Eyaculación/orgasmo       anormales       (varones),   anorgasmia,
+Poco frecuentes:           Orgasmo anormal (mujeres), menorragia.
+        Trastornos renales y urinarios:
+Frecuentes:         Trastornos de la micción (en particular dificultad para iniciar la
+Poco frecuentes: Retención urinaria.
+        Se han notificado casos de ideación suicida y conductas suicidas durante el
+tratamiento con Vandral o inmediatamente después de la interrupción del mismo,
+(ver apartado 4.4).
+        El perfil de reacciones adversas en pacientes ancianos es similar al que se presenta en
+pacientes adultos.
+Con medicamentos inhibidores de la recaptación de serotonina se han descrito
+raramente hemorragias (equimosis, hemorragias ginecológicas, sangrado
+gastrointestinal y otros sangrados cutáneos o de mucosas; ver sección 4.4).
+        Síntomas de retirada observados durante la suspensión del tratamiento con ISRS:
+La retirada de venlafaxina (particularmente si se realiza de forma brusca) se asocia
+frecuentemente con la aparición de síntomas de retirada. Los síntomas de retirada
+comunicados con mayor frecuencia son mareos, alteraciones sensoriales (incluyendo
+parestesias), alteraciones del sueño (incluyendo insomnio y pesadillas), agitación o
+ansiedad, náuseas y/o vómitos, temblor y cefalea (ver apartado 4.2 y sección 4.4).
+Aunque pueden aparecer reacciones de retirada al interrumpir el tratamiento, los
+datos clínicos y preclínicos disponibles no sugieren que venlafaxina origine
+dependencia o tolerancia.
+ 4.9.   Sobredosis
+        En la experiencia post-comercialización, se comunicaron casos de sobredosis de
+venlafaxina, en su mayoría, en combinación con otros fármacos y/o alcohol. Se han
+observado alteraciones electrocardiográficas (prolongación del intervalo QT, bloqueo
+de rama, prolongación del QRS), taquicardia sinusal y ventricular, bradicardia,
+hipotensión, vértigo, alteración del nivel de consciencia (oscilando desde la
+somnolencia al coma), convulsiones y muerte.
+        Tratamiento de la sobredosis
+Se recomienda el uso de medidas de soporte general y sintomáticas; se deben
+monitorizar el ritmo cardíaco y los signos vitales.
+No se recomienda la inducción de la emésis cuando exista riesgo de aspiración.
+El lavado gástrico puede estar indicado si se realiza inmediatamente después de la
+ingestión o en pacientes sintomáticos.
+La administración de carbón activado puede limitar también la absorción del
+fármaco.
+La diurésis forzada, diálisis, hemoperfusión y transfusión son de beneficio dudoso.
+No se conocen antídotos específicos para venlafaxina.
+ "
+5.   PROPIEDADES FARMACOLOGICAS
+	"     Grupo farmacoterapéutico: Otros antidepresivos,
+Código ATC: N06AX16.
+      Vandral es un antidepresivo estructuralmente nuevo que no está relacionado químicamente
+con los antidepresivos tricíclicos, tetracíclicos o con otros antidepresivos disponibles.
+      5.1      Propiedades farmacodinámicas
+            Se cree que el mecanismo de la acción antidepresiva de Vandral en el hombre está
+relacionado con la potenciación de la actividad neurotransmisora en el sistema
+nervioso central. En estudios preclínicos se ha comprobado que venlafaxina y su
+metabolito principal, O-desmetilvenlafaxina, son potentes inhibidores de la
+recaptación de serotonina y noradrenalina, y que también inhiben débilmente la
+recaptación de dopamina.
+Los estudios en animales muestran que los antidepresivos tricíclicos pueden reducir,
+si se administran a largo plazo, la capacidad de respuesta de los receptores -
+adrenérgicos. Por el contrario, venlafaxina y O-desmetilvenlafaxina reducen la
+capacidad de respuesta -adrenérgica tanto en la administración aguda (dosis única)
+como en la administración a largo plazo.
+Venlafaxina y su metabolito principal son equipotentes, respecto a la acción general
+sobre la recaptación de los neurotransmisores.
+En ensayos clínicos en pacientes hospitalizados con depresión grave y/o melancolía
+se ha observado un rápido inicio de acción de Vandral cuando se utiliza una dosis
+inicial de 150 mg al día, administrados en 3 dosis de 50 mg, seguida de un
+incremento gradual de 50-75 mg cada dos o tres días hasta obtener la respuesta
+adecuada (la dosis máxima recomendada es de 375 mg/día). Sin embargo, estos datos
+necesitan confirmación.
+En un meta-análisis se analizó el efecto de la venlafaxina sobre la tensión arterial
+mediante un análisis de supervivencia multivariante con una muestra de 3.744
+pacientes. Se observó que el efecto de la venlafaxina dependía mucho de la dosis,
+siendo la incidencia de tensión diastólica supina (TAD) elevada estadística y
+clínicamente significativa sólo a dosis por encima de 300 mg/día. En dosis de 300
+mg/día o menos, el tratamiento con venlafaxina no incrementó significativamente la
+tasa de elevación sostenida en TAD supina cuando se compararon con placebo (p.e.,
+2.9% versus 2.2%) (Thase, 1998).
+            Prevención de Recaídas / Recurrencias de la depresión
+En un estudio con pacientes ambulatorios con depresión que habían respondido a
+Vandral Retard durante una fase inicial de tratamiento abierto de 8 semanas, éstos
+fueron asignados al azar para continuar con Vandral Retard o placebo durante 6
+meses. El estudio demostró una tasa de recaídas significativamente menor en los
+pacientes que toman Vandral Retard en comparación con aquellos que toman
+placebo.
+       En otro estudio con pacientes ambulatorios con depresión que habían respondido a
+Vandral (la forma de liberación inmediata) durante una fase inicial de tratamiento
+abierto de 6 meses, éstos fueron asignados al azar a una terapia de mantenimiento
+con Vandral o placebo durante 12 meses. El estudio demostró una tasa de recurrencia
+significativamente menor en los pacientes que toman Vandral en comparación con
+aquellos que toman placebo.
+       Una vez conseguida la respuesta terapéutica, la dosis debe reducirse gradualmente,
+hasta alcanzar la dosis habitual, fundamentada en la respuesta y tolerancia del
+paciente.
+In vitro, venlafaxina carece prácticamente de afinidad para los receptores
+muscarínicos, histaminérgicos y adrenérgicos del cerebro de rata. La actividad
+farmacológica en estos receptores puede relacionarse con diversos efectos
+secundarios observados en otros fármacos antidepresivos, tales como efectos
+anticolinérgicos, sedantes y cardiovasculares.
+Venlafaxina no posee una actividad inhibidora de la monoaminoxidasa.
+Los estudios in vitro mostraron que venlafaxina carece prácticamente de afinidad
+para los receptores de opiáceos, benzodiazepinas, fenciclidina (PCP) o ácido N-metil-
+d-aspártico (NMDA). En cortes de cerebro, venlafaxina tampoco produce liberación
+de noradrenalina. En roedores, carece de actividad estimulante significativa sobre el
+sistema nervioso central.
+En estudios de discriminación de fármacos, en primates, venlafaxina no mostró
+riesgo significativo de abuso estimulante o depresivo.
+ 5.2   Propiedades farmacocinéticas
+       Biodisponibilidad
+La venlafaxina se absorbe bien (92,1 "" 8,1%) y experimenta un amplio metabolismo
+de primer paso. Tras la administración de dosis únicas de 25 a 150 mg, el promedio
+de las concentraciones plasmáticas máximas de venlafaxina se alcanza en unas 2,4
+horas y oscila, aproximadamente, entre 33 y 172 ng/ml.
+       Metabolismo
+Venlafaxina se metaboliza, en gran parte, en el hígado. El promedio de semivida de
+eliminación de venlafaxina y O-desmetilvenlafaxina es de unas 5 y 11 horas,
+respectivamente.
+El promedio de las concentraciones plasmáticas máximas de O-desmetilvenlafaxina
+está comprendido entre unos 61 a 325 ng/ml y se alcanza en aproximadamente 4,3
+horas. En general, las concentraciones plasmáticas de venlafaxina y O-
+desmetilvenlafaxina son proporcionales a las dosis.
+       Unión a proteínas
+Venlafaxina y O-desmetilvenlafaxina se fijan a las proteínas plasmáticas en un 27% y
+un 30%, respectivamente.
+       Eliminación
+Venlafaxina y sus metabolitos se excretan principalmente por vía renal.
+Aproximadamente un 87% de la dosis de Vandral se recupera por la orina en el curso
+de 48 horas, en forma de venlafaxina inalterada, O-desmetilvenlafaxina no
+conjugada, O-desmetilvenlafaxina conjugada y otros metabolitos menores.
+       alimentos
+La administración de Vandral con alimentos prolonga ligeramente el tiempo de
+concentración máxima (en unos 20-30 minutos) pero no tiene efecto sobre la
+concentración máxima (Cmáx) ni la absorción de venlafaxina. De modo similar, los
+alimentos no alteran la Cmáx ni la formación de O-desmetilvenlafaxina.
+       Edad y sexo
+La edad y el sexo del paciente no modifican la farmacocinética de venlafaxina. En
+personas de más de 60 años de edad se observó una reducción del 20% del
+aclaramiento de O-desmetilvenlafaxina. Esto se debió probablemente a la
+disminución de la función renal, característica del envejecimiento. Durante la
+administración a largo plazo de venlafaxina o de O-desmetilvenlafaxina a voluntarios
+sanos, no se observó acumulación alguna de estas sustancias.
+       Insuficiencia hepática
+En algunos pacientes con cirrosis hepática compensada (insuficiencia hepática
+moderada), después de la administración de una dosis única de Venlafaxina, la
+disposición farmacocinética de venlafaxina y O-desmetilvenlafaxina se alteró
+significativamente. La reducción del metabolismo de venlafaxina y de la eliminación
+de O-desmetilvenlafaxina generó concentraciones plasmáticas más elevadas de
+ambos compuestos.
+       En un segundo estudio, se administró venlafaxina por vía intravenosa y oralmente a
+sujetos normales (n = 21), y a sujetos con un índice de Child-Pugh A (n = 8) y de
+Child-Pugh B (n = 11) (con insuficiencia hepática leve y moderada,
+respectivamente). La biodisponibilidad oral fue, aproximadamente, el doble en el
+caso de los sujetos con insuficiencia hepática con respecto a los sujetos normales. En
+los sujetos con insuficiencia hepática, la semivida de eliminación oral de venlafaxina
+fue dos veces más larga y el aclaramiento por vía oral se redujo más de la mitad
+comparado con sujetos normales. En los sujetos con insuficiencia hepática, la
+semivida de eliminación de ODV oral se prolongó, aproximadamente, un 40%,
+mientras que el aclaramiento por vía oral de ODV fue similar al de los sujetos
+normales. Se observó un amplio grado de variabilidad interindividual.
+       Insuficiencia renal
+En pacientes con insuficiencia renal de moderada a grave, se redujo el aclaramiento
+total de venlafaxina y O-desmetilvenlafaxina y aumentó la semivida de eliminación.
+La reducción del aclaramiento total fue más acusada en personas con un aclaramiento
+de creatinina inferior a 30 ml/min.
+ 5.3   Datos preclínicos sobre seguridad
+       La DL50 oral de venlafaxina en el ratón fue de 405 mg/kg, en ratas hembra de 336
+mg/kg y en ratas macho de 673 mg/kg. Estos valores equivalen a 45-90 veces la dosis
+máxima recomendada en el hombre.
+ Los estudios de venlafaxina en ratas y ratones no revelaron evidencia de
+carcinogénesis. En una gama amplia de ensayos in vitro e in vivo, venlafaxina no
+mostró efectos mutagénicos.
+En un estudio en el que tanto ratas macho como hembra fueron expuestas al
+metabolito mayoritario de venlafaxina, ODV, se observó una disminución de la
+fertilidad. La exposición al metabolito ODV fue aproximadamente de 2 a 3 veces la
+dosis humana de 225 mg/día. Se desconoce la relevancia de este hallazgo en
+humanos.
+ "
+6.   DATOS FARMACEUTICOS
+	     6.1.   Lista de excipientes
+Celulosa microcristalina.
+Lactosa.
+Carboximetil almidón sódico de patata sin gluten.
+Estearato magnésico.
+Oxido de hierro amarillo (E-172).
+Oxido de hierro marrón (E-172).
+      6.2.   Incompatibilidades
+No se conocen.
+      6.3.   Período de validez
+3 años.
+      6.4.   Precauciones especiales de conservación
+No requiere condiciones especiales de conservación. Conservar en un lugar seco.
+.
+6.5    Naturaleza y contenido del recipiente
+Los comprimidos van envasados en blisters de PVC/PVdC/Aluminio.
+             El contenido de los envases es:
+VANDRAL 37,5 comprimidos: 30 y 60 comprimidos
+VANDRAL 50 comprimidos: 30 comprimidos
+VANDRAL 75 comprimidos: 30 y 60 comprimidos
+             Puede que solamente estén comercializados algunos tamaños de envases.
+      6.6.   Precauciones especiales de eliminación
+No aplicable.
+La eliminación de medicamento no utilizado y de todos los materiales que hayan
+estado en contacto con él, se realizará de acuerdo con la normativa local.
+ 7    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+        Wyeth Farma, S.A.
+San Sebastián de los Reyes (Madrid)
+ 8.   NUMERO(S) DE AUTORIZACION DE COMERCIALIZACIÓN
+                                                                                                 MINISTERIO
+Vandral 37,5 mg comprimidos
+Nº Registro: 60.669
+        Vandral 50 mg comprimidos
+Nº Registro: 60.670
+        Vandral 75 mg comprimidos
+Nº Registro: 60.671
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+       3 de Julio de 1995.
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+       septiembre 2008
+
+	Prospectos de medicamentos.

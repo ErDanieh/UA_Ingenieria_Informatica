@@ -1,0 +1,133 @@
+LAMICOSIL CREMA, 1 tubo de 30 g
+	Información Basica del medicamento Toda la información del medicamento 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	Lamicosil crema
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       El principio activo es terbinafina (DCI) clorhidrato.
+        1 g de crema contiene 10 mg de terbinafina clorhidrato.
+        Relación de excipientes, en 6.1.
+ 
+3.     FORMA FARMACÉUTICA
+	       Crema brillante, uniforme, de color blanco.
+ 
+
+
+4.     DATOS CLÍNICOS
+	"4.1.   Indicaciones terapéuticas
+        Infecciones fúngicas de la piel causadas por dermatofitos.
+        Infecciones cutáneas por levaduras, principalmente las causadas por el género Candida (por
+ej. C. albicans).
+        Pitiriasis (Tinea) versicolor.
+ 4.2.   Posología y forma de administración
+        Lamicosil crema puede aplicarse una o dos veces al día. Limpiar y secar las zonas afectadas
+a fondo antes de la aplicación de Lamicosil crema. Aplicar una capa fina de crema sobre la
+zona afectada y las zonas de alrededor realizando un ligero masaje. En el caso de
+infecciones intertriginosas (submamaria, interdigital, interglútea, inguinal) la aplicación
+puede cubrirse con un trozo de gasa, especialmente durante la noche.
+        La duración idónea de tratamiento es la siguiente :
+- Tinea corporis/cruris: 1 semana
+- Tinea pedis:           1 semana
+- Candidiasis cutánea: 1 semana
+- Pitiriasis versicolor: 2 semanas
+La remisión de los síntomas clínicos se produce generalmente en pocos días. El uso
+irregular o la interrupción prematura del tratamiento conlleva el riesgo de recaída. Si
+pasadas dos semanas no se observan signos de mejoría debe comprobarse el diagnóstico.
+ Uso en pacientes de edad avanzada
+        No existe evidencia que sugiera que los pacientes de edad avanzada requieran dosis
+diferentes o experimenten efectos secundarios distintos a los de pacientes más jóvenes.
+        Uso en niños
+        La experiencia con Lamicosil crema en niños es limitada y por consiguiente su utilización
+no puede ser recomendada.
+ 4.3.   Contraindicaciones
+        Hipersensibilidad conocida a la terbinafina o a cualquiera de los excipientes contenidos en
+Lamicosil crema (ver 6.1. ""Relación de excipientes"").
+ 4.4.   Advertencias y precauciones especiales de empleo
+        Lamicosil crema es sólo para uso externo. Puede ser irritante para los ojos. En caso de
+contacto accidental con los ojos, deben lavarse a fondo con agua del grifo.
+ 4.5.   Interacción con con otros medicamentos y otras formas de interacción
+        No se han descrito interacciones medicamentosas con Lamicosil crema.
+ 4.6.   Embarazo y lactancia
+        Los estudios en animales no han revelado un potencial teratógeno o embriofetotóxico para
+la terbinafina. Hasta la fecha no se han observado casos de malformaciones en humanos
+con terbinafina. A pesar de ello, dado que la experiencia clínica en mujeres embarazadas es
+muy limitada, Lamicosil crema deberá utilizarse únicamente cuando esté claramente
+indicado durante el embarazo.
+        La terbinafina pasa a la leche materna y por consiguiente las madres lactantes no deberán
+ser tratadas con Lamicosil.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar maquinaria
+        No procede.
+ 4.8.   Reacciones adversas
+        Puede presentarse enrojecimiento, picor o escozor en el lugar de aplicación. Sin embargo,
+en raras ocasiones debe interrumpirse el tratamiento por este motivo. Estos síntomas deben
+diferenciarse de las reacciones alérgicas que son poco frecuentes, pero que requieren
+interrupción del tratamiento.
+ 4.9.   Sobredosis
+No se ha descrito ningún caso de sobredosificación con Lamicosil crema, no obstante, si se
+produce una ingesta accidental, son de esperar efectos adversos similares a los que se
+producen con una sobredosificación de terbinafina administrada de forma sistémica (p.ej.
+cefalea, náuseas, dolor epigástrico y mareo).
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.   Propiedades farmacodinámicas
+        Grupo farmacoterapéutico: Antifúngico de uso tópico (Código ATC: D01A).
+        La terbinafina es una alilamina que presenta un amplio espectro de actividad antifúngica en
+infecciones de la piel producidas por dermatofitos tales como Trichophyton (p. ej. T.
+rubrum, T. mentagrophytes, T. verrucosum, T. violaceum), Microsporum canis y
+Epidermophyton floccosum. A concentraciones bajas, la terbinafina es fungicida frente a
+dermatofitos, mohos y algunos hongos dimórficos. La actividad frente a levaduras es
+fungicida (p.ej. Pityrosporum orbiculare o Malassezia furfur) o fungistática, según las
+especies.
+        La terbinafina interfiere de modo específico en el primer paso de la biosíntesis del esterol
+fúngico. Esto conduce a una deficiencia en ergosterol y a una acumulación intracelular de
+escualeno, lo que produce la muerte celular del hongo. La terbinafina actúa por inhibición
+de la escualeno epoxidasa en la membrana celular del hongo. La enzima escualeno
+epoxidasa no está unida al sistema del citocromo P450.
+        Lamicosil crema posee un rápido inicio de acción y puede ser eficaz con una corta duración
+de tratamiento.
+ 5.2.   Propiedades farmacocinéticas
+        Menos del 5% de la dosis se absorbe tras aplicación tópica en el hombre; la exposición
+sistémica es pues muy leve.
+ 5.3.   Datos preclínicos sobre seguridad
+        En los estudios a largo plazo (hasta 1 año) realizados en ratas y perros no se han observado
+efectos tóxicos en ninguna de las especies hasta dosis de aproximadamente 100 mg/kg por
+día. A dosis elevadas administradas por vía oral, el hígado y posiblemente los riñones
+fueron identificados como órganos diana potenciales.
+        En un estudio de carcinogenicidad oral de 2 años en ratas, no se atribuyeron efectos
+neoplásicos o anormales al tratamiento hasta dosis de 130 (machos) y 156 (hembras) mg/kg
+por día. En un estudio de carcinogenicidad de 2 años en ratas, en el nivel de dosis superior
+de 69 mg/kg/día se observó una incidencia aumentada de tumores hepáticos en los machos.
+Los cambios han demostrado ser específicos de esta especie ya que no se han observado ni
+en ratones ni en monos.
+        Durante los estudios de dosis elevadas de terbinafina en monos, se observaron
+irregularidades refráctiles en la retina a las dosis más elevadas (el nivel de efecto no tóxico
+fue 50 mg/kg). Estas irregularidades se asociaron con la presencia de un metabolito de la
+                                                                                                          MINISTERIO
+terbinafina en el tejido ocular y desaparecieron al interrumpir el tratamiento. No se
+asociaron con cambios histológicos.
+Una batería estándar de tests de genotoxicidad in vitro e in vivo no reveló ninguna
+evidencia de potencial mutagénico o clastogénico del fármaco.
+        En los estudios realizados en ratas o conejos, no se observaron reacciones adversas sobre la
+fertilidad ni sobre los parámetros de reproducción.
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1.   Relación de excipientes
+        Hidróxido de sodio, alcohol bencílico, monoestearato de sorbitano, palmitato de cetilo,
+alcohol cetílico, alcohol estearílico, polisorbato 60, miristato de isopropilo, agua purificada.
+ 6.2.   Incompatibilidades
+        Ninguna
+ 6.3.   Período de validez
+        5 años
+ 6.4.   Precauciones especiales de conservación
+        No almacenar en lugar cálido.
+ 6.5.   Naturaleza y contenido del recipiente.
+        Envase con 30 g.
+ 6.6.   Instrucciones de uso y manipulación
+        Ninguna en especial.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	       Novartis Consumer Health S.A.
+Gran Via de les Corts Catalanes, 764
+08013 Barcelona
+ 
+	Prospectos de medicamentos.

@@ -1,0 +1,199 @@
+ZAXINE comprimidos, 12 comprimidos
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA NORFLOK
+ 
+1. NOMBRE DEL MEDICAMENTO
+	NORFLOK
+ 
+2. COMPOSICION CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene:
+Norfloxacino ................................... 400 mg
+Excipientes, c.s.
+ 
+3. FORMA FARMACEUTICA
+	Comprimidos.
+ 
+
+
+4. DATOS CLINICOS
+	4.1 Indicaciones terapéuticas:
+ Tratamiento de infecciones de vías urinarias altas y bajas, incluyendo cistitis, pielitis, cistopielitis
+y pielonefritis, causadas por bacterias sensibles al Norfloxacino.
+ Tratamiento de la gastroenteritis aguda bacteriana producida por gérmenes sensibles.
+ 4.2 Posología y forma de administración:
+ - Infecciones urinarias: la dosis usual para un adulto es de 400 mg dos veces al día, de forma
+continuada durante 7 a 10 días, aunque la sintomatología haya desaparecido antes.
+ - Cistitis aguda no complicada en mujeres: se ha demostrado efectividad con un régimen
+terapéutico de 3 días de duración.
+      -    Gastroenteritis aguda infecciosa: deberá tomarse un comprimido cada 12 h durante 5-7
+días.
+4.3 Contraindicaciones:
+ Pacientes con hipersensibilidad conocida al fármaco, o cualquier antibacteriano quinolínico
+relacionado químicamente con él, como el ácido pipemídico.
+ 4.4 Advertencias y precauciones especiales de empleo:
+ Esta especialidad contiene lactosa. Se han descrito casos de intolerancia a este componente en niños y
+adolescentes, aunque la cantidad presente en el preparado no es, probablemente, suficiente para
+desencadenar los síntomas de intolerancia.
+ - Niños: No se ha determinado la seguridad y eficacia, por lo tanto, no se debe emplear en los niños
+antes de la pubertad.
+ - SNC: Como sucede con otros derivados quinolínicos, debe emplearse con precaución en pacientes
+con historia de convulsiones.
+ - Insuficiencia renal: En pacientes con aclaramiento de creatinina inferior a 30 ml/min se reducirá la
+dosis a un comprimido diario para mantener niveles sanguíneos equivalentes a la dosis recomendada
+en función renal normal. Si la insuficiencia renal es muy avanzada se valorará por caso la
+conveniencia del tratamiento.
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción:
+ - Nitrofurantoina: Antagoniza la actividad antibacteriana del Norfloxacino in vitro.
+ - Teofilina: La administración conjunta de 400 mg 2 veces al día de Norfloxacina por vía oral y 300
+mg de teaminofilina 3 veces al día por vía i.v. producen un ligero incremento de la teofilina sérica (no
+más del 18%) en voluntarios sanos. Posteriores estudios han demostrado que este efecto del
+Norfloxacino sobre el metabolismo de la teofilina es mínimo y probablemente la elevación en las
+concentraciones séricas que produce no sean clínicamente importantes en la mayoría de los pacientes.
+- Warfarina: En los estudios realizados en los que se han administrado conjuntamente Norfloxacino y
+Warfarina se han producido algunos pocos casos de incremento del tiempo de protombina por lo que
+se recomienda realizar los test de coagulación en pacientes que reciban la medicación conjunta.
+ - Antiácidos: Los antiácidos que contienen Al o Mg disminuyen la absorción de Norfloxacino. Los
+antiácidos que contienen Ca tienen una incidencia menor.
+ - Sucralfate: La administración de 400 mg de Norfloxacino en el trancurso de 2 h de haber tomado 1 g
+de Sucralfato produce una significativa reducción (>95%) de los valores medios de AUC y de las
+concentraciones urinarias de Norfloxacino. Una vez transcurridas las 2 h, el efecto del Sucralfato
+sobre el Norfloxacino es mínimo.
+ - Hierro/Zinc: Los suplementos orales de minerales di o trivalentes como el Hierro o el Zinc pueden
+disminuir la absorción del Norfloxacino.
+ 4.6 Embarazo y lactancia:
+ - Embarazo: No se ha determinado la seguridad del uso en la mujer embarazada y, consecuentemente,
+deben sopesarse los beneficios del tratamiento con los riesgos potenciales del mismo.
+ - Lactancia: El Norfloxacino se excreta en la leche materna, y aparece en el cordón umbilical y
+líquido amniótico.
+ 4.7 Efectos sobre la capacidad de conducir vehículos y utilizar maquinaria:
+ No se han descrito.
+ 4.8 Reacciones adversas:
+ Las reacciones adversas observadas han sido leves e infrecuentes (4.4 % de incidencia). Los efectos
+secundarios más frecuentes fueron gastrointestinales, e incluyen leves molestias gástricas, anorexia y
+náuseas. También se han descrito cefalea, sensación de inestabilidad y reacciones cutáneas.
+ Raramente se han observado anomalías en las determinaciones de laboratorio, e incluyen: leucopenia,
+eosinofilia y elevación de SGOT y SGPT, fosfatasa alcalina, bilirrubina, BUN y creatinina.
+ 4.9 Sobredosificación:
+ No existe experiencia con sobredosificación, por lo tanto, se desconocen los signos, síntomas y
+tratamiento. En el caso de sobredosificación aguda, debe vaciarse el estómago induciendo el vómito o
+por lavado gástrico y observarse cuidadosamente al paciente, así como emplear medidas terapéuticas
+sintomáticas y de sostén.
+ Debe mantenerse una hidratación adecuada, toda vez que la ingestión de dosis altas de Norfloxacino
+puede producir cristaluria.
+ En caso de sobredosis o ingestión accidental, consultar al Servicio de Información Toxicológica.
+Teléfono: 91 / 562 04 20.
+ 
+5. PROPIEDADES FARMACOLOGICAS
+	5.1 Propiedades farmacodinámicas:
+ Norfloxacino es un quimioterápico sintético derivado de las 4-quinolonas con actividad bactericida
+frente a la mayoría de patógenos responsables de los procesos infecciosos de las vías urinarias y del
+tracto intestinal.
+ Mecanismo de acción:
+ Es un inhibidor de la ADN-girasa bacteriana. Produce un desdoblamiento de las cadenas de ADN y la
+bacteria muere tanto si está en reposo o en fase de reproducción, lo que le confiere propiedades
+bactericidas.
+ Este mecanismo de acción específico también evita las resistencias ya que éstas se transmiten a través
+de la cadena de ADN.
+ Espectro antibacteriano:
+ El Norfloxacino es activo in vitro frente a la mayoría de bacterias aerobias gram-negativas, incluidas
+Enterobacterias y Pseudomonas aeruginosa. También es activo in vitro frente a bacterias aerobias
+gram positivas, incluidas las productoras de penicilasa, no productoras de penicilasa y estafilococos
+meticilin resistentes, aunque algunas cepas de estreptococos son relativamente resistentes.
+ Las bacterias anaerobias obligadas son, por lo general, resistentes al Norfloxacino.
+ El fármaco tiene alguna actividad in vitro frente a Chlamydia, Mycoplasma y algún Mycobacterium,
+pero es inactivo frente a hongos y virus.
+ Aerobios gram-:
+ Enterobacteriaceae: El Norfloxacino es altamente activo frente a los miembros de esta familia con
+CMI90 0.25 mg/l para: E.coli, Morganella morganii y especies de Proteus, Salmonella, Shigella y
+Yersinia. Con una CMI90 0.5 mg/l para: especies de Citrobacter y Enterobacter. Con una CMI90
+2.0 mg/l para especies de Klebsiella, Providencia y Serratia.
+ Otras bacterias gram-negativas: El Norfloxacino es también muy activo frente a aerobios gram -
+diferentes de Enterobacterias con CMI90        0.1 mg/l para: Neisseria gonorrhoeae, Neisseria
+miningitidis, Haemophilus influenzae, Haemophilus ducreyi, Aeromonas sp, Plesiomonas shigelloides
+y Vibrio cholerae.
+ Tiene una importante actividad con una CMI90   4 mg/l frente a: Pseudomonas aeruginosa,
+Campylobacter sp, Capnocytophaga, Moraxela Branhamella catarrhalis, Bordetella pertussis y
+Legionella pneumophila.
+ Tiene una moderada actividad in vitro con una CMI90 = 8-16 mg/l frente a: Acinetobacter sp,
+Bordetella brochiseptica, Brucella melitensis y Gardnerella vaginalis.
+Tiene una actividad relativamente baja frente a Pseudomonas cepacia, Pseudomonas pseudomallei
+y Xantomonas maltophila.
+ Aerobios gram+:
+ De entre las bacterias aerobias gram+, los estafilococos son generalmente más susceptibles que los
+estreptococos.
+Mientras que el Norfloxacino presenta una CMI90          4 mg/ml frente a: Staphylococcus aureus,
+Staphylococcus epidermidis, Staphylococcus hemoliticus y Staphylococcus saprophyticus; presenta
+una CMI90 = 8-16 mg/ml frente a: Enterococcus faecalis, Enterococcus faecium, Streptococcus
+pyogenes, Streptococcus agalactiae, Streptococcus pneumoniae y Listeria monocytogenes.
+                                                    4
+Presenta una buena actividad frente a Bacillus cereus (CMI90 = 1 mg/ml) y Corynebacterium
+jeikeium (CMI90 = 1 mg/ml).
+ Anaerobios y otras especies de bacterias: El grupo de las bacterias anaerobias es el menos susceptible
+al Norfloxacino, entre el que se encuentra el Bacteroides fragilis con una CMI90 = 128 mg/ml. La
+excepción la presentan el Clostridium perfringens (CMI90 = 2.9 mg/ml) y Veillonella (CMI90 = 1.6
+mg/ml).
+ Presenta una mínima actividad in vitro frente a: Chlamydia trachomatis, Mycobacterium
+avium/avium intracellulare, Mycobacterium chelonei y Nocardia asteroides.
+ Los datos disponibles sugieren algo de actividad in vitro frente a: Mycobactyerium tuberculosis,
+Mycobacterium fortuitum, Mycobacterium kansasii, Mycobacterium xenopi, Mycoplasma hominis,
+Mycoplasma pneumoniae y Ureaplasma urealyticum.
+ Es relativamente inactiva frente a: Mycobacterium leprae y Treponema pallidum.
+ 5.2 Propiedades farmacocinéticas:
+ - Absorción:
+ El Norfloxacino es rápidamente absorbido por el tracto gastrointestinal (30-40%) después de la
+administración oral
+de una dosis de 400 mg.
+ La Cmáx sérica de 1.5 a 2.0 g/ml se alcanza a la 1.5 h (Tmáx)
+ La administración de dosis de 200 a 800 mg de Norfloxacina dan lugar a valores de Cmax y AUC que
+incrementan de forma lineal, sin embargo dosis >800 mg producen un incremento no lineal de estos
+parámetros.
+ - Distribución:
+ El Norfloxacino es ampliamente distribuido desde el compartimento vascular a los otros fluidos
+corporales y tejidos.
+ La Cmax en el fluido del tejido intersticial es de 1 mg/l, 2-3 h después de una administración de 400
+mg.
+ Tras la administración oral, el Norfloxacino se distribuye al parenquima renal, vesícula biliar, hígado,
+tejido prostático, testículos, fluido seminal, útero, trompas de Falopio, tejido cervical y vaginal,
+amigdalas, mucosa maxilar, esputos y bilis
+La vida media de eliminación sérica es de 3.25 h, no sufriendo incremento tras la administración de
+dosis repetidas.
+ - Metabolismo:
+ El Norfloxacino se metaboliza principalmente en el hígado.
+ - Eliminación:
+ La eliminación del Norfloxacino se realiza mayoritariamente por orina y heces:
+. Orina: Aproximadamente el 30% de la dosis administrada (400 mg) es eliminada por la orina de
+forma inalterada y el 5-8% en forma de metabolitos.
+ El aclaramiento renal es alto (272 a 296 ml/min) alcanzando una concentración urinaria de 100 a 300
+veces superior a la concentración sérica simultánea.
+ . Heces: Aproximadamente un 29% de la dosis de 400 mg es eliminada por las heces en 48 h. Los
+picos de los niveles fecales oscilan entre 207 y 2716 g/g de heces.
+ Los niveles antibacterianos se mantienen durante un periodo superior a 12 h.
+ - Unión a las proteinas plasmáticas:
+ El Norfloxacino se une en un 10-15% a las proteinas plasmáticas.
+ 
+6. DATOS FARMACEUTICOS
+	6.1 Lista de excipientes:
+Lactosa, Celulosa microcristalina, Crospovidona, Estearato magnésico, Lauril sulfato sódico,
+Hidroxipropilmetilcelulosa 15 CP, Polietilenglicol 4000, Bióxido de titanio.
+ 6.2 Incompatibilidades:
+Como con otros antibacterianos semejantes, se ha demostrado antagonismo entre el Norfloxacino y la
+nitrofurantoína.
+ 6.3 Periodo de validez:
+Tres años.
+ 6.3 Precauciones especiales de conservación:
+No procede.
+ 6.4 Naturaleza y contenido del recipiente:
+Envases de 14 y 20 comprimidos de 400 mg en blisters de PVC/AL.
+ 6.5 Instrucciones de uso/manipulación:
+No procede.
+ 6.6 Nombre y domicilio del titular de la autorización:
+Laboratorio BELMAC S.A.
+C/Teide, 4 planta baja. Parque Empresarial La Marina
+28703 San Sebastián de los Reyes. Madrid.
+ 
+7. NUMERO DE LA AUTORIZACIÓN DE COMERCIALIZACION
+	8. FECHA DE LA APROBACION/REVISION DEL RCP
+Junio de 1996
+
+	 
+      ZAXINE comprimidos, 24 comprimidos
+         Prospectos de medicamentos.

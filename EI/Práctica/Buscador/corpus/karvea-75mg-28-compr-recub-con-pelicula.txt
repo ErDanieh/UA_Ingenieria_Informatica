@@ -1,0 +1,846 @@
+KARVEA 75MG 28 COMPR RECUB CON PELÍCULA
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Karvea, 75 mg, comprimidos.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 75 mg de irbesartan.
+ Excipiente: 15,37 mg de lactosa monohidrato por comprimido
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido.
+Blanco o blanquecino, biconvexo y de forma ovalada, con un corazón troquelado en una cara y el
+número 2771 grabado en la otra cara.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+Tratamiento de la nefropatía en pacientes con diabetes tipo 2 e hipertensión como parte de su
+tratamiento antihipertensivo (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ La dosis habitual inicial y de mantenimiento recomendada es de 150 mg administrados una vez al día,
+con o sin alimentos. Karvea a dosis de 150 mg una vez al día, proporciona un control de 24 horas de la
+presión arterial más adecuado que una dosis de 75 mg. No obstante, se podría considerar el inicio de la
+terapia con una dosis de 75 mg, especialmente en pacientes en hemodiálisis y en ancianos de más de
+75 años.
+ En pacientes no adecuadamente controlados con 150 mg una vez al día, la dosis de Karvea puede
+incrementarse a 300 mg, o añadir otros agentes antihipertensivos. En concreto, la administración
+concomitante de un diurético como hidroclorotiazida ha demostrado tener un efecto aditivo con
+Karvea (ver apartado 4.5).
+ En pacientes con diabetes tipo 2 e hipertensos, la terapia se debe iniciar con una dosis de 150 mg de
+irbesartan una vez al día, ajustándola hasta 300 mg una vez al día como dosis de mantenimiento
+recomendada para el tratamiento de la nefropatía. El beneficio renal del uso de Karvea en estos
+pacientes se demostró en dos ensayos clínicos en los que irbesartan se administró junto con otros
+fármacos para conseguir una presión arterial predeterminada (ver apartado 5.1).
+ Insuficiencia renal: no es necesario realizar un ajuste de dosis en pacientes con alteración de la función
+renal. Debe valorarse la utilización de una dosis inicial más baja (75 mg) en pacientes en hemodiálisis
+(ver apartado 4.4).
+ Insuficiencia hepática: no es necesario realizar un ajuste de dosis en pacientes con insuficiencia
+hepática de leve a moderada. No se dispone de experiencia clínica en pacientes con insuficiencia
+hepática grave.
+                                                     2
+Pacientes ancianos: aunque en pacientes mayores de 75 años debe considerarse la posibilidad de
+iniciar la terapia con 75 mg, generalmente no es necesario realizar un ajuste de dosis en pacientes
+ancianos.
+ Pacientes pediátricos: No se recomienda el uso de irbesartan en niños y adolescentes ya que no hay
+datos suficientes sobre seguridad y eficacia (ver secciones 4.8, 5.1 y 5.2).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes de la formulación (ver apartado 6.1).
+Segundo y tercer trimestres del embarazo (ver secciones 4.4 y 4.6).
+Periodo de lactancia (ver apartado 4.6).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Depleción de volumen intravascular: en pacientes con depleción de sodio y/o volumen por
+tratamientos prolongados con diuréticos, dietas restrictivas en sal, diarrea o vómitos, puede producirse
+hipotensión sintomática, especialmente tras la administración de la primera dosis. Estas situaciones
+deben corregirse antes de la administración de Karvea.
+ Hipertensión renovascular: cuando los pacientes que presentan estenosis de la arteria renal bilateral o
+estenosis de la arteria renal en riñón único funcionante se tratan con medicamentos que afectan al
+sistema renina-angiotensina-aldosterona, existe un mayor riesgo de hipotensión grave e insuficiencia
+renal. Aunque este aspecto no se ha observado con Karvea, puede presentarse un efecto similar con los
+antagonistas de los receptores de la angiotensina-II.
+ Insuficiencia renal y trasplante renal: se recomienda realizar controles periódicos de los niveles séricos
+de potasio y creatinina cuando Karvea se utilice en pacientes con insuficiencia renal. No se dispone de
+experiencia con la administración de Karvea en pacientes recientemente sometidos a trasplante renal.
+ Pacientes hipertensos con diabetes tipo 2 y nefropatía: en un análisis realizado en un ensayo que
+incluyó pacientes con nefropatía avanzada, se observó que el efecto de irbesartan sobre los eventos
+renales y cardiovasculares no fue uniforme entre los subgrupos analizados. En particular, fue menos
+favorable en mujeres y en sujetos que no eran de raza blanca (ver apartado 5.1).
+ Hiperkalemia: como con con otros medicamentos que afectan al sistema renina-angiotensina-aldosterona,
+puede producirse hiperkalemia durante el tratamiento con Karvea, especialmente en presencia de
+insuficiencia renal, proteinuria franca debida a nefropatía diabética y/o insuficiencia cardiaca. En
+pacientes de riesgo se recomienda un control estrecho del potasio sérico (ver apartado 4.5).
+ Litio: no se recomienda la combinación de litio y Karvea (ver apartado 4.5).
+ Estenosis valvular aórtica y mitral, cardiomiopatía hipertrófica obstructiva: como sucede con otros
+vasodilatadores, se recomienda especial precaución en pacientes con estenosis valvular aórtica o
+mitral, o con cardiomiopatía hipertrófica obstructiva.
+ Hiperaldosteronismo primario: los pacientes con hiperaldosteronismo primario generalmente no
+responden al tratamiento con los medicamentos antihipertensivos que actúan por inhibición del
+sistema renina-angiotensina. Por tanto, no se recomienda la utilización de Karvea.
+ Generales: en pacientes cuyo tono vascular y función renal dependen principalmente de la actividad
+del sistema renina-angiotensina-aldosterona (ej: pacientes con insuficiencia cardíaca congestiva grave
+o enfermedad renal subyacente, incluyendo estenosis de la arteria renal), el tratamiento con inhibidores
+de la enzima convertidora de la angiotensina o con antagonistas de los receptores de la angiotensina-II
+que afectan a este sistema se ha asociado con hipotensión aguda, uremia, oliguria o, en raras ocasiones
+con insuficiencia renal aguda.
+ Como sucede con todos los antihipertensivos, el descenso excesivo de la presión arterial en pacientes
+con cardiopatía isquémica o enfermedad cardiovascular isquémica puede provocar un infarto de
+miocardio o un accidente cerebrovascular.
+Como se ha observado con los inhibidores de la enzima convertidora de la angiotensina, tanto
+irbesartan como los otros antagonistas de la angiotensia son aparentemente menos efectivos en la
+reducción de la presión arterial en los sujetos de raza negra, debido posiblemente a que en la población
+de raza negra existe una mayor prevalencia de estados hiporreninénicos (ver apartado 5.1).
+ Embarazo: No se debe iniciar ningún tratamiento con Antagonistas de los Receptores de la
+Angiotensina II (ARA II) durante el embarazo. Salvo que se considere esencial continuar el
+tratamiento con los ARAII, las pacientes que estén planeando quedarse embarazadas deberán cambiar
+a un tratamiento antihipertensivo alternativo que tenga un perfil de seguridad conocido para su uso
+durante el embarazo. Cuando se diagnostique un embarazo, deberá interrumpirse inmediatamente el
+tratamiento con los ARAII, y si procede, iniciar un tratamiento alternativo (ver secciones 4.3 y 4.6).
+ Lactosa: este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, de
+insuficiencia de lactasa de Lapp (insuficiencia observada en ciertas poblaciones de Laponia) o
+problemas de absorción de glucosa o galactosa no deben tomar este medicamento.
+ Pacientes pediátricos: aunque irbesartan se ha estudiado en poblaciones pediátricas de edades
+comprendidas entre 6 y 16 años, hay que esperar a disponer de más datos para avalar la extensión de
+su uso en niños (ver secciones 4.8, 5.1 y 5.2).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Diuréticos y otros agentes antihipertensivos: otros agentes antihipertensivos pueden potenciar los
+efectos hipotensores de irbesartan; sin embargo no se han observado interacciones al administrar
+Karvea con con otros medicamentos antihipertensivos, tales como betabloqueantes, bloqueantes de los
+canales del calcio de acción prolongada y diuréticos tiazídicos. El tratamiento previo con dosis
+elevadas de diuréticos puede causar depleción de volumen y riesgo de hipotensión al iniciar el
+tratamiento con Karvea (ver apartado 4.4).
+ Suplementos de potasio y diuréticos ahorradores de potasio: dado que los medicamentos que actúan
+sobre el sistema renina-angiotensina pueden producir hiperkalemia, no se recomienda el uso
+concomitante de diuréticos ahorradores de potasio, de suplementos de potasio, de sustitutos de la sal
+que contengan potasio o de con otros medicamentos susceptibles de incrementar los niveles séricos de
+potasio (ej: heparina) (ver apartado 4.4).
+ Litio: durante la administración concomitante de litio e inhibidores del enzima conversor de la
+angiotensina, se han descrito incrementos reversibles en las concentraciones séricas de litio y efectos
+tóxicos. Muy raramente se han descrito efectos similares con irbesartan. Por lo tanto, esta combinación
+no está recomendada(ver apartado 4.4). Si la combinación fuera necesaria, se recomienda realizar un
+control riguroso de los niveles séricos de litio.
+ Antiinflamatorios no esteroideos: cuando se administran antagonistas de angiotensina II
+simultáneamente con medicamentos antiinflamatorios no esteroideos (por ejemplo, inhibidores COX-
+2, ácido acetil salicílico (> 3 g/día) y AINEs no selectivos), podría ocurrir la atenuación del efecto
+antihipertensivo.
+Como con los inhibidores de la enzima conversora de angiotensina (ECA), la administración
+concomitante de los antagonistas de la angiotensina II y AINEs podría provocar un incremento del
+riesgo de empeoramiento de la función renal, incluyendo una posible insuficiencia renal aguda, y un
+aumento de potasio sérico especialmente en pacientes con una pobre función renal previa. La
+combinación debe ser administrada con precaución, especialmente en ancianos. Los pacientes deben
+estar adecuadamente hidratados y debe considerarse la monitorización de la función renal después del
+comienzo de la terapia concomitante y periódicamente después.
+                                                    4
+Información adicional sobre las interacciones con irbesartan: en ensayos clínicos, la hidroclorotiazida
+no modifica la farmacocinética de irbesartan. Irbesartan se metaboliza principalmente por el CYP2C9
+y en menor medida por glucuronización. No se observaron interacciones farmacocinéticas o
+farmacodinámicas significativas cuando se administró irbesartan junto con warfarina, un medicamento
+metabolizado por CYP2C9. No se han evaluado los efectos de los inductores del CYP2C9 como
+rifampicina en la farmacocinética de irbesartan. La farmacocinética de digoxina no se modificó por la
+coadministración de irbesartan.
+ 4.6   Embarazo y lactancia
+ Embarazo: No se recomienda el uso de los ARAII durante el primer trimestre del embarazo (ver apartado 4.4). Está contraindicado el uso de los ARAII durante el segundo y tercer trimestre del
+embarazo (ver secciones 4.3 y 4.4).
+ La evidencia epidemiológica sobre el riesgo de teratogenicidad tras la exposición a inhibidores de la
+ECA durante el primer trimestre de embarazo no ha sido concluyente; sin embargo, no se puede
+excluir un pequeño aumento del riesgo. Aunque no hay datos epidemiológicos específicos sobre el
+riesgo que conlleva la administración de Antagonistas de los Receptores de Angiotensina II (ARAII)
+durante el embarazo, pueden existir riesgos similares para este tipo de medicamentos. Salvo que se
+considere esencial continuar el tratamiento con ARA II, las pacientes que estén planeando quedarse
+embarazadas deben cambiar a un tratamiento antihipertensivo alternativo que tenga un perfil de
+seguridad conocido para su uso durante el embarazo. Cuando se diagnostique un embarazo, deberá
+interrumpirse inmediatamente el tratamiento con los ARAII y, si procede, iniciar un tratamiento
+alternativo.
+Se sabe que la exposición a ARAII durante el segundo y el tercer trimestre induce fetotoxicidad
+humana (disminución de la función renal, oligohidramnios, retraso de la osificación craneal) y
+toxicidad neonatal (fallo renal, hipotensión, hiperpotasemia). (ver apartado 5.3).
+Si se produce una exposición a ARAII a partir del segundo trimestre del embarazo, se recomienda
+realizar una prueba de ultrasonidos de la función renal y del cráneo.
+Los lactantes cuyas madres hayan sido tratadas con ARAII deberán ser cuidadosamente monitorizados
+por si se produce hipotensión (ver secciones 4.3 y 4.4).
+ Lactancia: Karvea está contraindicado (ver apartado 4.3) durante el periodo de lactancia. Se desconoce
+si irbesartan se excreta en la leche humana. Irbesartan se excreta en la leche de ratas lactantes.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios del efecto de irbesartan sobre la capacidad para conducir y utilizar
+máquinas. Basándose en sus propiedades farmacodinámicas, es improbable que irbesartan altere esta
+capacidad. Al conducir o utilizar maquinaria, debe tenerse en cuenta que durante el tratamiento pueden
+aparecer mareo o fatiga.
+ 4.8   Reacciones adversas
+ En ensayos clínicos controlados frente a placebo realizados en pacientes hipertensos, la frecuencia
+global de efectos adversos no fue diferente entre el grupo irbesartan (56,2%) y el grupo placebo
+(56,5%). La interrupción debida a efectos adversos clínicos o de laboratorio fue menos frecuente en el
+grupo tratado con irbesartan (3,3%) que en el grupo placebo (4,5%). La incidencia de efectos adversos
+no se relacionó con la dosis (en el rango de dosis recomendado), el sexo, edad, raza o la duración del
+tratamiento.
+ En los pacientes diabéticos hipertensos con microalbuminuria y función renal normal, se observó
+hipotensión ortostática y mareo ortostático en el 0,5% (poco frecuentes) de los pacientes siendo
+superior al grupo placebo.
+ La siguiente tabla presenta las reacciones adversas que se notificaron en los ensayos controlados frente
+a placebo en los que 1.965 pacientes recibieron irbesartan. Los términos marcados con un asterisco (*)
+                                                    5
+se refieren a las reacciones adversas que fueron adicionalmente notificadas en > 2% de los pacientes
+diabéticos hipertensos con insuficiencia renal crónica y proteinuria franca, y que fueron superiores al
+grupo placebo.
+ Las reacciones adversas mencionadas a continuación se encuentran agrupadas, según su frecuencia,
+en: muy frecuentes ( 1/10); frecuentes ( 1/100, < 1/10); poco frecuentes ( 1/1.000, < 1/100); raras
+( 1/10.000, < 1/1.000); muy raras (< 1/10.000). Las reacciones adversas se presentan en orden
+decreciente de gravedad dentro de cada intervalo de frecuencia.
+ Exploraciones complementarias:
+Muy frecuentes: se observó hiperkalemia* más frecuentemente en los pacientes diabéticos tratados
+con irbesartan que en el grupo placebo. En pacientes diabéticos hipertensos con
+microalbuminuria y función renal normal, se observó hiperkalemia ( 5,5 mEq/l) en
+el 29,4% de los pacientes tratados con 300 mg de irbesartan y en el 22% de los
+pacientes del grupo placebo. En pacientes diabéticos hipertensos con proteinuria
+franca e insuficiencia renal crónica, se observó hiperkalemia ( 5,5 mEq/l) en el
+46,3% de los pacientes tratados con irbesartan y en el 26,3% de los pacientes del
+grupo placebo.
+Frecuentes:     en los pacientes tratados con irbesartan se observaron incrementos significativos
+(1,7%) de creatina-cinasa plasmática. Ninguno de estos incrementos fue asociado
+con alteraciones musculoesqueléticas clínicas.
+Se ha observado un descenso de los niveles de hemoglobina*, que no fue
+clínicamente significativo, en el 1,7% (frecuentes) de los pacientes hipertensos con
+nefropatía diabética avanzada tratados con irbesartan.
+ Trastornos cardíacos:
+Poco frecuentes: taquicardia
+ Trastornos del sistema nervioso:
+Frecuentes:       mareo, mareo ortostático*
+ Trastornos respiratorios, torácicos y mediastínicos:
+Poco frecuentes: tos
+ Trastornos gastrointestinales:
+Frecuentes:      náuseas/vómitos
+Poco frecuentes: diarrea, dispepsia/pirosis
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Frecuentes:     dolor musculoesquelético*
+ Trastornos vasculares:
+Frecuentes:      hipotensión ortostática*
+Poco frecuentes: rubor
+ Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes:      fatiga
+Poco frecuentes: dolor torácico.
+ Trastornos del aparato reproductor y de la mama:
+Poco frecuentes: disfunción sexual
+ Las siguientes reacciones adversas han sido notificadas durante la experiencia
+post-comercialización; no se conoce su frecuencia ya que se derivan de notificaciones
+espontáneas:
+                                                    6
+Trastornos del sistema nervioso:
+Cefalea
+ Trastornos del oído y del laberinto:
+Tinnitus
+ Trastornos gastrointestinales:
+Disgeusia
+ Trastornos renales y urinarios:
+Insuficiencia renal incluyendo casos de fallo renal en pacientes de riesgo (ver apartado 4.4)
+ Trastornos de la piel y del tejido subcutáneo:
+Vasculitis leucocitoclástica
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Artralgia, mialgia (en algunos casos se han asociado con niveles plasmáticos elevados de creatina-
+cinasa), calambres musculares
+ Trastornos del metabolismo y de la nutrición:
+Hiperkalemia
+ Trastornos del sistema inmunológico:
+Reacciones de hipersensibilidad como angioedema, rash y urticaria
+ Trastornos hepatobiliares:
+Hepatitis, anomalías en la función hepática
+ Pacientes pediátricos: en un ensayo aleatorizado que se llevó a cabo en 318 niños y adolescentes
+hipertensos de edades comprendidas entre 6 y 16 años, aparecieron las siguientes reacciones adversas
+durante la fase doble ciego de 3 semanas de duración: dolor de cabeza (7,9%) , hipotensión (2,2%),
+mareo (1,9%), tos (0,9%). Durante la fase abierta del ensayo, de 26 semanas de duración, las
+anormalidades de laboratorio observadas con mayor frecuencia fueron incremento de los niveles de
+creatinina (6,5%) y valores elevados de creatina-cinasa (CK) en un 2% de los niños tratados.
+ 4.9   Sobredosis
+ La experiencia en adultos expuestos a dosis de hasta 900 mg/día durante 8 semanas no reveló
+toxicidad. Los signos más probables de sobredosis son hipotensión y taquicardia; también tras una
+sobredosis podría presentarse bradicardia. No se dispone de información específica para el tratamiento
+de la sobredosis con Karvea. El paciente debe ser estrechamente vigilado y el tratamiento debe ser
+sintomático y de soporte. Las medidas sugeridas incluyen inducción de la emesis y/o lavado gástrico.
+El carbón vegetal activado puede ser útil para el tratamiento de la sobredosis. Irbesartan no se elimina
+por hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antagonistas de angiotensina-II, monofármacos.
+Código ATC: C09C A04.
+ Mecanismo de acción: Irbesartan es un potente antagonista selectivo del receptor de la angiotensina-II
+(tipo AT1), activo por vía oral. Parece bloquear todas las acciones de la angiotensina-II mediadas por
+el receptor AT1, con independencia del origen o la vía de síntesis de la angiotensina-II. El antagonismo
+selectivo de los receptores de la angiotensina-II (AT1) produce incrementos de los niveles plasmáticos
+                                                     7
+de renina y de angiotensina-II y disminución en la concentración plasmática de aldosterona. Los
+niveles séricos de potasio no se modifican significativamente a las dosis recomendadas de irbesartan
+en monoterapia. Irbesartan no inhibe la ECA (quininasa-II), un enzima que genera angiotensina-II y
+que también degrada la bradiquinina a metabolitos inactivos. Irbesartan no requiere activación
+metabólica para ser activo.
+ Eficacia clínica:
+ Hipertensión
+Irbesartan reduce la presión arterial con un cambio mínimo de la frecuencia cardiaca. La disminución
+de la presión arterial es dosis-dependiente para dosis únicas diarias, con tendencia a alcanzar una
+meseta a dosis por encima de 300 mg. Dosis únicas diarias de 150-300 mg disminuyen la presión
+arterial en bipedestación o sedestación en el valle (es decir, 24 horas tras la dosificación) en un
+promedio de 8-13/5-8 mm Hg (sistólica /diastólica) superior al observado con placebo.
+La reducción máxima de la presión arterial se alcanza transcurridas 3-6 horas tras la administración y
+el efecto reductor de la presión arterial se mantiene durante al menos 24 horas. A las 24 horas, la
+reducción de la presión arterial fue del 60-70% del correspondiente pico diastólico y sistólico obtenido
+a las dosis recomendadas. Con una dosis única diaria de 150 mg se obtiene el mismo valle y la misma
+respuesta media durante 24 horas que con esta dosis total dividida en dos tomas.
+El efecto reductor de la presión arterial con Karvea es evidente en 1-2 semanas, alcanzándose el efecto
+máximo transcurridas 4-6 semanas desde el inicio del tratamiento. El efecto antihipertensivo se
+mantiene durante el tratamiento a largo plazo. Tras la interrupción de la terapia, la presión arterial
+retorna gradualmente a sus valores basales. No se ha observado hipertensión de rebote.
+El efecto reductor sobre la presión arterial de irbesartan y los diuréticos tipo tiazida es aditivo. En
+pacientes que no se controlan adecuadamente con irbesartan en monoterapia, la combinación con una
+dosis baja de hidroclorotiazida (12,5 mg) una vez al día produce una mayor reducción de la presión
+arterial en el valle de 7-10/3-6 mm Hg (sistólica/diastólica).
+La eficacia de Karvea no se modifica por la edad o el sexo. Como sucede con con otros medicamentos
+antihipertensivos que actúan sobre el sistema renina-angiotensina, los pacientes hipertensos de raza
+negra tienen una respuesta a la monoterapia con irbesartan notablemente inferior. Cuando irbesartan se
+administra concomitantemente con una dosis baja de hidroclorotiazida (ej: 12,5 mg al día), la
+respuesta antihipertensiva de los pacientes de raza negra se aproxima a los de raza blanca.
+No se han observado efectos clínicamente significativos por el ácido úrico sérico o la secreción
+urinaria de ácido úrico.
+ Durante un periodo de 3 semanas se evaluó en 318 niños y adolescentes hipertensos o en riesgo
+(diabetes, historia familiar de hipertensión) conedades comprendidas entre 6 y 16 años la reducción de
+la presión arterial con ajustes de dosis de irbesartan de 0,5 mg/kg (baja), 1,5 mg/kg (media) y
+4,5 mg/kg (alta). Al cabo de las 3 semanas, la reducción en la variable principal de eficacia, la presión
+arterial sistólica, sentado, en valle (PASSe), en comparación con los valores basales fue de
+11,7 mmHg (dosis baja), de 9,3 mmHg (dosis media) y 3,2 mmHg (dosis alta). No hubo diferencias
+significativas aparentes entre las distintas dosis. El cambio principal ajustado para la presión arterial
+diastólica, sentado, en valle (PADSe) fue el siguiente: 3,8 mmHg (dosis baja), 3,2 mmHg (dosis
+media) y 5,6 mmHg (dosis alta). Tras el consiguiente período de 2 semanas en el que los pacientes
+fueron re­aleatorizados, bien al medicamento o al placebo, la PASSe aumentó en 2,4 mmHg y la
+PADSe en 2,0 mmHg en pacientes que tomaban placebo, mientras que en los que tomaban irbesartan,
+la variación fue de +0,1 mmHg y -0,3 mmHg, respectivamente (ver apartado 4.2).
+ Hipertensión y diabetes tipo 2 con nefropatía
+El ensayo IDNT (Irbesartan Diabetic Nephropathy Trial) demostró que irbesartan reduce la progresión
+de la nefropatía en los pacientes con insuficiencia renal crónica y proteinuria franca. El IDNT es un
+ensayo de morbi-mortalidad, doble ciego y controlado, en el que se compararon Karvea, amlodipino y
+placebo. Se evaluaron los efectos a largo plazo (media de 2,6 años) de Karvea sobre la progresión de
+la nefropatía y todas las causas de mortalidad en 1.715 pacientes hipertensos con diabetes tipo 2,
+proteinuria  900 mg/día y creatinina sérica comprendida entre 1,0-3,0 mg/dl. A los pacientes se les
+ajustó la dosis desde 75 mg hasta la dosis de mantenimiento de 300 mg de Karvea, desde 2,5 mg hasta
+10 mg de amlodipino o placebo, según su tolerabilidad. En todos los grupos de tratamiento, los
+                                                     8
+pacientes recibieron entre 2 y 4 fármacos antihipertensivos (p.e. diuréticos, betabloqueantes,
+alfabloqueantes) para conseguir el objetivo de presión arterial predefinido  135/85 mm Hg o una
+reducción de 10 mm Hg en la presión arterial sistólica, en el caso de que la basal fuera > 160 mm Hg.
+El porcentaje de pacientes que alcanzó este objetivo fue de un 60% en el grupo placebo frente a un
+76% y 78% en los grupos tratados con irbesartan y amlodipino, respectivamente. Irbesartan redujo
+significativamente el riesgo relativo en la variable principal combinada que incluye duplicación de los
+niveles de creatinina sérica, enfermedad renal terminal (ERT) o mortalidad por cualquier causa.
+ Aproximadamente un 33% de los pacientes tratados con irbesartan presentó alguno de los eventos de
+la variable principal combinada frente a un 39% y 41% en el grupo placebo y en el tratado con
+amlodipino, respectivamente, [20% de reducción relativa del riesgo frente a placebo (p = 0,024) y 23%
+de reducción relativa del riesgo comparado con amlodipino (p = 0,006)]. Cuando se analizaron los
+componentes individuales de la variable principal combinada, no se observó efecto alguno sobre la
+mortalidad por cualquier causa, mientras que se encontró una tendencia positiva en la reducción del
+ERT y una reducción significativa en la duplicación de los niveles de creatinina sérica.
+ Para valorar el efecto del tratamiento se analizaron subgrupos de población por sexo, raza, edad,
+duración de la diabetes, presión arterial basal, niveles de creatinina sérica y porcentaje de excreción de
+albúmina. Aunque los intervalos de confianza no lo excluyan, no hubo evidencia de beneficio renal ni
+en el subgrupo de mujeres ni en el de pacientes de raza negra, los cuales representaban un 32% y un
+26% del total de la población en estudio, respectivamente. En la población total, no se observaron
+diferencias significativas entre los tres grupos de tratamiento para la variable secundaria de eventos
+cardiovasculares fatales y no fatales. Sin embargo, se observó un incremento de la incidencia de
+infarto de miocardio no fatal en mujeres y un descenso de la incidencia de infarto de miocardio no
+fatal en varones en el grupo tratado con irbesartan frente al grupo placebo. Asimismo, se observó un
+incremento de la incidencia de infarto de miocardio no fatal y de ictus en mujeres tratadas con
+irbesartan frente a las tratadas con amlodipino, mientras que la hospitalización debida a insuficiencia
+cardiaca en la población total se redujo. No se ha encontrado una explicación adecuada para estos
+hallazgos en mujeres.
+ El ensayo IRMA 2 (Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with
+Type 2 Diabetes Mellitus) demostró que la dosis de 300 mg de irbesartan retrasa la progresión a
+proteinuria franca en pacientes con microalbuminuria. El IRMA 2 es un ensayo de morbilidad, doble
+ciego, controlado frente a placebo que incluyó 590 pacientes con diabetes tipo 2, microalbuminuria
+(30-300 mg/día) y función renal normal (creatinina sérica  1,5 mg/dl en hombres y < 1,1 mg/dl en
+mujeres). El ensayo evaluó los efectos a largo plazo (2 años) de Karvea sobre la progresión a
+proteinuria franca (tasa de excreción de albúmina en orina > 300 mg/día, y un incremento de la tasa de
+excreción de albúmina en orina de, al menos, un 30% sobre el nivel basal). El objetivo de presión
+arterial predefinido fue  135/85 mm Hg. Para alcanzarlo, se asociaron otros fármacos
+antihipertensivos (excluyendo inhibidores de la ECA, antagonistas de la angiotensina-II, calcio
+antagonistas dihidropiridínicos) si era necesario. Todos los grupos de tratamiento alcanzaron una
+presión arterial similar, mientras que un porcentaje menor de sujetos en el grupo tratado con irbesartan
+300 mg (5,2%) respecto al grupo placebo (14,9%) o al grupo de 150 mg de irbesartan (9,7%) presentó
+proteinuria franca, demostrando, para la dosis más elevada, una reducción relativa del riesgo del 70%
+frente a placebo (p = 0,0004). No se observó un incremento en la tasa de filtración glomerular (TFG)
+durante los tres primeros meses de tratamiento. El enlentecimiento en la progresión a proteinuria
+franca fue evidente a los tres meses del inicio del tratamiento y continuó durante el seguimiento de
+2 años. La regresión a normoalbuminuria (< 30 mg/día) fue más frecuente en el grupo de 300 mg de
+Karvea (34%) que en el grupo placebo (21%).
+ 5.2   Propiedades farmacocinéticas
+ Tras la administración oral, irbesartan se absorbe bien: los estudios de biodisponibilidad absoluta
+demostraron valores de aproximadamente un 60-80%. La ingesta concomitante de alimentos no
+modifica significativamente la biodisponibilidad de irbesartan. La fijación a las proteínas plasmáticas
+es aproximadamente del 96%, con fijación despreciable a los componentes celulares sanguíneos. El
+volumen de distribución es de 53-93 litros. Tras la administración oral o intravenosa de irbesartan
+                                                     9
+marcado con 14C, el 80-85% de la radioactividad plasmática circulante se atribuye a irbesartan
+inalterado. Irbesartan se metaboliza en el hígado por la vía de la conjugación glucurónica y oxidación.
+El principal metabolito circulante es el irbesartan glucurónido (aproximadamente el 6%). Los estudios
+in vitro indican que irbesartan se oxida principalmente por el enzima del citocromo P450 CYP2C9; el
+isoenzima CYP3A4 tiene un efecto despreciable.
+ Irbesartan presenta una farmacocinética lineal y proporcional a la dosis en el rango de dosis de 10 a
+600 mg. A dosis superiores a 600 mg (doble de la dosis máxima recomendada), se observó un
+incremento proporcional de la absorción oral inferior al esperado; se desconoce por qué mecanismo.
+La concentración plasmática máxima se alcanza transcurridas 1,5-2 horas de la administración oral. El
+aclaramiento corporal total y renal es de 157-176 y 3-3,5 ml/min, respectivamente. La semivida de
+eliminación terminal de irbesartan es de 11-15 horas. La concentración plasmática en estado
+estacionario se alcanza a los 3 días de iniciar la pauta de dosificación de dosis única diaria. Después de
+la administración de dosis únicas diarias repetidas, se observa una acumulación plasmática limitada de
+irbesartan (< 20%). En un estudio se observaron concentraciones plasmáticas de irbesartan algo más
+elevadas en mujeres hipertensas. Sin embargo, no se detectaron diferencias en la semivida y en la
+acumulación de irbesartan. No es necesario realizar un ajuste de la dosificación en mujeres. Los
+valores de AUC y Cmax de irbesartan fueron también algo más elevados en pacientes ancianos
+( 65 años) respecto a los pacientes jóvenes (18-40 años). Sin embargo, la semivida de eliminación no
+se modificó significativamente. No es necesario realizar un ajuste de la dosificación en pacientes
+ancianos.
+ Irbesartan y sus metabolitos se eliminan por vía biliar y renal. Después de la administración oral o IV
+de irbesartan marcado con 14C, aproximadamente el 20% de la radioactividad se recupera en orina, y el
+resto en heces. Menos del 2% de la dosis se excreta en orina como irbesartan inalterado.
+ La farmacocinética de irbesartan ha sido evaluada en 23 niños hipertensos tras la administración de
+una dosis única diaria y de dosis múltiples diarias de irbesartan (2 mg/kg) hasta un máximo de 150 mg
+al día durante 4 semanas. De estos 23 niños, 21 fueron evaluados para comparar su farmacocinética
+con la de adultos (doce niños eran mayores de 12 años, nueve niños tenían entre 6 y 12 años). Los
+resultados mostraron que los valores de Cmax, AUC y los niveles de aclaramiento eran comparables a
+los observados en pacientes adultos que recibieron 150 mg diarios de irbesartan. Con la administración
+repetida de una sola dosis diaria, se observó una acumulación plasmática limitada de irbesartan (18%).
+ Insuficiencia renal: los parámetros farmacocinéticos de irbesartan no se modifican significativamente
+en pacientes con alteración renal o en pacientes en hemodiálisis. Irbesartan no se elimina por
+hemodiálisis.
+ Insuficiencia hepática: los parámetros farmacocinéticos de irbesartan no se modifican
+significativamente en pacientes con cirrosis de leve a moderada. No se han realizado estudios en
+pacientes con insuficiencia hepática grave.
+ 5.3   Datos preclínicos sobre seguridad
+ No hubo evidencia de toxicidad sistémica ni toxicidad en órganos diana a dosis clínicamente
+significativas. En estudios no-clínicos de seguridad, dosis elevadas de irbesartan ( 250 mg/kg/día en
+ratas y  100 mg/kg/día en macacos) causaron una disminución de los parámetros hematológicos
+(eritrocitos, hemoglobina, hematocrito). A dosis muy superiores ( 500 mg/kg/día) en la rata y el
+macaco, irbesartan indujo cambios degenerativos en el riñón (como nefritis intersticial, distensión
+tubular, túbulos basofílicos, concentraciones plasmáticas elevadas de urea y creatinina) considerados
+como secundarios a los efectos hipotensores del medicamento que originan una disminución de la
+perfusión renal. Además, irbesartan induce hiperplasia/hipertrofia de las células yuxtaglomerulares (en
+ratas con  90 mg/kg/día, en macacos con  10mg/kg/día). Todos estos hallazgos se consideraron
+relacionados con la acción farmacológica de irbesartan. A dosis terapéuticas de irbesartan en humanos,
+la hiperplasia/hipertrofia de las células renales yuxtaglomerulares no parece tener ninguna relevancia.
+ No hubo evidencia de mutagenicidad, clastogenicidad o carcinogenicidad.
+                                                     10
+Los estudios realizados en animales con irbesartan han mostrado efectos tóxicos transitorios (aumento
+de la cavitación pélvica renal, uterohidronefrosis o edema subcutáneo) en fetos de rata, que se
+resolvieron tras el nacimiento. En conejos, se han descrito abortos o resorción temprana a dosis que
+producen toxicidad materna significativa, incluyendo mortalidad. No se han observado efectos
+teratogénicos en rata o conejo.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Celulosa microcristalina
+Croscarmelosa sódica
+Lactosa monohidrato
+Estearato de magnesio
+Sílice coloidal hidratada
+Almidón de maiz pregelatinizado
+Poloxamer 188
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC.
+ 6.5   Naturaleza y contenido del envase
+ Caja de 14 comprimidos: 1 blíster de 14 comprimidos de Aluminio/PVC/PVDC
+Caja de 28 comprimidos: 2 blísters de 14 comprimidos de Aluminio/PVC/PVDC
+Caja de 56 comprimidos: 4 blísters de 14 comprimidos de Aluminio/PVC/PVDC
+Caja de 98 comprimidos: 7 blísters de 14 comprimidos de Aluminio/PVC/PVDC
+Caja de 56 x 1 comprimidos: 7 blísters con 8x1 comprimido en cada blíster precortado unidosis de
+Aluminio/PVC/PVDC
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con las normativas locales.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	BRISTOL-MYERS SQUIBB PHARMA EEIG
+Uxbridge Business Park
+Sanderson Road
+Uxbridge UB8 1DH - Reino Unido
+                                                  11
+
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/97/049/001-003
+EU/1/97/049/010
+EU/1/97/049/013
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 27 Agosto 1997
+Fecha de la última renovación: 27 Agosto 2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu/
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Karvea, 150 mg, comprimidos.
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 150 mg de irbesartan.
+ Excipiente: 30,75 mg de lactosa monohidrato por comprimido
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido.
+Blanco o blanquecino, biconvexo y de forma ovalada, con un corazón troquelado en una cara y el
+número 2772 grabado en la otra cara.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+Tratamiento de la nefropatía en pacientes con diabetes tipo 2 e hipertensión como parte de su
+tratamiento antihipertensivo (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ La dosis habitual inicial y de mantenimiento recomendada es de 150 mg administrados una vez al día,
+con o sin alimentos. Karvea a dosis de 150 mg una vez al día, proporciona un control de 24 horas de la
+presión arterial más adecuado que una dosis de 75 mg. No obstante, se podría considerar el inicio de la
+terapia con una dosis de 75 mg, especialmente en pacientes en hemodiálisis y en ancianos de más de
+75 años.
+ En pacientes no adecuadamente controlados con 150 mg una vez al día, la dosis de Karvea puede
+incrementarse a 300 mg, o añadir otros agentes antihipertensivos. En concreto, la administración
+concomitante de un diurético como hidroclorotiazida ha demostrado tener un efecto aditivo con
+Karvea (ver apartado 4.5).
+ En pacientes con diabetes tipo 2 e hipertensos, la terapia se debe iniciar con una dosis de 150 mg de
+irbesartan una vez al día, ajustándola hasta 300 mg una vez al día como dosis de mantenimiento
+recomendada para el tratamiento de la nefropatía. El beneficio renal del uso de Karvea en estos
+pacientes se demostró en dos ensayos clínicos en los que irbesartan se administró junto con otros
+fármacos para conseguir una presión arterial predeterminada (ver apartado 5.1).
+ Insuficiencia renal: no es necesario realizar un ajuste de dosis en pacientes con alteración de la función
+renal. Debe valorarse la utilización de una dosis inicial más baja (75 mg) en pacientes en hemodiálisis
+(ver apartado 4.4).
+ Insuficiencia hepática: no es necesario realizar un ajuste de dosis en pacientes con insuficiencia
+hepática de leve a moderada. No se dispone de experiencia clínica en pacientes con insuficiencia
+hepática grave.
+                                                     13
+Pacientes ancianos: aunque en pacientes mayores de 75 años debe considerarse la posibilidad de
+iniciar la terapia con 75 mg, generalmente no es necesario realizar un ajuste de dosis en pacientes
+ancianos.
+ Pacientes pediátricos: No se recomienda el uso de irbesartan en niños y adolescentes ya que no hay
+datos suficientes sobre seguridad y eficacia (ver secciones 4.8, 5.1 y 5.2).
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes de la formulación (ver apartado 6.1).
+Segundo y tercer trimestres del embarazo (ver secciones 4.4 y 4.6).
+Periodo de lactancia (ver apartado 4.6).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Depleción de volumen intravascular: en pacientes con depleción de sodio y/o volumen por
+tratamientos prolongados con diuréticos, dietas restrictivas en sal, diarrea o vómitos, puede producirse
+hipotensión sintomática, especialmente tras la administración de la primera dosis. Estas situaciones
+deben corregirse antes de la administración de Karvea.
+ Hipertensión renovascular: cuando los pacientes que presentan estenosis de la arteria renal bilateral o
+estenosis de la arteria renal en riñón único funcionante se tratan con medicamentos que afectan al
+sistema renina-angiotensina-aldosterona, existe un mayor riesgo de hipotensión grave e insuficiencia
+renal. Aunque este aspecto no se ha observado con Karvea, puede presentarse un efecto similar con los
+antagonistas de los receptores de la angiotensina-II.
+ Insuficiencia renal y trasplante renal: se recomienda realizar controles periódicos de los niveles séricos
+de potasio y creatinina cuando Karvea se utilice en pacientes con insuficiencia renal. No se dispone de
+experiencia con la administración de Karvea en pacientes recientemente sometidos a trasplante renal.
+ Pacientes hipertensos con diabetes tipo 2 y nefropatía: en un análisis realizado en un ensayo que
+incluyó pacientes con nefropatía avanzada, se observó que el efecto de irbesartan sobre los eventos
+renales y cardiovasculares no fue uniforme entre los subgrupos analizados. En particular, fue menos
+favorable en mujeres y en sujetos que no eran de raza blanca (ver apartado 5.1).
+ Hiperkalemia: como con con otros medicamentos que afectan al sistema renina-angiotensina-aldosterona,
+puede producirse hiperkalemia durante el tratamiento con Karvea, especialmente en presencia de
+insuficiencia renal, proteinuria franca debida a nefropatía diabética y/o insuficiencia cardiaca. En
+pacientes de riesgo se recomienda un control estrecho del potasio sérico (ver apartado 4.5).
+ Litio: no se recomienda la combinación de litio y Karvea (ver apartado 4.5).
+ Estenosis valvular aórtica y mitral, cardiomiopatía hipertrófica obstructiva: como sucede con otros
+vasodilatadores, se recomienda especial precaución en pacientes con estenosis valvular aórtica o
+mitral, o con cardiomiopatía hipertrófica obstructiva.
+ Hiperaldosteronismo primario: los pacientes con hiperaldosteronismo primario generalmente no
+responden al tratamiento con los medicamentos antihipertensivos que actúan por inhibición del
+sistema renina-angiotensina. Por tanto, no se recomienda la utilización de Karvea.
+ Generales: en pacientes cuyo tono vascular y función renal dependen principalmente de la actividad
+del sistema renina-angiotensina-aldosterona (ej: pacientes con insuficiencia cardíaca congestiva grave
+o enfermedad renal subyacente, incluyendo estenosis de la arteria renal), el tratamiento con inhibidores
+de la enzima convertidora de la angiotensina o con antagonistas de los receptores de la angiotensina-II
+que afectan a este sistema se ha asociado con hipotensión aguda, uremia, oliguria o, en raras ocasiones
+con insuficiencia renal aguda.
+ Como sucede con todos los antihipertensivos, el descenso excesivo de la presión arterial en pacientes
+con cardiopatía isquémica o enfermedad cardiovascular isquémica puede provocar un infarto de
+miocardio o un accidente cerebrovascular.
+Como se ha observado con los inhibidores de la enzima convertidora de la angiotensina, tanto
+irbesartan como los otros antagonistas de la angiotensia son aparentemente menos efectivos en la
+reducción de la presión arterial en los sujetos de raza negra, debido posiblemente a que en la población
+de raza negra existe una mayor prevalencia de estados hiporreninénicos (ver apartado 5.1).
+ Embarazo: No se debe iniciar ningún tratamiento con Antagonistas de los Receptores de la
+Angiotensina II (ARA II) durante el embarazo. Salvo que se considere esencial continuar el
+tratamiento con los ARAII, las pacientes que estén planeando quedarse embarazadas deberán cambiar
+a un tratamiento antihipertensivo alternativo que tenga un perfil de seguridad conocido para su uso
+durante el embarazo. Cuando se diagnostique un embarazo, deberá interrumpirse inmediatamente el
+tratamiento con los ARAII, y si procede, iniciar un tratamiento alternativo (ver secciones 4.3 y 4.6).
+ Lactosa: este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, de
+insuficiencia de lactasa de Lapp (insuficiencia observada en ciertas poblaciones de Laponia) o
+problemas de absorción de glucosa o galactosa no deben tomar este medicamento.
+ Pacientes pediátricos: aunque irbesartan se ha estudiado en poblaciones pediátricas de edades
+comprendidas entre 6 y 16 años, hay que esperar a disponer de más datos para avalar la extensión de
+su uso en niños (ver secciones 4.8, 5.1 y 5.2).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Diuréticos y otros agentes antihipertensivos: otros agentes antihipertensivos pueden potenciar los
+efectos hipotensores de irbesartan; sin embargo no se han observado interacciones al administrar
+Karvea con con otros medicamentos antihipertensivos, tales como betabloqueantes, bloqueantes de los
+canales del calcio de acción prolongada y diuréticos tiazídicos. El tratamiento previo con dosis
+elevadas de diuréticos puede causar depleción de volumen y riesgo de hipotensión al iniciar el
+tratamiento con Karvea (ver apartado 4.4).
+ Suplementos de potasio y diuréticos ahorradores de potasio: dado que los medicamentos que actúan
+sobre el sistema renina-angiotensina pueden producir hiperkalemia, no se recomienda el uso
+concomitante de diuréticos ahorradores de potasio, de suplementos de potasio, de sustitutos de la sal
+que contengan potasio o de con otros medicamentos susceptibles de incrementar los niveles séricos de
+potasio (ej: heparina) (ver apartado 4.4).
+ Litio: durante la administración concomitante de litio e inhibidores del enzima conversor de la
+angiotensina, se han descrito incrementos reversibles en las concentraciones séricas de litio y efectos
+tóxicos. Muy raramente se han descrito efectos similares con irbesartan. Por lo tanto, esta combinación
+no está recomendada(ver apartado 4.4). Si la combinación fuera necesaria, se recomienda realizar un
+control riguroso de los niveles séricos de litio.
+ Antiinflamatorios no esteroideos: cuando se administran antagonistas de angiotensina II
+simultáneamente con medicamentos antiinflamatorios no esteroideos (por ejemplo, inhibidores COX-
+2, ácido acetil salicílico (> 3 g/día) y AINEs no selectivos), podría ocurrir la atenuación del efecto
+antihipertensivo.
+Como con los inhibidores de la enzima conversora de angiotensina (ECA), la administración
+concomitante de los antagonistas de la angiotensina II y AINEs podría provocar un incremento del
+riesgo de empeoramiento de la función renal, incluyendo una posible insuficiencia renal aguda, y un
+aumento de potasio sérico especialmente en pacientes con una pobre función renal previa. La
+combinación debe ser administrada con precaución, especialmente en ancianos. Los pacientes deben
+estar adecuadamente hidratados y debe considerarse la monitorización de la función renal después del
+comienzo de la terapia concomitante y periódicamente después.
+                                                    15
+Información adicional sobre las interacciones con irbesartan: en ensayos clínicos, la hidroclorotiazida
+no modifica la farmacocinética de irbesartan. Irbesartan se metaboliza principalmente por el CYP2C9
+y en menor medida por glucuronización. No se observaron interacciones farmacocinéticas o
+farmacodinámicas significativas cuando se administró irbesartan junto con warfarina, un medicamento
+metabolizado por CYP2C9. No se han evaluado los efectos de los inductores del CYP2C9 como
+rifampicina en la farmacocinética de irbesartan. La farmacocinética de digoxina no se modificó por la
+coadministración de irbesartan.
+ 4.6   Embarazo y lactancia
+ Embarazo: No se recomienda el uso de los ARAII durante el primer trimestre del embarazo (ver apartado 4.4). Está contraindicado el uso de los ARAII durante el segundo y tercer trimestre del
+embarazo (ver secciones 4.3 y 4.4).
+ La evidencia epidemiológica sobre el riesgo de teratogenicidad tras la exposición a inhibidores de la
+ECA durante el primer trimestre de embarazo no ha sido concluyente; sin embargo, no se puede
+excluir un pequeño aumento del riesgo. Aunque no hay datos epidemiológicos específicos sobre el
+riesgo que conlleva la administración de Antagonistas de los Receptores de Angiotensina II (ARAII)
+durante el embarazo, pueden existir riesgos similares para este tipo de medicamentos. Salvo que se
+considere esencial continuar el tratamiento con ARA II, las pacientes que estén planeando quedarse
+embarazadas deben cambiar a un tratamiento antihipertensivo alternativo que tenga un perfil de
+seguridad conocido para su uso durante el embarazo. Cuando se diagnostique un embarazo, deberá
+interrumpirse inmediatamente el tratamiento con los ARAII y, si procede, iniciar un tratamiento
+alternativo.
+Se sabe que la exposición a ARAII durante el segundo y el tercer trimestre induce fetotoxicidad
+humana (disminución de la función renal, oligohidramnios, retraso de la osificación craneal) y
+toxicidad neonatal (fallo renal, hipotensión, hiperpotasemia). (ver apartado 5.3).
+Si se produce una exposición a ARAII a partir del segundo trimestre del embarazo, se recomienda
+realizar una prueba de ultrasonidos de la función renal y del cráneo.
+Los lactantes cuyas madres hayan sido tratadas con ARAII deberán ser cuidadosamente monitorizados
+por si se produce hipotensión (ver secciones 4.3 y 4.4).
+ Lactancia: Karvea está contraindicado (ver apartado 4.3) durante el periodo de lactancia. Se desconoce
+si irbesartan se excreta en la leche humana. Irbesartan se excreta en la leche de ratas lactantes.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios del efecto de irbesartan sobre la capacidad para conducir y utilizar
+máquinas. Basándose en sus propiedades farmacodinámicas, es improbable que irbesartan altere esta
+capacidad. Al conducir o utilizar maquinaria, debe tenerse en cuenta que durante el tratamiento pueden
+aparecer mareo o fatiga.
+ 4.8   Reacciones adversas
+ En ensayos clínicos controlados frente a placebo realizados en pacientes hipertensos, la frecuencia
+global de efectos adversos no fue diferente entre el grupo irbesartan (56,2%) y el grupo placebo
+(56,5%). La interrupción debida a efectos adversos clínicos o de laboratorio fue menos frecuente en el
+grupo tratado con irbesartan (3,3%) que en el grupo placebo (4,5%). La incidencia de efectos adversos
+no se relacionó con la dosis (en el rango de dosis recomendado), el sexo, edad, raza o la duración del
+tratamiento.
+ En los pacientes diabéticos hipertensos con microalbuminuria y función renal normal, se observó
+hipotensión ortostática y mareo ortostático en el 0,5% (poco frecuentes) de los pacientes siendo
+superior al grupo placebo.
+ La siguiente tabla presenta las reacciones adversas que se notificaron en los ensayos controlados frente
+a placebo en los que 1.965 pacientes recibieron irbesartan. Los términos marcados con un asterisco (*)
+                                                    16
+se refieren a las reacciones adversas que fueron adicionalmente notificadas en > 2% de los pacientes
+diabéticos hipertensos con insuficiencia renal crónica y proteinuria franca, y que fueron superiores al
+grupo placebo.
+ Las reacciones adversas mencionadas a continuación se encuentran agrupadas, según su frecuencia,
+en: muy frecuentes ( 1/10); frecuentes ( 1/100, < 1/10); poco frecuentes ( 1/1.000, < 1/100); raras
+( 1/10.000, < 1/1.000); muy raras (< 1/10.000). Las reacciones adversas se presentan en orden
+decreciente de gravedad dentro de cada intervalo de frecuencia.
+ Exploraciones complementarias:
+Muy frecuentes: se observó hiperkalemia* más frecuentemente en los pacientes diabéticos tratados
+con irbesartan que en el grupo placebo. En pacientes diabéticos hipertensos con
+microalbuminuria y función renal normal, se observó hiperkalemia ( 5,5 mEq/l) en
+el 29,4% de los pacientes tratados con 300 mg de irbesartan y en el 22% de los
+pacientes del grupo placebo. En pacientes diabéticos hipertensos con proteinuria
+franca e insuficiencia renal crónica, se observó hiperkalemia ( 5,5 mEq/l) en el
+46,3% de los pacientes tratados con irbesartan y en el 26,3% de los pacientes del
+grupo placebo.
+Frecuentes:     en los pacientes tratados con irbesartan se observaron incrementos significativos
+(1,7%) de creatina-cinasa plasmática. Ninguno de estos incrementos fue asociado
+con alteraciones musculoesqueléticas clínicas.
+Se ha observado un descenso de los niveles de hemoglobina*, que no fue
+clínicamente significativo, en el 1,7% (frecuentes) de los pacientes hipertensos con
+nefropatía diabética avanzada tratados con irbesartan.
+ Trastornos cardíacos:
+Poco frecuentes: taquicardia
+ Trastornos del sistema nervioso:
+Frecuentes:       mareo, mareo ortostático*
+ Trastornos respiratorios, torácicos y mediastínicos:
+Poco frecuentes: tos
+ Trastornos gastrointestinales:
+Frecuentes:      náuseas/vómitos
+Poco frecuentes: diarrea, dispepsia/pirosis
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Frecuentes:     dolor musculoesquelético*
+ Trastornos vasculares:
+Frecuentes:      hipotensión ortostática*
+Poco frecuentes: rubor
+ Trastornos generales y alteraciones en el lugar de administración:
+Frecuentes:      fatiga
+Poco frecuentes: dolor torácico.
+ Trastornos del aparato reproductor y de la mama:
+Poco frecuentes: disfunción sexual
+ Las siguientes reacciones adversas han sido notificadas durante la experiencia
+post-comercialización; no se conoce su frecuencia ya que se derivan de notificaciones
+espontáneas:
+                                                    17
+Trastornos del sistema nervioso:
+Cefalea
+ Trastornos del oído y del laberinto:
+Tinnitus
+ Trastornos gastrointestinales:
+Disgeusia
+ Trastornos renales y urinarios:
+Insuficiencia renal incluyendo casos de fallo renal en pacientes de riesgo (ver apartado 4.4)
+ Trastornos de la piel y del tejido subcutáneo:
+Vasculitis leucocitoclástica
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Artralgia, mialgia (en algunos casos se han asociado con niveles plasmáticos elevados de creatina-
+cinasa), calambres musculares
+ Trastornos del metabolismo y de la nutrición:
+Hiperkalemia
+ Trastornos del sistema inmunológico:
+Reacciones de hipersensibilidad como angioedema, rash y urticaria
+ Trastornos hepatobiliares:
+Hepatitis, anomalías en la función hepática
+ Pacientes pediátricos: en un ensayo aleatorizado que se llevó a cabo en 318 niños y adolescentes
+hipertensos de edades comprendidas entre 6 y 16 años, aparecieron las siguientes reacciones adversas
+durante la fase doble ciego de 3 semanas de duración: dolor de cabeza (7,9%) , hipotensión (2,2%),
+mareo (1,9%), tos (0,9%). Durante la fase abierta del ensayo, de 26 semanas de duración, las
+anormalidades de laboratorio observadas con mayor frecuencia fueron incremento de los niveles de
+creatinina (6,5%) y valores elevados de creatina-cinasa (CK) en un 2% de los niños tratados.
+ 4.9   Sobredosis
+ La experiencia en adultos expuestos a dosis de hasta 900 mg/día durante 8 semanas no reveló
+toxicidad. Los signos más probables de sobredosis son hipotensión y taquicardia; también tras una
+sobredosis podría presentarse bradicardia. No se dispone de información específica para el tratamiento
+de la sobredosis con Karvea. El paciente debe ser estrechamente vigilado y el tratamiento debe ser
+sintomático y de soporte. Las medidas sugeridas incluyen inducción de la emesis y/o lavado gástrico.
+El carbón vegetal activado puede ser útil para el tratamiento de la sobredosis. Irbesartan no se elimina
+por hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antagonistas de angiotensina-II, monofármacos.
+Código ATC: C09C A04.
+ Mecanismo de acción: Irbesartan es un potente antagonista selectivo del receptor de la angiotensina-II
+(tipo AT1), activo por vía oral. Parece bloquear todas las acciones de la angiotensina-II mediadas por
+el receptor AT1, con independencia del origen o la vía de síntesis de la angiotensina-II. El antagonismo
+selectivo de los receptores de la angiotensina-II (AT1) produce incrementos de los niveles plasmáticos
+                                                    18
+de renina y de angiotensina-II y disminución en la concentración plasmática de aldosterona. Los
+niveles séricos de potasio no se modifican significativamente a las dosis recomendadas de irbesartan
+en monoterapia. Irbesartan no inhibe la ECA (quininasa-II), un enzima que genera angiotensina-II y
+que también degrada la bradiquinina a metabolitos inactivos. Irbesartan no requiere activación
+metabólica para ser activo.
+ Eficacia clínica:
+ Hipertensión
+Irbesartan reduce la presión arterial con un cambio mínimo de la frecuencia cardiaca. La disminución
+de la presión arterial es dosis-dependiente para dosis únicas diarias, con tendencia a alcanzar una
+meseta a dosis por encima de 300 mg. Dosis únicas diarias de 150-300 mg disminuyen la presión
+arterial en bipedestación o sedestación en el valle (es decir, 24 horas tras la dosificación) en un
+promedio de 8-13/5-8 mm Hg (sistólica /diastólica) superior al observado con placebo.
+La reducción máxima de la presión arterial se alcanza transcurridas 3-6 horas tras la administración y
+el efecto reductor de la presión arterial se mantiene durante al menos 24 horas. A las 24 horas, la
+reducción de la presión arterial fue del 60-70% del correspondiente pico diastólico y sistólico obtenido
+a las dosis recomendadas. Con una dosis única diaria de 150 mg se obtiene el mismo valle y la misma
+respuesta media durante 24 horas que con esta dosis total dividida en dos tomas.
+El efecto reductor de la presión arterial con Karvea es evidente en 1-2 semanas, alcanzándose el efecto
+máximo transcurridas 4-6 semanas desde el inicio del tratamiento. El efecto antihipertensivo se
+mantiene durante el tratamiento a largo plazo. Tras la interrupción de la terapia, la presión arterial
+retorna gradualmente a sus valores basales. No se ha observado hipertensión de rebote.
+El efecto reductor sobre la presión arterial de irbesartan y los diuréticos tipo tiazida es aditivo. En
+pacientes que no se controlan adecuadamente con irbesartan en monoterapia, la combinación con una
+dosis baja de hidroclorotiazida (12,5 mg) una vez al día produce una mayor reducción de la presión
+arterial en el valle de 7-10/3-6 mm Hg (sistólica/diastólica).
+La eficacia de Karvea no se modifica por la edad o el sexo. Como sucede con con otros medicamentos
+antihipertensivos que actúan sobre el sistema renina-angiotensina, los pacientes hipertensos de raza
+negra tienen una respuesta a la monoterapia con irbesartan notablemente inferior. Cuando irbesartan se
+administra concomitantemente con una dosis baja de hidroclorotiazida (ej: 12,5 mg al día), la
+respuesta antihipertensiva de los pacientes de raza negra se aproxima a los de raza blanca.
+No se han observado efectos clínicamente significativos por el ácido úrico sérico o la secreción
+urinaria de ácido úrico.
+ Durante un periodo de 3 semanas se evaluó en 318 niños y adolescentes hipertensos o en riesgo
+(diabetes, historia familiar de hipertensión) conedades comprendidas entre 6 y 16 años la reducción de
+la presión arterial con ajustes de dosis de irbesartan de 0,5 mg/kg (baja), 1,5 mg/kg (media) y
+4,5 mg/kg (alta). Al cabo de las 3 semanas, la reducción en la variable principal de eficacia, la presión
+arterial sistólica, sentado, en valle (PASSe), en comparación con los valores basales fue de
+11,7 mmHg (dosis baja), de 9,3 mmHg (dosis media) y 3,2 mmHg (dosis alta). No hubo diferencias
+significativas aparentes entre las distintas dosis. El cambio principal ajustado para la presión arterial
+diastólica, sentado, en valle (PADSe) fue el siguiente: 3,8 mmHg (dosis baja), 3,2 mmHg (dosis
+media) y 5,6 mmHg (dosis alta). Tras el consiguiente período de 2 semanas en el que los pacientes
+fueron re­aleatorizados, bien al medicamento o al placebo, la PASSe aumentó en 2,4 mmHg y la
+PADSe en 2,0 mmHg en pacientes que tomaban placebo, mientras que en los que tomaban irbesartan,
+la variación fue de +0,1 mmHg y -0,3 mmHg, respectivamente (ver apartado 4.2).
+ Hipertensión y diabetes tipo 2 con nefropatía
+El ensayo IDNT (Irbesartan Diabetic Nephropathy Trial) demostró que irbesartan reduce la progresión
+de la nefropatía en los pacientes con insuficiencia renal crónica y proteinuria franca. El IDNT es un
+ensayo de morbi-mortalidad, doble ciego y controlado, en el que se compararon Karvea, amlodipino y
+placebo. Se evaluaron los efectos a largo plazo (media de 2,6 años) de Karvea sobre la progresión de
+la nefropatía y todas las causas de mortalidad en 1.715 pacientes hipertensos con diabetes tipo 2,
+proteinuria  900 mg/día y creatinina sérica comprendida entre 1,0-3,0 mg/dl. A los pacientes se les
+ajustó la dosis desde 75 mg hasta la dosis de mantenimiento de 300 mg de Karvea, desde 2,5 mg hasta
+10 mg de amlodipino o placebo, según su tolerabilidad. En todos los grupos de tratamiento, los
+                                                    19
+pacientes recibieron entre 2 y 4 fármacos antihipertensivos (p.e. diuréticos, betabloqueantes,
+alfabloqueantes) para conseguir el objetivo de presión arterial predefinido  135/85 mm Hg o una
+reducción de 10 mm Hg en la presión arterial sistólica, en el caso de que la basal fuera > 160 mm Hg.
+El porcentaje de pacientes que alcanzó este objetivo fue de un 60% en el grupo placebo frente a un
+76% y 78% en los grupos tratados con irbesartan y amlodipino, respectivamente. Irbesartan redujo
+significativamente el riesgo relativo en la variable principal combinada que incluye duplicación de los
+niveles de creatinina sérica, enfermedad renal terminal (ERT) o mortalidad por cualquier causa.
+ Aproximadamente un 33% de los pacientes tratados con irbesartan presentó alguno de los eventos de
+la variable principal combinada frente a un 39% y 41% en el grupo placebo y en el tratado con
+amlodipino, respectivamente, [20% de reducción relativa del riesgo frente a placebo (p = 0,024) y 23%
+de reducción relativa del riesgo comparado con amlodipino (p = 0,006)]. Cuando se analizaron los
+componentes individuales de la variable principal combinada, no se observó efecto alguno sobre la
+mortalidad por cualquier causa, mientras que se encontró una tendencia positiva en la reducción del
+ERT y una reducción significativa en la duplicación de los niveles de creatinina sérica.
+ Para valorar el efecto del tratamiento se analizaron subgrupos de población por sexo, raza, edad,
+duración de la diabetes, presión arterial basal, niveles de creatinina sérica y porcentaje de excreción de
+albúmina. Aunque los intervalos de confianza no lo excluyan, no hubo evidencia de beneficio renal ni
+en el subgrupo de mujeres ni en el de pacientes de raza negra, los cuales representaban un 32% y un
+26% del total de la población en estudio, respectivamente. En la población total, no se observaron
+diferencias significativas entre los tres grupos de tratamiento para la variable secundaria de eventos
+cardiovasculares fatales y no fatales. Sin embargo, se observó un incremento de la incidencia de
+infarto de miocardio no fatal en mujeres y un descenso de la incidencia de infarto de miocardio no
+fatal en varones en el grupo tratado con irbesartan frente al grupo placebo. Asimismo, se observó un
+incremento de la incidencia de infarto de miocardio no fatal y de ictus en mujeres tratadas con
+irbesartan frente a las tratadas con amlodipino, mientras que la hospitalización debida a insuficiencia
+cardiaca en la población total se redujo. No se ha encontrado una explicación adecuada para estos
+hallazgos en mujeres.
+ El ensayo IRMA 2 (Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with
+Type 2 Diabetes Mellitus) demostró que la dosis de 300 mg de irbesartan retrasa la progresión a
+proteinuria franca en pacientes con microalbuminuria. El IRMA 2 es un ensayo de morbilidad, doble
+ciego, controlado frente a placebo que incluyó 590 pacientes con diabetes tipo 2, microalbuminuria
+(30-300 mg/día) y función renal normal (creatinina sérica  1,5 mg/dl en hombres y < 1,1 mg/dl en
+mujeres). El ensayo evaluó los efectos a largo plazo (2 años) de Karvea sobre la progresión a
+proteinuria franca (tasa de excreción de albúmina en orina > 300 mg/día, y un incremento de la tasa de
+excreción de albúmina en orina de, al menos, un 30% sobre el nivel basal). El objetivo de presión
+arterial predefinido fue  135/85 mm Hg. Para alcanzarlo, se asociaron otros fármacos
+antihipertensivos (excluyendo inhibidores de la ECA, antagonistas de la angiotensina-II, calcio
+antagonistas dihidropiridínicos) si era necesario. Todos los grupos de tratamiento alcanzaron una
+presión arterial similar, mientras que un porcentaje menor de sujetos en el grupo tratado con irbesartan
+300 mg (5,2%) respecto al grupo placebo (14,9%) o al grupo de 150 mg de irbesartan (9,7%) presentó
+proteinuria franca, demostrando, para la dosis más elevada, una reducción relativa del riesgo del 70%
+frente a placebo (p = 0,0004). No se observó un incremento en la tasa de filtración glomerular (TFG)
+d
+ 
+	Prospectos de medicamentos.

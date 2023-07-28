@@ -1,0 +1,546 @@
+QUADRAMET 1,3GBQ 1 VIAL 15ML
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.      NOMBRE DEL MEDICAMENTO
+	QUADRAMET, solución inyectable.
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada ml de solución contiene 1,3 GBq/ml de Samario [153Sm] lexidronam pentasódico en la fecha de
+referencia (que corresponden a 20 - 46 µg/ml de samario por vial)
+ La actividad específica de samario es de aproximadamente 28 a 65 MBq/g de samario
+ Cada vial contiene 2 a 4 GBq en la fecha de referencia.
+ El samario-153 emite partículas beta de energía intermedia y un fotón gamma que puede registrarse en
+imágenes, y tiene un período de 46,3 horas (1,93 días). En la Tabla 1 se recogen las emisiones
+primarias de radiación del samario-153
+  TABLA 1: DATOS SOBRE LA EMISIÓN PRINCIPAL DE RADIACIÓN DEL
+SAMARIO-153
+Radiación                          Energía (keV)*                   Abundancia
+Beta                               640                              30 %
+Beta                               710                              50 %
+Beta                               810                              20 %
+Gamma                              103                              29 %
+*       Se enumera la energía máxima de las emisiones beta: la energía media de la partícula beta
+es de 233 keV.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	Solución inyectable.
+ Solución transparente, entre incolora y de color ámbar claro con un pH de 7,0 a 8,5.
+ 
+
+
+4.      DATOS CLÍNICOS
+	4.1     Indicaciones terapéuticas
+ QUADRAMET está indicado para el alivio del dolor óseo en pacientes con múltiples metástasis
+esqueléticas osteoblásticas dolorosas que captan los bisfosfonatos marcados con tecnecio [99mTc] en la
+gammagrafía ósea.
+ Antes de administrar el tratamiento hay que confirmar la presencia de metástasis osteoblásticas que
+captan los bisfosfonatos marcados con tecnecio [99mTc].
+ 4.2     Posología y forma de administración
+ QUADRAMET sólo debe ser administrado por médicos con experiencia en el uso de radiofármacos, y
+tras una evaluación oncológica completa del paciente realizada por médicos cualificados.
+                                                      2
+La dosis recomendada de QUADRAMET es de 37 MBq por kg de peso corporal, que se administrará
+por vía intravenosa lenta a través de una vía establecida durante un período de un minuto.
+QUADRAMET no debe diluirse antes de su empleo.
+ En general, los pacientes que responden a QUADRAMET experimentan el inicio del alivio del dolor
+en la semana siguiente al tratamiento. El alivio del dolor puede durar de 4 semanas a 4 meses. Los
+pacientes que experimentan una reducción del dolor pueden ser animados a reducir su consumo de
+analgésicos opioides.
+ La repetición de la administración de QUADRAMET se basará en la respuesta individual del paciente
+al tratamiento anterior y en los síntomas clínicos. Hay que respetar un intervalo mínimo de 8 semanas,
+sujeto a la recuperación de una función medular ósea adecuada.
+ Los datos sobre la seguridad de la administración reiterada son escasos, y se basan en el uso
+compasivo del producto.
+ QUADRAMET no está recomendado para uso en niños menores de 18 años debido a la ausencia de
+datos sobre seguridad y eficacia.
+ 4.3   Contraindicaciones
+ QUADRAMET está contraindicado:
+·   Hipersensibilidad al principio activo (etilendiaminotetrametilenfosfonato (EDTMP) o
+fosfonatos similares) o a alguno de los excipientes.
+·   en mujeres embarazadas (ver apartado 4.6).
+·   en pacientes que hayan recibido quimioterapia o radioterapia externa hemicorporal en las
+6 semanas previas.
+ QUADRAMET sólo se emplea como agente paliativo, y no debe utilizarse a la vez que la
+quimioterapia mielotóxica porque puede aumentar la mielotoxicidad.
+ No debe utilizarse a la vez que otros bisfosfonatos si se demuestra que existe interferencia con
+bisfosfonatos marcados con tecnecio [99mTc] en las gammagrafías óseas.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Si no se dispone de datos clínicos se adaptará la actividad inyectada a la función renal.
+ No se recomienda utilizar QUADRAMET en pacientes con evidencias de compromiso de la reserva
+medular ósea causada por tratamientos anteriores o por la enfermedad, a menos que el beneficio
+potencial del tratamiento supere a sus riesgos.
+ Dado que después de la administración se puede producir una supresión de la médula ósea se
+realizarán recuentos hemáticos semanales durante 8 semanas como mínimo, comenzando 2 semanas
+después de la administración de QUADRAMET, o hasta que se recupere una función medular
+adecuada.
+ Se indicará al paciente que ingiera (o que reciba por vía intravenosa) un mínimo de 500 ml de líquidos
+antes de la inyección, y que orine con la mayor frecuencia posible después de la inyección, para así
+reducir al mínimo la exposición de la vejiga a la radiación.
+ Como el aclaramiento de QUADRAMET es rápido, transcurridas 6-12 horas desde la administración
+no es necesario tomar precauciones con respecto a la radiactividad eliminada con la orina.
+ En el caso de pacientes incontinentes hay que adoptar precauciones especiales, como el sondaje
+vesical, en las seis horas siguientes a la administración, para reducir al mínimo el riesgo de
+contaminación radiactiva de la vestimenta, la ropa de cama y el entorno del paciente. En los demás
+pacientes se recogerá la orina durante 6 horas como mínimo.
+ Los pacientes con obstrucción urinaria serán sondados.
+ Los radiofármacos sólo pueden ser recibidos, utilizados y administrados por personas autorizadas en
+instalaciones clínicas designadas a tal efecto. La recepción, conservación, uso, transporte y
+eliminación se someten a las normas y licencias correspondientes de los organismos oficiales locales
+competentes.
+Los radiofármacos serán preparados cumpliendo los requisitos de calidad farmacéutica y de seguridad
+radiactiva. Se tomarán las precauciones asépticas correspondientes, en cumplimiento de las Buenas
+Prácticas de Fabricación para productos farmacéuticos.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Dado el potencial de efectos aditivos sobre la médula ósea, este tratamiento no debe administrarse
+junto con quimioterapia o radioterapia externa. QUADRAMET se puede administrar después de
+cualquiera de estos tratamientos, si la médula ósea se encuentra recuperada.
+ 4.6   Embarazo y lactancia
+ QUADRAMET está contraindicado en el embarazo (ver apartado 4.3). Debe descartarse de forma
+rigurosa la posibilidad de embarazo. Las mujeres en edad fértil deben utilizar un método
+anticonceptivo eficaz durante el tratamiento y todo el periodo de seguimiento.
+ No existen datos clínicos disponibles con relación a la excreción de QUADRAMET en leche humana.
+Por lo tanto, si se considerara necesario administrar QUADRAMET, se suspenderá la lactancia
+sustituyéndola por leche artificial, desechando la leche extraída.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+ Se han descrito descensos en los leucocitos y plaquetas y anemia entre los pacientes tratados con
+QUADRAMET.
+En los ensayos clínicos, el recuento de leucocitos y plaquetas disminuyó hasta un nadir aproximado
+del 40 % al 50 % del basal 3-5 semanas después de administrar una dosis y regresó, casi siempre,
+hasta los niveles previos al tratamiento a las 8 semanas.
+ Los escasos pacientes que experimentaron una toxicidad hematopoyética de grado 3 o 4 tenían,
+habitualmente, antecedentes recientes de radioterapia externa o quimioterapia o habían sufrido una
+enfermedad rápidamente progresiva con probable afectación de la médula ósea.
+ Las notificaciones posteriores a la comercialización de trombocitopenia incluyeron casos aislados de
+hemorragia intracraneal y casos con resultado de muerte.
+ Un pequeño número de pacientes experimenta un aumento transitorio del dolor óseo, muy poco
+después de la inyección (reacción de exacerbación). Este suele ser leve y autolimitado y aparece en las
+primeras 72 horas de la inyección. Dichas reacciones responden generalmente a los analgésicos.
+ Se han notificado reacciones adversas del fármaco tales como náuseas, vómitos, diarrea y sudoración.
+ Se han notificado reacciones de hipersensibilidad que incluyen casos raros de reacción anafiláctica tras
+la administración de QUADRAMET.
+ Un pequeño número de pacientes experimentó compresiones medulares/radiculares, coagulación
+intravascular diseminada y accidentes cerebrovasculares. La aparición de estos acontecimientos puede
+estar relacionada con la evolución de la enfermedad. Cuando existen metástasis vertebrales a nivel
+cervical y dorsal no se puede descartar un aumento del riesgo de compresión de la médula espinal.
+ La dosis radiactiva resultante de la exposición terapéutica puede aumentar la incidencia de cáncer y
+mutaciones. En todos los casos es necesario comprobar que los riesgos de radiación son inferiores a
+los de la propia enfermedad.
+ 4.9   Sobredosis
+ El producto sólo debe ser administrado por personal cualificado en instalaciones autorizadas. Por lo
+tanto, la posibilidad de sobredosis farmacológica es remota.
+ Los riesgos previsibles se asocian a la administración inadvertida de un exceso de radiactividad. Se
+puede limitar la dosis de radiación recibida por el organismo estimulando la diuresis y orinando a
+menudo.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Productos radiofarmacéuticos para la paliación del dolor, varios
+Código ATC: V10BX02
+ QUADRAMET muestra afinidad por el tejido óseo y se concentra en las zonas de recambio óseo,
+asociado íntimamente a la hidroxiapatita; los estudios realizados en ratas han puesto de manifiesto que
+QUADRAMET es aclarado rápidamente de la sangre y se localiza en las zonas de crecimiento de la
+matriz ósea, más concretamente, en la capa de la sustancia osteoide que sufre mineralización.
+ En los estudios clínicos en los que se utilizaron técnicas de imagen planar, QUADRAMET se acumuló
+con una relación lesión-hueso normal de aproximadamente 5 y una relación de lesión-tejido blando de
+aproximadamente 6. Por tanto, las zonas de afectación metastásica pueden acumular cantidades
+significativamente mayores de QUADRAMET que el hueso normal circundante.
+ 5.2   Propiedades farmacocinéticas
+ QUADRAMET desaparece rápidamente de la sangre del paciente. A los 30 minutos de la inyección
+del agente a 22 pacientes, sólo el 9,6 ± 2,8 % de la actividad administrada permanecía en el plasma. La
+radiactividad plasmática se redujo desde 1,3 ± 0,7 % hasta 0,05 ± 0,03 % a las 4 y 24 horas. La
+excreción urinaria se produjo sobre todo en las primeras 4 horas (30,3 ± 13,5 %). A las 12 horas, se
+había eliminado un 35,3 ± 13,6 % de la actividad administrada con la orina. El análisis de las muestras
+de orina reveló que la radiactividad se encontraba presente en forma de complejo intacto. En los
+pacientes con metástasis óseas extensas se observó una menor excreción urinaria, con independencia
+de la cantidad de radiofármaco administrada. La captación ósea total de QUADRAMET en los
+estudios realizados en 453 pacientes con diversos tumores malignos primarios fue del 65,5 ± 15,5 %
+de la actividad administrada. Se encontró una correlación positiva entre la captación ósea y el número
+de metástasis. En cambio, la captación ósea resultó inversamente proporcional a la radiactividad
+plasmática a los 30 minutos.
+ 5.3   Datos preclínicos sobre seguridad
+                                                    5
+Los productos de la radiólisis del Sm-EDTMP producen toxicidad renal en ratas y perros; el nivel
+carente de efecto corresponde a 2,5 mg/kg.
+ La administración repetida de dosis de Samario [153Sm]-EDTMP a perros indicó un tiempo
+ligeramente mayor para la recuperación de la médula ósea deprimida y de los parámetros
+hematológicos periféricos que cuando son comparados con los de la recuperación tras una sola dosis.
+ No se ha evaluado el poder mutágeno/carcinógeno del Sm-EDTPM radiactivo, pero a juzgar por la
+dosis de radiación que se produce en la exposición terapéutica hay que considerar que implica cierto
+riesgo genotóxico/carcinógeno.
+ El Sm-EDTMP no radiactivo no posee capacidad mutagénica según una serie de pruebas in vivo e in
+vitro. Los mismos resultados se obtuvieron después de enriquecer Sm-EDTMP con productos de
+degradación radiolítica.
+ En un estudio sobre el potencial carcinogénico del EDTMP, se produjeron osteosarcomas en las ratas
+tratadas con dosis altas. Al carecer de propiedades genotóxicas, estos efectos se pueden asignar a las
+propiedades quelantes del EDTMP, que producen alteraciones en el metabolismo óseo.
+ No se han realizado estudios para determinar el efecto de QUADRAMET sobre la reproducción.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ EDTMP total (como EDTMP.H2O)
+Sal sódica de Calcio-EDTMP (como Ca)
+Sodio total (como Na)
+Agua para preparaciones inyectables
+ 6.2   Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros.
+ 6.3   Periodo de validez
+ Un día a partir de la hora de referencia de actividad que figura en la etiqueta.
+ Utilizar en las 6 horas siguientes a la descongelación. Una vez descongelado no congelar de nuevo.
+ 6.4   Precauciones especiales de conservación
+ QUADRAMET se suministra congelado en hielo seco.
+Conservar en el envase original.
+Conservar entre -10ºC y -20ºC (en congelador)
+ Los procedimientos de almacenamiento deben cumplir las normas nacionales sobre materiales
+radiactivos.
+ 6.5   Naturaleza y contenido del envase
+ Vial de vidrio incoloro tipo I de la Farmacopea Europea, de 15 ml, cerrado con tapón de caucho
+natural/clorobutilo recubierta de teflón y cápsula de aluminio.
+ Cada vial contiene 1,5 ml (2 GBq en la calibración) a 3,1 ml (4 GBq en la calibración) de solución
+inyectable.
+                                                      6
+6.6   Precauciones especiales de eliminación y otras manipulaciones
+ La administración de radiofármacos supone un riesgo para otras personas por radiación externa o
+contaminación a través de derramamientos de orina, vómitos, etc. Por consiguiente, se observarán las
+precauciones sobre protección frente a la radiación establecidas por la legislación nacional.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ (Para instrucciones detalladas sobre preparación del producto, ver sección 12)
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	CIS bio international
+Boîte Postale 32
+F-91192 GIF-SUR-YVETTE Cedex
+FRANCIA
+ 
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/97/057/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 05.02.1998
+Fecha de la última renovación: 05.02.2003
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 11.   DOSIMETRÍA
+ Las dosis estimadas de radiación absorbida para un paciente adulto promedio a partir de una inyección
+intravenosa de QUADRAMET se muestran en la Tabla 2. Los cálculos de dosimetría se basaron en
+estudios clínicos de biodistribución usando procedimientos desarrollados para cálculos de dosis de
+radiación por el Comité Médico de Dosis de Radiación Interna (MIRD) de la Sociedad de Medicina
+Nuclear.
+ Como QUADRAMET se excreta en la orina, la exposición a la radiación se basó en un intervalo de
+vaciado urinario de 4,8 horas. Los cálculos de dosis de radiación para hueso y médula ósea asumen
+que la radiactividad se deposita sobre la superficie de los huesos, de acuerdo con autorradiografías de
+muestras de hueso tomadas de los pacientes que recibieron QUADRAMET.
+ La dosis de radiación en órganos específicos, que pueden no ser el órgano diana del tratamiento, puede
+estar significativamente influenciada por cambios fisiopatológicos inducidos por la enfermedad. Esto
+deberá considerarse al usar la siguiente información:
+ TABLA 2: DOSIS DE RADIACIÓN ABSORBIDAS
+Órgano                                  Dosis absorbida por actividad inyectada (mGy/MBq)
+Suprarrenales                           0,009
+Cerebro                                 0,011
+Tórax                                   0,003
+Vesícula biliar                         0,004
+Pared del colon ascendente              0,005
+Pared del colon descendente             0,010
+Intestino delgado                       0,006
+Pared miocárdica                        0,005
+Riñones                                 0,018
+Hígado                                  0,005
+Pulmones                                0,008
+Músculo                                 0,007
+Ovarios                                 0,008
+Páncreas                                0,005
+Médula ósea                             1,54
+Superficies óseas                       6,76
+Piel                                    0,004
+Bazo                                    0,004
+Estómago                                0,004
+Testículos                              0,005
+Timo                                    0,004
+Tiroides                                0,007
+Pared de la vejiga urinaria             0,973
+Útero                                   0,011
+Dosis efectiva
+(mSv/MBq)
+ Para este producto la dosis efectiva resultante de inyectar una actividad de 2.590 MBq es de 796 mSv.
+ Si se administran 2.590 MBq de actividad, la dosis de radiación típica en el órgano diana, las
+metástasis óseas, es de 86,5 Gy, y las dosis de radiación típica de los órganos críticos son: superficies
+óseas normales 17,5 Gy, médula ósea 4,0 Gy, pared de la vejiga urinaria 2,5 Gy, riñones 0,047 Gy y
+ovarios 0,021 Gy.
+ 12.   INSTRUCCIONES PARA LA PREPARACIÓN DE RADIOFÁRMACOS
+ Deje que el producto se descongele a temperatura ambiente antes de administrarlo.
+ La solución a inyectar debe inspeccionarse visualmente antes de su administración. Debe ser
+transparente y no presentar partículas. El profesional debe tener la precaución de protegerse los ojos
+mientras realiza la inspección visual comprobando la transparencia.
+ La actividad debe ser medida con un calibrador de dosis justo antes de su administración. Es necesaria
+la verificación de la dosis y de la identificación del paciente antes de administrar QUADRAMET.
+ Por motivos de seguridad frente a la radiación, el paciente debe tratarse en una instalación preparada
+para el uso terapéutico de fuentes radiactivas no selladas. Podrá abandonarla cuando las tasas de
+exposición cumplan los límites indicados por las normas vigentes.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ La información detallada de este medicamento está disponible en la página web de la Agencia
+Europea del Medicamento (EMEA) http://www.emea.europa.eu/
+ A.   TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE DE LA
+LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ A.    TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE DE LA
+IMPORTACIÓN Y LIBERACIÓN DE LOS LOTES
+ Nombre y dirección del fabricante responsable de la liberación de los lotes
+ CIS bio international
+Boîte Postale 32
+F-91192 Gif-sur-Yvette cedex
+FRANCIA
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida (Ver Anexo I: Ficha Técnica o Resumen de las
+Características del Producto, sección 4.2).
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 12
+A. ETIQUETADO
+ 13
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ { CAJA METÁLICA/ BOTE DE PLOMO }
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	QUADRAMET 1,3 GBq/ml, solución inyectable
+ 
+2.    PRINCIPIO ACTIVO
+	Samario [153Sm] lexidronam pentasódico:       1,3 GBq/ml en la fecha de referencia
+(Que corresponden a 20 a 46 µg/ml de samario)
+ 
+3.    LISTA DE EXCIPIENTES
+	EDTMP total (como EDTMP.H2O)
+Sal sódica de Calcio-EDTMP (como Ca)
+Sodio total (como Na)
+Agua para inyectables
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Solución inyectable en un vial de dosis única.
+                 ml
+                 GBq/vial,                        (12 h CET)
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Leer el prospecto antes de utilizar este medicamento.
+ Para uso intravenoso
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.       FECHA DE CADUCIDAD
+	CAD: DD/MM/AAAA (12 h CET)
+ 
+9.       CONDICIONES ESPECIALES DE CONSERVACIÓN
+	Conservar en congelador a temperatura entre ­10º C y ­20º C en el envase original.
+ Usar en las 6 horas siguientes a la descongelación.
+ 10.      PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ Los desechos radiactivos deben ser eliminados de conformidad con las leyes locales.
+ 11.      NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ CIS bio international
+Boîte Postale 32
+91192 GIF-SUR-YVETTE Cedex
+FRANCIA
+ 12.      NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/97/057/001
+ 13.      NÚMERO DE LOTE
+ Lote :
+ 14.      CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.      INSTRUCCIONES DE USO
+ 16.      INFORMACIÓN EN BRAILLE
+ 
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ VIAL DE VIDRIO
+ 1.       NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ QUADRAMET, solución inyectable
+Samario [153Sm] lexidronam pentasódico
+Vía intravenosa
+ 
+2.       FORMA DE ADMINISTRACIÓN
+	
+3.       FECHA DE CADUCIDAD
+	CAD: DD/MM/AAAA (12 h CET)
+ 
+4.       NÚMERO DE LOTE
+	Lote :
+ 5.       CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+                  ml
+                  GBq/vial,               (12 h CET)
+ 
+6.       OTROS
+	Fabricante: CIS bio international.
+ B. PROSPECTO
+ 17
+                                  QUADRAMET, solución inyectable
+ Lea todo el prospecto detenidamente antes de empezar a usar este medicamento.
+-     Conserve este prospecto, ya que puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico.
+-     Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ Contenido del prospecto:
+1.   Qué es QUADRAMET y para qué se utiliza
+2.   Antes de usar QUADRAMET
+3.   Cómo usar QUADRAMET
+4.   Posibles efectos adversos
+5.   Conservación de QUADRAMET
+6.   Información adicional
+ 
+1.    QUÉ ES QUADRAMET Y PARA QUÉ SE UTILIZA
+	QUADRAMET es un medicamento para uso exclusivamente terapéutico.
+ Este radiofármaco se emplea para el tratamiento del dolor óseo que le ocasiona su enfermedad.
+ QUADRAMET tiene gran afinidad por el tejido óseo. Una vez inyectado se concentra en las lesiones
+óseas. Como contiene pequeñas cantidades de un elemento radiactivo, el samario 153, administra
+radiación local a las lesiones óseas, lo que permite desarrollar una acción paliativa sobre el dolor óseo.
+ 
+2.    ANTES DE USAR QUADRAMET
+	No use QUADRAMET
+ ·     Si es alérgico (hipersensible) al ácido etilendiaminotetrametilenofosfónico (EDTMP) o a
+compuestos similares con fosfonatos,
+·     Si está embarazada,
+·     Si ha recibido quimioterapia o radioterapia externa hemicorporal en las 6 semanas previas a la
+administración del medicamento.
+ Tenga especial cuidado con QUADRAMET
+ QUADRAMET no está recomendado para uso en niños menores de 18 años.
+ Su médico le extraerá sangre todas las semanas durante 8 semanas como mínimo para medirle la cifra
+de plaquetas, glóbulos rojos y glóbulos blancos, que pueden disminuir ligeramente debido al
+tratamiento.
+ En las 6 horas siguientes a la administración de QUADRAMET su médico le indicará que debe beber
+y orinar tan a menudo como le sea posible. Él decidirá en que momento puede abandonar el
+departamento de medicina nuclear.
+ En caso de incontinencia urinaria o de obstrucción urinaria se le colocará una sonda urinaria durante
+6 horas aproximadamente. En el resto de los pacientes la orina será recogida durante al menos 6 horas.
+ Si presenta una reducción de la función renal se ajustará la cantidad del medicamento a administrar.
+ Uso de con otros medicamentos
+ Informe a su médico o farmacéutico si está utilizando o ha utilizado recientemente con otros medicamentos, incluso los adquiridos sin receta.
+ Embarazo y lactancia
+ QUADRAMET no debe administrarse a mujeres embarazadas.
+Si se considera necesaria la administración de QUADRAMET a una mujer que está en periodo de
+lactancia, dicho periodo de lactancia debe ser interrumpido.
+ Consulte a su médico o farmacéutico antes de usar cualquier medicamento.
+ 
+3.    CÓMO USAR QUADRAMET
+	Antes de administrarle QUADRAMET su médico querrá someterle a una exploración diagnóstica
+especial (gammagrafía) para determinar si es posible que se beneficie de QUADRAMET.
+ Posología
+ Debe inyectarse una sola dosis de 37 megabequerelios (el bequerelio es la unidad en que se mide la
+radiactividad) de QUADRAMET por kilogramo de peso corporal.
+ Si tiene la impresión de que el efecto de QUADRAMET es demasiado fuerte o débil, consulte a su
+médico o farmacéutico.
+ Método y vía de administración
+ QUADRAMET debe ser administrado mediante inyección lenta en una vena.
+ Frecuencia de administración
+ La inyección de este medicamento no se realiza de forma regular o continua. No obstante, la
+administración puede ser repetida después de 8 semanas de la última inyección, dependiendo de la
+evolución de su enfermedad.
+ Duración del tratamiento
+ Podrá abandonar el departamento de medicina nuclear tras someterse a un seguimiento dosimétrico
+(generalmente en las 6 horas siguientes a la inyección de QUADRAMET).
+ Si usa más QUADRAMET del que debiera
+ Como QUADRAMET se suministra en un vial de dosis única, es poco probable que se produzca una
+sobredosis accidental.
+Se puede limitar la dosis de radiación recibida por el organismo aumentando la ingesta de fluidos y
+orinando frecuentemente.
+ Si tiene cualquier otra duda sobre el uso de este producto, pregunte a su médico o farmacéutico.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, QUADRAMET puede producir efectos adversos, aunque no
+todas las personas los sufran.
+ Los efectos adversos que produce la administración de QUADRAMET tienen que ver con una
+disminución de los glóbulos rojos y blancos y de las plaquetas. Se han informado casos de
+hemorragias, algunos de ellos graves.
+ Por este motivo sus recuentos sanguíneos serán controlados de forma rigurosa durante algunas
+semanas tras la inyección de QUADRAMET.
+ Excepcionalmente puede notar un ligero aumento del dolor óseo unos días después de la inyección de
+QUADRAMET. No debe alarmarse por ello; en ese caso se le aumentará ligeramente el medicamento
+para el dolor. Es un efecto breve y moderado que desaparecerá en una horas.
+ Se han comunicado reacciones adversas del fármaco tales como náuseas, vómitos, diarrea y
+sudoración.
+ Se han comunicado reacciones de hipersensibilidad que incluyen casos raros de reacción anafiláctica
+tras la administración de QUADRAMET.
+ En casos raros se han observado las siguientes reacciones adversas: neuralgia, trastornos de la
+coagulación y accidentes cerebrovasculares. Se consideró que estos efectos estaban relacionados con
+el avance de la enfermedad.
+ Si experimenta dolor de espalda o anomalías de la sensibilidad, informe a su médico cuanto antes.
+ Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ 
+5.    CONSERVACIÓN DE QUADRAMET
+	Mantener fuera del alcance y de la vista de los niños.
+ No utilizar QUADRAMET después de la fecha de caducidad que aparece en el envase.
+QUADRAMET caduca al día siguiente de la hora de referencia de actividad que figura en la etiqueta.
+ Conservar entre -10ºC y -20ºC en congelador en su envase original.
+ QUADRAMET debe ser utilizado en las 6 horas siguientes a la descongelación. Después de
+descongelado no congelar de nuevo.
+ En la etiqueta del medicamento se señalan las condiciones adecuadas de conservación y la fecha de
+caducidad para el lote del medicamento. El personal del hospital se asegurará que el producto se
+conserva correctamente y no se administra después de la fecha de caducidad señalada.
+ Los procedimientos de conservación deben cumplir las normas nacionales sobre materiales
+radiactivos.
+ 
+6.    INFORMACIÓN ADICIONAL
+	Composición de QUADRAMET
+El principio activo es samarium [153Sm] lexidronam pentasódico.
+Cada ml de solución contiene 1,3 GBq/ml de Samario [153Sm] lexidronam pentasódico en la fecha de
+referencia (que corresponden a 20 - 46 µg/ml de samario por vial).
+ Los demás componentes son EDTMP Total (como EDTMP.H2O), sal sódica de calcio-EDTMP (como
+Ca), sodio total (como Na), agua para inyectables.
+ Aspecto de QUADRAMET y contenido del envase
+QUADRAMET es una solución inyectable.
+ Este medicamento es una solución transparente, entre incolora y de color ámbar claro envasada en un
+vial de vidrio incoloro tipo I de la Farmacopea Europea, de 15 ml, cerrado con tapón de caucho
+natural/clorobutilo recubierto de teflón y cápsula de aluminio
+ Cada vial contiene 1,5 ml (2 GBq en la fecha de referencia) a 3,1 ml (4 GBq en la fecha de referencia)
+de solución inyectable.
+ Titular de la autorización de comercialización y responsable de la fabricación
+ CIS bio international
+Boîte Postale 32
+F-91192 Gif-sur-Yvette cedex
+Francia
+ Este prospecto ha sido aprobado en ().
+ La información detallada de este medicamento está disponible en la página web de la Agencia
+Europea del Medicamento (EMEA) http://www.emea.europa.eu/
+ Esta información está destinada únicamente a médicos o profesionales del sector sanitario:
+Para información detallada referirse al Resumen de Características del Producto de QUADRAMET.
+ INSTRUCCIONES DE USO, MANIPULACIÓN Y ELIMINACIÓN
+ Lea completamente las instrucciones de uso antes de iniciar el procedimiento de preparación.
+ Todos los procedimientos deben ser realizados utilizando técnicas asépticas y tomando las
+precauciones estándar para la manipulación de radionúclidos.
+ Uso de radiofármacos
+ Los radiofármacos sólo deben ser utilizados por personal cualificado con la correspondiente
+autorización oficial para utilizar y manipular radionúclidos. Este radiofármaco sólo puede ser recibido,
+utilizado y administrado por personas autorizadas en instalaciones clínicas especiales. La recepción,
+conservación, uso, transporte y eliminación están sometidos a las normas y/o licencias
+correspondientes de los organismos oficiales locales competentes.
+ Los radiofármacos deben ser preparados por el profesional de un modo que satisfaga tanto los
+requisitos de seguridad como los farmacéuticos. Se deben tomas precauciones asépticas apropiadas,
+cumpliendo con los requisitos de Buenas Prácticas de Fabricación para productos farmacéuticos.
+                                                    21
+Método de preparación
+ Deje que el producto se descongele a temperatura ambiente antes de administrarlo.
+ La solución a inyectar debe ser inspeccionada visualmente antes de su administración. Debe ser
+transparente y no presentar partículas. El profesional debe tener la precaución de protegerse los ojos
+mientras realiza la inspección visual comprobando la transparencia.
+ La actividad debe ser medida con un calibrador de dosis justo antes de su administración. Es necesaria
+la verificación de la dosis y de la identificación del paciente antes de administrar QUADRAMET.
+ Las precauciones habituales sobre esterilidad y radioprotección deben ser respetadas.
+ La administración de radiofármacos supone un riesgo para otras personas por radiación externa o
+contaminación a través de pérdidas de orina, vómitos, etc. Por consiguiente, se observarán las
+precauciones sobre protección frente a la radiación establecidas por la legislación nacional.
+ Por motivos de seguridad frente a la radiación, el paciente debe ser tratado en una instalación
+preparada para el uso terapéutico de fuentes radiactivas no selladas. Podrá abandonarla cuando las
+tasas de exposición cumplan los límites indicados por las normas vigentes.
+ Los residuos radiactivos deben ser eliminados cumpliendo la normativa nacional e internacional
+vigente.
+
+	Prospectos de medicamentos.

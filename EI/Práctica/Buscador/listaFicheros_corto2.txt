@@ -1,0 +1,2 @@
+corpus_corto/fichero3.txt
+corpus_corto/fichero4.txt

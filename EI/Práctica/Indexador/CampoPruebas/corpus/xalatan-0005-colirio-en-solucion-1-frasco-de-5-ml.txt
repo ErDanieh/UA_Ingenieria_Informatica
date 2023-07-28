@@ -1,0 +1,316 @@
+XALATAN 0,005%, colirio en solucion, 1 frasco de 5 ml
+	Información Basica del medicamento Toda la información del medicamento 
+1. NOMBRE DEL MEDICAMENTO
+	Xalatan 0,005 % colirio en solución
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	100 ml de colirio en solución contienen 0,005 g de latanoprost.
+ Una gota contiene aproximadamente 1,5 microgramos de latanoprost.
+ Excipiente: Se incluye cloruro de benzalconio al 0,02% p/v como conservante.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3. FORMA FARMACÉUTICA
+	Colirio en solución.
+ La solución es un líquido transparente e incoloro.
+ 
+
+
+4. DATOS CLÍNICOS
+	4.1 Indicaciones terapéuticas
+ Reducción de la presión intraocular elevada en pacientes con glaucoma de ángulo abierto e
+hipertensión ocular.
+ 4.2 Posología y forma de administración
+ Dosis recomendada para adultos (incluidos ancianos):
+ La dosis terapéutica recomendada es de una gota en el (los) ojo(s) afectado(s) una vez al día. El
+efecto óptimo se obtiene si Xalatan se administra por la noche.
+ La dosificación de Xalatan no debe exceder de una vez al día, ya que se ha demostrado que una
+administración más frecuente reduce el efecto de disminución de la presión intraocular.
+ Si se olvida administrar una dosis, el tratamiento debe continuar con la administración de la
+siguiente dosis de la forma habitual.
+ Al igual que ocurre con cualquier otro colirio, se recomienda comprimir el saco lagrimal a la
+altura del canto medial (oclusión puntal) durante un minuto, con el fin de reducir una posible
+absorción sistémica. Esto debe realizarse inmediatamente después de la instilación de cada gota.
+ Las lentes de contacto se deben retirar antes de instilar las gotas, y pueden volver a colocarse
+después de transcurridos 15 minutos.
+ En el caso de estar utilizando más de un fármaco oftálmico tópico, dichos productos deberán
+administrarse con un intervalo de al menos cinco minutos.
+ Niños:
+ No se han establecido la seguridad y la eficacia en niños. Por consiguiente, no se recomienda la
+administración de Xalatan a niños.
+ 4.3 Contraindicaciones
+ Hipersensibilidad conocida a cualquiera de los componentes de Xalatan.
+ 4.4 Advertencias y precauciones especiales de empleo
+ Xalatan puede cambiar gradualmente el color de los ojos al aumentar la cantidad de pigmento
+marrón en el iris. Antes de comenzar el tratamiento se debe informar a los pacientes de la
+posibilidad de un cambio permanente en el color del ojo. El tratamiento unilateral puede resultar
+en una heterocromía permanente.
+ Este cambio en el color de los ojos se ha observado fundamentalmente en pacientes con iris de
+coloración mixta, es decir, azul-marrón, gris-marrón, verde-marrón o amarillo-marrón. En
+estudios con latanoprost se ha observado que el comienzo del cambio tiene lugar normalmente
+durante los ocho primeros meses de tratamiento, raramente durante el segundo o tercer año, y no
+se ha observado más allá del cuarto año de tratamiento. La velocidad de progresión de la
+pigmentación del iris disminuye con el tiempo y se estabiliza a los cinco años. No se han evaluado
+los efectos del incremento de la pigmentación más allá de los cinco años. En un estudio abierto,
+sobre la seguridad de latanoprost a 5 años, el 33% de los pacientes desarrolló pigmentación del
+iris (ver 4.8). El cambio de color del iris es muy ligero en la mayoría de los casos y con frecuencia
+no se observa clínicamente. La incidencia en los pacientes con iris de coloración mixta oscilaba
+entre un 7% y un 85%, observándose la incidencia más alta en los pacientes con iris amarillo-
+marrón.
+ Este cambio no se ha observado en los pacientes que presentan un color de ojos homogéneamente
+azul. En los pacientes que poseen un color de ojos homogéneamente gris, verde o marrón este
+cambio se ha observado solo raramente.
+ El cambio en el color de los ojos se debe a un aumento del contenido de melanina en los
+melanocitos del estroma del iris y no a un aumento en el número de melanocitos. Normalmente la
+pigmentación marrón presente alrededor de la pupila se extiende concéntricamente hacia la
+periferia de los ojos afectados, pero el iris entero o parte del mismo puede adquirir un color más
+marrón. Una vez interrumpido el tratamiento, no se ha observado un incremento posterior de la
+pigmentación marrón del iris. En los ensayos clínicos realizados hasta la fecha, este cambio no se
+ha asociado con ningún síntoma ni alteración patológica.
+ Los nevus y las pecas del iris no se han visto afectados por el tratamiento. En los ensayos clínicos
+realizados no se ha observado una acumulación de pigmento en la malla trabecular, ni en ninguna
+otra parte de la cámara anterior. En base a la experiencia clínica obtenida durante 5 años, no se ha
+demostrado que el incremento de la pigmentación del iris produzca alguna secuela clínica
+negativa, por lo que el tratamiento con Xalatan puede continuar en el caso de que siga
+produciéndose una pigmentación del iris. No obstante, los pacientes deben ser monitorizados
+regularmente y si la situación clínica así lo aconseja, el tratamiento con Xalatan deberá ser
+interrumpido.
+Existe una experiencia limitada relativa al uso de Xalatan en los casos de glaucoma de ángulo
+cerrado crónico, de glaucoma de ángulo abierto de pacientes pseudofáquicos y de glaucoma
+pigmentario. No existe experiencia sobre la utilización de Xalatan en glaucoma inflamatorio y
+neovascular, en condiciones de inflamación ocular o en glaucoma congénito. Xalatan ejerce muy
+poco efecto o ningún efecto sobre la pupila, pero no existe experiencia en los casos de ataques
+agudos de glaucoma de ángulo cerrado. Por consiguiente, en estos casos se recomienda utilizar
+Xalatan con precaución, hasta que se disponga de una mayor experiencia.
+ Existen datos limitados sobre la utilización de Xalatan durante el periodo peri-operatorio de la
+cirugía de cataratas. Xalatan debe utilizarse con precaución en estos pacientes.
+ Ha habido notificaciones de edema macular (ver apartado 4.8) principalmente en los pacientes
+afáquicos, en los pacientes pseudofáquicos con rotura de cápsula posterior o con lentes
+intraoculares de cámara anterior, o en pacientes con factores de riesgo conocidos para desarrollar
+edema macular cistoide (tales como retinopatía diabética y oclusión venosa retiniana). Xalatan
+debe utilizarse con precaución en pacientes afáquicos, en pacientes pseudofáquicos con roturas en
+la cápsula posterior o con lentes intraoculares de cámara anterior, o en pacientes con factores de
+riesgo conocidos de desarrollar edema macular cistoide.
+ En los pacientes con factores de riesgo conocidos de predisposición a la iritis y a la uveítis,
+Xalatan puede utilizarse con precaución.
+ Se dispone de una experiencia limitada en pacientes con asma, pero en la experiencia post-
+comercialización se han notificado casos de exacerbación de asma y/o disnea. Por lo tanto, hasta
+que se disponga de suficiente experiencia, los pacientes asmáticos deben ser tratados con
+precaución. Ver también la sección 4.8.
+ Se ha observado una decoloración de la piel periorbitaria, procediendo la mayor parte de las
+notificaciones de pacientes japoneses. La experiencia disponible hasta la fecha, muestra que la
+decoloración de la piel periorbitaria no es permanente, habiendo revertido en algunos casos en los
+que se mantuvo el tratamiento con Xalatan.
+ Latanoprost puede cambiar gradualmente las pestañas y el vello del párpado del ojo tratado y
+zonas circundantes; estos cambios incluyen el incremento de la longitud, del grosor, de la
+pigmentación y de la cantidad de pestañas y del vello palpebral, así como crecimiento desviado de
+las pestañas. Los cambios en las pestañas son reversibles una vez se interrumpe el tratamiento.
+ Xalatan contiene cloruro de benzalconio, conservante que se emplea frecuentemente en los
+productos oftálmicos. Se ha notificado que el cloruro de benzalconio causa queratopatía punctata
+y/o queratopatía ulcerativa tóxica, puede causar irritación ocular y se sabe que produce
+decoloración de las lentes de contacto blandas. Se requiere hacer un estrecho seguimiento de
+aquellos pacientes con ojo seco o con trastornos en los que la cornéa esté afectada, que utilicen
+Xalatan con frecuencia o durante un periodo prolongado. El cloruro de benzalconio puede ser
+absorbido por las lentes de contacto; se deben retirar las lentes antes de aplicar Xalatan, pero
+pueden volver a colocarse después de transcurridos 15 minutos (ver apartado 4.2 Posología y forma
+de administración).
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+ No se dispone de datos definitivos sobre la interacción del fármaco.
+                                                                                                      MINISTERIO
+Se han notificado elevaciones paradójicas de la presión intraocular tras la administración
+oftálmica concomitante de dos análogos de prostaglandinas. Por ello, no se recomienda el uso de
+dos o más prostaglandinas, análogos de prostaglandinas o derivados de prostaglandinas.
+ 4.6 Embarazo y lactancia
+ Embarazo
+ La seguridad de esta especialidad farmacéutica, en la utilización en mujeres durante el embarazo,
+no se ha establecido. Esta especialidad posee efectos farmacológicos potencialmente peligrosos
+que pueden afectar al desarrollo del embarazo, al feto o al neonato. Por consiguiente, Xalatan no
+debe administrarse durante el embarazo.
+ Lactancia
+ Latanoprost y sus metabolitos pueden pasar a la leche materna, por lo que Xalatan no se debe
+emplear en mujeres en periodo de lactancia, o bien la lactancia deberá ser interrumpida.
+ 4.7 Efectos sobre la capacidad para conducir y utilizar máquinas
+ Como ocurre con otros colirios, la instilación de gotas oftálmicas puede dar lugar a una visión
+borrosa transitoria.
+ 4.8 Reacciones adversas
+ La mayoría de las reacciones adversas están relacionadas con el sistema ocular. En un estudio
+abierto de seguridad de latanoprost a 5 años, el 33% de los pacientes desarrolló pigmentación del
+iris (ver 4.4). Otras reacciones adversas oculares son, por lo general, transitorias y ocurren con la
+administración de la dosis.
+Las reacciones adversas se clasifican según su frecuencia, de la siguiente forma: muy frecuentes
+(1/10), frecuentes (1/100, <1/10), poco frecuentes (1/1.000, <1/100), raras (1/10.0000,
+<1/1.000) y muy raras (<1/10.000). Las frecuencias de las reacciones notificadas tras la
+comercialización se desconocen.
+ Trastornos oculares:
+ Muy frecuentes): Aumento de la pigmentación del iris; hiperemia conjuntival de leve a moderada;
+irritación ocular (escozor, sensación de arenilla, prurito, dolor y sensación de cuerpo extraño);
+cambios en las pestañas y el vello del párpado (incremento de la longitud, del grosor, de la
+pigmentación y de la cantidad) (la mayoría de los casos se notificaron en población japonesa).
+ Frecuentes: erosiones epiteliales puntiformes transitorias, generalmente asintomáticas; blefaritis;
+dolor ocular.
+ Poco frecuentes: Edema palpebral; ojo seco; queratitis; visión borrosa; conjuntivitis.
+ Raras: Iritis/uveítis (la mayoría de notificaciones procedentes de pacientes con factores
+concomitantes predisponentes); edema macular; edema y erosiones corneales sintomáticos; edema
+periorbitario; crecimiento desviado de las pestañas, provocando en algunos casos irritación ocular;
+hilera accesoria de pestañas situadas sobre la abertura de las glándulas de Meibomio (distiquiasis).
+                                                                                                         MINISTERIO
+Trastornos cardiacos:
+ Muy raras: Agravamiento de la angina en pacientes con enfermedad preexistente.
+ Trastornos respiratorios, torácicos y mediastínicos:
+ Raras: Asma; exacerbación de asma y disnea.
+ Trastornos de la piel y del tejido subcutáneo:
+ Poco frecuentes: Erupción cutánea.
+Raras: reacción localizada en la piel de los párpados; oscurecimiento de la piel de los párpados.
+ Trastornos generales y alteraciones en el lugar de administración:
+ Muy raras: Dolor torácico.
+ Después de la post-comercialización, ha habido notificaciones espontáneas adicionales de los
+siguientes:
+ Trastornos del sistema nervioso:
+Cefalea, mareos.
+ Trastornos cardíacos:
+Palpitaciones.
+ Trastornos musculoesqueléticos y del tejido conjuntivo:
+Mialgias, artralgias.
+ 4.9 Sobredosis
+ Aparte de la irritación ocular y de la hiperemia conjuntival, no se conocen otros efectos adversos
+oculares debidos a la sobredosificación con Xalatan.
+ La siguiente información puede ser útil en caso de ingestión accidental de Xalatan: Un frasco
+contiene 125 microgramos de latanoprost. Más del 90% se metaboliza por efecto de primer paso a
+través del hígado. La infusión intravenosa de 3 microgramos/kg en voluntarios sanos no indujo
+síntomas, pero una dosis de 5,5 -10 microgramos/kg originó náuseas, dolor abdominal, vértigo,
+fatiga, sofoco y sudoración. En monos, el latanoprost se ha administrado por infusión intravenosa
+en dosis de 500 microgramos/kg como máximo, sin producir efectos importantes sobre el sistema
+cardiovascular.
+ La administración intravenosa de latanoprost a monos se ha asociado con la aparición de
+broncoconstricción transitoria. Sin embargo, en pacientes con asma bronquial moderada no se
+indujo broncoconstricción al aplicar latanoprost tópicamente en los ojos, en una dosis siete veces
+superior a la dosis clínica de Xalatan.
+ En caso de sobredosificación con Xalatan, el tratamiento debe ser sintomático.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	                                                                                                     MINISTERIO
+5.1 Propiedades farmacodinámicas
+ Grupo farmacoterapéutico (código ATC): S01EE01.
+ El principio activo latanoprost, un análogo de la prostaglandina F2, es un agonista selectivo del
+receptor prostanoide FP, que reduce la presión intraocular aumentando el drenaje del humor
+acuoso. La reducción de la presión intraocular comienza en el hombre alrededor de las tres o
+cuatro horas después de la administración y el efecto máximo se alcanza entre las ocho y las doce
+horas. La disminución de la presión se mantiene durante al menos 24 horas.
+ Los estudios en humanos y en animales indican que el principal mecanismo de acción consiste en
+un aumento del drenaje uveoescleral, aunque se ha observado que en el hombre existe un cierto
+aumento en la facilidad de salida (disminución de la resistencia a la salida).
+ Los estudios pivotales han demostrado que Xalatan es eficaz como monoterapia. Adicionalmente,
+se han realizado ensayos clínicos con el fin de investigar sobre la utilización de Xalatan en
+regímenes de combinación. Entre estos ensayos clínicos se han llevado a cabo estudios que
+indican que latanoprost es eficaz cuando se administra en combinación con antagonistas beta-
+adrenérgicos (timolol). Los ensayos a corto plazo realizados (1 ó 2 semanas) sugieren que el
+efecto de latanoprost es aditivo en combinación con agonistas adrenérgicos (dipivalil epinefrina),
+inhibidores de la anhidrasa carbónica orales (acetazolamida) y al menos parcialmente aditivo con
+agonistas colinérgicos (pilocarpina).
+ Los ensayos clínicos han mostrado que latanoprost no posee un efecto significativo sobre la
+producción de humor acuoso. No se ha observado que latanoprost ejerza algún efecto sobre la
+barrera hemato-acuosa.
+ En los estudios en monos las dosis clínicas de latanoprost tuvieron efectos mínimos o nulos sobre
+la circulación sanguínea intraocular. Sin embargo, durante el tratamiento tópico se puede producir
+una hiperemia conjuntival o episcleral de leve a moderada.
+ Latanoprost no afectó los vasos sanguíneos retinianos durante el tratamiento crónico tópico ocular
+de monos a los que se había realizado una extracción extracapsular del cristalino, como se
+demostró mediante la angiografía fluoresceínica.
+ Durante el tratamiento a corto plazo latanoprost no indujo una pérdida de fluoresceína en el
+segmento posterior de los ojos pseudofáquicos humanos.
+ Las dosis clínicas de latanoprost no han mostrado tener efectos farmacológicos significativos
+sobre los sistemas cardiovascular o respiratorio.
+ 5.2 Propiedades farmacocinéticas
+ Latanoprost (peso molecular de 432,58) es un profármaco en forma de éster isopropílico, inactivo
+por sí mismo, pero que después de su hidrólisis al ácido de latanoprost se transforma en una
+molécula activa biológicamente.
+ El profármaco se absorbe bien a través de la córnea y todo el fármaco que llega al humor acuoso
+se hidroliza durante su paso a través de la córnea.
+ Los estudios en humanos indican que la concentración máxima en el humor acuoso se alcanza
+aproximadamente a las dos horas de la administración tópica. Después de la administración tópica
+a monos, el latanoprost se distribuye fundamentalmente por el segmento anterior, la conjuntiva y
+los párpados. Al segmento posterior sólo llegan cantidades mínimas del fármaco.
+ En el ojo no se produce prácticamente ningún metabolismo del ácido de latanoprost. El
+metabolismo principal tiene lugar en el hígado. La semivida plasmática es de 17 minutos en el
+hombre. En los estudios en animales los principales metabolitos, 1,2-dinor y 1,2,3,4-tetranor,
+ejercen una actividad biológica nula o débil, y su excreción tiene lugar fundamentalmente en
+orina.
+ 5.3 Datos preclínicos sobre seguridad
+ La toxicidad ocular y sistémica de latanoprost se ha estudiado en varias especies animales.
+Generalmente el latanoprost se tolera bien, con un margen de seguridad entre la dosis clínica
+ocular y la toxicidad sistémica de por lo menos 1000 veces. Se ha observado que dosis elevadas
+de latanoprost, aproximadamente 100 veces la dosis clínica/kg de peso corporal, administradas
+por vía intravenosa a monos no anestesiados, han producido un aumento de la velocidad de
+respiración, lo que probablemente refleja una broncoconstricción de corta duración. En los
+estudios en animales no se ha observado que latanoprost tuviera propiedades sensibilizantes.
+ En los ojos de conejos y de monos no se han podido detectar efectos tóxicos con dosis de hasta
+100 microgramos/ojo/día como máximo (la dosis clínica es de aproximadamente 1,5
+microgramos/ojo/día). En los monos, sin embargo, se ha observado que el latanoprost induce un
+aumento de la pigmentación del iris.
+ El mecanismo del aumento de la pigmentación parece ser una estimulación de la producción de
+melanina en los melanocitos del iris, no observándose cambios proliferativos. El cambio del color
+del iris puede ser permanente.
+ En los estudios de toxicidad crónica ocular, se ha demostrado que la administración de 6
+microgramos/ojo/día de latanoprost también induce un aumento de la hendidura palpebral. Este
+efecto es reversible y se produce con dosis superiores al nivel de la dosis clínica. Este efecto no se
+ha observado en humanos.
+ Latanoprost ha dado un resultado negativo en los ensayos de reversión de la mutación en
+bacterias, mutación genética en el linfoma de ratón y en el ensayo de micronúcleos de ratón. Se
+observaron aberraciones cromosómicas en los estudios in vitro con linfocitos humanos. Se han
+observado efectos similares con la prostaglandina F2, una prostaglandina natural, lo que indica
+que es un efecto propio de esta clase de compuestos.
+ Los estudios de mutagenicidad adicionales sobre la síntesis no programada de ADN in vitro/in
+vivo en ratas fueron negativos e indicaron que el latanoprost no posee potencial mutagénico. Los
+estudios de carcinogénesis en ratones y en ratas fueron negativos.
+ En los estudios en animales no se ha encontrado que el latanoprost ejerza un efecto sobre la
+fertilidad masculina o femenina. En el estudio de embriotoxicidad en ratas no se observó
+embriotoxicidad con las dosis intravenosas (5, 50 y 250 microgramos/kg/día) de latanoprost. Sin
+embargo, latanoprost indujo efectos embrioletales en conejos tratados con dosis iguales o
+superiores a 5 microgramos/kg/día.
+ La dosis de 5 microgramos/kg/día (aproximadamente 100 veces la dosis clínica) causó una
+toxicidad embriofetal significativa caracterizada por un aumento en la incidencia de resorciones
+tardías y de abortos, así como por una reducción en el peso fetal.
+No se detectó potencial teratogénico.
+ 
+6. DATOS FARMACÉUTICOS
+	6.1 Lista de excipientes
+ Cloruro de sodio
+Cloruro de benzalconio
+Dihidrogenofosfato de sodio monohidrato
+Fosfato disódico anhidro
+Agua para preparaciones inyectables
+ 6.2 Incompatibilidades
+ Los estudios in vitro realizados han mostrado que se produce una precipitación cuando Xalatan se
+mezcla con colirios que contienen timerosal. Si se utilizan dichos productos, el colirio debe
+administrarse con un intervalo de al menos cinco minutos.
+ 6.3 Periodo de validez
+ Periodo de validez: 3 años.
+Periodo de validez después de la apertura del envase: 4 semanas.
+ 6.4 Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC - 8ºC).
+Conservar el frasco en el embalaje exterior para protegerlo de la luz.
+Tras la primera apertura del frasco: No conservar a temperatura superior a 25ºC y utilizar antes de
+transcurridas cuatro semanas.
+ 6.5 Naturaleza y contenido del envase
+ Frasco gotero (5 ml) de polietileno, tapón a rosca interno y tapón externo con testigo de apertura
+de polietileno.
+ Cada frasco gotero contiene 2,5 ml de solución oftálmica que corresponden a aproximadamente
+80 gotas de solución.
+ Presentaciones: Envase conteniendo 1 frasco de 2,5 ml.
+Envase conteniendo 3 frascos de 2,5 ml.
+Envase conteniendo 6 frascos de 2,5 ml.
+ Puede que solamente estén comercializados algunos tamaños de envase.
+ 6.6 Precauciones especiales de eliminación
+ Ninguna especial.
+ 
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+8. NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	61.756
+ 9. FECHA  DE   LA           PRIMERA         AUTORIZACIÓN/RENOVACIÓN   DE   LA
+AUTORIZACIÓN
+ Fecha de autorización: 23 de diciembre de 1997
+Fecha de revalidación: 16 de diciembre de 1996
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ Julio 2007
+
+	Prospectos de medicamentos.

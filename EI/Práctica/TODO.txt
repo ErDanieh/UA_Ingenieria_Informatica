@@ -1,0 +1,1 @@
+Tenemos que usar las funciones de existe en ldocs y crear una para que devuelva el tamaño y así no realizar la copia de Ldocs entero

@@ -1,0 +1,422 @@
+MADOPAR RETARD, 100 capsulas
+	Información Basica del medicamento Toda la información del medicamento 
+1.     NOMBRE DEL MEDICAMENTO
+	MADOPAR RETARD 100/25 mg cápsulas duras de liberación prolongada
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       Cada cápsula contiene 100 mg de Levodopa y 25 mg de Benserazida (como clorhidrato).
+        Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.     FORMA FARMACÉUTICA
+	"       Cápsula dura de liberación prolongada.
+        Cápsula dura opaca, azul brillante y verde, con la marca ""ROCHE"" en cada mitad de la
+cubierta de la cápsula.
+ 
+
+"
+4.     DATOS CLÍNICOS
+	"4.1.   Indicaciones terapéuticas
+        MADOPAR RETARD está indicado para el tratamiento de la enfermedad de Parkinson y
+Parkinsonismo sintomático (postencefálico, arteriosclerótico y tóxico).
+ 4.2.   Posología y forma de administración
+        Administración oral.
+        1. El inicio del tratamiento con MADOPAR RETARD deberá hacerse con una cápsula
+preferentemente como dosis matutina, pudiendo añadirse posteriormente otra cápsula
+al día.
+        2. El cambio de pacientes tratados con MADOPAR 250 a MADOPAR RETARD se
+hará preferentemente de un día a otro, empezando con la dosis matutina, la dosis
+diaria y los intervalos deben ser inicialmente los mismos que con MADOPAR 250.
+Se deberá tener en cuenta que MADOPAR 250 contiene 200 mg de Levodopa y 50
+mg de Benserazida, mientras que MADOPAR RETARD contiene 100 mg de
+Levodopa y 25 mg de Benserazida.
+Después de dos o tres días, debe incrementarse gradualmente la dosis de MADOPAR
+RETARD en un 50% aproximadamente.
+        3. Debido a sus propiedades farmacocinéticas, el inicio de la acción de MADOPAR
+RETARD es más lento. Puede alcanzarse un efecto clínico más rápidamente
+administrando MADOPAR RETARD junto con MADOPAR 250. Esta administración
+concomitante puede ser especialmente útil en la primera dosis de la mañana, la cual
+conviene que sea más alta que las siguientes. Puede emplearse una dosis total de
+levodopa de 200 mg a 2000 mg/día.
+ El ajuste posológico de MADOPAR RETARD debe efectuarse lenta y cuidadosamente,
+dejando transcurrir como mínimo dos o tres días después de cada modificación de la
+dosis.
+        En caso necesario, se recomienda continuar el tratamiento anterior con MADOPAR 250 si
+la respuesta a MADOPAR RETARD es inadecuada
+        Si la respuesta a MADOPAR RETARD es excesiva (por ejemplo discinesia), debe
+corregirse preferentemente incrementando el intervalo entre las dosis, en lugar de
+reduciendo éstas.
+        En pacientes con inmovilidad nocturna, se han comprobado los efectos positivos después
+de un incremento gradual de la última dosis nocturna hasta 250 mg de MADOPAR
+RETARD al acostarse.
+        Se debe ajustar la dosis con precaución en todos los pacientes.
+Los pacientes que estén en tratamiento con otros agentes anti-parkinsonianos pueden
+tomar MADOPAR RETARD. Sin embargo, a medida que el tratamiento con MADOPAR
+RETARD avance y los efectos terapéuticos sean evidentes, puede ser necesario reducir la
+dosis o retirar poco a poco los otros fármacos.
+        Uso en poblaciones especiales
+        Pacientes con alteración renal: La levodopa y la benserazida se metabolizan en gran
+medida y menos del 10% de la levodopa se excreta inalterada por los riñones. Por lo
+tanto, no es necesario un ajuste de dosis en el caso de pacientes con insuficiencia renal
+leve o moderada.
+Los pacientes con uremia que están en hemodiálisis toleran bien MADOPAR RETARD.
+        Pacientes con alteración hepática: La levodopa se metaboliza principalmente por la
+descarboxilasa aminoácida aromática que, además de encontrarse en el hígado, está
+presente en gran medida en el tracto intestinal, riñón y corazón.
+        Normas para la correcta administración
+        Deberá avisarse a los pacientes que ingieran las cápsulas de MADOPAR RETARD
+enteras y sin masticar.
+         Se recomienda tomar MADOPAR RETARD al menos 30 minutos antes o una hora
+después de las comidas.
+En caso de que aparecieran efectos secundarios gastrointestinales, que pueden ocurrir
+principalmente en las etapas iniciales del tratamiento, se pueden evitar tomando
+MADOPAR RETARD con algo de comida o líquido o incrementando la dosis
+paulatinamente.
+ 4.3.   Contraindicaciones
+        ·   MADOPAR RETARD no se debe administrar a pacientes con hipersensibilidad
+conocida a la levodopa o benserazida.
+        ·   No debe administrarse en combinación con inhibidores no selectivos de la MAO. Sin
+embargo, los inhibidores selectivos MAO-B, como selegilina y rasagilina, o los
+MAO-A selectivos como la moclobemida no están contraindicados. Las
+combinaciones de inhibidores selectivos MAO-A y MAO-B son equivalentes a los no
+selectivos y por lo tanto esta combinación no debe administrarse concomitantemente
+con MADOPAR RETARD (ver apartado 4.5. Interacción con con otros medicamentos y
+otras formas de interacción).
+        ·   No debe administrase a pacientes con alteraciones graves endocrinas, renales,
+hepáticas, cardiacas o en las enfermedades psiquiátricas con componente psicótico.
+        ·   Está contraindicado en pacientes con glaucoma de ángulo cerrado.
+        ·   No debe administrarse a pacientes menores de 25 años (ya que el desarrollo
+esquelético fisiológico debe ser completo).
+        ·   No debe administrase durante el embarazo y la lactancia y en mujeres que no estén
+tomando medidas anticonceptivas adecuadas (ver apartado 4.6 Embarazo y lactancia).
+Si durante el tratamiento con Madopar Retard ocurre el embarazo, se debe interrumpir
+el tratamiento (siguiendo las instrucciones del médico prescriptor).
+ 4.4.   Advertencias y precauciones especiales de empleo
+        Deberá comunicarse a los pacientes un posible empeoramiento pasajero de su estado.
+        Pueden presentarse reacciones de hipersensibilidad en individuos susceptibles.
+        Se recomienda efectuar regularmente controles de la presión intraocular en los pacientes
+con glaucoma de ángulo abierto,debido a que la levodopa teóricamente puede aumentar la
+presión intraocular.
+        Está descrito que el tratamiento con MADOPAR RETARD puede causar depresión en
+algunos pacientes.
+        Se recomienda efectuar controles periódicos de las funciones hepática y renal y análisis de
+la fórmula sanguínea durante el tratamiento, con el fin de detectar precozmente trastornos
+de dichas funciones y trastornos sanguíneos tales como anemia hemolítica, leucopenia o
+trombocitopenia.
+        Se debe controlar frecuentemente la glucemia de los pacientes diabéticos, ajustándose la
+dosis de antidiabéticos si fuera necesario
+        Si un paciente en tratamiento con levodopa necesita la administración de anestesia
+general, se continuará el tratamiento con MADOPAR RETARD hasta el momento de la
+intervención quirúrgica, excepto en el caso de halotano. En anestesia general con
+halotano, se interrumpirá la administración de MADOPAR RETARD de 12 a 48 horas
+antes de la intervención quirúrgica, ya que podrían producirse fluctuaciones en la presión
+sanguínea y/o arritmias. La terapia con MADOPAR RETARD puede restablecerse tras la
+cirugía, aumentando progresivamente las dosis hasta el nivel preoperatorio.
+        Se recomienda observar a los pacientes por la posible aparición de efectos secundarios de
+naturaleza psiquiátrica debido al aumento dopaminérgico.
+ El tratamiento con MADOPAR RETARD no debe suspenderse bruscamente, por el riesgo
+de producir una disminución del estímulo dopaminérgico al cerebro, que podría producir
+síndrome neuroléptico maligno (hiperpirexia y rigidez muscular, posibles cambios
+fisiológicos y elevación de la creatinina fosfoquinasa sérica) que puede ser
+potencialmente mortal. En caso de que aparezcan estos síntomas y signos combinados
+debe someterse al paciente a una estrecha vigilancia médica y, si fuese necesario,
+hospitalizarle y administrar rápidamente el tratamiento sintomático adecuado. Puede
+volverse a administrar MADOPAR RETARD tras una evaluación apropiada.
+           Las alteraciones ortostáticas pueden controlarse habitualmente mediante una reducción de
+la dosis de MADOPAR RETARD.
+           En los estadios avanzados del tratamiento pueden producirse movimientos involuntarios
+(por ej. coreiformes o atetósicos) que normalmente pueden eliminarse o disminuirse
+mediante una reducción de la dosis. Con el tratamiento prolongado pueden también
+encontrarse fluctuaciones en la respuesta terapéutica, incluyendo episodios de ""bloqueo"",
+deterioro de fin de dosis y el fenómeno ""on-off"". Estos efectos pueden normalmente
+eliminarse o hacerse más tolerables mediante una reducción de la dosis y mediante la
+administración de dosis individuales más pequeñas con mayor frecuencia. Como estos
+efectos secundarios no tienen porqué ser recurrentes, se puede intentar aumentar la dosis
+posteriormente para intensificar la acción terapéutica.
+           El tratamiento con levodopa se ha asociado con la aparición de somnolencia y episodios
+de sueño repentinos. Muy raramente se ha comunicado la aparición de episodios de sueño
+repentinos, en el transcurso de actividades cotidianas, en ocasiones sin que el paciente lo
+advirtiera o sin que ello fuera precedido por señales de aviso. Los pacientes deben ser
+informados de esta posibilidad y se les aconsejará precaución a la hora de conducir
+vehículos o utilizar máquinas mientras que estén siendo tratados con levodopa. Los
+pacientes que hayan experimentado somnolencia y/o algún episodio de sueño repentino
+no deben conducir vehículos o utilizar máquinas, y se valorará la necesidad de reducir la
+dosis o interrumpir el tratamiento (ver apartado 4.7).
+           Un pequeño subgrupo de pacientes con enfermedad de Parkinson tiene alteraciones
+cognitivas y de la conducta que pueden atribuirse directamente a la toma de cantidades de
+medicación por encima de las dosis necesarias para el tratamiento de sus discapacidades
+motoras.
+           En pacientes con enfermad de Parkinson tratados con agonistas dopaminergicos se ha
+comunicado juego patológico, aumento de la libido e hipersexualidad. No se ha
+establecido la relación causal entre estos efectos y Madopar Retard el cual no es un
+agonista dopaminérgico. Sin embargo se debe advertir que Madopar Retard es un fármaco
+dopaminérgico.
+ 4.5.      Interacción con con otros medicamentos y otras formas de interacción
+ Interacciones farmacocinéticas
+ El triexifenidilo administrado concomitantemente con MADOPAR RETARD no afecta a
+la farmacocinética de levodopa.
+           La coadministración de antiácidos con MADOPAR RETARD reduce la absorción de
+levodopa en un 32%.
+El sulfato ferroso disminuye la concentración plasmática máxima y el AUC de la
+levodopa en un 30-50%. Los cambios farmacocinéticos observados durante el tratamiento
+concomitante con sulfato ferroso parecen ser clínicamente significativos en algunos pero
+no en todos los pacientes.
+           La metoclopramida aumenta la tasa de absorción de la levodopa.
+           No hay interacciones farmacocinéticas entre la levodopa y los siguientes compuestos:
+bromocriptina,amantadina, selegilina y domperidona.
+ Interacciones farmacodinámicas
+ Los neurolépticos, los opioides y los medicamentos antihipertensivos conteniendo
+reserpina inhiben la acción de MADOPAR RETARD.
+           El uso simultáneo de MADOPAR RETARD e inhibidores no selectivos de la MAO está
+contraindicado. Si se va a administrar MADOPAR RETARD a pacientes en tratamiento
+con inhibidores no selectivos de la MAO, debe dejarse un intervalo de al menos 2
+semanas desde el cese del tratamiento con los inhibidores de la MAO hasta el inicio del
+tratamiento con MADOPAR RETARD. Si ésto no se tiene en cuenta pueden aparecer
+efectos secundarios como crisis hipertensivas (ver apartado 4.3 Contraindicaciones).
+           Los inhibidores selectivos MAO-B como la selegilina y rasagilina y los selectivos MAO-
+A como la moclobemida, pueden administrase a pacientes recibiendo MADOPAR
+RETARD, aunque se recomienda reajustar la dosis de levodopa de acuerdo a las
+necesidades individuales de cada paciente, teniendo en cuenta tanto la eficacia como la
+tolerabilidad.
+           La combinación de inhibidores selectivos MAO-A y MAO-B es equivalente a la
+inhibición MAO no selectiva y por lo tanto no debe administrarse concomitantemente con
+MADOPAR RETARD (ver apartado 4.3 Contraindicaciones)
+           No     debe     administrarse   MADOPAR        RETARD        concomitantemente       con
+simpaticomiméticos (como epinefrina, norepinefrina, isoproterenol o anfetaminas), ya que
+estimulan el sistema nervioso simpático y la levodopa podría potenciar sus efectos. En
+caso de que esta administración concomitante fuera necesaria, es esencial realizar una
+estrecha vigilancia del sistema cardiovascular, y si acaso reducir la dosis del
+simpaticomimético empleado.
+           La combinación con otros agentes comoanticolinérgicos, amantadina y agonistas
+dopamínicos está permitida, aunque hay que tener en cuenta que se pueden potenciar no
+sólo los efectos deseados sino también los no deseados En caso de que se combinen con
+otros agentes, puede ser necesario reducir la dosis de los otros fármacos o la de
+MADOPAR RETARD. Puede ser necesario reducir la dosis de MADOPAR RETARD
+cuando se inicie un tratamiento adyuvante con un inhibidor de la COMT. La
+administración de anticolinérgicos no debe suspenderse bruscamente al empezar el
+tratamiento con MADOPAR RETARD ya que la levodopa tardará un tiempo en empezar
+a tener efecto.
+           La levodopa puede afectar los resultados de laboratorio en la determinación de los niveles
+de catecolaminas, creatinina, ácido úrico y glucosa.
+El test de Coombs puede dar resultados falsos positivos en pacientes que estén tomando
+MADOPAR RETARD.
+        Se observa una disminución del efecto cuando el fármaco se administra con una comida
+rica en proteínas.
+        Anestesia general con halotano: Debe interrumpirse la administración de MADOPAR
+RETARD de 12 a 48 horas antes de una intervención quirúrgica que requiera anestesia
+general con halotano, ya que podrían producirse fluctuaciones en la presión sanguínea y/o
+arritmias.
+        En el caso de anestesia general con otros anestésicos, ver sección 4.4 Advertencias y
+precauciones especiales de empleo.
+ 4.6.   Embarazo y lactancia
+        MADOPAR RETARD está contraindicado durante el embarazo y la lactancia y en
+mujeres que no estén tomando medidas anticonceptivas apropiadas (ver apartado 4.3
+Contraindicaciones), pues existe la posibilidad de producir alteraciones esqueléticas en el
+feto y en niños.
+        Si una mujer que está tomando MADOPAR RETARD se queda embarazada, el
+tratamiento debe interrumpirse inmediatamente.
+ 4.7.   Efectos sobre la capacidad para conducir y utilizar máquinas
+        Dependiendo de la respuesta individual de cada paciente, MADOPAR RETARD puede
+afectar a la habilidad para conducir o manejar maquinaria. Por lo tanto, debe utilizarse con
+precaución hasta que no se sepa cómo responde el paciente al tratamiento.
+        Hay que indicar a los pacientes en tratamiento con Madopar Retard que si presentan
+somnolencia y/o episodios repentinos de sueño se abstengan de conducir o participar en
+actividades en las que la reducción del estado de alerta pueda suponer un riesgo de lesión
+grave o muerte para ellos o para los demás (p. ej. utilización de máquinas) hasta que tales
+episodios recurrentes y la somnolencia hayan desaparecido (véase también la sección 4.4).
+ 4.8.   Reacciones adversas
+        La frecuencia de las reacciones adversas se describe utilizando el siguiente criterio:
+        Muy frecuentes           1/10
+Frecuentes              1/100, <1/10
+Poco Frecuentes         1/1.000,<1/100
+Raras                   1/10.000,<1/1.000
+Muy raras               < 1/10.000, no conocidas (no puede estimarse a partir de los datos
+ Trastornos de la sangre y del sistema linfático
+ Muy raras: anemia hemolítica, leucopenia transitoria y trombocitopenia. Por lo tanto, se
+deben realizar controles periódicos de los parámetros sanguíneos durante el tratamiento
+con Madopar Retard
+ Trastornos del metabolismo y de la nutrición
+ Muy raras: anorexia
+ Trastornos psiquiátricos
+ En muy raras ocasiones se puede presentar depresión, que también puede ser parte del
+cuadro clínico en pacientes con enfermedad de Parkinson.
+Igualmente en muy raras ocasiones, en los pacientes ancianos o con historial previo de
+alteraciones psíquicas, pueden aparecer agitación, ansiedad, insomnio, alucinaciones,
+delirios y desorientación temporal.
+ Trastornos del sistema nervioso
+ En muy raras ocasiones se han comunicados casos aislados de descenso o pérdida del
+sentido del gusto.
+En raras ocasiones, en los estadios avanzados del tratamiento puede ocurrir discinesia (por
+ej. movimientos coreiformes o atetósicos ). Además, con el tratamiento prolongado
+pueden también encontrarse fluctuaciones en la respuesta terapéutica, incluyendo
+episodios de ""bloqueo"", deterioro de fin de dosis y el fenómeno ""on-off"". Todos estos
+efectos pueden normalmente eliminarse o hacerse más tolerables mediante un ajuste de
+dosis y pueden darse dosis más pequeñas con más frecuencia. Como estos efectos
+secundarios no tienen porqué ser recurrentes, se puede intentar aumentar la dosis
+posteriormente para intensificar la acción terapéutica.
+El tratamiento con MADOPAR RETARD puede producir somnolencia y muy raramente
+ha sido asociado con somnolencia diurna excesiva y episodios de sueño repentino.
+ Trastornos cardíacos
+ En muy raras ocasiones pueden ocurrir arritmias cardíacas
+ Trastornos vasculares
+ En muy raras ocasiones puede ocurrir hipotensión ortostática. Los trastornos ortostaticos
+generalmente mejoran con una reducción de la dosis de Madopar Retard.
+ Trastornos gastrointestinales
+ En muy raras ocasiones pueden ocurrir nauseas, vómitos y diarreas. Estos trastornos
+ocurren principalmente en los primeros estadios del tratamiento y pueden controlarse en
+gran medida administrando MADOPAR RETARD con algo de comida o bebida o
+alcanzando la dosis óptima de forma paulatina.
+                                                                                               MINISTERIO
+Trastornos de la piel y del tejido subcutáneo
+        En raras ocasiones pueden ocurrir reacciones alérgicas en la piel, como prurito y rash
+(rash eritematoso y rash maculo-papular).
+        Exploraciones complementarias
+        En muy raras ocasiones se pueden producir elevaciones de las transaminasas hepáticas y
+de la fosfatasa alcalina.
+Incrementos el nitrógeno uréico en sangre.
+Muy raras: color de la orina alterado, normalmente por la adquisición de un tono rojizo
+que se oscurece con el tiempo.
+ 4.9.   Sobredosis
+        Síntomas y signos
+Los síntomas y signos de sobredosis son cualitativamente similares a las reacciones
+adversas de MADOPAR RETARD a dosis terapéuticas, pero pueden ser de mayor
+gravedad.
+La sobredosis puede dar lugar a efectos adversos cardiovasculares (ej. arritmias
+cardiacas), alteraciones psiquiátricas (ej. estado confusional e insomnio), efectos
+gastrointestinales (ej. náuseas, vómitos y diarrea), movimientos involuntarios (ej.
+discinesia) y malestar general. (ver apartado 4.8 Reacciones adversas).
+Debido a la absorción retardada de los principios activos, puede retrasarse la aparición de
+los signos y síntomas.
+        Tratamiento
+Seguimiento de los signos vitales del paciente y medidas de apoyo según el estado clínico
+del mismo. En algunos pacientes puede ser necesario tratamiento sintomático para los
+efectos cardiovasculares (ej.: antiarrítmicos) o para los efectos del sistema nervioso
+central (ej.: estimulantes respiratorios, neurolépticos).
+Además, se debe prevenir la absorción adicional mediante el método que se considere más
+apropiado según la práctica habitual.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1.   Propiedades farmacodinámicas
+        Código ATC: N04BA.
+        La dopamina, que actúa como neurotransmisor en el cerebro, se encuentra en una
+concentración insuficiente en los ganglios basales de los pacientes parkinsonianos. Se
+consigue una terapia de sustitución administrando levodopa, precursor directo de la
+dopamina, debido a que la capacidad de la dopamina para atravesar la barrera
+hematoencefálica es muy limitada.
+        Tras su administración, la levodopa se descarboxila rápidamente en dopamina, tanto en
+los tejidos cerebrales como fuera de ellos. Por esta razón, la mayoría de la levodopa
+administrada no llega a los ganglios basales, y la dopamina formada en la periferia
+provoca a menudo efectos secundarios. Por lo tanto, es particularmente interesante inhibir
+                                                                                                      MINISTERIO
+la descarboxilación de la levodopa, lo cual puede conseguirse mediante la administración
+simultánea de benserazida, un inhibidor periférico de la descarboxilasa.
+        MADOPAR RETARD combina estas dos sustancias en una proporción de 4:1. En los
+ensayos clínicos y durante el uso terapéutico se ha demostrado que esta proporción es
+óptima y tan eficaz como dosis mayores de levodopa en monoterapia.
+ 5.2.   Propiedades farmacocinéticas
+        Absorción
+        MADOPAR RETARD es una formulación especial que se caracteriza por proporcionar
+un tiempo prolongado de liberación de los principios activos en el estómago, donde las
+cápsulas permanecen durante 3 a 6 horas. El estómago por lo tanto actúa como un
+reservorio del medicamento.
+        La levodopa se absorbe mayoritariamente en la porción superior del intestino delgado.
+        Los principios activos se liberan lentamente en el estómago. Las concentraciones
+plasmáticas máximas de levodopa, un 20-30% de las alcanzadas con los comprimidos, se
+alcanzan a las dos o tres horas de la administración. La curva de la concentración
+plasmática frente al tiempo muestra una semiduración (tiempo durante el cual la
+concentración plasmática es igual o mayor a la mitad de la concentración máxima) más
+prolongada que con los comprimidos estándar de MADOPAR 250, lo que pone de
+manifiesto sus propiedades de liberación controlada.
+        La biodisponibilidad de MADOPAR RETARD se sitúa en torno al 50-70% de la de los
+comprimidos estándar, y no se afecta por la comida. Las concentraciones plasmáticas de
+levodopa no se afectan por la comida, pero se alcanzan más tarde (unas 5 horas) si se
+administran tras una comida. La coadministración de antiácidos con MADOPAR
+RETARD reduce la cantidad de levodopa absorbida en un 32 % (ver 4.5 Interacción con
+otro medicamentos y otras formas de interacción)
+        Distribución
+        La levodopa atraviesa la barrera hematoencefálica por un sistema de transporte saturable.
+No se une a las proteínas plasmáticas y su volumen de distribución es de 57 litros. El
+AUC de la levodopa en el líquido cefalorraquídeo es del 12 % del AUC en plasma.
+        En contraste con la levodopa, la benserazida no penetra la barrera hematoencefálica a
+dosis terapéuticas. Se concentra mayoritariamente en los riñones, pulmones, intestino
+delgado y en el hígado.
+        Metabolismo
+        La levodopa se metaboliza por dos rutas principales (descarboxilación y O-metilación) y
+dos secundarias (transaminación y oxidación).
+        La descarboxilasa amino ácida aromática transforma la levodopa en dopamina. Los
+principales productos de degradación de esta ruta son el ácido homovanílico y el ácido
+dihidroxifenilacético.
+                                                                                                    MINISTERIO
+La catecol-O-metil transferasa metila la levodopa a 3-O-metildopa. Este metabolito
+plasmático mayoritario tiene una vida media de eliminación de 15 horas, y se acumula en
+aquellos pacientes que reciben dosis terapéuticas de MADOPAR RETARD.
+        La disminución de la descarboxilación periférica de levodopa cuando se administra con
+benserazida se refleja por unos mayores niveles plasmáticos de levodopa y 3-O-
+metildopa, y menores concentraciones plasmáticas de catecolaminas (dopamina y
+noradrenalina), y ácidos fenolcarboxílicos (homovanílico y dihidroxifenilacético).
+        La benserazida se hidroxila a trihidroxibencilhidrazina en la mucosa intestinal y el hígado.
+Este metabolito es un potente inhibidor de la descarboxilasa aminoácida aromática.
+        Eliminación
+        Cuando la descarboxilasa de la levodopa está inhibida periféricamente, la vida media de
+eliminación de levodopa es de aproximadamente 1,5 horas. Esta vida media de
+eliminación es ligeramente mayor (aproximadamente 25%) en pacientes ancianos (65 ­
+78 años) con enfermedad de Parkinson. El aclaramiento plasmático es aproximadamente
+de 430 ml/min.
+        La benserazida se elimina fundamentalmente por metabolismo vía renal. Los metabolitos
+se excretan fundamentalmente en orina (64%) y una pequeña cantidad en las heces (24%).
+        Farmacocinética en poblaciones especiales
+        No se dispone de datos farmacocinéticos en pacientes con alteración renal o hepática.
+        En pacientes ancianos (65-78 años) con enfermedad de Parkinson, tanto la vida media de
+eliminación como el AUC de la levodopa son aproximadamente un 25% mayores que en
+pacientes más jóvenes (34-64 años).
+La influencia de la edad, estadísticamente significativa, es clínicamente insignificante y
+de menor importancia para determinar la posología.
+ 5.3.   Datos preclínicos sobre seguridad
+        No se han realizado estudios de carcinogenia con levodopa/benserazida.
+        En el test de Ames, ni levodopa/benserazida ni sus componentes por separado han
+mostrado ser mutagénicos. No hay más datos disponibles.
+        No se han realizado estudios de fertilidad en animales con levodopa/benserazida.
+        Aunque estudios toxicológicos generales con levodopa/benserazida en ratas mostraron la
+posibilidad de que se produzcan alteraciones en el desarrollo esquelético fetal, estudios
+formales de teratogenia no han mostrado efectos teratógenos o efectos en el desarrollo
+esquelético en ratones (400 mg/kg), ratas (600 mg/kg; 250 mg/kg) y conejos (120 mg/kg;
+150 mg/kg ).
+        A niveles de dosis tóxicos para la madre, aumentaron las muertes intrauterinas (conejos)
+y/o disminuyó el peso fetal (ratas).
+ 
+6.      DATOS FARMACÉUTICOS
+	6.1.    Lista de excipientes
+         Los excipientes presentes en la especialidad MADOPAR RETARD son los siguientes:
+hipromelosa,
+aceite vegetal hidrogenado,
+fosfato cálcico dibásico anhidro,
+manitol,
+povidona,
+talco y
+estearato de magnesio.
+ 6.2.    Incompatibilidades
+         No se han descrito.
+ 6.3.    Periodo de validez
+         3 años.
+ 6.4.    Precauciones especiales de conservación
+         No conservar a temperatura superior a 30ºC.
+ 6.5.    Naturaleza y contenido del envase
+         MADOPAR RETARD se presenta en frascos conteniendo 100 cápsulas.
+ 6.6.    Precauciones especiales de eliminación e instrucciones de uso y manipulación
+         Ninguna especial.
+ 
+7.      TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	        ROCHE FARMA, S.A.
+C/ Eucalipto nº 33
+28016 Madrid
+ 
+8.      NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	        62.162
+ 9.     FECHA DE LA              PRIMERA        AUTORIZACIÓN/RENOVACIÓN            DE   LA
+AUTORIZACIÓN
+        Fecha de la primera autorización: 21/08/2001.
+Fecha de la última renovación de la autorización: 01/08/2006.
+                                                                                             MINISTERIO
+10. FECHA DE LA REVISIÓN DEL TEXTO
+       Enero 2008
+
+	Prospectos de medicamentos.

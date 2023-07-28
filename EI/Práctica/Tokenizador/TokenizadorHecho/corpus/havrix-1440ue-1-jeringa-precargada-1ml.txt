@@ -1,0 +1,237 @@
+HAVRIX 1440UE 1 JERINGA PRECARGADA 1ML
+	Información Basica del medicamento Toda la información del medicamento 
+1. DENOMINACION DEL MEDICAMENTO
+	- HAVRIX 1440, suspensión inyectable en jeringa precargada
+- HAVRIX 720, suspensión inyectable en jeringa precargada
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	HAVRIX es una suspensión estéril que contiene el virus de la hepatitis A (VHA) (cepa HM
+175) inactivado con formaldehído y adsorbido en hidróxido de aluminio.
+ El virus se propaga en células diploides humanas MRC5. Antes de proceder a la
+extracción viral, las células se lavan cuidadosamente para eliminar los componentes del
+medio de cultivo. Después se obtiene una suspensión de virus mediante lisis de las
+células, seguido de purificación, empleando técnicas de ultrafiltración y cromatografía en
+gel. Los virus se inactivan con formalina.
+ HAVRIX, cumple con los requisitos de la Organización Mundial de la Salud para la
+fabricación de productos biológicos.
+ HAVRIX contiene una suspensión estéril purificada del virus de la hepatitis A inactivado: el
+contenido de antígeno viral se determina por una prueba ELISA.
+ La dosis de HAVRIX 1440 para adultos, se estandariza para asegurar un contenido de no
+menos de 1440 Unidades ELISA de antígeno viral, en 1 ml de volumen.
+ La dosis de HAVRIX 720 para niños y adolescentes, se estandariza para asegurar un
+contenido de no menos de 720 Unidades ELISA de antígeno viral, en 0,5 ml de volumen.
+ Durante el proceso de producción se utiliza sulfato de neomicina. Tras el proceso de
+purificación solo existen residuos en la vacuna menores de 20 nanogramos/dosis en
+HAVRIX 1440 y menores de 10 nanogramos/dosis en HAVRIX 720. Asimismo, el
+formaldehído no alcanza más de 100 g/ml.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3. FORMA FARMACÉUTICA
+	Suspensión para administración intramuscular en jeringa precargada.
+ 
+
+
+4. DATOS CLÍNICOS
+	"4.1. Indicaciones terapéuticas.
+ HAVRIX, esta indicado para la inmunización activa frente a la infección por el virus de la
+hepatitis A, en personas en riesgo de exposición al VHA.
+HAVRIX, no previene la hepatitis causada por otros agentes tales como el virus de la
+hepatitis B, hepatitis C, hepatitis E u otros patógenos conocidos que pueden infectar el
+hígado.
+ No se conoce la duración de la inmunidad de la vacuna.
+ Los individuos con anticuerpos específicos frente al VHA no precisan de la vacunación, no
+obstante, no es necesaria la realización de estudios serológicos previos a la vacunación.
+La vacunación de personas inmunes no presenta riesgo añadido.
+ 4.2. Posología y forma de administración.
+ Posología
+ · Adultos a partir de 19 años de edad y en adelante.
+Para la vacunación primaria: administrar una dosis única de HAVRIX 1440 (1 ml de
+suspensión).
+ · Niños y adolescentes a partir de 1 año de edad hasta los 18 años inclusive.
+Para la vacunación primaria: administrar una dosis única de HAVRIX 720 (0,5 ml de
+suspensión).
+ Para asegurar protección a largo plazo, se recomienda que se administre una dosis de
+recuerdo de HAVRIX 1440 (adultos) ó HAVRIX 720 (niños y adolescentes) en cualquier
+momento entre los 6 y 12 meses después de la vacunación primaria.
+ En el caso de individuos que requieran tanto profilaxis post-exposición como protección
+combinada inmediata o a largo plazo, puede administrarse simultáneamente
+inmunoglobulina utilizando diferentes sitios de inyección.
+ Forma de administración.
+ HAVRIX se debe administrar por vía intramuscular. En adultos, adolescentes y niños
+mayores, la vacuna debe inyectarse en la región deltoidea; en los niños muy pequeños, en
+la cara anterolateral del muslo.
+ En pacientes hemofílicos o con trombocitopenia, la vacuna debe administrarse por vía
+subcutánea
+HAVRIX debe administrarse con precaución en personas con trombocitopenia o trastornos
+hemorrágicos ya que se puede producir un sangrado tras de la administración
+intramuscular de la vacuna en estos sujetos Debería ejercerse una fuerte presión en el
+lugar de la inyección (sin frotar) durante al menos 2 minutos.
+ Bajo ninguna circunstancia debe administrarse HAVRIX por vía intravenosa.
+ La vacuna no debe administrarse por vía intramuscular en la región glútea, ni por vía
+subcutánea/intradérmica, dado que ello puede conducir a una menor respuesta de
+anticuerpos anti-VHA.
+ 4.3. Contraindicaciones.
+ Como ocurre con otras vacunas, se debe posponer la administración de HAVRIX en
+personas con una enfermedad febril grave y aguda. Sin embargo, la presencia de una
+infección leve no es una contraindicación para la vacunación.
+ No se debe administrar HAVRIX a personas con hipersensibilidad conocida a cualquier
+componente de la vacuna, ni a quienes hayan presentado signos de hipersensibilidad tras
+una administración anterior de HAVRIX.
+ 4.4. Advertencias y precauciones especiales de empleo.
+ Es posible que algunas personas se encuentren en el periodo de incubación de una
+infección por hepatitis A en el momento de la vacunación. No se sabe si en estos casos
+HAVRIX prevendrá frente a la hepatitis A en estos sujetos.
+ HAVRIX puede ser administrado a personas infectadas por VIH.
+En pacientes sometidos a hemodiálisis y en personas con un sistema inmunológico
+deficiente, puede que no se obtengan títulos de anticuerpos anti-VHA adecuados tras la
+dosis única de HAVRIX. Por tanto, estos pacientes podrán requerir la administración de
+dosis adicionales de vacuna.
+ Como con todas las vacunas inyectables, se debe disponer de tratamiento médico
+adecuado para el caso poco común que se presente una reacción anafiláctica tras la
+administración de la vacuna. Por esta razón, el vacunado debería permanecer bajo
+supervisión médica durante 30 minutos tras la vacunación.
+ Bajo ninguna circunstancia debe administrarse HAVRIX por vía intravenosa.
+ 4.5. Interacción con con otros medicamentos y otras formas de interacción.
+ Dado que HAVRIX es una vacuna inactivada, es poco probable que su utilización
+concomitante con otras vacunas inactivadas, produzca interferencia con las respuestas
+inmunes.
+Cuando se considere necesaria la administración concomitante con otras vacunas, estas
+se tienen que administrar con jeringas diferentes y en lugares de inyección distintos.
+ Se puede administrar inmunoglobulina y HAVRIX de manera simultánea en dos lugares
+diferentes. Las tasas de seroconversión no se modifican, pero los títulos de anticuerpos
+podrían ser menores que tras la vacunación con HAVRIX sola.
+ 4.6. Embarazo y Lactancia.
+ Embarazo:
+No se ha evaluado el efecto de HAVRIX sobre el desarrollo fetal. No hay datos disponibles
+adecuados para su uso en embarazo o lactancia, ni estudios de reproducción en animales.
+Sin embargo, como sucede con todas las vacunas víricas inactivadas, los riesgos para el
+feto se consideran mínimos. HAVRIX se debe utilizar durante el embarazo solo cuando sea
+claramente necesario.
+ Lactancia:
+No están disponibles estudios en humanos durante la lactancia y de reproducción en
+animales. Aunque el riesgo puede ser considerado mínimo, HAVRIX solo debe ser usado
+durante la lactancia si es claramente necesario.
+ 4.7. Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria.
+ Es poco probable que la vacuna produzca algún efecto sobre la capacidad de conducir
+vehículos y utilizar maquinaria.
+ 4.8. Reacciones adversas.
+ HAVRIX presenta buena tolerancia.
+ En estudios clínicos controlados, se monitorizaron en todas las personas los signos y
+síntomas durante los cuatro días posteriores a la administración de la vacuna. Para ello se
+utilizaron listas de comprobación de síntomas. También se solicitó a los vacunados que
+comunicaran cualquier acontecimiento clínico que ocurriera durante el periodo de estudio.
+ La frecuencia de los acontecimientos adversos solicitados fue más baja tras la dosis de
+recuerdo de HAVRIX. La mayoría de los acontecimientos comunicados fueron
+considerados por los sujetos como ""leves"" y no duraron más de 24 horas. La frecuencia
+de los acontecimientos adversos solicitados tras la administración de HAVRIX, no es
+diferente de la comunicada tras la administración de otras vacunas de antígenos
+purificados adsorbidos en aluminio.
+ De los acontecimientos adversos locales solicitados, el comunicado con mayor frecuencia
+fue dolor en el lugar de la inyección (menos del 0,5% informado como intenso) que remitió
+espontáneamente. Otros acontecimientos adversos locales solicitados y comunicados
+fueron ligero enrojecimiento e hinchazón, producidos con una frecuencia aproximada del
+4 % de todas las vacunaciones.
+ Los acontecimientos adversos sistémicos comunicados por los vacunados fueron
+esencialmente leves, la mayoría no duraron más de 24 horas e incluyeron cefalea,
+malestar, vómitos, fiebre, náuseas y pérdida de apetito. Estos acontecimientos se
+comunicaron con una frecuencia que variaba entre el 0,8% y el 12,8% de las vacunaciones.
+Todos ellos remitieron espontáneamente.
+ La naturaleza de los signos y síntomas observados en los niños es similar a la de los
+adultos, sin embargo, se comunicaron con menor frecuencia.
+ En muy raras ocasiones se han comunicado casos de fatiga, diarrea, mialgia, artralgia y
+reacciones alérgicas incluyendo reacciones anafilácticas y convulsiones.
+ 4.9. Sobredosificación.
+ No procede.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1. Propiedades farmacodinámicas.
+ Grupo farmacoterapéutico: Vacunas antihepatitis A, código ATC: J07BC02
+ HAVRIX, protege frente a la hepatitis A, mediante la inducción de anticuerpos específicos
+anti-VHA.
+ En ensayos clínicos, el 99% de los vacunados seroconvirtieron 30 días después de
+la primera dosis. En un subgrupo de los estudios clínicos en los que fue estudiada la
+                                                                                               MINISTERIO
+cinética de la respuesta inmunitaria, se demostró seroconversión temprana y rápida
+tras la administración de una dosis única de Havrix en un 79% de los vacunados en
+el día 13, un 86.3% en el día 15, un 95.2% en el día 17 y un 100% en el día 19, que es
+menor que el periodo medio de incubación de la hepatitis A (4 semanas). (Ver
+información preclínica)
+ La eficacia de Havrix ha sido evaluada en diferentes brotes en comunidades (Alaska,
+Eslovaquia, Estados Unidos, Reino Unido, Israel e Italia). Los estudios demostraron
+que la vacunación con Havrix condujo a la finalización de los brotes. Una cobertura
+vacunal del 80% conduce a la interrupción de los brotes en un periodo de 4 a 8
+semanas.
+ Para asegurar la protección a largo plazo, debería administrarse una dosis de
+recuerdo entre 6 y 12 meses después de la primera dosis con Havrix 1440 o con
+Havrix 720. En los ensayos clínicos, prácticamente, todos los vacunados fueron
+seropositivos un mes después de la dosis de recuerdo.
+ Sin embargo, si la dosis de recuerdo no se ha administrado entre 6 y 12 meses
+después de la primera dosis, la administración de esta dosis de recuerdo puede
+retrasarse hasta 5 años. En un ensayo clínico comparativo, la administración de una
+dosis de recuerdo hasta 5 años después de la primera dosis indujo títulos de
+anticuerpos similares a los conseguidos tras la administración de una dosis de
+recuerdo entre 6 y 12 meses después de la primera dosis.
+ La persistencia de los títulos de anticuerpos de hepatitis A a largo plazo ha sido
+evaluada tras 2 dosis de Havrix administradas con una separación entre 6 y 12
+meses. Los resultados disponibles después de 10 años predicen que al menos un
+97% de los sujetos continuarán siendo seropositivos (>20 mUI/ml) 25 años después
+de la vacunación.
+ Los datos actuales no justifican la necesidad de una dosis de recuerdo en individuos
+inmunocompetentes después de un ciclo de vacunación de 2 dosis.
+ 5.2. Propiedades farmacocinéticas.
+ No procede.
+ 5.3. Datos preclínicos sobre seguridad.
+ Toxicología animal y/o farmacológica
+ Se han realizado los correspondientes ensayos sobre seguridad.
+ En un experimento en 8 primates no humanos, los animales fueron expuestos a una
+cepa heteróloga de hepatitis A y vacunados 2 días después de la exposición. Esta
+vacunación post exposición dio como resultado la protección de todos los animales.
+ 
+6. DATOS FARMACÉUTICOS
+	6.1. Relación de excipientes.
+                                                                                          MINISTERIO
+Hidróxido de aluminio (0,5 mg de ion aluminio/ml), 2-fenoxietanol (5 mg/ml), aminoácidos
+para inyección, fosfato disódico, fosfato monopotásico, polisorbato 20, cloruro de potasio,
+cloruro de sodio, residuos de sulfato de neomicina (menos de 20 nanogramos/dosis en
+HAVRIX 1440 y menos de 10 nanogramos/dosis en HAVRIX 720) y agua para preparaciones
+inyectables.
+ Para información sobre componentes residuales, ver sección 2.
+ 6.2. Incompatibilidades.
+ HAVRIX no se debe mezclar con otras vacunas en la misma jeringa.
+ 6.3. Periodo de validez.
+ La fecha de caducidad se indica en la etiqueta de la jeringa y en la caja.
+ El periodo de validez de HAVRIX es de 3 años, cuando se conserva a la temperatura
+recomendada entre +2ºC y +8ºC.
+ 6.4. Precauciones especiales de conservación.
+ HAVRIX se debe conservar entre +2ºC y +8ºC.
+ NO CONGELAR. Desechar la vacuna si ha sido congelada.
+ 6.5. Naturaleza y contenido del recipiente.
+ HAVRIX se presentan en jeringa precargada. Las jeringas son de vidrio neutro tipo I y
+cumple con los requisitos de la Farmacopea Europea.
+ Durante el almacenamiento, el contenido puede presentar un fino depósito blanquecino y
+un sobrenadante transparente incoloro.
+ 6.6. Instrucciones de uso/manipulación.
+ Antes de la administración, se debe inspeccionar visualmente la vacuna para detectar la
+presencia de partículas extrañas y/o cambios de color. Antes de utilizar HAVRIX se deberá
+agitar bien la jeringa para obtener una suspensión blanquecina ligeramente opaca.
+Desechar la vacuna, si el contenido aparece con otro aspecto.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	        GlaxoSmithKline, S.A.
+PTM - Severo Ochoa, 2
+28760 Tres Cantos
+Madrid.
+ 
+8.     NÚMERO EN EL REGISTRO DE MEDICAMENTOS DE LA COMUNIDAD
+	     HAVRIX 1440 - Nº Registro: 61.250
+-
+HAVRIX 720 - Nº Registro: 61.396
+-
+9.      FECHA DE LA PRIMERA AUTORIZACIÓN/REVALIDACIÓN DE LA AUTORIZACIÓN
+       HAVRIX 1440 - Autorización: Mayo 1997/ Revalidación: Febrero 2002.
+-
+HAVRIX 720 - Autorización: Junio 1997/ Revalidación: Marzo 2002.
+-
+ 10.     FECHA DE REVISIÓN DEL TEXTO
+
+	Prospectos de medicamentos.

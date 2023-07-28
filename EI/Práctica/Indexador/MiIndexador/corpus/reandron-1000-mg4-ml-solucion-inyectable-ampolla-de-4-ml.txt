@@ -1,0 +1,274 @@
+REANDRON 1000 mg/4 ml solución inyectable, ampolla de 4 ml
+	"Información Basica del medicamento Toda la información del medicamento DEL MEDICAMENTO
+ Reandron 1000 mg / 4 ml, solución inyectable.
+ COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+ Cada ml de solución inyectable contiene 250 mg de testosterona undecanoato, que corresponden a
+157,9 mg de testosterona.
+ Cada ampolla con 4 ml de solución inyectable contiene 1000 mg de testosterona undecanoato.
+ Para los excipientes, véase el apartado 6.1.
+ FORMA FARMACÉUTICA
+ Solución inyectable.
+ Solución oleosa clara de color amarillento.
+ 
+
+ DATOS CLÍNICOS
+ Indicaciones terapéuticas
+ Terapia de sustitución de testosterona en el hipogonadismo masculino, cuando el déficit de
+testosterona ha sido confirmado mediante datos clínicos y pruebas bioquímicas (véase el apartado
+4.4 ""Advertencias y precauciones especiales de empleo"".
+ 4.2       Posología y forma de administración
+Para uso intramuscular.
+ Hombres adultos y de edad avanzada
+ Se administra 1 ampolla de Reandron (que corresponde a 1000 mg de undecanoato de
+testosterona) mediante inyección, cada 10 a 14 semanas. La administración de las inyecciones con
+esta frecuencia permite mantener niveles suficientes de testosterona sin producir acumulación.
+ Las inyecciones deben administrarse muy lentamente. Se debe tener cuidado de inyectar
+Reandron en el músculo gluteo de forma profunda, siguiendo las precauciones usuales para la
+administración intramuscular. Se debe tener especial precaución para evitar la inyección
+intravasal. El contenido de la ampolla se debe inyectar, de forma intramuscular, inmediatamente
+tras su apertura.
+       Comienzo del tratamiento
+-
+ Antes de comenzar el tratamiento y durante el inicio del mismo, se deben determinar los niveles
+séricos de testosterona. Dependiendo de los niveles séricos de testosterona y de los síntomas
+clínicos, el intervalo desde la primera inyección puede reducirse hasta un mínimo de 6 semanas,
+comparado con el intervalo recomendado de mantenimiento de 10 a 14 semanas. Con esta dosis
+ inicial, se pueden alcanzar más rápidamente los niveles de testosterona suficientes para lograr el
+estado de equilibrio.
+       Mantenimiento e individualización del tratamiento
+-
+ El intervalo entre las inyecciones debe mantenerse dentro del límite recomendado de 10 a 14
+semanas. Se requiere realizar un seguimiento cuidadoso de los niveles séricos de testosterona
+durante el mantenimiento del tratamiento. Es recomendable medir los niveles séricos de
+testosterona de forma regular. Las mediciones deben realizarse al finalizar un intervalo entre
+inyecciones, teniendo en cuenta también los síntomas clínicos. Estos niveles séricos deberían
+encontrarse dentro del tercio inferior del rango normal. Los niveles séricos que estén por debajo
+del rango normal indicarían la necesidad de acortar el intervalo entre las inyecciones. En caso de
+que los niveles séricos estén elevados, puede valorarse un aumento del intervalo entre las
+inyecciones.
+ Niños y adolescentes
+ No está indicado el uso de Reandron en niños y adolescentes, y no ha sido evaluado clínicamente
+en hombres por debajo de los 18 años de edad.
+ 4.3     Contraindicaciones
+El uso de Reandron está contraindicado en pacientes con carcinoma prostático dependiente de
+andrógenos, o carcinoma de glándula mamaria en hombres; pacientes que hayan tenido o que
+tengan tumores hepáticos; o en pacientes con hipersensibilidad al principio activo o a cualquiera
+de los excipientes.
+ 4.4     Advertencias y precauciones especiales de empleo
+No se recomienda el uso de Reandron en niños y adolescentes.
+ Reandron solo debe usarse si el hipogonadismo (hiper e hipogonadotrófico) ha sido demostrado y
+si cualquier otra etiología, responsable de los síntomas, ha sido excluida antes del inicio del
+tratamiento. La insuficiencia de testosterona debe ser claramente demostrada mediante datos
+clínicos (regresión de las características sexuales secundarias, cambio en la composición corporal,
+astenia, disminución de la libido, disfunción eréctil, etc...) y confirmada mediante dos mediciones
+distintas de testosterona en sangre.
+ La experiencia con el uso de Reandron en pacientes de edad avanzada, por encima de los 65 años
+de edad, es limitada. Actualmente, no existe consenso sobre unos valores de referencia de
+testosterona específicos según la edad. No obstante, debe tenerse en cuenta que los niveles séricos
+fisiológicos de testosterona son menores con el aumento de la edad.
+ Examen médico
+ Antes del inicio del tratamiento con testosterona, se debe realizar un examen médico detallado a
+todos los pacientes, con el fin de excluir el riesgo de un cáncer de próstata ya existente. En
+pacientes que reciban terapia con testosterona debe realizarse un seguimiento periódico cuidadoso
+de la glándula prostática y las mamas, de acuerdo a los métodos establecidos (examen digital
+rectal y determinación sérica de PSA), al menos una vez al año, y dos veces al año en pacientes de
+edad avanzada o pacientes de riesgo (aquellos con factores de riesgo clínicos o familiares).
+ Además de la determinación de las concentraciones de testosterona mediante pruebas de
+laboratorio, en pacientes en tratamiento a largo plazo con andrógenos se deben determinar
+                                                                                                       MINISTERIO
+periódicamente los siguientes parámetros de laboratorio: hemoglobina, hematocrito y pruebas de
+función hepática.
+ Debido a la variabilidad en los valores de laboratorio, todas las mediciones de la testosterona
+deben ser realizadas en el mismo laboratorio.
+ Tumores
+ Los andrógenos pueden acelerar la progresión de un cáncer de próstata subclínico o una
+hiperplasia benigna de próstata.
+ Reandron debe usarse con precaución en pacientes con cáncer y riesgo de hipercalcemia (e
+hipercalciuria asociada) debido a metástasis óseas. En estos pacientes se recomienda el control
+regular de las concentraciones séricas de calcio.
+ En casos raros, se han comunicado tumores hepáticos benignos y malignos en pacientes en
+tratamiento con terapia de sustitución de testosterona.
+ Otras enfermedades
+ En aquellos pacientes con insuficiencia renal, hepática o cardiaca severa o enfermedad isquémica
+coronaria, el tratamiento con testosterona puede dar lugar a complicaciones graves, caracterizadas
+por edema con o sin fallo cardiaco congestivo. En este caso, el tratamiento debe suspenderse
+inmediatamente. No hay estudios realizados que demuestren la eficacia y seguridad de este
+medicamento en pacientes con deterioro renal o hepático. Por lo tanto, la terapia de sustitución de
+testosterona debe usarse con precaución en estos pacientes.
+ Como norma general, siempre se deben tener en cuenta las limitaciones en el uso de inyecciones
+intramusculares en pacientes con trastornos hereditarios o adquiridos de la coagulación sanguínea.
+ Reandron debe usarse con precaución en pacientes con epilepsia o migraña, ya que estas
+enfermedades pueden verse agravadas.
+ En pacientes tratados con andrógenos que alcanzan concentraciones plasmáticas normales de
+testosterona tras la terapia de sustitución puede ocurrir un aumento de la sensibilidad a la insulina.
+ Determinados signos clínicos: irritabilidad, nerviosismo, ganancia de peso, erecciones
+prolongadas o frecuentes, pueden indicar una excesiva exposición a los andrógenos, requiriéndose
+un ajuste de la dosis.
+ Puede potenciarse la apnea del sueño preexistente.
+ Se debe advertir a los atletas tratados con sustitución de testosterona por hipogonadismo
+masculino primario o secundario que este medicamento contiene un principio activo que puede
+dar lugar a resultados positivos en los análisis de dopaje.
+ Los andrógenos no son apropiados para mejorar el desarrollo muscular en personas sanas o para
+aumentar la capacidad física.
+ El tratamiento con Reandron deber ser retirado de forma permanente si los síntomas por una
+exposición excesiva a los andrógenos persisten o aparecen de nuevo durante el tratamiento a las
+dosis recomendadas.
+ Aplicación
+Reandron debe inyectarse por vía intramuscular. La experiencia indica que las reacciones de corta
+duración (necesidad de toser, accesos de tos, disnea) que se producen en raros casos durante o
+inmediatamente después de la inyección de soluciones oleosas, pueden evitarse inyectando la
+solución de forma extremadamente lenta.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+Anticoagulantes orales
+ Se ha informado que la testosterona y sus derivados aumentan la actividad de los anticoagulantes
+orales. Aquellos pacientes en tratamiento con anticoagulantes orales requieren un estrecho
+seguimiento, especialmente durante el comienzo y finalización de la terapia con andrógenos. Se
+recomienda un aumento de la monitorización del tiempo de la protrombina y de las
+determinaciones de INR.
+ Otras interacciones
+ La administración concomitante de testosterona con ACTH o corticosteroides puede favorecer la
+formación de edema; de esta manera, estos principios activos deben ser administrados
+cuidadosamente, particularmente en pacientes con enfermedades hepáticas o cardiacas, o en
+pacientes con predisposición al edema.
+ Interacciones con pruebas de laboratorio: los andrógenos pueden disminuir los niveles de la
+globulina fijadora de tiroxina, dando lugar a una disminución de los niveles séricos totales de T4 y
+un aumento de la captación de resina de T3 y T4. No obstante, los niveles de hormona tiroidea
+libre permanecen inalterados, no existiendo evidencia clínica de disfunción tiroidea.
+ 4.6   Embarazo y lactancia
+Reandron no está indicado para su uso en mujeres y no debe ser usado en mujeres embarazadas o
+en periodo de lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+Reandron no influye sobre la capacidad para conducir y utilizar máquinas.
+ 4.8   Reacciones adversas
+La reacción adversa más frecuentemente observada fue dolor en el lugar de aplicación de la
+inyección (10%).
+ En ensayos clínicos se comunicó una posible relación de Reandron con las siguientes reacciones
+adversas (según el HARTS Body System y Dictionary Term System):
+ Sistema corporal                                   Frecuentes* (>1/100, <1/10)
+Trastornos digestivos                              Diarrea
+Trastornos musculoesqueléticos                     Dolor de piernas, artralgia
+Trastornos del sistema nervioso                    Mareos, aumento de la sudoración, cefalea
+Trastornos respiratorios                           Trastornos respiratorios
+Trastornos de la piel y anejos                     Acné, dolor mamario, ginecomastia, prurito,
+Trastornos urogenitales                            Dolor testicular, trastornos de la próstata
+Trastornos generales y alteraciones en el lugar de Hematoma subcutáneo en el lugar de aplicación
+administración                                     de la inyección
+*Debido al reducido tamaño muestral de los estudios, la frecuencia de cada reacción adversa comunicada
+con posible relación causal entra al menos en la categoría de frecuentes (>1/100).
+En la literatura se han comunicado las siguientes reacciones adversas con preparaciones que
+contienen testosterona:
+ Sistema corporal                                   Reacciones adversas
+Trastornos de la sangre y del sistema linfático    Casos raros de policitemia (eritrocitosis)
+Trastornos del metabolismo y de la nutrición       Aumento de peso, cambios en los electrolitos
+Trastornos musculoesqueléticos                     Calambres musculares
+Trastornos del sistema nervioso                    Nerviosismo, hostilidad, depresión
+Trastornos respiratorios                           Apnea del sueño
+Trastornos hepatobiliares                          En casos muy raros, ictericia y anomalías en las
+Trastornos de la piel y anejos                     Se pueden producir diversas reacciones
+Trastornos del aparato reproductor y de la mama Alteraciones de la libido; aumento de la
+Trastornos generales y alteraciones en el lugar de La administración de dosis elevadas o el
+administración                                     tratamiento prolongado con testosterona
+**Los datos sobre el riesgo de cáncer de próstata asociado al tratamiento con testosterona no son
+concluyentes.
+ 4.9   Sobredosis
+En caso de sobredosis no es necesaria ninguna medida terapéutica especial, excepto interrumpir el
+tratamiento con el medicamento o reducir la dosis.
+ PROPIEDADES FARMACOLÓGICAS
+ 5.1   Propiedades farmacodinámicas
+Grupo farmacoterapéutico: Andrógenos, derivados del 3-oxoandrosteno (4)
+ Código ATC: G03B A03
+ El undecanoato de testosterona es un éster del andrógeno natural testosterona. La forma activa,
+testosterona, se forma por rotura de la cadena lateral.
+La testosterona es el andrógeno más importante del hombre, sintetizado principalmente en los
+testículos y, en menor grado, en la corteza suprarrenal.
+ La testosterona es responsable de la aparición de las características masculinas durante la vida
+fetal, la primera infancia y el desarrollo puberal, siendo posteriormente la hormona que mantiene
+el fenotipo masculino y las funciones que dependen de los andrógenos (por ej.: espermatogénesis,
+glándulas sexuales accesorias). También realiza funciones, por ej.: en la piel, los músculos, los
+huesos, los riñones, el hígado, la médula ósea y el SNC.
+ Dependiendo del órgano sobre el que realice su acción, el espectro de actividades de la
+testosterona es principalmente androgénico (por ej: próstata, vesículas seminales, epidídimo) o
+proteico-anabólico (músculos, huesos, hematopoyesis, riñón, hígado).
+ Los efectos de la testosterona en algunos órganos surgen a partir de la conversión periférica de la
+testosterona en estradiol, que luego se une a los receptores estrogénicos en el núcleo de las células
+diana, por ej.: células hipofisarias, grasas, cerebrales, óseas y células de Leydig testiculares.
+ 5.2       Propiedades farmacocinéticas
+       ·     Absorción
+ Reandron es una preparación de undecanoato de testosterona de liberación lenta que se administra
+por vía intramuscular, evitando de esta manera el efecto de primer paso. Después de la inyección
+intramuscular del undecanoato de testosterona en forma de solución oleosa, el compuesto se libera
+gradualmente y se descompone casi por completo a través de las estearasas séricas en testosterona
+y ácido undecanoico. Un día después de la administración ya es posible detectar un aumento de
+los niveles séricos de testosterona por encima de los valores basales.
+       ·     Condiciones de equilibrio
+ Después de la 1ª inyección intramuscular de 1000 mg de undecanoato de testosterona a hombres
+con hipogonadismo, se alcanzaron valores medios de Cmax de 38 nmol/L (11 ng/mL) después de 7
+días. La segunda dosis fue administrada 6 semanas después de la 1ª inyección, alcanzándose
+concentraciones máximas de testosterona de aproximadamente 50 nmol/L (15 ng/mL). Durante
+las tres siguientes administraciones se mantuvo un intervalo constante de dosificación de 10
+semanas, alcanzándose el estado de equilibrio entre la 3ª y la 5ª administración. Los valores
+medios aproximados de la Cmáx y la Cmín de testosterona en estado de equilibrio fueron de 37 (11
+ng/mL) y 16 nmol/L (5 ng/mL), respectivamente. La variabilidad intra e interindividual media
+(coeficiente de variación, %) de los valores de Cmin fue del 22% (rango: 9-28%) y 34% (rango: 25-
+48%), respectivamente.
+       ·     Distribución
+ En el suero del hombre, aproximadamente el 98% de la testosterona circulante se une a la
+globulina fijadora de hormonas sexuales (SHBG) y a la albúmina. Sólo la fracción libre de la
+testosterona se considera biológicamente activa. Después de la infusión intravenosa de
+testosterona a hombres de edad avanzada, la vida media de eliminación de la testosterona fue
+aproximadamente de 1 hora, determinándose un volumen de distribución aparente de 1,0 l/kg
+aproximadamente.
+ ·     Metabolismo
+ La testosterona, que se genera por la rotura del éster de undecanoato de testosterona, se
+metaboliza y excreta de la misma manera que la testosterona endógena. El ácido undecanoico se
+metaboliza por -oxidación de la misma manera que otros ácidos carboxílicos alifáticos. Los
+principales metabolitos activos de la testosterona son estradiol ydihidrotestosterona.
+       ·     Eliminación
+ La testosterona sufre un amplio metabolismo hepático y extrahepático. Después de la
+administración de testosterona marcada radioactivamente, cerca del 90% de la radioactividad se
+encuentra en la orina en forma de conjugados de ácido glucurónico y sulfúrico, y el 6% se
+encuentra en las heces después de pasar la circulación enterohepática. Los productos medicinales
+urinarios incluyen la androsterona y la etiocolanolona. Después de la administración
+intramuscular de esta formulación depot, la tasa de liberación se caracteriza por una vida media de
+90 ± 40 días.
+ 5.3       Datos preclínicos sobre seguridad
+Los estudios toxicológicos no han mostrado otros efectos que aquellos que pueden ser explicados
+basándose en el perfil hormonal de Reandron.
+ Testosterona ha mostrado ser no mutagénica in vitro, usando el modelo de mutación invertida
+(test de Ames) o células ováricas de hamster. En estudios con animales de laboratorio se ha
+encontrado una relación entre el tratamiento con andrógenos y determinados tipos de cáncer. Los
+datos experimentales en ratas han mostrado un aumento en las incidencias de cáncer de próstata
+después del tratamiento con testosterona.
+ Se sabe que las hormonas sexuales facilitan el desarrollo de determinados tumores, inducidos por
+agentes carcinogénicos conocidos. Se desconoce la relevancia clínica de esta última observación.
+ Los estudios de fertilidad realizados en roedores y primates han demostrado que el tratamiento
+con testosterona puede afectar la fertilidad suprimiendo la espermatogénesis de forma dosis-
+dependiente.
+ DATOS FARMACÉUTICOS
+ 6.1       Lista de excipientes
+Benzoato de bencilo, aceite de ricino refinado.
+ 6.2   Incompatibilidades
+ No se han realizado estudios de compatibilidad por lo cual este medicamento no debe mezclarse
+con con otros medicamentos.
+ 6.3   Período de validez
+ 5 años.
+ El medicamento debe ser usado inmediatamente después de abrirse por primera vez.
+ 6.4   Precauciones especiales de conservación
+ Este medicamento no requiere condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del recipiente
+ Ampollas de vidrio de color ámbar (tipo I) de 5 ml, que contienen un volumen de llenado de 4 ml.
+ Tamaño del envase: 1 x 4 ml.
+ 6.6   Instrucciones de uso y manipulación
+ La solución para inyección intramuscular debe ser inspeccionada de forma visual antes de su uso,
+debiendo ser usadas solo aquellas soluciones claras y libres de partículas.
+ El medicamento es para un único uso, debiendo desecharse el resto de solución no utilizada.
+ TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Química Farmacéutica Bayer, S.L.
+Av. Baix Llobregat, 3-5
+(Sant Joan Despi) - 08970 - España
+ NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+       66.471
+ FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+       Noviembre de 2004
+ FECHA DE LA REVISIÓN DEL TEXTO
+ Prospectos de medicamentos."

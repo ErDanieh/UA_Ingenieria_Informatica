@@ -1,0 +1,1096 @@
+HELICOBACTER TEST INFAI 75MG/FR 1 FR 10ML
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Helicobacter Test INFAI 75 mg polvo para solución oral
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Un frasco contiene 75 mg de 13C-urea.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo para solución oral.
+Solución clara e incolora.
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Helicobacter Test INFAI se utiliza para el diagnóstico in vivo de infecciones gastroduodenales causadas
+por Helicobacter pylori en:
+-     adultos,
+-     adolescentes que puedan sufrir úlcera gastroduodenal.
+ Este medicamento es solo para uso diagnóstico.
+ 4.2   Posología y forma de administración
+ Este medicamento solo debe ser administrado por un profesional médico y bajo supervisión médica
+adecuada.
+ Helicobacter Test INFAI es una prueba de aliento para administración individual. Los pacientes de 12
+años o más deben tomar el contenido de 1 frasco con 75 mg..
+ Para la realización del test se necesitan 200 ml de zumo de naranja al 100 % o 1 g de ácido cítrico diluido
+en 200 ml de agua (para administrar antes de la prueba), y un vaso de agua (para disolver el polvo de 13C-
+urea).
+El paciente debe estar en ayunas desde 6 horas antes del test, preferiblemente desde la noche anterior. El
+test dura aproximadamente 40 minutos.
+ En caso de que sea necesario repetir el procedimiento, no debe hacerse hasta el día siguiente.
+ La supresión del Helicobacter pylori puede dar lugar a resultados falsos negativos. Por consiguiente, el
+test se realizará después de, al menos, 4 semanas sin terapia antibacteriana sistémica y 2 semanas después
+de la última dosis de agentes antisecretores ácidos. Ambos pueden interferir con el status del Helicobacter
+pylori. Esto es especialmente importante después de una terapia de erradicación de Helicobacter.
+ Es importante seguir adecuadamente las instrucciones de uso descritas en el apartado 6.6, de otra forma,
+puede llegar a ser cuestionable la validez del resultado.
+ 4.3   Contraindicaciones
+ El test no debe utilizarse en pacientes con infección gástrica o gastritis atrófica, documentada o
+sospechada, que pudiera interferir con el test del aliento de urea (ver apartado 4.2).
+ 4.4   Advertencias y precauciones especiales de empleo
+ El resultado positivo del test solo, constituye indicación para una terapia de erradicación. Puede estar
+indicado el diagnóstico diferencial con métodos invasivos endoscópicos, para valorar la presencia de otras
+complicaciones, por ejemplo, úlcera, gastritis autoinmune o tumores malignos.
+ Hay datos insuficientes sobre la capacidad diagnóstica del Helicobacter Test INFAI para recomendar su
+uso en pacientes con gastrectomía.
+Para niños de 3 o más años está disponible Helicobacter Test INFAI para edades de entre 3 y 11 años.
+ En casos aislados de gastritis-A (gastritis atrófica) el test del aliento puede dar resultados falsos positivos,
+y pueden precisarse otros pruebas para confirmar el diagnóstico de Helicobacter pylori.
+ Si el paciente vomita durante la realización del test, necesitando la repetición del mismo, ésto no se puede
+realizar antes del día siguiente en ayunas (ver apartado 4.2).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Helicobacter Test INFAI se verá afectado por todos los tratamientos que interfieran con el status del
+Helicobacter pylori o con la actividad de la ureasa.
+ 4.6   Embarazo y lactancia
+ No es de esperar que el procedimiento pueda ser perjudicial durante el embarazo y la lactancia. Se
+recomienda informar de los productos utilizados en el tratamiento de erradicación, para su empleo durante
+el embarazo y la lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Helicobacter Test INFAI no afecta a la capacidad de conducción ni uso de máquinas.
+ 4.8   Reacciones adversas
+ Ninguna conocida.
+ 4.9   Sobredosis
+ Debido al hecho de que sólo se liberan 75 mg de 13C-urea, no se espera una sobredosis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo fármaco-terapéutico: Otros agentes de diagnóstico, código ATC: VO4CX
+ No se ha descrito ninguna actividad farmacodinámica para la cantidad de 75 mg de 13C-urea que se
+administra por unidad de dosis en el curso del test del aliento.
+ Después de la ingestión oral, la urea marcada alcanza la mucosa gástrica. En presencia de Helicobacter
+pylori, la 13C-urea es metabolizada por el enzima ureasa del Helicobacter pylori.
+                                                         3
+ El dióxido de carbono se difunde a los vasos sanguíneos. De allí es transportado como bicarbonato, hasta
+los pulmones, y liberado como 13CO2 con el aire espirado.
+ En presencia de ureasa bacteriana la relación de los isótopos 13C/12C del carbono cambia
+significativamente. La proporción de 13CO2 en las muestras de aire espirado se determina por
+espectrometría de masas de relación de isótopos (IRMS) y se establece como diferencia absoluta ( valor
+) entre los valores a los 00 y a los 30 minutos.
+ La ureasa es producida en el estómago sólamente por el Helicobacter pylori. Raramente se han encontrado
+otras bacterias productoras de ureasa en la flora gástrica.
+ El punto crítico para la catalogación de los pacientes, como Helicobacter pylori negativos o positivos, se
+determina en base al valor del 4 , lo cual significa que un incremento del valor  por encima del
+4  indica que existe infección. En comparación con los diagnósticos biópticos de una infección por
+Helicobacter pylori, la prueba de aliento alcanza en ensayos clínicos con 457 pacientes una sensibilidad
+en el intervalo del 96,5 % al 97,9 % [95 %-IC: 94,05 % - 99,72 %], y una especificidad que varía del
+96,7 % al 100,0 % [95 %-IC: 94,17 % - 103,63 %], mientras que en ensayos clínicos con 93 adolescentes
+de edades comprendidas entre 12 y 17 años la prueba de aliento alcanza una sensibilidad del 97,7 %
+[90 %-IC: 91,3 %] y una especificidad del 96,0 % [90 %-IC: 89,7 %]
+ En ausencia de ureasa bacteriana, toda la urea administrada, tras su absorción en el tracto gastrointestinal,
+se metabolizará como la urea endógena. El amoníaco que se produce como se ha descrito antes, por
+hidrólisis bacteriana, se incluye en el metabolismo como NH4+.
+ 5.2   Propiedades farmacocinéticas
+ La 13C-urea administrada oralmente se metaboliza a dióxido de carbono y amoníaco, o se integra en el
+propio ciclo corporal de la urea. Cualquier incremento de 13CO2 será medido por análisis isotópico.
+ La absorción y distribución de 13CO2 es más rápida que la reacción ureasa. Por lo tanto, el paso limitante
+de la velocidad en el proceso completo es la rotura de la urea por la ureasa del Helicobacter.
+ Solamente en los pacientes Helicobacter pylori positivos, la administración de 75 mg de urea marcada
+produce a un incremento significativo de 13CO2 en la muestra de aire espirado dentro de los primeros 30
+minutos.
+ 5.3   Datos preclínicos sobre seguridad
+ No se han descrito datos sobre seguridad en el uso clínico del producto.
+ 
+6.    DATOS FARMACÉUTICOS
+	"6.1   Lista de excipientes
+ No aplicable.
+ 6.2   Incompatibilidades
+ No aplicable.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 25°C.
+ 6.5       Naturaleza y contenido del envase
+ Un equipo de test contiene las siguientes partes:
+           Nº                                  Componente                                    Cantidad
+1    Frasco (de poliestireno con tapa estriada de polietileno, de 10 ml de
+volumen) que contiene 75 mg de 13C-urea en polvo para solución oral
+2    Recipientes de vidrio -o de plástico- etiquetados para recoger, conservar
+y transportar las muestras de aire para su análisis:
+Tiempo de muestreo: valor-minuto-00                                              2
+Tiempo de muestreo: valor-minuto-30                                              2
+3    Tubo flexible para la recogida de las muestras de aire en los
+correspondientes recipientes de muestra
+4    Instrucciones de uso para el paciente                                            1
+5    Prospecto                                                                        1
+6    Hoja con etiquetas adhesivas                                                     1
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ 1.    El test debe realizarse en presencia de una persona cualificada.
+2.    Cada paciente debe ser informado de acuerdo con las instrucciones de uso suministradas. Se
+recomienda realizar el test estando el paciente en posición de reposo.
+3.    La prueba se inicia con la recogida de muestras para la determinación del valor basal
+(valor-minuto-00).
+·      Tomar el tubo flexible y los dos recipientes para muestras con la etiqueta:
+""Tiempo de muestreo: valor-minuto-00"" del equipo del test.
+·      Quitar la tapa de uno de los recipientes de muestra, desenvolver el tubo flexible, sin doblar y
+colocarlo dentro del recipiente.
+·      Inmediatamente espirar suavemente a través del tubo hasta que la superficie interna del frasco
+de la muestra se cubra de vapor condensado.
+·      Continuar espirando mientras se retira el tubo e inmediatamente cerrar el recipiente con su
+tapa.
+(¡Si el recipiente permaneciese abierto más de 30 segundos el test podría dar un resultado
+falso!).
+·      Mantener el recipiente de la muestra en posición vertical y pegar la etiqueta, con código de
+barras, marcada ""valor-minuto-00"", alrededor del recipiente, de tal forma que el código de
+barras quede horizontal.
+4.    Llenar el segundo recipiente de muestra (Etiqueta: ""Tiempo de muestreo: valor-minuto-00"") con la
+espiración y seguir el mismo procedimiento.
+5.    En este momento deben tomarse sin demora 200 ml de zumo de naranja al 100 % o 1 g de ácido
+cítrico diluido en 200 ml de agua.
+6.    La preparación de la solución del test se hace de la siguiente manera:
+ Se coge el frasco del equipo del test etiquetado como ""13C-urea polvo"", se abre y se llena
+·
+hasta los tres cuartos de su volumen con agua corriente.
+·     Se cierra el frasco y se agita cuidadosamente hasta disolver todo el polvo. Se vierte el
+contenido en un vaso de agua.
+Se llena el frasco de 13C-urea con agua, hasta el borde, por segunda y tercera vez, añadiendo
+·
+estos contenidos al vaso de agua (el volumen total de agua debe ser aproximadamente 30 ml).
+7.    Esta solución del test, preparada de esta forma, debe ser bebida ahora inmediatamente por el
+paciente y debe anotarse la hora de la ingestión.
+8.    Treinta minutos después de la administración de la solución del test (punto 7) se recogen
+nuevamente muestras en los dos recipientes que quedan en el paquete del test, (Etiqueta: ""Tiempo
+de muestreo: valor-minuto-30"") tal como se ha descrito en los puntos 3 a 4. Emplear para estas
+muestras las etiquetas con código de barras marcadas ""valor-minuto-30"".
+9.    Colocar la etiqueta pertinente con código de barras sobre la hoja de instrucciones del paciente.
+Finalmente, precintar el paquete con el engomador.
+10.   Los recipientes con las muestras deben ser enviados en el paquete original, para su análisis a un
+laboratorio cualificado.
+ Análisis de las muestras del aliento y especificación del ensayo para laboratorios
+ Las muestras del aliento, recogidas en los recipientes de 10 ml de vidrio o plástico, se analizan por
+espectrometría de masas de relación de isótopos (IRMS).
+ El análisis de la relación 13C/12C del dióxido de carbono del aliento es una parte integrante del equipo de
+diagnóstico Helicobacter Test INFAI. La exactitud del test depende marcadamente de la calidad del
+análisis del aliento. La especificación de los parámetros de la espectrometría de masa, tales como
+linealidad, estabilidad (precisión del gas de referencia), y la precisión de la medición son fundamentales
+para la exactitud del sistema.
+ Hay que asegurarse de que el análisis sea realizado por laboratorios cualificados. El método validado en la
+documentación es el siguiente:
+ ·     Preparación de la muestra para IRMS
+ Para determinar la relación 13C/12C del dióxido de carbono en el aliento por análisis de espectrometría de
+masas, el dióxido de carbono debe ser separado a partir del aliento e introducido en el espectrómetro de
+masas. El sistema de preparación automática para las espectrometrías de masas isotópicas dedicado al
+análisis del test del aliento se basa en una técnica gas-cromatográfica de separación de flujo continuo.
+ El agua se elimina de la muestra por medio de una trampa Nafion de agua o por el sistema de preparación
+por cromatografía de gases, que separa los gases individuales en una columna cromatográfica con Helio
+como eluyente. Al pasar por la columna, los diferentes gases separados a partir del aliento son detectados
+por un detector de ionización. La fracción del gas dióxido de carbono, identificada por su tiempo de
+retención característico, se introduce en el espectrómetro de masas.
+ ·     Análisis espectrométrico de masas
+ Para analizar la muestra separada del gas dióxido de carbono, sus moléculas deben ser ionizadas,
+ordenadas en un haz, aceleradas por un campo eléctrico, desviadas en un campo magnético, y finalmente
+detectadas. Estos cinco procesos tienen lugar en el analizador de un espectrómetro de masas que consta de
+tres secciones separadas: la fuente, el tubo de trayectoria y el colector. La ionización, la ordenación en haz
+y la aceleración se producen en la fuente, la desviación magnética tiene lugar en el tubo de trayectoria y la
+detección se realiza en el colector.
+ ·     Entrada de la muestra
+ Para introducir el dióxido de carbono en el analizador se dispone de muchos sistemas de entrada de
+muestras. Para el análisis del test del aliento es esencial el equilibrio individual del dióxido de carbono de
+la muestra respecto a un gas estándar de referencia. Esto asegura la elevada exactitud del sistema, ya que
+el cálculo del contenido isotópico en el dióxido de carbono se hace con relación a un estándar
+independiente.
+       Especificaciones para la determinación de la relación 13C/12C
+·
+ El concepto del test del aliento se basa en la administración de una urea específicamente 13C-marcada,
+cuya utilización metabólica es controlada por la medición del 13CO2 en el gas del aliento espirado.
+ ·     El espectrómetro de masas debe ser capaz de:
+ Análisis replicado múltiple:               Mínimo de 3 análisis replicados sobre la misma muestra durante
+ Seguridad de acceso:                       Conservación de los parámetros operativos y de los resultados
+                                            Relación 13C/12C con respecto al Pee Dee Beliminate (PDB)
+Ajuste:
+ Bucle muestra:                             < 200 µl
+ Los ensayos principales para verificar las especificaciones son linealidad, estabilidad (precisión del gas de
+referencia), y precisión de la medición.
+ Todos los espectrómetros de masas para el análisis del test del aliento deben cumplir con las
+especificaciones siguientes:
+ Linealidad:                                < 0.5  para las muestras del aliento, variando entre el 1 % y el
+ Estabilidad:                               < 0.2  sobre 10 pulsos consecutivos
+                                            < 0.3  del 13C en su contenido natural empleando un recipiente
+Precisión de la medición:
+ Existe infección por Helicobacter pylori si la diferencia del valor de la relación 13C/12C, basal y a los
+30 minutos, excede del 4 .
+ Alternativamente, puede emplearse cualquier otro método adecuado de un laboratorio cualificado que se
+haya validado.
+ "
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	INFAI, Institut für biomedizinische Analytik & NMR-Imaging GmbH
+Universitätsstraße 142
+D-44799 Bochum
+Alemania
+ 
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/97/045/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÒN DE LA AUTORIZACIÒN
+ Fecha de la primera autorización:   14/08/1997
+Renovaciòn de la autorización:      14/08/2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Helicobacter Test INFAI 75 mg polvo para solución oral
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Polvo para solución oral.
+Solución clara e incolora.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Helicobacter Test INFAI se utiliza para el diagnóstico in vivo de infecciones gastroduodenales causadas
+por Helicobacter pylori en:
+- adultos,
+- adolescentes que puedan sufrir úlcera gastroduodenal.
+ Este producto medicinal es solo para uso diagnóstico.
+ 4.2   Posología y forma de administración
+ Este medicamento solo debe ser administrado por un profestional médico y bajo supervisión médica
+adecuada.
+ Helicobacter Test INFAI es una prueba de aliento para administración individual. Los pacientes de 12 o
+más deben tomar el contenido de 1 frasco con 75 mg.
+ Para la realización del test se necesitan 200 ml de zumo de naranja al 100 % o 1 g de ácido cítrico diluido
+en 200 ml de agua (para administrar antes de la prueba), y un vaso de agua (para disolver el polvo de 13C-
+urea).
+El paciente debe estar en ayunas desde 6 horas antes del test, preferiblemente desde la noche anterior. El
+test dura aproximadamente 40 minutos.
+ En caso de que sea necesario repetir el procedimiento, no debe hacerse hasta el día siguiente.
+ La supresión del Helicobacter pylori puede dar lugar a resultados falsos negativos. Por consiguiente, el
+test se realizará después de, al menos, 4 semanas sin terapia antibacteriana sistémica y 2 semanas después
+de la última dosis de agentes antisecretores ácidos. Ambos pueden interferir con el status del Helicobacter
+pylori. Esto es especialmente importante después de una terapia de erradicación de Helicobacter.
+ Es importante seguir adecuadamente las instrucciones de uso descritas en el apartado 6.6, de otra forma,
+puede llegar a ser cuestionable la validez del resultado.
+ 4.3   Contraindicaciones
+ El test no debe utilizarse en pacientes con infección gástrica o gastritis atrófica, documentada o
+sospechada, que pudiera interferir con el test del aliento de urea (ver apartado 4.2).
+ 4.4   Advertencias y precauciones especiales de empleo
+ El resultado positivo del test solo, constituye indicación para una terapia de erradicación. Puede estar
+indicado el diagnóstico diferencial con métodos invasivos endoscópicos, para valorar la presencia de otras
+complicaciones, por ejemplo, úlcera, gastritis autoinmune o tumores malignos.
+ Hay datos insuficientes sobre la capacidad diagnóstica del Helicobacter Test INFAI para recomendar su
+uso en pacientes con gastrectomía.
+Para niños de 3 o más años está disponible Helicobacter Test INFAU para edades de entre 3 y 11 años.
+ En casos aislados de gastritis-A (gastritis atrófica) el test del aliento puede dar resultados falsos positivos,
+y pueden precisarse otros pruebas para confirmar el diagnóstico de Helicobacter pylori.
+ Si el paciente vomita durante la realización del test, necesitando la repetición del mismo, ésto no se puede
+realizar antes del día siguiente en ayunas (ver apartado 4.2).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Helicobacter Test INFAI se verá afectado por todos los tratamientos que interfieran con el status del
+Helicobacter pylori o con la actividad de la ureasa.
+ 4.6   Embarazo y lactancia
+ No es de esperar que el procedimiento pueda ser perjudicial durante el embarazo y la lactancia. Se
+recomienda informar de los productos utilizados en el tratamiento de erradicación, para su empleo durante
+el embarazo y la lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Helicobacter Test INFAI no afecta a la capacidad de conducción ni uso de máquinas.
+ 4.8   Reacciones adversas
+ Ninguna conocida.
+ 4.9   Sobredosis
+ Debido al hecho de que sólo se liberan 75 mg de 13C-urea, no se espera una sobredosis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo fármaco-terapéutico: Otros agentes de diagnóstico, código ATC: VO4CX
+ No se ha descrito ninguna actividad farmacodinámica para la cantidad de 75 mg de 13C-urea que se
+administra por unidad de dosis en el curso del test del aliento.
+                                                        10
+Después de la ingestión oral, la urea marcada alcanza la mucosa gástrica. En presencia de Helicobacter
+pylori, la 13C-urea es metabolizada por el enzima ureasa del Helicobacter pylori.
+                 2H2N(13CO)NH2 + 2H2O             enzima ureasa
+ El dióxido de carbono se difunde a los vasos sanguíneos. De allí es transportado como bicarbonato, hasta
+los pulmones, y liberado como 13CO2 con el aire espirado.
+ En presencia de ureasa bacteriana la relación de los isótopos 13C/12C del carbono cambia
+significativamente. La proporción de 13CO2 en las muestras de aire espirado se determina por
+espectrometría de infrarojo no dispersivo (NDIR) y se establece como diferencia absoluta (valor ) entre
+los valores a los 00 y a los 30 minutos.
+ La ureasa es producida en el estómago sólamente por el Helicobacter pylori. Raramente se han encontrado
+otras bacterias productoras de ureasa en la flora gástrica.
+ El punto crítico para la catalogación de los pacientes, como Helicobacter pylori negativos o positivos, se
+determina en base al valor  del 4 , lo cual significa que un incremento del valor  por encima del
+4  indica que existe infección. En comparación con los diagnósticos biópticos de una infección por
+Helicobacter pylori la prueba de aliento, alcanza en ensayos clínicos con 457 pacientes una sensibilidad
+en el intervalo del 96,5 % al 97,9 % [95 %-IC: 94,05 % - 99,72 %], y una especificidad que varía del
+96,7 % al 100,0 %[95 %-IC: 94,17 % - 103,63 %].
+ En ausencia de ureasa bacteriana, toda la urea administrada, tras su absorción en el tracto gastrointestinal,
+se metabolizará como la urea endógena. El amoníaco que se produce como se ha descrito antes, por
+hidrólisis bacteriana, se incluye en el metabolismo como NH4+.
+ 5.2   Propiedades farmacocinéticas
+ La 13C-urea administrada oralmente se metaboliza a dióxido de carbono y amoníaco, o se integra en el
+propio ciclo corporal de la urea. Cualquier incremento de 13CO2 será medido por análisis isotópico.
+ La absorción y distribución de 13CO2 es más rápida que la reacción ureasa. Por lo tanto, el paso limitante
+de la velocidad en el proceso completo es la rotura de la urea por la ureasa del Helicobacter.
+ Solamente en los pacientes Helicobacter pylori positivos, la administración de 75 mg de urea marcada
+produce a un incremento significativo de 13CO2 en la muestra de aire espirado dentro de los primeros 30
+minutos.
+ 5.3   Datos preclínicos sobre seguridad
+ No se han descrito datos sobre seguridad en el uso clínico del producto.
+ 
+6.    DATOS FARMACÉUTICOS
+	"6.1   Lista de excipientes
+ No aplicable.
+ 6.2   Incompatibilidades
+ No aplicable.
+ 6.3   Periodo de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 25°C.
+ 6.5   Naturaleza y contenido del envase
+ Una prueba contiene 1 frasco con los compuestos adicionales:
+           Nº    Componente                                                              Cantidad
+1     Frasco (de poliestireno con tapa estriada de polietileno, de 10 ml de
+volumen) que contiene 75 mg de 13C-urea en polvo para solución oral
+2     Sacos para las muestras del aliento:
+Tiempo de muestreo: valor-minuto-00                                        1
+Tiempo de muestreo: valor-minuto-30                                        1
+3     Tubo flexible para la recogida de las muestras de aire en los
+correspondientes sacos de muestra
+4     Instrucciones de uso para el paciente                                      1
+5     Prospecto                                                                  1
+6     Etiquetas pertinente con código de barras y adhesivas                      1
+ Una prueba contiene 50 frascos con los compuestos adicionales:
+           Nº    Componente                                                              Cantidad
+1     Frasco (de poliestireno con tapa estriada de polietileno, de 10 ml de
+volumen) que contiene 75 mg de 13C-urea en polvo para solución oral
+2     Sacos para las muestras del aliento:
+Tiempo de muestreo: valor-minuto-00                                        50
+Tiempo de muestreo: valor-minuto-30                                        50
+3     Tubo flexible para la recogida de las muestras de aire en los
+correspondientes sacos de muestra
+4     Instrucciones de uso para el paciente                                      50
+5     Prospecto                                                                  50
+6     Etiquetas pertinente con código de barras y adhesivas                      50
+ 6.6       Precauciones especiales de eliminación y otras manipulaciones
+ 1.        El test debe realizarse en presencia de una persona cualificada.
+2.        Cada paciente debe ser informado de acuerdo con las instrucciones de uso suministradas. Se
+recomienda realizar el test estando el paciente en posición de reposo.
+3.        La prueba se inicia con la recogida de la muestra para la determinación del valor basal
+(valor-minuto-00).
+·      Tomar el tubo flexible y el saco para las muestras del aliento con la etiqueta: ""Tiempo de
+muestreo: valor-minuto-00"" del equipo del test.
+·      Quitar la tapa de uno del saco para las muestras del aliento, desenvolver el tubo flexible, sin
+doblar y colocarlo dentro del saco.
+·      Inmediatamente espirar suavemente a través del tubo.
+·      Continuar espirando mientras se retira el tubo e inmediatamente cerrar el saco con su tapa.
+(¡Si el saco para las muestras del aliento permaneciese abierto más de 30 segundos el test
+podría dar un resultado falso!).
+·       Mantener el saco de la muestra en posición vertical y pegar la etiqueta, con código de barras,
+marcada ""valor-minuto-00"", al saco.
+4.        En este momento deben tomarse sin demora 200 ml de zumo de naranja al 100 % o 1 g de ácido
+cítrico diluido en 200 ml de agua.
+5.        La preparación de la solución del test se hace de la siguiente manera:
+Se cogé el frasco del equipo del test etiquetado como ""13C-urea polvo"", se abre y se llena
+·
+hasta los tres cuartos de su volumen con agua corriente.
+·       Se cierra el frasco y se agita cuidadosamente hasta disolver todo el polvo. Se vierte el
+contenido en un vaso de agua.
+Se llena el frasco de 13C-urea con agua, hasta el borde, por segunda y tercera vez, añadiendo
+·
+estos contenidos al vaso de agua (el volumen total de agua debe ser aproximadamente 30 ml).
+6.        Esta solución del test, preparada de esta forma, debe ser bebida ahora inmediatamente por el
+paciente y debe anotarse la hora de la ingestión.
+7.        Treinta minutos después de la administración de la solución del test (punto 6) se recoge nuevamente
+la muestra en el saco para las muestras del aliento que queda en el paquete del test, (Etiqueta:
+""Tiempo de muestreo: valor-minuto-30"") tal como se ha descrito arriba. Emplear para estas
+muestras las etiquetas con código de barras marcadas ""valor-minuto-30"".
+8.        Colocar la etiqueta pertinente con código de barras sobre la hoja de instrucciones del paciente.
+Finalmente, precintar el paquete con el engomador.
+9.        Los sacos para las muestras del aliento deben ser enviados en el paquete original, para su análisis a
+un laboratorio cualificado.
+ Análisis de las muestras del aliento y especificación del ensayo para laboratorios
+ Las muestras del aliento, recogidas en los sacos para muestra de aliento se analizan mediante
+espectrometría de detector infrarojo no dispersivo (NDIR).
+ El análisis de la relación 13C/12C del dióxido de carbono del aliento es una parte integrante del equipo de
+diagnóstico Helicobacter Test INFAI. La exactitud del test depende marcadamente de la calidad del
+análisis del aliento. La especificación de los parámetros del análisis del aliento, tales como linealidad,
+estabilidad (precisión del gas de referencia), y la precisión de la medición son fundamentales para la
+exactitud del sistema.
+ Hay que asegurarse de que el análisis sea realizado por laboratorios cualificados. Se recomienda la lectura
+en el menor plazo posible tras la recogida del aliento, siempre antes de 4 semanas.
+       ·    El método validado en la documentación es el siguiente:Preparación de la muestra para
+espectrométrico de infrarojos
+La determinación de la relación 13C/12C del dióxido de carbono en las muestras de aliento se realiza
+directamente en el aliento. El aliento de los recipientes se introduce en la espectrometría NDIR mediante
+una bomba de gas variable. El contenido de agua de la muestra de aliento se mantendrá constante durante
+la mayor parte del tiempo a través de un sifón de agua Nafion. Para la calibración y la medición se
+generará el aire sin CO2 (gas cero) necesario mediante un frasco de absorción de CO2 integrado en el
+analizador.
+ ·     Análisis espectrométrico de infrarojos
+ Para analizar el dióxido de carbono del aliento se utiliza una fuente de radiación de infrarojos que emite
+alternativamente rayos infrarojos de banda ancha a través de la cámara de medición y de una cámara de
+referencia mediante un obturador de rayos. A continuación, los rayos infrarojos modulados penetran en los
+detectores de infrarojos, que son detectores de transmisión de doble capa con una cámara anterior y
+posterior. Cada una de estas cámaras contiene uno de los gases isotópicos puros (13CO2 ó 12CO2,
+respectivamente) que deberá medirse. El componente de gas que debe medirse debilita la radiación de
+infrarojos en la cámara de medición. Por consiguiente, se rompe el equilibrio de radiación entre el rayo de
+medición y el rayo comparativo. Como resultado, se produce una fluctuación de la temperatura que, a su
+vez, provoca una presión fluctuante en la cámara anterior del detector de infrarojos. Un capacitor de
+membrana conectado a esta cámara, expuesto a un voltaje directo de alta resistencia, transforma estas
+fluctuaciones de presión en un voltaje alterno, que es una medida de la composición isotópica del dióxido
+de carbono del aliento.
+ ·     Entrada de la muestra
+ Un sistema de entrada de muestras semi-automático inyecta cantidades definidas del gas de medición en el
+gas cero que circula por el circuito de gas del espectrómetro de infrarojos. Esto permite medir la relación
+13 12
+C/ C en todas las concentraciones de CO2 superiores al 1 %.
+       Especificaciones para determinar la relación 13C/12C
+·
+ El concepto de la prueba del aliento se basa en la administración oral de urea marcada con 13C, cuya
+hidrólisis enzimática se controla mediante la medición del 13CO2 del aliento utilizando la espectrometría
+de detector infrarojo no dispersivo.
+ Los espectrómetros de infrarojos para el análisis del aliento deben cumplir las siguientes especificaciones:
+ Análisis replicado múltiple:   Mínimo de tres análisis replicados sobre la misma muestra durante la
+ Seguridad de acceso:           Conservación de los parámetros operativos y de los resultados bajo
+ Para verificar las especificaciones deben probarse la linealidad, estabilidad y precisión de la medición.
+ Ajuste de los detectores a cero mediante el gas cero generado en el espectrómetro. Ajuste final de los
+detectores mediante los gases de calibración de concentración precisa.
+                                 0,5  para las muestras de aliento que oscilan entre el 1 % y el 7 % de
+Linealidad:
+                                 0,3 sobre 10 pulsos consecutivos
+Estabilidad:
+ Precisión de la medición:
+ Existe infección por Helicobacter pylori si la diferencia del valor lineal de la relación 13C/12C y el valor de
+30 minutos supera el 4,0 .
+ Alternativamente, puede emplearse cualquier otro método adecuado de un laboratorio cualificado que se
+haya validado.
+ "
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	INFAI, Institut für biomedizinische Analytik & NMR-Imaging GmbH
+Universitätsstraße 142
+D-44799 Bochum
+Alemania
+ 
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU 1/97/045/002
+EU 1/97/045/004
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÒN DE LA AUTORIZACIÒN
+ Fecha de la primera autorización:         14/08/1997
+Renovaciòn de la autorización:            14/08/2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE MEDICAMENTO
+	Helicobacter Test INFAI para los niños de edades comprendidas entre 3 y 11 años 45 mg polvo para
+solución oral
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Un frasco contiene 45 mg de 13C-urea.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	Polvo para solución oral.
+Solución clara e incolora.
+ 
+4.      DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Helicobacter Test INFAI para los niños de edades comprendidas entre 3 y 11 años puede utilizarse para el
+diagnóstico in vivo de la infección gastroduodenal por Helicobacter pylori.
+para determinar la eficacia del tratamiento de erradicación, o bien
+-
+cuando las pruebas invasoras son inviables, o bien
+-
+cuando las pruebas invasoras muestran resultados discrepantes.
+-
+ Este medicamento es solo para uso diagnóstico.
+ 4.2   Posología y forma de administración
+ Este medicamento solo debe ser administrado por un profesional médico y bajo supervisión médica
+adecuada.
+ Helicobacter Test INFAI para los niños de edades comprendidas entre 3 y 11 años es una prueba para
+administración individual. Los pacientes de edades comprendidas entre 3 y 11 años deben tomar una dosis
+de 45 mg.
+ Para la realización del test se necesitan 100 ml de zumo de naranja al 100 % (para administrar antes de la
+prueba), y un vaso de agua (para disolver el polvo de 13C-urea).
+El paciente debe estar en ayunas desde 6 horas antes del test, preferiblemente desde la noche anterior. El
+test dura aproximadamente 40 minutos.
+ En caso de que sea necesario repetir el procedimiento, ésto no debe hacerse hasta el día siguiente.
+ La supresión del Helicobacter pylori puede dar lugar a resultados falsos negativos. Por consiguiente, el
+test se realizará después de, al menos, 4 semanas sin terapia antibacteriana sistémica y 2 semanas después
+de la última dosis de agentes antisecretores ácidos. Ambos pueden interferir con el status del Helicobacter
+pylori. Esto es especialmente importante después de una terapia de erradicación de Helicobacter.
+                                                       16
+Es importante seguir adecuadamente las instrucciones de uso descritas en el apartado 6.6, de otra forma,
+puede llegar a ser cuestionable la validez del resultado.
+ 4.3   Contraindicaciones
+ El test no debe utilizarse en pacientes con infección gástrica o gastritis atrófica documentada o
+sospechada, que pudiera interferir con el test del aliento de urea (ver apartado 4.2).
+ 4.4     Advertencias y precauciones especiales de empleo
+ Un resultado positivo del test, solamente, no constituye la única base de la terapia de erradicación. Puede
+estar indicado el diagnóstico diferencial con métodos invasivos endoscópicos, para valorar la presencia de
+otras complicaciones, por ejemplo, úlcera, gastritis autoinmune o tumores malignos.
+ Hay datos insuficientes sobre la capacidad diagnóstica del Helicobacter Test INFAI para los niños de
+edades comprendidas entre 3 y 11 años para recomendar su uso en pacientes con gastrectomía.
+ En casos aislados de gastritis-A (gastritis atrófica) el test del aliento puede dar resultados falsos positivos,
+y pueden precisarse otras pruebas para confirmar el diagnóstico de Helicobacter pylori.
+ Si el paciente vomita durante la realización del test, necesitando la repetición del mismo, ésto no se puede
+realizar antes del día siguiente en ayunas (ver apartado 4.2).
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Helicobacter Test INFAI para los niños de edades comprendidas entre 3 y 11 años se verá afectado por
+todos los tratamientos que interfieran con el status del Helicobacter pylori o con la actividad de la ureasa.
+ 4.6   Embarazo y lactancia
+ No aplicable.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No aplicable.
+ 4.8   Reacciones adversas
+ Ninguna conocida.
+ 4.9   Sobredosis
+ Debido al hecho de que sólo se liberan 45 mg de 13C-urea, no se espera una sobredosis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo fármaco-terapéutico: Otros agentes de diagnóstico, código ATC: VO4CX
+ No se ha descrito ninguna actividad farmacodinámica para la cantidad de 45 mg de 13C-urea que se
+administra por unidad de dosis en el curso del test del aliento.
+                                                        17
+Después de la ingestión oral, la urea marcada alcanza la mucosa gástrica. En presencia de Helicobacter
+pylori, la 13C-urea es metabolizada por el enzima ureasa del Helicobacter pylori.
+                 2H2N(13CO)NH2 + 2H2O             enzima ureasa
+ El dióxido de carbono se difunde a los vasos sanguíneos. De allí es transportado como bicarbonato, hasta
+los pulmones, y liberado como 13CO2 con el aire espirado.
+ En presencia de ureasa bacteriana la relación de los isótopos 13C/12C del carbono cambia
+significativamente. La proporción de 13CO2 en las muestras de aire espirado se determina por
+espectrometría de masas de relación de isótopos (IRMS) y se establece como diferencia absoluta ( valor
+) entre los valores a los 00 y a los 30 minutos.
+ La ureasa es producida en el estómago sólamente por el Helicobacter pylori. Raramente se han encontrado
+otras bacterias productoras de ureasa en la flora gástrica.
+ El punto crítico para la catalogación de los pacientes, como Helicobacter pylori negativos o positivos, se
+determina en base al valor  del 4 , lo cual significa que un incremento del valor  por encima del
+4  indica que existe infección. En comparación con los diagnósticos biópticos de una infección por
+Helicobacter pylori, la prueba de aliento alcanza en un ensayo clínico con 168 pacientes de edades
+comprendidas entre 3 y 11 años una sensibilidad del 98,4 % [90 %-CI:  93,9 %], y una especificidad del
+98,1 % [90 %-CI:  95,1 %].
+ En ausencia de ureasa bacteriana, toda la urea administrada, tras su absorción en el tracto gastrointestinal,
+se metabolizará como la urea endógena. El amoníaco que se produce como se ha descrito antes, por
+hidrólisis bacteriana, se incluye en el metabolismo como NH4+.
+ 5.2   Propiedades farmacocinéticas
+ La 13C-urea administrada oralmente se metaboliza a dióxido de carbono y amoníaco, o se integra en el
+propio ciclo corporal de la urea. Cualquier incremento de 13CO2 será medido por análisis isotópico.
+ La absorción y distribución de 13CO2 es más rápida que la reacción ureasa. Por lo tanto, el paso limitante
+de la velocidad en el proceso completo es la rotura de la urea por la ureasa del Helicobacter.
+ Solamente en los pacientes Helicobacter pylori positivos, la administración de 45 mg de urea marcada
+produce un incremento significativo de 13CO2 en la muestra de aire espirado dentro de los primeros 30
+minutos.
+ 5.3   Datos preclínicos sobre seguridad
+ No hay preocupaciones relacionadas con el uso clínico del producto.
+ 
+6.    DATOS FARMACÉUTICOS
+	"6.1   Relación de excipientes
+ No aplicable.
+ 6.2   Incompatibilidades
+ No aplicable.
+ 6.3   Período de validez
+ 3 años.
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 25°C.
+ 6.5   Naturaleza y contenido del envase
+ Un equipo de test contiene las siguientes partes:
+           Nº                                  Componente                                    Cantidad
+Frasco (de poliestireno con tapa estriada de polietileno, de 10 ml de
+1                                                                                    1
+volumen) que contiene 45 mg de 13C-urea en polvo para solución oral
+Recipientes de vidrio -o de plástico- etiquetados para recoger, conservar
+y transportar las muestras de aire para su análisis:
+2
+Tiempo de muestreo: valor-minuto-00                                            2
+Tiempo de muestreo: valor-minuto-30                                            2
+Tubo flexible para la recogida de las muestras de aire en los
+3                                                                                    1
+correspondientes recipientes de muestra
+4     Instrucciones de uso para el paciente                                          1
+5     Prospecto                                                                      1
+6     Hoja con etiquetas adhesivas con código de barras y engomador                  1
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ 1.    El test debe realizarse en presencia de una persona cualificada.
+2.    Cada paciente debe ser documentado de acuerdo con las instrucciones de empleo suministradas. Se
+recomienda realizar el test estando el paciente en posición de reposo.
+3.    La prueba se inicia con la recogida de muestras para la determinación del valor basal (valor-minuto-
+00).
+Tomar el tubo flexible y los dos recipientes para muestras con la etiqueta:
+""Tiempo de muestreo: valor-minuto-00"" del equipo del test.
+Quitar la tapa de uno de los recipientes de muestra, desenvolver el tubo flexible, sin doblar y
+colocarlo dentro del recipiente.
+Inmediatamente espirar suavemente a través del tubo hasta que la superficie interna del frasco
+de la muestra se cubra de vapor condensado.
+Continuar espirando mientras se retira el tubo e inmediatamente cerrar el recipiente con su
+tapa.
+(¡Si el recipiente permaneciese abierto más de 30 segundos el test podría dar un resultado
+falso!).
+Mantener el recipiente de la muestra en posición vertical y pegar la etiqueta, con código de
+barras, marcada ""valor-minuto-00"", alrededor del recipiente, de tal forma que el código de
+barras quede horizontal.
+4.    Llenar el segundo recipiente de muestra (Etiqueta: ""Tiempo de muestreo: valor-minuto-00"") con la
+espiración y seguir el mismo procedimiento.
+5.    En este momento deben tomarse sin demora 100 ml de zumo de naranja al 100 %.
+6.    La preparación de la solución del test se hace de la siguiente manera:
+Se cogé el frasco del equipo del test etiquetado como ""13C-urea polvo"", se abre y se llena hasta
+los tres cuartos de su volumen con agua corriente.
+Se cierra el frasco y se agita cuidadosamente hasta disolver todo el polvo. Se vierte el
+contenido en un vaso de agua.
+Se llena el frasco de 13C-urea con agua, hasta el borde, por segunda y tercera vez, añadiendo
+estos contenidos al vaso de agua (el volumen total de agua debe ser aproximadamente 30 ml).
+7.    Esta solución del test, preparada de esta forma, debe ser bebida ahora inmediatamente por el
+paciente y debe anotarse la hora de la ingestión.
+8.    Treinta minutos después de la administración de la solución del test (punto 7) se recogen
+nuevamente muestras en los dos recipientes que quedan en el paquete del test, (Etiqueta: ""Tiempo
+de muestreo: valor-minuto-30"") tal como se ha descrito en los puntos 3 a 4. Emplear para estas
+muestras las etiquetas con código de barras marcadas ""valor-minuto-30"".
+9.    Colocar la etiqueta pertinente con código de barras sobre la hoja de instrucciones del paciente.
+Finalmente, precintar el paquete con el engomador.
+10.   Los recipientes con las muestras deben ser enviados en el paquete original, para su análisis a un
+laboratorio cualificado.
+ Análisis de las muestras del aliento y especificación del ensayo para laboratorios
+ Las muestras del aliento, recogidas en los recipientes de 10 ml de vidrio o plástico, se analizan por
+espectrometría de masas de relación de isótopos (IRMS).
+ El análisis de la relación 13C/12C del dióxido de carbono del aliento es una parte integrante del equipo de
+diagnóstico Helicobacter Test INFAI para los niños de edades comprendidas entre 3 y 11 años. La
+exactitud del test depende marcadamente de la calidad del análisis del aliento. La especificación de los
+parámetros de la espectrometría de masas, tales como linealidad, estabilidad (precisión del gas de
+referencia), y la precisión de la medición son fundamentales para la exactitud del sistema.
+ Hay que asegurarse de que el análisis sea realizado por laboratorios cualificados. El método validado en la
+documentación es el siguiente:
+ ·     Preparación de la muestra para IRMS
+ Para determinar la relación 13C/12C del dióxido de carbono en el aliento por análisis de espectrometría de
+masas, el dióxido de carbono debe ser separado a partir del aliento e introducido en el espectrómetro de
+masas. El sistema de preparación automática para las espectrometrías de masas isotópicas dedicado al
+análisis del test del aliento se basa en una técnica gas-cromatográfica de separación de flujo continuo.
+ El agua se elimina de la muestra por medio de una trampa Nafion de agua o por el sistema de preparación
+por cromatografía de gases, que separa los gases individuales en una columna cromatográfica con Helio
+como eluyente. Al pasar por la columna, los diferentes gases separados a partir del aliento son detectados
+por un detector de ionización. La fracción del gas dióxido de carbono, identificada por su tiempo de
+retención característico, se introduce en el espectrómetro de masas.
+ ·     Análisis espectrométrico de masas
+ Para analizar la muestra separada del gas dióxido de carbono, sus moléculas deben ser ionizadas,
+ordenadas en un haz, aceleradas por un campo eléctrico, desviadas en un campo magnético, y finalmente
+detectadas. Estos cinco procesos tienen lugar en el analizador de un espectrómetro de masas que consta de
+                                                      20
+tres secciones separadas: la fuente, el tubo de trayectoria y el colector. La ionización, la ordenación en haz
+y la aceleración se producen en la fuente, la desviación magnética tiene lugar en el tubo de trayectoria y la
+detección se realiza en el colector.
+ ·     Entrada de la muestra
+ Para introducir el dióxido de carbono en el analizador se dispone de muchos sistemas de entrada de
+muestras. Para el análisis del test del aliento es esencial el equilibrio individual del dióxido de carbono de
+la muestra respecto a un gas estándar de referencia. Esto asegura la elevada exactitud del sistema, ya que
+el cálculo del contenido isotópico en el dióxido de carbono se hace con relación a un estándar
+independiente.
+       Especificaciones para la determinación de la relación 13C/12C
+·
+ El concepto del test del aliento se basa en la administración de una urea específicamente 13C-marcada,
+cuya utilización metabólica es controlada por la medición del 13CO2 en el gas del aliento espirado.
+ ·     El espectrómetro de masas debe ser capaz de:
+ Análisis replicado múltiple :              Mínimo de 3 análisis replicados sobre la misma muestra durante
+ Seguridad de acceso :                      Conservación de los parámetros operativos y de los resultados
+                                            Relación 13C/12C con respecto al Pee Dee Beliminate (PDB)
+Ajuste :
+ Bucle muestra :                            < 200 µl
+ Los ensayos principales para verificar las especificaciones son linealidad, estabilidad (precisión del gas de
+referencia), y precisión de la medición.
+ ·     Todos los espectrómetros de masas para el análisis del test del aliento deben cumplir con las
+especificaciones siguientes:
+ Linealidad :                               < 0.5  para las muestras del aliento, variando entre el 1 % y el
+ Estabilidad :                              < 0.2  sobre 10 pulsos consecutivos
+                                            < 0.3  del 13C en su contenido natural empleando un recipiente
+Precisión de la medición :
+ Existe infección por Helicobacter pylori si la diferencia del valor de la relación 13C/12C, basal y a los
+30 minutos, excede del 4 .
+ Alternativamente, puede emplearse cualquier otro método adecuado de un laboratorio cualificado que se
+haya validado.
+ "
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	INFAI Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstraße 142
+D-44799 Bochum
+Alemania
+ 
+8.    NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU 1/97/045/003
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+ Fecha de la primera autorización:   14/08/1997
+Renovaciòn de la autorización:      14/08/2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ A.   TITULAR(ES) DE LA AUTORIZACIÓN DE FABRICACIÓN
+RESPONSABLE DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE(S) DE LA
+LIBERACIÓN DE LOS LOTES
+ Nombre y dirección del fabricante responsable de la liberación de los lotes
+ INFAI Institut für biomedizinische Analytik & NMR-Imaging GmbH
+Universitätsstraße 142
+D ­ 44799 Bochum
+Germany
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica
+ ·     CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+ No procede.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 25
+A. ETIQUETADO
+ 26
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ EMBALAJE EXTERIOR. 1 FRASCO Y 50 FRASCOS.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Helicobacter Test INFAI 75 mg polvo para solución oral
+13
+C-urea
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ 1 frasco contiene 75 mg de 13C-urea.
+ 
+3.    LISTA DE EXCIPIENTES
+	Ninguno
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Polvo para solución oral.
+ 1 Equipo de Test Diagnóstico contiene:
+1 frasco que contiene 75 mg de 13C-Urea en polvo para solución oral
+4 recipientes para las muestras del aliento
+1 tubo flexible
+Instrucciones de uso
+Prospecto para el paciente
+Hoja con etiquetas y adhesivo
+ 1 Equipo de Test Diagnóstico contiene:
+1 frasco que contiene 75 mg de 13C-Urea en polvo para solución oral
+2 recipientes para las muestras del aliento
+1 tubo flexible
+Instrucciones de uso
+Prospecto para el paciente
+Hoja con etiquetas y adhesivo
+50 Equipo de Test Diagnóstico contienen:
+50 frascos que contienen 75 mg de 13C-Urea en polvo para solución oral
+100 recipientes para las muestras del aliento
+50 tubos flexibles
+50 Instrucciones de uso
+50 Prospectos para el paciente
+50 Hoja con etiquetas y adhesivo
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Via oral
+Para espectrometría de masa
+Para espectroscopía a infrarroja
+ Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD: {MM/AAAA}
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 25°C.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.   NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Nombre del titular de la autorización de comercialización:
+INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstr. 142
+D­44799 Bochum
+Alemania
+ 12.   NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Número de autorización de comercialización :
+EU/1/97/045/001
+EU/1/97/045/002
+EU 1/97/045/004
+ 13.   NÚMERO DE LOTE
+ Lote: {número}
+ 14.   CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.   INSTRUCCIONES DE USO
+ 16.   INFORMACIÓN EN BRAILLE
+ Helicobacter Test INFAI 75 mg
+ INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE INTERMEDIO
+ Embalaje intermedio. 50 envases.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Helicobacter Test INFAI 75 mg polvo para solución oral
+13
+C-urea
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ 1 frasco contiene 75 mg 13C-urea.
+ 
+3.    LISTA DE EXCIPIENTES
+	Ninguno
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Polvo para solución oral
+ CLINIPAC 50
+ 50 frascos con 75 mg de polvo de urea 13C para solución oral
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Via oral
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD: {MM/AAAA}
+                                                      30
+
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 25°C.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.   NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstr. 142
+D­44799 Bochum
+Alemania
+ 12.   NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Número de autorización de comercialización :
+EU/1/97/045/004
+ 13.   NÚMERO DE LOTE
+ Lote: {número}
+ 14.   CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.   INSTRUCCIONES DE USO
+ 16.   INFORMACIÓN EN BRAILLE
+ Helicobacter Test INFAI 75 mg
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ ETIQUETA DEL FRASCO
+ 1.    NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Helicobacter Test INFAI 75 mg polvo para solución oral
+13
+C-urea
+Via oral
+ 
+2.    FORMA DE ADMINISTRACIÓN
+	
+3.    FECHA DE CADUCIDAD
+	CAD: {MM/AAAA}
+ 
+4.    NÚMERO DE LOTE
+	Lote: {número}
+ 5.    CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ 1 Frasco contiene 75 mg 13C-urea
+ 
+6.    OTROS
+	Prueba individual
+Polvo para solución oral
+Leer el prospecto antes de utilizar este medicamento.
+Mantener fuera del alcance y de la vista de los niños.
+No conservar a temperatura superior a 25°C.
+Medicamento sujeto a prescripción médica.
+Número de autorización de comercialización :
+EU/1/97/045/001
+EU/1/97/045/002
+ INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstr. 142
+D­44799 Bochum
+Alemania
+ INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+ EMBALAJE EXTERIOR
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Helicobacter Test INFAI para los niños de edades comprendidas entre 3 y 11 años 45 mg polvo para
+solución oral
+13
+C-urea
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ 1 frasco contiene 45 mg 13C-urea.
+ 
+3.    LISTA DE EXCIPIENTES
+	No aplicable
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	1 Equipo de Test Diagnóstico contiene:
+1 frasco que contiene 45 mg de 13C-Urea en polvo para solución oral
+4 recipientes para muestras de aire
+1 tubo flexible
+Instrucciones de empleo
+Prospecto de paciente
+Hoja con etiquetas y engomador
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Via oral
+Leer el prospecto antes de utilizar este medicamento.
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños.
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD: {MM/AAAA}
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	No conservar a temperatura superior a 25°C.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL MEDICAMENTO NO
+UTILIZADO Y DE LOS MATERIALES DERIVADOS DE SU USO (CUANDO
+CORRESPONDA)
+ 11.   NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Nombre del titular de la autorización de comercialización:
+INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstr. 142
+D­44799 Bochum
+Alemania
+ 12.   NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Número de autorización de comercialización :
+EU/1/97/045/003
+ 13.   NÚMERO DE LOTE
+ Lote: {número}
+ 14.   CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica.
+ 15.   INSTRUCCIONES DE USO
+ 16.   INFORMACIÓN EN BRAILLE
+ Helicobacter Test INFAI 45 mg
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ ETIQUETA DEL FRASCO
+ 1.    NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Helicobacter Test INFAI para los niños de edades comprendidas entre 3 y 11 años 45 mg polvo para
+solución oral
+13
+C-urea
+Via oral
+ 
+2.    FORMA DE ADMINISTRACIÓN
+	
+3.    FECHA DE CADUCIDAD
+	CAD: {MM/AAAA}
+ 
+4.    NÚMERO DE LOTE
+	Lote: {número}
+ 5.    CONTENIDO EN PESO, EN VOLUMEN O EN UNIDADES
+ Frasco contiene 45 mg de 13C-urea
+ 
+6.    OTROS
+	Prueba individual
+Polvo para solución oral
+Leer el prospecto antes de utilizar este medicamento.
+Mantener fuera del alcance y de la vista de los niños.
+No conservar a temperatura superior a 25°C.
+Medicamento sujeto a prescripción médica.
+Número de autorización de comercialización :
+EU/1/97/045/003
+ INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstr. 142
+D­44799 Bochum
+Alemania
+ INFORMACIÓN MÍNIMA QUE DEBE APARECER EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS.
+ RECIPIENTES PARA MUESTRAS DE ALIENTO: VIDRIO O PLÁSTICO
+ 1.    NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Helicobacter Test INFAI
+ 
+2.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+	INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstr. 142
+D­44799 Bochum
+Alemania
+ 
+3.    FECHA DE CADUCIDAD
+	
+4.    NÚMERO DE LOTE
+	
+5.    OTROS
+	Recipientes para muestras de aliento
+ Valor minuto 00
+Valor minuto 30
+ Se ruega pegar alrededor etiqueta del código de barras
+ INFORMACIÓN MÍNIMA QUE DEBE APARECER EN LA HOJA DE ETIQUETAS Y
+AUTOADHESIVOS
+ 1.    NOMBRE DEL MEDICAMENTO Y VÍA(S) DE ADMINISTRACIÓN
+ Helicobacter Test INFAI
+ 
+2.    NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+	INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH
+Universitätsstr. 142
+D­44799 Bochum
+Alemania
+ 
+3.    FECHA DE CADUCIDAD
+	
+4.    NÚMERO DE LOTE
+	
+5.    OTROS
+	Hoja de etiquetas y autoadhesivos
+ Código de barras para hoja de datos para documentación de paciente
+ Autoadhesivo de sello
+ Códigos de barra para valor minuto 00
+Códigos de barra para valor minuto 30
+ B. PROSPECTO
+ 39
+ Lea todo el prospecto detenidamente antes de empezar a tomar el medicamento.
+-     Conserve este prospecto, ya que puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico o farmacéutico.
+-     Este medicamento se le ha recetado a usted y no debe dárselo a otras personas, aunque tengan los
+mismos síntomas, ya que puede perjudicarles.
+-     Si considera que alguno de los efectos adversos que sufre es grave o si aprecia cualquier efecto
+adverso no mencionado en este prospecto, informe a su médico o farmacéutico.
+ Contenido del prospecto:
+1.   Qué es Helicobacter Test INFAI y para qué se utiliza
+2.   Antes de tomar Helicobacter Test INFAI
+3.   Cómo tomar Helicobacter Test INFAI
+4.   Posibles efectos adversos
+5    Conservación de Helicobacter Test INFAI
+6.   Información adicional
+ 
+1.    QUÉ ES HELICOBACTER TEST INFAI Y PARA QUÉ SE UTILIZA
+	"Helicobacter Test INFAI es únicamente para uso diagnóstico.
+ Helicobacter Test INFAI es un test del aliento que puede utilizarse por adolescentes a partir de los 12
+años o adultos para determinar si existe una infección en el estómago causada por la bacteria Helicobacter
+pylori.
+ Por qué debe tomar Helicobacter Test INFAI?
+Puede tener una infección gástrica causada por la bacteria Helicobacter pylori. El médico le ha
+recomendado que utilice Helicobacter Test INFAI. Su médico ha recomendado que se someta a una
+prueba de Helicobacter INFAI por una de las siguientes razones:
+         El médico desea confirmar si tiene una infección de Helicobacter pylori para poder diagnosticar
+su estado.
+         Ya le han diagnosticado una infección de Helicobacter pylori y se medica para curarla. Ahora su
+médico desea saber si el tratamiento ha dado resultado.
+ En qué consiste este test?
+Todos los alimentos contienen una sustancia llamada 13Carbono (1 % 13C). Este 13Carbono puede
+detectarse en el dióxido de carbono que se respira de los pulmones. La cantidad real de 13Carbono
+contenido en el aliento depende del tipo de comida que se ha ingerido. El test consiste en ingerir la
+""comida del test"". A continuación, se toman muestras de su aliento (véase ""Instrucciones especiales de
+uso"").
+ Estas muestras se analizarán para medir la cantidad ""normal"" de contenido de 13Carbono en el dióxido de
+carbono de su aliento.
+ A continuación, deberá beber una solución de 13Carbon-urea.
+ Transcurridos 30 minutos, se tomarán más muestras del aliento, cuyo contenido de 13Carbono se volverá a
+medir como se ha descrito anteriormente. Los resultados obtenidos se comparan, y si se detecta un
+incremento significativo del contenido de 13Carbono en el segundo grupo de muestras, ello sugiere la
+presencia de la bacteria Helicobacter pylori.
+"
+2.    ANTES DE TOMAR HELICOBACTER TEST INFAI
+	Informe a su médico de cualquier condición médica que crea que pueda afectar al test o verse afectada
+como resultado del mismo. También es importante que haga saber a su médico si alguna de estas
+circunstancias es su caso:
+ No tome Helicobacter Test INFAI
+-    Si usted tiene o hay sospechas de que usted tenga una infección gástrica o una gastritis atrófica
+(forma especial de gastritis) porque esto puede interferir con la prueba de aliento de urea.
+ Tenga especial cuidado con Helicobacter Test INFAI
+Incluso si el resultado de la prueba de Helicobacter INFAI es positivo , otras pruebas pueden ser
+necesarias antes de poder iniciar el tratamiento de infección por Helicobacter pylori (terapia de
+erradicación). Pueden requerirse diferentes pruebas diagnósticas, incluyendo métodos invasivos
+endoscópicos, para comprobar la presencia de cualesquiera otras complicaciones, tales como úlcera
+gástrica, infección de la mucosa gástrica producida por una reacción autoimune, y tumores.
+ No hay datos suficientes sobre la capacidad diagnóstica del Helicobacter Test INFAI para recomendar su
+uso en pacientes con gastrectomía.
+       En casos aislados de gastritis-A (gastritis atrófica) el test del aliento puede dar lugar a resultados
+-
+falsos positivos y pueden ser necesarias otras pruebas para confirmar la presencia de Helicobacter
+pylori.
+Si el paciente vomita durante el procedimiento del test, y es necesaria la repetición del test, ésta sólo
+-
+debe hacerse en ayu
+ 
+	Prospectos de medicamentos.

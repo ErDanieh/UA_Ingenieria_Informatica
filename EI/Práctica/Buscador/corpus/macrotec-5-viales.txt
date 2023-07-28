@@ -1,0 +1,306 @@
+MACROTEC, 5 viales
+	Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.      DENOMINACIÓN DEL MEDICAMENTO
+	        MACROTEC
+         Equipo reactivo para la preparación de suspensión inyectable de macroagregados de
+albúmina humana y de tecnecio (99mTc)
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	        Macroagregados de albúmina humana (MAA) 2,0 mg/vial
+                                        4,5 x 106 ± 15 % / vial
+número de partículas
+tamaño de los agregados        10 ­ 100 m.
+         Lista de excipientes en 6.1.
+ 
+3.      FORMA FARMACÉUTICA
+	        Polvo para suspensión inyectable.
+Equipo reactivo para la preparación de radiofármacos.
+ 
+
+
+4.      DATOS CLÍNICOS
+	4.1     Indicaciones terapéuticas
+         Este medicamento es únicamente para uso diagnóstico.
+         Tras reconstitución y marcaje con disolución inyectable de pertecnetato (99mTc) de sodio,
+este agente se utiliza para lo siguiente:
+         -       Gammagrafía de perfusión pulmonar.
+                 Como indicación secundaria, los macroagregados de albúmina-99mTc pueden ser
+-
+utilizados en venogammagrafía.
+ 4.2     Posología y forma de administración
+ 4.2.1   Dosis en adultos
+         Las actividades recomendadas para ser administradas por vía intravenosa a un adulto de
+70 kg varían entre 37 y 185 MBq (1-5mCi). El número de partículas por dosis
+administrada debe encontrarse entre 60 x 103 y 700 x 103. La prueba pulmonar puede
+iniciarse inmediatamente después de la inyección.
+ 4.2.2   Dosis en niños
+         La actividad que ha de administrarse a niños debe ser una fracción de la actividad del
+adulto, y debe calcularse según la siguiente ecuación:
+                                        dosis en adulto (MBq) x peso del niño (kg)
+Dosis pediátrica (MBq) = _________________________________________
+                                                         70 kg
+       A pesar de que el peso corporal es el factor más utilizado para ajustar la actividad
+administrada, en algunos casos la superficie corporal puede considerarse más adecuada.
+                                    dosis en adulto (MBq) x superficie del niño (m2)
+Dosis pediátrica (MBq) = ___________________________________________
+                                                              1,73
+ 4.3   Contraindicaciones
+       Hipersensibilidad al principio activo o a alguno de los excipientes.
+ 4.4   Advertencias y precauciones especiales de empleo
+       Los radiofármacos sólo deben ser utilizados por personal cualificado que esté
+debidamente autorizado para la utilización y manipulación de radionúclidos.
+       Este radiofármaco puede ser recibido, utilizado y administrado solamente por personas
+autorizadas en centros asistenciales autorizados. Su recepción, almacenamiento,
+transporte y eliminación están sujetos a las regulaciones y licencias adecuadas de los
+organismos oficiales competentes.
+       Los radiofármacos destinados a la administración a pacientes deben ser preparados por el
+usuario de manera que satisfagan tanto los requisitos de seguridad radiológica como de
+calidad farmacéutica.
+       En bebés y niños debe realizarse una evaluación particularmente cuidadosa del valor
+diagnóstico, necesidad y riesgos del procedimiento.
+       La jeringa debe ser suavemente agitada inmediatamente antes de la inyección con
+el fin de homogeneizar la suspensión a inyectar. Nunca debe extraerse sangre con
+la jeringa ya que induce la formación de pequeños coágulos.
+       Debe prestarse atención especial cuando se administran MAA-99mTc a pacientes con
+comunicación intracardiaca derecha-izquierda significativa . Con el fin de minimizar la
+posibilidad de microembolismo en la circulación cerebral y renal, los MAA-99mTc deben
+ser administrados mediante inyección intravenosa lenta, y el número de partículas debe
+reducirse en un 50%. Dichas precauciones se recomiendan también para pacientes con
+hipertensión pulmonar complicada con insuficiencia respiratoria.
+ En beneficio de los pacientes se recomienda que, siempre que sea posible, cada vez que se
+les administre Macrotec se deje constancia del nombre del medicamento y nº de lote
+administrado.
+       Cuando se administran medicamentos derivados de sangre o plasma humanos, no se
+puede excluir totalmente la aparición de enfermedades debidas a la transmisión de agentes
+infecciosos. Esto también se refiere a la posible transmisión de patógenos de naturaleza
+desconocida. Sin embargo, el riesgo de transmisión de agentes infecciosos se reduce por:
+                                                                                                   2
+- La selección de los donantes mediante un reconocimiento médico y el despistaje de
+AgHBs y anticuerpos frente a VIH y VHC en las donaciones individuales y en las
+mezclas de plasma.
+- El análisis de material genómico del VHC en las mezclas de plasma.
+- Los procedimientos de inactivación/eliminación incluidos en el proceso de producción
+que han sido validados utilizando virus modelo. Estos procedimientos se consideran
+efectivos para VIH, VHC y VHA y VHB.
+Los procedimientos de inactivación/eliminación pueden tener un valor limitado para virus
+no envueltos tales como VHA.
+Macrotec contiene albúmina fabricada según las especificaciones y procesos establecidos
+en la Farmacopea Europea y por tanto se considera un producto seguro respecto a
+transmisión de virus.
+ 4.5    Interacción con con otros medicamentos y otras formas de interacción
+        Los fármacos que se detallan a continuación inducen modificación en la distribución
+biológica de los MAA-99mTc.
+        - Interacciones farmacológicas causadas por agentes quimioterápicos, heparina y
+broncodilatadores.
+              - Interacciones toxicológicas causadas por heroína, nitrofurantoína, busulfán, ciclofosfamida,
+bleomicina, metotrexato y metisergida
+              - Interacciones farmacéuticas causadas por sulfato de magnesio.
+       4.6    Embarazo y lactancia
+              Cuando sea necesario administrar radiofármacos a una mujer en edad reproductora, deben
+buscarse siempre indicios de un posible embarazo. Toda mujer que presente retraso en la
+menstruación debe considerarse embarazada mientras no se demuestre lo contrario. En caso
+de duda, es fundamental que la exposición a la radiación sea la mínima necesaria para la
+obtención de la información clínica deseada. Debe considerarse la posibilidad de técnicas
+alternativas que no impliquen el uso de radiaciones ionizantes.
+              Los procedimientos con radionúclidos llevados a cabo en mujeres embarazadas implican
+además dosis de radiación recibidas por el feto. Sólo deben llevarse a cabo investigaciones
+estrictamente necesarias, cuando el beneficio probable supere el riesgo que corren madre y
+feto.
+              Antes de administrar un radiofármaco a una madre que está amamantando a su hijo, debe
+considerarse la posibilidad de retrasar razonablemente la investigación hasta que la madre
+haya terminado el período de lactancia, y plantearse si se ha seleccionado el agente
+radiofarmacéutico más apropiado, teniendo en cuenta la secreción de radiactividad en la leche
+materna. Si la administración se considera necesaria, la lactancia debe suspenderse durante 12
+horas y desecharse la leche extraída después de la inyección. Debe considerarse la posibilidad
+de extraer la leche antes de la administración y almacenarla para su uso posterior. La lactancia
+puede reanudarse cuando los niveles de actividad en la leche no suponga una dosis de
+radiación para el niño superior a 1mSv.
+       4.7    Efectos sobre la capacidad para conducir y utilizar maquinaria
+              La influencia de MACROTEC sobre la capacidad para conducir y utilizar máquinas es
+nula o insignificante.
+                                                                                                     3
+4.8   Reacciones adversas
+       La administración de inyecciones únicas o repetidas de MAA-99mTc puede asociarse a
+reacciones de hipersensibilidad con dolor precordial, rigidez y colapso. Se han observado
+reacciones alérgicas locales en el lugar de la inyección.
+       Para cada paciente, la exposición a la radiación ionizante debe estar justificada en función del
+posible beneficio. La actividad administrada debe ser tal que la dosis de radiación resultante
+sea la más baja que se pueda lograr razonablemente, considerando la necesidad de obtener el
+resultado diagnóstico buscado.
+       La exposición a la radiación ionizante está vinculada a la inducción de cáncer y a la
+posibilidad de desarrollar defectos hereditarios. En cuanto a las pruebas diagnósticas
+en medicina nuclear, las evidencias actuales indican que estas reacciones adversas
+ocurrirán con escasa frecuencia dadas las bajas dosis de radiación administradas. En la
+mayoría de los casos, la dosis de radiación proporcionada (DEE) es menor a 20 mSv.
+Pueden justificarse dosis más elevadas en determinadas circunstancias clínicas.
+       Para información sobre la seguridad viral, ver 4.4
+ 4.9   Sobredosis
+       No es de esperar que se produzca sobredosis, en el sentido comúnmente utilizado del término
+(es decir, cantidad excesiva por peso), pero puede entenderse por sobredosis la administración
+de un gran número de partículas. El número de partículas administradas de MAA por paciente
+adulto no debe exceder de 1,5 x 106.
+       Los peligros esperados relacionados con la administración accidental de un exceso de
+radiactividad pueden reducirse estimulando la diuresis y un vaciado frecuente de la vejiga.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+       Grupo terapéutico: V04C2, código ATC: V09EB01
+       La administración de MAA-99mTc a las dosis habituales, no muestra efectos farmacodinámicos
+detectables clínica y/o analíticamente.
+ 5.2   Propiedades farmacocinéticas
+       Cuando se administran macroagregados de albúmina humana en una vena superficial del
+sistema circulatorio venoso, éstos son transportados a la velocidad de la circulación hasta el
+primer filtro capilar, es decir, el árbol capilar del sistema arterio-pulmonar.
+       Los macroagregados de albúmina no penetran en el parénquima pulmonar (intersticial o
+alveolar) sino que se mantienen en una posición oclusiva temporal en el lúmen de los
+capilares. Cuando el flujo de distribución pulmonar es normal, el compuesto se distribuye en
+la totalidad de la superficie de dicho órgano siguiendo gradientes fisiológicos. Cuando el flujo
+está alterado, las áreas de flujo reducido reciben una cantidad de partículas proporcionalmente
+                                                                                                     4
+menor. Los macroagregados marcados con tecnecio permanecen en los pulmones durante un
+periodo de tiempo variable, dependiendo de la estructura, tamaño y número de partículas.
+       La disminución de actividad de las partículas en los pulmones depende de una ley
+exponencial. Los agregados de mayor tamaño tienen una vida media biológica superior, de
+manera que partículas entre 5 y 90 µm de diámetro tienen una vida media de 2 a 8 horas.
+       La disminución en la concentración pulmonar está causada por la ruptura mecánica de las
+partículas que están ocluyendo los capilares. Dicha ruptura es producida por la presión
+sistodiastólica de las pulsaciones en el interior de los propios capilares.
+       Los productos de la ruptura de macroagregados, una vez incorporados a la circulación en
+forma de microcoloides de albúmina, son rápidamente eliminados por los macrófagos del
+sistema reticuloendotelial, esencialmente hígado y bazo.
+       Tras la metabolización del microcoloide, el tecnecio (99mTc) se incorpora al sistema
+circulatorio, de donde es eliminado y excretado a través de la orina.
+ 5.3   Datos preclínicos sobre seguridad
+       Existe relación directa entre el tamaño de los macroagregados de albúmina y sus efectos
+tóxicos.
+       Se ha observado que el mecanismo fisiopatológico de toxicidad es el aumento de la presión
+sanguínea pulmonar. Tras la administración en perros de dosis entre 20 y 25 mg por kg de
+peso corporal, con partículas entre 10 y 50 m de diámetro, aparecen los primeros signos de
+toxicidad pulmonar (por ejemplo, taquipnea).
+       Cuando se inyectan 20 mg de macroagregados de albúmina, con un tamaño inferior a 80 m,
+se produce un aumento marcado de la presión sanguínea pulmonar. Sin embargo tras
+administrar 40 mg de dichas partículas, con un tamaño inferior a 35m, no se producen
+modificaciones significativas de presión.
+       Tras la inyección de una suspensión de macroagregados de albúmina, con un diámetro <150
+m, no se han observado modificaciones en la presión sanguínea con dosis inferiores a 10
+mg/kg, mientras que suspensiones con diámetros superiores (<300 m) hacen aparecer dichas
+modificaciones, típicas en la arteria pulmonar cuando la dosis excede de 5 mg/kg.
+       Dosis entre 20 y 50 mg/kg causan muerte súbita por insuficiencia respiratoria. Tras la
+inyección en perros de 14.000 MAA-99mTc, con un tamaño entre 30 y 50 m, el factor de
+seguridad resultante es de 100.
+       Estudios de toxicidad a dosis repetidas realizados en perros no muestran variaciones
+detectables en el comportamiento general de los animales.
+       No se han detectado evidencias de modificaciones patológicas en los órganos principales.
+       No existe evidencia en la literatura de efectos teratogénicos, mutagénicos o carcinogénicos del
+producto no marcado.
+ 5.4   Dosimetría de la radiación
+                                                                                                    5
+El tecnecio (99mTc) se desintegra, por emisión de radiación gamma de una energía de 140keV
+y un período de semidesintegración de 6 horas, a tecnecio (99Tc), que puede considerarse casi
+estable.
+        Para este producto, la dosis equivalente efectiva resultante de la administración de una
+actividad de 185 MBq es típicamente de 2,2mSv (para un individuo de 70kg).
+        Conforme al ICRP 53 (1988), las dosis de radiación absorbidas por los pacientes son las
+siguientes:
+ Órgano                Adulto       15 años       10 años         5 años         1 año
+Glándulas suprarrenales
+Pared de la vejiga
+Superficie ósea
+Mamas
+Tracto gastrointestinal
+Pared estomacal
+Intestino delgado
+Pared IGS
+Pared IGI
+ Riñones
+Hígado
+Pulmones
+Ovarios
+Páncreas
+Médula ósea
+Bazo
+Testículos
+Tiroides
+Útero
+Otros tejidos
+ Dosis equivalente efectiva
+(mSv/MBq)
+        Para una actividad administrada de 185 MBq, la dosis de radiación típica en el órgano diana,
+los pulmones, es de 12,3 mGy y la dosis de radiación típica en los órganos críticos, glándulas
+suprarrenales, pared de la vejiga, hígado, páncreas y bazo, es de 1,07, 1,85, 2,96, 1,07 y 0,81
+mGy, respectivamente.
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1     Lista de excipientes
+         Cloruro de estaño (II) dihidratado
+Cloruro de sodio
+Nitrógeno gas
+Albúmina sérica humana
+Acetato de sodio
+ 6.2     Incompatibilidades
+         Ninguna conocida hasta la fecha.
+ 6.3     Período de validez
+         El período de validez para este producto es de 18 meses desde la fecha de fabricación. El
+producto marcado debe ser utilizado durante las 6 horas siguientes a su preparación.
+ 6.4     Precauciones especiales de conservación
+         El producto liofilizado debe conservarse entre 2 y 8oC (en nevera).
+No conservar el producto reconstituido y marcado a temperatura superior a 25ºC. No
+refrigerar ni congelar.
+El producto reconstituido y marcado debe conservarse según la legislación nacional
+para materiales radiactivos.
+ 6.5     Naturaleza y contenido del recipiente
+         Los viales son de vidrio (Ph. Eur. Tipo I) de 10 ml cada uno, cerrados con tapones de
+goma de clorobutilo y sobresellos de aluminio.
+         Cada equipo contiene 5 viales multidosis en una bandeja de poliestireno y un
+prospecto, ambos se introducen en una caja de cartón.
+ 6.6     Instrucciones de uso/manipulación/eliminación
+         La administración de radiofármacos supone un riesgo para otras personas debido a la
+radiación externa o a la contaminación procedente de las gotas de orina, vómitos, etc.
+Por lo tanto, deben tomarse las precauciones de protección radiológica necesarias de
+acuerdo con la legislación nacional.
+Se deben tomar las precauciones oportunas respecto a la actividad eliminada por los pacientes
+para evitar cualquier contaminación.
+Los desechos deben eliminarse conforme a las normas nacionales e internacionales sobre
+materiales radiactivos.
+ 6.6.1   Método de preparación
+         Utilizar una técnica aséptica a lo largo de todo el proceso.
+         - Colocar uno de los viales que contienen los MAA en un contenedor plomado adecuado.
+                                                                                                    7
+- Introducir asépticamente en el vial, de 4 a 10 ml de disolución inyectable de pertecnetato
+(99mTc) de sodio con un rango de radiactividad de 1480 a 3700 MBq (40-100mCi).
+         - No utilizar aguja de aspiración.
+         - Eliminar el exceso de presión en el vial retirando con la jeringa un volumen de gas igual al
+inyectado.
+         - Invertir el vial cuidadosamente unas cuantas veces para suspender completamente el
+liofilizado de macroagregados de albúmina. A continuación, dejar reposar durante 5 minutos
+a temperatura ambiente.
+         - Agitar antes de retirar cada dosis.
+         - En ningún caso debe dejarse la preparación en contacto con el aire.
+ 6.6.2   Control de calidad
+         Pueden utilizarse los dos métodos detallados a continuación:
+         A.      Radiactividad no filtrable a los 5 minutos tras el marcaje:
+         Filtro de membrana               3 µm de diámetro de poro
+Volumen filtrado                 200 µl
+Solución de lavado               20 ml de solución salina
+ B.      Análisis de la pureza radioquímica a los 5 minutos tras el marcaje
+         Análisis del tecnecio (99mTc) libre mediante cromatografía sobre ITLC-SG:
+ Soporte                          ITLC-SG
+Solvente                                Metanol:agua (85:15 v/v)
+Tiempo                           5-10 minutos
+Tecnecio (99mTc) libre                  5%
+Rf                                      0,9 ± 10%
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	       GE HEALTHCARE BIO-SCIENCES, S.A.
+AVDA. DE EUROPA, 22
+-28108- ALCOBENDAS (MADRID)
+ 
+8.     NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	       65.426
+ 9.     FECHA DE LA                     PRIMERA               APROBACIÓN/RENOVACIÓN                  DE   LA
+AUTORIZACIÓN
+ 10.   FECHA DE REVISIÓN DEL TEXTO
+        Junio de 2003
+
+	Prospectos de medicamentos.

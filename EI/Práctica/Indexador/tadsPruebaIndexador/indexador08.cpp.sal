@@ -1,0 +1,9 @@
+NO SE HA INDEXADO EL DIRECTORIO ./directorio_que_no_existe
+SE HA INDEXADO EL DIRECTORIO ./corpus_corto
+pal1 SE HA INDEXADO: Frecuencia total: 2	fd: 1	Id.Doc: 1	ft: 2	0	3
+pal7 NO SE HA INDEXADO
+pal1 SE HA INDEXADO EN ./corpus_corto/fichero1.txt: ft: 2	0	3
+pal1 NO SE HA INDEXADO EN fichero1.txt
+pal7 NO SE HA INDEXADO EN ./corpus_corto/fichero1.txt
+pal1 SE HA INDEXADO
+pal7 NO SE HA INDEXADO

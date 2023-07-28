@@ -1,0 +1,367 @@
+"NAVELBINE 20 mg cápsulas blandas; 1 caja con 1 cápsula"
+	Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	
+3.     FORMA FARMACÉUTICA
+	
+4.     DATOS CLÍNICOS
+	4.1.   Indicaciones terapéuticas
+Cáncer de mama avanzado en monoterapia, tras recaída o refractariedad a un régimen
+quimioterápico que incluya antraciclinas y taxanos.
+Cáncer de pulmón no microcítico estadio III o IV en monoterapia o en combinación con
+carboplatino o cisplatino.
+El uso de vinorelbina cápsulas será considerado en los casos en que no sea posible la
+administración de vinorelbina intravenosa.
+ 4.2.   Posología y forma de administración
+Se recomienda tomar Navelbine cápsulas blandas bajo la supervisión de un médico con
+experiencia en quimioterapia.
+ Navelbine cápsulas blandas es una alternativa al tratamiento con Navelbine inyectable, siempre y
+cuando la administración intravenosa presente problemas psicológicos o prácticos.
+ Basándose en estudios farmacocinéticos, se ha demostrado que la dosis oral de 60 mg/m2
+corresponde a 25 mg/m2 y que 80 mg/m2 corresponde a 30 mg/m2 de la forma intravenosa.
+ Uso en adultos
+Como agente único, la posología recomendada es:
+Primeras tres administraciones:
+60 mg/m² de superficie corporal, administrados una vez por semana.
+Siguientes administraciones:
+Después de la tercera administración, se recomienda aumentar la dosis de Navelbine cápsulas
+blandas a 80 mg/m² una vez por semana, excepto en aquellos pacientes cuyo recuento de
+neutrófilos haya descendido una vez por debajo de 500/mm3, o se sitúe más de una vez entre 500
+y 1000/mm3, durante las tres primeras administraciones de 60 mg/m² de acuerdo a la tabla
+siguiente:
+ Recuento de
+neutrófilos/mm3 durante                           Neutrófilos         Neutrófilos
+las tres primeras
+administraciones de 60                           (1 episodio)       (2 episodios)
+mg/m²/semana
+Dosis recomendada a
+partir de la 4ª
+administración
+mg/m²/semana
+ Para cualquier administración en que se ha previsto administrar 80 mg/m², si el recuento de
+neutrófilos desciende por debajo de 500/mm3 o se sitúa más de una vez entre 500 y 1000/mm3 la
+administración habría de retrasarse hasta la recuperación y la dosis reducirse de 80 a 60 mg/m²
+por semana durante las siguientes 3 administraciones.
+      Recuento de
+neutrófilos/mm3                                Neutrófilos         Neutrófilos
+después de la 4ª
+administración de 80                             (1 episodio)       (2 episodios)
+mg/m²/semana
+Dosis recomendada a
+partir de la siguiente
+administración
+mg/m²/semana
+ Es posible incrementar nuevamente la dosis de 60 a 80 mg/m2 por semana, si el recuento de
+neutrófilos no ha descendido ninguna vez por debajo de 500/mm3, o no se ha situado más de una
+vez entre 500 y 1000/mm3 durante las 3 administraciones en dosis de 60 mg/m2, según se ha
+especificado previamente respecto de las primeras 3 administraciones.
+ En terapia combinada:
+Se demostró que la dosis oral de 80 mg/m2 se corresponde a 30 mg/m2 de la forma intravenosa y
+60 mg/m2 a 25 mg/m2 y ésta ha sido la base para los regímenes de combinación.
+Para regímenes de combinación, la dosis y la frecuencia de administración se adaptarán al
+protocolo de tratamiento
+ Se dispone de cápsulas que contienen diferentes dosificaciones de vinorelbina base (20 y 30 mg),
+a fin de poder elegir la combinación adecuada para la correcta dosificación.
+ La siguiente tabla muestra la dosis necesaria para distintos intervalos de superficie corporal (Sup.
+Corp.)
+Sup. Corp. (m )             Dosis (mg)                  Dosis (mg)
+1,05 a 1,14                    70                          90
+1,15 a 1,24                    70                         100
+1,25 a 1,34                    80                         100
+1,35 a 1,44                    80                         110
+1,45 a 1,54                    90                         120
+1,55 a 1,64                   100                         130
+1,65 a 1,74                   100                         140
+     La dosis total nunca debe exceder de 120 mg por semana a la dosis de 60 mg/m2 y de 160 mg por
+semana a 80 mg/m2, incluso en pacientes con una Sup.Corp.  2 m2.
+ Uso en ancianos:
+La experiencia clínica no ha detectado diferencias importantes entre los pacientes ancianos
+respecto a la tasa de respuesta, aunque no puede excluirse una mayor sensibilidad de algunos de
+estos pacientes.
+ Uso en niños:
+No se ha establecido la seguridad y la eficacia en niños por lo que no se recomienda su uso.
+ Uso en pacientes con insuficiencia hepática:
+El impacto de las alteraciones hepáticas en la farmacocinética no ha sido evaluado con Navelbine
+cápsulas blandas, por lo que no existen recomendaciones concretas para el ajuste de dosis. Debido
+a que Navelbine se metaboliza principalmente por el hígado, es de esperar que la exposición al
+fármaco aumente en caso de insuficiencia hepática por lo que se recomienda precaución. En
+pacientes con insuficiencia hepática grave no se recomienda su uso (ver apartado 4.3.
+Contraindicaciones).
+ Uso en pacientes con insuficiencia renal:
+Puesto que la excreción renal es minoritaria, no hay justificación farmacocinética para reducir la
+dosis de Navelbine cápsulas blandas en pacientes con la función renal alterada. Sin embargo, en
+pacientes con insuficiencia renal grave se recomienda precaución.
+ Administración:
+Navelbine cápsulas blandas se ha de administrar por vía oral.
+Navelbine cápsulas blandas debe tragarse con agua, sin masticar, ni chupar, ni disolver la cápsula.
+Se recomienda tomar la cápsula con algo de comida.
+ Deben seguirse unas determinadas instrucciones para utilizar Navelbine cápsulas blandas (ver
+apartado 6.6.: Instrucciones de uso y manipulación y eliminación).
+4.3.     Contraindicaciones
+·     Hipersensibilidad a vinorelbina, a otros alcaloides de la vinca o a alguno de los excipientes.
+·     Enfermedad que afecte de manera significativa la absorción
+gastrointestinal.
+·     Antecedentes de resección quirúrgica significativa del estómago o del intestino
+delgado.
+·     Recuento de neutrófilos < 1500/mm3 o infección grave, actual o reciente (en periodo de 2
+semanas).
+·     Insuficiencia hepática grave.
+·     Embarazo.
+·     Lactancia.
+·     Pacientes que requieren oxigenoterapia crónica.
+ 4.4.   Advertencias y precauciones especiales de empleo
+Dado que el mayor riesgo asociado a Navelbine cápsulas blandas es la inhibición del sistema
+hematopoyético, debería realizarse un seguimiento hematológico estricto durante el tratamiento
+(determinación del nivel de hemoglobina, leucocitos, neutrófilos y recuento de plaquetas el día de
+cada nueva administración). Ver apartado 4.2 Posología y método de administración.
+ Si el recuento de neutrófilos es inferior a 1500 /mm3 y/o el recuento de plaquetas está entre 75000
+y 100000/mm3, debe retrasarse el inicio del tratamiento hasta la recuperación.
+ Durante los estudios clínicos en los que los tratamientos se iniciaron con 80 mg/m2, algunos
+pacientes desarrollaron complicaciones por una neutropenia excesiva. Por lo tanto, se recomienda
+que la dosis inicial sea de 60 mg/m2, aumentando a 80 mg/m2 en el caso de que ésta se tolere bien
+(ver apartado 4.2.: Posología y forma de administración).
+ Si los pacientes presentan signos o síntomas que sugieren infección, debe realizarse un examen
+inmediato.
+ Debe tenerse especial cuidado al prescribir este fármaco a pacientes con antecedentes de
+cardiopatía isquémica. Antes de iniciar el tratamiento debe considerarse la relación beneficio /
+riesgo.
+ Navelbine cápsulas blandas no debe administrarse concomitantemente con radioterapia si el
+campo de tratamiento incluye el hígado.
+ Cuando Navelbine cápsulas blandas se administra junto con con otros medicamentos existe la
+posibilidad de que se produzcan interacciones (ver apartado 4.5.: Interacción con con otros medicamentos y otras formas de interacción).
+ En caso de vómito a las pocas horas de la toma del fármaco, no repetir nunca la administración de
+esta dosis. El tratamiento de soporte (como la metoclopramida o los setrones vía oral) puede
+reducir la aparición de vómitos.
+ Este medicamento contiene pequeñas cantidades de etanol (alcohol), menos de 100 mg por dosis
+(5 mg por cápsula blanda)
+Este medicamento contiene sorbitol. Los pacientes con intolerancia hereditaria a la fructosa no
+deben tomar este medicamento.
+ Si el paciente mastica o chupa la cápsula, o la disuelve por error, enjuagar la boca con agua o,
+preferentemente, con solución salina normal.
+ El contenido de la cápsula es irritante, por lo que si ésta se rompe o se altera, el líquido puede
+causar lesión si entra en contacto con la piel, mucosas u ojos. Las cápsulas alteradas no deben
+tragarse y deben devolverse a la farmacia o al médico, para que sigan el procedimiento habitual de
+destrucción de la vinorelbina. Si tiene lugar algún contacto con el contenido de la cápsula,
+proceder al lavado inmediato con agua abundante o, preferentemente, con solución salina normal.
+ 4.5.    Interacción con con otros medicamentos y otras formas de interacción
+ Aunque no se dispone de experiencia clínica, la combinación de Navelbine cápsulas blandas con
+otros fármacos de toxicidad medular conocida, es posible que potencie los efectos adversos
+mielosupresores. Estudios anteriores de Navelbine inyectable con cisplatino demostraron que la
+incidencia de granulocitopenia de esta combinación fue superior a la observada con Navelbine en
+monoterapia.
+ El CYP 3A4 está muy implicado en el metabolismo de Navelbine. La asociación con agentes
+inductores como rifampicina, dexametasona, fenitoína, carbamazepina, fenobarbital, hypericum
+perforatum (Hierba de San Juan), o inhibidores de esta isoenzima como ketoconazol, itraconazol,
+eritromicina, claritromicina puede reducir o aumentar la concentración plasmática de aquellos
+medicamentos que son metabolizados por esta isoenzima.
+ Cuando se combina con antieméticos (metoclopramida o antagonistas del 5HT3), la
+farmacocinética de Navelbine no se ve modificada.
+ Interacción con la comida: la ingestión simultánea de comida no afecta la absorción de
+vinorelbina. No se recomienda una ingesta de grandes cantidades de zumo de pomelo.
+4.6.   Embarazo y lactancia
+En estudios de reproducción con animales, Navelbine fue letal para embriones y fetos, y fue
+también teratogénico. Por tanto, Navelbine cápsulas blandas está contraindicado durante el
+embarazo. Si el embarazo tiene lugar durante el tratamiento, debe ofrecerse asesoramiento
+genético.
+Las mujeres que puedan quedarse embarazadas deben utilizar un método anticonceptivo efectivo
+durante el tratamiento.
+ Se desconoce si Navelbine pasa a la leche materna.
+La lactancia debe interrumpirse antes de iniciar el tratamiento con Navelbine cápsulas blandas.
+4.7.   Efectos sobre la capacidad para conducir y utilizar maquinaria
+No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+4.8.   Reacciones adversas
+En monoterapia, la incidencia general de reacciones adversas se determinó a partir de estudios
+clínicos en 210 pacientes (76 pacientes con cáncer de pulmón no microcítico y 134 pacientes con
+cáncer de mama) que recibieron el esquema recomendado de Navelbine cápsulas blandas (las tres
+primeras administraciones de 60 mg/m²/semana, seguidas de 80 mg/m²/semana).
+Las reacciones adversas son dosis dependientes.
+ Las reacciones adversas de las que se ha informado en más de un caso aislado se enumeran a
+continuación, clasificadas por sistemas de órganos y frecuencia. Las frecuencias se definen
+como: muy común (> 1/10), común (>1/100, < 1/10).
+    Clasificación por sistema de                Muy común               Común
+órganos
+Trastornos de la sangre y del        Neutropenia
+sistema linfático                    Anemia
+Trastornos del sistema nervioso      Reflejos tendinosos               Alteraciones neuromotoras
+Trastornos gastrointestinales        Náuseas                           Estomatitis
+Trastornos de la piel y del tejido   Alopecia
+subcutáneo
+Trastornos generales y alteraciones Cansancio                          Artralgia
+en el lugar de administración       Fiebre                             Dolor
+ Trastornos de la sangre y del sistema linfático
+La neutropenia es la toxicidad que limita la dosis. En el 24% de los pacientes se observó una
+neutropenia de grado 1-2. En el 19% de los pacientes se observó una neutropenia de grado 3
+(recuento de neutrófilos entre 1000 y 500/mm3). En el 23,8% de los pacientes se observó
+neutropenia de grado 4 (< 500/mm3), y estuvo asociada con fiebre superior a 38°C en el 2,9% de
+pacientes. En el 15,2% de los pacientes se observaron infecciones, pero sólo el 5,2% de ellas
+fueron graves.
+La anemia fue muy común pero generalmente fue de leve a moderada (69,5% de los pacientes con
+grado 1 ó 2, el 4,3% con grado 3 y el 0,5% con grado 4).
+También se produjo trombocitopenia, pero éstas no han sido graves (12,9% de los pacientes con
+grado 1-2).
+ Trastornos del sistema nervioso
+Las alteraciones neurosensitivas se limitaron generalmente a la pérdida de reflejos
+osteotendinosos (12,4% de pacientes con grado 1-2) y con poca frecuencia fueron graves. Un
+paciente presentó ataxia de grado 3 parcialmente reversible.
+Se observaron alteraciones neuromotoras en el 10% de los pacientes (1,0% de los pacientes con
+grado 3).
+En el 11,3% de los pacientes se observó estreñimiento neurógeno (10% grado 1-2) que
+excepcionalmente progresó a íleo paralítico (1,4%). Se presentó un episodio de íleo paralítico con
+exitus. La prescripción de laxantes puede ser adecuada en pacientes con antecedentes de
+estreñimiento y/o que habían recibido tratamiento concomitante con morfina o morfinomiméticos.
+ Trastornos gastrointestinales
+Se presentaron reacciones adversas gastrointestinales que incluyeron: náuseas (70,5% grado 1-2,
+8,6% grado 3, 0,5 % grado 4), vómitos (52,9 % grado 1-2, 4,3% grado 3, 3,3% grado 4), diarrea
+(41,9% grado 1-2, 2,9% grado 3, 2,4% grado 4) y anorexia (26,7% grado 1-2, 4,8% grado 3, 1,0%
+grado 4). Con poca frecuencia se observaron síntomas de intensidad grave.
+El tratamiento de soporte (como metoclopramida o setrones vía oral) puede reducir la aparición de
+náuseas y vómitos.
+La estomatitis, generalmente leve a moderada, ocurrió en el 8,7 % de los pacientes (grado 1-2).
+Se observó esofagitis en el 4,8% de los pacientes (0,5% grado 3).
+ Trastornos de la piel
+Puede aparecer alopecia progresivamente en tratamientos de larga duración.
+La alopecia, generalmente de naturaleza leve, puede presentarse en el 27,1% de los pacientes
+(grado 1-2).
+ Otras reacciones adversas
+Algunos pacientes que tomaron Navelbine cápsulas blandas experimentaron fatiga (el 19,5% de
+los pacientes con grado 1-2, el 6,7% con grado 3), fiebre (12,4% con grado 1-2), artralgia
+incluyendo dolor de mandíbula, mialgia (9,0% con grado 1-2), dolor incluyendo en el lugar del
+tumor (5,2% grado 1-2).
+ Se han notificado raros casos de hiponatremia durante la experiencia clínica postcomercialización.
+Además, las siguientes reacciones adversas se han observado con Navelbine inyectable aunque no
+se han confirmado con Navelbine cápsulas blandas:
+ Trastornos cardíacos:
+Raramente se han observado problemas de isquemia cardiaca (angina de pecho, infarto de
+miocardio).
+ Trastornos hepatobiliares:
+Se ha informado acerca del aumento transitorio de los controles de la función hepática sin
+sintomatología clínica.
+ Trastornos respiratorios, torácicos y mediastínicos:
+Como con otros alcaloides de la vinca, la administración intravenosa de Navelbine, se ha asociado
+a disnea, broncoespasmo y en raras ocasiones con neumopatía intersticial, en particular en
+pacientes tratados con Navelbine inyectable en combinación con mitomicina.
+ Trastornos de la piel y del tejido subcutáneo:
+Raramente los alcaloides de la vinca pueden producir reacciones cutáneas generalizadas.
+ Este medicamento contiene pequeñas cantidades de etanol (alcohol), menos de 100 mg por dosis
+(5 mg por cápsula blanda)
+Este medicamento contiene sorbitol Los pacientes con intolerancia hereditaria a la fructosa no
+deben tomar este medicamento.
+ 4.9.    Sobredosis
+No se ha presentado ningún caso de sobredosificación con Navelbine cápsulas blandas, sin
+embargo, la sobredosificación con Navelbine cápsulas blandas puede producir una hipoplasia de
+médula ósea a veces asociada con infección, fiebre e íleo paralítico.
+ Deben instaurarse las medidas de soporte generales que el médico considere necesarias
+junto con transfusión de sangre, factores de crecimiento y terapia antibiótica de amplio
+espectro. No se conoce la existencia de un antídoto para la sobredosificación de Navelbine
+cápsulas blandas.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	Código ATC: L01CA04 (Alcaloides de la vinca y análogos).
+ Mecanismo de acción
+La vinorelbina es un fármaco antineoplásico de la familia de los alcaloides de la vinca. A nivel
+molecular, actúa sobre el equilibrio dinámico de la tubulina en el sistema microtubular de la
+célula.
+ Efectos farmacodinámicos
+Navelbine bloquea la mitosis en G2-M, causando la muerte celular en la interfase o en la siguiente
+mitosis.
+ Eficacia clínica
+En cáncer de pulmón no microcítico
+                                                                                                      MINISTERIO
+En un ensayo en fase II, aleatorizado, abierto y multicéntrico, Navelbine oral como agente único
+mostró una eficacia similar a Navelbine IV en el tratamiento en primera línea de pacientes con
+cáncer de pulmón no microcítico. Se observó una tasa de respuesta del 11.7% con Navelbine oral
+frente al 10.5% en la forma intravenosa. La mediana de supervivencia global fue de 9.4 meses
+frente a 7.9 meses, respectivamente.:
+ En un estudio en fase II multicéntrico con 56 pacientes que recibieron vinorelbina en combinación
+con cisplatino en primera línea de tratamiento del CPNM irresecable, localizado o metastásico, se
+obtuvo una tasa de respuesta del 30% en la población ITT. La mediana de supervivencia libre de
+progresión y la mediana de supervivencia fueron de 5,5 meses y 8,9 meses, respectivamente.
+ En otro estudio en fase II multicéntrico en el que 52 pacientes recibieron la combinación de
+vinorelbina con carboplatino en primera línea de tratamiento del CPNM, se observó una respuesta
+global del 15% en la población ITT. La mediana de supervivencia libre de progresión fue de 5,0
+meses y la mediana de supervivencia de 9,3 meses.
+ En cáncer de mama
+Se llevaron a cabo dos estudios no comparativos con un total de 184 pacientes con cáncer de
+mama avanzado para evaluar la eficacia antitumoral y la tolerabilidad de Navelbine oral como
+agente único.
+La tasa de respuesta osciló entre el 29.7% y el 20.8% , siendo la mediana de supervivencia global
+en ambos estudios de 23.9 y 19.3 meses respectivamente.
+ 5.2.   Propiedades farmacocinéticas
+Los parámetros farmacocinéticos principales se evaluaron en sangre.
+Absorción
+Tras la administración oral, vinorelbina se absorbe rápidamente y se alcanza la Tmáx entre 1,5 y 3
+h con una concentración plasmática máxima (Cmáx) de aproximadamente 130 ng/ml después de
+una dosis de 80 mg/m².
+La biodisponibilidad absoluta es de aproximadamente el 40% y la ingestión simultánea de comida
+no modifica la absorción de vinorelbina.
+Una dosis de 60 y 80 mg/m2 de vinorelbina oral produce una biodisponibilidad en sangre
+comparable a la obtenida con 25 y 30 mg/m2 de la forma IV, respectivamente.
+La variabilidad interindividual de la biodisponibilidad es similar después de la administración por
+vía IV u oral.
+Distribución
+El volumen de distribución a nivel estable fue amplio, de 21,2 l/kg (límites: 7,5 ­ 39,7 l/kg), e
+indicó una distribución tisular extensa.
+La unión a proteínas plasmáticas es débil (13,5%), sin embargo vinorelbina se une fuertemente a
+las células sanguíneas, especialmente a las plaquetas (78%).
+Existe una captación significativa de vinorelbina en el pulmón con una concentración hasta 300
+veces más alta que en suero. No se ha detectado vinorelbina en el sistema nervioso central.
+Biotransformación
+El aclaramiento en sangre fue elevado, se aproximó al riego hepático, y fue de 0,72 l/h/kg
+(límites: 0,32 ­ 1,26 l/h/kg). La vinorelbina se metaboliza mayoritariamente a través de la
+isoforma CYP 3A4 del citocromo P450 (ver apartado 4.5: Interacción con con otros medicamentos y
+otras formas de interacción). Se han identificado todos los metabolitos y solamente es activo el 4-
+O-deactilvinorelbina, que es el metabolito mayoritario en sangre. No se observaron sulfa o
+glucurono conjugados.
+Eliminación
+La vida media terminal fue de 38 horas. La eliminación renal es baja (< del 20% de la dosis) y
+consiste mayoritariamente en el compuesto original. La ruta de eliminación predominante de los
+dos metabolitos y de vinorelbina inalterada, que es el compuesto recuperado principal, es la
+eliminación biliar.
+Linealidad
+Existe un aumento proporcional entre el nivel de exposición sanguínea y la dosis.
+Características de los pacientes
+No han sido evaluados los efectos de una disfunción renal en relación a la eliminación de la
+vinorelbina. No ha sido evaluado el efecto de una disfunción hepática en relación a la
+farmacocinética de la vinorelbina vía oral. No se han observado efectos importantes con
+vinorelbina vía intravenosa.
+Relación farmacodinámica/farmacocinética
+Se ha demostrado una estrecha relación entre el nivel de exposición sanguíneo y el descenso de
+los leucocitos y de los polimorfonucleares.
+5.3.   Datos preclínicos de seguridad
+ Los datos preclínicos no muestran riesgos especiales para los seres humanos según los estudios
+convencionales de toxicidad a dosis repetidas y potencial carcinogénico.
+ Se asume que Navelbine puede causar efectos mutagénicos (inducción de aneuploidía y
+poliploidía) en el hombre.
+En estudios de reproducción en animales, Navelbine fue letal para embriones y fetos, y fue
+también teratogénico.
+Se observó la ausencia de efectos hemodinámicos en perros que recibieron vinorelbina a la dosis
+máxima tolerada; sólo se presentaron alteraciones menores no significativas en la repolarización,
+al igual que con otros alcaloides de la vinca ensayados. No se observó ningún efecto en el sistema
+cardiovascular en primates que recibieron dosis repetidas de vinorelbina durante 39 semanas.
+ 
+6.     DATOS FARMACÉUTICOS
+	6.6.   Instrucciones de uso / manipulación y eliminación
+Instrucciones para el uso/manipulación. Para abrir el envase a prueba de niños:
+1. Cortar el blister a lo largo de la línea punteada negra.
+2. Quitar la lámina de plástico blando.
+3. Empujar la cápsula a través de la lámina de aluminio.
+ Las mujeres embarazadas deberán tener especial precaución en evitar el contacto con el contenido
+de las cápsulas (ver apartado 4.6.: Embarazo y lactancia).
+ La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales para medicamentos anticancerosos. Las cápsulas alteradas no deben tragarse y
+deben devolverse a la farmacia o al médico para que sigan el procedimiento habitual de
+destrucción de la vinorelbina.
+ 
+7.     TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+8.    NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	9.    FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA
+AUTORIZACIÓN
+Fecha de primera autorización: Abril 2004
+ 10.    FECHA DE LA REVISIÓN (PARCIAL) DEL TEXTO Febrero 2006
+ NAVELBINE®: marca registrada de PIERRE FABRE MÉDICAMENT
+
+	Prospectos de medicamentos.

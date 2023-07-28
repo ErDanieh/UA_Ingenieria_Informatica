@@ -1,0 +1,163 @@
+EBERTOP 1 % CREMA, tubo de 60 g
+	Información Basica del medicamento Toda la información del medicamento NOMBRE DEL MEDICAMENTO
+ EBERTOP 1% crema
+ 
+2.   COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	"     Cada gramo de crema contiene 10 mg de eberconazol (DCI) (como nitrato).
+      Ver ""Lista de excipientes"" en 6.1.
+ "
+3.   FORMA FARMACÉUTICA
+	     Crema.
+La crema es viscosa y de color blanco.
+ 
+
+
+4.   DATOS CLÍNICOS
+	4.1 Indicaciones terapéuticas
+EBERTOP 1% crema está indicado en el tratamiento cutáneo de infecciones dermatofíticas
+de la piel tales como Tinea corporis, Tinea cruris y Tinea pedis.
+ 4.2 Posología y forma de administración
+      Adultos
+EBERTOP 1% crema debe aplicarse dos veces al día durante cuatro semanas. Si
+tras este periodo de tratamiento no se observa mejoría clínica, el diagnóstico debe
+ser reconsiderado.
+      Se debe mantener unas medidas higiénicas adecuadas para prevenir una posible
+reinfección.
+      Forma de administración
+La crema deberá aplicarse con la punta de los dedos evitando que el tubo entre en contacto
+directo con la zona infectada. La crema se extenderá de forma homogénea, en cantidad
+suficiente para cubrir la extensión de la lesión y zonas adyacentes, y se favorecerá su
+penetración a través de un ligero masaje. En lesiones de localización intertriginosa, se
+aplicará una pequeña cantidad de la crema para evitar la maceración de la piel.
+      Es importante cerrar bien el tubo después de cada aplicación.
+      Niños < 18 años
+No se dispone de estudios específicos en este grupo de población.
+      Ancianos
+No es necesario modificar la pauta posológica recomendada en adultos.
+      Insuficiencia renal y/o hepática
+No es necesario modificar la pauta posológica recomendada en adultos con función
+renal y/o hepática normales.
+ 4.3 Contraindicaciones
+     EBERTOP 1% crema está contraindicado en pacientes con hipersensibilidad a otros
+antifúngicos imidazólicos, o a cualquier otro componente de este medicamento.
+ 4.4 Advertencias y precauciones especiales de empleo
+     EBERTOP 1% crema no debe utilizarse por vía oftálmica ni aplicarse en mucosas.
+En caso de contacto con los ojos, es recomendable lavarlos con agua abundante.
+     No deben utilizarse vendajes oclusivos o que no dejen transpirar ya que podría
+favorecerse el desarrollo de levaduras y la consiguiente irritación cutánea.
+     Si una reacción dérmica sugiere sensibilización o irritación por el empleo de
+EBERTOP, el tratamiento debe ser interrumpido y deben instaurarse las medidas
+correctoras oportunas.
+     No se dispone de estudios clínicos específicos sobre el uso de EBERTOP en niños.
+     Advertencias sobre excipientes
+Este medicamento contiene parahidroxibenzoato de metilo por lo que puede causar
+reacciones alérgicas (posiblemente retardadas). Por contener propilenglicol, este
+medicamento puede causar irritación cutánea.
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+     Aunque no se han descrito interacciones específicas con con otros medicamentos, se
+recomienda no utilizar concomitantemente con otros preparados de uso cutáneo
+con el fin de evitar el riesgo de interacciones potenciales entre tratamientos.
+ 4.6 Embarazo y lactancia
+     No se dispone de datos adecuados extraídos del uso de eberconazol en mujeres
+embarazadas. Los estudios en animales son insuficientes con respecto a los efectos
+sobre el embarazo, desarrollo embrionario y fetal, parto y desarrollo postnatal (ver
+apartado 5.3). Se debe tener precaución al prescribirlo a mujeres embarazadas.
+     Se desconoce si eberconazol se excreta en la leche materna por lo que se debe
+tener precaución al prescribirlo a mujeres en período de lactancia.
+ 4.7 Efectos sobre la capacidad para conducir y utilizar maquinaria
+No se ha observado que EBERTOP 1% crema afecte a la capacidad de conducir y
+manejar maquinaria.
+ 4.8 Reacciones adversas
+En los estudios clínicos realizados con EBERTOP 1% crema, aproximadamente un 3% de
+pacientes experimentaron alguna reacción adversa.
+      Las reacciones adversas comunicadas de forma frecuente ( 1/100 y < 1/10) fueron eritema y
+prurito en la zona de aplicación. Otras reacciones cutáneas que se manifestaron de forma
+poco frecuente ( 1/1000 y < 1/100) fueron: eczema, descamación, foliculitis y pústulas.
+Todas las reacciones fueron, por lo general, de carácter leve y transitorio.
+ 4.9 Sobredosificación
+      No se han descrito casos de sobredosificación por vía cutánea. No obstante, en caso de
+ingestión accidental y exposición sistémica a eberconazol, se aplicará una terapia sintomática
+apropiada.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1 Propiedades farmacodinámicas
+Grupo farmacoterapéutico (código ATC): Antifúngicos para uso tópico (D01A C)
+      Eberconazol es un derivado imidazólico con antividad antifúngica para el tratamiento
+cutáneo de las dermatofitosis. Estudios in vitro sugieren que el nitrato de eberconazol, como
+el resto de imidazoles, inhibe la síntesis del ergosterol, componente fundamental de la
+membrana citoplasmática, provocando una alteración de la estructura y función de la misma
+que determina la inhibición del crecimiento del hongo.
+      Eberconazol posee un espectro de actividad antimicótica que incluye dermatofitos, levaduras
+y otros hongos patógenos. Eberconazol presenta una CMI90 inferior a 1 µg/ml frente a los
+dermatofitos patógenos más habituales pertenecientes a los géneros Trichophyton y
+Microsporum así como frente a Epidermophyton floccosum. También ha mostrado actividad
+frente a levaduras del género Candida procedentes de aislados clínicos, destacando su
+actividad sobre C. glabrata (CMI90 0.1µg/ml) y C. kruseii (CMI90 0.125 µg/ml).
+      En un ensayo clínico abierto y no controlado en el que se administró una dosis única de
+EBERTOP 1% crema a 12 voluntarios sanos, no se observaron efectos fototóxicos ni de
+sensibilización.
+      En un ensayo clínico abierto y no controlado en el que se evaluó la tolerabilidad
+local y sistémica en 16 voluntarios sanos de dos dosis únicas de eberconazol 1%
+crema administradas con un intervalo de 7 días, no se comunicaron reacciones de
+hipersensibilidad tras la reexposición.
+ 5.2 Propiedades farmacocinéticas
+ En un ensayo clínico abierto y no controlado se administró EBERTOP 1% crema
+dos veces al día durante 28 días a 12 voluntarios sanos, para determinar la
+absorción sistémica a los 28 días de tratamiento. No se observaron niveles
+                                                                                                       MINISTERIO
+detectables de eberconazol en plasma ni en orina (límites de detección de 1.1 ng/ml
+y 1.0 ng/ml, respectivamente) al final del periodo de estudio.
+ 5.3 Datos preclínicos sobre seguridad
+      Los estudios de toxicidad oral aguda en ratón y rata muestran DL50 superiores a 900 mg/kg y
+500 mg/kg de peso corporal en machos y hembras, respectivamente. El único signo de
+toxicidad relevante fue la reducción de los testículos en ratones macho a dosis superiores a
+1000 mg/kg.
+      En los estudios de toxicidad crónica en ratas y perros en los que se administró por
+vía tópica eberconazol crema durante 28 días,           no se observaron signos
+destacables de toxicidad a las dosis máximas de 400 mg/kg/día en rata y de 50
+mg/kg/día en perro.
+      Eberconazol ha resultado no mutagénico en la prueba de Ames y en la valoración
+de mutación genética en células de linfoma de ratón L5178Y.
+ 
+6.   DATOS FARMACÉUTICOS
+	6.1 Relación de excipientes
+      Parahidroxibenzoato de metilo (E 214).
+Alcohol cetoestearílico
+Ésteres poliglicólicos de ácidos grasos C12-C20.
+Oleato de decilo.
+Propilenglicol.
+Glicerina formaldehído.
+Glicerol
+Poliacrilamida.
+Trolamina.
+Agua purificada.
+ 6.2 Incompatibilidades
+      No se han descrito.
+ 6.3 Período de validez
+      Cuatro años.
+ 6.4 Precauciones especiales de conservación
+      No conservar a temperatura superior a 30 ºC.
+ 6.5 Naturaleza y contenido del recipiente
+Tubo de aluminio de boca ciega provisto de un tapón de rosca.
+EBERTOP 1% crema se presenta en tubos de 30 y 60 g.
+ 6.6 Instrucciones de uso y manipulación
+      Para evitar la posible contaminación de la crema, se recomienda no permitir que el
+tubo entre en contacto directo con la zona infectada por lo que la aplicación de la
+crema deberá hacerse con los dedos (ver apartado 4.2). Es importante cerrar bien
+el tubo después de cada aplicación.
+ 
+7.   TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	     Laboratorios S.A.L.V.A.T., S.A.
+Gall, 30-36. 08950 Esplugues de Llobregat (Barcelona). España.
+ 
+8.   NÚMERO DE AUTORIZACIÓN
+	     65.967
+ 9.   FECHA DE LA PRIMERA AUTORIZACIÓN / RENOVACIÓN DE LA
+AUTORIZACIÓN DE COMERCIALIZACIÓN
+      Marzo 2004
+ 10. FECHA DE LA APROBACIÓN DE LA FICHA TÉCNICA
+      Marzo 2004
+
+	 
+      EBERTOP 1 % CREMA, tubo de 30 g
+         Prospectos de medicamentos.

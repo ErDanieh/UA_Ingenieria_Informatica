@@ -1,0 +1,253 @@
+WELLVONE  750mg/5ml suspensión oral , frasco con 226 ml
+	Información Basica del medicamento Toda la información del medicamento 
+1.           NOMBRE DEL MEDICAMENTO
+	Wellvone 750mg/5ml Suspensión oral
+ 
+2.           COMPOSICION CUALITATIVA Y CUANTITATIVA
+	Cada ml de suspensión oral contiene 150 mg de atovacuona.
+ Una unidad de dosis de 5 ml contiene 750 mg de atovacuona.
+Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.           FORMA FARMACEUTICA
+	Suspensión oral.
+Wellvone suspensión oral es un líquido amarillo brillante
+ 
+
+
+4.           DATOS CLINICOS
+	4.2.         Posología y forma de administración
+Debe informarse a los pacientes de la gran importancia de ingerir con alimentos la dosis completa
+de Wellvone prescrita por el médico. La presencia de alimentos, especialmente de alimentos de
+alto contenido en grasa, incrementa al doble o al triple la biodisponibilidad del producto.
+ Posología en adultos
+Pneumocystis pneumonia:
+La dosis recomendada por vía oral es de 750 mg (5 ml por la mañana y 5 ml por la noche)
+administrada con los alimentos dos veces al día durante 21 días.
+Puede que dosis más elevadas sean más eficaces en algunos pacientes (ver apartado 5.2).
+ Posología en niños
+No se ha estudiado la eficacia clínica.
+ Posología en ancianos
+No se han realizado estudios con Wellvone en ancianos (ver apartado 4.4).
+ Insuficiencia renal o hepática
+Wellvone no se ha estudiado específicamente en pacientes con insuficiencia hepática o renal
+importante (ver apartado 5.2 para farmacocinética en adultos). Si es necesario tratar a tales
+ pacientes con Wellvone, se aconseja precaución debiendo estar su administración estrechamente
+controlada.
+ 4.3.          Contraindicaciones
+ Wellvone Suspensión está contraindicado en pacientes con hipersensibilidad conocida a
+atovacuona o a cualquiera de los componentes de la formulación.
+ 4.4.          Advertencias y precauciones especiales de empleo
+ Se ha demostrado que la aparición de diarrea al comienzo del tratamiento está relacionada con
+niveles plasmáticos de atovacuona significativamente inferiores. Éstos, a su vez, estaban en
+correlación con una mayor incidencia de fracasos del tratamiento y con una tasa de supervivencia
+inferior. Por lo tanto, se debe considerar la utilización de terapias alternativas en tales pacientes y
+en aquéllos que presenten dificultades para tomar Wellvone con los alimentos.
+No se recomienda la administración conjunta de atovacuona y rifampicina o rifabutina (ver apartado 4.5).
+No se ha evaluado de forma sistemática la eficacia de Wellvone:
+i)     en pacientes que no han respondido a otros tratamientos frente a PCP, incluyendo cotrimoxazol
+ii)    en el tratamiento de episodios graves de PCP [(A-a)DO >45 mmHg (6kPa)
+iii)   como agente profiláctico para PCP o
+iv)    frente a pentamidina intravenosa para el tratamiento de PCP.
+ No se dispone de datos de pacientes inmunodeprimidos no afectados por VIH aquejados de PCP.
+No se ha obtenido experiencia clínica en el tratamiento con atovacuona en pacientes ancianos. Por
+lo tanto, el uso en pacientes ancianos debe estar estrechamente controlado.
+Los pacientes con enfermedad pulmonar deben ser evaluados cuidadosamente para determinar
+causas de su enfermedad distintas a PCP y ser tratados de forma apropiada con otros agentes. No
+se espera que Wellvone constituya un tratamiento eficaz para enfermedades fúngicas, bacterianas,
+por micobacterias o víricas.
+ 4.5.          Interacción con con otros medicamentos y otras formas de interacción.
+Debido a la escasa experiencia, la combinación de Wellvone con otras sustancias debe realizarse
+con precaución.
+Se sabe que la administración conjunta de rifampicina o rifabutina, reduce los niveles de
+atovacuona aproximadamente al 50% y 34% respectivamente, y puede dar lugar a
+concentraciones plasmáticas menores a las terapéuticas en algunos pacientes (ver apartado 4.4).
+El tratamiento conjunto con tetraciclina o metoclopramida se ha relacionado con disminuciones
+significativas de las concentraciones plasmáticas de atovacuona. Se debe tener cuidado al
+prescribir estas sustancias con Wellvone, hasta que se haya estudiado la posible interacción.
+En ensayos clínicos realizados con Wellvone, pequeñas disminuciones en las concentraciones
+plasmáticas de atovacuona (media < 3 µg/ml) se relacionaron con la administración conjunta de
+paracetamol, benzodiacepinas, aciclovir, opiáceos, cefalosporinas, antidiarreicos y laxantes. Se
+desconoce la relación causal entre la variación de la concentración plasmática de atovacuona y la
+administración de los fármacos mencionados anteriormente.
+En los ensayos clínicos, se ha evaluado la interacción entre los comprimidos de Wellvone y:
+Zidovudina ­ Parece que zidovudina no afecta la farmacocinética de atovacuona. Sin embargo, los
+datos farmacocinéticos han mostrado que atovacuona parece disminuir la velocidad del
+metabolismo de zidovudina a su metabolito glucurónido (la AUC en estado estacionario de
+zidovudina aumentó en un 33% y la concentración plasmática máxima de glucurónido descendió
+en un 19%). A dosis de zidovudina de 500 o 600 mg/día parece poco probable que un ciclo de
+tratamiento conjunto con Wellvone durante tres semanas para el tratamiento de la PCP aguda
+pueda dar lugar a un aumento de la incidencia de reacciones adversas atribuibles a mayores
+concentraciones plasmáticas de zidovudina.
+Didanosina (ddI) ­ ddI no afecta tampoco la farmacocinética de atovacuona como se determinó en
+un estudio de interacción prospectivo con dosis múltiples de atovacuona y ddI. Sin embargo,
+hubo una disminución del 24% en el AUC del ddI cuando se administró junto con atovacuona,
+siendo poco probable que este hecho tenga significado clínico.
+No obstante, aunque se desconocen los mecanismos de interacción, los efectos de la
+administración de atovacuona con zidovudina y ddI pueden ser mayores con la suspensión de
+atovacuona. La posible aparición de concentraciones más elevadas de atovacuona con la
+suspensión, podrían inducir cambios mayores a los observados en los valores de AUC para
+zidovudina o ddI. Los pacientes a los que se les administre atovacuona y zidovudina deben
+controlarse estrechamente para detectar reacciones adversas relacionadas con zidovudina.
+La administración conjunta de Wellvone e indinavir da lugar a una disminución significativa de la
+Cmin de indinavir (disminución del 23%; IC90% 8-35%) y del AUC (disminución del 9%; IC90%
+1-18%). Deberá tenerse precaución por el potencial riesgo de fracaso del tratamiento con indinavir
+si se administra conjuntamente con atovacuona. No se dispone de datos relativos a las potenciales
+interacciones de Wellvone con otros fármacos inhibidores de la proteasa.
+ En los ensayos clínicos con Wellvone, los siguientes fármacos no se relacionaron con un cambio
+en las concentraciones plasmáticas en el estado estacionario de atovacuona: fluconazol,
+clotrimazol, ketoconazol, antiácidos, corticosteroides sistémicos, antiinflamatorios no esteroideos,
+antieméticos (excluyendo metoclopramida) y antagonistas H2.
+ Atovacuona se une en una elevada proporción a proteínas plasmáticas, por tanto, se debe tener
+especial precaución cuando se administre Wellvone con otras sustancias con índices terapéuticos
+estrechos cuya unión a proteínas plasmáticas sea elevada. Atovacuona no afecta la
+farmacocinética, metabolismo o grado de unión a proteínas de fenitoína in vivo. In vitro, no se
+produce interacción relativa a la unión a proteínas plasmáticas entre atovacuona y quinina,
+fenitoína, warfarina, sulfametoxazol, indometacina o diazepam.
+ 4.6.         Embarazo y lactancia
+No se dispone de información sobre los efectos de la administración de atovacuona durante el
+embarazo. Atovacuona no debe ser utilizada durante el embarazo a menos que el beneficio del
+tratamiento para la madre supere cualquier posible riesgo para el desarrollo del feto.
+No se dispone de datos suficientes a partir de estudios en animales para evaluar el posible riesgo
+en la capacidad reproductiva o comportamiento en la reproducción.
+Se desconoce si atovacuona se excreta en la leche humana, por lo que no se recomienda la
+lactancia materna.
+ 4.7.     Efectos sobre la capacidad de conducir y utilizar máquinas
+No se han realizado estudios para investigar el efecto de Wellvone sobre la capacidad para
+conducir y utilizar maquinaria aunque, no se prevé un efecto perjudicial sobre tales actividades en
+función de la farmacología de la sustancia.
+ 4.8.     Reacciones adversas
+Los pacientes incluidos en los ensayos clínicos con Wellvone han presentado, a menudo,
+complicaciones debidas a la enfermedad avanzada producida por el virus de la inmunodeficiencia
+humana (VIH), por lo que es difícil evaluar la relación causal entre las reacciones adversas y
+atovacuona.
+ Las frecuencias se definen como: muy frecuentes ( 1/10), frecuentes ( 1/100, <1/10), poco frecuentes (1/1.000, <1/100),
+raras (1/10.000, <1/1.000), muy raras (<1/10.000), desconocida (no se puede extrapolar de los datos disponibles)
+ Trastornos de la sangre y del sistema linfático
+Frecuentes: anemia, neutropenia
+ Trastornos del metabolismo y de la nutrición
+Frecuentes: hiponatremia
+ Trastornos psiquiátricos
+Frecuentes: insomnio
+ Trastornos del sistema nervioso
+Frecuentes: cefalea
+ Trastornos gastrointestinales
+Muy frecuentes: náuseas
+Frecuentes: diarrea, vómitos
+ Trastornos hepatobiliares
+Frecuentes: incremento de los niveles de enzimas hepáticos
+ Trastornos del sistema inmunológico
+Frecuentes: reacciones de hipersensibilidad incluyendo angioedema, broncoespasmo y Sensación
+de opresión en la garganta
+ Trastornos de la piel y del tejido subcutáneo
+Muy frecuentes: erupción, prurito
+Frecuentes: urticaria
+Desconocido: eritema multiforme, síndrome Stevens-Johnson
+ Trastornos generales y alteraciones en el lugar de administración
+Frecuentes: fiebre
+ Exploraciones complementarias
+Poco frecuentes: niveles de amilasa elevados
+ 4.9.           Sobredosis
+                                                                                                                           MINISTERIO
+La experiencia disponible resulta insuficiente para pronosticar las consecuencias o indicar el
+tratamiento de una sobredosis con atovacuona. Sin embargo, en los casos de sobredosificación
+notificados se observaron efectos que coinciden con las reacciones adversas del fármaco. En caso
+de sobredosis, deberá realizarse un seguimiento del paciente y aplicarse un tratamiento de soporte
+estándar.
+ 
+5.           PROPIEDADES FARMACOLOGICAS
+	5.1.        Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Antiprotozoarios. Código ATC: P01AX06
+ Modo de acción
+Atovacuona es un inhibidor potente y selectivo de la cadena de transporte de electrones
+mitocondrial eucariota en una serie de protozoos parásitos y en el hongo parasitario P.jiroveci. El
+lugar de acción parece ser el complejo citocromo bc1 (complejo III). Probablemente el efecto
+metabólico fundamental de tal bloqueo es la inhibición de la síntesis de ácido nucleico y ATP.
+ Microbiología
+Atovacuona presenta una potente actividad frente a Pneumocystic sp, tanto in vitro como en
+modelos animales, (IC50 0,5-8µg/ml).
+ 5.2.         Propiedades farmacocinéticas
+ Atovacuona es un compuesto altamente lipofílico con una baja solubilidad en agua. Su unión a
+proteínas plasmáticas es del 99,9%. La biodisponibilidad de la sustancia muestra una disminución
+relativa con dosis únicas superiores a 750 mg, y presenta una considerable variabilidad
+interindividual. La biodisponibilidad absoluta de una dosis única de 750 mg de atovacuona en
+suspensión administrada con alimentos a varones con el VIH positivo es del 47% (comparado con
+el 23% para Wellvone en comprimidos). Tras la administración intravenosa, se estimó que el
+volumen de distribución y el aclaramiento eran de 0,62 ± 0,19 l/kg y de 0,15 ± 0,09 ml/min/kg
+respectivamente.
+ La biodisponibilidad de atovacuona es mayor cuando se administra con alimentos que en ayunas.
+En voluntarios sanos, un desayuno estándar (23 g de grasa, 610 kCal) incrementó la
+biodisponibilidad al doble o al triple tras una dosis única de 750 mg. El valor medio de área bajo
+la curva de la concentración plasmática con respecto al tiempo de atovacuona (AUC) se
+incrementó 2,5 veces y el valor medio de Cmax se incrementó 3,4 veces. Los valores medios (±
+desviación estándar) del AUC para la suspensión fueron de 324,3 (± 115,0) g/ml.h en ayunas y
+de 800,6 (±319,8) g/ml.h con alimentos.
+ En un estudio de seguridad y farmacocinética en pacientes con PCP se obtuvieron los siguientes
+resultados:
+ Régimen de dosis                               750 mg dos veces al día          1000 mg dos veces al día
+Número de pacientes                            18                               9
+Cmed, ss (intervalo)                           22 g/ml (6-41)                   25,7 g/ml (15-36)
+% de pacientes con Cmed, ss >15g/ml            67%                              100%
+ En un pequeño estudio acerca de la seguridad y la farmacocinética de dos regímenes posológicos
+más elevados [750 mg tres veces al día (n=8) y 1500 mg dos veces al día (n=8)] realizado en
+voluntarios con infección por el VIH con criterios de gravedad comparables a los de pacientes con
+                                                                                                       MINISTERIO
+PCP, se alcanzaron similares Cmed con las dos dosis [para las dosis de 750 mg tres veces al día y
+1500 mg dos veces al día fueron respectivamente: 24,8 (7-40) y 23,4 g/ml (7-35)]. Además, con
+ambas dosis, se alcanzó en un 87,5% de pacientes una Cmed > 15g/ml.
+ Las concentraciones medias en el estado de equilibrio superiores a 15 g/ml son indicativas de
+una elevada tasa de éxito (>90%).
+ En voluntarios sanos y en pacientes con SIDA, atovacuona presenta una semivida de 2 a 3 días.
+ En voluntarios sanos no existe evidencia de que la sustancia sea metabolizada y la excreción de
+atovacuona en orina es insignificante, siendo la sustancia original predominantemente excretada
+en heces, de forma inalterada (>90%).
+ 5.3.         Datos preclínicos sobre seguridad
+ Carcinogenicidad
+Los estudios de oncogénesis en ratones mostraron una mayor incidencia de adenomas y
+carcinomas hepatocelulares, sin haberse determinado el nivel de fármaco al que no se observaban
+efectos adversos. No se observaron tales hallazgos en ratas y las pruebas de mutagénesis
+resultaron negativas. Estos hallazgos parecen deberse a la sensibilidad inherente de los ratones a
+atovacuona y no son predecibles de un riesgo en la clínica.
+ Toxicidad reproductiva
+En el rango de dosis de 600 a 1200 mg/kg, los estudios en conejos indicaron la existencia de
+efectos sobre la madre y embriotóxicos.
+ 
+6.           DATOS FARMACEUTICOS
+	6.1.         Lista de excipientes
+Alcohol bencílico
+Goma xantán
+Poloxámero 188
+Sacarina sódica
+Agua purificada
+Saborizante de Tutti Frutti (Firmenich 51.880/A) conteniendo aceite de naranja dulce, aceite de
+naranja concentrado, propilenglicol, acetaldehído, vainillina, aldehído acético, acetato de amilo y
+butirato de etilo.
+ 6.2.         Incompatibilidades
+No procede
+ 6.3.         Periodo de validez
+2 años
+La suspensión, una vez abierta, tiene un periodo de validez de 21 días.
+ 6.4.         Precauciones especiales de conservación
+No conservar a temperatura superior a 25ºC.
+No congelar.
+                                                                                                       MINISTERIO
+6.5.         Naturaleza y contenido del recipiente
+Frasco de polietileno de alta densidad de 240 ml con cierre de polipropileno a prueba de niños,
+que contiene 226 ml de suspensión de atovacuona.
+ Se incluye una cuchara dosificadora (polipropileno) de 5 ml.
+ 6.6.         Instrucciones de uso/manipulación
+No diluir.
+ 
+7.      TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	GlaxoSmithKline, S.A.
+C/ Severo Ochoa, 2
+28760 Tres Cantos (Madrid)
+España.
+ 
+8.      NÚMERO DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	9.     FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+09/08/06
+ 10.     FECHA DE REVISIÓN (PARCIAL) DEL TEXTO
+ Marzo 2008
+
+	Prospectos de medicamentos.

@@ -1,0 +1,552 @@
+OLANZAPINA CINFA 5 mg comprimidos, 28 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1. NOMBRE DEL MEDICAMENTO
+	olanzapina cinfa 2,5 mg comprimidos EFG
+olanzapina cinfa 5 mg comprimidos EFG
+olanzapina cinfa 7,5 mg comprimidos EFG
+olanzapina cinfa 10 mg comprimidos EFG
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido olanzapina cinfa 2,5 mg contiene2,5 mg de olanzapina y 17,2 gr de                   lactosa
+monohidrato
+Cada comprimido olanzapina cinfa 5 mg contiene 5 mg de olanzapina y 34,3 gr de                      lactosa
+monohidrato
+Cada comprimido olanzapina cinfa 7,5 mg contiene 7,5 mg de olanzapina y 51,6 gr de                  lactosa
+monohidrato
+Cada comprimido olanzapina cinfa 10 mg contiene 10 mg de olanzapina y 68,8 gr de                    lactosa
+monohidrato
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3. FORMA FARMACÉUTICA
+	Comprimido.
+Comprimidos cilíndricos, biconvexos y de color amarillo.
+ 
+4. DATOS CLÍNICOS
+	4.1. Indicaciones terapéuticas
+ La olanzapina está indicada en el tratamiento de la esquizofrenia.
+La olanzapina es efectiva en el mantenimiento de la mejoría clínica durante la terapia de
+continuación en los pacientes que muestran una respuesta terapéutica inicial.
+La olanzapina está indicada en el tratamiento del episodio maníaco moderado o grave.
+ La olanzapina está indicada en la prevención de las recaídas en pacientes con trastorno bipolar
+cuyo episodio maníaco ha respondido al tratamiento con olanzapina (ver apartado 5.1).
+ 4.2. Posología y forma de administración
+ Por vía oral.
+ Esquizofrenia: La dosis inicial recomendada de olanzapina es de 10 mg al día.
+Episodio maníaco: La dosis inicial es de 15 mg como dosis única diaria en monoterapia o de 10
+mg al día en el tratamiento de combinación (ver apartado 5.1).
+Prevención de la recaída en el trastorno bipolar: La dosis de inicio recomendada es de 10
+mg/día.En los pacientes que han estado tomando olanzapina para el tratamiento del episodio
+maníaco, continuar con la misma dosis en el tratamiento para prevención de las recaídas. Si se
+presenta un nuevo episodio maníaco, mixto o depresivo, se debe continuar con el tratamiento con
+olanzapina (con la dosis óptima según sea necesario), con una terapia complementaria para tratar
+los síntomas del estado de ánimo, según criterio clínico.
+ Durante el tratamiento de la esquizofrenia, del episodio maníaco y de la prevención de recaídas la
+dosis diaria podría ajustarse posteriormente, basándose en el estado clínico del paciente, dentro
+del rango de 5 a 20 mg al día. Solo se recomienda un aumento a una dosis mayor que la dosis
+recomendada de inicio tras evaluar adecuadamente, de nuevo, desde un punto de vista clínico y se
+debería realizar, en general, a intervalos no menores de 24 horas. Olanzapina puede ser
+administrada con o sin comidas ya que los alimentos no afectan su absorción. Se debería
+considerar una disminución gradual de la dosis a la hora de abandonar el tratamiento con
+olanzapina.
+Niños y adolescentes: No hay experiencia en niños y sujetos menores de 18 años.
+Ancianos: Una dosis inicial inferior (5 mg/día) no está indicada de rutina, pero debe ser
+considerada en personas de 65 años o más cuando los factores clínicos lo requieran (ver también
+sección 4.4)
+Pacientes con alteraciones de la función renal y/o hepática: debe considerarse la utilización de
+dosis iniciales inferiores (5 mg) en este tipo de pacientes. En casos de insuficiencia hepática
+moderada (cirrosis clase A o B de la escala Child-Pugh), la dosis de comienzo debe ser 5 mg y los
+incrementos se deben hacer siempre con precaución.
+Sexo: Generalmente, en las mujeres no es necesario alterar la dosis inicial ni el nivel de
+dosificación en comparación con los hombres.
+Fumadores: Generalmente, en los no fumadores no es necesario alterar la dosis inicial ni el nivel
+de dosificación en comparación con los fumadores.
+Cuando esté presente más de un factor que pueda resultar en enlentecimiento del metabolismo
+(sexo femenino, edad geriátrica, ausencia de hábito tabáquico), se debe considerar la disminución
+de la dosis de inicio. El escalado de la dosis, si está indicado, debe hacerse con prudencia en estos
+pacientes.
+(Ver también las secciones 4.5 y 5.2)
+ 4.3. Contraindicaciones
+ Hipersensibilidad a la olanzapina o a alguno de los excipientes.
+Pacientes con riesgo conocido de glaucoma de ángulo estrecho.
+ 4.4. Advertencias y precauciones especiales de empleo
+ En muy raras ocasiones se han notificado casos de hiperglucemia y/o aparición o exacerbación de
+diabetes ocasionalmente asociada a cetoacidosis o coma, con algún desenlace fatal. En algunos
+casos se ha informado de un aumento previo de peso, lo que puede ser un factor predisponente. Es
+aconsejable un seguimiento clínico apropiado especialmente de los pacientes diabéticos y
+pacientes con factores de riesgo de desarrollar diabetes mellitus.
+Se han notificado, muy escasamente (<1/10.000), síntomas agudos tales como sudoración,
+insomnio, temblor, ansiedad, nauseas o vómitos al interrumpir el tratamiento con olanzapina
+repentinamente. Debe considerarse una reducción gradual de la dosis al retirar el tratamiento con
+olanzapina.
+Enfermedades concomitantes: aunque la olanzapina ha mostrado una actividad anticolinérgica in
+vitro, la experiencia durante los ensayos clínicos ha mostrado una baja incidencia de
+acontecimientos relacionados. Sin embargo, ya que la experiencia clínica con olanzapina en
+pacientes con enfermedades concomitantes es limitada, se recomienda precaución cuando se
+prescriba olanzapina a pacientes con hipertrofia prostática o íleo paralítico y enfermedades
+relacionadas.
+No se recomienda el uso de olanzapina para el tratamiento de la psicosis inducida por agonistas
+dopaminérgicos usados en pacientes con enfermedad de Parkinson. En los ensayos clínicos, se ha
+notificado un empeoramiento de la sintomatología parkinsoniana y alucinaciones, muy
+frecuentemente y con mayor frecuencia que con placebo (ver también sección 4.8 Reacciones
+adversas), y olanzapina no fue más efectiva que placebo en el tratamiento de los síntomas
+psicóticos. En estos ensayos clínicos, se requirió la previa estabilización de los pacientes con la
+menor dosis efectiva de antiparkinsoniano (agonista dopaminérgico) y continuar con la misma
+dosis y medicamento antiparkinsoniano a lo largo del estudio. Se comenzó con una dosis de
+olanzapina de 2,5 mg/día y se valoró el aumento hasta un máximo de 15 mg/día a juicio del
+investigador.
+Olanzapina no está autorizada para el tratamiento de psicosis y/o trastornos del comportamiento
+asociados a demencia, no recomendándose su uso en este grupo particular de pacientes debido a
+un incremento en la mortalidad y al riesgo de accidente cerebrovascular. En ensayos clínicos
+controlados con placebo (de 6 a 12 semanas de duración) en pacientes de edad avanzada (edad
+media 78 años) con psicosis y/o trastornos del comportamiento asociados a demencia, se
+incrementó en dos veces la incidencia de muerte en los pacientes tratados con olanzapina
+comparados con los pacientes tratados con placebo ( 3,5 % vs 1,5 % respectivamente). La mayor
+incidencia de muerte no estuvo asociada con la dosis de olanzapina (dosis media diaria de 4,4 mg)
+o con la duración del tratamiento. Los factores de riesgo que pueden predisponer a esta población
+de pacientes a un incremento en la mortalidad incluyen, edad >65 años, disfagia, sedación,
+malnutrición y deshidratación, enfermedades pulmonares (p.ej. neumonía con o sin aspiración) o
+uso concomitante de benzodiacepinas. Sin embargo la incidencia de muerte fue mayor en los
+pacientes tratados con olanzapina que en los pacientes tratados con placebo independientemente
+de estos factores de riesgo.
+En los mismos ensayos clínicos, se comunicaron acontecimientos adversos cerebrovasculares
+(p.ej. ictus, isquemia cerebral transitoria), algunos de ellos de desenlace mortal. En los pacientes
+tratados con olanzapina se incrementó en tres veces el numero de acontecimientos adversos
+cerebrovasculares comparado con los pacientes tratados con placebo (1,3 % vs 0,4 %
+respectivamente). Todos los pacientes tratados con olanzapina y placebo que experimentaron un
+accidente cerebrovascular, como acontecimiento adverso, tenían factores de riesgo pre-existentes.
+Se identificaron, la edad mayor de 75 años y la demencia de tipo vascular / mixta como factores
+de riesgo para la aparición de acontecimientos adversos cerebrovasculares en asociación con el
+tratamiento con olanzapina. La eficacia de olanzapina no fue establecida en estos ensayos.
+Durante el tratamiento antipsicótico, la mejoría clínica del paciente se puede producir a los pocos
+días o tardar algunas semanas. Se debe monitorizar estrechamente a los pacientes durante este
+periodo.
+Frecuentemente se han observado elevaciones asintomáticas y transitorias de las transaminasas
+hepáticas, ALT, AST, especialmente en los tratamientos iniciales. Se deben tomar precauciones
+en pacientes con ALT y/o AST elevada; en pacientes con signos y síntomas de disfunción
+hepática; en pacientes con condiciones previas asociadas con una reserva funcional hepática
+limitada y en pacientes que están siendo tratados con medicamentos potencialmente
+hepatotóxicos. Se debe hacer un seguimiento y considerar la reducción de la dosis cuando se
+produzca durante el tratamiento una elevación de ALT y/o AST. Cuando se diagnostique hepatitis
+(incluyendo daño hepatocelular, colestásico o mixto) se debe interrumpir el tratamiento con
+olanzapina.
+Como con otros neurolépticos, se deben tomar precauciones en pacientes con recuentos bajos de
+leucocitos y/o neutrófilos por cualquier motivo; en pacientes en tratamiento con medicamentos de
+los que se conoce que provocan neutropenia; en pacientes con un historial de depresión / toxicidad
+medular inducida por fármacos; en pacientes con depresión medular causadas por enfermedades
+concomitantes, radioterapia o quimioterapia y en pacientes con trastornos asociados a
+hipereosinofília o con enfermedad mieloproliferativa. Se han notificado frecuentemente casos de
+neutropenia tras el uso concomitante de olanzapina y valproato (ver apartado 4.8).
+Existen pocos datos referentes al uso conjunto con litio o valproato (ver apartado 5.1). No hay
+datos disponibles referentes al uso de olanzapina y carbamazepina como terapia conjunta, sin
+embargo se ha realizado un estudio farmacocinético (ver apartado 4.5).
+Síndrome neuroléptico maligno (SNM): el SNM es un trastorno que puede suponer riesgo vital,
+que se asocia con la medicación antipsicótica. En raras ocasiones se han recogido casos,
+identificados como SNM, en asociación con olanzapina. Las manifestaciones clínicas del SNM
+comprenden hipertermia, rigidez muscular, alteraciones de conciencia y signos de inestabilidad
+del sistema nervioso autónomo (pulso o presión arterial irregulares, taquicardia, diaforesis y
+trastornos del ritmo cardíaco). Entre los signos adicionales se observa un incremento en la creatin-
+fosfoquinasa, mioglobinuria (rabdomiólisis) e insuficiencia renal aguda. Si un paciente desarrolla
+signos y síntomas indicativos de SNM o presenta fiebre alta inexplicable sin manifestaciones
+clínicas adicionales de SNM, se deben suspender todos los medicamentos antipsicóticos, incluso
+la olanzapina.
+ La olanzapina debe ser administrada con precaución a los enfermos con antecedentes de
+convulsiones o que están sujetos a factores que puedan bajar el umbral convulsivo. Se ha descrito
+que en raras ocasiones aparecen convulsiones en este tipo de pacientes cuando se les trata con
+olanzapina. En la mayoría de estos casos existían antecedentes de convulsiones o factores de
+riesgo de convulsiones.
+Discinesia tardía: en estudios comparativos de un año de duración o menos, la olanzapina se
+asoció de forma estadísticamente significativa con una menor incidencia de discinesia relacionada
+con el tratamiento. Sin embargo, el riesgo de discinesia tardía aumenta con la exposición a largo
+plazo y, por tanto, si apareciesen signos o síntomas de discinesia tardía en un enfermo tratado con
+olanzapina, se debe considerar la reducción de la dosis o la suspensión de la medicación. Estos
+síntomas pueden empeorarse temporalmente o incluso aparecer después de la terminación del
+tratamiento.
+Teniendo en cuenta los efectos primarios de la olanzapina sobre el SNC, se recomienda prudencia
+cuando se combine este medicamento con otros de acción central o con alcohol. Debido a que
+muestra antagonismo dopaminérgico in vitro, la olanzapina puede antagonizar los efectos de los
+agonistas dopaminérgicos directos e indirectos.
+Durante los ensayos clínicos de olanzapina en pacientes de edad avanzada se observó hipotensión
+postural de forma infrecuente. Como con otros antipsicóticos, se recomienda medir la presión
+arterial periódicamente en pacientes mayores de 65 años.
+ En ensayos clínicos las prolongaciones clínicamente significativas del intervalo QTc (corrección
+de Fridericia del intervalo QT [QTcF]  500 milisegundos [msec] en cualquier momento posterior
+a la línea de base en pacientes con una situación basal de QTcF<500 msec) fueron poco
+frecuentes (1/1.000, <1/100) en pacientes tratados con olanzapina, no existiendo diferencias
+significativas en comparación con placebo en lo referente a eventos cardíacos asociados. . Sin
+embargo, como con otros antipsicóticos, se deben tomar precauciones cuando se prescriba
+olanzapina junto con medicamentos que se sabe aumentan el intervalo QTc, especialmente en
+pacientes de edad avanzada, en pacientes con síndrome QT congénito prolongado, insuficiencia
+cardiaca congestiva, hipertrofia cardiaca, hipocalemia o hipomagnesemia.
+ Muy raramente (<1/10.000), se ha notificado una asociación temporal del tratamiento con
+olanzapina con tromboembolismo venoso. No se ha establecido una relación causal entre el
+tratamiento con olanzapina y la aparición de tromboembolismo venoso. Sin embargo, ya que los
+pacientes con esquizofrenia presentan, a menudo, factores de riesgo adquiridos de
+tromboembolismo venoso se deben identificar todos los posibles factores de riesgo asociados por
+ejemplo, la inmovilización del paciente, y tomar medidas preventivas.
+ Advertencias sobre excipientes:
+ Este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa,
+insuficiencia de lactasa de Lapp o problemas de absorción de glucosa o galactosa no deben tomar
+este medicamento.
+4.5 Interacción con con otros medicamentos y otras formas de interacción
+ Se debe tener precaución en pacientes en tratamiento con medicamentos que pueden producir
+depresión del sistema nervioso central.
+Interacciones potenciales que afectan a olanzapina: ya que la olanzapina es metabolizada por el
+CYP1A2, las sustancias que específicamente puedan inducir o inhibir esta isoenzima pueden
+afectar la farmacocinética de la olanzapina.
+Inducción del CYP1A2: El tabaco y la carbamacepina pueden inducir el metabolismo de la
+olanzapina, lo que puede producir una reducción de las concentraciones de olanzapina. Tan solo
+se ha observado un incremento de leve a moderado en el aclaramiento de olanzapina. Las
+consecuencias clínicas parecen ser limitadas, pero se recomienda la monitorización y considerar,
+si fuera necesario, un incremento de la dosis de olanzapina. (ver apartado 4.2).
+ Inhibición del CYP1A2: Fluvoxamina, un inhibidor específico del CYP1A2, ha demostrado
+inhibir significativamente el metabolismo de la olanzapina. El incremento medio de la
+concentración máxima de olanzapina después de la administración de fluvoxamina fue del 54% en
+mujeres no fumadoras y del 77% en varones fumadores. El incremento medio del área bajo la
+curva de olanzapina fue del 52% y 108% respectivamente. Se debe considerar una dosis inicial de
+olanzapina inferior en pacientes en tratamiento con fluvoxamina o cualquier otro inhibidor del
+CYP1A2, tales como ciprofloxacino. Se debe considerar una reducción de la dosis de olanzapina
+si se inicia un tratamiento con un inhibidor del CYP1A2.
+Disminución de la biodisponibilidad: El carbón activo reduce la biodisponibilidad de la
+olanzapina oral de un 50 a un 60 % y se debe tomar al menos dos horas antes o después de la
+olanzapina.
+No se ha hallado un efecto significativo en la farmacocinética de la olanzapina con fluoxetina (un
+inhibidor del CYP2D6), dosis únicas de antiácidos (aluminio, magnesio) o cimetidina.
+Riesgo de que la olanzapina afecte a con otros medicamentos: la olanzapina puede antagonizar los
+efectos de los agonistas dopaminérgicos directos e indirectos.
+La olanzapina no inhibe los principales isoenzimas del CYP450 in vitro (e.j. 1A2, 2D6, 2C9,
+2C19, 3A4). De modo que no se espera ninguna interacción especial tal y como se ha comprobado
+en estudios in vivo donde no se encontró una inhibición del metabolismo de los siguientes
+principios activos: antidepresivos tricíclicos (metabolizados mayoritariamente por el CYP2D6),
+warfarina (CYP2C9), teofilina (CYP1A2) o diazepam (CYP3A4 y 2C19).
+La olanzapina no mostró interacción cuando se administró conjuntamente con litio o biperideno.
+La monitorización terapéutica de los niveles plasmáticos de valproato no indicó la necesidad de
+un ajuste de la dosis de valproato tras la introducción de olanzapina como tratamiento
+concomitante.
+ 4.6. Embarazo y lactancia
+ Embarazo: no hay ningún estudio adecuado y bien controlado en mujeres embarazadas. Se debe
+recomendar a las mujeres que notifiquen a su médico si se encuentran embarazadas o piensan
+quedarse embarazadas durante el tratamiento con olanzapina. De cualquier manera, como la
+experiencia humana es limitada, la olanzapina se debe usar en el embarazo sólo si los beneficios
+potenciales justifican el riesgo potencial para el feto.
+Muy escasamente, se han recibido comunicaciones espontáneas de temblor, hipertonía, letargo y
+somnolencia en lactantes cuyas madres habían usado olanzapina durante el tercer trimestre.
+Lactancia: en un estudio en mujeres sanas, durante la lactancia, olanzapina se excretó en la leche
+materna. La media de exposición en equilibrio (mg/kg) del lactante se estimó en un 1,8% de la
+dosis materna de olanzapina (mg/kg). Se debe desaconsejar la lactancia materna a las madres
+tratadas con olanzapina.
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas. Puesto que
+olanzapina puede causar somnolencia y mareos, los pacientes deben ser prevenidos sobre el uso
+de maquinaria y vehículos motorizados.
+ 4.8 Reacciones adversas
+ Las reacciones adversas muy frecuentes (1/10) asociadas al uso de olanzapina en ensayos
+clínicos fueron somnolencia y aumento de peso.
+En ensayos clínicos realizados en pacientes de edad avanzada con demencia, el tratamiento con
+olanzapina estuvo asociado con una mayor incidencia de muertes y reacciones adversas
+cerebrovasculares comparados con placebo (ver también la sección 4.4). Las reacciones adversas
+muy frecuentes (1/10) asociadas con el uso de olanzapina en este grupo de pacientes fueron
+trastornos de la marcha y caídas. Se observaron frecuentemente (1/100, <1/10) neumonía,
+aumento de la temperatura corporal, letargo, eritema, alucinaciones visuales e incontinencia
+urinaria.
+En los ensayos clínicos realizados en pacientes con psicosis inducida por fármacos (agonistas
+dopaminérgicos) asociada a la enfermedad de Parkinson, se ha notificado un empeoramiento de la
+sintomatología parkinsoniana y alucinaciones, muy frecuentemente, y con mayor frecuencia que
+con placebo.
+En un ensayo clínico realizado con pacientes con manía bipolar, la terapia combinada de
+valproato con olanzapina dio lugar a una incidencia de neutropenia de 4,1%; los niveles
+plasmáticos elevados de valproato podrían ser un factor potencialmente asociado. La olanzapina
+administrada con litio o valproato dio lugar a unos niveles aumentados (>10%) de temblor,
+sequedad de boca, aumento del apetito y aumento de peso. Los trastornos del lenguaje también
+fueron notificados frecuentemente (1/100, <1/10). Durante el tratamiento con olanzapina en
+combinación con litio o valproato ocurrió un incremento  7% del peso corporal en el 17,4% de
+los pacientes, desde el momento basal, durante la fase aguda del tratamiento (hasta 6 semanas).
+El tratamiento con olanzapina durante un largo periodo de tiempo (más de 12 meses) para la
+prevención de las recaídas en pacientes con trastorno bipolar se asoció a un incremento de  7%
+del peso, desde el valor basal, en el 39,9% de los pacientes.
+La siguiente tabla de reacciones adversas se ha realizado en base a los acontecimientos adversos
+notificados y a las pruebas complementarias de los ensayos clínicos.
+Trastornos de la sangre y del sistema linfático
+Frecuentes(1/100, <1/10): eosinofilia
+Trastornos del metabolismo y de la nutrición
+Muy frecuentes (1/10): aumento de peso
+Frecuentes(1/100, <1/10): aumento del apetito, niveles de glucosa elevados (ver nota 1),
+niveles de triglicéridos elevados.
+Trastornos del sistema nervioso
+Muy frecuentes (1/10): somnolencia,
+Frecuentes(1/100, <1/10): discinesia, acatisia, parkinsonismo, disquinesia. (Ver también nota
+2 a continuación).
+Trastornos cardiacos
+Poco frecuentes (1/1.000, <1/100): bradicardia con o sin hipotensión o síncope, prolongación
+del intervalo QT (ver también sección 4.4 Advertencias y precauciones especiales de empleo).
+Trastornos vasculares
+Frecuentes(1/100, <1/10): hipotensión ortostática.
+                                                                                                    MINISTERIO
+Trastornos gastrointestinales
+Frecuentes(1/100, <1/10): efectos anticolinérgicos transitorios leves, incluyendo estreñimiento
+y sequedad de boca.
+Trastornos hepatobiliares
+Frecuentes(1/100, <1/10): aumentos asintomáticos y transitorios de las transaminasas
+hepáticas (ALT, AST) especialmente al comienzo del tratamiento (ver también la sección 4.4.).
+Trastornos de la piel y tejido subcutáneo
+Poco frecuentes (1/1.000, <1/100): reacciones de fotosensibilidad.
+Trastornos generales y alteraciones en el lugar de administración
+Frecuentes(1/100, <1/10): astenia, edema.
+Pruebas complementarias
+Muy frecuentes (1/10): aumento de los niveles plasmáticos de prolactina, muy raramente
+asociados a manifestaciones clínicas (por ejemplo, ginecomastia, galactorrea y aumento del
+tamaño de las mamas). En la mayoría de los pacientes, los niveles volvieron a sus intervalos
+normales sin que fuese necesario suspender el tratamiento.
+Poco frecuentes (1/1.000, <1/100): niveles elevados de creatinfosfoquinasa.
+ 1 En ensayos clínicos con olanzapina en más de 5.000 pacientes sin ayunar que presentaban
+niveles basales de glucosa en sangre  7,8 mmol/l, la incidencia de niveles de glucosa en sangre
+11 mmol/l (indicadores de diabetes) fue del 1,0% en comparación con el 0,9% observado con
+placebo. La incidencia de niveles de glucosa en sangre  8.9 mmol/l pero  11 mmol/l
+(indicadores de hiperglucemia) fue del 2,0%, en comparación con el 1,6% observada con placebo.
+Se ha notificado hiperglucemia como un acontecimiento espontáneo en muy escasas ocasiones
+(<0,01%).
+2 En ensayos clínicos la incidencia de parkinsonismo y distonía en pacientes tratados con
+olanzapina fue numéricamente mayor pero sin diferencia estadísticamente significativa de la de
+placebo. Los pacientes tratados con olanzapina presentaron una menor incidencia de
+parkinsonismo, acatisia y distonía en comparación con dosis correspondientes de haloperidol. No
+se dispone de información detallada de antecedentes individuales sobre alteraciones del
+movimiento de tipo extrapiramidal, agudas y tardías. En la actualidad no se puede llegar a la
+conclusión de que olanzapina produzca menos discinesia tardía y/u otros síndromes
+extrapiramidales tardíos.
+La siguiente tabla de reacciones adversas se ha realizado en base a las comunicaciones
+espontáneas después de la comercialización.
+Trastornos de la sangre y del sistema linfático
+Raras (1/10.000, <1/1.000): leucopenia
+Muy raras (<1/10.000): trombocitopenia, neutropenia.
+Trastornos del sistema inmunológico
+Muy raras (<1/10.000): reacción alérgica (e.j. reacción anafilactoide, angioedema, prurito o
+urticaria.)
+Trastornos del metabolismo y de la nutrición
+Muy raras (<1/10.000): en muy raras ocasiones se ha notificado espontáneamente
+hiperglucemia y/o aparición o exacerbación de diabetes ocasionalmente asociada a cetoacidosis
+o coma, con algún desenlace fatal (ver también nota 1 antes mencionada y sección 4.4).
+Hipertrigliceridemia, hipercolesterolemia e hipotermia.
+ Trastornos del sistema nervioso
+Raras (1/10.000, <1/1.000): se ha informado de la aparición de convulsiones en pacientes
+tratados con olanzapina en raras ocasiones. En la mayoría de estos casos existían antecedentes
+de convulsiones o factores de riesgo de convulsiones.
+Muy raras (<1/10.000): se han recogido casos, identificados como Síndrome Neuroléptico
+Maligno (SNM), en asociación con olanzapina (ver también sección 4.4). Se han notificado,
+muy escasamente, parkinsonismo, distonía y discinesia tardía. Se han notificado, muy
+escasamente, síntomas agudos tales como sudoración, insomnio, temblor, ansiedad, nauseas o
+vómitos al interrumpir el tratamiento con olanzapina repentinamente.
+Trastornos cardíacos
+Muy raras (<1/10.000): prolongación del intervalo QTc, taquicardia ventricular/fibrilación y
+muerte súbita (ver también sección 4.4 Advertencias y precauciones especiales de empleo).
+ Trastornos vasculares
+Muy raras (<1/10.000): Tromboembolismo (incluyendo embolismo pulmonar y trombosis
+venosa profunda)
+Trastornos gastrointestinales
+Muy raras (<1/10.000): pancreatitis.
+ Trastornos hepatobiliares
+raras (1/10.000, <1/1.000): hepatitis (incluyendo daño hepatocelular, colestático o mixto)
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Muy raras (<1/10.000): rabdomioólisis
+Trastornos de la piel y del tejido subcutáneo
+Raras (1/10.000, <1/1.000): rash
+Trastornos renales y urinarios
+Muy raras (<1/10.000): Dificultad para iniciar la micción.
+Trastornos del aparato reproductor y de la mama
+Muy raras (<1/10.000): priapismo
+Pruebas complementarias
+Aumento de las transaminasas.
+Muy raras (<1/10.000): aumento de la fosfatasa alcalina, aumento de la bilirrubina total.
+ 4.9 Sobredosis
+ Signos y síntomas
+Entre los síntomas muy comunes de la sobredosis (con una incidencia > 10%) se encuentran:
+taquicardia, agitación / agresividad, disartria, síntomas extrapiramidales diversos y reducción del
+nivel de conciencia desde la sedación hasta el coma.
+Otras consecuencias de la sobredosis médicamente significativas son: delirium, convulsiones,
+coma, posible síndrome neuroléptico maligno, depresión respiratoria, aspiración, hipertensión o
+hipotensión, arritmias cardíacas (< del 2% de los casos de sobredosis) y parada cardiopulmonar.
+Se han notificado casos mortales en sobredosis agudas con cantidades bajas, por ejemplo 450 mg,
+aunque también se han notificado casos de supervivencia tras sobredosis agudas de 1.500 mg.
+Tratamiento de la sobredosis
+No hay un antídoto específico para olanzapina. No se recomienda la inducción de la emesis. Para
+el tratamiento de la sobredosis se pueden utilizar procedimientos estándar (por ejemplo lavado
+gástrico, administración de carbón activo). La administración concomitante de carbón activo
+reduce la biodisponibilidad oral de olanzapina en un 50 a 60 %.
+Se debe instaurar un tratamiento sintomático y monitorizar las funciones vitales según la situación
+clínica, con tratamiento de la hipotensión y el colapso circulatorio además de soporte de la
+función respiratoria. No se debe utilizar adrenalina, dopamina u otros agentes simpaticomiméticos
+con actividad agonista beta, puesto que la estimulación beta podría empeorar la hipotensión. Es
+necesario hacer una monitorización cardiovascular para detectar posibles arritmias. Es necesario
+que el paciente continúe con una estrecha supervisión y monitorización clínica hasta su
+recuperación.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1 Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antipsicótico, código ATC: N05A H03.
+La olanzapina es un agente antipsicótico, antimaniaco y estabilizador del ánimo que ha
+demostrado un amplio perfil farmacológico a través de un número de sistemas receptores.
+En estudios preclínicos, la olanzapina mostró una gama de afinidades (Ki; < 100 nM) por los
+receptores de serotonina 5HT2A/2C, 5HT3, 5HT6; receptores de dopamina D1, D2, D3, D4 y D5;
+receptores muscarínicos colinérgicos m1-m5; receptores 1 adrenérgicos y receptores de
+histamina H1. Los estudios de comportamiento con olanzapina en animales indicaron un
+antagonismo 5HT, colinérgico y dopaminérgico concordante con el perfil de unión al receptor.
+La olanzapina demostró una afinidad in vitro mayor sobre los receptores de serotonina 5HT2 que
+en los receptores de dopamina D2 y mayor actividad en vivo en los modelos de 5HT2 que en los
+de D2. Estudios electrofisiológicos demostraron que la olanzapina reducía de forma selectiva la
+actividad de las neuronas dopaminérgicas mesolímbicas (A10), a la vez que mostró escaso efecto
+en las vías estriadas (A9) relacionadas con la función motora. La olanzapina redujo la respuesta
+de evitación condicionada, un test indicativo de la actividad antipsicótica, a dosis inferiores a las
+que producen catalepsia, que es un efecto indicativo de reacciones adversas motoras. Al contrario
+que algunos agentes antipsicóticos, la olanzapina aumenta la respuesta en un test ""ansiolítico"".
+En un estudio de tomografía por emisión de positrones (TEP) de dosis única (10 mg) en
+voluntarios sanos, la olanzapina produjo una ocupación de los receptores 5 HT2A mayor que la de
+los receptores de dopamina D2. Además, un estudio de imagen por SPECT en pacientes
+esquizofrénicos reveló que los pacientes con respuesta a olanzapina presentaban una ocupación de
+receptores D2 en estriado menor que los pacientes con respuesta a algunos antipsicóticos y a
+risperidona, comparable a los pacientes con respuesta a clozapina.
+Olanzapina se asoció con mayores mejorías de forma estadísticamente significativa, tanto en
+síntomas positivos como en negativos, en los dos ensayos controlados con placebo y en 2 de tres
+ensayos controlados con un comparador activo en más de 2.900 pacientes esquizofrénicos que
+presentaban tanto síntomas positivos como negativos.
+ En un estudio comparativo, doble ciego, multinacional, de esquizofrenia, trastorno
+esquizoafectivo y trastornos relacionados que incluía 1.481 pacientes con diferentes grados de
+síntomas depresivos asociados (puntuación media basal en la escala de Montgomery-Asberg de
+valoración de la depresión de 16,6), un análisis secundario prospectivo del cambio en la
+puntuación desde la basal hasta el punto final en dicha escala, demostró una mejoría
+estadísticamente significativa (p=0,001) que favorecía a olanzapina (-6,0) en comparación con
+haloperidol (-3,1).
+Olanzapina demostró una eficacia superior a placebo y valproato semisódico a la hora de reducir
+los síntomas maníacos más allá de las tres semanas, en pacientes con episodio maníaco o mixto de
+trastorno bipolar. Olanzapina también demostró unos resultados de eficacia comparables a
+haloperidol en términos de la proporción de pacientes en remisión de los síntomas de manía y
+depresión a las 6 y 12 semanas. En un estudio de tratamiento de combinación con pacientes
+tratados con litio o valproato durante al menos dos semanas, la adición de 10 mg de olanzapina
+(tratamiento en combinación con litio o valproato) dio lugar, después de 6 semanas, a una mayor
+reducción de los síntomas de manía que litio o valproato en monoterapia.
+En un estudio de prevención de recaídas de 12 meses de duración en pacientes con episodio
+maniaco que alcanzaron la remisión con olanzapina y después fueron aleatorizados a olanzapina o
+placebo, la olanzapina demostró una superioridad estadísticamente significativa sobre placebo en
+el criterio principal de valoración de la recaída en el trastorno bipolar. La olanzapina también
+mostró una ventaja estadísticamente significativa frente a placebo en lo referente tanto a la recaída
+al episodio maníaco como a la recaída al episodio depresivo.
+En un segundo estudio de prevención de recaídas de 12 meses de duración en pacientes con
+episodio maniaco que alcanzaron la remisión con una combinación de olanzapina y litio y fueron
+luego aleatorizados a olanzapina o a litio en monoterapia, la olanzapina no fue estadísticamente
+inferior a litio en el criterio principal de valoración de la recaída (olanzapina 30,0 %, litio 38,3%;
+p = 0,055).
+En un estudio de prevención de recaídas con tratamiento de combinación de 18 meses de duración
+en pacientes con episodio maníaco o mixto estabilizados con olanzapina y estabilizadores del
+ánimo (litio o valproato), el tratamiento de combinación de larga duración con olanzapina y litio o
+valproato no fue significativamente superior estadísticamente a litio o valproato en monoterapia
+atendiendo al criterio sindrómico de retraso de la recaída en el trastorno bipolar.
+ 5.2 Propiedades farmacocinéticas
+ La olanzapina se absorbe bien después de su administración oral; la concentración plasmática
+máxima se alcanza en un plazo de 5 a 8 horas. Su absorción no se modifica con la ingesta. No se
+ha determinado la biodisponibilidad oral absoluta relacionada con la administración intravenosa.
+La olanzapina se metaboliza en el hígado a través de reacciones de conjugación y oxidación. El
+principal metabolito circulante es el 10-N-glucurónido, que no traspasa la barrera
+hematoencefálica. Los citocromos P450-CYP1A2 y P450-CYP2D6 contribuyen a la síntesis de
+los metabolitos N-desmetilo y 2-hidroximetilo ambos mostraron una actividad farmacológica in
+vivo significativamente menor que olanzapina en estudios en animales. La actividad
+farmacológica predominante deriva del fármaco progenitor olanzapina. Después de la
+administración oral, la vida media terminal de eliminación media de olanzapina en voluntarios
+sanos varió en función de la edad y el sexo.
+En sujetos sanos de edad avanzada (65 o más años) en comparación con sujetos más jóvenes la
+media de la semivida de eliminación estaba prolongada (51,8 frente a 33,8 horas) y el
+aclaramiento estaba reducido (17,5 frente a 18,2 litros/hora). La variabilidad farmacocinética
+observada en los sujetos de edad avanzada está comprendida en el rango de los no ancianos. En
+44 pacientes con esquizofrenia, mayores de 65 años, la dosis de 5 a 20 mg/día no se asoció con
+ningún perfil diferenciado de reacciones adversas.
+En mujeres, comparando con los resultados en hombres, la media de la semivida de eliminación
+estaba prolongada en cierta medida (36,7 frente a 32,3 horas) y el aclaramiento se redujo (18,9
+frente a 27,3 l/hora). Sin embargo, la olanzapina (5-20 mg) presentó un perfil de seguridad
+comparable tanto en mujeres (n=467) como en hombres (n=869).
+En pacientes con deterioro renal (aclaramiento de creatinina < 10 ml/min) comparados con
+pacientes sanos, no hubo diferencia significativa ni en la vida media de eliminación (37,7 frente a
+32,4 horas) ni en el aclaramiento (21,2 frente a 25,0 l/hora). Un estudio de balance de masas ha
+demostrado que aproximadamente el 57 % de la olanzapina radiactiva se elimina en la orina,
+principalmente en forma de metabolitos.
+En fumadores con ligera disfunción hepática, se prolongó la semivida de eliminación (39,3 horas)
+y se redujo el aclaramiento (18,0 l/hora) de manera similar a pacientes sanos no fumadores (48,8 h
+y 14,1 l/hora, respectivamente).
+En sujetos no fumadores, comparados con sujetos fumadores (mujeres y hombres) estaba
+prolongada la media de la semivida de eliminación (38,6 frente a 30,4 horas) y reducido el
+aclaramiento (18,6 frente a 27,7 litros /hora).
+El aclaramiento plasmático de la olanzapina es menor en los ancianos que en los sujetos jóvenes,
+en las mujeres que en los varones y en los no fumadores que en los fumadores. Sin embargo, el
+impacto de la edad, el sexo o el tabaco sobre el aclaramiento y la semivida de la olanzapina es
+pequeño en comparación con la variabilidad global entre los diferentes sujetos.
+En un estudio realizado con sujetos caucasianos, japoneses y chinos, no se encontraron diferencias
+entre los parámetros farmacocinéticos de las tres poblaciones.
+La unión de la olanzapina a las proteínas plasmáticas representa aproximadamente un 93 %,
+dentro del intervalo de concentración de 7 hasta aproximadamente 1.000 ng/ml. La olanzapina se
+une preferentemente a la albúmina y a la 1-glucoproteína ácida.
+ 5.3 Datos preclínicos sobre seguridad
+ Toxicidad aguda (dosis únicas)
+Los signos de la toxicidad oral en los roedores son característicos de los compuestos neurolépticos
+potentes: hipoactividad, coma, temblores, convulsiones clónicas, salivación y reducción del
+aumento de peso. La mediana de las dosis letales fue aproximadamente 210 mg/kg (ratones) y 175
+mg/kg (ratas). Los perros toleraron una dosis oral única de hasta 100 mg/kg sin sufrir mortalidad.
+Los signos clínicos consistieron en sedación, ataxia, temblores, taquicardia, aumento del trabajo
+respiratorio, miosis y anorexia. En los monos, las dosis orales únicas de hasta 100 mg/kg causaron
+un estado de postración y las dosis mayores, de semi-inconsciencia.
+Toxicidad de las dosis múltiples
+Durante los estudios de hasta 3 meses de duración realizados en ratones y de hasta 1 año en ratas
+y perros, los efectos predominantes consistieron en depresión del SNC y efectos anticolinérgicos
+así como alteraciones hematológicas periféricas. Los animales desarrollaron tolerancia a la
+depresión del SNC. Las dosis altas redujeron los parámetros del crecimiento. Entre los efectos
+reversibles que están en consonancia con el aumento de la prolactina en la rata se encontraban la
+disminución del peso de los ovarios y del útero y los cambios morfológicos en el epitelio de la
+vagina y en la glándula mamaria.
+Toxicidad hematológica: en todas las especies se observaron cambios en los parámetros
+hematológicos, incluidas una reducción dosis-dependiente de los leucocitos circulantes en ratones,
+y una reducción inespecífica en los leucocitos circulantes de la rata. Sin embargo, no se hallaron
+signos de citotoxicidad medular. Algunos perros tratados con 8 ó 10 mg/kg/día experimentaron
+neutropenia, trombocitopenia o anemia reversibles (la exposición total a olanzapina (AUC) es de
+12 a 15 veces superior que la de un hombre que reciba una dosis de 12 mg). En los perros con
+citopenia no se advirtieron efectos adversos sobre las células progenitoras o en estado de
+proliferación de la médula ósea.
+Toxicidad sobre la función reproductora
+La olanzapina no ha presentado efecto teratógeno. El estado de sedación modificó la conducta de
+apareamiento en las ratas macho. Los ciclos menstruales en la rata se alteraron con dosis de 1,1
+mg/kg (3 veces la dosis máxima en humanos) y los parámetros de la función reproductora, con
+dosis de 3 mg/kg (9 veces la dosis máxima en humanos). La descendencia de las ratas tratadas con
+olanzapina mostró un retraso en el desarrollo fetal así como una disminución transitoria en el
+grado de actividad.
+Mutagenicidad
+La olanzapina no ha presentado actividad mutagénica ni tampoco actividad clastogénica en una
+amplia serie de pruebas normalizadas, entre otras, ensayos de mutación bacteriana y ensayos in
+vitro e in vivo con mamíferos.
+Carcinogénesis
+Olanzapina no es carcinogénica de acuerdo con los estudios llevados a cabo en ratas y ratones.
+ "
+6. DATOS FARMACÉUTICOS
+	6.1 Lista de excipientes
+ Celulosa microcristalina (E-460), lactosa monohidrato, crospovidona y estearato de magnesio.
+ 6.2. Incompatibilidades
+ No aplicable.
+ 6.3. Período de validez
+ 30 meses
+ 6.4     Precauciones especiales de conservación
+ No requiere condiciones especiales de conservación
+ 6.5     Naturaleza y contenido del envase
+ Los comprimidos se acondicionan en blisters de Aluminio / Aluminio
+olanzapina cinfa 2,5 mg: 28 comprimidos.
+olanzapina cinfa 5 mg: 28 comprimidos.
+olanzapina cinfa 7,5 mg: 56 comprimidos
+olanzapina cinfa 10 mg: 28 y 56 comprimidos.
+ Puede que solamente estén comercializados algunos tamaños de envase.
+ 6.6.    Precauciones especiales de eliminación
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en
+contacto con él, se realizará de acuerdo con las normativas locales.
+ 
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACION
+	Laboratorios Cinfa, S.A.
+Olaz-Chipi, 10
+Polígono Areta
+31620-HUARTE-PAMPLONA (Navarra) ­ España
+ 
+8.      NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+9.    FECHA DE LA PRIMERA AUTORIZACIÓN O DE LA RENOVACIÓN DE LA
+	10. FECHA DE LA REVISIÓN DEL TEXTO
+
+	Prospectos de medicamentos.

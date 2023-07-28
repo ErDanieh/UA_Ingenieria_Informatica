@@ -1,0 +1,472 @@
+ECTREN 20 mg comprimidos recubiertos ,28 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1. NOMBRE DEL MEDICAMENTO
+	ECTREN® 5 mg,
+ECTREN® 20 mg
+ECTREN® 40 mg
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Comprimidos con 5, 20 y 40 mg de quinapril (como hidrocloruro).
+Para lista completa de excipientes, ver sección 6.1
+ 
+3. FORMA FARMACÉUTICA
+	Comprimidos recubiertos.
+ 
+
+
+4. DATOS CLÍNICOS
+	4.1. Indicaciones terapéuticas
+ Hipertensión: ECTREN® está indicado para el tratamiento de la hipertensión arterial esencial.
+ECTREN® es efectivo tanto en monoterapia como asociado a diuréticos o beta-bloqueantes en
+pacientes con hipertensión.
+ Insuficiencia cardíaca congestiva: ECTREN® es efectivo en el tratamiento de la insuficiencia
+cardíaca congestiva cuando se administra asociado a un diurético y/o a un glucósido cardíaco.
+ 4.2. Posología y forma de administración
+ ECTREN® puede ser administrado durante o después de las comidas, ya que no afectan a su
+absorción.
+ Hipertensión
+ Monoterapia: La dosis inicial recomendada de ECTREN® en pacientes que no toman diuréticos
+es de 10 mg una vez al día. Dependiendo de la respuesta clínica, la pauta puede ser modificada
+(duplicando la dosis) hasta una dosis de mantenimiento de 20 a 40 mg/día administrados como
+dosis única o divididos en dos tomas. En general, el ajuste de dosis debe de realizarse en
+intervalos de 4 semanas. En la mayoría de los pacientes en régimen de una sola dosis diaria se
+mantiene el control de la tensión arterial a largo plazo. Han sido tratados pacientes con dosis de
+ECTREN® de hasta 80 mg/día.
+ Tratamiento concomitante con diuréticos: En los pacientes que al mismo tiempo reciban diuréticos, la dosis inicial recomendada de ECTREN® es de 5 mg siendo
+ modificada (según se describe anteriormente) hasta conseguir la respuesta óptima (ver apartado 4.5).
+ Insuficiencia cardíaca congestiva
+ ECTREN® está indicado como terapia coadyuvante asociada a diuréticos y/o glicósidos cardíacos.
+La dosis inicial recomendada en pacientes con insuficiencia cardiaca congestiva es 5 mg una vez
+al día,; a continuación, el paciente deberá ser cuidadosamente monitorizado para descartar
+hipotensión sintomática. Si la dosis inicial de ECTREN® es bien tolerada, los pacientes podrán ser
+titulados hasta la dosis efectiva, generalmente de 20 a 40 mg/día administrados como dosis única
+o divididos en dos dosis, asociado a la terapia concomitante.
+ Disfunción renal: Datos farmacocinéticos indican que la eliminación de quinapril es dependiente
+del nivel de función renal. La dosis inicial recomendada de ECTREN® es 5 mg en pacientes con
+aclaramiento de creatinina superior a 30 ml/min y 2,5 mg en pacientes con aclaramiento de
+creatinina inferior a 30 ml/min. Si la dosis inicial es bien tolerada, ECTREN® puede ser
+administrado al día siguiente como dosis única o dividido en dos tomas. En la ausencia de
+hipotensión excesiva o deterioro significativo de la función renal, la dosis puede ser aumentada en
+intervalos semanales en base a la respuesta clínica y hemodinámica.
+Los datos farmacocinéticos indican que la vida media aparente de eliminación del quinaprilato
+aumenta a medida que desciende el aclaramiento renal de creatinina. El plan de dosificación
+inicial obtenido de estudios clínicos y farmacocinéticos en pacientes con insuficiencia renal es el
+siguiente:
+                         Aclaramiento de Creatinina (ml/min)                  Dosis inicial máxima
+                  * No hay suficiente experiencia por el momento para permitir recomendaciones
+de dosis específicas para estos pacientes.
+ 4.3. Contraindicaciones
+ ECTREN® está contraindicado en pacientes con hipersensibilidad al producto o a cualquiera de
+sus componentes y en pacientes con historia de angioedema relacionado con el consumo previo de
+otro inhibidor de la ECA (enzima conversora de angiotensina). No se ha evaluado la sensibilidad
+cruzada con otros inhibidores de la ECA.
+ 4.4. Advertencias y precauciones especiales de empleo
+ Angioedema de cabeza y cuello: Se han descrito casos de angioedema en pacientes tratados con
+inhibidores de la ECA, incluido un 0,1% de los pacientes tratados con quinapril. Si durante el
+curso del tratamiento aparece estridor laríngeo o edema facial, lingual o de glotis, la
+administración de quinapril deberá ser discontinuada inmediatamente, el paciente será tratado
+según criterio médico y observado hasta que desaparezca la hinchazón. En los casos en los que el
+edema predomine en cara y labios la situación se resuelve generalmente sin tratamiento, no
+obstante el uso de antihistamínicos puede ser beneficioso para la remisión de la sintomatología.
+Sin embargo la aparición de angioedema en la zona laríngea puede ser fatal. Cuando la zona
+afectada sea potencialmente crítica para el flujo aéreo (lengua, glotis o laringe), se deberá
+administrar rápidamente el tratamiento adecuado (ej. adrenalina subcutánea al 1:1000 (0.3 a 0.5
+ml ).
+ Se ha comunicado una mayor incidencia de angioedema en los pacientes de raza negra que recibieron
+tratamiento con un inhibidor de la ECA, que en los de otras razas. Debe hacerse notar que en los ensayos
+                                                                                                            MINISTERIO
+clínicos controlados, los inhibidores de la ECA tuvieron menor efecto sobre la tensión sanguínea en los
+pacientes de raza negra. Se ha calculado la incidencia de angioedema en pacientes de distintas razas en dos
+grandes estudios clínicos abiertos que evaluaron la eficacia de quinapril en el tratamiento de la hipertensión.
+En un estudio se evaluaron 1656 pacientes de raza negra y 10583 de otras razas, la incidencia de
+angioedema, independientemente de la asociación con el tratamiento con quinapril fue del 0,3% en
+pacientes de raza negra y del 0,39% en los de otras razas. En el otro estudio (1443 de raza negra y 9300 de
+otras razas), la incidencia de angioedema fue del 0,55% en los de raza negra y del 0,17% en los de otras
+razas.
+ Angioedema Intestinal: Se han descrito casos de angioedema intestinal en pacientes tratados con
+inhibidores de la ECA. Estos pacientes presentaron dolor abdominal (con o sin nauseas o
+vómitos); En algunos casos no había antecedentes de angioedema facial y los niveles de esterasa
+C-1 eran normales. El angioedema se diagnostico por procedimientos que incluía escáner o
+ecografía abdominal, o durante la intervención quirúrgica y los síntomas desaparecieron tras la
+interrupción del tratamiento con el inhibidor de la ECA. El angioedema intestinal debe incluirse
+en el diagnostico diferencial de pacientes tratados con inhibidores de la ECA que presenten dolor
+abdominal.
+ En pacientes con historia de angioedema, no relacionado con la terapia con inhibidores de la ECA, el riesgo
+de angioedema puede aumentar al administrarse un inhibidor de la ECA.
+ Reacciones anafilácticas:
+ Desensibilización: Los pacientes en tratamiento con inhibidores de la ECA presentan reacciones
+anafilácticas potencialmente fatales durante tratamiento desensibilizador con veneno de
+hymenoptera. En los mismos pacientes, estas reacciones se han evitado cuando los inhibidores de
+la ECA fueron discontinuados temporalmente, pero reaparecieron tras su readministración
+accidental.
+Aféresis LDL: Se han comunicado reacciones anafilactoides en los pacientes sometidos a aféresis
+de lipoproteínas de baja densidad por absorción con dextran-sulfato, que recibieron tratamiento
+concomitante con un inhibidor de la ECA.
+Hemodiálisis: Evidencias clínicas han demostrado que pacientes hemodializados con membranas
+de alto flujo (como membranas de poliacrilonitrilo) pueden presentar reacciones anafilácticas
+asociadas al tratamiento con inhibidores de la ECA. Esta combinación debe ser evitada, ya sea
+utilizando otros antihipertensivos u otras membranas de hemodiálisis.
+ Hipotensión: Raramente se ha observado hipotensión sintomática en pacientes con hipertensión
+no complicada tratados con quinapril, siendo una consecuencia posible en el uso de tratamientos
+con inhibidores de la ECA en pacientes con depleción salina, tal y como ocurre en los tratados
+previamente con diuréticos, los que realizan restricción salina, o en diálisis.
+ En pacientes con insuficiencia cardíaca congestiva, los cuales tienen riesgo de hipotensión
+excesiva, el tratamiento con quinapril debe iniciarse a la dosis recomendada bajo estrecha
+supervisión médica; estos pacientes deben de ser seguidos de forma cuidadosa durante las dos
+primeras semanas de tratamiento y siempre que se aumente la dosis de quinapril.
+ Si apareciera hipotensión sintomática el paciente se colocará en posición supina, y si es necesario recibirá
+una infusión salina intravenosa. Una respuesta hipotensora excesiva pero transitoria no es una
+contraindicación para continuar el tratamiento con ECTREN®, no obstante se valorará la disminución de la
+dosis o la eliminación de la medicación concomitante si fuera el caso.
+                                                                                                                   MINISTERIO
+Los pacientes en tratamiento con un diurético pueden presentar hipotensión sintomática al recibir
+quinapril, por lo cual es recomendable discontinuar el diurético varios días antes de la primera
+toma ECTREN ®. Si la tensión arterial no se controlara solo con quinapril, debe reintroducirse el
+diurético. Si no es posible retirar el diurético, empezar el tratamiento con dosis bajas de
+quinapril.(ver apartado 4.5)
+ Neutropenia/Agranulocitosis: Los inhibidores de la ECA raramente se han asociado con
+agranulocitosis y depresión de la médula ósea en pacientes con hipertensión no complicada,
+siendo más frecuente en pacientes con insuficiencia renal, especialmente si se asocia enfermedad
+del colágeno vascular. Raramente se ha descrito agranulocitosis durante tratamiento con
+quinapril. Tal y como ocurre con otros inhibidores de la ECA, en los pacientes con enfermedad
+del colágeno y/o insuficiencia renal se deberá considerar la monitorización de leucocitos
+plasmáticos.
+ Morbilidad y mortalidad fetal/neonatal: Ver sección 4.6..
+ Empleo en pediatría: La seguridad y eficacia de quinapril en niños no ha sido establecida.
+ Empleo en geriatría: La edad sola no parece afectar a la eficacia o perfil de seguridad del
+quinapril. Por ello, la dosis inicial recomendada de quinapril en pacientes ancianos es de 10 mg
+administrados una vez al día valorando alcanzar la respuesta óptima.
+ Los pacientes ancianos presentan un aumento en el área bajo la curva de concentración
+plasmática/tiempo (AUC) y en las concentraciones máximas para quinaprilato en comparación
+con los valores obtenidos en pacientes más jóvenes; este hecho parece estar relacionado con una
+disminución de la función renal, más que a la edad. En estudios controlados y no controlados,
+donde el 21% de pacientes tenía edad  65 años, no se observaron diferencias globales de eficacia
+o seguridad entre estos pacientes y los más jóvenes. De todas formas, no puede descartarse la
+mayor sensibilidad de algunos individuos ancianos.
+ Precauciones Generales
+ Función Renal Deteriorada:
+Como consecuencia de la inhibición del sistema renina-angiotensina, pueden esperarse cambios
+en la función renal en individuos susceptibles. En pacientes con insuficiencia cardíaca severa, en
+los cuales la función renal puede depender de la actividad del sistema renina-angiotensina, el
+tratamiento con inhibidores de la ECA, incluyendo quinapril, puede estar asociado con oliguria
+y/o azotemia progresiva y ocasionalmente con fracaso renal agudo y/o muerte.
+ La vida media del quinaprilato se prolonga a medida que disminuye el aclaramiento de creatinina. En
+pacientes con aclaramiento de creatinina < 60 ml/min se deberá empezar la terapia a las dosis diarias
+recomendadas siendo titulados con posterioridad según la respuesta terapeútica (ver apartado 4.2). La
+función renal se monitorizará estrechamente, a pesar de que los estudios iniciales en este sentido no indican
+que quinapril produzca un mayor deterioro en la función renal de estos pacientes.
+ En estudios clínicos realizados en pacientes hipertensos con estenosis de la arteria renal uni o bilateral y
+tratados con inhibidores de la ECA, se ha observado incremento sérico del nitrógeno uréico y creatinina,
+siendo casi siempre reversibles a la discontinuación del tratamiento inhibidor de la ECA y/o diurético. En
+tales pacientes, la función renal debería ser monitorizada durante las primeras semanas de tratamiento.
+                                                                                                                 MINISTERIO
+Algunos pacientes hipertensos o con insuficiencia cardíaca sin aparente enfermedad vascular renal
+previa han presentado incrementos leves y transitorios de la urea y creatinina sérica,
+especialmente cuando se administra quinapril concomitantemente con un diurético. Este hecho
+parece ocurrir con más preferencia en pacientes con deterioro preexistente de la función renal.
+Puede ser necesario reducir o discontinuar la asociación con diuréticos y/o quinapril.
+ Función hepática alterada: La combinación de quinapril con un diurético debe utilizarse con
+precaución en los pacientes con insuficiencia hepática o enfermedad hepática progresiva, ya que
+pequeñas alteraciones del balance de líquidos y electrolitos pueden precipitar un coma hepático.
+Además, como el metabolismo de quinapril a quinaprilato depende normalmente de las esterasas
+hepáticas, las concentraciones de quinaprilato se encuentran reducidas en los pacientes con
+cirrosis alcohólica debido a la disminución de la desesterificación de quinapril.
+ Hipoglucemia y diabetes: Los inhibidores de la ECA han sido asociados con hipoglucemia en
+pacientes diabéticos tratados con insulina o hipoglucemiantes orales, por tanto puede ser necesario
+un estrecho seguimiento de los pacientes diabéticos.
+ Hiperkaliemia y diuréticos ahorradores de K+: Tal y como ocurre con otros inhibidores de la
+ECA, los pacientes que reciben quinapril en monoterapia pueden presentar elevaciones de los
+niveles séricos de potasio. Cuando se administran conjuntamente, quinapril puede reducir la
+hipokalemia inducida por los diuréticos tiazídicos. ECTREN ® no ha sido estudiado en tratamiento
+concomitante con diuréticos ahorradores de potasio. Debido al riesgo teórico de potenciales
+aumentos de potasio en suero, se advierte que si está indicada tal combinación, se inicie con
+precaución y se controlen estrechamente los niveles de potasio en suero de los pacientes (ver
+Hipotensión anteriormente y la sección 4.5).
+ Tos: Se ha comunicado la aparición de tos asociada al uso de inhibidores de la ECA, incluyendo
+quinapril. Típicamente, esta tos es no productiva, persistente y desaparece tras la interrupción del
+tratamiento. La tos inducida por los inhibidores de la ECA debe considerarse parte del diagnóstico
+diferencial de la tos.
+ Cirugía/Anestesia: Se tendrá precaución cuando se induzca anestesia general o se realice cirugía
+mayor, puesto que los inhibidores de la ECA muestran un bloqueo de la formación de la
+angiotensina II secundaria a la liberación compensadora de renina, creando una hipotensión que
+puede ser corregida mediante expansión de volumen plasmático.
+ Este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, de
+insuficiencia de lactasa de Lapp (insuficiencia observada en ciertas poblaciones de Laponia) o
+problemas de absorción de glucosa o galactosa no deben tomar este medicamento.
+ 4.5. Interacción con con otros medicamentos y otras formas de interacción
+ Tetraciclinas y otros fármacos que interaccionan con el magnesio: La administración
+concomitante de tetraciclina con ECTREN ® reduce la absorción gastrointestinal de tetraciclina en
+un 28 a 37 %. Esto es debido a la presencia de carbonato de magnesio como excipiente en la
+formulación del quinapril. Esta interacción se tomará en cuenta cuando se prescriban ECTREN ®
+y tetraciclinas conjuntamente.
+ Litio: Se han observado incrementos en la litemia y síntomas de intoxicación por litio en
+pacientes que reciben concomitantemente litio con inhibidores de la ECA debido a la pérdida de
+sodio que estos agentes producen. Estas drogas deberán ser coadministradas con precaución y se
+                                                                                                        MINISTERIO
+recomienda monitorizar frecuentemente los niveles séricos de litio. Si también se utiliza un
+diurético los riesgos de toxicidad por litio pueden verse incrementados.
+ Otros agentes: No se han detectado interacciones farmacocinéticas importantes cuando se
+administra quinapril concomitantemente con propranolol, hidroclorotiazida, digoxina o
+cimetidina.
+ El efecto anticoagulante de una dosis única de warfarina (medida por el tiempo de protrombina)
+no resultó significativamente alterado por la administración conjunta de quinapril dos veces al día.
+ La administración conjunta de dosis múltiples de 10 mg de atorvastatina junto con 80 mg de
+quinapril no produjo cambios significativos en los parámetros farmacocinéticos en el estado
+estacionario de atorvastatina.
+ Terapia diurética concomitante: Tal y como ocurre con otros inhibidores de la ECA pacientes
+en tratamiento con diuréticos, especialmente cuando la terapia diurética ha sido instaurada
+recientemente, pueden experimentar una reducción de la tensión arterial excesiva al iniciar la
+terapia con quinapril. Los efectos hipotensores tras la primera dosis de quinapril pueden ser
+minimizados al discontinuar el tratamiento con diuréticos unos días antes de iniciar la terapia con
+quinapril. Si no es posible discontinuar el diurético, la dosis inicial de quinapril deberá ser
+reducida. En los pacientes en los que se mantiene el tratamiento diurético, se deberá controlar al
+paciente durante dos horas tras la dosis inicial de quinapril (ver secciones 4.2 y 4.4).
+ Agentes que incrementan el potasio sérico: Quinapril es un inhibidor del enzima conversor de
+angiotensina capaz de reducir los niveles de aldosterona, que a su vez, puede ocasionar retención
+de potasio. Por tanto, el tratamiento concomitante de quinapril y diuréticos ahorradores de potasio
+(espironolactona, triamterene, amiloride), o suplementos de potasio o derivados de la sal que
+contienen potasio, deberá utilizarse con precaución, monitorizando de forma apropiada los niveles
+séricos de potasio. (ver apartado 4.4)
+ Insulina e hipoglucemiantes orales: Su administración concomitante con inhibidores de la ECA en
+ pacientes diabéticos se ha asociado con hipoglucemia. (ver apartado 4.4)
+ 4.6. Embarazo y lactancia
+ Embarazo:
+Los inhibidores de la ECA pueden provocar morbilidad y mortalidad neonatal cuando son
+administrados a mujeres embarazadas. Antes de utilizar quinapril durante el embarazo, deben
+considerarse los posibles efectos adversos para el feto. Cuando se detecte un embarazo, debe
+interrumpirse el tratamiento con quinapril lo antes posible.
+ La utilización de inhibidores de la ECA en el segundo y tercer trimestre del embarazo se ha asociado con
+daño fetal y neonatal, que incluye hipotensión, hipoplasia craneal, fallo renal y/o muerte del recién nacido.
+También se ha descrito oligohidrámnios posiblemente debido a disminución de la función renal en el feto
+asociado a contracturas de extremidades inferiores, deformidades craneo-faciales, desarrollo hipoplásico del
+pulmón y retraso en el crecimiento intrauterino. Aunque estos efectos adversos no parecen ser el resultado
+de la exposición limitada al primer trimestre, las madres cuyos embriones y fetos hayan sido expuestos
+durante esta etapa deben ser también informadas. Si una mujer se queda embarazada mientras está en
+tratamiento con quinapril, el medicamento debe discontinuarse tan pronto como sea posible.
+                                                                                                                 MINISTERIO
+Debe advertirse a las pacientes que precisen tratamiento con inibidores de la ECA durante el
+segundo y tercer trimestre del embarazo sobre los riesgos potenciales para el feto; deben realizarse
+ecografías frecuentes para detectar oligohidramnios. No obstante, las pacientes y sus médicos
+deben ser conscientes de que el oligohidramnios puede no detectarse hasta que el feto tiene un
+daño irreversible. Si se observa oligohidramnios, debe interrumpirse el tratamiento con quinapril a
+menos que se considere vital para la madre.
+ Otros riesgos potenciales para el feto/neonato expuesto a inhibidores de la ECA incluyen
+prematuridad, retraso del crecimiento intrauterino, persistencia del ductus arteriosus y muerte
+fetal. No obstante, no está claro si estos efectos adversos están relacionados con la inhibición de la
+ECA o con la enfermedad materna subyacente. Se desconoce si la exposición limitada al primer
+trimestre puede afectar al desarrollo fetal.
+ Los nacidos expuestos intrauterinamente a inhibidores de la ECA deberán ser observados
+cuidadosamente con especial referencia a hipotensión, oliguria e hiperkalemia. Si apareciese
+oliguria, la atención se dirigirá fundamentalmente a conservar la presión sanguínea y la perfusión
+renal.
+ Lactancia:
+Los inhibidores de la ECA, incluyendo el quinapril, se secretan en mayor o menor medida en la
+leche materna. Por ello, debe tenerse precaución si se administra quinapril a una madre durante la
+lactancia.
+ 4.7. Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+ La capacidad para realizar actividades tales como conducir o manejar máquinas puede verse afectada, por el
+tratamiento con quinapril, especialmente al inicio del mismo.
+ 4.8. Reacciones Adversas
+ La seguridad de quinapril ha sido evaluada en más de 4960 individuos y pacientes, siendo bien
+tolerado. De ellos, 3203 pacientes, incluyendo 655 ancianos, participaron en ensayos clínicos
+controlados. La seguridad a largo plazo de quinapril ha sido evaluada en más de 1400 pacientes
+tratados durante un año o más.
+Los acontecimientos adversos fueron habitualmente transitorios y leves. Los más frecuentes encontrados en
+los ensayos clínicos controlados fueron: dolor de cabeza (7,2 %), vértigo (5,5 %), rinitis (3,2 %), tos (3,9
+%), fatiga (3,5 %), nauseas o vómitos (2,8 %) y mialgia (2,2 %). A destacar que característicamente la tos
+es no productiva, persistente y se resuelve tras discontinuación del tratamiento.
+ La discontinuación del tratamiento debido a acontecimientos adversos únicamente ha sido necesaria en un
+5,3% de los pacientes tratados con quinapril en ensayos clínicos controlados.
+ Los acontecimientos adversos que aparecieron en más de un 1% de los 3203 pacientes tratados
+con quinapril asociado o no a diuréticos en ensayos clínicos controlados se muestran en la tabla
+siguiente. A título comparativo aparece la incidencia de acontecimientos adversos en los 655
+pacientes de más de 65 años evaluados. El subgrupo de 2005 pacientes tratados en monoterapia
+con quinapril en ensayos clínicos controlados de hipertensión arterial también aparecen en la
+tabla.
+ Porcentaje de pacientes en estudios controlados
+% Acontecimientos                       Total          > 65 años                  %                     %
+adversos                               N=3203*          N=655                  N=2005**              N=579**
+Dolor de Cabeza                          7,2              4,0                     8,1                  16,9
+Vértigo                                  5,5              6,6                     4,1                  4,3
+Tos                                      3,9              4,1                     3,2                  1,4
+Fatiga                                   3,5              3,5                     3,2                  2,1
+Nauseas y/o vómitos                      2,8              3,8                     2,3                  2,6
+Mialgia                                  2,2              1,2                     1,7                  3,3
+Diarrea                                  2,0              2,4                     1,9                  1,0
+Dolor torácico                           2,0              1,8                     1,2                   1,9
+Dolor abdominal                          1,9              1,8                     2,0                  2,2
+Dispepsia                                1,6              1,2                     1,9                  1,2
+Disnea                                   1,5              2,3                     0,9                  0,5
+Dolor de espalda                         1,4              1,7                     1,3                   1,0
+Faringitis                               1,3              0,5                     1,5                   1,9
+Insomnio                                 1,3              0,8                     1,3                  0,7
+Hipotensión                              1,1              1,8                     1,0                  0,0
+Parestesias                              1,1              0,9                     1,0                  0,9
+ * Incluye 454 pacientes tratados por insuficiencia cardíaca congestiva.
+** Incluye pacientes tratados únicamente por hipertensión.
+ Los siguientes acontecimientos adversos (probablemente, posiblemente, claramente relacionados o con una
+relación incierta con el tratamiento) se produjeron con una frecuencia entre un 0,5 y un 1 % en los pacientes
+tratados con quinapril (con o sin diuréticos concomitantes) en ensayos clínicos controlados y no
+controlados. Adicionalmente, se incluyen entre los siguientes otros acontecimientos adversos clínicamente
+significativos menos frecuentes observados en los ensayos clínicos, tras la comercialización (marcados
+con*):
+ Trastornos de la sangre y del sistema linfático: anemia hemolítica *,
+Trastornos del sistema inmunológico: reacción anafilactoide*
+Trastornos psiquiátricos: Depresión y nerviosismo.
+Trastornos del sistema nervioso: somnolencia, vertigo
+Trastornos oculares: ambliopía
+Trastornos cardíacos: angina de pecho, palpitaciones, taquicardia.
+Trastornos vasculares: hipotensión postural*, síncope*, vasodilatación.
+Trastornos gastrointestinales: sequedad de boca o garganta, flatulencia,
+Trastornos de la piel y del tejidos subcutáneo.: alopecia*, dermatitis
+Trastornos musculoesqueléticos y del tejido conjuntivo: artralgia.
+Trastornos renales y urinarios: infecciones del tracto urinario.
+Trastornos del aparato reproductor y de la mama: impotencia
+Trastornos generales y alteraciones en el lugar de administración: edema
+ Reacciones raras
+Se ha comunicado angioedema* (0,1%) en los pacientes tratados con quinapril (ver secciones 4.3
+y 4.4). Mientras se han descrito casos de neumonitis eosinófíla*, hepatitis o fallo hepático con la
+utilización de otros inhibidores de la ECA, en el caso del quinapril esta patología ha sido muy
+infrecuente.
+ Hallazgos de laboratorio clínico:
+Raramente se ha descrito agranulocitosis y neutropenia, siendo de dudosa relación causal con
+quinapril (ver apartado 4.4).
+ Hiperkaliemia: Ver sección 4.4.
+ Creatinina y BUN: Incrementos del nivel sérico de creatinina y BUN ( más de 1,25 veces el
+valor superior considerado como normal) se observaron en el 2 y el 2 %, respectivamente, de los
+pacientes tratados con quinapril en monoterapia. Estos incrementos son más susceptibles de
+aparecer en pacientes que reciben medicación diurética concomitante que en monoterapia con
+quinapril. Estos incrementos a menudo desaparecen en el curso del tratamiento.
+ 4.9. Sobredosis:
+ La LD50 oral de quinapril en ratón y rata es de 1440 a 4280 mg/kg.
+ No se dispone de información específica sobre el tratamiento de las sobredosis con quinapril. La
+manifestación clínica más probable será la aparición de síntomas secundarios a hipotensión severa, que
+deberá tratarse con la correspondiente expansión intravenosa de volumen.
+ El tratamiento debe ser sintomático y de soporte, de acuerdo con la práctica médica establecida.
+ El quinapril o el quinaprilato no son susceptibles de eliminación por diálisis peritoneal o hemodiálisis.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1. Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: C02E: Hipotensores de acción sobre el sistema renina-angiotensina.
+ La administración de 10 a 40 mg de quinapril a pacientes con hipertensión arterial esencial de
+leve a grave resulta en una reducción tanto de la tensión arterial en bipedestación como en
+sedestación, con un mínimo efecto sobre la frecuencia cardíaca. La actividad antihipertensiva se
+inicia al cabo de una hora observándose los máximos efectos al cabo de 2 a 4 horas. En algunos
+pacientes pueden ser necesarias dos semanas de tratamiento para conseguir el máximo efecto
+antihipertensivo. A las dosis recomendadas, los efectos antihipertensivos se mantienen durante un
+período de 24 horas entre dosis y continúan en el tratamiento a largo plazo.
+ La valoración hemodinámica realizada en pacientes hipertensos ha indicado que la disminución
+de la presión sanguínea producida por quinapril se acompaña de una reducción en la resistencia
+periférica sistémica y resistencia vascular renal, sin cambios, o muy ligeros, en la frecuencia
+cardíaca, índice cardíaco, flujo plasmático renal, tasa de filtración glomerular o fracción de
+filtración.
+ El uso concomitante de diuréticos tipo tiazídicos y/o de beta-bloqueantes refuerza el efecto antihipertensivo
+de quinapril, proporcionando una reducción de la tensión arterial superior que la observada con cada agente
+por separado.
+ Los efectos terapéuticos parecen ser idénticos para pacientes ancianos (mayores de 65 años) o
+adultos más jóvenes, en el mismo ámbito de dosificación y sin presentarse incrementos de
+reacciones adversas en gente anciana.
+ La administración de quinapril en pacientes con insuficiencia cardíaca congestiva reduce la
+resistencia vascular periférica, presión arterial media, presión arterial sistólica y diastólica,
+presión capilar enclavada pulmonar, y aumenta el gasto cardíaco.
+ En un estudio doble-ciego, controlado con placebo, de 6 meses de duración, y realizado en 129 pacientes
+con enfermedad arterial coronaria documentada y ausencia de hipertensión o insuficiencia cardíaca, el
+tratamiento con quinapril 40 mg/día mejoró la disfunción endotelial coronaria de estos pacientes
+reduciendo significativamente la vasoconstricción producida por la acetilcolina (Estudio TREND).
+ Los inhibidores de la ECA, incluyendo quinapril, pueden aumentar la sensibilidad a la insulina.
+ Mecanismo de Acción: Quinapril se deesterifica rápidamente en quinaprilato (diácido de
+quinapril, su principal metabolito), el cual es un potente inhibidor de la ECA, observado en
+estudios tanto en animales como en el hombre. La ECA es una enzima peptidil dipeptidasa que
+cataliza la conversión de angiotensina I al potente vasoconstrictor angiotensina II, el cual está
+directamente relacionado con la función y control vascular a través de diferentes mecanismos,
+incluido la estimulación de la secreción de aldosterona por la corteza adrenal. El mecanismo de
+acción de quinapril en humanos y animales es inhibir la actividad de la ECA circulante y tisular,
+disminuyendo la actividad vasoconstrictora y la secreción de aldosterona. La eliminación de la
+retroalimentación negativa de la angiotensina II sobre la secreción de renina conlleva un
+incremento en la actividad de renina plasmática (ARP).
+ A pesar de que su principal mecanismo de acción antihipertensiva se cree debido a su efecto sobre el
+sistema renina-angiotensina-aldosterona, quinapril ejerce su acción antihipertensiva incluso en pacientes
+con hipertensión con renina baja. La monoterapia con quinapril ha sido efectiva en todas las razas
+estudiadas, a pesar de que fué algo menos eficaz en individuos de raza negra (generalmente un grupo
+predominante con renina baja) que en el resto. La ECA es idéntica a la cininasa II, enzima que degrada la
+bradicinina, un potente péptido vasodilatador; no está aclarado si los niveles elevados de bradicinina
+participan en el efecto terapéutico de quinapril.
+ Estudios realizados en animales demuestran que la acción antihipertensiva del quinapril supera a su efecto
+inhibidor de la ECA circulante, mientras que la inhibición de la ECA tisular se correlaciona más
+estrechamente con la duración de sus efectos antihipertensivos.
+ 5.2. Propiedades farmacocinéticas
+ Después de la administración oral, quinapril se absorbe rápidamente, observándose el pico de concentración
+plasmática de quinapril al cabo de 1 hora. Basándose en la recuperación de quinapril y sus metabolitos en
+orina, se observa que hasta el 60 % de una dosis de quinapril oral se absorbe en el tracto gastrointestinal. El
+38 % del quinapril administrado oralmente se transforma en quinaprilato. Quinapril tiene una vida media
+aparente de eliminación de alrededor de 1 hora. El pico plasmático de quinaprilato se observa
+aproximadamente a las dos horas de la administración oral de quinapril. El quinaprilato se elimina
+principalmente por vía renal y tiene una vida media de acumulación efectiva de unas 3 horas.
+Aproximadamente el 97 % de quinapril o quinaprilato se une a proteínas plasmáticas.
+ En pacientes con insuficiencia renal la vida media aparente de liberación del quinaprilato se incrementa a
+medida que el aclaramiento de creatinina disminuye. Estudios farmacocinéticos en pacientes con
+insuficiencia renal terminal o en tratamiento con hemodiálisis o diálisis peritoneal ambulatoria continua
+indican que la eliminación por este medio de quinapril o quinaprilato es mínima. Existe una correlación
+lineal entre el aclaramiento plasmático de quinaprilato y el aclaramiento renal de creatinina. La eliminación
+de quinaprilato también está reducida en pacientes ancianos (mayores de 65 años) y se correlaciona con su
+nivel de función renal (ver apartado 4.2). Las concentraciones de quinaprilato disminuyen en pacientes con
+cirrosis alcohólica debido a un déficit en la deesterificación del quinapril.
+ Estudios en ratas indican que quinapril y sus metabolitos no cruzan la barrera hemato-encefálica.
+ 5.3. Datos preclínicos sobre seguridad
+ El clorhidrato de quinapril no ha mostrado ser carcinogénico en ratones o ratas cuando se les administra
+dosis de 75 a 100 mg/kg/día (50 a 60 veces la dosis máxima diaria en humanos) durante 104 semanas. Ni el
+quinapril ni el quinaprilato fueron mutagénicos en el ensayo bacteriológico del Ames sin y con activación
+metabólica. Quinapril ha demostrado ser inocuo en estudios de toxicología genética: Mutaciones puntuales
+en células de mamífero in vitro, cambio entre cromátidas hermanas en cultivos celulares de mamíferos, tests
+micronucleares en ratón, aberraciones cromosómicas in vitro con cultivos celulares V79 de pulmón y
+estudios citogenéticos in vitro con médula ósea de rata. No han aparecido efectos adversos sobre la
+fertilidad o la reproducción en ratas tratadas a dosis de hasta 100 mg/kg/día (60 veces la dosis máxima
+diaria en humanos).
+                                                                                                                   MINISTERIO
+No se han observado efectos fetotóxicos o teratogénicos en ratas a dosis de quinapril de hasta 300
+mg/kg/día (180 veces la dosis humana máxima diaria), a pesar de la toxicidad materna que
+aparece a 150 mg/kg/día. El peso corporal de las camadas de ratas disminuyó cuando las madres
+eran tratadas al final de la gestación a dosis de 25 mg/kg/día o más. Quinapril no ha demostrado
+ser teratogénico en el conejo, sin embargo, igual que lo observado con otros inhibidores de la
+ECA, se ha observado toxicidad materna y fetal a dosis de 0,5 mg/kg/día y 1 mg/kg/día
+respectivamente.
+ 
+6. DATOS FARMACÉUTICOS
+	6.1. Lista de excipientes
+ ECTREN® 5 mg, ECTREN® 20 mg y ECTREN® 40 mg: Lactosa hidratada, carbonato magnésico
+(E 504), estearato magnésico (E 572), gelatina (E 441), crospovidona, cera candelilla (E 902),
+óxido de hierro rojo (E 172), óxido de titanio (E 171), hidroxipropilmetilcelulosa (E 464),
+hidroxipropilcelulosa (E 463) y macrogol 400.
+ 6.2. Periodo de validez
+ 3 años
+ 6.3. Precauciones especiales de conservación
+ No conservara temperatura superior a 25ºC.
+ 6.4. Naturaleza y contenido del envase
+ ECTREN ®5 mg: Envase con 60 comprimidos en blísters.
+ECTREN ®20 mg: Envase con 28 comprimidos en blísters.
+ECTREN ® 40 mg: Envase con 28 comprimidos en blísters.
+ 6.5. Instrucciones de uso y manipulación
+ Los medicamentos deben mantenerse fuera del alcance y de la vista de los niños.
+ 
+7. NOMBRE Y DOMICILIO DEL TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	LABORATORIOS MENARINI, S.A.
+Alfonso XII, 587 08918- Badalona ( Barcelona)
+Teléfono: 934628800
+Fax: 934628812
+e-mail: mrojas@menarini.es
+ 8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ECTREN® 5 mg: 59.192
+ECTREN® 20 mg: 59.191
+ECTREN® 40 mg: 61.733
+                                                                                                      MINISTERIO
+9. FECHA DE       LA    PRIMERA       AUTORIZACIÓN/   RENOVACIÓN   DE   LA
+AUTORIZACIÓN
+ ECTREN® 5 mg: Agosto 2001
+ECTREN® 20 mg: Agosto 2001
+ECTREN® 40 mg: Noviembre 2002
+ 10. FECHA DE LA REVISIÓN DEL TEXTO:
+ Abril 2007
+
+	 
+      ECTREN 20 mg comprimidos recubiertos ,500 comprimidos
+         Prospectos de medicamentos.

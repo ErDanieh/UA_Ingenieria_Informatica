@@ -1,0 +1,168 @@
+HELITEST 37 KBQ capsulas duras , 10 cápsulas
+	"Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERISTICAS DEL PRODUCTO
+ 1       DENOMINACIÓN DEL MEDICAMENTO
+HeliTest 37 kBq cápsulas duras
+ 2       COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+Cada cápsula contiene 37 kBq de urea (14C).
+ La radiación se emite en forma de partículas  de baja energía, con un promedio de 49 keV y una
+energía máxima de 156 keV. El alcance máximo en plástico es de 0,25 mm. El período de
+semidesintegración del 14C es de 5.730 años.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 3       FORMA FARMACÉUTICA
+Cápsula azul con un tamaño de 6 x 16 mm.
+ 
+
+4       DATOS CLÍNICOS
+ 4.1      Indicaciones terapéuticas
+Este medicamento es únicamente para uso diagnóstico.
+ Diagnóstico in vivo de las infecciones gastrointestinales (estómago y duodeno) causadas por
+Helicobacter pylori.
+ 4.2      Posología y forma de administración
+La cápsula HeliTest, que contiene urea (14C), se administra por vía oral para detectar la presencia
+de Helicobacter pylori mediante la cuantificación del 14CO2 radioactivo espirado en una prueba
+del aliento, tras la hidrólisis enzimática de la urea marcada con 14C en el tracto gastrointestinal.
+ Adultos (> 18 años): En el momento de realizar la prueba, debe tragarse una cápsula de urea (14C)
+de 37 kBq con agua en una sola administración. Antes de la realización de la prueba, el paciente
+debe haber estado en ayunas por lo menos durante 6 horas, preferentemente durante la noche.
+ La cápsula debe tragarse entera y sin masticar.
+ HeliTest debería usarse conjuntamente con un sistema validado de prueba del aliento, por ejemplo
+el sistema de prueba del aliento Heliprobe que incluye un dispositivo para el muestreo del aliento
+y un analizador, o bien con cualquier otro sistema de prueba del aliento siempre que el método
+analítico seleccionado haya sido validado y se realice en un laboratorio cualificado.
+ 4.3      Contraindicaciones
+-      Hipersensibilidad al principio activo o a alguno de los excipientes.
+          -      La prueba no debe realizarse a pacientes con sospecha o confirmación de otra
+infección gástrica o una gastritis atrófica. Estas situaciones pueden causar
+interferencias con el resultado de la prueba. En estos pacientes es necesario
+realizar otras pruebas para confirmar la presencia de Helicobacter pylori.
+          -      Embarazo.
+ 4.4      Advertencias y precauciones especiales de empleo
+Un resultado positivo de la prueba no constituye por sí solo una indicación para instaurar terapia
+de erradicación. Debería realizarse un diagnóstico diferencial utilizando métodos endoscópicos
+para determinar la existencia de otras enfermedades (por ejemplo, úlcera, gastritis autoinmune y
+procesos malignos).
+ En caso que el contenido de la cápsula fuese expuesto en la boca durante su ingestión, aumentaría
+la probabilidad de obtener un resultado falso positivo. En este caso se recomienda repetir la
+prueba.
+ Si se requiere repetir la prueba, no es recomendable hacerlo hasta el día siguiente y después de al
+menos 6 horas de ayuno.
+ No se recomienda realizar la prueba en pacientes sometidos a gastrectomía, o en pacientes
+menores de 18 años.
+ 4.5      Interacción con con otros medicamentos y otras formas de interacción
+Cualquier tratamiento que interfiera con el Helicobacter pylori, como una terapia con antibióticos,
+sales de bismuto o inhibidores de la secreción ácida, puede interferir con los resultados de la
+prueba del aliento con urea.
+ La erradicación del Helicobacter pylori puede dar lugar a un resultado falso negativo. Después del
+tratamiento con antibióticos o sales de bismuto, se debe esperar por lo menos un mes antes de
+realizar la prueba. Después de un tratamiento con inhibidores de la secreción ácida, se debe
+esperar por lo menos una semana. Esto es importante especialmente después de la terapia de
+erradicación.
+ 4.6      Embarazo y lactancia
+HeliTest no debe utilizarse en mujeres embarazadas. Antes de administrar HeliTest a mujeres en
+edad fértil, debe disponerse de información respecto a un posible embarazo.
+ No se dispone de información acerca de la excreción de urea (14C) en la leche materna. Si la
+prueba fuese imprescindible, debería interrumpirse la lactancia durante los tres días siguientes a la
+prueba.
+ 4.7      Efectos sobre la capacidad para conducir y utilizar máquinas
+HeliTest no influye sobre la capacidad para conducir o utilizar máquinas.
+4.8     Reacciones adversas
+No se conocen.
+ 4.9      Sobredosis
+No se han descrito casos de sobredosis.
+ La realización de una prueba diagnóstica en un paciente infectado por Helicobacter pylori expone
+al paciente a una dosis de radiación de no más de 3 microSv (véase sección 11), por lo que no se
+espera que se produzca una sobredosis.
+ 5       PROPIEDADES FARMACOLÓGICAS
+ 5.1      Propiedades farmacodinámicas
+Grupo farmacoterapéutico: Otros agentes diagnósticos; Código ATC: V04CX.
+ La prueba del aliento con urea se basa en la actividad de la ureasa del Helicobacter pylori, como
+se describe a continuación:
+ Después de la ingestión de HeliTest, la cápsula se desintegra rápidamente en el estómago, y la
+urea marcada con 14C llega a la mucosa gástrica. Si Helicobacter pylori está presente, la urea 14
+(14C) se metaboliza a dióxido de carbono y amoníaco por medio de la enzima ureasa del
+Helicobacter pylori.
+ H 2 N (14 CO ) NH 2 + H 2 O EnzimaUreasa  2 NH 3 + 14 CO2
+ El dióxido de carbono difunde al interior de los vasos sanguíneos y desde allí es transportado en
+forma de bicarbonato a los pulmones y liberado como 14CO2 con el aire espirado. La ureasa
+solamente se produce en el estómago por el Helicobacter pylori. La existencia de otras bacterias
+productoras de enzima ureasa en el estómago es muy rara.
+ Por lo tanto, la presencia o ausencia del Helicobacter pylori puede determinarse midiendo el
+contenido de 14CO2 en el aire espirado.
+ En ausencia de ureasa, toda la urea administrada es absorbida en el tracto gastrointestinal y
+metabolizada de la misma manera que la urea endógena. El amoníaco que se genera en la
+hidrólisis bacteriana, tal como se ha descrito, se metaboliza a iones de amonio.
+ 5.2      Propiedades farmacocinéticas
+La urea (14C) administrada por vía oral se metaboliza a dióxido de carbono y amoníaco o se
+integra en el ciclo de la urea propio del organismo. La absorción y distribución del 14CO2 tiene
+lugar más rápidamente que la reacción de la ureasa. Por lo tanto, el paso limitante en el proceso es
+la capacidad de la ureasa para metabolizar la urea (14C).
+ 5.3      Datos preclínicos sobre seguridad
+Dado que la urea es una sustancia endógena, no se han realizado estudios preclínicos sobre
+seguridad.
+ 6       DATOS FARMACÉUTICOS
+ 6.1      Lista de excipientes
+Acido cítrico monohidratado
+ La composición de la cápsula de gelatina es:
+gelatina
+indigotina o carmín de índigo (E 132)
+dióxido de titanio (E 171)
+ 6.2      Incompatibilidades
+No procede
+ 6.3      Período de validez
+1 año
+ 6.4      Precauciones especiales de conservación
+No conservar a temperatura superior a 25 °C.
+Mantener el recipiente cerrado herméticamente a fin de protegerlo contra la humedad.
+ 6.5      Naturaleza y contenido del recipiente
+Las cápsulas HeliTest están envasadas en recipientes de polietileno blanco de 15 ml sellados con
+tapa de polietileno blanco de apertura fácil (""snap-on"").
+ Presentación: 10 cápsulas duras.
+ 6.6      Instrucciones de uso, manipulación y eliminación
+Manipulación y uso: no procede
+ La eliminación de los residuos radioactivos se establecerá de acuerdo con las exigencias locales.
+ 7       TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+KIBION AB
+Kungsgatan 109. Box 303
+Uppsala
+ 8       NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 9       FECHA DE LA PRIMERA AUTORIZACIÓN / RENOVACIÓN DE LA AUTORIZACIÓN
+Junio 2006
+ 10      FECHA DE LA REVISIÓN DEL TEXTO
+ 11      DOSIMETRÍA
+Las dosis absorbidas por los distintos órganos después de la administración oral de urea (14C) se
+muestran en la siguiente tabla. Se detallan las dosis absorbidas en microGy por unidad de
+actividad administrada (microGy/MBq) para los pacientes con un resultado negativo de la prueba
+y para los pacientes infectados por Helicobacter pylori.
+            Paciente con resultado                               Paciente infectado por
+negativo de la prueba
+Órgano                    (microGy/MBq)                Órgano                   (microGy/MBq)
+Vejiga                               120               Superficies óseas                   120
+Superficies óseas                     33               Vejiga                              110
+Estómago                              30               Médula ósea roja                     97
+Médula ósea roja                      29               Estómago                             83
+Glándulas adrenales                   24               Glándulas adrenales                  76
+Mamas                                 24               Mamas                                76
+Esófago                               24               Esófago                              76
+Vesícula biliar                       24               Vesícula biliar                      76
+Cerebro                               24               Cerebro                              76
+Corazón                               24               Corazón                              76
+Piel                                  24               Piel                                 76
+Hígado                                24               Hígado                               76
+Pulmones                              24               Pulmones                             76
+Bazo                                  24               Bazo                                 76
+Músculos                              24               Músculos                             76
+Riñones                               24               Riñones                              76
+Ovarios                               24               Ovarios                              76
+Páncreas                              24               Páncreas                             76
+Tiroides                              24               Tiroides                             76
+Testículos                            24               Testículos                           76
+Timo                                  24               Timo                                 76
+Colon                                 24               Colon                                76
+Yeyuno                                24               Yeyuno                               76
+Útero                                 24               Útero                                76
+Resto del organismo                   24               Resto del organismo                  76
+  Dosis efectiva                          31             Dosis efectiva                        81
+(microSv/MBq)                                          (microSv/MBq)
+ International Commission on Radiological Protection. Radiation Dose to Patients from
+Radiopharmaceuticals Addendum to ICRP 53. ICRP publication 80. Ann ICRP 1998; Vol. 28 No. 3
+ Prospectos de medicamentos."

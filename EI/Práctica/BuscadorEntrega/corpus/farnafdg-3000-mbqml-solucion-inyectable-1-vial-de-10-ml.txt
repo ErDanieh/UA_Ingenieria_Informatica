@@ -1,0 +1,418 @@
+FARNA-FDG 3.000 MBq/ml  solución inyectable, 1 vial de 10 ml
+	Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1. DENOMINACIÓN DEL MEDICAMENTO
+	
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	El rango de actividad por vial oscila entre 3000 MBq y 30000 MBq en la fecha y hora de
+fabricación.
+ El flúor-18 decae a oxígeno-18 estable con un periodo de semidesintegración de 109,77 minutos
+mediante emisión de positrones con una energía máxima de 634 KeV, seguida de una radiación de
+aniquilación de positrones de 511 KeV.
+ Para lista completa de excipientes, ver sección 6.1.
+ 
+3. FORMA FARMACÉUTICA
+	Solución límpida, incolora o ligeramente amarilla.
+ 
+
+
+4. DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+Este medicamento es únicamente para uso diagnóstico.
+ La fludesoxiglucosa (18F) está indicada para su utilización en la obtención de imágenes
+mediante tomografía por emisión de positrones (PET).
+ FARNA-FDG 3000 MBq/ml solución inyectable está indicado para la obtención de
+imágenes mediante PET en las siguientes indicaciones oncológicas, cardiológica y
+neurológica:
+ Oncología
+En pacientes sometidos a procedimientos de diagnóstico oncológico que describan funciones o
+enfermedades en las que el objetivo diagnóstico sea visualizar el aumento del aporte de glucosa en
+órganos o tejidos concretos. Las siguientes indicaciones están suficientemente documentadas (ver
+también sección 4.4):
+Diagnóstico:
+       ·    Caracterización del nódulo pulmonar solitario
+·    Detección del tumor de origen desconocido evidenciado, por ejemplo, por adenopatía
+cervical, metástasis hepáticas u óseas.
+·    Caracterización de una masa pancreática
+Estadificación:
+·    Tumores de cabeza y cuello, incluyendo biopsia guiada asistida
+·    Cáncer de pulmón primario
+·    Cáncer de mama localmente avanzado
+·    Cáncer de esófago
+·    Carcinoma de páncreas
+·    Cáncer colorrectal, especialmente en las recurrencias
+·    Linfoma maligno
+·    Melanoma maligno, con Breslow > 1,5 mm o metástasis en nódulos linfáticos en
+el diagnóstico inicial
+Monitorización de la respuesta al tratamiento:
+· Linfoma maligno
+· Tumores de cabeza y cuello
+Detección en caso de sospecha razonable de recidiva:
+·    Gliomas con alto grado de malignidad (III o IV)
+·    Tumores de cabeza y cuello
+·    Cáncer de tiroides (no medular): pacientes con incremento de los niveles séricos de
+tiroglobulina y rastreo corporal con yodo radiactivo negativo
+·    Cáncer de pulmón primario (ver también sección 4.4)
+·    Cáncer de mama
+·    Carcinoma de páncreas
+·    Cáncer colorrectal
+·    Cáncer de ovario
+·    Linfoma maligno
+·    Melanoma maligno
+ Cardiología
+El objetivo diagnóstico es el tejido miocárdico viable que capta glucosa pero está hipoperfundido,
+aunque debe valorarse previamente utilizando técnicas de imagen de flujo sanguíneo apropiadas.
+·     Evaluación de la viabilidad miocárdica en pacientes con disfunción grave del ventrículo
+izquierdo y que son candidatos a revascularización, sólo cuando las técnicas de imagen
+convencionales no son concluyentes.
+ Neurología
+El objetivo diagnóstico es el hipometabolismo glucídico interictal.
+·     Localización de focos epileptógenos en la valoración prequirúrgica de la epilepsia temporal
+parcial.
+ 4.2       Posología y forma de administración
+Posología
+ Adultos:
+La actividad recomendada para un adulto de 70 kg de peso es de 100 a 400 MBq
+(dependiendo del peso corporal del paciente y al tipo de cámara utilizada), administrada
+mediante inyección intravenosa directa.
+ Población pediátrica (< 18 años de edad):
+Existen pocos datos clínicos sobre la eficacia diagnóstica y la seguridad del medicamento en
+pacientes menores de 18 años. Por lo tanto, el uso en pacientes oncológicos pediátricos debe
+valorarse cuidadosamente.
+ La actividad a administrar en niños y adolescentes es una fracción de la actividad recomendada
+para los adultos. Esta actividad puede calcularse a partir de la actividad recomendada para los
+adultos en función de la masa corporal, utilizando los siguientes coeficientes:
+3 kg = 0,10     12 kg = 0,32    22 kg = 0,50     32 kg = 0,62    42 kg = 0,78     52-55 kg = 0,90
+4 kg = 0,14     14 kg = 0,36    24 kg = 0,56     34 kg = 0,64    44 kg = 0,80     56-58 kg = 0,92
+6 kg = 0,19     16 kg = 0,40    26 kg = 0,56     36 kg = 0,66    46 kg = 0,82     60-62 kg = 0,96
+8 kg = 0,23     18 kg = 0,44    28 kg = 0,58     38 kg = 0,68    48 kg = 0,85     64-66 kg = 0,98
+10 kg = 0,27    20 kg = 0,46    30 kg = 0,60     40 kg = 0,70    50 kg = 0,88     68 kg = 0,99
+ Método de administración de FARNA-FDG 3000 MBq/ml solución inyectable y exploración
+PET
+Véase apartado ""Preparación del paciente"" en la sección 4.4.
+ Este medicamento debe ser administrado exclusivamente por personal autorizado (véase apartado
+""Advertencias generales"" en la sección 4.4.).
+ La actividad de la fludesoxiglucosa (18F) debe medirse con un calibrador inmediatamente antes de
+la inyección.
+ La inyección de FARNA-FDG debe ser intravenosa para evitar la irradiación debida a la
+extravasación local así como los artefactos en la imagen.
+ Las imágenes de emisión comienzan a obtenerse normalmente 45 a 60 minutos después de la
+inyección de fludesoxiglucosa (18F). Siempre que exista actividad suficiente para obtener una
+adecuada tasa de contaje, la PET con fludesoxiglucosa (18F) puede también realizarse hasta dos o
+tres horas después de su administración, reduciendo así la actividad de fondo.
+ En caso necesario se pueden repetir las exploraciones a intervalos cortos de tiempo.
+ En caso de que para la realización de la exploración PET utilizando un tomógrafo híbrido PET-
+TAC se considerase necesario administrar contraste para TAC, esta administración debe realizarse
+ajustándose a su ficha técnica autorizada.
+ Para instrucciones detalladas sobre la correcta administración/uso de FARNA-FDG, ver sección
+6.6.
+                                                                                                     MINISTERIO
+4.3.   Contraindicaciones
+Hipersensibilidad al principio activo o a alguno de los excipientes
+ 4.4.   Advertencias y precauciones especiales de empleo
+ Indicación de la exploración
+Para todos los pacientes: la exposición a la radiación ionizante debe estar justificada en
+función del diagnóstico esperado, obtenido con la mínima dosis posible de radiación
+recibida por el paciente.
+ En pacientes con disminución de la función renal: se requiere una indicación muy
+cuidadosa, ya que en ellos es posible que aumente la exposición a la radiación.
+ En población pediátrica (<18 años de edad): debe tenerse en cuenta que la dosis efectiva
+por MBq es mayor que en adultos (ver apartado 11. ""Dosimetría"").
+ Preparación del paciente
+FARNA-FDG debe administrarse a los pacientes suficientemente hidratados y que lleven un
+mínimo de 4 horas de ayuno, para obtener un aumento máximo de la actividad, ya que la
+captación de glucosa por las células es limitada (""cinética saturable""). No debe limitarse la
+ingesta de líquido (sólo deben evitarse las bebidas que contienen glucosa).
+ Para obtener imágenes de mejor calidad y reducir la exposición de la vejiga a la radiación, se debe
+pedir a los pacientes que ingieran suficiente cantidad de líquido y que vacíen la vejiga antes y
+después de la exploración PET.
+ - Oncología y neurología
+Para evitar la hiperfijación del trazador en los músculos se recomienda que los pacientes eviten
+cualquier actividad física intensa antes de la exploración y que permanezcan en reposo durante el
+periodo entre la inyección y la exploración y durante la adquisición de las imágenes (los pacientes
+deben estar tumbados cómodamente sin leer ni hablar).
+ El metabolismo cerebral de la glucosa depende de la actividad cerebral. Por lo tanto, las
+exploraciones neurológicas deben realizarse tras un periodo de relajación en una habitación oscura
+y con bajo nivel de ruido.
+ Se debe determinar el nivel sérico de glucosa antes de la administración, ya que la hiperglucemia
+puede disminuir la sensibilidad de FARNA-FDG, especialmente cuando la glucemia es mayor de
+8 mmol/l. Por la misma razón, debe evitarse la realización de una exploración PET con
+fludesoxiglucosa (18F) en pacientes con diabetes no controlada.
+ -Cardiología
+Dado que la captación de glucosa en el miocardio es insulino-dependiente, se recomienda
+administrar 50 g de glucosa aproximadamente una hora antes de la administración de FARNA-
+FDG. Como alternativa, especialmente en pacientes con diabetes mellitus, puede ajustarse el nivel
+sérico de glucosa mediante una infusión combinada de insulina y glucosa (Insulina-Glucosa-
+Clamp) si fuese necesario.
+ Interpretación de las imágenes PET con fludesoxiglucosa (18F)
+Las enfermedades infecciosas y/o inflamatorias así como los procesos regenerativos
+postquirúrgicos pueden originar una captación significativa de fludesoxiglucosa (18F) y, por lo
+tanto, pueden causar resultados falsos positivos.
+ Los resultados falsos positivos o falsos negativos de la PET con fludesoxiglucosa (18F) no pueden
+excluirse en los primeros 2-4 meses después de radioterapia. Si la indicación clínica requiere
+obtener un diagnóstico más precoz mediante PET con fludesoxiglucosa (18F), debe documentarse
+de forma razonada el motivo para realizar la exploración PET con fludesoxiglucosa (18F) más
+precozmente.
+ Es óptimo esperar al menos 4-6 semanas después del último ciclo de quimioterapia, especialmente
+para evitar resultados falsos negativos. Si la indicación clínica requiere obtener un diagnóstico
+más precoz mediante PET con fludesoxiglucosa (18F), debe documentarse de forma razonada el
+motivo para realizar la exploración PET con fludesoxiglucosa (18F) más precozmente. Si el
+régimen de quimioterapia consiste en ciclos más cortos de 4 semanas, la exploración PET con
+fludesoxiglucosa (18F) debe realizarse antes de empezar un nuevo ciclo.
+ En linfomas de bajo grado y en casos de sospecha de recurrencia de cáncer de ovario recurrente,
+sólo debe tenerse en cuenta el valor predictivo positivo porque la sensibilidad de la PET con
+fludesoxiglucosa (18F) es limitada.
+ La fludesoxiglucosa (18F) no es eficaz en la detección de metástasis cerebrales.
+ Se recomienda que las imágenes de PET con fludesoxiglucosa (18F) se interpreten en relación con
+otras modalidades de imagen anatómica obtenidas por tomografía (por ejemplo tomografía axial
+computarizada (TAC), ultrasonidos, resonancia magnética (RM)). La combinación de las
+imágenes funcionales de PET con fludesoxiglucosa (18F) con imágenes morfológicas, por ejemplo
+PET-TAC, puede incrementar la especificidad y la sensibilidad, y se recomienda en tumores de
+páncreas, cabeza y cuello, linfoma, melanoma, cáncer de pulmón y cáncer colorrectal recurrente.
+ Cuando se utiliza un tomógrafo híbrido PET-TAC pueden presentarse diversos artefactos en la
+imagen PET, por lo que se aconseja que las imágenes PET y TAC se examinen conjuntamente y
+por separado. Estos artefactos son los siguientes:
+· En las estructuras con radiodensidad significativamente superior al rango normal de los
+tejidos (p. ej. implantes, prótesis metálicas, etc.) se puede producir una excesiva
+corrección de la atenuación a partir de los datos de TAC, lo que ocasiona áreas
+hipercaptantes en las imágenes finales de PET.
+· Los contrastes iodados para realizar la exploración TAC administrados por vía
+intravenosa se eliminan por vía urinaria acumulándose en el sistema excretor renal,
+uréteres y vejiga, y pueden ocasionar artefactos en los vasos venosos y una leve alteración
+en el grado de captación de la fludesoxiglucosa (18F).
+· Los contrastes orales para realizar la exploración TAC se excretan por vía intestinal y, si
+se administran varias horas antes de realizar la exploración PET-TAC, ocasionan falsos
+resultados positivos en el corregistro con las áreas de gran concentración del contraste
+TAC, tanto en dichas áreas como en otras zonas dentro del mismo corte.
+· La falta de alineación entre las imágenes PET y TAC (producida por el movimiento del
+paciente, la diferencia en el tiempo de cada exploración y la diferente resolución espacial)
+puede ocasionar áreas de aumento o disminución de la captación de fludesoxiglucosa
+(18F).
+·    El movimiento de los órganos internos y del diafragma durante la respiración puede
+ocasionar pequeños errores en la localización y determinación del tamaño de lesiones
+hepáticas y/o esplénicas en las imágenes PET.
+ Cuando se utiliza una gammacámara de coincidencia, la sensibilidad disminuye en comparación
+con una cámara PET dedicada, especialmente en lesiones menores de 1 cm.
+ Advertencias generales
+Se recomienda evitar cualquier contacto directo entre el paciente y los niños pequeños durante las
+12 horas siguientes a la inyección.
+ Los radiofármacos deben ser recibidos, utilizados y administrados exclusivamente por personal
+cualificado, que esté debidamente autorizado para el uso y manipulación de radionucleidos, en
+centros asistenciales autorizados. Su recepción, almacenamiento, uso, transporte y eliminación
+están sujetos a las normas y/o licencias correspondientes de los organismos oficiales competentes.
+ Los radiofármacos destinados a la administración a pacientes deben ser preparados por el usuario
+de manera que cumplan tanto los requisitos de seguridad radiológica como de calidad
+farmacéutica. Se deben tomar las precauciones asépticas apropiadas de acuerdo con las Normas
+de Correcta Fabricación y Uso de Radiofármacos.
+ FARNA-FDG debe almacenarse y manejarse en un blindaje adecuado para proteger a los
+pacientes y a los trabajadores expuestos en la mayor medida posible. Se recomienda
+concretamente protegerse uno mismo de los efectos de la radiación beta+ y los fotones de
+aniquilación, utilizando un blindaje apropiado cuando se realicen las extracciones del vial y la
+inyección.
+ 4.5.       Interacción con con otros medicamentos y otras formas de interacción
+ Todos los medicamentos que modifiquen las concentraciones séricas de glucosa pueden
+afectar a la sensibilidad de la exploración (p. ej., corticosteroides, valproato,
+carbamacepina, fenitoína, fenobarbital y catecolaminas).
+ La administración de factores estimulantes de colonias produce un incremento de la captación de
+fludesoxiglucosa (18F) en la médula ósea y el bazo durante varios días. Esto debe tenerse en
+cuenta cuando se interpreten las imágenes de PET. Esta interferencia puede disminuirse
+separando la terapia con factores estimulantes de colonias al menos 5 días de la exploración PET.
+ La administración de glucosa e insulina influye en el flujo de fludesoxiglucosa (18F) hacia el
+interior de las células. Si los niveles séricos de glucosa son elevados y si los niveles plasmáticos
+de insulina son bajos, el flujo de fludesoxiglucosa (18F) hacia el interior de los órganos y tumores
+se reduce (ver apartado ""Preparación del paciente"" en la sección 4.4.)
+ No se han realizado estudios formales de interacción entre la fludesoxiglucosa (18F) y cualquier
+medio de contraste utilizado para tomografía axial computarizada (TAC).
+                                                                                                        MINISTERIO
+4.6      Embarazo y lactancia
+ Mujeres en edad fértil:
+Cuando sea necesario administrar radiofármacos a mujeres en edad fértil, deben buscarse siempre indicios sobre un posible embarazo. Toda mujer
+ que presente un retraso en la menstruación debe considerarse que está embarazada mientras no se demuestre lo contrario. En caso de duda es
+ fundamental que la exposición a la radiación sea la mínima necesaria para obtener la información clínica deseada. Debe considerarse la posibilidad
+de realizar técnicas alternativas que no impliquen el uso de radiaciones ionizantes.
+ Mujeres embarazadas:
+No existen datos clínicos sobre el uso de fludesoxiglucosa (18F) en mujeres embarazadas.
+ Los procedimientos con radionucleidos llevados a cabo en mujeres embarazadas suponen además
+dosis de radiación para el feto. La administración de una actividad de 400 MBq de FARNA-FDG
+supone una dosis absorbida por el útero de 8,4 mGy.
+ En este rango de dosis no se esperan efectos letales ni la inducción de malformaciones, retrasos
+del crecimiento o desórdenes funcionales; sin embargo, puede aumentar el riesgo de inducción de
+cáncer y de defectos hereditarios.
+ FARNA-FDG no debe administrarse durante el embarazo a menos que sea estrictamente
+necesario o cuando el beneficio para la madre supere el riesgo del feto.
+ Lactancia:
+La fludesoxiglucosa (18F) se excreta en la leche materna. Antes de administrar fludesoxiglucosa
+(18F) a una madre que está amamantando a su hijo, debe considerarse la posibilidad de retrasar
+razonablemente la exploración hasta que la madre haya terminado el periodo de lactancia. Si la
+administración durante la lactancia es inevitable, la lactancia debe suspenderse durante al menos
+12 horas tras la administración de fludesoxiglucosa (18F) y desecharse la leche extraída durante
+ese periodo. Debe considerarse la posibilidad de extraer leche antes de la administración de
+fludesoxiglucosa (18F) y almacenarla para su uso posterior. Además, se recomienda evitar un
+contacto directo entre la madre y el niño durante las primeras 12 horas después de la inyección
+por razones de protección radiológica.
+ 4.7.     Efectos sobre la capacidad para conducir y utilizar máquinas
+No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas.
+ 4.8      Reacciones adversas
+No se han observado reacciones adversas tras la administración de fludesoxiglucosa (18F) hasta la
+fecha.
+ Dado que la cantidad de principio activo administrado es muy baja, el mayor riesgo se produce
+por la radiación. La exposición a la radiación ionizante está vinculada a la inducción de cáncer y
+a la posibilidad de desarrollar defectos hereditarios. La mayoría de las exploraciones de Medicina
+Nuclear proporcionan niveles de radiación (dosis efectiva) inferiores a 20 mSv. La probabilidad
+de que se produzcan estas reacciones es baja. Después de la administración de la máxima
+actividad recomendada de este medicamento compuesto de fludesoxiglucosa (18F), la dosis
+efectiva es de aproximadamente 7,6 mSv.
+ Para todos los pacientes: la exposición a la radiación ionizante debe estar justificada en
+función del diagnóstico esperado, obtenido con la mínima dosis posible de radiación
+recibida por el paciente.
+ En pacientes con disminución de la función renal: se requiere una indicación muy
+cuidadosa, ya que en ellos es posible que aumente la exposición a la radiación.
+ En población pediátrica (<18 años de edad): debe tenerse en cuenta que la dosis efectiva
+por MBq es mayor que en adultos (ver apartado 11. ""Dosimetría"").
+ 4.9    Sobredosis
+ Es poco probable que ocurra una sobredosis en sentido farmacológico con las dosis utilizadas para
+objetivos diagnósticos.
+ En el caso de administración accidental de una sobredosis de fludesoxiglucosa (18F), la dosis de
+radiación recibida por el paciente debe reducirse aumentando la eliminación corporal del
+radionucleido, en la medida de lo posible, mediante diuresis forzada y vaciamiento frecuente de la
+vejiga.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1    Propiedades farmacodinámicas
+Grupo farmacoterapéutico: radiofármacos para diagnóstico, código ATC: V09IX04.
+ A las concentraciones químicas utilizadas para las exploraciones diagnósticas no parece que la
+fludesoxiglucosa (18F) tenga actividad farmacodinámica.
+ 5.2.   Propiedades farmacocinéticas
+ La fludesoxiglucosa (18F) es un análogo de la glucosa que se acumula en todas las células que
+utilizan glucosa como fuente primaria de energía. La fludesoxiglucosa (18F) se acumula en
+tumores que tienen un alto nivel de intercambio de glucosa.
+ Después de la inyección intravenosa, el perfil farmacocinético de la fludesoxiglucosa (18F) en el
+compartimento vascular es biexponencial. Tiene una semivida de distribución de 1 minuto y una
+semivida de eliminación de aproximadamente 12 minutos.
+ La captación celular de la fludesoxiglucosa (18F) se realiza por un sistema transportador tisular
+específico, que es en parte insulino-dependiente y, por lo tanto, puede estar influenciado por las
+condiciones alimenticias, nutricionales y la existencia de diabetes mellitus. En pacientes con
+diabetes mellitus se reduce la captación de fludesoxiglucosa (18F) en las células debido a una
+modificación de la distribución tisular y del metabolismo de la glucosa.
+ La fludesoxiglucosa (18F) es transportada, vía membrana celular, de forma similar a la glucosa,
+pero solo experimenta el primer paso de la glicólisis formándose fludesoxiglucosa (18F)-6-fosfato,
+que se mantiene atrapada dentro de las células tumorales y no se metaboliza posteriormente. Ya
+que la desfosforilación posterior por parte de las fosfatasas intracelulares es lenta, la
+fludesoxiglucosa (18F)-6-fosfato se retiene en el tejido varias horas (mecanismo de atrapamiento).
+ En sujetos sanos, la fludesoxiglucosa (18F) se distribuye ampliamente por todo el organismo,
+especialmente en el cerebro y el corazón, y en menor medida en los pulmones y el hígado.
+ La eliminación de la fludesoxiglucosa (18F) es principalmente renal, con excreción del 20 % de la
+actividad en orina 2 horas después de la inyección.
+ La unión al parénquima renal es débil pero, debido a la eliminación renal de la fludesoxiglucosa
+(18F), la totalidad del aparato urinario, especialmente la vejiga, muestra una actividad notoria.
+ La fludesoxiglucosa (18F) atraviesa la barrera hematoencefálica. Aproximadamente el 7% de la
+dosis inyectada se acumula en el cerebro durante 80-100 minutos después de la inyección. Los
+focos epileptógenos muestran un metabolismo reducido de la glucosa en la fase interictal.
+ Aproximadamente el 3% de la actividad inyectada es captada por el miocardio durante los
+primeros 40 minutos. La distribución de la fludesoxiglucosa (18F) en el corazón normal es
+principalmente homogénea; sin embargo, se han descrito diferencias regionales de hasta el 15%
+en el septum interventricular. Durante y después de una situación de isquemia miocárdica
+reversible, se produce un incremento de la captación de glucosa en las células miocárdicas.
+ El 0,3 y 0,9-2,4% de la actividad inyectada se acumula en el páncreas y el pulmón.
+ La fludesoxiglucosa (18F) se une también en menor medida a los músculos oculares, la faringe y el
+intestino. Puede observarse fijación al músculo si se ha realizado ejercicio reciente y si se realizan
+esfuerzos musculares durante la exploración.
+ 5.3.   Datos preclínicos sobre seguridad
+En estudios preclínicos de toxicidad aguda en perros utilizando una dosis 50 veces superior a la
+dosis en humanos, y en ratones con una dosis 1.000 veces superior a la de humanos, no se
+observaron signos de toxicidad.
+ No se han realizado estudios de toxicidad crónica, potencial mutagénico o estudios de toxicidad
+para la reproducción y potencial carcinogénico debido al uso clínico autorizado de la sustancia
+(normalmente una administración única intravenosa del medicamento en un rango de nanogramos
+o microgramos).
+ 
+6.     DATOS FARMACÉUTICOS
+	6.1    Lista de excipientes
+                                                                                                          MINISTERIO
+Cloruro de sodio
+Dihidrogenofosfato de sodio dihidrato
+Agua para inyección
+ 6.2   Incompatibilidades
+Este medicamento no debe mezclarse con otros, excepto con los mencionados en la sección 6.6.
+ 6.3   Periodo de validez
+10 horas a partir de la fecha y hora de fabricación.
+ La fecha y hora de caducidad se indican en el embalaje exterior y en cada envase.
+ El producto no debe utilizarse después de la fecha y hora de caducidad indicadas en la etiqueta.
+ 6.4   Precauciones especiales de conservación
+No conservar a temperatura superior a 25 ºC.
+ El almacenamiento debe realizarse conforme a la normativa nacional sobre materiales radiactivos.
+6.5   Naturaleza y contenido del recipiente
+FARNA-FDG se suministra en viales multidosis de 10 ml de vidrio incoloro tipo I de la Ph. Eur.,
+sellados con tapón de goma Tipo I (Ph. Eur.) y con sobresello de aluminio.
+ Un vial contiene entre 1 ml y 10 ml de solución inyectable, que corresponde a un rango de
+actividad entre 3000 MBq y 30000 MBq en la fecha y hora de fabricación.
+ 6.6     Precauciones especiales de eliminación
+ Los residuos radiactivos deben eliminarse conforme a la normativa nacional e internacional
+vigente.
+ La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales.
+ La administración de radiofármacos supone un riesgo para otras personas por la radiación externa
+o la contaminación por derrames de orina, vómitos, etc. Por lo tanto, deben adoptarse las medidas
+de protección radiológica conforme a la legislación nacional.
+ Las extracciones deben realizarse en condiciones asépticas.
+ El envase no debe abrirse. Tras desinfectarse el tapón, la solución debe extraerse a través del
+tapón utilizando una jeringa de un solo uso con blindaje protector adecuado y agujas estériles de
+un solo uso.
+ Previamente a su uso, debe verificarse el acondicionamiento y medir la actividad utilizando un
+calibrador.
+ Este medicamento puede diluirse con una solución inyectable de cloruro de sodio 9 mg/ml
+(0,9%).
+ La solución debe inspeccionarse visualmente antes de su uso. Sólo deben utilizarse soluciones
+límpidas, libres de partículas visibles.
+ 
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	"8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 68294
+ 9.    FECHA DE LA            PRIMERA        AUTORIZACIÓN/RENOVACIÓN                DE    LA
+AUTORIZACIÓN
+Diciembre de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 11. DOSIMETRÍA
+La siguiente tabla muestra la dosimetría interna de la radiación calculada de acuerdo con la
+publicación nº 80 de la ICRP (Internacional Commission on Radiological Protection Radiation)
+titulada ""Radiation Dose to Patients from Radiopharmaceuticals"".
+ Dosis absorbida por unidad de actividad administrada (mGy/MBq)
+Órgano                                 Adulto      15 años     10 años      5 años      1 año
+Glándulas adrenales                     0,012       0,015       0,024       0,038       0,072
+Vejiga                                  0,160       0,210       0,280       0,320       0,590
+Superficies óseas                       0,011       0,014       0,022       0,035       0,066
+Cerebro                                 0,028       0,028       0,030       0,034       0,048
+Mamas                                  0,0086       0,011       0,018       0,029       0,056
+Vesícula biliar                         0,012       0,015       0,023       0,035       0,066
+Tracto gastrointestinal
+Estómago                            0,011        0,014       0,022       0,036       0,068
+Intestino delgado                    0,013       0,017       0,027       0,041       0,077
+Colon                               0,013        0,017       0,027       0,040       0,074
+(Intestino grueso ascendente         0,012       0,016       0,025       0,039       0,072)
+(Intestino grueso descendente       0,015        0,019       0,029       0,042       0,076)
+Corazón                                 0,062       0,081       0,120       0,200       0,350
+Riñones                                 0,021       0,025       0,036       0,054       0,096
+Hígado                                 0,011        0,014       0,022       0,037       0,070
+Pulmones                               0,010        0,014       0,021       0,034       0,065
+Músculos                                0,011       0,014       0,021       0,034       0,065
+Esófago                                 0,011       0,015       0,022       0,035       0,068
+Ovarios                                 0,015       0,020       0,030       0,044       0,082
+Páncreas                                0,012       0,016       0,025       0,040       0,076
+Médula ósea roja                       0,011        0,014       0,022       0,032       0,061
+Piel                                   0,0080       0,010       0,016       0,027       0,052
+Bazo                                    0,011       0,014       0,022       0,036       0,069
+Testículos                              0,012       0,016       0,026       0,038       0,073
+Timo                                   0,011        0,015       0,022       0,035       0,068
+Tiroides                                0,010       0,013       0,021       0,035       0,068
+Útero                                   0,021       0,026       0,039       0,055        0,10
+Resto del organismo                     0,011       0,014       0,022       0,034       0,063
+Dosis efectiva (mSv/MBq)                0,019       0,025       0,036       0,050       0,095
+ La dosis efectiva resultante de la administración de una actividad de 400 MBq de FARNA-FDG
+es de aproximadamente 7,6 mSv (para una persona de 70 kg de peso).
+ Para esta actividad de 400 MBq, la dosis de radiación absorbida por los órganos críticos como la
+vejiga, corazón y el cerebro es respectivamente de 64 mGy, 25 mGy y 11 mGy.
+ 12. INSTRUCCIONES PARA LA PREPARACIÓN DE RADIOFÁRMACOS
+Los medicamentos no utilizados o el material de desecho se deben eliminar según los
+requerimientos locales.
+"
+	Prospectos de medicamentos.

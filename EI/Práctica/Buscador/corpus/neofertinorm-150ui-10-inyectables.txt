@@ -1,0 +1,261 @@
+NEO-FERTINORM 150UI 10 INYECTABLES
+	Información Basica del medicamento Toda la información del medicamento 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	NEO-FERTINORM® 150 UI
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	      Principio Activo: Hormona Foliculoestimulante Humana (Urofolitropina de Alta Pureza),
+150 UI.
+ 
+3.    FORMA FARMACÉUTICA
+	      Polvo y disolvente para solución inyectable.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+              NEO-FERTINORM®, seguido de la administración de Gonadotrofina Coriónica
+(I)
+(hCG) está indicado para la estimulación del desarrollo folicular y la ovulación en
+mujeres que presentan disfunción hipotálamo-hipofisaria con oligomenorrea o
+amenorrea, que no responden al tratamiento habitual con clomifeno. Estas mujeres se
+clasifican como pacientes del Grupo II de la OMS. Tienen evidencia de producción
+endógena de estrógenos y por tanto menstruarán espontáneamente o experimentarán
+una hemorragia por deprivación después de la administración de progestágenos. En
+la mayoría de estas pacientes existe evidencia de síndrome del ovario poliquístico
+(PCOD), el cual se incluye dentro del Grupo II de la OMS.
+NEO-FERTINORM® está indicado para la estimulación del desarrollo folicular
+(II)
+múltiple en mujeres sometidas a superovulación para practicar técnicas de
+reproducción asistida (ART), tales como Fertilización In Vitro (FIV), transferencia
+intratubárica de gametos (GIFT) y transferencia intratubárica de zigotos (ZIFT).
+(III) NEO-FERTINORM®, admininistrado de forma concomitante con gonadotrofina
+coriónica humana (hCG), está indicado para estimular la espermatogénesis en
+varones con hipogonadismo hipogonadotropo congénito o adquirido.
+ 4.2   Posología y forma de administración
+       NEO-FERTINORM® debe administrarse por vía subcutánea o intramuscular. El liofilizado
+debe reconstituirse inmediatamente antes de su uso con el disolvente suministrado. Para
+evitar la administración intramuscular de grandes volúmenes, pueden disolverse hasta 5
+ampollas de NEO-FERTINORM® en 1 ml de disolvente.
+       Mujeres con disfunción hipotálamo-hipofisaria que presentan oligomenorrea o amenorrea
+(Grupo II de la OMS).
+       El objetivo del tratamiento con NEO-FERTINORM® es desarrollar un único folículo de
+Graaf maduro a partir del cual se liberará el óvulo tras la administración de hCG.
+NEO-FERTINORM® puede administrarse mediante un ciclo de inyecciones diarias. En
+pacientes que menstrúan el tratamiento debería comenzar dentro de los primeros 7 días del
+ciclo menstrual.
+El tratamiento debe adaptarse a la respuesta individual de la paciente en función (i) del
+tamaño folicular determinado por ecografía y/o (ii) de la secreción de estrógenos. Una
+ pauta frecuentemente utilizada consiste en comenzar con 75-150 UI de FSH diarias y
+aumentar o disminuir la dosis en 37,5 UI (hasta 75 UI), a intervalos de 7 ó 14 días si fuera
+necesario, para obtener una respuesta adecuada, pero no excesiva. Si una paciente no
+responde adecuadamente después de 4 semanas de tratamiento, el ciclo debe interrumpirse.
+       Cuando se obtiene una respuesta óptima, debe administrarse una inyección intramuscular
+única de hasta 10.000 UI de hCG, 24-48 horas después de la última inyección de NEO-
+FERTINORM®. Se recomienda a la paciente que realice el coito el mismo día de la
+administración de hCG, así como al día siguiente.
+Si se obtiene una respuesta excesiva, debe interrumpirse el tratamiento y no administrarse
+hCG (ver la sección ""Advertencias""). El tratamiento debe reiniciarse en el ciclo siguiente
+con una dosis más baja que la del ciclo previo.
+       Mujeres sometidas a superovulación para fertilización in vitro y otras técnicas de
+reproducción asistida.
+       Una pauta de tratamiento para inducir superovulación consiste en la administración de 150-
+225 UI de NEO-FERTINORM® por día, comenzando el día 2 ó 3 del ciclo. El tratamiento
+debe continuar hasta que se alcance un adecuado desarrollo folicular (según las
+concentraciones séricas de estrógenos y/o el examen ecográfico). Las dosis deben ajustarse
+en función de la respuesta de la paciente, sin que se rebasen habitualmente las 450 UI
+diarias.
+       Debe administrarse una dosis única de hasta 10.000 UI de hCG, 24-48 horas después de la
+última inyección de NEO-FERTINORM®, para inducir la maduración folicular final.
+       En la actualidad, se realiza frecuentemente un bloqueo hipofisario con un agonista de
+GnRH, para suprimir el pico endógeno de LH y controlar los niveles tónicos de LH. En un
+protocolo empleado frecuentemente, la administración de NEO-FERTINORM® comienza
+aproximadamente 2 semanas después de iniciar el tratamiento con el agonista, continuando
+ambos tratamientos hasta lograr un desarrollo folicular adecuado. Por ejemplo, tras dos
+semanas de tratamiento con el agonista, se administran 225 UI de NEO-FERTINORM®
+(i.m. o s.c.) durante los primeros 7 días. A continuación, se ajusta la dosis según la
+respuesta ovárica.
+Varones con hipogonadismo hipogonadotropo
+NEO-FERTINORM® debe administrarse concomitantemente con hCG a dosis de 150 UI
+tres veces por semana. Esta pauta debe continuar durante un mínimo de 4 meses. Si
+después de este periodo, el paciente no ha respondido, puede continuarse el tratamiento
+combinado (hCG más NEO-FERTINORM® 150 UI 3 veces por semana). La experiencia
+clínica actual indica que puede requerirse un tratamiento de hasta 18 meses o más para
+lograr la espermatogénesis.
+ 4.3   Contraindicaciones
+       NEO-FERTINORM® está contraindicado en mujeres por razones de seguridad en caso de:
+-   hipersensibilidad previa a las menotropinas o a cualquier excipiente utilizado en la
+formulación;
+-   embarazo;
+-   aumento del tamaño de los ovarios o presencia de quistes por causas distintas a un
+síndrome del ovario poliquístico;
+-     hemorragias ginecológicas de etiología desconocida;
+-     carcinoma ovárico, uterino o mamario;
+-     tumores del hipotálamo y de la hipófisis.
+       NEO-FERTINORM® está contraindicado en mujeres cuando no puede obtenerse una
+respuesta eficaz, en casos tales como:
+       -     fallo ovárico primario;
+-     malformaciones de los órganos sexuales incompatibles con el embarazo;
+-     tumores fibroides del útero incompatibles con el embarazo.
+       NEO-FERTINORM® está contraindicado en varones por razones de seguridad en:
+-   casos de hipersensibilidad previa a las menotrofinas (o a cualquier excipiente
+utilizado en la formulación).
+       NEO-FERTINORM® también está contraindicado en varones cuando no puede obtenerse
+una respuesta eficaz, como ocurre en:
+-     insuficiencia testicular primaria.
+4.4   ADVERTENCIAS Y PRECAUCIONES ESPECIALES DE EMPLEO
+       NEO-FERTINORM® puede producir reacciones locales en la zona de inyección.
+Ocasionalmente se han registrado reacciones de tipo alérgico, en las que se ha sospechado
+(aunque no demostrado) intolerancia a la lactosa. Por lo tanto, es importante considerar el
+efecto de la lactosa que contiene NEO-FERTINORM®, si se administra a pacientes con
+sensibilidad a la misma.
+       MUJERES:
+Antes de iniciar el tratamiento, debe valorarse el tipo de infertilidad de la pareja y la posible
+existencia de contraindicaciones para el embarazo. En particular, debe evaluarse si la
+paciente presenta hipotiroidismo, insuficiencia suprarrenal, hiperprolactinemia o tumores
+hipofisarios o hipotalámicos, y debe instaurarse el tratamiento específico apropiado.
+Aunque la utilización de las dosis de NEO-FERTINORM® recomendadas minimiza la
+posibilidad de un síndrome de hiperestimulación ovárica en pacientes sometidas a
+inducción de ovulación, se debe considerar la posibilidad de hiperestimulación y ovulación
+múltiple, por lo que se requiere una monitorización cuidadosa de las pacientes durante el
+tratamiento para minimizar su incidencia. Este síndrome puede convertirse en un
+acontecimiento adverso grave caracterizado por quistes ováricos grandes que puedan
+romperse. La respuesta estrogénica excesiva no induce, generalmente, una
+hiperestimulación significativa, excepto si se administra hCG para inducir la ovulación. Por
+lo tanto, en tales casos es preferible no administrar la hCG y advertir a la paciente que debe
+abstenerse de realizar el coito durante al menos 4 días.
+Las pacientes sometidas a superovulación tienen un mayor riesgo de desarrollar
+hiperestimulación, debido a la respuesta estrogénica excesiva y al desarrollo folicular
+múltiple. La aspiración de todos los folículos antes de la ovulación, puede reducir la
+incidencia de hiperestimulación.
+En las pacientes sometidas a técnicas de reproducción asistida, el riesgo de embarazos
+múltiples está relacionado con el número de ovocitos/embriones implantados. En las demás
+pacientes, la incidencia de embarazos y partos múltiples se ve aumentada por la
+administración de NEO-FERTINORM®, al igual que sucede con otros productos utilizados
+para estimular la ovulación; sin embargo, en la mayoría de los casos los embarazos son
+gemelares.
+La incidencia de abortos es más alta que en la población normal, pero comparable a las
+tasas de abortos observadas en mujeres con otros problemas de fertilidad.
+En las pacientes no sometidas a superovulación, la aparición de pequeños folículos
+secundarios, en presencia de más de un folículo dominante, según se visualiza por
+ecografía, se asocia a un aumento en la incidencia de hiperestimulación.
+VARONES:
+Unos niveles elevados de FSH endógena indican fallo testicular primario. Dichos pacientes
+no responden al tratamiento con NEO-FERTINORM®/hCG.
+Se recomienda practicar espermiogramas 4 a 6 meses después de iniciar el tratamiento para
+evaluar la respuesta al mismo.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+No se han descrito interacciones farmacológicas adversas, clínicamente significativas,
+durante el tratamiento con NEO-FERTINORM®.
+       El tratamiento simultáneo con NEO-FERTINORM® y otros agentes utilizados para
+estimular la ovulación puede potenciar la respuesta folicular, mientras que la utilización
+concomitante de análogos de GnRH para provocar desensibilización hipofisaria puede
+incrementar la dosis de NEO-FERTINORM® necesaria para estimular una respuesta
+ovárica adecuada.
+       No se han descrito incompatibilidades farmacológicas con NEO-FERTINORM®. El
+producto no debe mezclarse con otros fármacos en la misma jeringa.
+ 4.6   Embarazo y lactancia
+       NEO-FERTINORM® no debe administrarse en caso de embarazo o lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+       NEO-FERTINORM® no interfiere con la capacidad del paciente para conducir o utilizar
+máquinas.
+4.8   REACCIONES ADVERSAS
+En los ensayos clínicos, se han descrito cefaleas ocasionalmente
+Durante la administración de urofolitropina se han observado reacciones locales en la zona
+de inyección.
+Se han observado reacciones de hipersensibilidad.
+       MUJERES:
+       Tras la administración de urofolitropina y menotropina se ha observado fiebre y artralgias.
+       Debe tenerse en cuenta la posibilidad de una hiperestimulación ovárica durante el
+tratamiento con NEO-FERTINORM®. Los primeros síntomas de la misma son: dolor en la
+región pélvica, que puede asociarse a náuseas, vómitos y aumento de peso. En los casos
+graves, que son muy raros, el síndrome de hiperestimulación ovárica, con ovarios de un
+tamaño claramente aumentado, puede cursar con ascitis, hidrotórax, así como
+complicaciones tromboembólicas más graves. En raras ocasiones, pueden aparecer éstas
+últimas en ausencia de un síndrome de hiperestimulación ovárica. Si aparecen los síntomas
+mencionados durante el tratamiento con NEO-FERTINORM® debe realizarse un exámen
+médico cuidadoso. En estos casos debe interrumpirse el tratamiento con NEO-
+FERTINORM® y suspenderse la administración de hCG para inducir la ovulación.
+       La administración de NEO-FERTINORM® incrementa la incidencia de embarazos
+múltiples, al igual que ocurre con otros agentes utilizados para estimular la ovulación. Se ha
+observado que la mayoría de los embarazos múltiples son gemelares. En caso de FIV,
+depende del número de embriones implantados.
+       En raros casos se han asociado episodios de tromboembolismo arterial al tratamiento con
+menotropina/gonadotropina coriónica humana. Esto también puede ocurrir con el
+tratamiento con NEO-FERTINORM®/hCG.
+       La tasa de abortos es comparable a la observada en mujeres con otros problemas de
+fertilidad. Puede producirse embarazo ectópico en mujeres con historia previa de
+enfermedad tubárica.
+VARONES:
+Durante el tratamiento con NEO-FERTINORM®-hCG se puede producir ocasionalmente
+ginecomastia, acné y aumento de peso. Estos son efectos conocidos del tratamiento con
+hCG.
+ 4.9   Sobredosificación
+       Los efectos de una sobredosificación de NEO-FERTINORM® son desconocidos; sin
+embargo, puede esperarse que se produzca un síndrome de hiperestimulación ovárica, que
+se describe más ampliamente en el punto 4.4. ""Advertencias y precauciones especiales de
+empleo"".
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+       Grupo Farmacoterapéutico: Gonadotrofinas, Código ATC: G03G.
+       MUJERES:
+NEO-FERTINORM® es un preparado de Hormona Foliculoestimulante (FSH) purificada a
+partir de la Gonadotrofina Menopáusica Humana (HMG). El efecto más importante que se
+produce tras la administración parenteral de FSH es el desarrollo de folículos de Graaf
+maduros.
+VARONES:
+NEO-FERTINORM®, administrado concomitantemente con hCG durante al menos 4 meses
+induce la espermatogénesis en varones con déficit de FSH.
+ 5.2   Propiedades farmacocinéticas
+       Tras la administración a dosis única de NEO-FERTINORM® (150 UI) por vía s.c. o i.m. a
+voluntarios de sexo masculino:
+-     El pico de los niveles séricos de FSH se alcanzó al cabo de 15 ± 7 horas (s.c.) y 10 ±
+4 horas (i.m.), con un incremento de 4,0 ± 2 UI/l de FSH sobre los niveles basales,
+tanto por vía s.c. como por vía i.m.
+       -     72 horas después de la administración, los niveles séricos de FSH eran todavía
+significativamente mayores que los basales. La vida media de eliminación de la FSH
+resultó ser de 30-40 horas.
+ 5.3   Datos preclínicos sobre seguridad
+       En los estudios de toxicología y de seguridad en animales, no se observaron hallazgos
+significativos. Los estudios de toxicidad aguda se realizaron en ratones y ratas con dosis
+que excedieron las 1.500 UI/kg. En los estudios de toxicidad subaguda en ratas y monos se
+utilizaron dosis de hasta 100 UI/kg/día durante 13 semanas. NEO-FERTINORM® no
+presentó actividad mutagénica en los diversos estudios de mutagénesis.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Relación de excipientes
+       Ampolla de NEO-FERTINORM®
+Lactosa, hidróxido sódico, ácido clorhídrico.
+       Ampolla de disolvente
+Cloruro sódico, agua para inyección.
+ 6.2   Incompatibilidades
+       Hasta la fecha no se conocen incompatibilidades químicas de NEO-FERTINORM® con
+otros productos.
+ 6.3   Periodo de validez
+       El producto liofilizado es estable durante 2 años a temperatura  25ºC, protegido de la luz.
+ 6.4   Precauciones especiales de conservación
+       Mantener a temperatura  25ºC. Proteger de la luz.
+ 6.5   Naturaleza y contenido del recipiente
+       Polvo para solución inyectable
+Ampollas de vidrio neutro, incoloro, que contienen 150 UI de urofolitropina de alta pureza.
+       Disolvente para uso parenteral
+Ampollas de vidrio neutro, incoloro, que contienen 1 ml de solución salina.
+       NEO-FERTINORM® se presenta en dos formatos:
+Envase con 1 ampolla de polvo para solución inyectable + 1 ampolla de disolvente para uso
+parenteral.
+Envase con 10 ampollas de polvo para solución inyectable + 10 ampollas de disolvente para
+uso parenteral.
+ 6.6   Instrucciones de uso, manipulación y eliminación (en su caso)
+       Es conveniente que se realice la administración de NEO-FERTINORM® inmediatamente
+después de la reconstitución, para minimizar las pérdidas potenciales de FSH por adsorción
+a la jeringuilla. Se ha demostrado que el grado de adsorción que puede producirse no tiene
+un efecto significativo sobre la dosis requerida para la eficacia clínica.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	      LABORATORIOS SERONO, S.A.
+C/ María de Molina, 40
+28006 Madrid
+ Julio-98
+
+	 
+      NEO-FERTINORM 150UI 1 INYECTABLE
+         Prospectos de medicamentos.

@@ -1,0 +1,501 @@
+NAROPIN POLYAMP 40MG/AMP 5 AMPOLLAS 20ML SOLUC INY
+	Información Basica del medicamento Toda la información del medicamento 
+1.      NOMBRE DEL MEDICAMENTO
+	NAROPIN® POLYAMP® 20 mg, solución inyectable
+NAROPIN® POLYAMP® 40 mg, solución inyectable
+NAROPIN® POLYBAG® 200 mg, solución para perfusión
+NAROPIN® POLYBAG® 400 mg, solución para perfusión
+NAROPIN® POLYAMP® 75 mg, solución inyectable
+NAROPIN® POLYAMP® 150 mg, solución inyectable
+NAROPIN® POLYAMP® 100 mg, solución inyectable
+NAROPIN® POLYAMP® 200 mg, solución inyectable
+ 
+2.      COMPOSICION CUALITATIVA Y CUANTITATIVA
+	NAROPIN® POLYAMP®20 mg, solución inyectable: Cada ampolla de 10 ml contiene:
+Clorhidrato de ropivacaína (D.O.E.) 20 mg (2 mg/ml)
+NAROPIN® POLYAMP® 40 mg, solución inyectable: Cada ampolla de 20 ml contiene:
+Clorhidrato de ropivacaína (D.O.E.) 40 mg (2 mg/ml)
+NAROPIN® POLYBAG® 200 mg, solución para perfusión: Cada bolsa de perfusión de 100 ml
+contiene: Clorhidrato de ropivacaína (D.O.E.) 200 mg (2 mg/ml)
+NAROPIN® POLYBAG® 400 mg, solución para perfusión: Cada bolsa de perfusión de 200 ml
+contiene: Clorhidrato de ropivacaína (D.O.E.) 400 mg (2 mg/ml)
+NAROPIN® POLYAMP® 75 mg, solución inyectable: Cada ampolla de 10 ml contiene:
+Clorhidrato de ropivacaína (D.O.E.) 75 mg (7,5 mg/ml)
+NAROPIN® POLYAMP® 150 mg, solución inyectable: Cada ampolla de 20 ml contiene:
+Clorhidrato de ropivacaína (D.O.E.) 150 mg (7,5 mg/ml)
+NAROPIN® POLYAMP® 100 mg, solución inyectable: Cada ampolla de 10 ml contiene:
+Clorhidrato de ropivacaína (D.O.E.) 100 mg (10 mg/ml)
+NAROPIN® POLYAMP® 200 mg, solución inyectable: Cada ampolla de 20 ml contiene:
+Clorhidrato de ropivacaína (D.O.E.) 200 mg (10 mg/ml)
+ Para excipientes, ver apartado 6.1.
+ 
+3.      FORMA FARMACEUTICA
+	Solución inyectable para administración perineural y epidural (10-20 ml).
+ Solución para perfusión mediante administración perineural y epidural (100 y 200 ml).
+ 
+4.      DATOS CLINICOS
+	"4.1.    Indicaciones terapéuticas
+ NAROPIN está indicado en:
+ 1)      Anestesia en cirugía:
+- Bloqueo epidural para cirugía, incluyendo cesárea
+- Bloqueo de troncos nerviosos
+- Bloqueos periféricos
+ 2)      Tratamiento del dolor agudo:
+ -   Perfusión epidural continua o administración en bolus intermitente durante el
+-   Bloqueos periféricos
+-   Bloqueo nervioso periférico continuo mediante perfusión continua o inyecciones
+ 3)          Tratamiento del dolor agudo en pediatría:
+- Bloqueo epidural caudal para el tratamiento del dolor peri- y post-quirúrgico
+ 4.2.        Posología y forma de administración
+ NAROPIN únicamente se administrará por, o bajo la supervisión de, un médico con amplia
+experiencia en anestesia regional.
+ Posología
+ Adultos y niños mayores de 12 años de edad:
+ La Tabla que se presenta a continuación recoge unas recomendaciones sobre la dosis más
+habitualmente empleada en los diferentes tipos de bloqueo. Deberá emplearse la dosis más
+pequeña requerida para producir un bloqueo eficaz. La experiencia clínica y el conocimiento de la
+condición clínica del paciente son factores importantes a la hora de decidir la dosis.
+                                        mg/ml   ml           mg         minutos   horas
+ANESTESIA EN CIRUGIA
+Administración epidural lumbar
+Cirugía                                7,5     15-25        113-188    10-20     3-5
+Cesárea                                7,5     15-20                   10-20     3-5
+Administración epidural torácica
+Establecer un bloqueo para el    7,5           5-15         38-113     10-20
+alivio del dolor en el                         (dependien-
+post-operatorio                                do del nivel
+Bloqueo de troncos nerviosos*
+Bloqueo plexo braquial                 7,5     30-40        225-300    10-25     6-10
+Bloqueo periférico
+(por ej. bloqueos de nervios           7,5     1-30         7,5-225    1-15      2-6
+menores e infiltración)
+TRATAMIENTO DEL DOLOR
+AGUDO
+Administración epidural lumbar
+Bolus                                  2,0     10-20        20-40      10-15     0,5-1,5
+Inyecciones intermitentes (top-up)     2,0     10-15        20-30
+(por ej. tratamiento del dolor en el           (intervalo
+parto)                                         mínimo 30
+Perfusión continua por. ej             2,0     6-10 ml/h    12-20 mg/h n/p       n/p
+dolor de parto
+Tratamiento del dolor                  2,0     6-14 ml/h    12-28 mg/h n/p       n/p
+post-operatorio
+Administración epidural torácica
+Perfusión continua                     2,0     6-14 ml/h    12-28 mg/h n/p       n/p
+(tratamiento del dolor
+post-operatorio)
+Bloqueo periférico
+(por ej. bloqueos de nervios           2,0     1-100        2,0-200    1-5       2-6
+menores e infiltración)
+Bloqueo nervioso periférico
+(bloqueo femoral o interescaleno)
+ Perfusión continua o inyecciones       2,0     5-10 ml/h    10-20 mg/h n/p       n/p
+intermitentes
+(por ej. tratamiento del dolor post-
+quirúrgico)
+ Las dosis expuestas en la Tabla son las consideradas necesarias para producir un bloqueo
+adecuado y deberán considerarse como recomendaciones de uso en adultos. Tienen lugar
+variaciones individuales en el inicio y duración de la acción. Las cifras de la columna ""Dosis""
+reflejan el intervalo de dosis promedio necesario esperado. Se consultará bibliografía adecuada
+para los factores que afectan a las técnicas de bloqueo específicas y a los requerimientos de cada
+uno de los pacientes.
+* Con respecto al bloqueo de troncos nerviosos, únicamente puede darse una recomendación
+posológica para el plexo braquial. Para otros bloqueos del tronco nervioso, pueden requerirse
+dosis menores. Sin embargo, actualmente no existe experiencia para recomendaciones de dosis
+específicas para otros bloqueos.
+1) Deberán aplicarse dosis crecientes, la dosis inicial de unos 100 mg (97,5 mg = 13 ml; 105 mg =
+14 ml) se administrará durante 3-5 minutos. En caso necesario pueden administrarse dos dosis
+extra suponiendo conjuntamente 50 mg más.
+2) n/p = no procede
+ Generalmente, la anestesia en cirugía (por ej. administración epidural) requiere el uso de
+concentraciones y dosis más altas. Para los procesos quirúrgicos en los cuales es necesario un
+bloqueo motor profundo, se recomienda la anestesia epidural empleando la formulación de 10
+mg/ml. Para la analgesia (por ej. administración epidural en el tratamiento del dolor agudo) se
+recomiendan concentraciones y dosis inferiores.
+ Forma de administración
+ Antes y durante la inyección se recomienda realizar una aspiración cuidadosa para prevenir una
+inyección intravascular. Cuando se va a inyectar una dosis más alta, se aconseja una dosis de
+prueba de 3-5 ml de lidocaína con adrenalina (lidocaína al 2% con adrenalina 1:200.000). Una
+inyección intravascular accidental puede reconocerse por un incremento temporal en la frecuencia
+cardíaca y una inyección intratecal accidental por signos de bloqueo espinal.
+ Se requerirá aspiración antes y durante la administración de la dosis principal, que se inyectará de
+forma lenta o en dosis crecientes, a una velocidad de 25-50 mg/minuto, mientras se vigilan
+constantemente las funciones vitales del paciente y se mantiene el contacto verbal con él. Si
+aparecen síntomas tóxicos, la administración del fármaco deberá interrumpirse inmediatamente.
+ En el bloqueo epidural para cirugía, se han empleado dosis únicas de hasta 250 mg de
+Ropivacaína que fueron bien toleradas.
+ En el bloqueo del plexo braquial en un número limitado de pacientes se ha utilizado una dosis
+única de 300 mg que ha resultado ser bien tolerada.
+ Cuando se requieren bloqueos prolongados, mediante una perfusión continua o la administración
+en bolus repetida, deberá tenerse en cuenta los riesgos de alcanzar una concentración plasmática
+tóxica o la posibilidad de inducir lesión neural local. Dosis acumuladas de hasta 675 mg de
+Ropivacaína para cirugía y analgesia post-operatoria administradas durante 24 horas fueron bien
+toleradas en adultos, así como las perfusiones epidurales continuas post-operatorias a velocidades
+de hasta 28 mg/hora durante 72 horas. En un número limitado de pacientes se han administrado
+dosis superiores de hasta 800 mg/día con relativamente pocas reacciones adversas.
+ Para el tratamiento del dolor post-operatorio, se recomienda la siguiente técnica: A no ser que se
+inicie el tratamiento con Ropivacaína previamente a la intervención, se induce un bloqueo
+epidural con ésta a una concentración de 7,5 mg/ml empleando un catéter epidural. La analgesia
+se mantiene con una perfusión de NAROPIN de 2 mg/ml. Velocidades de perfusión de 6-14 ml
+(12-28 mg) por hora proporcionan una analgesia adecuada con solo un ligero y no progresivo
+bloqueo motor en la mayoría de los casos de dolor post-operatorio con carácter de moderado a
+severo. La duración máxima del bloqueo epidural es de 3 días. Sin embargo, deberá realizarse un
+seguimiento estrecho del efecto analgésico con el fin de extraer el catéter tan pronto como el dolor
+lo permita. Con esta técnica se ha observado una reducción significativa de la necesidad de
+utilizar opiáceos.
+ En estudios clínicos, se ha administrado una perfusión epidural de 2 mg/ml de NAROPIN sola o
+mezclada con 1-4 µg/ml de fentanilo para el tratamiento del dolor post-operatorio durante un
+periodo de hasta 72 horas. Esta combinación de NAROPIN y fentanilo proporcionó un mejor
+alivio del dolor pero causó efectos secundarios opiáceos; investigándose dicha combinación sólo
+para NAROPIN 2 mg/ml.
+ Cuando se aplican bloqueos nerviosos periféricos prolongados, bien a través de una perfusión
+continua o mediante inyecciones repetidas, se deben considerar los riesgos de alcanzar una
+concentración plasmática tóxica o de inducir lesión neural local. En estudios clínicos, se
+estableció un bloqueo nervioso femoral con 300 mg de NAROPIN 7,5 mg/ml y un bloqueo
+interescaleno con 225 mg de NAROPIN 7,5 mg/ml, respectivamente, antes de la cirugía;
+manteniéndose entonces la analgesia con NAROPIN 2 mg/ml. Tasas de perfusión o inyecciones
+intermitentes de 10-20 mg por hora durante 48 horas, provocaron una analgesia adecuada y fueron
+adecuadamente toleradas.
+ Concentraciones por encima de 7,5 mg/ml de NAROPIN no han sido estudiadas en las
+intervenciones de cesárea.
+ Pacientes pediátricos de 1 a 12 años de edad:
+                                               Conc.                Volumen              Dosis
+TRATAMIENTO DEL DOLOR
+AGUDO (per- y post-quirúrgico)
+Administración epidural caudal
+Inyección única
+Bloqueos inferiores a T12, en niños con un
+peso corporal de hasta 25 kg
+ Las dosis incluidas en la Tabla deberán considerarse como directrices para el empleo en pediatría. Se
+producen variaciones entre individuos. En niños con un alto peso corporal, a menudo es necesaria una
+reducción gradual de la dosis y deberá basarse en el peso corporal ideal. Se deberá consultar bibliografía
+adecuada en cuanto a los factores que afectan a las técnicas de bloqueo específicas y a los requerimientos
+individuales del paciente.
+ Forma de administración
+ Se recomienda una aspiración cuidadosa antes y durante la inyección para prevenir la inyección
+intravascular. Se observarán estrechamente las funciones vitales del paciente durante la inyección.
+Si se producen síntomas tóxicos, la inyección deberá interrumpirse inmediatamente.
+ Una inyección epidural caudal única de 2 mg/ml de Ropivacaína produce una analgesia post-
+quirúrgica idónea por debajo de T12 en la mayoría de los pacientes cuando se emplea una dosis de
+2 mg/kg en un volumen de 1 ml/kg. Se puede ajustar el volumen de la inyección epidural caudal
+para obtener una distribución diferente del bloqueo sensorial, tal como se recomienda en la
+bibliografía. Se han estudiado dosis de hasta 3 mg/kg de una concentración de Ropivacaína de 3
+mg/ml; sin embargo, esta concentración se asocia a una mayor incidencia de bloqueo motor.
+ Se recomienda fraccionar la dosis de anestésico local calculada, independientemente de la vía de
+administración.
+ Hasta que no se obtenga una mayor experiencia, no se puede recomendar el empleo de NAROPIN
+en niños menores de 1 año de edad.
+ 4.3.    Contraindicaciones
+ Las soluciones de NAROPIN están contraindicadas en pacientes con hipersensibilidad conocida a
+los anestésicos locales de tipo amida.
+ Deberán considerarse las contraindicaciones generales relacionadas con la anestesia epidural,
+independientemente del anestésico local empleado.
+ Anestesia regional intravenosa.
+ Anestesia paracervical obstétrica.
+ Hipovolemia.
+ 4.4.    Advertencias y precauciones especiales de empleo
+ Los procedimientos de anestesia regional deberán siempre realizarse con un equipo y en un área
+adecuada. Deberá estar disponible en cualquier momento el equipo y fármacos necesarios para la
+monitorización y resucitación de emergencia. Para la medicación de emergencia, los pacientes que
+van a recibir un bloqueo mayor o bajo tratamiento con dosis elevadas tendrán una vía intravenosa
+insertada antes de practicar el procedimiento de bloqueo. El responsable clínico estará
+debidamente entrenado y familiarizado con el diagnóstico y tratamiento de los efectos adversos,
+toxicidad sistémica y otras complicaciones como inyección subaracnoidea accidental, la cual
+puede producir un bloqueo espinal alto con apnea e hipotensión. Se han producido más
+frecuentemente convulsiones tras el bloqueo del plexo braquial y tras el bloqueo epidural. Ello
+probablemente sea debido a una inyección intravascular accidental o a una rápida absorción desde
+el lugar de inyección.
+ Ciertos procedimientos de anestesia local tales como inyecciones en zonas de la cabeza y cuello
+pueden asociarse a una mayor frecuencia de reacciones adversas graves, independientemente de la
+anestesia local empleada. Se requiere precaución para evitar inyecciones en áreas inflamadas.
+ Hasta que no se obtenga una mayor experiencia, no se puede recomendar el empleo de NAROPIN
+en niños menores de 1 año de edad.
+ Los pacientes con una mala condición general debido a edad avanzada u otros factores
+comprometedores tales como bloqueo parcial o completo de la conducción cardiaca, enfermedad
+hepática avanzada o disfunción renal grave requieren especial atención, aunque la anestesia
+regional esté frecuentemente indicada en este tipo de pacientes.
+ Ropivacaína se metaboliza en el hígado y, por lo tanto, deberá emplearse con precaución en
+pacientes con enfermedad hepática grave; puede requerirse la reducción de la repetición de las
+dosis debido a una eliminación retardada. Normalmente no existe la necesidad de modificar la
+dosis en pacientes con alteración renal cuando se administra para un tratamiento de dosis única o
+a corto plazo. La acidosis y una concentración reducida de proteínas plasmáticas, frecuentemente
+observada en pacientes con insuficiencia renal crónica, puede aumentar el riesgo de toxicidad
+sistémica.
+ Los pacientes con hipovolemia debida a cualquier causa, pueden desarrollar una súbita
+hipotensión de carácter grave durante la anestesia epidural, independientemente del anestésico
+local empleado.
+ Se deberá evitar la administración prolongada de Ropivacaína en pacientes tratados
+concomitantemente con inhibidores potentes del CYP1A2, tales como fluvoxamina y enoxacino
+(ver apartado 4.5.).
+ Deberá tenerse en cuenta la posibilidad de que se presente una hipersensibilidad cruzada con otros
+anestésicos locales tipo amida.
+ 4.5.    Interacción con con otros medicamentos y otras formas de interacción
+ NAROPIN debe emplearse con precaución en pacientes que reciban otros anestésicos locales o
+fármacos estructuralmente relacionados con los anestésicos locales tipo amida, por ej. ciertos
+antiarrítmicos, debido a que los efectos tóxicos son aditivos. El uso simultáneo de NAROPIN con
+anestésicos generales u opiáceos puede hacer que se potencien mutuamente los efectos (adversos)
+de los fármacos.
+ El citocromo P450 (CYP) lA2 está involucrado en la formación de 3-hidroxi-Ropivacaína, el
+metabolito principal. El aclaramiento plasmático in vivo de Ropivacaína se redujo en un 70%
+durante la administración conjunta de fluvoxamina, un inhibidor selectivo y potente del CYP1A2.
+Así, los inhibidores potentes del CYP1A2, tales como fluvoxamina y enoxacino, administrados
+concomitantemente durante la administración prolongada de NAROPIN, pueden interaccionar
+con éste. Se evitará una administración prolongada de Ropivacaína en pacientes que se estén
+tratando de forma concomitante con inhibidores potentes del sistema CYPlA2 (ver también
+apartado 4.4.).
+ El aclaramiento plasmático de Ropivacaína in vivo se redujo en un 15% durante la administración
+concomitante de ketoconazol, un inhibidor selectivo y potente del sistema CYP3A4. Sin embargo,
+la inhibición de este isoenzima no parece tener relevancia clínica.
+ Ropivacaína in vitro es un inhibidor competitivo del sistema CYP2D6 aunque no parece que
+inhiba a
+este isoenzima a las concentraciones plasmáticas alcanzadas clínicamente.
+ 4.6.    Embarazo y lactancia
+ Embarazo
+ Aparte de su empleo en obstetricia, no existen datos suficientes sobre el uso de Ropivacaína
+durante el embarazo. Los estudios en animales no indican efectos perjudiciales directos o
+indirectos en relación con el embarazo, desarrollo embrionario/fetal, parto o desarrollo postnatal
+(ver apartado 5.3.).
+ Lactancia
+ No existen datos acerca de la excreción de Ropivacaína en la leche materna.
+ 4.7.    Efectos sobre la capacidad de conducir vehículos y utilizar maquinaria
+ No existen datos disponibles. Dependiendo de la dosis, los anestésicos locales pueden presentar
+una influencia menor sobre la función y coordinación mental incluso en ausencia de toxicidad del
+SNC y pueden deteriorar temporalmente la locomoción y la atención.
+ 4.8.    Reacciones adversas
+ Generales
+ El perfil de reacciones adversas de NAROPIN es similar al que presentan otros anestésicos
+locales tipo amida de acción prolongada. Las reacciones adversas al fármaco deberán distinguirse
+de los efectos fisiológicos debidos al bloqueo nervioso en sí, por ejemplo disminución en la
+presión sanguínea y bradicardia durante el bloqueo espinal/epidural.
+ El porcentaje de pacientes que se puede esperar que experimente reacciones adversas varía según
+la vía de administración de NAROPIN. Las reacciones adversas sistémicas y localizadas de
+NAROPIN habitualmente se producen debido a una dosis excesiva, a una rápida absorción o a
+una inyección intravascular accidental. Las reacciones adversas más frecuentemente comunicadas,
+náuseas e hipotensión, son muy frecuentes durante la anestesia y cirugía en general y no es
+posible distinguir las producidas por la situación clínica de las causadas por el fármaco o el
+bloqueo.
+ Tabla de reacciones adversas al fármaco
+ Dentro de cada clase del sistema orgánico, las reacciones adversas al fármaco se han clasificado
+bajo el encabezado de frecuencia comenzando por las más frecuentes.
+Muy frecuentes           Alteraciones vasculares: Hipotensión.
+(>1/10)                  Alteraciones gastrointestinales: Náuseas.
+ Frecuentes               Alteraciones del sistema nervioso: Cefalea, parestesia, mareo.
+(>1/100)                 Alteraciones cardíacas: Bradicardia, taquicardia.
+ Poco frecuentes          Alteraciones del sistema nervioso: Hipoestesia.
+(>1/1000)
+ Raras                    Alteraciones psiquiátricas: Ansiedad.
+(>1/10000)               Alteraciones del sistema nervioso: Convulsiones.
+ En niños, las reacciones adversas de importancia clínica más frecuentemente comunicadas son
+vómitos, náuseas, prurito y retención urinaria.
+ Reacciones adversas al fármaco relacionadas con la clase
+ Reacciones alérgicas
+Las reacciones alérgicas a los anestésicos locales tipo amida (en los casos más graves choque
+anafiláctico) son raras.
+ Complicaciones neurológicas
+Se han asociado con la anestesia regional, independientemente del anestésico local empleado,
+neuropatía y disfunción de la médula ósea (por ej. síndrome de la arteria espinal anterior,
+aracnoiditis, cola de caballo) que raramente pueden ocasionar secuelas permanentes.
+ Toxicidad sistémica aguda
+NAROPIN puede causar efectos tóxicos agudos después de dosis altas o si se elevan los niveles
+plasmáticos de fármaco muy rápidamente debido a una inyección intravascular accidental o
+sobredosis (ver apartado 4.9.).
+ 4.9.    Sobredosis
+ Síntomas
+ Toxicidad sistémica aguda
+ Inyecciones intravasculares accidentales de anestésicos locales pueden causar efectos tóxicos
+inmediatos. En el caso de sobredosis, las concentraciones plasmáticas máximas pueden no
+alcanzarse hasta transcurridas una o dos horas, dependiendo del lugar de la inyección, y los signos
+de toxicidad pueden, por tanto, retrasarse. Las reacciones tóxicas sistémicas pueden afectar al
+sistema nervioso central y al sistema cardiovascular.
+En niños, puede ser difícil detectar los signos iniciales de toxicidad anestésica local en casos en
+los que el bloqueo se proporciona durante la anestesia general.
+ Sistema nervioso central
+ La toxicidad del sistema nervioso central es una respuesta gradual con síntomas y signos de
+gravedad creciente. Inicialmente, se observan síntomas tales como alteraciones visuales o de
+audición, entumecimiento perioral, mareos, ligeros desvanecimientos, hormigueo y parestesia.
+Disartria, rigidez muscular y espasmos musculares son más graves y pueden preceder a la
+aparición de convulsiones generalizadas. Estos signos no deben confundirse con un
+comportamiento neurótico. Se pueden presentar a continuación pérdida de la consciencia y
+convulsiones tipo gran mal de duración variable desde unos segundos a varios minutos. Durante
+las convulsiones se presenta rápidamente hipoxia e hipercapnia debido al incremento de la
+actividad muscular junto con la alteración que se produce en la respiración. En los casos graves se
+puede producir incluso apnea. La acidosis respiratoria y metabólica aumenta y prolonga los
+efectos tóxicos de los anestésicos locales.
+ La recuperación se produce tras la redistribución del anestésico local del sistema nervioso central
+y el consiguiente metabolismo y excreción. La recuperación puede ser rápida a no ser que se
+hayan inyectado grandes cantidades de fármaco.
+ Toxicidad cardiovascular
+ La toxicidad cardiovascular indica una situación más grave. Pueden producirse hipotensión,
+bradicardia, arritmia e incluso paro cardíaco como un resultado de concentraciones sistémicas
+altas de anestésicos locales. En voluntarios, la perfusión intravenosa de Ropivacaína resultó en
+signos de depresión de la conductividad y contractilidad.
+ Los efectos tóxicos cardiovasculares están generalmente precedidos por signos de toxicidad en el
+sistema nervioso central, a no ser que el paciente reciba un anestésico general o esté fuertemente
+sedado con benzodiacepinas o barbitúricos.
+ Tratamiento de la toxicidad aguda
+ Deberá estar disponible en cualquier momento el equipo y fármacos necesarios para la
+monitorización y reanimación de emergencia. Si aparecen signos de toxicidad sistémica aguda, se
+interrumpirá la administración del anestésico local inmediatamente.
+ Si se presentan convulsiones, se requerirá tratamiento. Este tratamiento consistirá en el
+mantenimiento de la oxigenación y la circulación, así como la eliminación de las convulsiones.
+ Se proporcionará oxígeno y ventilación asistida cuando sea necesario (máscara y bolsa). Por vía
+intravenosa se administrará un anticonvulsivante si las convulsiones no remiten de forma
+espontánea en 15-20 segundos. Dosis intravenosas de 1-3 mg/kg de tiopental sódico abortarán
+rápidamente las convulsiones. De forma alternativa, también puede emplearse una dosis
+intravenosa de 0,1 mg/kg de diazepam aunque su acción es más lenta. Suxametonio interrumpirá
+rápidamente las convulsiones musculares, aunque el paciente requerirá ventilación controlada e
+intubación traqueal.
+ Si se observa depresión cardiovascular (hipotensión, bradicardia), se administrarán 5-10 mg de
+efedrina por vía intravenosa y se repetirá en caso necesario una vez transcurridos 2-3 minutos.
+Los niños deberán recibir dosis proporcionales a su edad y peso.
+ Si se produjese paro circulatorio, aplicar inmediatamente resucitación cardiopulmonar. Son de
+vital importancia una oxigenación y ventilación óptimas, el mantenimiento de la circulación, así
+como el tratamiento para la acidosis.
+ "
+5.      PROPIEDADES FARMACOLOGICAS
+	"5.1.    Propiedades farmacodinámicas
+ Grupo farmacoterapéutico (código ATC): N01B B09
+ Ropivacaína es un anestésico local tipo amida de acción prolongada con efectos tanto analgésicos
+como anestésicos. A altas dosis produce anestesia quirúrgica, mientras que a dosis bajas origina
+un bloqueo sensorial acompañado de un bloqueo motor limitado y no progresivo.
+ El mecanismo es una reducción reversible de la permeabilidad de la membrana de la fibra
+nerviosa a los iones de sodio. Como consecuencia, la velocidad de despolarización disminuye y se
+incrementa el umbral necesario para producirse excitación, dando lugar a un bloqueo local de los
+impulsos nerviosos.
+ La propiedad más característica de Ropivacaína es la prolongada duración de acción. El inicio y la
+duración de la acción de la eficacia anestésica local dependen del lugar de administración y de la
+dosis, pero no están influidas por la presencia de un agente vasoconstrictor (por ej. adrenalina).
+Una información más detallada del inicio y la duración de la acción de NAROPIN, se expone en
+la Tabla incluida en el apartado sobre ""Posología y forma de administración"".
+ Los voluntarios sanos expuestos a perfusiones intravenosas toleraron bien Ropivacaína a dosis
+bajas y con síntomas del SNC esperados a la dosis máxima tolerada. La experiencia clínica con
+este fármaco indica un buen margen de seguridad cuando se emplea idóneamente a las dosis
+recomendadas.
+ En niños, no son habituales hipotensión y bradicardia tras el bloqueo epidural caudal.
+ 5.2.    Propiedades farmacocinéticas
+ Ropivacaína posee un centro quiral y está disponible como el enantiómero-S-(-) puro. Es
+altamente soluble a los lípidos. Todos los metabolitos poseen un efecto anestésico local pero una
+potencia considerablemente menor y una duración más corta que las de Ropivacaína.
+ La concentración plasmática de Ropivacaína depende de la dosis, la vía de administración y la
+vascularización del lugar de la inyección. Ropivacaína sigue una cinética lineal y la Cmax es
+proporcional a la dosis.
+ En adultos, Ropivacaína muestra una absorción completa y bifásica desde el espacio epidural con
+vidas medias de las dos fases del orden de 14 minutos y 4 horas. La absorción lenta es el factor
+limitante en la eliminación de Ropivacaína y explica porque la vida media de eliminación
+aparente es superior después de la administración epidural que tras la administración intravenosa.
+ Ropivacaína presenta un aclaramiento plasmático total medio del orden de 440 ml/minuto, un
+aclaramiento renal de 1 ml/minuto, un volumen de distribución en la fase estacionaria de 47 litros
+y una vida media terminal de 1,8 horas tras la administración intravenosa. Ropivacaína presenta
+un índice de extracción hepática intermedia de aproximadamente 0,4. A nivel plasmático, se une
+mayoritariamente a la glicoproteína ácida 1 con una fracción libre del 6%.
+ Se ha observado un incremento en las concentraciones plasmáticas totales durante la perfusión
+interescalena y epidural continuas, relacionado con un aumento post-operatorio de la
+glicoproteína ácida 1.
+ Las variaciones en la concentración de sustancia libre, sustancia farmacológicamente activa, han
+sido menores que en las de la concentración plasmática total.
+ En niños de entre 1 y 12 años de edad, la farmacocinética de Ropivacaína tras la anestesia
+regional ha demostrado no estar relacionada con la edad. En este grupo, Ropivacaína posee un
+aclaramiento plasmático total del orden de 7,5 ml/minuto kg, un aclaramiento plasmático libre de
+0,15 l/minuto kg, un volumen de distribución en estado estacionario de 2,4 l/kg, una fracción libre
+del 5% y una vida media terminal de 3 horas. Ropivacaína muestra una absorción bifásica a partir
+del espacio caudal. El aclaramiento relacionado con el peso corporal en este grupo de edad es
+similar al de los adultos.
+ Ropivacaína cruza fácilmente la barrera placentaria, alcanzándose rápidamente el equilibrio con la
+concentración libre. El grado de unión a proteínas plasmáticas en el feto es menor que en la
+madre, lo que resulta en unas concentraciones plasmáticas totales menores en el feto que en la
+madre.
+ Ropivacaína se metaboliza extensamente, predominantemente por hidroxilación aromática. Un
+total del 86% de la dosis se excreta por la orina después de la administración intravenosa, de la
+cual sólo un 1% se elimina como fármaco inalterado. El metabolito principal es 3-hidroxi-
+Ropivacaína, del cual un 37% se excreta por la orina, fundamentalmente en forma de compuesto
+conjugado. La excreción urinaria de 4-hidroxi-Ropivacaína, el metabolito N-dealquilado y el
+metabolito 4-hidroxi-dealquilado corresponde a un 1-3%. 3-hidroxi-Ropivacaína conjugada y no
+conjugada muestra sólo concentraciones detectables en plasma.
+ Se ha observado un patrón similar de metabolitos en niños mayores de 1 año de edad.
+ No existe evidencia de racemización in vivo de Ropivacaína.
+ 5.3.    Datos preclínicos de seguridad
+ En base a estudios convencionales de farmacología sobre seguridad, toxicidad de dosis única y
+repetida, toxicidad reproductiva, potencial mutagénico y toxicidad local, no se identificaron
+riesgos en humanos a parte de los que se pueden esperar en base a la acción farmacodinámica de
+dosis altas de Ropivacaína (por ejemplo, signos sobre el SNC, incluyendo convulsiones, y
+cardiotoxicidad).
+ "
+6.      DATOS FARMACEUTICOS
+	"6.1.    Lista de excipientes
+ Cloruro de sodio.
+Acido clorhídrico.
+Hidróxido de sodio.
+Agua para inyección.
+ 6.2.    Incompatibilidades
+ No se han investigado compatibilidades con otras soluciones, a parte de las mencionadas en el
+Apartado 6.6. Se puede producir precipitación en soluciones alcalinas ya que Ropivacaína
+muestra escasa solubilidad a pH > 6,0.
+ 6.3.    Período de validez
+ En ampollas (Polyamp®) es de 3 años
+ En las bolsas de perfusión (Polybag®) es de 2 años
+ 6.4.    Precauciones especiales de almacenamiento
+ No almacenar por encima de 30ºC. No congelar.
+ 6.5.    Naturaleza y contenido de los envases
+ NAROPIN® POLYAMP® 20 mg, solución inyectable: 5 ampollas de polipropileno (Polyamp®) de
+10 ml envasadas en blister estéril.
+NAROPIN® POLYAMP® 40 mg, solución inyectable: 5 ampollas de polipropileno (Polyamp®) de
+20 ml envasadas en blister estéril.
+NAROPIN® POLYBAG® 200 mg, solución para perfusión: 5 bolsas de polipropileno (Polybag®)
+de 100 ml envasadas en blister estéril.
+NAROPIN® POLYBAG® 400 mg, solución para perfusión: 5 bolsas de polipropileno (Polybag®)
+de 200 ml envasadas en blister estéril.
+NAROPIN® POLYAMP® 75 mg, solución inyectable: 5 ampollas de polipropileno (Polyamp®) de
+10 ml envasadas en blister estéril.
+NAROPIN® POLYAMP® 150 mg, solución inyectable: 5 ampollas de polipropileno (Polyamp®)
+de 20 ml envasadas en blister estéril.
+NAROPIN® POLYAMP® 100 mg, solución inyectable: 5 ampollas de polipropileno (Polyamp®)
+de 10 ml envasadas en blister estéril.
+NAROPIN® POLYAMP® 200 mg, solución inyectable: 5 ampollas de polipropileno (Polyamp®)
+de 20 ml envasadas en blister estéril.
+ Las ampollas de polipropileno (Polyamp®) están especialmente diseñadas para ajustarse a los
+tipos de cierre de jeringa ""Luer lock"" y ""Luer fit"".
+ 6.6.    Instrucciones de uso /manipulación
+ NAROPIN no contiene conservantes y está destinado sólo para un único uso. Desechar cualquier
+solución no utilizada.
+ El envase intacto no se debe re-introducir en el autoclave. Se deberá escoger un envase en blister
+cuando se requiera un entorno estéril.
+ La solución para perfusión de NAROPIN en bolsas de plástico para perfusión (Polybag) es
+química y físicamente compatible con los siguientes fármacos:
+                             Concentración de NAROPIN: 1-2 mg/ml
+Aditivo                                              Concentración*
+Citrato de fentanilo                                 1,0-10,0 microgramos/ml
+Citrato de sufentanilo                               0,4-4,0 microgramos/ml
+Sulfato de morfina                                   20,0-100,0 microgramos/ml
+Clorhidrato de clonidina                             5,0-50,0 microgramos/ml
+* Los rangos de concentración establecidos en la tabla son más amplios que los empleados en la
+práctica clínica. Las perfusiones epidurales de NAROPIN/citrato de sufentanilo,
+NAROPIN/sulfato de morfina y NAROPIN/clorhidrato de clonidina no se han evaluado en
+estudios clínicos.
+ Las mezclas son química y físicamente estables durante un periodo de 30 días a temperaturas de
+20º a 30ºC. Desde un punto de vista microbiológico, las mezclas se deberán emplear
+inmediatamente; si no fuese así, los tiempos y condiciones de almacenamiento internos antes de
+su utilización son responsabilidad del personal que las manipula y normalmente, no deberían
+prolongarse más de 24 horas a una temperatura de 2º a 8ºC.
+ "
+7.      TITULAR DE LA AUTORIZACION DE COMERCIALIZACION
+	AstraZeneca Farmacéutica Spain, S.A.
+C/ Serrano Galvache, nº 56
+Edificio Roble
+28033 Madrid
+ 
+8.      NUMERO DE LA AUTORIZACION DE COMERCIALIZACION
+	NAROPIN® POLYAMP® 20 mg, solución inyectable: 61.273
+NAROPIN® POLYAMP® 40 mg, solución inyectable: 61.274
+NAROPIN® POLYBAG® 200 mg, solución para perfusión: 61.279
+NAROPIN® POLYBAG® 400 mg, solución para perfusión: 61.280
+NAROPIN® POLYAMP® 75 mg, solución inyectable: 61.275
+NAROPIN® POLYAMP® 150 mg, solución inyectable: 61.277
+NAROPIN® POLYAMP® 100 mg, solución inyectable: 61.276
+NAROPIN® POLYAMP® 200 mg, solución inyectable: 61.278
+ 9.   FECHA DE              LA    PRIMERA         APROBACION/RENOVACION                 DE     LA
+AUTORIZACION
+15 Septiembre 2000
+ 10.    FECHA DE REVISION DEL TEXTO
+           Enero de 2004
+
+	Prospectos de medicamentos.

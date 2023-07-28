@@ -1,0 +1,244 @@
+LACERDERMOL COMPLEX CAPSULAS, 30 CAPSULAS
+	"Información Basica del medicamento Toda la información del medicamento 1   NOMBRE DEL MEDICAMENTO
+ Lacerdermol Complex cápsulas.
+ 2      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+     Cada cápsula contiene:
+     Retinol (D.C.I.)                            40.000 U.I.
+Biotina (D.C.I.)                            1 mg
+Pantotenato cálcico (D.C.I.)                50 mg
+Benfotiamina (D.C.I.)           50 mg
+Piridoxina clorhidrato (D.C.I.)  5 mg
+Cianocobalamina (D.C.I.) 0,1 mg
+     Ver lista de excipientes en la sección 6.1.
+ 3   FORMA FARMACÉUTICA
+     Cápsulas de gelatina dura.
+ 
+
+4   DATOS CLÍNICOS
+ 4.1 Indicaciones terapéuticas
+     Dermopatías carenciales o reaccionales, eczemas seborreicos, alteraciones tróficas de la piel
+y uñas, alopecias (caída del cabello). Alteraciones mucosas de origen carencial.
+ 4.2 Posología y forma de administración
+     Vía oral.
+     Adultos: Salvo indicación médica, la dosis de ataque habitual es de 1 cápsula, 3 veces al día,
+durante un periodo de 1 a 2 meses. La dosis de mantenimiento es de 1 a 2 cápsulas diarias.
+En los tratamientos prolongados (periodos máximos de 6 meses), conviene intercalar
+periodos de descanso.
+     Niños mayores de 12 años: 1 cápsula diaria durante un periodo máximo de 1 mes.
+     Las cápsulas pueden ingerirse con la ayuda de algún líquido (agua, leche o zumo de frutas).
+ 4.3 Contraindicaciones
+     No debe administrarse Lacerdermol Complex en los siguientes casos:
+           Hipersensibilidad conocida a alguno de los componentes del producto.
+Hipervitaminosis A.
+Hepatopatía previa.
+Insuficiencia renal crónica.
+           Pacientes parkinsonianos en tratamiento con levodopa sola.
+Embarazo (ver apartado 4.6 ""Embarazo y lactancia"").
+Niños menores de 12 años.
+ 4.4 Advertencias y precauciones especiales de empleo
+     La toma del producto no debe asociarse con el consumo excesivo de alcohol.
+     El producto no debe administrarse, de forma continuada, por periodos muy prolongados de
+tiempo (periodos máximos de 6 meses).
+     Se recomienda precaución en niños mayores de 12 años, que suelen ser más sensibles a los
+efectos de las dosis elevadas de retinol.
+     La administración continuada de grandes dosis de piridoxina se ha asociado con efectos
+adversos de tipo neurológico, tales como náuseas, dolor de cabeza, parestesias, somnolencia
+o incrementos de los niveles séricos de ASAT.
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+     Interacciones descritas para el retinol (vitamina A):
+           La absorción de la vitamina A puede verse reducida por la administración
+concomitante de colestipol, colestiramina, neomicina o sucralfato.
+El uso simultáneo de isotretinoína con retinol puede dar lugar a efectos tóxicos
+aditivos.
+     Interacciones descritas para la biotina:
+           Existen indicios de que, tras largo tiempo de tratamiento, los fármacos
+anticonvulsivantes pueden reducir el nivel plasmático de la biotina.
+     Interacciones descritas para la piridoxina (vitamina B6):
+                La piridoxina acelera el metabolismo periférico de la levodopa, por lo que
+invierte sus efectos terapéuticos. La administración concomitante de carbidopa con
+levodopa previene la inversión de los efectos de la levodopa ocasionada por la
+piridoxina. La piridoxina no debe administrarse a dosis superiores a 5 mg/día a
+pacientes que estén siguiendo un tratamiento con levodopa sola.
+                La piridoxina puede disminuir las concentraciones plasmáticas de fenobarbital y
+fenitoína del orden del 50%.
+                La administración concomitante de isoniacida ocasiona una disminución en la
+eficacia del tratamiento con vitamina B6.
+La piridoxina también resulta antagonizada por otros fármacos tales como
+penicilamina, hidralazina, cicloserina o esteroides anovulatorios.
+     Interacciones descritas para la cianocobalamina (vitamina B12):
+ Existe un antagonismo entre los folatos y la vitamina B12. Elevadas dosis de folatos
+pueden enmascarar los efectos hematológicos provocados por la deficiencia de
+vitamina B12, pero exacerban sus consecuencias neurológicas.
+In vitro, el ácido ascórbico puede destruir cantidades importantes de vitamina B12.
+Este hecho debe tenerse en cuenta cuando se administren grandes dosis de ácido
+ascórbico dentro de la hora siguiente a la administración de la cianocobalamina por vía
+oral.
+La absorción de cianocobalamina, a nivel del tracto gastrointestinal, puede verse
+disminuida por los antibióticos aminoglucósidos, la colchicina, preparaciones de
+potasio de liberación sostenida, ácido aminosalicílico, anticonvulsivantes (ej:
+fenitoína, fenobarbital, primidona), radiaciones de cobalto y la ingesta excesiva de
+alcohol.
+ 4.6 Embarazo y lactancia
+     Embarazo:
+     Se han descrito anomalías fetales, retraso en el crecimiento y cierre prematuro de epífisis, en
+niños cuyas madres tomaron cantidades excesivas de vitamina A durante el embarazo. Del
+mismo modo, la administración de dosis elevadas de piridoxina, durante el embarazo, se ha
+relacionado con casos de dependencia a la piridoxina en el neonato. Por lo tanto, no debe
+administrarse Lacerdermol Complex a mujeres embarazadas.
+     Lactancia:
+     Tiamina, piridoxina y cianocobalamina se distribuyen a la leche materna. Por lo tanto, no se
+recomienda administrar Lacerdermol Complex durante la lactancia.
+ 4.7 Efectos sobre la capacidad para conducir y utilizar maquinaria
+     La administración de Lacerdermol Complex no afecta la capacidad del paciente para
+conducir o utilizar maquinaria.
+ 4.8 Reacciones adversas
+     Los efectos secundarios son poco frecuentes.
+     La administración de dosis excesivas de vitamina A, de forma aguda o durante periodos
+prolongados, puede producir fenómenos de hipervitaminosis A, caracterizados por pérdida
+del apetito, vómitos o inflamaciones articulares.
+     La dosis de 200 mg de piridoxina al día, durante más de 30 días, produce síndrome de
+dependencia de piridoxina.
+ 4.9 Sobredosis
+     La intoxicación aguda de vitamina A puede ocurrir con muy altas dosis y se caracteriza por
+sedación, mareos, náuseas y vómitos, eczema, prurito y descamación de la piel. También
+pueden aparecer encías sangrantes o llagas en la boca y, en bebés, zona blanda abultada en la
+cabeza.
+     La toxicidad es reversible al suprimir el retinol.
+5   PROPIEDADES FARMACOLÓGICAS
+ 5.1 Propiedades farmacodinámicas
+     Clasificación ATC: A11EX
+     Grupo farmacoterapéutico: Vitaminas del complejo B, otras combinaciones.
+     Lacerdermol Complex es una asociación de retinol (vitamina A), biotina y vitaminas del
+grupo B: ácido pantoténico (vitamina B5), tiamina (vitamina B1), piridoxina (vitamina B6) y
+cianocobalamina (vitamina B12).
+     Además de desempeñar un papel esencial en la función de la retina, la vitamina A interviene
+en el crecimiento y diferenciación del tejido epitelial y de otros tejidos, como el hueso, en la
+reproducción y el desarrollo del embrión. Junto a otros carotenoides, promueve la función
+inmunitaria, reduce las consecuencias de algunas enfermedades infecciosas y puede proteger
+frente al desarrollo de ciertas neoplasias. Por sus acciones en la piel, los retinoides y sus
+análogos se emplean en varias enfermedades de la piel, incluyendo algunas consecuencias de
+la edad y de la exposición prolongada al sol.
+     La biotina actúa como coenzima en toda una serie de reacciones en las que interviene la
+transferencia de CO2: carboxilasas, transcarboxilasas y descarboxilasas. Por ello, juega un
+importante papel tanto en el metabolismo de los carbohidratos como de las grasas.
+     El pantotenato cálcico es la sal cálcica del ácido pantoténico. El ácido pantoténico se
+requiere para el metabolismo intermediario de carbohidratos, proteínas y lípidos. Es un
+precursor del coenzima A, que participa en las reacciones de acetilación de la
+gluconeogénesis, en la liberación de energía a partir de carbohidratos, en la síntesis y
+degradación de ácidos grasos, así como en la síntesis de esteroles y hormonas esteroideas,
+porfirinas, acetilcolina y otros compuestos.
+     La benfotiamina es un análogo agonista de la tiamina. El pirofosfato de tiamina, forma
+fisiológicamente activa de la tiamina, participa como coenzima (cocarboxilasa) en el
+metabolismo de los carbohidratos.
+     La vitamina B6 comprende tres formas: piridoxina, piridoxal y piridoxamina. En los
+eritrocitos, la piridoxina se convierte en fosfato de piridoxal y, en menor grado, en fosfato de
+piridoxamina, que actúan en prácticamente todas las reacciones metabólicas de los
+aminoácidos: transaminación por aminotransferasas, desaminación no oxidativa,
+descarboxilación y desulfuración.
+     La cianocobalamina es una forma sintética de la cobalamina (vitamina B12), empleada
+comercialmente por su buena absorción y estabilidad. En el hombre, se requiere una fuente
+exógena de vitamina B12 para la síntesis de nucleoproteína y mielina, la reproducción celular,
+el normal crecimiento y el mantenimiento de una eritropoyesis normal. Las células
+caracterizadas por una rápida división (por ejemplo, células epiteliales, médula ósea y células
+mieloides) parecen ser las que tienen un mayor requerimiento de vitamina B12. La
+desoxiadenosil cobalamina y la metilcobalamina son las dos formas activas como coenzimas
+de la vitamina B12, siendo esenciales para el crecimiento y replicación celular.
+                                                                                                        MINISTERIO
+5.2 Propiedades farmacocinéticas
+     El retinol se absorbe rápidamente en el tracto gastrointestinal. Cuando se ingiere en
+cantidades próximas a las requeridas diariamente, su absorción es completa. Sin embargo,
+cuando se toman grandes dosis, alguna parte del retinol se elimina con las heces. La mayor
+parte del retinol absorbido se reesterifica (principalmente a palmitato) en el interior de las
+células de absorción del intestino delgado, incorporándose en quilomicrones. Parte del retinol
+se almacena en el hígado. El hígado libera el retinol en su forma trans, asociado a una
+proteína específica: la proteína fijadora de retinol (RBP). Normalmente, más del 95% de los
+retinoides plasmáticos está unido a RBP. El complejo retinol-RBP se disocia tras penetrar en
+las células, fijándose rápidamente el retinol a otras proteínas celulares que lo protegen de la
+oxidación y lo transportan al sitio de acción intracelular. El retinol no almacenado se conjuga
+y oxida dando lugar, entre otros metabolitos, a retinal y ácido retinoico, que se eliminan con
+las heces y en la orina.
+     La biotina se absorbe bien en el tubo digestivo, distribuyéndose por todo el organismo. La
+especie humana es incapaz de romper los anillos de biotina, eliminándose por orina
+predominantemente de forma intacta o bien en forma de norbiotina y biotina sulfóxido.
+     El ácido pantoténico se absorbe bien en el tubo digestivo. La biodisponibilidad del ácido
+pantoténico presente en la dieta es de alrededor del 50%. Se distribuye ampliamente en los
+tejidos corporales, principalmente como coenzima A. Las principales concentraciones se
+encuentran en hígado, glándulas suprarrenales, corazón y riñones. No sufre degradación en el
+organismo y se elimina, en forma activa, en un 70% por orina y en un 30% por heces.
+     La tiamina se absorbe en el intestino delgado por un sistema de transporte activo, para
+concentraciones menores de 2 M, y por difusión pasiva, para concentraciones superiores.
+Diversas sustancias, incluido el alcohol, pueden inhibir el transporte activo. Los derivados
+más liposolubles, como la benfotiamina, se absorben con mayor rapidez. La tiamina es
+fosforilada en la propia célula intestinal. El organismo tiene una capacidad limitada para
+almacenar tiamina. En principio, se encuentra en todos los tejidos, alcanzándose las mayores
+concentraciones en hígado, corazón y riñón, donde se convierte en ésteres difosfato y
+trifosfato. Todo exceso de tiamina se elimina con rapidez por la orina. Los fosfatos pueden
+ser hidrolizados por fosfatasas y la tiamina se puede descomponer en sus componentes y
+sufrir numerosas transformaciones.
+     La piridoxina se absorbe rápidamente en el tracto gastrointestinal. La piridoxina se almacena
+principalmente en el hígado, donde es fosforilada en fosfato de piridoxina y transaminada a
+piridoxal y piridoxamina, que son rápidamente fosforilados. Sufre metabolismo hepático por
+oxidación, dando lugar a ácido 4-piridóxico que se excreta con la orina. Su semivida de
+eliminación es de 15-20 días. Se puede eliminar mediante hemodiálisis.
+     La cobalamina se absorbe, a nivel del íleon, mediante un transporte activo que requiere la
+presencia de factor intrínseco, una glucoproteína segregada por las células parietales
+gástricas, a la que se fija la cobalamina a nivel gástrico tras ser liberada de los alimentos y
+proteínas salivales de unión. En el proceso de absorción, la vitamina se disocia del complejo
+y pasa al plasma, donde se fija a otras proteínas específicas denominadas transcobalaminas.
+El hígado es el principal órgano de depósito, ya que contiene alrededor del 90% del total. La
+velocidad de recambio diaria es del 0,05-0,2% del depósito total, lo que representa 2-8
+g/día. Se eliminan 0,5-5 g/día por la bilis, pudiendo recuperarse el 65-75% al entrar en la
+circulación enterohepática. También se elimina por la orina y las heces. La eliminación
+urinaria aumenta cuando se administra cobalamina exógena.
+ 5.3 Datos preclínicos sobre seguridad
+     De los estudios de toxicidad aguda, realizados en administración oral, se han obtenido las
+siguientes DL50:
+               Vitamina A (palmitato). En ratas: > 2.000 mg/kg.
+Vitamina A (palmitato). En ratones: 6.060 mg/kg.
+Biotina. En ratas: > 2.000 mg/kg.
+Pantotenato cálcico. En ratas: > 5.000 mg/kg.
+Tiamina (clorhidrato). En ratas macho: 3.710 mg/kg
+Piridoxina (clorhidrato). En ratas: 4.000 mg/kg.
+     En el test de irritación primaria, la vitamina A se ha mostrado irritante en piel de conejo.
+Basándose en tests realizados en animales, no se puede excluir un potencial de
+sensibilización. En la mayoría de los sistemas de ensayo (microorganismos), y en
+experimentación animal, la vitamina A no mostró ningún efecto mutagénico. La totalidad de
+las informaciones disponibles (ensayos a corto y largo plazo) no indica que la vitamina A, en
+sí misma, tenga algún efecto cancerígeno. En experimentación animal, la vitamina A
+presentó un efecto teratógeno.
+     El pantotenato cálcico no se ha mostrado irritante tanto en aplicación en piel como en
+mucosa de conejo.
+     En los diferentes ensayos realizados con bacterias o con cultivos de células de mamíferos, no
+se ha podido constatar que el pantotenato cálcico y la piridoxina tengan efecto mutagénico.
+La biotina y la tiamina no han presentado efectos mutágenos en bacterias.
+     En experimentación animal, con tiamina y piridoxina, no se ha observado ningún indicio de
+efectos perjudiciales para la fertilidad.
+     Para la cianocobalamina, no se encuentran descritos en la literatura casos de mutagénesis o
+carcinogénesis.
+ 6   DATOS FARMACÉUTICOS
+ 6.1 Relación de excipientes
+     Fosfato cálcico dibásico, gelatina, estearato magnesio, sílice coloidal anhidra, dióxido de
+titanio (E171), eritrosina (E127), óxido de hierro rojo (E172), óxido de hierro amarillo
+(E172).
+ 6.2 Incompatibilidades
+     No procede.
+ 6.3 Período de validez
+     3 años.
+                                                                                                     MINISTERIO
+6.4 Precauciones especiales de conservación
+     No se precisan condiciones especiales de conservación.
+ 6.5 Naturaleza y contenido del recipiente
+     Blisters de PVC/Aluminio conteniendo 30 cápsulas de gelatina dura.
+ 6.6 Instrucciones de uso y manipulación
+     No procede.
+ 7   TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+     LÁCER, S.A.
+C/. Sardenya, 350
+08025 Barcelona
+ 8   NÚMERO DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+     Número de registro: 52.406.
+ 9   FECHA DE APROBACIÓN DE LA FICHA TÉCNICA / RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 10 FECHA DE REVISIÓN DEL TEXTO
+     Septiembre de 2007
+ Prospectos de medicamentos."

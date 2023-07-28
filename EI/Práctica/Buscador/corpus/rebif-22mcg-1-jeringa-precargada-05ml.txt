@@ -1,0 +1,886 @@
+REBIF 22MCG 1 JERINGA PRECARGADA 0,5ML
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Rebif 22 microgramos solución inyectable
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada jeringa precargada (0,5 ml) contiene 22 microgramos (6 millones de UI*) de Interferón beta-
+1a**.
+* La potencia (UI) se determina utilizando el bioensayo citopático (CPE) frente a un estándar interno
+de IFN beta-1a, que se referencia frente al estándar internacional del NIH (GB-23-902-531).
+**producido por tecnología del ADN recombinante en células de ovario de hámster chino (CHO-K1).
+Excipientes: 2,5 mg de alcohol bencílico y tampón acetato sódico 0,01M.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Solución inyectable.
+Solución clara a opalescente, con un pH de 3,5 a 4,5 y una osmolaridad de 250 mOsm/l a 450 mOsm/l.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Rebif está indicado para el tratamiento de los pacientes que presentan esclerosis múltiple en brotes.
+En los ensayos clínicos, esto se caracterizó por la aparición de dos o más brotes en los dos años
+previos (ver apartado 5.1).
+No se ha demostrado su eficacia en aquellos pacientes que presentan esclerosis múltiple secundaria
+progresiva que dejen de presentar actividad de brotes (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ El tratamiento debe instaurarse bajo la supervisión de un médico con experiencia en el tratamiento de
+la enfermedad.
+Rebif está disponible en tres concentraciones: 8,8 microgramos, 22 microgramos y 44 microgramos.
+Para pacientes que inician el tratamiento con Rebif, está disponible un envase que contiene Rebif 8,8
+microgramos y Rebif 22 microgramos, que cubre las necesidades del paciente durante el primer mes
+de tratamiento.
+ La posología recomendada de Rebif es de 44 microgramos, administrados tres veces por semana por
+inyección subcutánea. Rebif 22 microgramos, administrado también tres veces por semana por
+inyección subcutánea, se recomienda para los pacientes que no toleran la dosis más alta, según
+considere el especialista que los trate.
+ Niños y adolescentes
+ No se han llevado a cabo ensayos clínicos formales ni estudios farmacocinéticos en niños ni
+adolescentes. Sin embargo, los datos publicados limitados sugieren que el perfil de seguridad en
+adolescentes de 12 a 16 años tratados con Rebif 22 microgramos, por vía subcutánea, tres veces por
+semana, es similar al observado en adultos. Se dispone de una información limitada sobre el uso de
+Rebif en niños menores de 12 años y, por lo tanto, Rebif no debe utilizarse en esta población.
+ Antes de la inyección y durante 24 horas después de cada inyección, se recomienda la administración
+de un analgésico antipirético para reducir los síntomas pseudogripales asociados con la administración
+de Rebif.
+Actualmente, se desconoce el tiempo durante el cual se debe tratar a los pacientes. La seguridad y
+eficacia de Rebif no se han demostrado durante el período posterior a 4 años de tratamiento. Se
+recomienda evaluar a los pacientes al menos cada dos años en el periodo de los 4 años siguientes al
+comienzo del tratamiento con Rebif y que el médico decida entonces de forma individualizada si
+conviene prolongar el tratamiento durante más tiempo.
+ 4.3   Contraindicaciones
+ ·     Inicio del tratamiento en el embarazo (ver apartado 4.6).
+·     Pacientes que presentan hipersensibilidad conocida al interferón beta natural o recombinante o a
+alguno de los excipientes.
+·     Pacientes que presentan depresión grave activa y/o ideación suicida (ver apartado 4.4 y 4.8).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se debe informar a los pacientes de las reacciones adversas más frecuentes asociadas a la
+administración de interferón beta, incluyendo los síntomas del síndrome pseudogripal (ver apartado
+4.8). Estos síntomas tienden a ser más intensos al comenzar el tratamiento, y disminuyen en frecuencia
+y gravedad con el tratamiento continuado.
+ Rebif debe administrarse con precaución en pacientes que presentan trastornos depresivos previos o
+activos, en particular en aquellos con antecedentes de ideación suicida (ver apartado 4.3). Se sabe que
+existe una mayor frecuencia de depresión e ideación suicida en la población con esclerosis múltiple y
+en asociación con el uso de interferón. Se debe aconsejar a los pacientes tratados con Rebif que
+notifiquen inmediatamente a su médico cualquier síntoma de depresión y/o ideación suicida. Los
+pacientes que presenten depresión deben controlarse estrechamente durante el tratamiento con Rebif y
+tratarse de forma adecuada. Debe considerarse la posibilidad de interrumpir el tratamiento con Rebif
+(ver secciones 4.3 y 4.8).
+ Rebif debe administrarse con precaución enpacientes con historia previa de crisis epilépticas, en
+aquellos que reciben tratamiento con antiepilépticos, en especial si su epilepsia no está
+convenientemente controlada con antiepilépticos (ver secciones 4.5 y 4.8).
+Los pacientes que presentan cardiopatías, tales como angina, insuficiencia cardíaca congestiva o
+arritmias, deben vigilarse estrechamente para descartar un empeoramiento de su situación clínica al
+inicio del tratamiento con Interferón beta-1a. Los síntomas del síndrome pseudogripal asociados al
+tratamiento con Interferón beta-1a pueden alterar a los pacientes que presentan cardiopatías.
+ En algunos pacientes que utilizan Rebif se ha notificado necrosis en la zona de inyección (ver apartado
+4.8). Para minimizar el riesgo de necrosis en la zona de inyección se debe recomendar a los pacientes
+que:
+·      utilicen una técnica de inyección aséptica,
+·      alternen las zonas de inyección cada vez que se inyecten.
+ Se debe revisar periódicamente el procedimiento de auto-administración por el propio paciente,
+especialmente si se han producido reacciones en el lugar de inyección.
+Si el paciente presenta cualquier rotura de la piel, que pueda estar asociada a hinchazón o drenaje de
+líquido desde la zona de inyección, se le debe recomendar que consulte a su médico antes de continuar
+con las inyecciones de Rebif. Si los pacientes presentan múltiples lesiones, se debe suspender el
+tratamiento con Rebif hasta que se hayan curado. Los pacientes con una única lesión pueden continuar
+el tratamiento, siempre que la necrosis no sea demasiado extensa.
+ En los ensayos clínicos con Rebif, fue frecuente el aumento asintomático de las transaminasas
+hepáticas (especialmente la alanina aminotransferasa (ALT)) y el 1-3 % de los pacientes presentaron
+elevacion de dichas transaminasas por encima de 5 veces el límite superior de la normalidad (ULN).
+                                                    3
+En ausencia de síntomas clínicos, deben controlarse los niveles de ALT antes de iniciar el tratamiento,
+al cabo de 1, 3 y 6 meses de tratamiento y luego periódicamente. Si la ALT aumenta más de 5 veces el
+ULN, debe considerarse una reducción de la dosis de Rebif, para volver a aumentarla gradualmente
+cuando se hayan normalizado los niveles enzimáticos. El tratamiento con Rebif debe iniciarse con
+precaución en pacientes con historia de hepatopatía significativa, evidencia clínica de hepatopatía
+activa, abuso de alcohol o ALT sérica elevada (>2,5 veces el ULN). El tratamiento con Rebif debe
+interrumpirse si aparece ictericia u otros síntomas clínicos de disfunción hepática (ver apartado 4.8).
+ Rebif, como los otros interferones beta, tiene cierto potencial para causar daño hepático grave (ver apartado 4.8), incluyendo insuficiencia hepática aguda. El mecanismo de los casos raros de disfunción
+hepática sintomática no se conoce. No se han identificado factores de riesgo específicos.
+ El empleode interferones puede acompañarse de alteraciones analíticas. Por tanto, además de las
+pruebas de laboratorio requeridas normalmente para controlar a los pacientes con esclerosis múltiple,
+tras el inicio del tratamiento con Rebif y en ausencia de síntomas clínicos, se recomienda realizar un
+control de las enzimas hepáticas y un recuento celular, fórmula leucocitaria y determinación de
+plaquetas a intervalos regulares (1, 3 y 6 meses) y luego periódicamente.
+ Los pacientes tratados con Rebif pueden presentar ocasionalmente alteraciones en la función tiroidea
+de nuevo diagnóstico o un empeoramiento de las ya existentes. Se recomienda practicar pruebas de
+función tiroidea en situación basal y, si son anormales, cada 6-12 meses tras el comienzo del
+tratamiento. Si las pruebas basales son normales, no es necesario repetirlas de forma sistemática, pero
+deben realizarse si aparecen signos clínicos de disfunción tiroidea (ver apartado 4.8).
+ Se deberá tener precaución y considerar una estrecha monitorización cuando se administre Interferón
+beta-1a en pacientes con insuficiencia renal o hepática graves y en pacientes con mielosupresión
+grave.
+ Pueden aparecer en el suero anticuerpos neutralizantes frente al Interferón beta-1a. La incidencia
+exacta de la formación de anticuerpos todavía no está clara. Los datos clínicos sugieren que, después
+de 24 a 48 meses de tratatamiento con Rebif 22 microgramos, aproximadamente el 24% de los
+pacientes presentan anticuerpos en suero frente al Interferón beta-1a, de forma persistente. La
+presencia de anticuerpos atenúa la respuesta farmacodinámica al Interferón beta-1a (beta-2
+microglobulina y neopterina). Aunque el significado clínico de la inducción de anticuerpos no se ha
+dilucidado totalmente, el desarrollo de anticuerpos neutralizantes se asocia a una reducción de la
+eficacia sobre los parámetros clínicos y de resonancia magnética. Si un paciente responde escasamente
+al tratamiento con Rebif, y tiene anticuerpos neutralizantes, el médico debe reevaluar el cociente
+beneficio/riesgo del tratamiento continuado con Rebif.
+ El empleo de diversos análisis para detectar los anticuerpos en suero y las diferentes definiciones de
+""anticuerpos positivos"", limitan la capacidad para comparar la antigenicidad entre distintos productos.
+ Se dispone de escasos datos de eficacia y seguridad en pacientes con esclerosis múltiple sin capacidad
+ambulatoria.
+ Este medicamento contiene menos de 1 mmol (23 mg) de sodio por dosis, por lo que se considera
+esencialmente ""exento de sodio"".
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios de interacción farmacológica con Rebif (Interferón beta-1a) en seres
+humanos.
+ Se ha notificado que los interferones disminuyen la actividad de las enzimas hepáticas dependientes
+del citocromo P-450, en seres humanos y en animales. Debe tenerse precaución cuando se administre
+Rebif asociado a medicamentos con un estrecho índice terapéutico y cuyo aclaramiento dependa en
+ gran manera del sistema hepático del citocromo P-450, por ejemplo los antiepilépticos y algunas clases
+de antidepresivos.
+ No se ha estudiado sistemáticamente la interacción de Rebif con los corticoides o la hormona
+adrenocorticotropa o corticotropina (ACTH). Los ensayos clínicos indican que los pacientes con
+esclerosis múltiple pueden recibir Rebif y corticoides o ACTH durante los brotes.
+ 4.6   Embarazo y lactancia
+ Existe una información limitada sobre el uso de Rebif en el embarazo. Los datos disponibles indican
+que puede haber un incremento del riesgo de aborto espontáneo. Por tanto, durante el embarazo está
+contraindicado el inicio del tratamiento (ver apartado 4.3)
+ Las mujeres en edad fértil deben utilizar medidas anticonceptivas apropiadas. Se debe informar a la
+paciente que se quede embarazada o que esté planificando un embarazo mientras está en tratamiento
+con Rebif de los riesgos potenciales y debe considerarse la posibilidad de interrumpir el tratamiento
+(ver apartado 5.3). En pacientes embarazadas que presentan una alta tasa de brotes antes de iniciar el
+tratamiento, el riesgo de la aparición de un brote grave tras la interrupción del tratamiento con Rebif
+debe tenerse en cuenta frente al posible riesgo de un aborto espontáneo.
+ Se desconoce si Rebif se excreta en la leche humana, pero por la posibilidad de aparición de
+reacciones adversas graves en los lactantes, se debe decidir si interrumpir la lactancia o el tratamiento
+con Rebif.
+ 4.7   Efectos sobre la capacidadpara conducir y utilizar máquinas
+ Las reacciones adversas que afectan al sistema nervioso central, relacionadas con uso de interferón
+beta (p. ej. mareos), podrían influir sobre la capacidad del paciente para conducir u operar maquinaria
+(ver apartado 4.8).
+ 4.8   Reacciones adversas
+ a)    Descripción general
+ La incidencia más alta de reacciones adversas asociadas a la terapia con Rebif está relacionada con el
+síndrome pseudogripal. Los síntomas pseudogripales tienden a ser más acusados al inicio de la terapia
+y disminuyen en frecuencia con el tratamiento continuado. Aproximadamente el 70% de los pacientes
+tratados con Rebif pueden presentar el típico síndrome pseudogripal durante los primeros seis meses
+tras iniciar el tratamiento. Aproximadamente el 30% de los pacientes también presentarán reacciones
+en la zona de inyección, principalmente inflamación leve o eritema. También son frecuentes los
+incrementos asintomáticos de los parámetros analíticos de función hepática y los descensos de los
+leucocitos.
+La mayoría de las reacciones adversas observadas con IFN-beta-1a suelen ser leves y reversibles, y
+responden bien a la disminucion de la dosis. En caso de presentar efectos adversos graves o
+persistentes, la dosis de Rebif puede disminuir o interrumpirse temporalmente, a juicio del facultativo.
+ b)    Reacciones adversas según su frecuencia
+ Las reacciones adversas descritas a continuación se clasifican según su frecuencia de aparición del
+siguiente modo:
+            Muy frecuentes               > 1/10
+Frecuentes                   > 1/100 ,< 1/10
+Poco frecuentes              > 1/1.000 , < 1/100
+Raras                        > 1/10.000 , < 1/ 1.000
+Muy raras                    <1/10.000
+                                                     5
+Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+ Reacciones adversas identificadas en los ensayos clínicos:
+ Los datos presentados se obtuvieron tras combinar los datos de varios ensayos clínicos en esclerosis
+múltiple (placebo=824 pacientes; Rebif 22 microgramos 3 veces por semana = 398 pacientes; Rebif 44
+microgramos tres veces por semana=727 pacientes) y muestran la frecuencia de reacciones adversas
+observadas a los seis meses (con valores superiores a las observadas con placebo). Las reacciones
+adversas se enumeran a continuación por frecuencia de aparición y según la clasificación MedDRA
+por órganos y sistemas..
+  Clasificación por       Muy frecuentes        Frecuentes     Poco frecuentes    Frecuencia
+Órganos y Sistemas      (1/10)                (1/100,        (1/1,000,          Desconocida*
+Infecciones e                                                Absceso en el      Infecciones en el
+infestaciones                                                punto de           lugar de inyección
+Trastornos de la        Neutropenia,
+sangre y del sistema    linfopenia,
+linfático               leucopenia,
+Trastornos                                                   Disfunción
+endocrinos                                                   tiroidea que a
+Trastornos                                    Depresión,                        Intento de suicidio
+psiquiátricos                                 insomnio
+Trastornos del          Cefalea                                                 Convulsiones
+sistema nervioso
+Trastornos                                    Diarrea,
+gastrointestinales                            vómitos,
+Trastornos de la piel                         Prurito,                          Angioedema,
+y del tejido                                  erupción,                         urticaria, eritema
+subcutáneo                                    erupción                          multiforme,
+Trastornos                                    Mialgias,
+musculoesqueléticos                           artralgias
+y del tejido
+conjuntivo
+ Trastornos generales    Inflamación en la      Dolor en la     Necrosis en la
+y alteraciones en el    zona de inyección,     zona de         zona de
+lugar de                reacción en el punto   inyección,      inyección, masa
+administración          de inyección,          fatiga,         en la zona de
+Exploraciones           Elevación
+complementarias         asintómatica de las
+ *Reacciones adversas identificadas mediante farmacovigilancia después de la comercialización
+(frecuencia desconocida):
+ c)    Información sobre reacciones adversas individuales graves y/o frecuentes
+ Rebif, como los otros interferones beta, presenta cierto potencial para causar daño hepático grave. El
+mecanismo de los casos raros de insuficiencia hepática sintomática no se conoce. La mayoría de los
+casos de daño hepático grave se produjeron en los primeros seis meses de tratamiento. No se han
+identificado factores de riesgo específicos. El tratamiento con Rebif debe interrumpirse si aparece
+ictericia u otros síntomas clínicos de insuficiencia hepática (ver apartado 4.4).
+ d)    Reacciones adversas aplicables a la clase farmacológica
+ La administración de interferones se ha asociado a anorexia, vértigo, ansiedad, arritmias,
+vasodilatación y palpitaciones, menorragia y metrorragia.
+Puede producirse un aumento de la formación de autoanticuerpos durante el tratamiento con interferón
+beta.
+ 4.9   Sobredosis
+ En caso de sobredosis, se debe hospitalizar a los pacientes para observación e instaurar el tratamiento
+de soporte adecuado.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Interferon beta-1a, código ATC: L03 AB07
+ Los interferones (IFNs) son un grupo de glicoproteínas endógenas, dotadas de propiedades
+inmunomoduladoras, antivirales y antiproliferativas.
+ Rebif (Interferón beta-1a) está constituido por la secuencia original de aminoácidos del interferón beta
+humano natural. Se produce en células de mamífero (Ovario de Hámster Chino), por lo que está
+glicosilado, como la proteína natural.
+ El mecanismo de acción preciso de Rebif en la esclerosis múltiple todavía se está investigando.
+                                                    7
+Se ha evaluado la seguridad y eficacia de Rebif en pacientes con esclerosis múltiple recidivante-
+remitente, a dosis comprendidas entre 11 y 44 microgramos (3-12 millones de UI), administradas por
+vía subcutánea, tres veces por semana. Se ha demostrado que, a la dosis autorizada, Rebif
+22microgramos disminuye la incidencia (aproximadamente un 30% en 2 años) y la gravedad de los
+brotes clínicos en pacientes con al menos 2 brotes en los dos años previos y con una escala de
+discapacidad ampliada de Kurtzke (EDSS) de 0 ­ 5,0 al inicio. La proporción de pacientes con
+progresión de la incapacidad, definida por un incremento de al menos un punto en la EDSS,
+confirmado tres meses más tarde, se redujo desde el 39% (placebo) hasta el 30% (Rebif 22
+microgramos). A lo largo de 4 años, la reducción en la tasa media de brotes fue del 22% en los
+pacientes tratados con Rebif 22 microgramos y del 29% en los pacientes tratados con Rebif 44
+microgramos, por comparación con un grupo de pacientes tratados con placebo durante 2 años y
+posteriormente con Rebif 22 ó Rebif 44 microgramos durante otros 2 años.
+ En un estudio a 3 años en pacientes con esclerosis múltiple secundaria progresiva (EDSS 3 ­ 6,5) con
+evidencia de progresión clínica en los dos años previos y sin brotes en las 8 semanas anteriores, Rebif
+no tuvo efecto significativo sobre la progresión de la incapacidad, pero redujo la tasa de brotes un 30%
+aproximadamente. Al dividir la población de pacientes en 2 subgrupos (según hubieran presentado
+brotes o no en los 2 años previos a la entrada en el estudio), no se observó efecto sobre la incapacidad
+en los pacientes sin brotes; sin embargo, en aquéllos que habían tenido brotes, la proporción de
+pacientes con progresión de la incapacidad al final del estudio se redujo desde un 70% (placebo) hasta
+un 57% (datos combinados para Rebif 22 microgramos y 44 microgramos). Estos resultados obtenidos
+en un subgrupo de pacientes a posteriori deben interpretarse con cautela.
+Rebif no se ha investigado todavía en pacientes con esclerosis múltiple primaria progresiva y no debe
+utilizarse en dichos pacientes.
+ 5.2   Propiedades farmacocinéticas
+ Tras la administración intravenosa en voluntarios sanos, el Interferón beta-1a muestra un pronunciado
+descenso multi-exponencial, y los niveles séricos son proporcionales a la dosis. La semivida de
+distribución es del orden de minutos y la semivida de eliminación es de varias horas, con la posible
+existencia de un compartimento profundo. Cuando se administra por vía subcutánea o intramuscular,
+los niveles séricos de interferón beta permanecen bajos, pero siguen siendo detectables hasta 12-24
+horas post-inyección. La administración subcutánea o intramuscular de Rebif produce una exposición
+equivalente al interferón beta. Tras una dosis única de 60 microgramos, la concentración máxima,
+determinada por inmunoensayo, es de alrededor de 6-10 UI/ml, y se alcanza, como promedio, unas 3
+horas después de la inyección. Tras la administración subcutánea de la misma dosis, repetida cada 48
+horas hasta un total de 4 dosis, se produce una acumulación moderada (aproximadamente 2,5 veces
+para el AUC).
+ La administración de Rebif se asocia a cambios farmacodinámicos pronunciados, independientemente
+de la vía utilizada. Tras una dosis única, la actividad intracelular y sérica de la 2-5A sintetasa y las
+concentraciones séricas de beta-2 microglobulina y neopterina aumentan en las primeras 24 horas, y
+comienzan a descender a los 2 días. La administración intramuscular y subcutánea da lugar a una
+respuesta totalmente superponible. Tras la administración subcutánea repetida cada 48 horas, hasta un
+total de 4 dosis, estas respuestas biológicas permanecen elevadas, sin signos de tolerancia.
+ El Interferón beta-1a se metaboliza y excreta principalmente por el hígado y los riñones.
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos de los estudios no clínicos no muestran riesgos especiales para los seres humanos según los
+estudios convencionales de farmacología de seguridad, toxicidad a dosis repetidas y genotoxicidad.
+ No se han realizado estudios de carcinogénesis con Rebif.
+ Un estudio de toxicidad embrio-fetal en monos no mostró ninguna evidencia de trastornos de la
+reproducción. Según las observaciones realizadas con otros interferones alfa y beta, no puede
+                                                     8
+descartarse un aumento del riesgo de aborto. No se dispone de información sobre los efectos del
+Interferón beta-1a sobre la fertilidad masculina.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Manitol
+Poloxámero 188
+L-metionina
+Alcohol bencílico
+Acetato sódico
+Ácido acético
+Hidróxido sódico
+Agua para preparaciones inyectables.
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Período de validez
+ 18 meses.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC y 8ºC). No congelar. Conservar en el embalaje original para protegerlo
+de la luz.
+ 6.5   Naturaleza y contenido del envase
+ Jeringa de vidrio tipo 1, de 1 ml de capacidad, con aguja de acero inoxidable que contiene 0,5 ml de
+solución.
+Rebif 22 microgramos se presenta en un envase con 1, 3 ó 12 jeringas.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ La solución inyectable en jeringas precargadas está lista para su uso. También puede administrarse con
+un autoinyector adecuado.
+ Para un solo uso. Sólo deben utilizarse soluciones de transparentes a opalescentes, sin partículas y sin
+signos visibles de deterioro.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Serono Europe Limited
+56, Marsh Wall
+Londres E14 9TP
+Reino Unido
+                                                     9
+
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/98/063/001
+EU/1/98/063/002
+EU/1/98/063/003
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 4 de Mayo de 1998
+Fecha de la primera revalidación: 4 Mayo 2003
+Fecha de la última revalidación:
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rebif 44 microgramos solución inyectable
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada jeringa precargada (0,5 ml) contiene 44 microgramos (12 millones de UI*) de Interferón beta-
+1a**.
+* La potencia (UI) se determina utilizando el bioensayo citopático (CPE) frente a un estándar interno
+de IFN beta-1a, que se referencia frente al estándar internacional del NIH (GB-23-902-531).
+** producido por tecnología del ADN recombinante en células de ovario de hámster chino (CHO-K1).
+ Excipientes: 2,5 mg de alcohol bencílico y tampón acetato sódico 0,01M.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Solución inyectable
+Solución clara a opalescente, con un pH de 3,5 a 4,5 y una osmolaridad de 250 mOsm/l a 450 mOsm/l.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Rebif está indicado para el tratamiento de los pacientes que presentan esclerosis múltiple en brotes.
+En los ensayos clínicos, esto se caracterizó por la aparición de dos o más brotes en los dos años
+previos (ver apartado 5.1).
+No se ha demostrado su eficacia en aquellos pacientes que presentan esclerosis múltiple secundaria
+progresiva que dejen de presentar actividad de brotes (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ El tratamiento debe instaurarse bajo la supervisión de un médico con experiencia en el tratamiento de
+la enfermedad.Rebif está disponible en tres concentraciones: 8,8 microgramos, 22 microgramos y 44
+microgramos. Para pacientes que inician el tratamiento con Rebif, está disponible un envase que
+contiene Rebif 8,8 microgramos y Rebif 22 microgramos, que cubre las necesidades del paciente
+durante el primer mes de tratamiento.
+ La posología recomendada de Rebif es de 44 microgramos, administrados tres veces por semana por
+inyección subcutánea. Rebif 22 microgramos, administrado también tres veces por semana por
+inyección subcutánea, se recomienda para los pacientes que no toleran la dosis más alta, según
+considere el especialista que los trate.
+ Niños y adolescentes
+ No se han llevado a cabo ensayos clínicos formales ni estudios farmacocinéticos en niños ni
+adolescentes. Sin embargo, los datos publicados limitados sugieren que el perfil de seguridad en
+adolescentes de 12 a 16 años tratados con Rebif 22 microgramos, por vía subcutánea, tres veces por
+semana, es similar al observado en adultos. Se dispone de una información limitada sobre el uso de
+Rebif en niños menores de 12 años y, por lo tanto, Rebif no debe utilizarse en esta población.
+ Antes de la inyección y durante 24 horas después de cada inyección, se recomienda la administración
+de un analgésico antipirético para reducir los síntomas pseudogripales asociados con la administración
+de Rebif.
+ Actualmente, se desconoce el tiempo durante el cualse debe tratar a los pacientes. La seguridad y
+eficacia de Rebif no se han demostrado durante el período posterior a 4 años de tratamiento. Se
+recomienda evaluar a los pacientes al menos cada dos años en el periodo de los 4 años siguientes al
+comienzo del tratamiento con Rebif y que el médico decida entonces de forma individualizada si
+conviene prolongar el tratamiento durante más tiempo.
+ 4.3   Contraindicaciones
+ ·     Inicio del tratamiento en el embarazo (ver apartado 4.6).
+·     Pacientes que presentan hipersensibilidad conocida al interferón beta natural o recombinante o a
+alguno de los excipientes.
+·     Pacientes que presentan depresión grave activa y/o ideación suicida (ver apartado 4.4 y 4.8).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se debe informar a los pacientes de las reacciones adversas más frecuentes asociadas a la
+administración de interferón beta, incluyendo los síntomas del síndrome pseudogripal (ver apartado
+4.8). Estos síntomas tienden a ser más intensos al comenzar el tratamiento, y disminuyen en frecuencia
+y gravedad con el tratamiento continuado.
+ Rebif debe administrase con precaución en pacientes que presentan trastornos depresivos previos o
+activos, en particular en aquellos con antecedentes de ideación suicida (ver apartado 4.3). Se sabe que
+existe una mayor frecuencia de depresión e ideación suicida en la población con esclerosis múltiple y
+en asociación con el uso de interferón. Se debe aconsejar a los pacientes tratados con Rebif que
+notifiquen inmediatamente a su médico cualquier síntoma de depresión y/o ideación suicida. Los
+pacientes que presenten depresión deben controlarse estrechamente durante el tratamiento con Rebif y
+tratarse de forma adecuada. Debe considerarse la posibilidad de interrumpir el tratamiento con Rebif
+(ver secciones 4.3 y 4.8).
+ Rebif debe administrarse con precaución en pacientes con historia previa de crisis epilépticas, en
+aquellos que reciben tratamiento con antiepilépticos, en especial si su epilepsia no está
+convenientemente controlada con antiepilépticos (ver secciones 4.5 y 4.8).
+Los pacientes que presentan cardiopatías, tales como angina, insuficiencia cardíaca congestiva o
+arritmias, deben vigilarse estrechamente para descartar un empeoramiento de su situación clínica al
+inicio del tratamiento con Interferón beta-1a. Los síntomas del síndrome pseudogripal asociados al
+tratamiento con Interferón beta-1a pueden alterar a los pacientes que presenten cardiopatías.
+ En algunos pacientes que utilizan Rebif se ha notificado necrosis en la zona de inyección (ver apartado
+4.8). Para minimizar el riesgo de necrosis en la zona de inyección se debe recomendar a los pacientes
+que:
+·      utilicen una técnica de inyección aséptica.
+·      alternen las zonas de inyección cada vez que se inyecten.
+ Se debe revisar periódicamente el procedimiento de auto-administración por el propio paciente,
+especialmente si se han producido reacciones en el lugar de inyección.
+Si el paciente presenta cualquier rotura de la piel, que pueda estar asociada a hinchazón o drenaje de
+líquido desde la zona de inyección, se le debe recomendar que consulte a su médico antes de continuar
+con las inyecciones de Rebif. Si los pacientes presentan múltiples lesiones, se debe suspender el
+tratamiento con Rebif hasta que se hayan curado. Los pacientes con una única lesión pueden continuar
+el tratamiento, siempre que la necrosis no sea demasiado extensa.
+ En los ensayos clínicos con Rebif, fue frecuente el aumento asintomático de las transaminasas
+hepáticas (especialmente la alanina aminotransferasa (ALT)) y el 1-3 % de los pacientes presentaron
+                                                   12
+elevación de dichas transaminasas por encima de 5 veces el límite superior de la normalidad (ULN).
+En ausencia de síntomas clínicos, deben controlarse los niveles de ALT antes de iniciar el tratamiento,
+al cabo de 1, 3 y 6 meses de tratamiento y luego periódicamente. Si la ALT aumenta más de 5 veces el
+ULN, debe considerarse una reducción de la dosis de Rebif, para volver a aumentarla gradualmente
+cuando se hayan normalizado los niveles enzimáticos. El tratamiento con Rebif debe iniciarse con
+precaución en pacientes con historia de hepatopatía significativa, evidencia clínica de hepatopatía
+activa, abuso de alcohol o ALT sérica elevada (>2,5 veces el ULN). El tratamiento con Rebif debe
+interrumpirse si aparece ictericia u otros síntomas clínicos de disfunción hepática (ver apartado 4.8).
+ Rebif, como los otros interferones beta, tiene cierto potencial para causar daño hepático grave (ver apartado 4.8), incluyendo insuficiencia hepática aguda. El mecanismo de los casos raros de disfunción
+hepática sintomática no se conoce. No se han identificado factores de riesgo específicos.
+ El empleo de interferones puede acompañarse de alteraciones analíticas. La incidencia global de las
+mismas es ligeramente superior con Rebif 44 que con Rebif 22 microgramos. Por tanto, además de las
+pruebas de laboratorio requeridas normalmente para controlar a los pacientes con esclerosis múltiple,
+tras el inicio del tratamiento con Rebif y en ausencia de síntomas clínicos, se recomienda realizar un
+control de las enzimas hepáticas y un recuento celular, fórmula leucocitaria y determinación de
+plaquetas a intervalos regulares (1, 3 y 6 meses) y luego periódicamente. Estas determinaciones deben
+ser más frecuentes cuando se inicie el tratamiento con Rebif 44 microgramos.
+ Los pacientes tratados con Rebif pueden presentar ocasionalmente alteraciones en la función tiroidea
+de nuevo diagnóstico o un empeoramiento de las ya existentes. Se recomienda practicar pruebas de
+función tiroidea en situación basal y, si son anormales, cada 6-12 meses tras el comienzo del
+tratamiento. Si las pruebas basales son normales, no es necesario repetirlas de forma sistemática, pero
+deben realizarse si aparecen signos clínicos de disfunción tiroidea (ver apartado 4.8).
+ Se deberá tener precaución y considerar una estrecha monitorización cuando se administre Interferón
+beta-1a en pacientes con insuficiencia renal o hepática graves y en pacientes con mielosupresión
+grave.
+Pueden aparecer en el suero anticuerpos neutralizantes frente al Interferón beta-1a. La incidencia
+exacta de la formación de anticuerpos todavía no está clara. Los datos clínicos sugieren que, después
+de 24 a 48 meses de tratamiento con Rebif 44 microgramos, aproximadamente el 13-14 % de los
+pacientes presentan anticuerpos en suero frente al Interferón beta-1a, de forma persistente. La
+presencia de anticuerpos atenúa la respuesta farmacodinámica al Interferón beta-1a (beta-2
+microglobulina y neopterina). Aunque el significado clínico de la inducción de anticuerpos no se ha
+dilucidado totalmente, el desarrollo de anticuerpos neutralizantes se asocia a una reducción de la
+eficacia sobre los parámetros clínicos y de resonancia magnética. Si un paciente responde escasamente
+al tratamiento con Rebif, y tiene anticuerpos neutralizantes, el médico debe reevaluar el cociente
+beneficio/riesgo del tratamiento continuado con Rebif.
+ El empleo de diversos análisis para detectar los anticuerpos en suero y las diferentes definiciones de
+""anticuerpos positivos"", limitan la capacidad para comparar la antigenicidad entre distintos productos.
+ Se dispone de escasos datos de eficacia y seguridad en pacientes con esclerosis múltiple sin capacidad
+ambulatoria.
+ Este medicamento contiene menos de 1 mmol (23 mg) de sodio por dosis, por lo que se considera
+esencialmente ""exento de sodio"".
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios de interacción farmacológica con Rebif (Interferón beta-1a) en seres
+humanos.
+ Se ha notificado que los interferones disminuyen la actividad de las enzimas hepáticas dependientes
+del citocromo P-450, en seres humanos y en animales. Debe tenerse precaución cuando se administre
+                                                    13
+Rebif asociado a medicamentos con un estrecho índice terapéutico y cuyo aclaramiento dependa en
+gran manera del sistema hepático del citocromo P-450, por ejemplo los antiepilépticos y algunas clases
+de antidepresivos.
+ No se ha estudiado sistemáticamente la interacción de Rebif con los corticoides o la hormona
+adrenocorticotropa o corticotropina (ACTH). Los ensayos clínicos indican que los pacientes con
+esclerosis múltiple pueden recibir Rebif y corticoides o ACTH durante los brotes.
+ 4.6   Embarazo y lactancia
+ Embarazo
+Existe una información limitada sobre el uso de Rebif en el embarazo. Los datos disponibles indican
+que puede haber un incremento del riesgo de aborto espontáneo. Por tanto, durante el embarazo está
+contraindicado el inicio del tratamiento (ver apartado 4.3)
+ Las mujeres en edad fértil deben utilizar medidas anticonceptivas apropiadas. Se debe informar a la
+paciente que se quede embarazada o que esté planificando un embarazo mientras está en tratamiento
+con Rebif de los riesgos potenciales y debe considerarse la posibilidad de interrumpir el tratamiento
+(ver apartado 5.3). En pacientes embarazadas que presentan una alta tasa de brotes antes de iniciar el
+tratamiento, el riesgo de la aparición de un brote grave tras la interrupción del tratamiento con Rebif
+debe tenerse en cuenta frente al posible riesgo de un aborto espontáneo.
+ Se desconoce si Rebif se excreta en la leche humana, pero por la posibilidad de aparición de
+reacciones adversas graves en los lactantes se debe decidir si interrumpir la lactancia o el tratamiento
+con Rebif.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Las reacciones adversas que afectan al sistema nervioso central, relacionadas con uso de interferón
+beta (p. ej. mareos), podrían influir sobre la capacidad del paciente para conducir u operar maquinaria
+(ver apartado 4.8).
+ 4.8   Reacciones adversas
+ a)    Descripción general
+ La incidencia más alta de reacciones adversas asociadas a la terapia con Rebif está relacionada con el
+síndrome pseudogripal. Los síntomas pseudogripales tienden a ser más acusados al inicio de la terapia
+y disminuyen en frecuencia con el tratamiento continuado. Aproximadamente el 70% de los pacientes
+tratados con Rebif pueden presentar el típico síndrome pseudogripal durante los primeros seis meses
+tras iniciar el tratamiento. Aproximadamente el 30% de los pacientes también presentarán reacciones
+en la zona de inyección, principalmente inflamación leve o eritema. También son frecuentes los
+incrementos asintomáticos de los parámetros analíticos de función hepática y los descensos de los
+leucocitos.
+La mayoría de las reacciones adversas observadas con IFN-beta-1a suelen ser leves y reversibles, y
+responden bien a la disminución de la dosis. En caso de presentar efectos adversos graves o
+persistentes, la dosis de Rebif puede disminuir o interrumpirse temporalmente, a juicio del facultativo.
+ b)    Reacciones adversas según su frecuencia
+ Las reacciones adversas descritas a continuación se clasifican según su frecuencia de aparición del
+siguiente modo:
+           Muy frecuentes               > 1/10
+Frecuentes                   > 1/100 , < 1/10
+Poco frecuentes              > 1/1.000 ,- < 1/100
+Raras                       > 1/10.000 , < 1/ 1.000
+Muy raras                   <1/10.000
+ Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+ Reacciones adversas identificadas en los ensayos clínicos:
+ Los datos presentados se obtuvieron tras combinar los datos de varios ensayos clínicos en esclerosis
+múltiple (placebo=824 pacientes; Rebif 22 microgramos 3 veces por semana = 398 pacientes; Rebif 44
+microgramos tres veces por semana=727 pacientes) y muestran la frecuencia de reacciones adversas
+observadas a los seis meses (con valores superiores a las observadas con placebo).
+Las reacciones adversas se enumeran a continuación por frecuencia de aparición y según la
+clasificación MedDRA por órganos y sistemas.
+  Clasificación por     Muy frecuentes     Frecuentes          Poco frecuentes       Frecuencia
+Órganos y Sistemas    (1/10)             (1/100,             (1/1,000, <1/100)     Desconocida*
+Infecciones e                                                Absceso en el         Infecciones en el
+infestaciones                                                punto de inyección    lugar de inyección
+Trastornos de la      Neutropenia,
+sangre y del          linfopenia,
+sistema linfático     leucopenia,
+Trastornos                                                   Disfunción tiroidea
+endocrinos                                                   que a menudo se
+Trastornos                               Depresión,                                Intento de suicidio
+psiquiátricos                            insomnio
+Trastornos del        Cefalea                                                      Convulsiones
+sistema nervioso
+Trastornos                               Diarrea,
+gastrointestinales                       vómitos,
+ Trastornos de la                           Prurito,                               Angioedema,
+piel y del tejido                          erupción,                              urticaria, eritema
+subcutáneo                                 erupción                               multiforme,
+Trastornos                                 Mialgias,
+musculoesquelético                         artralgias
+s y del tejido
+conjuntivo
+Trastornos generales   Inflamación en      Dolor en la     Necrosis en la zona
+y alteraciones en el   la zona de          zona de         de inyección, masa
+lugar de               inyección,          inyección,      en la zona de
+administración         reacción en el      fatiga,         inyección
+Exploraciones          Elevación
+complementarias        asintómatica de
+ *Reacciones adversas identificadas mediante farmacovigilancia después de la comercialización
+(frecuencia desconocida):
+ c)    Información sobre reacciones adversas individuales graves y/o frecuentes
+ Rebif, como los otros interferones beta, presenta cierto potencial para causar daño hepático grave. El
+mecanismo de los casos raros de disfunción hepática sintomática no se conoce. La mayoría de los
+casos de daño hepático grave se produjeron en los primeros seis meses de tratamiento. No se han
+identificado factores de riesgo específicos. El tratamiento con Rebif debe interrumpirse si aparece
+ictericia u otros síntomas clínicos de disfunción hepática (ver apartado 4.4).
+ d)    Reacciones adversas aplicables a la clase farmacológica
+ La administración de interferones se ha asociado a anorexia, vértigo, ansiedad, arritmias,
+vasodilatación y palpitaciones, menorragia y metrorragia.
+Puede producirse un aumento de la formación de autoanticuerpos durante el tratamiento con interferón
+beta.
+ 4.9   Sobredosis
+ En caso de sobredosis, se debe hospitalizar a los pacientes para observación e instaurar el tratamiento
+de soporte adecuado.
+                                                     16
+"
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: Interferon beta-1a, código ATC: L03 AB07
+ Los interferones (IFNs) son un grupo de glicoproteínas endógenas, dotadas de propiedades
+inmunomoduladoras, antivirales y antiproliferativas.
+ Rebif (Interferón beta-1a) está constituido por la secuencia original de aminoácidos del interferón beta
+humano natural. Se produce en células de mamífero (Ovario de Hámster Chino), por lo que está
+glicosilado, como la proteína natural.
+ El mecanismo de acción preciso de Rebif en la esclerosis múltiple todavía se está investigando.
+ Se ha evaluado la seguridad y eficacia de Rebif en pacientes con esclerosis múltiple recidivante-
+remitente, a dosis comprendidas entre 11 y 44 microgramos (3-12 millones de UI), administradas por
+vía subcutánea, tres veces por emana. Se ha demostrado que, a la dosis autorizada, Rebif 44
+microgramos disminuye la incidencia (aproximadamente un 30% en 2 años) y la gravedad de los
+brotes clínicos en pacientes con al menos 2 brotes en los dos años previos y con una escala de
+discapacidad ampliada de Kurtzke (EDSS) de 0 ­ 5,0 al inicio. La proporción de pacientes con
+progresión de la incapacidad, definida por un incremento de al menos un punto en la EDSS,
+confirmado tres meses más tarde, se redujo desde el 39% (placebo) hasta el 27% (Rebif 44
+microgramos). A lo largo de 4 años, la reducción en la tasa media de brotes fue del 22% en los
+pacientes tratados con Rebif 22 microgramos y del 29% en los pacientes tratados con Rebif 44
+microgramos, por comparación con un grupo de pacientes tratados con placebo durante 2 años y
+posteriormente con Rebif 22 ó Rebif 44 microgramos durante otros 2 años.
+ En un estudio a 3 años en pacientes con esclerosis múltiple secundaria progresiva (EDSS 3 ­ 6,5) con
+evidencia de progresión clínica en los dos años previos y sin brotes en las 8 semanas anteriores, Rebif
+no tuvo efecto significativo sobre la progresión de la incapacidad, pero redujo la tasa de brotes un 30%
+aproximadamente. Al dividir la población de pacientes en 2 subgrupos (según hubieran presentado
+brotes o no en los 2 años previos a la entrada en el estudio), no se observó efecto sobre la incapacidad
+en los pacientes sin brotes; sin embargo, en aquéllos que habían tenido brotes, la proporción de
+pacientes con progresión de la incapacidad al final del estudio se redujo desde un 70% (placebo) hasta
+un 57% (datos combinados para Rebif 22 microgramos y 44 microgramos). Estos resultados obtenidos
+en un subgrupo de pacientes a posteriori deben interpretarse con cautela.
+ Rebif no se ha investigado todavía en pacientes con esclerosis múltiple primaria progresiva y no debe
+utilizarse en dichos pacientes.
+ 5.2   Propiedades farmacocinéticas
+ Tras la administración intravenosa en voluntarios sanos, el Interferón beta-1a muestra un pronunciado
+descenso multi-exponencial, y los niveles séricos son proporcionales a la dosis. La semivida de
+distribución es del orden de minutos y la semivida de eliminación es de varias horas, con la posible
+existencia de un compartimento profundo. Cuando se administra por vía subcutánea o intramuscular,
+los niveles séricos de interferón beta permanecen bajos, pero siguen siendo detectables hasta 12 -24
+horas post-inyección. La administración subcutánea o intramuscular de Rebif produce una exposición
+equivalente al interferón beta. Tras una dosis única de 60 microgramos, la concentración máxima,
+determinada por inmunoensayo, es de alrededor de 6-10 UI/ml, y se alcanza, como promedio, unas 3
+horas después de la inyección. Tras la administración subcutánea de la misma dosis, repetida cada 48
+horas hasta un total de 4 dosis, se produce una acumulación moderada (aproximadamente 2,5 veces
+para el AUC).
+ La administración de Rebif se asocia a cambios farmacodinámicos pronunciados, independientemente
+de la vía utilizada. Tras una dosis única, la actividad intracelular y sérica de la 2-5A sintetasa y las
+                                                    17
+concentraciones séricas de beta-2 microglobulina y neopterina aumentan en las primeras 24 horas, y
+comienzan a descender a los 2 días. La administración intramuscular y subcutánea da lugar a una
+respuesta totalmente superponible. Tras la administración subcutánea repetida cada 48 horas, hasta un
+total de 4 dosis, estas respuestas biológicas permanecen elevadas, sin signos de tolerancia.
+ El Interferón beta-1a se metaboliza y excreta principalmente por el hígado y los riñones.
+ 5.3   Datos preclínicos sobre seguridad
+ Los datos de los estudios no clínicos no muestran riesgos especiales para los seres humanos según los
+estudios convencionales de farmacología de seguridad, toxicidad a dosis repetidas y genotoxicidad.
+ No se han realizado estudios de carcinogénesis con Rebif.
+ Un estudio de toxicidad embrio-fetal en monos no mostró ninguna evidencia de trastornos de la
+reproducción. Según las observaciones realizadas con otros interferones alfa y beta, no puede
+descartarse un aumento del riesgo de aborto. No se dispone de información sobre los efectos del
+Interferón beta-1a sobre la fertilidad masculina.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Manitol
+Poloxámero 188
+L-metionina
+Alcohol bencílico
+Acetato sódico
+Ácido acético
+Hidróxido sódico
+Agua para preparaciones inyectables.
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Período de validez
+ 18 meses.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2ºC y 8ºC).. No congelar. Conservar en el embalaje original para
+protegerlo de la luz.
+ 6.5   Naturaleza y contenido del envase
+ Jeringa de vidrio tipo 1, de 1 ml de capacidad con aguja de acero inoxidable que contiene 0,5 ml de
+solución.
+Rebif 44 microgramos se presenta en envases con 1, 3 ó 12 jeringas Puede que solamente estén
+comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ La solución inyectable en jeringas precargadas está lista para su uso. También puede administrarse con
+un autoinyector adecuado.
+                                                   18
+Para un solo uso. Sólo deben utilizarse soluciones de transparentes a opalescentes, sin partículas y sin
+signos visibles de deterioro.
+ La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto
+con él, se realizará de acuerdo con la normativa local.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Serono Europe Limited
+56, Marsh Wall
+Londres E14 9TP
+Reino Unido
+ 
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/98/063/004
+EU/1/98/063/005
+EU/1/98/063/006
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 4 de Mayo de 1998
+Fecha de la primera revalidación: 4 Mayo 2003
+Fecha de la última revalidación:
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Rebif 8,8 microgramos solución inyectable
+Rebif 22 microgramos solución inyectable
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada jeringa precargada (0,2 ml) contiene 8,8 microgramos (2,4 millones de UI*) de Interferón beta-
+1a **.
+ * La potencia (UI) se determina utilizando el bioensayo citopático (CPE) frente a un estándar interno
+de IFN beta-1a, que se referencia frente al estándar internacional del NIH (GB-23-902-531).
+**producido por tecnología del ADN recombinante en células de ovario de hámster chino (CHO-K1).
+ Excipientes: 1,0 mg de alcohol bencílico y tampón acetato sódico 0,01M.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ Cada jeringa precargada (0,5 ml) contiene 22 microgramos (6 millones de UI*) de Interferón beta-
+1a**.
+ * valorado mediante el bioensayo del efecto citopático (CPE) frente al patrón interno de IFN beta-1a,
+que está calibrado frente al patrón internacional del NIH (GB-23-902-531).
+**producido por tecnología del ADN recombinante en células de ovario de hámster chino (CHO-K1).
+ Excipientes: 2,5 mg de alcohol bencílico y tampón acetato sódico 0,01M.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Solución inyectable.
+Solución clara a opalescente, con un pH de 3,5 a 4,5 y una osmolaridad de 250 mOsm/l a 450 mOsm/l.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Rebif está indicado para el tratamiento de los pacientes que presentan esclerosis múltiple en brotes.
+En los ensayos clínicos, esto se caracterizó por la aparición de dos o más brotes en los dos años
+previos (ver apartado 5.1).
+ No se ha demostrado su eficacia en aquellos pacientes que presentan esclerosis múltiple secundaria
+progresiva que dejen de presentar actividad de brotes (ver apartado 5.1).
+ 4.2   Posología y forma de administración
+ El tratamiento debe instaurarse bajo la supervisión de un médico con experiencia en el tratamiento de
+la enfermedad.
+ Rebif está disponible en tres concentraciones: 8,8 microgramos, 22 microgramos y 44 microgramos.
+ Cuando se inicia por primera vez el tratamiento con Rebif, para lograr que aparezca la taquifilaxia y
+que así disminuyan las reacciones adversas, se recomienda administrar 8,8 microgramos por inyección
+                                                     20
+subcutánea tres veces por semana durante las primeras 2 semanas de tratamiento. A partir de entonces,
+administrar 22 microgramos por inyección subcutánea tres veces por semana en las semanas 3 y 4, y
+administrar el total de la concentración de 44 microgramos desde la quinta semana en adelante.
+ Niños y adolescentes
+No se han llevado a cabo ensayos clínicos formales ni estudios farmacocinéticos en niños ni
+adolescentes. Sin embargo, los datos publicados limitados sugieren que el perfil de seguridad en
+adolescentes de 12 a 16 años tratados con Rebif 22 microgramos, por vía subcutánea, tres veces por
+semana, es similar al observado en adultos. Se dispone de una información limitada sobre el uso de
+Rebif en niños menores de 12 años y, por lo tanto, Rebif no debe utilizarse en esta población.
+ Antes de la inyección y durante 24 horas después de cada inyección, se recomienda la administración
+de un analgésico antipirético para reducir los síntomas pseudogripales asociados con la administración
+de Rebif.
+ Actualmente, se desconoce el tiempo durante el cual se debe tratar a los pacientes. La seguridad y
+eficacia de Rebif no se han demostrado durante el período posterior a 4 años de tratamiento. Se
+recomienda evaluar a los pacientes al menos cada 2 años en el periodo de los 4 años siguientes al
+comienzo del tratamiento con Rebif y que el médico decida entonces de forma individualizada si
+conviene prolongar el tratamiento durante más tiempo.
+ 4.3   Contraindicaciones
+ ·     Inicio del tratamiento en el embarazo (ver apartado 4.6).
+·     Pacientes que presentan hipersensibilidad conocida al interferón beta natural o recombinante o a
+alguno de los excipientes.
+·     Pacientes que presentan depresión grave activa y/o ideación suicida (ver apartado 4.5 y 4.8).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Se debe informar a los pacientes de las reacciones adversas más frecuentes asociadas a la
+administración de interferón beta, incluyendo los síntomas del síndrome pseudogripal (ver apartado
+4.8). Estos síntomas tienden a ser más intensos al comenzar el tratamiento, y disminuyen en frecuencia
+y gravedad con el tratamiento continuado.
+ Rebif debe administrarse con precaución en pacientes que presentan trastornos depresivos previos o
+activos, en particular en quellos con antecedentes de ideación suicida (ver apartado 4.3). Se sabe que
+existe una mayor frecuencia de depresión e ideación suicida en la población con esclerosis múltiple y
+en asociación con el uso de interferón. Se debe aconsejar a los pacientes tratados con Rebif que
+notifiquen inmediatamente a su médico cualquier síntoma de depresión y/o ideación suicida. Los
+pacientes que presenten depresión deben controlarse estrechamente durante el tratamiento con Rebif y
+tratarse de forma adecuada. Debe considerarse la posibilidad de interrumpir el tratamiento con Rebif
+(ver secciones 4.3 y 4.8).
+ Rebif debe administrarse con precaución en pacientes con historia previa de crisis epilépticas, en
+aquellos que reciben tratamiento con antiepilépticos, en especial si su epilepsia no está
+convenientemente controlada con antiepilépticos (ver secciones 4.5 y 4.8).
+ Los pacientes que presentan cardiopatías, tales como angina, insuficiencia cardíaca congestiva o
+arritmias, deben vigilarse estrechamente para descartar un empeoramiento de su situación clínica al
+inicio del tratamiento con Interferón beta-1a. Los síntomas del síndrome pseudogripal asociados al
+tratamiento con Interferón beta-1a pueden alterar a los pacientes que presenan cardiopatías.
+ En algunos pacientes que utilizan Rebif se ha notificado necrosis en la zona de inyección (ver apartado
+4.8). Para minimizar el riesgo de necrosis en la zona de inyección se debe recomendar a los pacientes
+que:
+                                                    21
+·     utilicen una técnica de inyección aséptica.
+·     alternen las zonas de inyección cada vez que se inyecten.
+ Se debe revisar periódicamente el procedimiento de auto-administración por el propio paciente,
+especialmente si se han producido reacciones en el lugar de inyección.
+Si el paciente presenta cualquier rotura de la piel, que pueda estar asociada a hinchazón o drenaje de
+líquido desde la zona de inyección, se le debe recomendar que consulte a su médico antes de continuar
+con las inyecciones de Rebif. Si los pacientes presentan múltiples lesiones, se debe suspender el
+tratamiento con Rebif hasta que se hayan curado. Los pacientes con una única lesión pueden continuar
+el tratamiento, siempre que la necrosis no sea demasiado extensa.
+ En los ensayos clínicos con Rebif, fue frecuente el aumento asintomático de las transaminasas
+hepáticas (especialmente la alanina aminotransferasa (ALT)) y el 1-3 % de los pacientes presentaron
+elevación de dichas transaminasas por encima de 5 veces el límite superior de la normalidad (ULN).
+En ausencia de síntomas clínicos, deben controlarse los niveles de ALT antes de iniciar el tratamiento,
+al cabo de 1, 3 y 6 meses de tratamiento y luego periódicamente. Si la ALT aumenta más de 5 veces el
+ULN, debe considerarse una reducción de la dosis de Rebif, para volver a aumentarla gradualmente
+cuando se hayan normalizado los niveles enzimáticos. El tratamiento con Rebif debe iniciarse con
+precaución en pacientes con historia de hepatopatía significativa, evidencia clínica de hepatopatía
+activa, abuso de alcohol o ALT sérica elevada (>2,5 veces el ULN). El tratamiento con Rebif debe
+interrumpirse si aparece ictericia u otros síntomas clínicos de disfunción hepática (ver apartado 4.8).
+ Rebif, como los otros interferones beta, tiene cierto potencial para causar daño hepático grave (ver apartado 4.8), incluyendo insuficiencia hepática aguda. El mecanismo de los casos raros de disfunción
+hepática sintomática no se conoce. No se han identificado factores de riesgo específicos.
+ El empleo de interferones puede acompañarse de alteraciones analíticas. Por tanto, además de las
+pruebas de laboratorio requeridas normalmente para controlar a los pacientes con esclerosis múltiple,
+tras el inicio del tratamiento con Rebif y en ausencia de síntomas clínicos, se recomienda realizar un
+control de las enzimas hepáticas y un recuento celular, fórmula leucocitaria y determinación de
+plaquetas a intervalos regulares (1, 3 y 6 meses) y luego periódicamente.
+ Los pacientes tratados con Rebif pueden presentar ocasionalmente alteraciones en la función tiroidea
+de nuevo diagnóstico o un empeoramiento de las ya existentes. Se recomienda practicar pruebas de
+función tiroidea en situación basal y, si son anormales, cada 6-12 meses tras el comienzo del
+tratamiento. Si las pruebas basales son normales, no es necesario repetirlas de forma sistemática, pero
+deben realizarse si aparecen signos clínicos de disfunción tiroidea (ver apartado 4.8).
+ Se deberá tener precaución y considerar una estrecha monitorización cuando se administre Interferón
+beta-1a en pacientes con insuficiencia renal o hepática graves y en pacientes con mielosupresión
+grave.
+ Pueden aparecer en el suero anticuerpos neutralizantes frente al Interferón beta-1a. La incidencia
+exacta de la formación de anticuerpos todavía no está clara. Los datos clínicos sugieren que, después
+de 24 a 48 meses de tratatamiento con Rebif 22 microgramos, aproximadamente el 24% de los
+pacientes presentan anticuerpos en suero frente al Interferón beta-1a, de forma persistente. La
+presencia de anticuerpos atenúa la respuesta farmacodinámica al Interferón beta-1a (beta-2
+microglobulina y neopterina). Aunque el significado clínico de la inducción de anticuerpos no se ha
+dilucidado totalmente, el desarrollo de anticuerpos neutralizantes se asocia a una reducción de la
+eficacia sobre los parámetros clínicos y de resonancia magnética. Si un paciente responde escasamente
+al tratamiento con Rebif, y tiene anticuerpos neutralizantes, el médico debe reevaluar el cociente
+beneficio/riesgo del tratamiento continuado con Rebif.
+ El empleo de diversos análisis para detectar los anticuerpos en suero y las diferentes definiciones de
+""anticuerpos positivos"", limitan la capacidad para comparar la antigenicidad entre distintos productos.
+                                                    22
+Se dispone de escasos datos de eficacia y seguridad en pacientes con esclerosis múltiple sin capacidad
+ambulatoria.
+ Este medicamento contiene menos de 1 mmol (23 mg) de sodio por dosis, por lo que se considera
+esencialmente ""exento de sodio"".
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han realizado estudios de interacción farmacológica con Rebif (Interferón beta-1a) en seres
+humanos.
+ Se ha notificado que los interferones disminuyen la actividad de las enzimas hepáticas dependientes
+del citocromo P-450, en seres humanos y en animales. Debe tenerse precaución cuando se administre
+Rebif asociado a medicamentos con un estrecho índice terapéutico y cuyo aclaramiento dependa en
+gran manera del sistema hepático del citocromo P-450, por ejemplo los antiepilépticos y algunas clases
+de antidepresivos.
+ No se ha estudiado sistemáticamente la interacción de Rebif con los corticoides o la hormona
+adrenocorticotropa o corticotropina (ACTH). Los ensayos clínicos indican que los pacientes con
+esclerosis múltiple pueden recibir Rebif y corticoides o ACTH durante los brotes.
+ 4.6   Embarazo y lactancia
+ Embarazo
+ Existe una información limitada sobre el uso de Rebif en el embarazo. Los datos disponibles indican
+que puede haber un incremento del riesgo de aborto espontáneo. Por tanto, durante el embarazo está
+contraindicado el inicio del tratamiento (ver apartado 4.3)
+ Las mujeres en edad fértil deben utilizar medidas anticonceptivas apropiadas. Se debe informar a la
+paciente que se quede embarazada o que esté planificando un embarazo mientras está en tratamiento
+con Rebif de los riesgos potenciales y debe considerarse la posibilidad de interrumpir el tratamiento
+(ver apartado 5.3). En pacientes embarazadas que presentan una alta tasa de brotes antes de iniciar el
+tratamiento, el riesgo de la aparición de un brote grave tras la interrupción del tratamiento con Rebif
+deb tenerse en cuenta frente al posible riesgo de un aborto espontáneo.
+ Se desconoce si Rebif se excreta en la leche humana, pero por la posibilidad de aparición de
+reacciones adversas graves en los lactantes se debe decidir si interrumpir la lactancia o el tratamiento
+con Rebif.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ Las reacciones adversas que afectan al sistema nervioso central, relacionadas con uso de interferón
+beta (p. ej. mareos), podrían influir sobre la capacidad del paciente para conducir u operar maquinaria
+(ver apartado 4.8).
+ 4.8   Reacciones adversas
+ a)    Descripción general
+ La incidencia más alta de reacciones adversas asociadas a la terapia con Rebif está relacionada con el
+síndrome pseudogripal. Los síntomas pseudogripales tienden a ser más acusados al inicio de la terapia
+y disminuyen en frecuencia con el tratamiento continuado. Aproximadamente el 70% de los pacientes
+tratados con Rebif pueden presentar el típico síndrome pseudogripal durante los primeros seis meses
+tras iniciar el tratamiento. Aproximadamente el 30% de los pacientes también presentarán reacciones
+en la zona de inyección, principalmente inflamación leve o eritema. También son frecuentes los
+ incrementos asintomáticos de los parámetros analíticos de función hepática y los descensos de los
+leucocitos.
+La mayoría de las reacciones adversas observadas con IFN-beta-1a suelen ser leves y reversibles, y
+responden bien a la disminución de la dosis. En caso de presentar efectos adversos graves o
+persistentes, la dosis de Rebif puede disminuir o interrumpirse temporalmente, a juicio del facultativo.
+ b)    Reacciones adversas según su frecuencia
+ Las reacciones adversas descritas a continuación se clasifican según su frecuencia de aparición del
+siguiente modo:
+            Muy frecuentes              > 1/10
+Frecuentes                  < 1/100 , < 1/10
+Poco frecuentes             > 1/1.000 , < 1/100
+            Raras                       > 1/10.000 , < 1/ 1.000
+Muy raras                   <1/10.000
+ Las reacciones adversas se enumeran en orden decreciente de gravedad dentro de cada intervalo de
+frecuencia.
+ Reacciones adversas identificadas en los ensayos clínicos:
+ Los datos presentados se obtuvieron tras combinar los datos de varios ensayos clínicos en esclerosis
+múltiple (placebo=824 pacientes; Rebif 22 microgramos 3 veces por semana = 398 pacientes; Rebif 44
+microgramos tres veces por semana=727 pacientes) y muestran la frecuencia de reacciones adversas
+observadas a los seis meses (con valores superiores a las observadas con placebo).
+Las reacciones adversas se enumeran a continuación por frecuencia de aparición y según la
+clasificación Me
+ "
+	Prospectos de medicamentos.

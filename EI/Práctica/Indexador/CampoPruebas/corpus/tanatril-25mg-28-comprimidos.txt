@@ -1,0 +1,419 @@
+TANATRIL 2,5MG 28 COMPRIMIDOS
+	"Información Basica del medicamento Toda la información del medicamento RESUMEN DE LAS CARACTERISTICAS DEL PRODUCTO
+ 1.    Denominación del medicamento
+       Tanatril 2,5 mg
+ 2.    Composición cualitativa y cuantitativa
+       2,5 mg de hidrocloruro de imidapril, equivalente a 2,3 mg de imidapril base.
+ 3.    Forma farmacéutica
+       Comprimidos
+ 4.    Datos clínicos
+4.1   Indicaciones terapéuticas
+       Tratamiento de la hipertensión esencial
+ 4.2   Posología y forma de administración
+       - Adultos
+       El tratamiento debe iniciarse con 5 mg una vez al día.
+Si no se consigue un control óptimo de la presión arterial después de al menos 3 semanas
+de tratamiento, la dosis diaria debe aumentarse a 10 mg, la cual, según se ha determinado,
+es la dosis diaria más eficaz.
+       Sin embargo, en un pequeño número de pacientes puede ser necesario incrementar la dosis
+diaria a 20 mg (dosis máxima recomendada) o, preferentemente, considerar el tratamiento
+de combinación con un diurético.
+       No se ha comprobado si los pacientes hipertensos se beneficiarían de una combinación de
+imidapril con otros tratamientos antihipertensivos.
+       Se recomienda tomar los comprimidos en el mismo momento del día, 15 minutos antes de
+las comidas, condiciones para las cuales la eficacia ya se ha demostrado.
+       - Pacientes de edad avanzada (65 años o más)
+       La dosis inicial es de 2,5 mg una vez al día. Esta dosis debe ajustarse según la respuesta de
+la presión arterial. La dosis máxima recomendada es de 10 mg una vez al día.
+ - Insuficiencia renal
+ El imidapril y su metabolito farmacológicamente activo, el imidaprilato, se excretan
+predominantemente a través del riñón.
+ Es necesario evaluar la función renal antes de iniciar el tratamiento con imidapril en
+pacientes con posible insuficiencia renal.
+ Es posible que haya que determinar el aclaramiento de creatinina antes del tratamiento
+empleando la fórmula de COCKROFT Y GAULT (Nephron 1976; 16: 31-41):
+             (140 - edad [años]) x peso corporal [kg ]
+CLCrea =
+72 x creatinina sérica [mg/dl]
+ (en las mujeres, el valor resultante se multiplicará por 0,85; si se utilizan las unidades mol/l en
+vez de mg/dl, 72 se sustituirá por 0,813)
+ - Aclaramiento de creatinina entre 30 ml/min y 80 ml/min (véase ""Advertencias y
+precauciones especiales de empleo""):
+En estos pacientes se necesitan dosis menores, por lo cual se recomienda iniciar el
+tratamiento con 2,5 mg.
+ - Aclaramiento de creatinina entre 10 ml/min y 29 ml/min (véase ""Advertencias y
+precauciones especiales de empleo""):
+Dada la limitada experiencia, que ha demostrado un incremento del AUC del imidaprilato
+(véase ""Propiedades farmacocinéticas""), no se debe administrar imidapril a estos pacientes.
+ - Aclaramiento de creatinina inferior a 10 ml/min (insuficiencia renal con o sin
+hemodiálisis)
+El medicamento está contraindicado en estos pacientes.
+ - Insuficiencia hepática
+ La dosis inicial recomendada en pacientes con insuficiencia hepática es 2,5 mg una vez al
+día. El imidapril debe usarse con precaución en enfermos con insuficiencia hepática.
+ - Pacientes con mayor riesgo de hipotensión de primera dosis
+ Se puede producir hipotensión de primera dosis en pacientes de alto riesgo (véase
+""Advertencias y precauciones especiales de empleo""). El comienzo del tratamiento
+requiere, si es posible, la corrección de los déficits de sal y de líquidos corporales y la
+interrupción de cualquier tratamiento diurético existente durante dos o tres días antes de la
+inhibición de la ECA. Si ello no es posible, la dosis inicial será 2,5 mg de imidapril. En
+pacientes hipertensos con insuficiencia cardiaca concomitante se ha observado hipotensión
+sintomática después del tratamiento con inhibidores de la ECA.
+ En estos pacientes la dosis inicial debe ser de 2,5 mg de imidapril una vez al día bajo
+estrecha supervisión médica. Se debe vigilar a los pacientes con alto riesgo de hipotensión
+aguda y grave de primera dosis, preferentemente en el hospital, durante un periodo de hasta
+6-8 horas después de la administración de la primera dosis de imidapril y siempre que se
+aumente la dosis de este fármaco o de un diurético concomitante. La dosis inicial debe ser
+de 2,5 mg. Esto también se aplica a los pacientes con angina de pecho y enfermedad
+cerebrovascular. Estos enfermos tienen mayor riesgo de sufrir un infarto de miocardio o un
+accidente cerebrovascular después de una hipotensión excesiva.
+       Niños
+       No se ha estudiado el uso pediátrico de imidapril. Por tanto, este fármaco no debe
+administrarse a los niños.
+ 4.3   Contraindicaciones
+       - Hipersensibilidad al imidapril o a cualquier otro inhibidor de la ECA
+       - Antecedentes de edema angioneurótico asociado con tratamiento previo con inhibidores
+de la ECA
+       - Angioedema hereditario/idiopático
+       - Embarazo
+       - Lactancia
+       - Hipertensión renovascular
+       - Insuficiencia renal con o sin hemodiálisis (aclaramiento de creatinina < 10 ml/min).
+ 4.4   Advertencias y precauciones especiales de empleo
+       - Trasplante de riñón
+       No existe experiencia relacionada con la administración de imidapril a pacientes sometidos
+a un trasplante de riñón reciente
+       - Psoriasis
+       Como ocurre con otros inhibidores de la ECA, el imidapril debe utilizarse con precaución
+en pacientes con psoriasis.
+       - Hipotensión
+       Al igual que otros inhibidores de la ECA, el imidapril puede provocar un descenso
+acentuado de la presión arterial, sobre todo después de la primera dosis. La hipotensión
+sintomática es rara en pacientes hipertensos no complicados. Este trastorno es más probable
+en pacientes que presenten una disminución del volumen de depleción por tratamiento con
+diuréticos, restricción de sal en la dieta, diálisis, diarrea o vómitos.
+ Este problema se ha descrito fundamentalmente en pacientes con insuficiencia cardiaca
+grave, con o sin insuficiencia renal asociada. Es más probable en pacientes que reciben
+dosis altas de diuréticos del asa o en aquellos que padecen hiponatremia o insuficiencia
+renal funcional. En estos pacientes, el tratamiento debe iniciarse bajo una supervisión
+médica muy estrecha, preferentemente en el hospital, con 2,5 mg de imidapril y ajustando
+la dosis cuidadosamente. Si es posible, se debe interrumpir temporalmente el tratamiento
+con diuréticos. Estas consideraciones también se aplican a los pacientes con angina de
+pecho o enfermedad cerebrovascular, en quienes una hipotensión excesiva podría originar
+un infarto de miocardio o un accidente cerebrovascular.
+ Si aparece hipotensión, hay que colocar al paciente en supino. Puede ser necesario reponer
+el volumen con solución salina normal por vía intravenosa. La aparición de hipotensión
+después de la dosis inicial no impide un posterior y cuidadoso ajuste de la dosis con
+imidapril después de un tratamiento eficaz.
+ - Pacientes con hipertensión renovascular
+ No se dispone de datos del uso de imidapril en pacientes con hipertensión renovascular. Por
+tanto, el tratamiento de estos enfermos con imidapril está contraindicado (véase
+""Contraindicaciones""). No obstante, en caso de que se administre imidapril a un paciente
+con hipertensión renovascular y estenosis bilateral previa de las arterias renales o estenosis
+de la arteria en un riñón solitario, existe mayor riesgo de hipotensión grave y de
+insuficiencia renal. Un factor que puede contribuir es el tratamiento con diuréticos. Puede
+producirse una pérdida de función renal con solo ligeras variaciones de la creatinina sérica,
+incluso en pacientes con estenosis unilateral de la arteria renal.
+ - Pacientes con insuficiencia renal
+ Cabe prever variaciones en la función renal en sujetos predispuestos como resultado de la
+inhibición del sistema renina-angiotensina-aldosterona. Por tanto, el imidapril, al igual que
+otros inhibidores de la ECA, debe utilizarse con precaución en pacientes con insuficiencia
+renal. Se necesitan dosis menores en pacientes con aclaramiento de creatinina entre 30
+ml/min y 80 ml/min (véase ""Posología y forma de administración"").
+ No se debe administrar imidapril a pacientes con aclaramiento de creatinina inferior a 30
+ml/min dada la limitada experiencia en estos casos (véanse ""Posología y forma de
+administración"" y ""Propiedades farmacocinéticas"").
+Según se considere oportuno, debe vigilarse atentamente la función renal durante el
+tratamiento.
+ Se ha descrito insuficiencia renal en asociación con inhibidores de la ECA, sobre todo en
+pacientes con insuficiencia cardiaca grave o nefropatías subyacentes, como estenosis
+arterial renal. Algunos pacientes, sin aparente nefropatía previa, pueden experimentar
+aumentos de las concentraciones sanguíneas de urea y creatinina cuando se administra
+simultáneamente un diurético. A veces hay que reducir la dosis del inhibidor de la ECA o
+suspender el diurético. Se recomienda vigilar la función renal durante las primeras semanas
+de tratamiento.
+ - Pacientes en hemodiálisis
+ En la actualidad, el uso de imidapril en pacientes en hemodiálisis está contraindicado
+(véase ""Contraindicaciones"") por la falta de experiencia. En caso de que la hemodiálisis sea
+necesaria en un paciente ya tratado con imidapril, hay que evitar el uso de membranas de
+poliacrilonitrilo de hiperflujo por el riesgo de reacciones anafilactoides, como hinchazón
+facial, rubor, hipotensión y disnea. Los síntomas suelen manifestarse pocos minutos
+después de iniciar la hemodiálisis. Por consiguiente, se recomienda emplear otra membrana
+o un medicamento que pertenezca a otro grupo de antihipertensivos.
+ - Pacientes en lípido aféresis de LDL
+ Los pacientes tratados con un inhibidor de la ECA y sometidos a lípido aféresis de LDL
+con sulfato de dextrano pueden experimentar reacciones anafilactoides semejantes a las
+registradas en pacientes sometidos a hemodiálisis con membranas de hiperflujo (véase
+antes). Se recomienda emplear en estos pacientes un fármaco de otro grupo de
+antihipertensivos.
+ - Hipersensibilidad a toxinas y picaduras de insectos
+ Los pacientes con hipersensibilidad a toxinas de insectos y que siguen un tratamiento de
+desensibilización tienen mayor riesgo de experimentar reacciones anafilactoides graves
+cuando reciben un inhibidor de la ECA. Así pues, el tratamiento con imidapril debe
+interrumpirse antes del tratamiento de desensibilización. Pueden producirse reacciones
+similares tras una picadura de insecto en pacientes sin hipersensibilidad conocida a toxinas
+de insectos.
+ - Angioedema
+ En pacientes tratados con imidapril puede producirse angioedema de la cara, extremidades,
+labios, membranas mucosas, lengua, glotis y/o laringe. Los síntomas son más frecuentes
+durante las primeras semanas de tratamiento. No obstante, en casos raros puede producirse
+un angioedema grave después del tratamiento prolongado con imidapril. En estos casos hay
+que suspender el tratamiento con rapidez y sustituirlo por un medicamento que pertenezca a
+otro grupo de fármacos. El angioedema que afecta a la lengua, la glotis o la laringe puede
+resultar mortal. Debe aplicarse un tratamiento de urgencia constituido por lo siguiente, sin
+limitarse necesariamente a ello: adrenalina (epinefrina) en solución subcutánea inmediata
+1:1.000 (0,3-0,5 ml) o adrenalina en solución intravenosa lenta 1 mg/ml (observando las
+instrucciones de dilución) con control del ECG y de la presión arterial. Hay que hospitalizar
+al paciente y observarlo durante al menos 12 a 24 horas; no se le debe dar de alta hasta que
+se hayan resuelto por completo los síntomas.
+                                                                                                 MINISTERIO
+- Tos
+ Durante el tratamiento con imidapril puede sobrevenir una tos seca y no productiva, que
+desaparece al suspender el tratamiento.
+ - Pacientes de edad avanzada
+ Algunos pacientes de edad avanzada, en especial los pacientes muy mayores, pueden ser
+más sensibles al imidapril que enfermos más jóvenes. En los pacientes de 65 o más años, la
+dosis inicial de imidapril debe ser de 2,5 mg. Se recomienda evaluar la función renal al
+principio del tratamiento.
+ - Niños
+ No se debe administrar imidapril a los niños hasta que se haya establecido su eficacia y su
+seguridad.
+ - Hiperpotasemia
+ Rara vez se produce hiperpotasemia con el tratamiento con imidapril, en particular en
+presencia de insuficiencia renal o insuficiencia cardiaca. En general, no se recomiendan los
+suplementos de potasio ni los diuréticos ahorradores de potasio, pues pueden provocar un
+aumento significativo del potasio sérico. No obstante, si se considera oportuno usar estos
+medicamentos, es necesario vigilar con frecuencia el potasio sérico.
+ - Cirugía/anestesia
+ No se dispone de datos del uso de imidapril en caso de cirugía o anestesia. Sin embargo, el
+imidapril, como otros inhibidores de la ECA, puede provocar hipotensión o incluso shock
+hipotensor en pacientes sometidos a cirugía mayor o durante la anestesia, merced a la
+intensificación de otros factores hipotensores. Si no es posible suspender el imidapril, hay
+que controlar con gran cuidado el volumen.
+ - Estenosis aórtica/miocardiopatía hipertrófica
+ El imidapril debe utilizarse con precaución en pacientes con obstrucción de la vía de salida
+del ventrículo izquierdo.
+ - Neutropenia/agranulocitosis
+ Rara vez sobreviene neutropenia con imidapril. Los datos de otros inhibidores de la ECA
+indican que se puede producir neutropenia en pacientes con cierto grado de insuficiencia
+renal, en especial cuando se asocia con una enfermedad colagenovascular, por ejemplo,
+lupus eritematoso sistémico, esclerodermia, y con tratamiento con inmunosupresores. Este
+problema se corrige tras suspender el tratamiento con el inhibidor de la ECA.
+ - Proteinuria
+Rara vez se ha registrado proteinuria con imidapril. Puede aparecer sobre todo en pacientes
+que ya tienen insuficiencia renal, pero también se ha observado con dosis relativamente
+altas de otros inhibidores de la ECA.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+       Diuréticos ahorradores de potasio o suplementos de potasio: el imidapril, al igual que otros
+inhibidores de la ECA, puede atenuar la pérdida de potasio inducida por los diuréticos. Los
+diuréticos ahorradores de potasio, por ejemplo, espironolactona, triamtereno o amilorida,
+los suplementos de potasio o los sustitutos de la sal con potasio pueden aumentar
+significativamente el potasio sérico. Si está indicado el uso simultáneo de estos productos
+por una hipopotasemia confirmada, deben utilizarse con precaución y vigilando con
+frecuencia el potasio sérico.
+       Diuréticos: los pacientes tratados con diuréticos, en particular aquellos que disminuyen el
+volumen o la sal, pueden experimentar una reducción excesiva de la presión arterial tras
+iniciar el tratamiento con imidapril. La posibilidad de efectos hipotensores puede reducirse
+suspendiendo el diurético, aumentando el volumen o el consumo de sal antes de la toma del
+fármaco e iniciando el tratamiento con una dosis menor de imidapril. Hay que ser precavido
+al aumentar de nuevo la dosis.
+       Litio: la administración concomitante de imidapril con litio puede reducir la excreción de
+este último. Es necesario vigilar con frecuencia los niveles séricos de litio.
+       Anestésicos: el imidapril, como otros inhibidores de la ECA, puede potenciar los efectos
+hipotensores de algunos anestésicos.
+       Narcóticos/antipsicóticos: puede producirse hipotensión postural
+       Antihipertensivos: se produce un incremento del efecto hipotensor de los inhibidores de la
+ECA.
+       Alopurinol: los datos de otros inhibidores de la ECA indican un mayor riesgo de
+leucopenia.
+       Citostáticos o inmunosupresores, corticosteroides sistémicos o procainamida: la
+administración concomitante con imidapril, al igual que con otros inhibidores de la ECA,
+puede aumentar el riesgo de leucopenia.
+       Antiinflamatorios no esteroideos (AINE): hay datos de otros inhibidores de la ECA que
+indican que la administración simultánea de un antiinflamatorio no esteroideo puede reducir
+el efecto antihipertensivo de los inhibidores de la ECA, aumentando el potasio sérico y
+disminuyendo la función renal. Estos efectos son más probables en enfermos con
+insuficiencia renal.
+                                                                                                      MINISTERIO
+Rifampicina: la administración de rifampicina reduce la concentración plasmástica de
+imidaprilato, el metabolito activo del imidapril. Por tanto, podría disminuir el efecto
+hipertensivo del imidapril.
+       Antidiabéticos: los inhibidores de la ECA pueden potenciar la sensibilidad a la insulina.
+Como consecuencia de ello puede ocurrir una hipoglucemia sintomática en pacientes que
+reciben concomitantemente insulina o antidiabéticos orales e imidapril.
+       Antiácidos: estos pueden inducir una menor biodisponibilidad del imidapril.
+       Simpaticomiméticos: pueden disminuir los efectos antihipertensivos de los inhibidores de la
+ECA; es necesario vigilar cuidadosamente a los pacientes para confirmar que se obtiene el
+efecto deseado.
+       Alcohol: puede potenciar el efecto hipotensor de los inhibidores de la ECA.
+ 4.6   Embarazo y lactancia
+       El imidapril está contraindicado en el embarazo y la lactancia.
+Los inhibidores de la ECA atraviesan la placenta y pueden causar morbilidad y mortalidad
+fetal y neonatal cuando se administran a mujeres embarazadas. La exposición del feto a
+inhibidores de la ECA en todos los trimestres puede asociarse con hipotensión neonatal,
+insuficiencia renal, deformidades de la cara o el cráneo y/o la muerte. Hay que observar
+atentamente a los lactantes expuestos in utero a inhibidores de la ECA por la posibilidad de
+hipotensión, oliguria e hiperpotasemia. Las mujeres que se quedan embarazadas mientras
+toman imidapril deben recibir información sobre los posibles peligros para el feto; además,
+hay que interrumpir el tratamiento con imidapril.
+Los inhibidores de la ECA puede excretarse en la leche materna, y no se ha determinado su
+efecto en los lactantes alimentados al pecho.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+       Cuando se conducen vehículos o se utilizan máquinas debe tenerse en cuenta la posibilidad
+ocasional de mareos o cansancio.
+No existen estudios sobre el efecto del imidapril en la capacidad para conducir.
+ 4.8   Reacciones adversas
+       La incidencia de reacciones adversas en pacientes hipertensos tratados con imidapril ha
+sido del 34%, y con placebo del 36%. En el grupo de imidapril fueron más frecuentes la tos,
+los mareos, la fatiga/somnolencia, la dispepsia y los vómitos.
+Más en concreto se han observado las siguientes reacciones adversas en asociación con el
+tratamiento con imidapril o con otros inhibidores de la ECA:
+       -   Aparato cardiovascular: se puede producir una hipotensión grave tras iniciar el
+tratamiento o aumentar la dosis en algunos grupos de riesgo. Junto con la hipotensión
+pueden sobrevenir síntomas como mareos, sensación de debilidad, alteraciones de la
+visión y rara vez trastornos de la conciencia (síncope). Se han descrito casos
+individuales de taquicardia, palpitaciones, arritmias, angina de pecho, infarto de
+miocardio, accidentes isquémicos transitorios y hemorragia cerebral con inhibidores de
+la ECA en asociación con hipotensión.
+       - Sistema renal: rara vez aparece o se intensifica una insuficiencia renal. Se ha descrito
+insuficiencia renal aguda con otros inhibidores de la ECA.
+       - Aparato respiratorio: se ha comprobado que los inhibidores de la ECA inducen tos en un
+número importante de pacientes. Rara vez se pueden producir, disnea, sinusitis, rinitis,
+glositis, bronquitis, broncoespasmo y angioedema en las vías respiratorias superiores.
+       - Aparato digestivo: en ocasiones se han descrito náuseas y diarrea. Rara vez, pueden
+aparecer vómitos, gastritis, dolor abdominal, estreñimiento, sequedad de boca, ictericia
+colestásica, hepatitis, pancreatitis e íleo.
+       - Piel y vasos sanguíneos: rara vez se han descrito reacciones alérgicas y de
+hipersensibilidad, como exantema, prurito, erupción cutánea y urticaria. Con otros
+inhibidores de la ECA se han registrado casos de eritema multiforme, síndrome de Steven-
+Johnson, necrólisis epidérmica tóxica, eflorescencias de tipo psoriasis y alopecia. Los
+síntomas cutáneos puede acompañarse de fiebre, mialgias, artralgias, eosinofilia y/o
+aumento de los niveles de ANA. Como ocurre con otros inhibidores de la ECA, el imidapril
+puede asociarse con un edema angioneurótico que afecta a la cara y los tejidos
+bucofaríngeos.
+       - Sistema nervioso: ocasionalmente se han descrito mareos, cansancio y fatiga. Rara vez
+pueden producirse depresiones, trastornos del sueño, parestesias, impotencia, trastornos del
+equilibrio, confusión, zumbidos de oídos, visión borrosa, cefalea y alteraciones del gusto.
+       - Parámetros de laboratorio: se pueden producir aumentos en las concentraciones
+sanguíneas de urea y las concentraciones plasmáticas de creatinina, que se corrigen al
+suspender el tratamiento, sobre todo en presencia de insuficiencia renal.
+       Puede elevarse el potasio sérico, pues el imidapril disminuye la secreción de aldosterona.
+       En algunos pacientes se ha descrito disminución de la hemoglobina, el hematócrito, las
+plaquetas y el recuento leucocitario, así como aumento de las enzimas hepáticas y de la
+bilirrubina sérica y creatinfosfocinasa (CPK). En casos individuales puede aparecer
+agranulocitosis o pancitopenia. En pacientes con un déficit congénito de G-6-PDH se han
+descrito casos individuales de anemia hemolítica con otros inhibidores de la ECA.
+ 4.9   Sobredosis
+       Los síntomas de sobredosis consisten en hipotensión grave, shock, estupor, bradicardia,
+trastornos electrolíticos e insuficiencia renal. Tras la ingestión de una sobredosis, se debe
+vigilar estrechamente al paciente, preferentemente en una unidad de cuidados intensivos.
+Hay que vigilar con frecuencia la creatinina y los electrólitos séricos. Las medidas
+terapéuticas dependen de la naturaleza y la gravedad de los síntomas. Cuando la ingestión
+es reciente hay que adoptar medidas para prevenir la absorción y favorecer la eliminación,
+como lavado gástrico y administración de adsorbentes y sulfato sódico en los 30 minutos
+siguientes a la toma del medicamento.
+       Si se produce hipotensión, hay que colocar al paciente en postura de shock y administrar
+con rapidez suplementos de sal para reposición del volumen. Es necesario considerar el
+tratamiento con angiotensina II. La bradicardia o las reacciones vagales intensas deben
+tratarse con atropina. Cabe considerar el uso de un marcapasos. El imidapril y el
+imidaprilato se eliminan de la circulación mediante hemodiálisis. Se debe evitar el uso de
+membranas de poliacrilonitrilo de hiperflujo.
+ 5.    Propiedades farmacológicas
+ 5.1   Propiedades farmacodinámicas
+       Código ATC y grupo farmacoterapéutico: C09A, inhibidores de la ECA.
+El efecto hipotensor del imidapril en la hipertensión parece obedecer fundamentalmente a
+la supresión del sistema renina-angiotensina-aldosterona en plasma. La renina es una
+enzima endógena sintetizada por los riñones y que se deposita en el torrente circulatorio,
+donde convierte el angiotensinógeno en angiotensina I, un decapéptido relativamente
+inactivo. A continuación, la angiotensina I se convierte en angiotensina II merced a la
+acción de la enzima convertidora de la angiotensina, una peptidilpeptidasa. La angiotensina
+II es un potente vasoconstrictor, responsable de la vasoconstricción y de la hipertensión
+arterial, así como de la estimulación de la glándula adrenal para secretar aldosterona. La
+inhibición de la ECA disminuye la concentración plasmática de angiotensina II, lo que se
+traduce en una disminución de la actividad vasopresora y en una reducción de la secreción
+de aldosterona.
+       Aunque esa última disminución es pequeña, se pueden producir ligeros incrementos de las
+concentraciones séricas de potasio, junto con pérdida de sodio y de líquidos. La supresión
+de la retroalimentación negativa de la angiotensina II sobre la secreción de renina aumenta
+la actividad de la renina plasmática.
+       Otra función de la enzima convertidora es degradar la bradicinina, un potente péptido
+vasodepresor del grupo de las cininas, en metabolitos inactivos. Por tanto, la inhibición de
+la ECA aumenta la actividad del sistema circulante y local de la calicreína-cinina, lo que
+contribuye a la vasodilatación periférica al activar el sistema de las prostaglandinas. Es
+posible que este mecanismo participe en el efecto hipotensor de los inhibidores de la ECA y
+sea responsable de algunos efectos adversos.
+       La administración de imidapril a pacientes hipertensos reduce la presión arterial en
+sedestación, decúbito supino y bipedestación aproximadamente en el mismo grado, sin
+incremento compensador de la frecuencia cardiaca. El efecto hipotensor máximo se observa
+6-8 horas después de la toma del fármaco. La consecución de una reducción óptima de la
+presión arterial puede requerir varias semanas de tratamiento en algunos pacientes. Los
+                                                                                                      MINISTERIO
+efectos antihipertensivos se mantienen durante el tratamiento a largo plazo. La interrupción
+brusca del tratamiento no se ha asociado con un rápido aumento de la presión arterial.
+ 5.2   Propiedades farmacocinéticas
+       Después de la administración oral, el imidapril se absorbe con rapidez en el tubo digestivo
+y alcanza su concentración plasmática máxima en un plazo de dos horas. Las
+concentraciones plasmáticas descienden de manera monofásica, con una semivida de
+eliminación aproximada de 2 horas. La absorción se acerca al 70%. Las comidas ricas en
+grasas disminuyen significativamente la absorción del imidapril.
+       El imidapril se hidroliza fundamentalmente en su metabolito farmacológicamente activo, el
+imidaprilato. La concentración plasmática máxima de imidaprilato se alcanza en un plazo
+de 7 horas. Dichas concentraciones descienden de manera bifásica, con una semivida inicial
+de 7-9 horas y una semivida terminal de más de 24 horas. La biodisponibilidad absoluta del
+imidaprilato es del 42% aproximadamente.
+       La unión del imidapril y el imidaprilato a las proteínas fue moderada (85% y 53%,
+respectivamente).
+       Tras una dosis oral única la absorción oral del imidapril es lineal desde al menos 10 mg
+hasta 240 mg, a tenor de los datos plasmáticos y de excreción urinaria. Tras la
+administración oral del compuesto radiomarcado, cerca del 40% de la radiactividad total se
+excreta en la orina y alrededor del 50% en las heces.
+       Tras dosis múltiples, se alcanzan concentraciones de imidaprilato en estado estacionario
+después de la primera administración de imidapril al cabo de unos 5 días. En pacientes con
+insuficiencia renal se han observado mayores niveles plasmáticos y mayores valores de
+AUC de imidapril e imidaprilato. En enfermos con un aclaramiento de creatinina de 30-80
+ml/min se ha observado un incremento de dos veces del AUC de imidaprilato, mientras que
+en pacientes con un aclaramiento de creatinina de 10-29 ml/min el aumento ha sido casi de
+diez veces. La experiencia en todos los grados de insuficiencia renal es muy limitada. No
+existe experiencia con la dosis de 20 mg en la insuficiencia renal.
+En pacientes con insuficiencia hepática, el AUC del imidapril y el imidaprilato fue
+ligeramente mayor que en sujetos normales, mientras que el tmax fue semejante en los dos
+grupos. Por otro lado, el t1/2 del imidaprilato, pero no el del imidapril, aumentó
+significativamente en los pacientes con insuficiencia hepática.
+ 5.3   Datos preclínicos sobre seguridad
+       No se han observado efectos específicos en estudios breves (como los estudios de
+mutagénesis) o en estudios de toxicidad a largo plazo (como los estudios de carcinogénesis)
+que aporten datos importantes adicionales a los procedentes del uso en el ser humano.
+       En estudios de reproducción animal el imidapril no se caracterizó por signos claros de
+fetotoxicidad, si bien en crías de rata se observaron retraso del crecimiento prenatal y
+disminución del aumento de peso corporal con 1.500 mg/kg. La fertilidad de ratas macho y
+hembra no experimentó alteraciones. Los estudios de teratogénesis en ratas y conejos no
+han revelado potencial teratógeno.
+ 6.    Datos farmacéuticos
+ 6.1   Lista de excipientes
+Fosfato cálcico dibásico anhídro
+Almidón de maíz pregelatinizado
+Lactosa monohidratada
+Croscarmelosa sódica
+Palmito-estearato de glicerol
+ 6.2   Incompatibilidades
+       No se conocen
+ 6.3   Periodo de validez
+       Tres años
+ 6.4   Precauciones especiales de conservación
+       Almacenar a una temperatura inferior a 30º C
+ 6.5   Naturaleza y contenido del recipiente
+       Tiras de blister de aluminio/aluminio con 7 comprimidos
+Envases con 14 ó 28 comprimidos
+Comprimidos biconvexos, redondos y blanquecinos, de 2,5 mg con un borde plano
+ 6.6   Instrucciones de uso y manipulación
+       Ninguna
+ Datos administrativos
+ 7.    Titular de la autorización de comercialización
+       ROTTAPHARM, S.A.
+Carretera de Barcelona, 2
+46132 ­ Almácera (Valencia)
+ 8.    Fecha de la revisión del texto
+5 de Marzo de 2001
+  
+      TANATRIL 2,5MG 14 COMPRIMIDOS
+         Prospectos de medicamentos."

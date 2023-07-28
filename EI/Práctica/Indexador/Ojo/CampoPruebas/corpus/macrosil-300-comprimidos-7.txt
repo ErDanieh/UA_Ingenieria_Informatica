@@ -1,0 +1,352 @@
+MACROSIL 300 Comprimidos 7
+	Información Basica del medicamento Toda la información del medicamento 1. NOMBRE DEL MEDICAMENTO
+ MACROSIL comprimidos 150 mg
+MACROSIL comprimidos 300 mg
+ 2. COMPOSICION CUANTITATIVA Y CUALITATIVA
+                 MACROSIL comprimidos 150 mg
+                 Cada comprimido contiene:
+Principio activo
+                     MACROSIL comprimidos 300 mg,
+ 
+3. FORMA FARMACÉUTICA
+	       MACROSIL comprimidos de 150 mg de roxitromicina (D.C.I.).
+MACROSIL comprimidos de 300 mg de roxitromicina (D.C.I.).
+ 
+
+
+4. DATOS CLINICOS
+	"4.1    Indicaciones terapéuticas
+Infecciones causadas por gérmenes sensibles a roxitromicina.
+Es conveniente, para un mejor uso, determinar la sensibilidad de los gérmenes,                         o   su
+posible resistencia, mediante un antibiograma.
+                          Infecciones del tracto respiratorio superior:
+·
+ ·
+                          Infecciones de la piel y tejidos blandos, causadas por Clostridium,
+·
+                         Uretritis no gonocócicas, causadas por Ureaplasma urealyticum,
+·
+ 4.2   Posología y forma de administración
+       MACROSIL debe administrarse preferentemente antes de las comidas
+       MACROSIL comprimidos
+       * Adultos:
+           - Función hepática normal: la dosis recomendada es de 300 mg al día, repartidos en
+tomas de 150 mg cada 12 horas, o bien un comprimido de 300 mg una vez al día.
+Las molestias gastrointestinales ocurren con relativa mayor frecuencia con los
+comprimidos de 300 mg; si esto ocurriese, dependiendo de la respuesta del paciente,
+debería ser considerada la posibilidad de administrar el fármaco en dos dosis diarias
+de 150 mg cada una en lugar de una de 300 mg.
+           - Insuficiencia hepática grave: La dosis debe reducirse a la mitad (un comprimido de
+150 mg al día).
+Los comprimidos de 300 mg están contraindicados en pacientes con insuficiencia
+hepática grave.
+           - Insuficiencia renal: no es necesario modificar el régimen terapéutico.
+           - Pacientes ancianos: no es necesario modificar el régimen terapéutico.
+ MACROSIL sobres
+           * Niños:
+              En niños con peso superior a 40 kg se recomienda emplear la forma adultos
+(MACROSIL comprimidos de 150 mg); un comprimido por la mañana y otro por la
+noche (dosis diaria: 300 mg).
+              Las formulaciones de MACROSIL comprimidos no son adecuadas para la
+administración en niños menores de 4 años y, por lo tanto, no deberían ser utilizadas
+en este grupo de edad.
+ 4.3   Contraindicaciones
+       -      Hipersensibilidad a los macrólidos.
+-      Tratamiento concomitante con alcaloides derivados del cornezuelo de centeno, en
+particular ergotamina y dihidroergotamina (ver ""interacciones con con otros medicamentos"").
+ 4.4          Advertencias y precauciones especiales de empleo
+       -      Advertencia
+Se han comunicado casos de vasoconstricción grave (""ergotismo"") con posible
+necrosis en las extremidades después de la terapia concomitante de macrólidos con
+alcaloides vasoconstrictores derivados del cornezuelo del centeno. Antes de
+prescribir roxitromicina debe comprobarse siempre la ausencia de tratamiento con
+estos alcaloides (Ver Interacciones).
+       -   No se recomienda la administración de roxitromicina en caso de insuficiencia
+hepática severa. Si fuese necesaria, se justifica la vigilancia regular de los exámenes
+hepáticos y posiblemente la reducción de la posología diaria.
+       -   Dado que la excreción renal del producto es baja (aproximadamente un 10%), no es
+preciso modificar el régimen posológico en caso de insuficiencia renal.
+       -   Dado que, a dosis al menos 10 veces superiores a las dosis terapéuticas se ha
+observado en el animal joven anomalías en el cartílago de conjunción, se recomienda
+en los niños limitar la posología a 5-8 mg/kg/día, durante un período máximo de 10
+días.
+       -   Al igual que con otros antibióticos de amplio espectro se ha descrito la aparición de
+colitis pseudomembranosa en pacientes tratados con macrólidos.
+       -   En pacientes diabéticos habrá de tenerse en cuenta que MACROSIL 150 mg
+comprimidos contiene 1,12 mg de glucosa, MACROSIL 300 mg contiene 2,24 mg de
+glucosa.
+ 4.5   Interacciones con con otros medicamentos y otras formas de interacción
+       Alcaloides vasoconstrictores derivados del cornezuelo del centeno. (Ver 4.4:
+Advertencia).
+       Ciertos macrólidos son capaces de interaccionar farmacocinéticamente con terfenadina,
+produciendo un incremento de los niveles séricos de ésta. Esto puede resultar en arritmia
+ventricular grave, típicamente ""torsades de pointes"". Aunque esta reacción no ha sido
+demostrada con roxitromicina y los estudios efectuados en un número limitado de
+voluntarios sanos no ha detectado ninguna interacción farmacocinética ni cambios
+relevantes en el ECG, no se recomienda la asociación de roxitromicina y terfenadina.
+       Otros fármacos, como astemizol, cisaprida o pimozida, que son metabolizados por la
+isoenzima CYP3A hepática, se han asociado con una prolongación del intervalo QT y/o
+arritmias cardiacas (típicamente ""torsades de pointes"") como resultado de un incremento
+en su nivel plasmático, subsiguiente a la interacción con inhibidores significativos de esta
+isoenzima, incluyendo algunos macrólidos. Aunque la roxitromicina no tiene o tiene una
+capacidad limitada de unión a CYP3A y por lo tanto, de inhibir el metabolismo de otros
+fármacos metabolizados por esta isoenzima, no se puede asegurar ni descartar con plena
+seguridad una interacción potencial de roxitromicina con los fármacos mencionados. Por
+lo tanto, no se recomienda la asociación de roxitromicina con estos fármacos.
+       No se ha observado interacción con la warfarina en estudios en voluntarios sanos; sin
+embargo, se ha descrito un incremento en el tiempo de protrombina o en la razón
+normalizada internacional (INR), que puede ser debido al episodio infeccioso, en
+pacientes tratados con roxitromicina y antagonistas de la vitamina K. Es una práctica
+                                                                                                      MINISTERIO
+prudente realizar monitorizaciones de la razón normalizada internacional (INR) durante el
+tratamiento combinado con roxitromicina y antagonistas de la Vitamina K.
+     -     Un estudio ""in vitro"" ha demostrado que roxitromicina puede desplazar la unión a
+proteínas de la disopiramida; tal efecto ""in vivo"" podría resultar en un incremento en los
+niveles séricos de disopiramida libre.
+En consecuencia deberá monitorizarse el ECG y, si es posible, los niveles séricos de
+disopiramida.
+           Una interacción de este tipo podría ocurrir con la lidocaina.
+           Un estudio realizado en voluntarios sanos ha demostrado que la roxitromicina puede
+incrementar la absorción de digoxina.
+Este efecto, común a otros macrólidos, puede conducir muy raramente a toxicidad
+cardiaca por glucósidos. Esto puede manifestarse por síntomas como náuseas, vómitos,
+diarrea, cefalea o vértigo; la toxicidad cardiaca por glucósidos también puede
+desencadenar desórdenes en la conducción cardiaca y/o del ritmo cardiaco. En
+consecuencia, deberá monitorizarse el ECG y, si es posible, los niveles séricos del
+glucósido cardiaco en pacientes tratados con roxitromicina y digoxina u otro glucósido
+cardiaco; esto será indispensable si se manifiestan síntomas que pueden sugerir una
+sobredosis de glucósidos cardiacos.
+     -     Roxitromicina, al igual que otros macrólidos, puede incrementar la concentración y la
+vida media del midazolam; como consecuencia, los efectos del midazolam pueden verse
+incrementados y prolongados en pacientes tratados con roxitromicina, por lo que puede
+ser necesario ajustar la dosis de aquel fármaco. No existe evidencia concluyente de una
+interacción con triazolam y alfentanilo, fármacos que se sabe interaccionan con otros
+antibióticos macrólidos.
+     -     Se ha detectado un ligero incremento en las concentraciones plasmáticas de teofilina o
+ciclosporina A que, generalmente, no necesita modificar la dosis habitual.
+     -     No existe interacción clínicamente significativa con carbamazepina, ranitidina, hidróxido
+de aluminio o magnesio y anticonceptivos orales que contengan estrógenos y
+progestágenos.
+ -         El efecto bactericida de los antibióticos del grupo beta-lactámico puede ser antagonizado
+por el efecto bacteriostático de los macrólidos. Se ha observado un antagonismo
+microbiológico entre macrólidos y lincomicina (in vitro) y clindamicina.
+ 4.6   Embarazo y lactancia
+           Embarazo
+La seguridad de roxitromicina para el feto no se ha establecido. Sin embargo, estudios
+llevados a cabo en diversas especies animales no han demostrado efectos teratógenos ó
+fetotóxicos a dosis superiores a 200 mg/kg/día, o a dosis 40 veces la dosis humana
+terapéutica. La administración de MACROSIL en mujeres embarazadas se realizará
+valorando siempre la relación beneficio-riesgo de su aplicación.
+           Lactancia
+                                                                                                        MINISTERIO
+Pequeñas cantidades de roxitromicina pasan a la leche materna; por tanto, en caso
+necesario, se interrumpirá la lactancia o el tratamiento de la madre por el riesgo que puede
+tener sobre el niño.
+ 4.7   Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+       Debe tenerse en cuenta la posible aparición de sensación de mareo.
+ 4.8   Reacciones adversas
+ -     Trastornos gastrointestinales: náuseas, vómitos, dolores abdominales (relativamente más
+frecuentes con el empleo de los comprimidos de 300 mg), diarreas, muy raramente con
+sangrado.
+ -     Al igual que con otros antibióticos de amplio espectro se ha descrito la aparición de colitis
+pseudomenbranosa en pacientes tratados con macrólidos
+ -     En casos aislados, se han observado síntomas de pancreatitis; la mayoría de los pacientes
+habían recibido con otros medicamentos para los cuales la pancreatitis era una reacción
+adversa conocida.
+ -     Reacciones de hipersensibilidad: como con otros antibióticos macrólidos, erupción
+cutánea, urticaria, angioedema; excepcionalmente, púrpura, broncoespasmo, shock
+anafiláctico. Se han observado eritema multiforme, síndrome de Stevens Johnson y
+necrolisis epidérmica durante el tratamiento con roxitromicina.
+ -     Sensaciones de mareo, cefaleas, parestesias.
+ -     Incrementos moderados en las transaminasas hepáticas (ASAT, ALAT y/o fosfatasa
+alcalina). Afectación hepática colestática o, más raramente, daño agudo hepatocelular.
+ -     Posible infecciones por micetos.
+ -     Como con otros macrólidos, se han observado alteraciones del gusto y/u olfato.
+ -     Sobreinfección: al igual que con otros antibióticos, el uso de roxitromicina, especialmente
+si es prolongado, puede provocar un crecimiento de organismos no sensibles. Es esencial
+la evaluación repetida del estado del paciente. Si aparece sobreinfección durante el
+tratamiento, deberán tomarse las medidas oportunas.
+ 4.9   Sobredosificación
+       En caso de sobredosificación: lavado gástrico y tratamiento sintomático. No existe
+antídoto específico.
+ "
+5.    PROPIEDADES FARMACOLOGICAS
+	      Roxitromicina es un antibiótico macrólido semisintético.
+ 5.1   Propiedades farmacodinámicas
+Actividad antibacteriana
+El espectro antibacteriano de la roxitromicina es el siguiente.
+ - Especies habitualmente sensibles(CMI 1 mg/l)
+. Streptococcus spp
+. Streptococcus pneumoniae*
+. Staphylococcus meti-S
+. Neisseria meningitidis
+. Bordetella pertussis
+. Branhamella catarrhalis
+. Corynebacterium diphteriae
+. Listeria monocytogenes
+. Clostridium
+. Mycoplasma pneumoniae
+. Pasteurella multocida
+. Chlamydia trachomatis,C. psittaci y C. pneumoniae
+. Legionella pneumophila
+. Helicobacter pylori
+. Gardnerella vaginalis
+. Enterococcus *
+. Borrelia burgdorferi
+. Propionibacterium acnes
+. Campylobacter jejuni
+. Campylobacter coli *
+. Clostridium perfringens *
+. Peptostreptococcus *
+. Rhodococcus equi
+. Porphyromonas
+. Mobiluncus
+ - Especies moderadamente sensibles
+Ante la sospecha de infección por gérmenes pertenecientes a este grupo, se aconseja
+confirmar la sensibilidad de los mismos mediante antibiograma antes de iniciar el
+tratamiento con roxitromicina
+          . Haemophilus influenzae
+. Vibrio cholerae
+. Ureaplasma urealyticum
+    - Especies resistentes (CMI > 4 mg/l)
+. Enterobacteriaceae
+. Pseudomonas spp
+. Acinetobacter spp
+. Staphylococcus meti-R (S. aureus y coagulasa negativos)
+. Mycoplasma hominis
+. Nocardia
+. Fusobacterium
+. Bacteroides fragilis
+ * La sensibilidad de la cepa depende de la epidemiología y del nivel de resistencia del
+país afectado.
+5.2   Propiedades farmacocinéticas
+       * ADULTOS
+ -     Absorción
+Roxitromicina se absorbe rápidamente siendo estable en medio ácido. Tras la
+administración oral de 150 mg a sujetos en ayunas se detecta en el suero a los 15 minutos
+y el pico sérico (Cmáx) se alcanza a las 2,2 horas.
+Como la absorción de roxitromicina disminuye con los alimentos, se recomienda que se
+administre antes de las comidas.
+ -     Distribución
+Dosis única 150 mg. Tras la administración oral de una dosis de 150 mg a adultos sanos,
+los parámetros farmacocinéticos son los siguientes:
+                 C max pico de nivel                   C min                      Vida media de
+plasmático                                                     eliminación
+ Dosis única 300 mg. Tras la administración oral de una dosis de 300 mg, a adultos sanos,
+los parámetros farmacocinéticos son los siguientes:
+                     Cmax                   Tmax          Nivel plasmático                 Nivel
+9,7 mg/l               1,5 horas             2,9 mg/l                1,2 mg/l
+       Dosis repetida 150 mg cada 12 horas durante 10 días.
+       El estado estacionario en el plasma se alcanza entre el 2º y el 4º día. Las
+concentraciones plasmáticas en el estado estacionario son las siguientes:
+                             Cmax                                        Cmin
+       Dosis repetidas 300 mg cada 24 horas durante 11 días.
+       En el estado estacionario, las concentraciones plasmáticas son las siguientes:
+                                Cmax                                       Cmin
+ La penetración tisular de roxitromicina es satisfactoria en varios tejidos y fluidos
+corporales, particularmente en amígdalas, tejido pulmonar y prostático, 6 a 12 h tras la
+administración de dosis repetidas.
+ La unión a proteínas plasmáticas es del 96%; la roxitromicina se une esencialmente a la
+alfa-1-glicoproteína ácida. Esta unión es        saturable y desciende cuando las
+concentraciones plasmáticas de roxitromicina exceden los 4 mg/l.
+             Roxitromicina se excreta en muy poca cantidad en la leche humana: menos del 0,05% de
+la dosis administrada.
+     - Biotransformación
+Roxitromicina se metaboliza en muy poca cantidad, más de la mitad de la dosis se excreta
+de forma inalterada. Se han identificado tres metabolitos en orina y heces: el mayoritario
+es la roxitromicina descladinosa, y los minoritarios son la N-monodemetil roxitromicina y
+la N-didemetil roxitromicina. Roxitromicina y sus tres metabolitos se encuentran en orina
+y heces en proporciones similares.
+     - Excreción
+* Adultos con función hepática y renal normal: tras la administración oral, la
+roxitromicina se elimina principalmente por las heces (65%); 72 horas después de la
+administración oral de roxitromicina marcada con C14, la radioactividad urinaria
+representa sólo el 12% del total excretado en orina y heces.
+             * Adultos con insuficiencia renal: la excreción renal de roxitromicina y sus metabolitos
+es de aproximadamente el 10% de la dosis oral. La dosis puede mantenerse inalterada
+en la insuficiencia renal.
+ .           * Adultos con insuficiencia hepática grave: la vida media se prolonga (25h) y la Cmáx
+se incrementa tras la administración de una dosis oral de 150 mg.
+             * Adultos ancianos: Después de una única dosis de 300 mg, la concentración máxima en
+plasma es más elevada que en adultos jóvenes.
+En los ancianos la vida media de eliminación es el doble de la vida media en pacientes
+más jóvenes.
+ *        NIÑOS
+                 El perfil farmacocinético de roxitromicina en niños es muy similar al de adultos.
+                 Los parámetros farmacocinéticos registrados en niños después de una administración
+repetida a una dosis de 2,5 mg/kg cada 12 horas, en el estado estacionario dieron los
+siguientes resultados:
+                         Cmax                 Tmax            Vida media de             Cmin
+8,7 - 10,1 mg/l          2 horas             20 horas           2,6 - 3,4 mg/l
+ La vida media aparentemente más larga en niños no tiene ningún efecto en términos
+de acumulación, ya que Cmin se mantiene estable a lo largo del tiempo. Como las
+AUC son comparables a las de adultos, y asumiendo que la biodisponibilidad de
+roxitromicina es la misma en niños, esto sugiere que el aclaramiento total del
+producto es comparable en adultos sanos y en niños con una infección localizada.
+                                                                                                          MINISTERIO
+Distribución en tejidos:
+           El estudio de difusión en las amígdalas y adenoides mostró los siguientes resultados:
+-La roxitromicina difunde rápidamente en el tejido infectado; la concentración tisular
+después de una dosis única es similar a la registrada después de cuatro dosis.
+           -Las concentraciones tisulares permanecen altas hasta 12 horas después de la
+administración (intervalo de dosificación), siendo iguales o superiores a la
+concentración plasmática detectada en el mismo tiempo.
+           -La concentración en la mayoría de los tejidos es igual o superior a la concentración
+plasmática detectada en el mismo tiempo.
+           La ausencia de acumulación permite una dosificación cada 12 horas. La comparación
+de concentraciones plasmáticas entre adultos y niños y la buena difusión tisular
+apoyan la elección de la dosificación en niños.
+ 5.3   Datos preclínicos sobre seguridad
+           La roxitromicina tiene baja toxicidad aguda (DL50 aprox: 750 mg/kg p.o. en ratones,
+1000-1700 mg/kg p.o. en ratas y >2000 mg/kg p.o. en perros).
+Después de dosis repetidas, los principales órganos diana fueron el hígado y el
+páncreas.
+           A concentraciones plasmáticas no ligadas 30 a 60 veces superiores a las empleadas
+en clínica, se han detectado anomalías en el cartílago de crecimiento de animales
+jóvenes. Estas anomalías no se observaron con concentraciones plasmáticas no
+ligadas 10 a 15 veces superiores a las empleadas en clínica.
+           Los datos obtenidos por estudios toxicológicos muestran que la roxitromicina no
+causa teratogénesis en ratón, rata y conejo.
+           Tampoco se observó evidencia de ningún potencial mutagénico.
+           La roxitromicina, al igual que la eritromicina, ha demostrado in vitro que puede
+desencadenar una prolongación de la duración del potencial de acción cardiaco. Este
+efecto se manifiesta en concentraciones sobreterapéuticas: por lo tanto, es poco
+probable que sea relevante en las concentraciones que se alcanzan en humanos
+durante el tratamiento con roxitromicina.
+ 
+6. DATOS FARMACEUTICOS
+	6.1       Relación de excipientes
+           MACROSIL comprimidos 150 mg
+-   Núcleo: Hidroxipropilcelulosa, polioxietilen-polioxipropilenglicol, polividona, sílice
+coloidal anhidra, estearato magnésico, talco y almidón de maíz.
+-   Recubrimiento: metilhidroxipropilcelulosa, glucosa anhidra, dióxido de titanio,
+propilenglicol.
+           MACROSIL comprimidos 300 mg
+                                                                                                    MINISTERIO
+- Núcleo: Hidroxipropilcelulosa, polioxietilen-polioxipropilenglicol, polividona, sílice
+coloidal anhidra, estearato magnésico, talco y almidón de maíz.
+- Recubrimiento: metilhidroxipropilcelulosa, glucosa anhidra, dióxido de titanio,
+propilenglicol.
+ 6.2    Incompatibilidades
+        No se han descrito
+ 6.3     Período de validez
+         MACROSIL comprimidos 150 mg:              3 años
+MACROSIL comprimidos 300 mg:              3 años
+ 6.4     Precauciones especiales de conservación
+         Consérvese en lugar fresco y seco.
+ 6.5     Naturaleza y contenido del recipiente
+         MACROSIL comprimidos 150 mg
+Envase con 12 comprimidos
+         MACROSIL comprimidos 300 mg
+Envase con 7 comprimidos
+ 6.6.    Instrucciones de uso y manipulación
+MACROSIL comprimidos: Presionar suavemente el blister para extraer el comprimido
+del alvéolo correspondiente.
+ 6.7     Nombre o razón social y domicilio permanente o sede del titular de la
+autorización de comercialización.
+Laboratorios FAES FARMA, S.A
+Máximo Aguirre, 14 - Lamiaco (Lejona) Vizcaya
+         BAJO LICENCIA ROUSSEL
+ 6.8     Texto revisado: Mayo 2001
+
+	Prospectos de medicamentos.

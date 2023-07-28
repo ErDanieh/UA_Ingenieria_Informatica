@@ -1,0 +1,255 @@
+GADOGRAF 0,5MMOL/ML SOL INY 10 VIAL 30ML
+	Información Basica del medicamento Toda la información del medicamento 
+1.     NOMBRE DEL MEDICAMENTO
+	GADOGRAF® 0,5 mmol/ml solución inyectable
+ 
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	       1 ml de solución inyectable contiene 302,36 mg de gadobutrol (equivalente a 0,5 mmol de
+gadobutrol que contienen 78,625 mg de gadolinio).
+        ·    Propiedades físico-químicas
+                 Concentración del medio de contraste
+                                                                                              557
+Osmolalidad a 37°C (mOsm/kg de H2O)
+                                                                                              1,41
+Viscosidad a 37°C (mPas)
+ 
+3.     FORMA FARMACÉUTICA
+	       Solución inyectable.
+ 
+4.     DATOS CLÍNICOS
+	4.1    Indicaciones terapéuticas
+        Intensificación del contraste en la resonancia magnética (RM) craneal y espinal
+ 4.2    Posología y forma de administración
+        ·    Información general
+        La dosis requerida se administra por vía intravenosa en bolo. La RM con contraste puede
+comenzar inmediatamente después (o poco después de la inyección, dependiendo de las
+secuencias empleadas y del protocolo de estudio). Se suele obtener una opacificación
+óptima en un periodo de alrededor de 15 minutos tras la inyección de Gadograf
+(dependiendo del tipo de lesión existente y del tejido de que se trate). La opacificación
+suele durar un máximo de 45 minutos tras la inyección de Gadograf.
+        Las secuencias de imagen potenciadas en T1 son especialmente adecuadas para los
+estudios con contraste.
+        Siempre que sea posible, la administración intravascular del medio de contraste debe
+realizarse con el paciente en decúbito. Después de la inyección, el paciente debe
+permanecer bajo observación durante media hora como mínimo, ya que la experiencia
+demuestra que la mayoría de los efectos indeseables tienen lugar dentro de este intervalo
+de tiempo.
+       ·   Posología
+       La dosis recomendada en adultos es de 0,1 mmol por kilogramo de peso corporal
+(mmol/kg p.c.), equivalente a 0,1 ml/kg p.c. de la solución 1,0 M ó a 0,2 ml/kg p.c. de la
+solución 0,5 M.
+       Si persiste una fundada sospecha clínica de la existencia de lesión a pesar de una RM con
+contraste sin hallazgos patológicos, o cuando la obtención de una información más precisa
+pueda influir sobre el tratamiento del paciente, puede administrarse una dosis adicional de
+hasta 0,2 mmol/kg p.c. dentro de los 30 minutos siguientes a la primera inyección.
+       La dosis administrada no debe superar los 0,1 mmol de Gadograf/kg p.c. en pacientes con
+alteraciones de la función renal.
+       No se dispone de datos específicos sobre el uso de gadobutrol en pacientes menores de 18
+años, en quienes sólo debe utilizarse el producto después de que el médico haya valorado
+cuidadosamente las ventajas y los posibles riesgos.
+ 4.3   Contraindicaciones
+       Hipersensibilidad conocida a alguno de los componentes del producto.
+ 4.4   Advertencias y precauciones especiales de empleo
+       En los casos de alteraciones graves de la función renal, debe realizarse una cuidadosa
+valoración riesgo-beneficio, ya que la eliminación del medio de contraste se encuentra
+retrasada. En casos particularmente severos, se recomienda eliminar Gadograf del
+organismo mediante hemodiálisis extracorpórea. Para eliminar el medio de contraste del
+organismo, deben realizarse al menos 3 sesiones de diálisis en los 5 días siguientes a su
+inyección.
+       Cuando se utilice Gadograf, han de observarse las normas de seguridad habituales en
+resonancia magnética, especialmente la exclusión de materiales ferromagnéticos.
+       Se han comunicado reacciones de hipersensibilidad tras la administración de Gadograf,
+similares a las que ocurren con otros medios de contraste que contienen gadolinio. Para
+poder actuar inmediatamente ante una emergencia, se deben tener los medicamentos y el
+equipo adecuados (p.ej. tubo endotraqueal y respirador artificial) al alcance de la mano,
+cuando se lleve a cabo el estudio. En pacientes con predisposición alérgica, la decisión de
+emplear Gadograf debe tomarse después de realizar una cuidadosa valoración de la
+relación riesgo-beneficio. Al igual que con todos los demás medios de contraste, no puede
+descartarse la aparición de reacciones alergénicas retardadas en un plazo de hasta varios
+días.
+       Al igual que con otros agentes de contraste que contienen gadolinio, debe observarse una
+especial precaución en los pacientes con un umbral convulsivo bajo.
+       En los pacientes con enfermedades cardiovasculares graves, Gadograf sólo debe
+administrarse después de una valoración riesgo-beneficio cuidadosa, puesto que hasta la
+fecha sólo se dispone de datos limitados en estos casos.
+ Cuando se inyecta Gadograf en venas de pequeño calibre, existe la posibilidad de que
+tengan lugar reacciones adversas tales como enrojecimiento e hinchazón.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+       No se han observado interacciones con con otros medicamentos de éste ni de ningún otro
+medio de contraste con gadolinio. No se han realizado estudios formales de interacción
+farmacológica.
+ 4.6   Embarazo y lactancia
+       No existen datos suficientes relativos al uso de gadobutrol en mujeres embarazadas. En
+estudios realizados en animales, la administración reiterada de gadobutrol sólo a niveles
+de dosis tóxicos para la madre (de 8 a 17 veces superiores a la dosis diagnóstica) originó
+retraso del desarrollo embrionario y embrioletalidad, pero no teratogenicidad. Se
+desconoce el posible riesgo de la administración única en seres humanos.
+       Gadograf no debe utilizarse durante la gestación a menos que sea absolutamente
+necesario.
+       No se ha investigado hasta la fecha la excreción de Gadograf en la leche humana.
+       En los estudios de experimentación animal se ha observado el paso de Gadograf a la leche
+materna en cantidades mínimas (menos de un 0,01% de la dosis administrada). La
+lactancia debe interrumpirse durante, al menos, las 24 horas siguientes a la administración
+de Gadograf.
+ 4.7   Efectos sobre la capacidad de conducir y utilizar maquinaria
+       No aplicable.
+ 4.8   Reacciones adversas
+       Se ha comunicado la aparición de reacciones de hipersensibilidad. Pueden producirse
+reacciones anafilactoides que pueden llegar al shock en casos raros. Al igual que con los
+demás medios de contraste, no puede descartarse la aparición de reacciones alergénicas
+retardadas en un plazo de hasta varios días (véase la sección 4.4).
+       Las reacciones de hipersensibilidad se presentan con mayor frecuencia en pacientes con
+predisposición alérgica.
+       Ocasionalmente se han observado náuseas, vómitos, mareo, disnea, cefaleas,
+vasodilatación, hipotensión y reacciones de tipo alérgico en piel y mucosas.
+       La punción venosa o la inyección del medio de contraste pueden acompañarse de
+sensaciones leves a moderadas, y de corta duración, de frío, calor o dolor en el lugar de la
+inyección.
+       Tras la inyección de otros medios de contraste para resonancia magnética con gadolinio,
+se ha informado de convulsiones, escalofríos y síncope.
+       No se ha observado deterioro de la función renal durante los ensayos clínicos realizados
+en un número limitado de pacientes
+       La inyección en bolo puede dar lugar a sensaciones gustativas u olfatorias transitorias.
+La inyección paravascular de Gadograf puede producir dolor en los tejidos afectados, de
+hasta varios minutos de duración. No se han observado otras reacciones tisulares.
+ 4.9   Sobredosificación
+       La dosis máxima diaria estudiada en el ser humano, 0,5 mmol de gadobutrol/kg p.c., fue
+bien tolerada.
+       Hasta el momento no se han observado signos de intoxicación debidos a
+sobredosificación, durante el empleo en clínica.
+       En el caso de sobredosificación, Gadograf puede eliminarse del organismo mediante
+hemodiálisis extracorpórea.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+       Código ATC: V08CA.
+       Gadograf es un medio de contraste paramagnético para empleo en resonancia magnética.
+       El efecto intensificador del contraste es producido por el gadobutrol, complejo no iónico
+compuesto de gadolinio trivalente y el ácido macrocíclico dihidroxi-hidroximetilpropil-
+tetraazaciclododecano-triacético (butrol) como ligando.
+       A las dosis empleadas en clínica, el gadobutrol da lugar a un acortamiento de los tiempos
+de relajación de los protones del agua de los tejidos. A 0,47 T (20 MHz), pH 7 y 40°C la
+eficacia paramagnética (relaxividad), determinada por la influencia sobre los tiempos de
+relajación espín-red (T1) y espín-espín (T2), es de aproximadamente 3,6 y 4 L mmol-1 seg-
+1
+, respectivamente . Dentro del rango de 0,47 a 2,0 Tesla, la relaxividad solo presenta una
+ligera dependencia de la intensidad del campo magnético empleado.
+       El gadobutrol no atraviesa la barrera hematoencefálica intacta y, por tanto, no se acumula
+en el tejido cerebral sano, ni en aquellas lesiones que coexisten con una barrera
+hematoencefálica intacta.
+       A altas concentraciones tisulares locales de gadobutrol, el efecto T2 da lugar a una
+disminución en la intensidad de la señal.
+ 5.2   Propiedades farmacocinéticas
+       Tras su administración intravenosa, el gadobutrol difunde rápidamente al espacio
+extracelular. La unión a proteínas plasmáticas es despreciable.
+       La farmacocinética del gadobutrol en el ser humano es dosis-dependiente. Hasta
+0,4 mmol de gadobutrol/kg p.c., y después de una precoz fase de distribución, los niveles
+plasmáticos declinaron con una semivida terminal media de 1,83 horas (1,3-2,1 horas),
+idéntica a la velocidad de eliminación renal. Con una dosis de 0,1 mmol de gadobutrol/kg
+p.c., se registraron medias de 0,59 mmol de gadobutrol/l de plasma a los 2 minutos de la
+inyección y 0,3 mmol de gadobutrol/l de plasma a los 60 minutos de la misma. A las 2
+horas, más del 50 % de la dosis administrada se había eliminado por vía renal; a las 12
+horas, dicha cantidad fue superior al 90% (92%). A una dosis de 0,1 mmol de
+gadobutrol/kg p.c., una media de un 100,3 ± 2,6 % de la dosis administrada fue excretada
+en las 72 h posteriores a dicha administración. En individuos sanos, el aclaramiento renal
+del gadobutrol es de 1,1 a 1,7 ml min-1 kg-1 y es, por tanto, comparable al de la inulina,
+indicando que el gadobutrol se elimina principalmente por filtración glomerular. Menos
+del 0,1 % de la dosis se elimina por heces. No se detectan metabolitos en plasma ni en
+orina.
+ 5.3   Datos preclínicos sobre seguridad
+       Los datos preclínicos no indican la existencia de un riesgo especial para los seres
+humanos, a juzgar por los estudios convencionales de farmacología de seguridad,
+toxicidad tras dosis reiteradas y genotoxicidad.
+       Los estudios de toxicología reproductiva con dosis reiteradas sólo causaron retraso del
+desarrollo embrionario en ratas y aumento de la mortalidad embrionaria en monos y
+conejos con niveles de dosis tóxicos para la madre (de 8 a 17 veces superiores a la dosis
+diagnóstica). Se desconoce si la administración única también puede inducir estos efectos.
+       Los efectos cardiovasculares observados en animales (perros) con niveles de exposición
+similares (0,25 mmol/kg) y superiores (1,25 mmol/kg) a los niveles máximos de
+exposición clínica fueron un aumento pasajero proporcional a la dosis de la presión
+arterial (del 5 y 10%, respectivamente, en comparación con el control con suero salino) y
+de la contractilidad miocárdica (del 5 y 16%, respectivamente, en comparación con el
+control con suero salino).
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Relación de excipientes
+       Calcobutrol sódico (agente complejante)
+trometamol
+ácido clorhídrico
+agua para inyectables.
+ 6.2   Incompatibilidades
+       No se han descrito.
+ 6.3   Período de validez
+       Período de validez de la especialidad farmacéutica envasada para la venta:
+       3 años.
+       Período de validez tras la apertura del envase:
+       El resto de la solución inyectable no empleada en una exploración debe desecharse. Se ha
+demostrado la estabilidad química y física durante el uso en un plazo de 24 horas a
+temperatura ambiente. Desde el punto de vista microbiológico, el producto debe utilizarse
+inmediatamente. Si no se utiliza de inmediato, los tiempos y las condiciones de
+conservación antes del uso son responsabilidad del usuario y no deberían exceder
+normalmente 24 horas a 2 a 8 ºC, a menos que la apertura se haya producido en
+condiciones asépticas controladas y validadas.
+Indicación especial para el uso del frasco de infusión de 100 ml o 65 ml: Después de la
+apertura del frasco de infusión en condiciones asépticas, Gadograf permanece estable
+durante al menos 8 horas a temperatura ambiente.
+ 6.4   Precauciones especiales de conservación
+       Ninguna.
+ 6.5   Naturaleza y contenido del recipiente
+ Un vial para inyección de 10 ml, 15 ml, 20 ml ó 30 ml, que contiene 10 ml, 15 ml, 20 ml
+ó 30 ml de solución inyectable, respectivamente.
+       10 viales para inyección, cada uno conteniendo 10 ml, 15 ml, 20 ml ó 30 ml de solución
+inyectable.
+       Vial para inyección:    vidrio tipo I, incoloro
+Tapón:                  elastómero de clorobutilo
+Cápsula:                aluminio puro con laca interna y
+       Un frasco para infusión de 100 ml, que contiene 65 ml de solución inyectable.
+       10 frascos para infusión, cada uno conteniendo 65 ml de solución inyectable.
+       Un frasco para infusión de 100 ml, que contiene 100 ml de solución inyectable.
+       10 frascos para infusión, cada uno conteniendo 100 ml de solución inyectable.
+       Frasco para infusión:   vidrio tipo II, incoloro
+Tapón:                  elastómero de clorobutilo
+Cápsula:                aluminio puro con laca interna y
+ 6.6   Instrucciones de uso, manipulación y eliminación (si procede)
+       Gadograf no debe extraerse del vial a la jeringa hasta inmediatamente antes de su
+administración. El resto del medio de contraste no empleado en una exploración debe
+desecharse.
+       Además, las siguientes recomendaciones son aplicables a los frascos para infusión que
+contienen 65 ó 100 ml:
+       La administración del medio de contraste deberá realizarse mediante inyector. El tubo
+del inyector al paciente deberá ser sustituido después de cada exploración. Los restos de
+solución del medio de contraste que permanezcan en el frasco, así como los tubos de
+conexión y los elementos fungibles del sistema de inyección, se desecharán
+transcurridas ocho horas. Es imprescindible seguir estrictamente las instrucciones
+adicionales facilitadas por los fabricantes del inyector.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	
+8.    NÚMERO EN EL REGISTRO COMUNITARIO DE MEDICAMENTOS
+	9.    FECHA DE PRIMERA AUTORIZACIÓN/REVALIDACIÓN DE LA
+AUTORIZACIÓN
+ 10.   FECHA DE REVISIÓN DEL TEXTO
+
+	 
+      GADOGRAF 0,5MMOL/ML SOL INY 1 FRASCO 100ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 1 FRASCO 65ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 1 VIAL 10ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 1 VIAL 15ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 1 VIAL 20ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 1 VIAL 30ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 10 FRASCO 100ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 10 FRASCO 65ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 10 VIAL 10ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 10 VIAL 15ML
+          
+      GADOGRAF 0,5MMOL/ML SOL INY 10 VIAL 20ML
+         Prospectos de medicamentos.

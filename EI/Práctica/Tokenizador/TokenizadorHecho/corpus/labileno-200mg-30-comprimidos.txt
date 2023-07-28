@@ -1,0 +1,446 @@
+LABILENO 200MG 30 COMPRIMIDOS
+	Información Basica del medicamento Toda la información del medicamento 
+1.  NOMBRE DEL MEDICAMENTO
+	
+2.     COMPOSICION CUALITATIVA Y CUANTITATIVA
+	LABILENO 50 mg
+Cada comprimido contiene:
+Lamotrigina (D.O.E.). ..................50 mg
+ LABILENO 100 mg
+Cada comprimido contiene:
+Lamotrigina (D.O.E.) ............... 100 mg
+ LABILENO 200 mg
+Cada comprimido contiene:
+Lamotrigina (D.O.E.) ............... 200 mg
+ LABILENO 2 mg comprimidos dispersables
+Cada comprimido contiene:
+Lamotrigina (D.O.E.) ............... 2 mg
+ LABILENO 5 mg comprimidos dispersables
+Cada comprimido contiene:
+Lamotrigina (D.O.E.). ............... 5 mg
+ LABILENO 25 mg comprimidos dispersables
+Cada comprimido contiene:
+Lamotrigina (D.O.E.) ............... 25 mg
+ LABILENO 100 mg comprimidos dispersables
+Cada comprimido contiene:
+Lamotrigina (D.O.E.) ............... 100 mg
+ 
+3.  FORMA FARMACEUTICA
+	
+4.     DATOS CLINICOS
+	LABILENO está indicado para el tratamiento de la epilepsia como monoterapia en adultos y
+como terapia añadida tanto en niños como en adultos. Se ha demostrado eficacia en crisis
+parciales con o sin generalización secundaria a tónico-clónicas y en crisis primarias generalizadas
+tónico-clónicas. LABILENO está indicado también en todas las crisis asociadas con el Síndrome
+de Lennox-Gastaut.
+ 4.2. Posología y forma de administración
+Administración
+ Los comprimidos de LABILENO Dispersable pueden ser masticados, dispersados en un pequeño
+volumen de agua (como mínimo, suficiente cantidad para cubrir el comprimido completo) o
+tragados enteros con una pequeña cantidad de agua.
+ Con el fin de asegurar que se mantiene la dosis terapéutica, debe monitorizarse el peso del niño.
+Si se producen cambios en el peso, la dosis debe ser revisada. Si las dosis calculadas (p. ej. para
+niños de acuerdo al peso corporal y pacientes con insuficiencia hepática) no equivalen a
+comprimidos enteros, la dosis administrada debe ser igual al número más bajo de comprimidos
+enteros.
+ Cuando se retiran fármacos antiepilépticos concomitantes para alcanzar la monoterapia con
+LABILENO o se añaden fármacos antiepilépticos a LABILENO, debe tenerse en cuenta el efecto
+que esto puede tener sobre la farmacocinética de lamotrigina (ver Interacción con con otros medicamentos y otras formas de interacción).
+ Posología en Monoterapia
+Adultos (mayores de 12 años)
+ La dosis inicial de LABILENO en monoterapia es de 25 mg, una vez al día durante dos semanas,
+seguida de 50 mg una vez al día durante las dos semanas siguientes. A partir de la cuarta semana y
+hasta que se alcance la dosis de mantenimiento, debe incrementarse la dosis en 50 mg-100 mg
+como máximo cada 1-2 semanas hasta que se alcance la respuesta óptima. La dosis normal de
+mantenimiento para alcanzar la respuesta óptima es de 100 a 200 mg/día administrados una vez al
+día o en dos tomas (ver CUADRO 1). Algunos pacientes han precisado 500 mg/día de
+LABILENO para alcanzar la respuesta deseada.
+ Dosis escalante recomendada para adultos y niños mayores de 12 años como Monoterapia.
+ CUADRO 1
+Adultos y Niños mayores de 12 años (Dosis total diaria en mg/día)
+          Semanas 1 + 2                      Semanas 3 + 4                  Dosis Mantenimiento
+25 mg (una vez al día)             50 mg (una vez al día)       Para alcanzar la dosis de
+ Debido al riesgo de aparición de erupción cutánea, no se deben exceder la dosis inicial ni la dosis
+escalante posterior (ver Advertencias y precauciones especiales de empleo).
+ Posología en Terapia Añadida
+Adultos (mayores de 12 años)
+ Para los pacientes que estén tomando Valproato con/sin otros fármacos antiepilépticos, la dosis
+inicial de LABILENO es de 25 mg en días alternos durante las dos primeras semanas. Durante las
+dos semanas siguientes, la dosis será de 25 mg al día. A partir de la cuarta semana y hasta que se
+alcance la dosis de mantenimiento, la dosis debe ser incrementada en 25-50 mg como máximo
+cada 1-2 semanas hasta alcanzar la respuesta óptima. La dosis normal de mantenimiento para
+alcanzar la respuesta óptima es de 100 a 200 mg una vez al día o repartida en dos tomas (ver
+CUADRO 2).
+ Para pacientes que toman fármacos antiepilépticos inductores enzimáticos con/sin otros fármacos
+antiepilépticos (excepto Valproato), la dosis inicial de LABILENO es de 50 mg una vez al día
+durante dos semanas, seguida de 100 mg/día administrada en dos dosis divididas durante las dos
+semanas siguientes. A partir de la cuarta semana y hasta que se alcance la dosis de mantenimiento,
+la dosis debe incrementarse en 100 mg como máximo cada 1-2 semanas hasta alcanzar la
+respuesta óptima. La dosis normal de mantenimiento para alcanzar la respuesta óptima es 200-400
+mg/día administrada en dos dosis divididas.
+ Algunos pacientes han necesitado 700 mg/día de LABILENO para alcanzar la respuesta deseada.
+ En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción
+farmacocinética con Lamotrigina (ver apartado de Interacciones), se deben utilizar las dosis
+escalantes recomendadas cuando se administra Lamotrigina conjuntamente con Valproato.
+ Escalada de dosis de LABILENO recomendada para adultos (mayores de 12 años) en terapia
+combinada.
+ CUADRO 2
+Valproato con/sin                                                            en dos tomas).
+cualquier otro fármaco     12,5 mg (25 mg días        25 mg (una vez al día)   Para alcanzar la dosis
+antiepiléptico              alternos)                                      de mantenimiento, la
+Fármacos                                                                (administrada en dos
+*antiepilépticos                                                           tomas).
+inductores enzimáticos     50 mg (una vez al día)     100 mg (administrada     Para alcanzar la dosis
+con/sin otros                                       en dos tomas)         de mantenimiento, la
+antiepilépticos (excepto                                                       dosis      se      debe
+Valproato)                                                              incrementar en 100
+* fenitoína, carbamacepina, fenobarbital y primidona
+ NOTA.- En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción
+farmacocinética con Lamotrigina (ver apartado de Interacciones), se deben utilizar las dosis
+escalantes recomendadas cuando se administra Lamotrigina conjuntamente con Valproato.
+ Debido al riesgo de erupción cutánea, no se deberá exceder la dosis inicial recomendada ni la
+dosis escalante posterior (ver Advertencias y precauciones especiales de empleo).
+ Niños (2 a 12 años)
+                                                                                                      MINISTERIO
+En aquellos pacientes que toman Valproato con/sin otros fármacos antiepilépticos, la dosis inicial
+de LABILENO es 0,15 mg/kg peso corporal/día administrada una vez al día durante dos semanas,
+seguida por 0,3 mg/kg/día administrada una vez al día durante las dos semanas siguientes. A partir
+de la cuarta semana y hasta que se alcance la dosis de mantenimiento, la dosis se debe incrementar
+en 0,3 mg/kg como máximo cada 1-2 semanas hasta que se haya alcanzado la respuesta óptima.
+La dosis normal de mantenimiento para alcanzar la respuesta óptima es de 1-5 mg/kg/día
+administrada una vez al día o en dos tomas, con un máximo de 200 mg/día (ver CUADRO 3).
+ En aquellos pacientes que toman fármacos antiepilépticos inductores enzimáticos con/sin otros
+fármacos antiepilépticos (excepto Valproato), la dosis inicial de LABILENO es 0,6 mg/kg peso
+corporal/día administrada en dos tomas durante dos semanas, seguida de 1,2 mg/kg/día durante las
+dos semanas siguientes. A partir de la cuarta semana y hasta que se alcance la dosis de
+mantenimiento, se debe incrementar la dosis en 1,2 mg/kg como máximo cada 1-2 semanas hasta
+que se alcance la respuesta óptima. La dosis normal de mantenimiento para alcanzar la respuesta
+óptima es 5-15 mg/kg/día administrada en dos tomas, hasta un máximo de 400 mg/día (ver
+CUADRO 3).
+ En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción
+farmacocinética con Lamotrigina (ver apartado de Interacciones), se deben utilizar las dosis
+escalantes recomendadas cuando se administra Lamotrigina conjuntamente con Valproato.
+ Dosis escalante recomendada de LABILENO para niños de 2-12 años (dosis total diaria en mg/kg
+peso corporal/día) como terapia combinada.
+ CUADRO 3
+Valproato con/sin      0,15 mg/kg**            0,3 mg/kg     1-2 semanas para alcanzar una
+cualquier otro fármaco (una vez al día)        (una vez al día) dosis de mantenimiento de 1-5
+antiepiléptico                                             mg/kg (una vez al día o
+Fármacos                                                 Incrementos de 1,2 mg/kg cada
+*antiepilépticos        0,6 mg/kg             1,2 mg/kg     1-2 semanas para alcanzar una
+inductores enzimáticos (administrada en (administrada en dos dosis de mantenimiento de 5-15
+con/sin otros         dos tomas)              tomas)      mg/kg (administrada en dos
+antiepilépticos (excepto                                         tomas) hasta un máximo de 400
+Valproato)                                               mg/día
+* ej. Fenitoína, carbamacepina, fenobarbital y primidona
+  NOTA.- En pacientes que toman fármacos antiepilépticos de los que se desconoce la interacción
+farmacocinética con Lamotrigina (ver apartado de Interacciones), se deben utilizar las
+dosis escalantes recomendadas cuando se administra Lamotrigina conjuntamente con
+Valproato.
+ ** NOTA.- Si la dosis diaria calculada es de 1-2 mg, se puede tomar LABILENO 2 mg
+comprimidos dispersables en días alternos durante las dos primeras semanas.
+ Si la dosis diaria calculada es menor de 1 mg, no se debe administrar LABILENO.
+ Debido al riesgo de erupción cutánea, no se debe exceder la dosis inicial ni la dosis escalante
+posterior (ver Advertencias y precauciones especiales de empleo).
+Es probable que los pacientes de edad comprendida entre 2-6 años necesiten una dosis de
+mantenimiento que sea la más alta del rango recomendado.
+ Niños menores de 2 años
+No existe información suficiente sobre el uso de LABILENO en niños menores de 2 años.
+ Ancianos (más de 65 años de edad)
+No se requiere modificar la posología con respecto a la pauta recomendada. La farmacocinética de
+lamotrigina en este grupo de edad no varía significativamente con relación a la población adulta
+no anciana.
+ Insuficiencia hepática
+Las dosis iniciales, escalante y de mantenimiento deberán generalmente reducirse en
+aproximadamente un 50% en pacientes con insuficiencia hepática de grado B de la clasificación
+Child-Pugh y 75% en pacientes con insuficiencia hepática de grado C de la clasificación Child-
+Pugh. Las dosis escalantes y de mantenimiento deberán ajustarse de acuerdo con la respuesta
+clínica.
+ 4.3 Contraindicaciones
+LABILENO está contraindicado en individuos con conocida hipersensibilidad a Lamotrigina.
+ 4.4. Advertencias y precauciones especiales de empleo
+Se han informado reacciones adversas cutáneas, que han aparecido generalmente en las 8 primeras
+semanas después de la iniciación del tratamiento con Lamotrigina (LABILENO). La mayoría de
+las erupciones cutáneas son leves y de resolución espontánea, sin embargo, se han informado
+reacciones cutáneas graves, de riesgo potencial para la vida, que incluyen Síndrome de Stevens
+Johnson (SJS) y necrolisis tóxica epidérmica (Síndrome de Lyell) (ver Reacciones Adversas).
+ La incidencia aproximada de erupciones cutáneas graves comunicadas como SJS en adultos es
+de 1 de cada 1000. El riesgo de erupciones cutáneas graves es mayor en los niños que en adultos.
+Los datos disponibles procedentes de un número de estudios sugieren que la incidencia de
+erupciones en niños que requieren hospitalización está comprendida entre 1 en 300 y 1 en 100.
+ En niños, la aparición inicial de erupción cutánea se puede confundir con una infección. Los
+médicos deben considerar la posibilidad de una reacción al fármaco en los niños que desarrollen
+síntomas de erupción cutánea y fiebre durante las ocho primeras semanas de tratamiento.
+ Adicionalmente, el riesgo global de aparición de la erupción está altamente asociado con:
+ ·     Dosis iniciales elevadas de Lamotrigina que exceden la dosis escalante recomendada en el
+tratamiento con Lamotrigina (ver Posología y forma de administración).
+ ·     Uso de Valproato conjuntamente (ver Posología y forma de administración).
+ Todos los pacientes (adultos y niños) que desarrollen erupción deben ser evaluados rápidamente.
+Se debe retirar el tratamiento con Lamotrigina inmediatamente a menos que de una forma clara, la
+erupción no esté relacionada con el fármaco.
+ La erupción se ha informado como parte del síndrome de hipersensibilidad asociado con un
+modelo variable de síntomas sistémicos que incluyen fiebre, linfadenopatía, edema facial y
+anomalías en la sangre e hígado. El síndrome muestra un amplio espectro de gravedad clínica y
+puede, raramente, conducir a coagulación intravascular diseminada (CID) y fallo multiorgánico.
+Es importante resaltar que incluso cuando la erupción no es evidente, pueden aparecer
+manifestaciones tempranas de hipersensibilidad (ej. fiebre, linfadenopatía). Si aparecen tales
+signos y síntomas, el paciente tiene que ser evaluado inmediatamente y suspender LABILENO si
+no se puede establecer una etiología alternativa.
+Como en el caso de otros fármacos antiepilépticos, la retirada brusca de LABILENO puede
+provocar efecto rebote. La dosis de LABILENO debe reducirse de forma progresiva durante un
+período de 2 semanas, a menos que existan aspectos de seguridad (por ejemplo erupción) que
+requieran una retirada brusca del producto.
+ LABILENO es un débil inhibidor de la dihidrofolato reductasa y, por lo tanto, existe una
+posibilidad de interferencia con el metabolismo del folato a lo largo de un tratamiento de larga
+duración. De todas formas, en el tratamiento prolongado en humanos, lamotrigina no indujo a
+cambios significativos en la concentración de hemoglobina, volumen corpuscular medio y
+concentraciones de folato en suero o en glóbulos rojos durante un período de un año o en las
+concentraciones de folato en glóbulos rojos durante un período de cinco años.
+ La principal vía de eliminación de LABILENO es el metabolismo hepático. Aunque no se dispone
+de datos farmacocinéticos a largo plazo en pacientes epilépticos con insuficiencia hepática, los
+datos obtenidos en pacientes no epilépticos con insuficiencia hepática señalan la conveniencia de
+reducir la posología en función del grado de insuficiencia según la clasificación Child-Pugh (ver
+Posología y forma de administración y Propiedades farmacocinéticas).
+ En estudios con dosis única en individuos en estadío final de fallo renal, las concentraciones
+plasmáticas de Lamotrigina no se alteraron significativamente. Sin embargo, se puede esperar la
+acumulación del metabolito glucurónido; por tanto, se debe tener precaución en el tratamiento de
+pacientes con fallo renal.
+ Existen informes en la literatura referentes a que crisis convulsivas graves incluyendo status
+epilépticus pueden conducir a rabdomiolisis, disfunción multiorgánica y coagulación intravascular
+diseminada, con resultado fatal en algunas ocasiones. Se han producido casos similares en
+asociación con el uso de LABILENO.
+ 4.5. Interacción con con otros medicamentos y otras formas de interacción
+No se tiene evidencia de que Lamotrigina origine inducción o inhibición clínicamente
+significativa de las enzimas responsables del metabolismo oxidativo hepático de fármacos.
+Lamotrigina puede inducir su propio metabolismo pero el efecto es escaso con pocas
+probabilidades de presentar consecuencias clínicas significativas.
+ Aunque se han informado cambios en las concentraciones plasmáticas de otros fármacos
+antiepilépticos, los estudios controlados no han presentado evidencia de que Lamotrigina afecte
+las concentraciones plasmáticas de fármacos antiepilépticos concomitantes. Las observaciones
+procedentes de estudios in vitro indican que Lamotrigina no desplaza a otros fármacos
+antiepilépticos de su lugar de unión a proteínas.
+ En un estudio realizado con 12 voluntarias, Lamotrigina no afectó las concentraciones plasmáticas
+de etinilestradiol y levonorgestrel tras la administración de la píldora anticonceptiva oral. De todas
+formas, como es el caso de la introducción de otro tratamiento crónico en pacientes tomando
+anticonceptivos orales, cualquier alteración en el perfil de hemorragia menstrual debería ser
+comunicado al médico de la paciente.
+ Los agentes antiepilépticos (como fenitoína, carbamacepina, fenobarbital y primidona) que
+inducen las enzimas responsables del metabolismo hepático, aumentan el metabolismo de
+Lamotrigina.
+ Valproato sódico, que compite con Lamotrigina por las enzimas responsables del metabolismo
+hepático de fármacos, reduce el metabolismo de Lamotrigina y aumenta casi al doble el valor
+medio de la semivida de lamotrigina.
+ Existen informes de efectos sobre el sistema nervioso central que incluyen vértigo, ataxia,
+diplopía, visión borrosa y náuseas en pacientes que toman carbamacepina después de la
+introducción de Lamotrigina. Estos efectos se resuelven normalmente cuando se reduce la dosis
+de carbamacepina.
+ 4.6.     Embarazo y lactancia
+ Fertilidad
+La administración de LABILENO no alteró la fertilidad en los estudios de reproducción en
+animales. No existe experiencia sobre el efecto de LABILENO sobre la fertilidad humana.
+ Teratogenicidad
+LABILENO es un débil inhibidor de la dihidrofolato reductasa. Existe un riesgo teórico de
+malformaciones en fetos humanos cuando se trata a la madre con un inhibidor de folato durante el
+embarazo. Sin embargo, los estudios de toxicología reproductiva en animales con dosis de
+LABILENO superiores a las dosis terapéuticas utilizadas en humanos no mostraron efectos
+teratogénicos.
+ Embarazo
+Se dispone de datos insuficientes relativos al empleo de LABILENO en el embarazo, para evaluar
+su seguridad. Como ocurre con la mayoría de los fármacos, LABILENO no debe ser utilizado
+durante el embarazo a menos que, en opinión del médico, el potencial beneficio del tratamiento
+para la madre compense cualquier riesgo para el feto en desarrollo.
+ Lactancia
+Es limitada la información referente al uso de lamotrigina durante la lactancia. Los datos
+preliminares indican que lamotrigina pasa a la leche materna en concentraciones normalmente del
+orden del 40-60% de la concentración sérica. En un pequeño número de niños que han sido
+alimentados con leche materna, las concentraciones séricas de lamotrigina alcanzaron niveles con
+los que pueden aparecer efectos farmacológicos. Debido a las concentraciones que se alcanzan en
+leche materna, la administración del fármaco a lactantes no resulta segura, por lo que deberán
+pasar a recibir alimentación artificial.
+ 4.7. Efectos sobre la capacidad para conducir vehículos y utilizar maquinaria
+Dos estudios en voluntarios han demostrado que el efecto de Lamotrigina sobre la coordinación
+fina visual motora, movimientos oculares, desequilibrio corporal y efectos sedativos subjetivos no
+se diferenció del placebo. En los ensayos clínicos con Lamotrigina, se han informado efectos
+adversos de carácter neurológico tales como vértigo y diplopía. Debido a que existe una variación
+individual en la respuesta a todas las terapias con fármacos antiepilépticos, los pacientes deben
+consultar a su médico sobre aspectos específicos relacionados con la conducción y epilepsia.
+ 4.8.     Reacciones adversas
+                                                                                                      MINISTERIO
+En ensayos clínicos doble ciego de terapia añadida, aparecieron erupciones cutáneas hasta en un
+10% de los pacientes tratados con Lamotrigina y en un 5% de los pacientes a los que se
+administró placebo. Las erupciones cutáneas llevaron a la retirada del tratamiento con
+Lamotrigina en un 2% de los pacientes. La erupción, normalmente de aspecto maculopapular,
+aparece generalmente en las ocho semanas siguientes al comienzo del tratamiento y desaparece al
+retirar Lamotrigina (ver Advertencias y precauciones especiales de empleo).
+ Raramente se han informado erupciones cutáneas graves de riesgo potencial para la vida,
+incluyendo el Síndrome de Stevens Johnson y necrolisis epidérmica tóxica (Síndrome de Lyell).
+Aunque la mayoría de los pacientes se recupera con la retirada del fármaco, algunos pacientes
+experimentan lesiones cutáneas irreversibles, que raramente conllevan un desenlace fatal (ver
+Advertencias y precauciones especiales de empleo).
+ El riesgo global de aparición de la erupción está altamente asociado con:
+ ·      Dosis iniciales elevadas de Lamotrigina que exceden la dosis escalante recomendada en el
+tratamiento con Lamotrigina (ver Posología y forma de administración).
+ ·      Uso de Valproato de forma concomitante, el cual incrementa la semivida de Lamotrigina casi
+al doble (ver Posología y forma de administración).
+ La erupción ha sido informada como parte del síndrome de hipersensibilidad asociado con un
+modelo variable de síntomas sistémicos que incluyen fiebre, linfadenopatía, edema facial y
+anomalías en la sangre e hígado. El síndrome muestra un amplio espectro de gravedad clínica y
+puede, raramente, conducir a coagulación intravascular diseminada (CID) y fallo multiorgánico.
+Es importante resaltar que incluso cuando la erupción no es evidente, pueden aparecer
+manifestaciones tempranas de hipersensibilidad (ej. fiebre, linfadenopatía). Si tales signos y
+síntomas aparecen, el paciente tiene que ser evaluado inmediatamente y suspender LABILENO si
+no se puede establecer una etiología alternativa.
+ Los acontecimientos adversos informados durante los ensayos con LABILENO en monoterapia
+incluyen dolor de cabeza, cansancio, erupción, náuseas, mareo, somnolencia e insomnio.
+ Otros efectos adversos comunicados con Lamotrigina como terapia añadida a otros regímenes
+estándar con fármacos antiepilépticos, incluyen diplopía, visión borrosa, conjuntivitis, mareo,
+somnolencia, dolor de cabeza, inestabilidad, cansancio, alteración gastrointestinal (incluyendo
+vómitos), irritabilidad/agresividad, temblor, agitación, anomalías hematológicas (incluyendo
+leucopenia y trombocitopenia) y confusión.
+ 4.9.     Sobredosificación
+ Signos y síntomas
+Se ha comunicado la ingestión aguda de dosis superiores a 10-20 veces la dosis terapéutica
+máxima. La sobredosificación ha dado lugar a la aparición de síntomas incluyendo nistagmo,
+ataxia, alteración de la consciencia y coma.
+ Tratamiento
+En caso de sobredosis, el paciente debe ser ingresado en un hospital y se le debe aplicar el
+tratamiento adecuado. Si estuviera indicado, debería realizarse un lavado gástrico.
+ 
+5.       PROPIEDADES FARMACOLOGICAS
+	Mecanismos de acción
+Los resultados de los estudios farmacológicos sugieren que Lamotrigina es un bloqueante uso-
+dependiente de los canales de sodio voltaje dependientes. Produce un bloqueo, uso y voltaje
+dependiente, de neuronas cultivadas hiperexcitadas repetidamente e inhibe la liberación
+patológica del glutamato (aminoácido que juega un papel clave en la generación de crisis
+epilépticas), así como los potenciales de acción evocados tras la administración de glutamato.
+ Farmacodinamia
+En pruebas diseñadas para evaluar los efectos de los fármacos sobre el sistema nervioso central,
+los resultados obtenidos empleando dosis de 240 mg de Lamotrigina administrada a voluntarios
+sanos adultos, no se diferenciaron de los obtenidos empleando placebo, en tanto que, 1.000 mg de
+fenitoína y 10 mg de diazepam alteraron notablemente la coordinación fina visual motora y
+movimientos oculares, incrementaron el desequilibrio corporal y produjeron efectos sedativos
+subjetivos.
+ En otro estudio, dosis únicas por vía oral de 600 mg de carbamazepina, alteraron
+significativamente la coordinación fina motora visual y movimientos oculares incrementando
+tanto el desequilibrio corporal como la frecuencia cardíaca, mientras que los resultados obtenidos
+con dosis de Lamotrigina de 150 y 300 mg no se diferenciaron de los resultados obtenidos con
+placebo.
+ 5.2.   Propiedades farmacocinéticas
+ Absorción
+Lamotrigina se absorbe completa y rápidamente en el intestino con un insignificante metabolismo
+de primer paso. El pico de concentraciones plasmáticas se produce aproximadamente 2,5 horas
+tras la administración oral del fármaco. El tiempo hasta conseguir la concentración máxima se
+retrasa ligeramente después de alimento aunque la extensión de la absorción no se ve afectada. El
+perfil farmacocinético es lineal hasta 450 mg, la dosis más alta examinada. Existe una
+considerable variación interindividual en las concentraciones máximas en estado de equilibrio
+estacionario, pero dentro del mismo individuo las concentraciones varían muy poco.
+ Distribución
+La unión a proteínas plasmáticas es de alrededor del 55%; es muy poco probable que el
+desplazamiento de las proteínas plasmáticas pueda dar lugar a toxicidad. El volumen de
+distribución es 0,92 a 1,22 L/kg.
+ Metabolismo
+Las UDP-glucuronil transferasas han sido identificadas como las enzimas responsables del
+metabolismo de Lamotrigina.
+ Lamotrigina induce su propio metabolismo en una modesta extensión dependiendo de la dosis.
+Sin embargo, no existe evidencia de que Lamotrigina afecte la farmacocinética de otros fármacos
+antiepilépticos y los datos sugieren que las interacciones entre Lamotrigina y fármacos
+metabolizados por enzimas del citocromo P450 son poco probables.
+ Eliminación
+El aclaramiento medio en el estado de equilibrio estacionario en adultos sanos es 39 ± 14 mL/min.
+El aclaramiento de Lamotrigina es fundamentalmente metabólico con eliminación posterior del
+glucurónido conjugado en orina. Menos del 10% se excreta inalterado en orina. Solo el 2% del
+material relacionado con el fármaco se excreta en heces. El aclaramiento y la semivida son
+independientes de la dosis. La semivida de eliminación en adultos sanos es 24 a 35 horas. En un
+estudio de sujetos con el síndrome de Gilbert, el aclaramiento medio aparente se redujo en un
+32% comparado con los controles normales aunque los valores estaban dentro del rango para la
+población general.
+ La semivida de Lamotrigina se ve ampliamente afectada por la medicación concomitante. La
+semivida se redujo aproximadamente a 14 horas cuando se administró con fármacos inductores
+enzimáticos tales como carbamacepina y fenitoína, y se incrementa a una media de 70 horas
+aproximadamente cuando se coadministra únicamente con Valproato sódico.
+ Niños
+El aclaramiento ajustado al peso corporal es mayor en niños que en adultos con los valores más
+altos en niños de edad inferior a cinco años. La semivida de Lamotrigina es generalmente más
+corta en los niños que en los adultos con un valor medio de aproximadamente 7 horas cuando se
+administra con fármacos inductores enzimáticos tales como carbamacepina y fenitoína y se
+incrementa a valores medios de 45 a 50 horas cuando se coadministra únicamente con Valproato
+sódico.
+ Ancianos
+Los resultados obtenidos a partir de un análisis farmacocinético de una población, incluyendo
+pacientes jóvenes y ancianos con epilepsia, enrolados en los mismos ensayos, indicaron que el
+aclaramiento de lamotrigina no varió de forma clínicamente relevante. Después de administrar
+dosis únicas, el aclaramiento aparente disminuyó en un 12% desde 35 ml/min a la edad de 20 años
+a 31 ml/min a los 70. La disminución tras 48 semanas de tratamiento fue del 10%, desde 41 a 37
+ml/min, entre grupos de jóvenes y ancianos. Además, se estudió la farmacocinética de lamotrigina
+en 12 voluntarios ancianos sanos tras administración de una dosis única de 150 mg. El
+aclaramiento medio en los ancianos (0,39 ml/min/kg) está dentro del intervalo de los valores de
+aclaramiento medio (0,31 a 0,65 ml/min/kg) obtenidos en 9 estudios con adultos no ancianos tras
+la administración de dosis únicas de 30 a 450 mg.
+ Pacientes con insuficiencia renal
+No existe experiencia en el tratamiento con Lamotrigina de pacientes con fallo renal. Los estudios
+farmacocinéticos que utilizan dosis únicas en sujetos con fallo renal indican que la
+farmacocinética de Lamotrigina se ve poco afectada aunque las concentraciones plasmáticas del
+principal metabolito glucurónido se incrementan casi ocho veces debido a la reducción del
+aclaramiento renal .
+ Pacientes con insuficiencia hepática
+Se realizó un estudio farmacocinético con dosis única en el que participaron 24 personas con
+varios grados de insuficiencia hepática y 12 personas sanas a modo de controles. Los pacientes
+con insuficiencia hepática fueron distribuidos en tres grupos en función del grado de cirrosis:
+cirrosis moderada, cirrosis grave sin ascitis y cirrosis grave con ascitis y también según la
+clasificación Child-Pugh. La mediana del aclaramiento aparente de lamotrigina fue de 0,31, 0,24 o
+0,10 ml/min/kg en cada uno de los grupos de pacientes respectivamente, en comparación con 0,34
+ml/min/kg en los controles sanos. Deberán utilizarse dosis reducidas en pacientes con
+insuficiencia hepática de grado B o C (ver posología y forma de administración).
+ 5.3.   Datos preclínicos sobre seguridad
+ Mutagenicidad
+ Los resultados de un rango amplio de pruebas de mutagenicidad indican que LABILENO no presenta riesgo genético para el hombre.
+ Carcinogenicidad
+LABILENO no fue carcinogénico en estudios a largo plazo en ratas y ratones
+ 
+6.    DATOS FARMACEUTICOS
+	LABILENO Comprimidos
+Celulosa microcristalina
+Lactosa monohidrato
+Carboximetilalmidón de sodio
+Povidona K30
+Oxido de hierro amarillo (E-172)
+Estearato de magnesio.
+ LABILENO Comprimidos dispersables
+Carbonato de calcio
+Hidroxipropilcelulosa de bajo grado de sustitución
+Silicato alumínico magnésico
+Carboximetilalmidón de sodio
+Povidona K30
+Sacarina de sodio
+Saborizante de Grosella negra 502.009/AP 0551
+Estearato de magnesio.
+ 6.2. Incompatibilidades
+No procede.
+ 6.3. Período de validez
+LABILENO 2 mg comprimidos dispersables: 2 años
+Todos los demás: 3 años.
+ 6.4.     Precauciones especiales de conservación
+ LABILENO comprimidos
+Mantener por debajo de 30°C en ambiente seco.
+ LABILENO comprimidos dispersables
+Mantener por debajo de 30°C en ambiente seco. Proteger de la luz.
+ 6.5.     Naturaleza y contenido del recipiente
+LABILENO 50 mg, comprimidos
+Blister PVC/PVDC/Al conteniendo 56 comprimidos.
+ LABILENO 100 mg, comprimidos
+Blister PVC/PVDC/Al conteniendo 56 comprimidos.
+                                                                                                                                  MINISTERIO
+LABILENO 200 mg, comprimidos
+Blister PVC/ PVDC Al, conteniendo 30 comprimidos.
+ LABILENO 2 mg comprimidos dispersables
+ Frasco de PEAD conteniendo 30 comprimidos.
+ LABILENO 5 mg comprimidos dispersables
+ Blister PVC/PVDC/Al, conteniendo 56 comprimidos dispersables.
+ LABILENO 25 mg comprimidos dispersables
+Blister PVC/PVDC/Al, conteniendo 56 comprimidos dispersables.
+ LABILENO 100 mg comprimidos dispersables
+ Blister PVC/PVDC/Al, conteniendo 56 comprimidos dispersables.
+ 6.6. Instrucciones de uso/manipulación
+No procede.
+ 
+	Prospectos de medicamentos.

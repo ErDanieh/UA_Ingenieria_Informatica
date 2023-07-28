@@ -1,0 +1,868 @@
+MABCAMPATH 10MG/ML SOL PERF 3 AMP 3ML
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	MabCampath 10 mg/ml concentrado para solución para perfusión
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Un ml de concentrado contiene 10 mg de alemtuzumab.
+Cada ampolla contiene 30 mg de alemtuzumab.
+ Alemtuzumab es un anticuerpo monoclonal IgG1 kappa humanizado, obtenido por ingeniería genética,
+específico para una glicoproteína de superficie de los linfocitos, de 21-28 kD (CD52). El anticuerpo se
+produce en un cultivo en suspensión de células de mamíferos (ovario de hámster chino) en un medio
+nutriente.
+ Para consultar la lista completa de excipientes, ver la sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Concentrado para solución para perfusión.
+Concentrado entre incoloro y amarillo muy claro.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ MabCampath está indicado para el tratamiento de pacientes con leucemia linfocítica crónica de células
+B (LLC-B) en los que el tratamiento con quimioterapia con combinaciones de fludarabina no sea
+adecuado.
+ 4.2   Posología y forma de administración
+ MabCampath debe administrarse bajo la supervisión de un médico experto en el uso de tratamientos
+oncológicos.
+ La solución de MabCampath se debe preparar según las instrucciones que se presentan en la sección
+6.6. Todas las dosis se deben administrar por perfusión intravenosa, durante un período aproximado
+de 2 horas.
+ Se debe premedicar a los pacientes con esteroides orales o intravenosos. Asimismo, durante el
+escalado de dosis, se les administrará un antihistamínico y un analgésico apropiados entre 30 y
+60 minutos antes de cada perfusión de MabCampath y, despues de la perfusión, según esté
+clínicamente indicado (ver apartado 4.4).
+ Se debe administrar de forma rutinaria tratamiento antibiótico y antivírico a todos los pacientes
+durante el tratamiento y una vez concluido éste (ver apartado 4.4).
+ Durante la primera semana de tratamiento, MabCampath debe administrarse a dosis crecientes: 3 mg
+el día 1, 10 mg el día 2 y 30 mg el día 3, asumiendo que cada dosis sea bien tolerada. Posteriormente,
+la dosis recomendada es de 30 mg al día, administrada 3 veces por semana en días alternos, hasta un
+máximo de 12 semanas.
+ En la mayoría de los pacientes, el incremento de la dosis hasta 30 mg se puede lograr en 3-7 días. No
+obstante, si con las dosis de 3 mg o de 10 mg aparecen reacciones adversas de moderadas a graves
+producidas por la liberación de citocinas (hipotensión, rigidez, fiebre, dificultad respiratoria,
+                                                     2
+escalofríos, erupciones cutáneas y broncoespasmo), entonces estas dosis deben administrarse
+diariamente hasta que sean bien toleradas antes de intentar aumentar la dosis (ver la sección 4.4).
+ La mediana de la duración del tratamiento fue de 11,7 semanas para los pacientes en primera línea y
+de 8,0 semanas para los pacientes previamente tratados.
+ Una vez que un paciente reúne todos los criterios clínicos y de laboratorio de respuesta completa, se
+debe interrumpir la administración de MabCampath y monitorizar al paciente. Si un paciente mejora
+(es decir, alcanza una respuesta parcial o una situación estable de la enfermedad) y a continuación se
+mantiene en una situación de meseta sin mejoría adicional durante 4 semanas o más, se debe
+interrumpir la administración de MabCampath y monitorizar al paciente. El tratamiento debe
+interrumpirse si existe evidencia de progresión de la enfermedad.
+ En caso de infección grave o de toxicidad hematológica grave, se debe interrumpir la administración
+de MabCampath hasta que el acontecimiento se resuelva. Se recomienda interrumpir la administración
+de MabCampath en los pacientes en los que el recuento de plaquetas sea < 25,000/l o en los que
+muestren una caída en el recuento absoluto de neutrófilos (RAN) a < 250/µL. El tratamiento con
+MabCampath se puede reiniciar una vez resuelta la infección o el cuadro de toxicidad. La
+administración de MabCampath debe interrumpirse definitivamente si aparece anemia autoinmune o
+trombocitopenia autoinmune. La siguiente tabla muestra el procedimiento adecuado para la
+modificación de la dosis en caso de aparición de una toxicidad hematológica durante el tratamiento:
+ Toxicidad hematológica                        Reinicio del tratamiento con MabCampath
+(plaquetas < 25,000/µL y/o RAN < 250/l)
+Primer episodio                               Tras la resolución, comience de nuevo con 30 mg.*
+Segundo episodio                              Tras la resolución, comience de nuevo con 10 mg.*
+Tercer episodio                               Interrumpir el tratamiento de forma permanente.
+Para una reducción del RAN y/o del recuento Retrasar el tratamiento con MabCampath. Cuando el
+de plaquetas de hasta un 50% del valor RAN y/o el recuento de plaquetas vuelvan a los
+basal en pacientes que inician el tratamiento valores basales, reanude el tratamiento con
+con un RAN basal de 500/l y/o un MabCampath.*
+recuento de plaquetas basal de 25.000/l
+*Si el tratamiento se ha interrumpido durante más de 7 días, la administración de MabCampath se
+debe iniciar nuevamente mediante incremento progresivo de la dosis (escalado de dosis progresivo).
+ Considerando el mecanismo de acción de MabCampath, no se recomienda realizar modificaciones de
+las dosis en pacientes con linfopenia grave.
+Niños y adolescentes (menores de 17 años):
+ No se han llevado a cabo estudios en estas poblaciones. Por lo tanto, no se recomienda la utilización
+de MabCampath en población pediátrica.
+ Pacientes de edad avanzada (mayores de 65 años):
+ Las recomendaciones son las mismas que para los adultos. Los pacientes deben monitorizarse
+cuidadosamente (ver apartado 4.4).
+ Pacientes con insuficiencia renal o hepática:
+ No se han llevado a cabo estudios en estas poblaciones..
+ 4.3   Contraindicaciones
+ -     hipersensibilidad al alemtuzumab, a las proteínas murinas o a cualquiera de los excipientes;
+-     pacientes que presentan infecciones sistémicas activas;
+-     pacientes que están infectados por el VIH;
+                                                    3
+-     pacientes que presentan neoplasias secundarias activas;
+-     embarazo.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Las reacciones adversas agudas, que pueden producirse durante el escalado de dosis inicial a
+consecuencia de la liberación de citocinas, incluyen hipotensión, escalofríos/rigidez, fiebre,
+dificultades respiratorias y erupciones cutáneas. Otras reacciones que pueden producirse son náuseas,
+urticaria, vómitos, fatiga, disnea, dolor de cabeza, prurito, diarrea y broncoespasmo. La frecuencia de
+aparición de reacciones adversas relacionadas con la perfusión fue mayor en la primera semana de
+tratamiento y se redujo en la segunda o tercera semana de tratamiento tanto en pacientes tratados con
+MabCampath en primera línea de tratamiento como en pacientes previamente tratados con con otros medicamentos..
+ Si estos efectos son de moderados a graves, se debe mantener la dosis en el mismo nivel
+administrando la premedicación adecuada hasta que cada dosis sea bien tolerada antes de realizar cada
+escalado de dosis. ,. Si el tratamiento se interrumpe durante más de 7 días, la administración de
+MabCampath se debería reiniciar con un aumento gradual de la dosis (escalado de dosis progresivo)..
+ En pacientes tratados con MabCampath han aparecido episodios transitorios de hipotensión. Hay que
+tener precaución al tratar pacientes que padezcan cardiopatía isquémica, angina de pecho y/o en
+pacientes que estén siendo tratados con medicamentos antihipertensivos. En esta población de
+pacientes, se han observado casos de infarto de miocardio y de paro cardiaco asociados con la
+perfusión de MabCampath.
+ Se debe considerar la evaluación y monitorización continua de la función cardíaca (por ejemplo;
+ecocardiografía, frecuencia cardiaca y peso corporal) en pacientes tratados previamente con agentes
+potencialmente cardiotóxicos.
+ Se recomienda que los pacientes estén premedicados con esteroides por vía oral o intravenosa 30-60
+minutos antes de cada perfusión de MabCampath durante el escalado de dosis y según esté
+clínicamente indicado. Una vez se haya realizad el escalado de dosis, se puede interrumpir la
+administración de esteroides, según sea necesario. Además, se pueden administrar un antihistamínico
+oral, p. ej., 50 mg de difenhidramina, y un analgésico, p. ej., 500 mg paracetamol. En caso de que las
+reacciones agudas a la perfusión persistan, el tiempo de la perfusión se puede prolongar hasta 8 horas
+desde el momento de la reconstitución de MabCampath a solución para perfusión.
+ Es inevitable que se produzca una importante depleción de linfocitos, ya que es un efecto
+farmacológico esperado de MabCampath, y este efecto, puede tener una duración prolongada. Los
+recuentos de células T CD4 y CD8 comienzan a aumentar entre las semanas 8-12 de tratamiento, y se
+siguen recuperando durante varios meses después de la interrupción del tratamiento. En los pacientes
+que reciben MabCampath como primera línea de tratamiento, la recuperación de los recuentos de
+CD4+ a valores 200 células/µl ocurrió a los 6 meses después del tratamiento; sin embargo, a los
+2 meses después del tratamiento, la mediana fue de 183 células/l. En los pacientes que recibieron
+MabCampath como segunda línea de tratamiento, la mediana del tiempo hasta alcanzar un nivel de
+200 células/µl fue de 2 meses tras la última perfusión de MabCampath, si bien, pueden tardar 6 meses
+o más en aproximarse a los niveles previos al tratamiento. Esto puede predisponer a la aparición de
+infecciones oportunistas en los pacientes. Es altamente recomendable iniciar una profilaxis
+antiinfecciosa durante el tratamiento con MabCampath (p. ej., trimetoprim/sulfametoxazol, un
+comprimido dos veces al día, 3 veces por semana, u otra profilaxis frente a la neumonía por
+Pneumocystis jiroveci (PCP) y un agente antiherpético efectivo por vía oral, como famciclovir, 250
+mg dos veces al día) y mantener este tratamiento profiláctico después de finalizar el tratamiento con
+MabCampath hasta que el recuento de CD4+ se haya recuperado hasta un nivel igual o superior a 200
+células/µl.
+ Dada la posibilidad de que se produzca una enfermedad del injerto contra el huésped (graft versus host
+disease, GVHD) en pacientes con linfopenia grave , los derivados sanguíneos deben irradiarse antes
+                                                   4
+de ser utilizados hasta que la linfopenia haya desaparecido, y en particular, hasta que las células T se
+hayan repoblado adecuadamente hasta alcanzar un recuento de al menos 200 células/µl o mayor.
+ La viremia por citomegalovirus (CMV) positiva en pruebas de laboratorio pero asintomática, no debe
+considerarse necesariamente una infección grave que requiera la interrupción de la terapia. Debe
+realizarse una valoración clínica continua de los pacientes que presenten           infección por
+citomegalovirus (CMV) sintomática durante el tratamiento con MabCampath y durante un periodo
+mínimo de 2 meses después de finalizar el tratamiento.
+ Con mucha frecuencia aparece una neutropenia transitoria, de grado 3 ó 4, a las 4-8 semanas después
+de iniciar el tratamiento. Durante las 2 primeras semanas de tratamiento aparece con mucha frecuencia
+una trombopenia transitoria, de grado 3 o 4, que posteriormente mejora de forma progresiva en la
+mayoría de los pacientes. Por tanto, está indicado realizar una monitorización hematológica de los
+pacientes. Si aparece un cuadro de toxicidad hematológica grave, se debe interrumpir el tratamiento
+con MabCampath hasta que el cuadro desaparezca. El tratamiento con MabCampath se puede reiniciar
+una vez resuelta la toxicidad hematológica (ver apartado 4.2). La administración de MabCampath debe
+interrumpirse de forma permanente si aparece anemia autoinmune o trombocitopenia autoinmune.
+ Durante el tratamiento con MabCampath se deben realizar de forma periódica hemogramas y
+recuentos de plaquetas, la frecuencia de estas pruebas debe ser mayor en los pacientes que desarrollen
+cuadros de citopenias.
+ No se propone que se practique una monitorización regular y sistemática de la expresión de CD52
+como práctica rutinaria en la clínica. Sin embargo, si se plantea la posibilidad de un retratamiento,
+puede ser prudente confirmar la presencia de expresión de CD52. En los datos disponibles de los
+pacientes tratados con MabCampath como tratamiento en primera línea, no se observó una pérdida de
+la expresión de CD52 en el momento de progresión de la enfermedad o la muerte.
+ Los pacientes pueden presentar reacciones de hipersensibilidad o alergia a MabCampath y a los
+anticuerpos monoclonales murinos o quiméricos.
+ En caso de que se produzca una reacción de hipersensibilidad durante la administración de
+MabCampath, son necesarios tanto los medicamentos para el tratamiento de las reacciones de
+hipersensibilidad como la preparación para iniciar medidas de emergencia (ver apartado 4.2).
+ Tanto hombres como mujeres que se encuentren en edad fértil, deben utilizar medidas anticonceptivas
+efectivas durante el tratamiento con MabCampath y durante los 6 meses posteriores al tratamiento (ver
+secciones 4.6 y 5.3).
+ No se han realizado estudios para evaluar el efecto de la edad sobre la disposición y la toxicidad de
+MabCampath. En general, los pacientes de edad avanzada (de edad superior a 65 años) toleran el
+tratamiento citotóxico peor que los individuos más jóvenes. Dado que la LLC aparece frecuentemente
+en este grupo de edad avanzada, estos pacientes deben monitorizarse cuidadosamente (ver apartado
+4.2). En los estudios realizados en pacientes a los que se administró MabCampath como tratamiento
+en primera línea y en pacientes tratados anteriormente con con otros medicamentos, no se observaron
+diferencias sustanciales en la seguridad y la eficacia relacionadas con la edad; sin embargo, los
+tamaños de las bases de datos son limitados.
+ 4.5     Interacción con con otros medicamentos y otras formas de interacción
+ Aunque no se han realizado estudios formales de interacciones de medicamentos con MabCampath,
+no se conocen interacciones clínicamente significativas entre MabCampath y con otros medicamentos.
+Como MabCampath es una proteína recombinante humanizada, no se espera que se produzcan
+interacciones entre medicamentos mediadas por el citocromo P450. No obstante, se recomienda que
+MabCampath no se administre hasta 3 semanas después de la administración de otros agentes
+quimioterápicos.
+ Aunque este tema no ha sido estudiado, se recomienda que durante un período de al menos 12 meses
+tras el tratamiento con MabCampath los pacientes no sean sometidos a vacunaciones víricas basadas
+en virus vivos. La capacidad para generar una respuesta humoral primaria o anamnésica frente a
+cualquier vacuna no ha sido estudiada.
+ 4.6   Embarazo y lactancia
+ Embarazo:
+ MabCampath está contraindicado durante el embarazo. Se sabe que la IgG humana atraviesa la barrera
+placentaria y de este modo puede, de forma potencial, provocar una depleción de linfocitos B y T en el
+feto. No se han efectuado estudios con MabCampath para evaluar los efectos sobre la reproducción en
+animales. Se desonoce si MabCampath puede provocar daños al feto cuando se administre a mujeres
+gestantes o si puede afectar a la capacidad reproductora.
+ Los hombres y las mujeres que se encuentren en edad fértil deben utilizar medidas anticonceptivas
+efectivas durante el tratamiento con MabCampath y durante los 6 meses posteriores al tratamiento.
+ Lactancia:
+ Se desconoce si MabCampath se excreta en la leche humana. Si es necesario administrar el
+tratamiento con MabCampath, la lactancia se debe interrumpir durante todo el tiempo que dure el
+tratamiento con MabCampath y durante al menos 4 semanas después del tratamiento..
+ 4.7     Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han efectuado estudios sobre la capacidad para conducir o para utilizar máquinas. No obstante,
+se debe tener precaución, ya que se han notificado casos de somnolencia y confusión.
+ 4.8     Reacciones adversas
+ Se puede esperar que más del 80% de los pacientes tratados previamente con con otros medicamentos
+presenten reacciones adversas. Las reacciones notificadas con mayor frecuencia suelen aparecer
+durante la primera semana de tratamiento. Aproximadamente el 97% de los pacientes en los que se
+utilizó el medicamento en primera línea experimentó reacciones adversas; las reacciones notificadas
+con más frecuencia en estos pacientes ocurrieron normalmente durante la primera semana de
+tratamiento.
+ Las reacciones adversas incluidas en las siguientes tablas, se clasifican siguiendo el sistema de
+clasificacion por órganos y sistemas MedDRA (MeDRA SOCs). Las frecuencias se basan en los datos
+obtenidos en los ensayos clínicos.
+Se usa el término MedDRA más adecuado para describir cada reacción determinada así como sus
+sinónimos y afecciones relacionadas.
+ Las frecuencias se definen como muy frecuentes ( 1/10), frecuentes (1/100, <1/10), poco frecuentes
+(1/1.000, <1/100). Debido al tamaño de la población estudiada, no se dispone de información sobre
+reacciones que se produzcan con una frecuencia inferior.; n=147 para los pacientes tratados en primera
+línea y n=149 para los pacientes tratados anteriormente.
+ Reacciones adversas notificadas en los pacientes tratados en primera línea
+ Los datos de seguridad obtenidos en pacientes con LLC-B tratados en primera línea se basan en las
+reacciones adversas que se produjeron en un ensayo clínico aleatorizado y controlado en el que se
+incluyeron 147 pacientes a los que se les administró MabCampath como agente único a una dosis de
+30 mg por vía intravenosa tres veces a la semana hasta un máximo de 12 semanas, incluido el período
+de escalado de dosis. Las reacciones adversas observadas durante el tratamiento con MabCampath
+hasta 30 días después de finalizar el tratamiento se exponen por orden decreciente de gravedad dentro
+                                                   6
+de cada grupo de frecuencia.
+ SISTEMA DE                 MUY FRECUENTES        FRECUENTES            POCO FRECUENTES
+CLASIFICACIÓN
+POR ÓRGANOS Y
+SISTEMAS MedDRA
+Infecciones e              Viremia por           Neumonía              Sepsis
+infestaciones              citomegalovirus
+Trastornos de la sangre                          Neutropenia febril    Agranulocitosis
+y del sistema linfático                          Neutropenia           Linfopenia
+Trastornos del sistema                                                 Reacción anafiláctica
+inmunológico                                                           Hipersensibilidad
+Trastornos del                                   Pérdida de peso       Síndrome de lisis tumoral
+metabolismo y de la                                                    Hiperglucemia
+nutrición                                                              Reducción del total de
+Trastornos psiquiátricos                         Ansiedad
+Trastornos del sistema                           Síncope               Vértigo
+nervioso                                         Mareo
+Trastornos oculares                                                    Conjuntivitis
+Trastornos cardiacos                             Cianosis              Parada cardiaca
+Trastornos vasculares      Hipotensión           Hipertensión          Hipotensión ortostática
+                                              7
+SISTEMA DE                 MUY FRECUENTES            FRECUENTES            POCO FRECUENTES
+CLASIFICACIÓN
+POR ÓRGANOS Y
+SISTEMAS MedDRA
+Trastornos                                           Broncoespasmo         Hipoxia
+respiratorios, torácicos                             Disnea                Derrame pleural
+y mediastínicos                                                            Disnea
+ Trastornos                 Náuseas                   Vómitos               Íleo
+gastrointestinales                                   Dolor abdominal       Molestias bucales
+Trastornos de la piel y    Urticaria                 Dermatitis alérgica   Erupción prurítica
+del tejido conjuntivo
+Trastornos                                           Mialgia               Osalgia
+musculoesqueléticos y                                Dolor                 Artralgia
+del tejido conjuntivo                                musculoesquelético
+Trastornos renales y                                                       Reducción de la
+urinarios                                                                  evacuación de orina
+Trastornos generales y     Fiebre                    Fatiga                Inflamación de la mucosa
+alteraciones en el lugar   Escalofríos               Astenia               Eritema en el lugar de la
+de administración                                                          perfusión
+ Reacciones adversas en los pacientes previamente tratados con con otros medicamentos
+ Los datos de seguridad obtenidos en pacientes con LLC-B previamente tratados con con otros medicamentos se basan en las reacciones adversas recogidas en 149 pacientes incluidos en estudios de
+un solo brazo con MabCampath (Estudios 1, 2 y 3). Las reacciones que se describen en la columna
+""Frecuencia Desconocida"" (no se puede estimar a partir de los datos disponibles) han sido notificadas
+durante el periodo posterior a la comercialización. las reacciones adversas se exponen por orden
+decreciente de gravedad dentro de cada grupo de frecuencia.
+ SISTEMA       DE Muy frecuentes        Frecuentes         Poco frecuentes    Frecuencia
+CLASIFICACIÓN                                                                desconocida
+POR ÓRGANOS Y
+SISTEMAS
+MedDRA
+Infecciones    e Sepsis                Infección por      Infección          Infecciones oportunistas,
+infestaciones                          citomegalovirus    bacteriana         reactivación y aparición
+Neoplasias benignas,                                      Trastorno         Infección por VEB
+malignas      y    no                                     similar        al asociada a síndrome
+especificadas                                             linfoma           linfoproliferativo
+(incluyendo quistes y
+pólipos)
+Trastornos de la Granulocitopeni       Neutropenia        Aplasia de      la Reacciones
+sangre y del sistema a                 febril             médula ósea        hemorrágicas graves
+linfático
+                      Anemia            Leucopenia         Anemia
+ SISTEMA      DE Muy frecuentes   Frecuentes          Poco frecuentes     Frecuencia
+CLASIFICACIÓN                                                            desconocida
+POR ÓRGANOS Y
+SISTEMAS
+MedDRA
+Trastornos   del
+sistema
+inmunológico
+                 del Anorexia
+Trastornos                       Hiponatremia        Hipocalemia         Síndrome de lisis
+metabolismo y de la                                                      tumoral*
+nutrición                        Hipocalcemia        Agravamiento
+Trastornos                       Confusión           Despersonaliza-
+psiquiátricos                                        ción
+Trastornos       del Cefalea     Vértigo             Síncope          Hemorragia intracraneal
+sistema nervioso                                                      en pacientes con
+Trastornos oculares              Conjuntivitis       Endoftalmitis
+Trastornos del oído y                                Sordera
+del laberinto                                        Tinnitus
+Trastornos cardiacos             Palpitaciones       Parada cardíaca     Insuficiencia cardiaca
+                                        10
+SISTEMA     DE Muy frecuentes             Frecuentes          Poco frecuentes      Frecuencia
+CLASIFICACIÓN                                                                      desconocida
+POR ÓRGANOS Y
+SISTEMAS
+MedDRA
+Trastornos                Hipotensión     Hipertensión        Isquemia
+vasculares                                                    periférica
+Trastornos                Disnea          Hipoxia             Estridor
+respiratorios,                            Hemoptisis          Opresión        de
+torácicos             y                                       garganta
+mediastínicos                             Broncoespasmo       Infiltrados
+Trastornos                Vómitos         Hemorragia          Gastroenteritis
+gastrointestina-les                       gastrointestinal
+Trastornos                                Anomalía de la
+hepatobiliares                            función hepática
+ Trastornos de la piel Prurito             Erupción bullosa    Erupción
+y      del     tejido                                         máculo-papular
+subcutáneo            Urticaria           Erupción            Trastorno
+Trastornos                                Artralgia           Dolor en       las
+musculoesqueléticos                                           piernas
+y      del    tejido                      Mialgia             Hipertonía
+conjuntivo                                Dolor esquelético
+                                                 11
+SISTEMA          DE Muy frecuentes          Frecuentes            Poco frecuentes   Frecuencia
+CLASIFICACIÓN                                                                       desconocida
+POR ÓRGANOS Y
+SISTEMAS
+MedDRA
+Trastornos renales y                                              Hematuria
+urinarios                                                         Incontinencia
+Trastornos generales Escalofríos            Dolor de pecho        Edema            Reacciones graves
+y alteraciones en el                                              pulmonar         relacionadas con la
+lugar             de                                                               perfusión* (véase el
+administración                                                                     texto del pié de tabla)
+* pueden presentar riesgo de muerte o ser mortales
+ Reacciones relacionadas con la perfusión: las reacciones agudas relacionadas con la perfusión han sido
+reacciones notificadas con mucha frecuencia (debido a la liberación de citocinas) entre las que se
+incluyen fiebre, escalofríos, náuseas, vómitos, hipotensión, fatiga, erupción cutánea, urticaria, disnea,
+cefalea, prurito y diarrea. La mayor parte de estas reacciones son de leves a moderadas en cuanto a
+gravedad. Se han producido reacciones graves, incluyendo broncoespasmo, hipoxia, síncope,
+infiltrados pulmonares, síndrome de distrés respiratorio agudo, parada respiratoria, infarto de
+miocardio, arritmias, insuficiencia cardiaca grave y parada cardiaca, asociadas a la liberación de
+citocinas y que, en raras ocasiones, fueron mortales.. Las reacciones agudas relacionadas con la
+perfusión por lo general, aparecen durante la primera semana de tratamiento, y se reducen de forma
+sustancial a partir de entonces. Las reacciones de grado 3 o 4 relacionadas con la perfusión son poco
+frecuentes después de la primera semana de tratamiento. Tras la administración de MabCampath se
+han notificado con poca frecuencia reacciones anafilácticas graves y otros tipos de reacciones de
+hipersensibilidad, incluyendo shock anafiláctico y angioedema. Estos síntomas se pueden aminorar o
+evitar si se administra premedicación y si se aumenta gradualmente la dosis (ver apartado 4.4).
+                                                    12
+Infecciones e infestaciones: entre los pacientes tratados en primera línea, durante el período de
+tratamiento, se notificaron las siguientes reacciones adversas al medicamento con gravedad de grado
+3: se notificaron con frecuencia episodios de infección/viremia por citomegalovirus (CMV) y
+neumonía; se notificaron con poca frecuencia los siguientes: bronconeumonía, tiña corporal,
+candidiasis genital, sepsis, tuberculosis e infección de las vías urinarias. No se notificaron infecciones
+e infestaciones de grado 4 relacionadas con la administración del medicamento.
+ En los pacientes tratados anteriormente con con otros medicamentos, se han notificado con mucha
+frecuencia infecciones de grado 3 o 4, incluyendo infecciones por herpes simple y neumonía de grado
+3 ó 4 de gravedad. Frecuentemente aparecen infecciones oportunistas, incluyendo las debidas a
+reactivación (por ejemplo, neumonía por Pneumocystis jiroveci (NPC), citomegalovirus (CMV),
+neumonía por Aspergillus y herpes zoster). Se han notificado casos de mucormicosis rinocerebral,
+pero son poco frecuentes. Durante la farmacovigilancia posterior a la comercialización se han
+observado casos de otras infecciones graves y en ocasiones mortales; víricas (p. ej., adenovirus,
+parainfluenza, hepatitis B, Leucoencefalopatía Multifocal Progresiva (LMP)), bacterianas (incluyendo
+tuberculosis y micobacteriosis atípicas, nocardiosis), protozoarias (por ejemplo, Toxoplasma gondii) y
+fúngicas, incluyendo las debidas a la reactivación de infecciones latentes. El tratamiento profiláctico
+antiinfeccioso recomendado parece ser efectivo para reducir el riesgo de NPC e infecciones por herpes
+zoster (ver apartado 4.4).
+ La disminución prolongada de los linfocitos T que puede relacionarse con el tratamiento con
+MabCampath puede producir un aumento del riesgo de la reactivación viral latente del virus Epstein-
+Barr (VEB). En pacientes inmunocomprometidos se ha observado, en casos raros, la evolución de una
+infección/reactivación por VEB a un trastorno linfoproliferativo asociado a VEB.
+ Trastornos de la sangre y del sistema linfático: no se observaron reacciones adversas de
+pancitopenia/hipoplasia medular en los pacientes tratados con MabCampath en primera línea. En los
+pacientes previamente tratados con con otros medicamentos, frecuentemente se han notificado reacciones
+hemorrágicas graves. La pancitopenia se ha notificado frecuentemente y puede ser de grado 3 ó 4 de
+gravedad o de naturaleza grave.
+ Trastornos del sistema inmunológico: ninguno de los pacientes tratados con MabCampath en primera
+línea desarrolló trombocitopenia autoinmune ni se han recogido notificaciones de reacciones adversas
+de anemia hemolítica autoinmune.
+ Con poca frecuencia se ha notificado la aparición de fenómenos autoinmunes durante el tratamiento o
+después del tratamiento con MabCampath (por ejemplo, anemia hemolítica autoinmune,
+trombocitopenia autoinmune, anemia aplásica, síndrome de Guillain Barré y su forma crónica,
+polirradiculoneuropatía desmielinizante inflamatoria crónica). En raras ocasiones, estas reacciones,
+pueden entrañar riesgo de muerte o ser mortales. .
+ Una prueba de Coombs positiva es también un acontecimiento frecuente.
+ Trastornos del metabolismo y de la nutrición: En raras ocasiones se ha comunicado un síndrome de
+lisis tumoral con resultado de muerte.
+ Trastornos del sistema nervioso: En raras ocasiones se ha observado una hemorragia intracraneal en
+pacientes con trombocitopenia con resultado de muerte.
+ Trastornos cardiacos: Se ha comunicado con poca frecuencia insuficiencia cardíaca congestiva,
+cardiomiopatía y disminución de la fracción de eyección en pacientes tratados previamente con
+agentes potencialmente cardiotóxicos.
+ 4.9   Sobredosis
+ Los pacientes han recibido dosis de hasta 240 mg de MabCampath. La frecuencia de efectos adversos
+                                                    13
+de grado 3 o 4, como fiebre, hipotensión y anemia puede ser más elevada en estos pacientes. No existe
+un antídoto específico conocido para la sobredosificación de MabCampath. El tratamiento consiste en
+interrumpir la administración de MabCampath y en la administración de un tratamiento de soporte.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1    Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: anticuerpo monoclonal, código ATC: L01XC04.
+ Alemtuzumab es un anticuerpo monoclonal IgG1 kappa humanizado, obtenido mediante ingeniería
+genética, específico para una glicoproteína de 21-28 kD de la superficie celular de los linfocitos
+(CD52), expresada fundamentalmente en la superficie de los linfocitos B y T normales y malignos de
+la sangre periférica. Alemtuzumab se generó mediante la inserción de seis regiones complementarias-
+determinantes de un anticuerpo monoclonal IgG2a de la rata en una molécula de inmunoglobulina
+IgG1 humana.
+ Alemtuzumab provoca la lisis de los linfocitos mediante la unión a la CD52, un antígeno altamente
+expresado, no modulador, que está presente en la superficie de esencialmente todos los linfocitos B y
+T, así como en los monocitos, los timocitos y los macrófagos. El anticuerpo media la lisis de los
+linfocitos por medio de la fijación del complemento y de la citotoxicidad mediada por células,
+dependiente de anticuerpos. El antígeno ha sido detectado en un pequeño porcentaje (< 5%) de los
+granulocitos, pero no se ha detectado en los eritrocitos o en las plaquetas. Alemtuzumab no parece
+dañar a las células madre hematopoyéticas o a las células progenitoras.
+ Pacientes con LLC-B tratados con MabCampath en primera línea
+ La seguridad y eficacia de MabCampath se evaluaron en un ensayo clínico de fase 3, abierto,
+aleatorizado, comparativo con pacientes que padecían LLC-B en estadio I-IV de Rai en primera línea
+(no tratados previamente, naïve) que necesitaban tratamiento (Estudio 4). Se demostró que
+MabCampath era superior al clorambucil medido por la variable principal de supervivencia libre de
+progresión (SLP) (ver Figura 1).
+        Figura 1: Supervivencia libre de progresión en el estudio de primera línea (por grupo de
+           Estimación de la
+probabilidad
+                                   Prueba de rangos logarítmicos estratificada:
+ Nº que corre riesgo
+ Las variables secundarias incluyeron las tasas de respuesta completa (RC) y la respuesta global (RC o
+respuesta parcial) usando los criterios NCIWG de 1996, la duración de la respuesta, el tiempo
+transcurrido hasta el tratamiento alternativo y la seguridad de los dos grupos de tratamiento.
+                      Resumen de la población de pacientes en primera línea y resultados
+                                                    Revisión independiente de la tasa de respuesta y la
+Mediana de edad (años)
+Enfermedad en estado III/IV de
+Rai
+                                                        83,2%                    55,4%               <0,0001*
+Tasa de respuesta global
+Respuesta completa
+MRD negativo****
+Respuesta parcial
+Duración de la respuesta**, RC o
+RP (meses)
+Mediana K-M (intervalo de
+confianza del 95%)
+Tiempo transcurrido hasta el
+tratamiento alternativo (meses)
+Mediana K-M (intervalo de
+confianza del 95%)
+*Prueba de la chi-cuadrado de Pearson o prueba exacta
+** Duración de la mejor respuesta
+*** Prueba de rangos logarítmicos estratificada por grupo de Rai (estadios I-II frente a III-IV)
+**** por flujo de 4 colores
+ Análisis citogenéticos en pacientes con LLC-B con tratamiento en primera línea:
+ Se reconoce cada vez más que el perfil citogenético de la LLC-B proporciona información importante
+sobre el pronóstico y puede predecir la respuesta a determina dos tratamientos. De los pacientes en
+primera línea (n=282) de quienes se disponía de datos citogenéticos basales (FISH) en el Estudio 4, se
+detectaron aberraciones cromosómicas en el 82%, y se detectó un cariotipo normal en el 18%. Las
+aberraciones cromosómicas se clasificaron de acuerdo con el modelo jerárquico de Döhner. En los
+pacientes tratados con MabCampath o con clorambucil en primera línea, hubo 21 pacientes con
+deleción de 17p, 54 pacientes con deleción de 11q, 34 pacientes con trisomía 12, 51 pacientes con
+cariotipo normal y 67 pacientes que únicamente presentaron deleción de 13q.
+ La tasa de respuesta global (TRG) en los pacientes con cualquier deleción de 11q (87% frente al 29%;
+p<0,0001) o bien, únicamente con deleción de 13q (91% frente al 62%; p=0,0087) fue superior en los
+pacientes tratados con MabCampath en comparación con los tratados con clorambucil. Se observó una
+tendencia hacia una TRG mejorada en los pacientes con deleción de 17p tratados con MabCampath
+(64% frente al 20%; p=0,0805). Las remisiones completas también fueron superiores en los pacientes
+que únicamente presentaron deleción de 13q tratados con MabCampath (27% frente al 0%; p=0,0009).
+La mediana de la SLP fue superior en los pacientes con deleción de 13q solamente tratados con
+MabCampath (24,4 frente a 13,0 meses; p=0,0170 estratificados según el estadio de Rai). Se observó
+una tendencia mejorada en la SLP en los pacientes con deleción de 17p, trisomía 12 y cariotipo normal
+que no alcanzó significación debido a que el tamaño de la muestra era pequeño.
+ Valoración del citomegalovirus (CMV) según la RCP:
+ En el ensayo clínico aleatorizado controlado realizado en pacientes tratados en primera línea (Estudio
+4), los pacientes del grupo de MabCampath fueron examinados semanalmente con respecto al
+citomegalovirus (CMV) usando el análisis de la RCP (reacción en cadena de la polimerasa) desde el
+inicio hasta la finalización del tratamiento, y cada 2 semanas durante los 2 primeros meses después del
+tratamiento. En este estudio, se notificó una RCP positiva asintomática sólo para el citomegalovirus
+(CMV) en 77/147 (52,4%) de los pacientes tratados con MabCampath; se notificó una infección
+sintomática por citomegalovirus (CMV) con menor frecuencia en 23/147 pacientes tratados con
+MabCampath (16%). En el grupo de MabCampath 36/77 (46,8%) de los pacientes con una RCP
+asintomática positiva para citomegalovirus (CMV) recibieron una terapia antiviral y en 47/77 (61%)
+de esos pacientes se interrumpió la terapia con MabCampath. La presencia de una RCP positiva
+asintomática para citomegalovirus (CMV) o de una infección por citomegalovirus (CMV) positiva en
+la RCP sintomática durante el tratamiento con MabCampath no tuvo un impacto medible en la
+supervivencia libre de progresión (SLP).
+ Pacientes con LLC-B tratados anteriormente con con otros medicamentos:
+ La determinación de la eficacia de MabCampath se basa en las tasas globales de respuesta y de
+supervivencia. Los datos disponibles de tres estudios no controlados sobre leucemia linfocítica crónica
+de células B (LLC-B) se resumen en la siguiente tabla:
+ Parámetros de eficacia                    Estudio 1                 Estudio 2                 Estudio 3
+Número de pacientes                       93                        32                        24
+Grupo diagnóstico                         Pacientes con LLC-B
+Mediana de la edad (años)                 66                        57                        62
+Características de la enfermedad (%)
+Estadio Rai III/IV
+Síntomas B
+Tratamientos previos (%):
+Agentes alquilantes                   100                       100                       92
+Fludarabina                           100                       34                        100
+Número       de     regímenes   previos
+(intervalo)                               3 (2-7)                   3 (1-10)                  3 (1-8)
+Régimen de dosificación inicial           Aumento gradual de        Aumento gradual de        Aumento gradual de
+Régimen de dosificación final             30 mg i.v. 3 veces por    30 mg i.v. 3 veces        30 mg i.v. 3 veces
+Tasa global de respuesta (%)
+(Intervalo de confianza del 95%)
+Respuesta completa
+Respuesta parcial
+Mediana de la duración de la respuesta
+(meses)                                   7                         7                         11
+(Intervalo de confianza del 95%)          (5 - 8)                   (5 - 23)                  (6 - 19)
+Mediana del tiempo hasta la respuesta
+(meses)                                   2                         4                         4
+(Intervalo de confianza del 95%)          (1-2)                     (1-5)                     (2-4)
+Supervivencia libre de progresión de la
+enfermedad (meses)                        4                         5                         7
+(Intervalo de confianza del 95%)          (3-5)                     (3-7)                     (3-9)
+Supervivencia (meses):
+(Intervalo de confianza del 95%)
+Todos los pacientes
+Respondedores
+NA = no alcanzado.
+      5.2   Propiedades farmacocinéticas
+      La farmacocinética se determinó en pacientes con una leucemia linfocítica crónica de células B (LLC-
+B) no tratados previamente con MabCampath y en los que había fracasado un tratamiento previo con
+análogos de las purinas. Se administró MabCampath en forma de perfusión intravenosa de 2 horas de
+duración, a la pauta de dosificación recomendada, comenzando con una dosis de 3 mg y aumentándola
+hasta 30 mg, 3 veces por semana, durante un período de hasta 12 semanas. La farmacocinética de
+MabCampath siguió un modelo bicompartimental, y mostró una cinética de eliminación no lineal. Tras
+la última dosis de 30 mg, la mediana del volumen de distribución en estado estacionario fue de
+0,15 l/kg (intervalo: 0,1-0,4 l/kg), hecho que indicaba que la distribución se efectuaba principalmente
+hacia los compartimientos del líquido extracelular y plasmático. El aclaramiento sistémico disminuyó
+                                                        17
+con la administración repetida, debido a una reducción del aclaramiento mediado por receptor (es
+decir, a la pérdida de receptores CD52 en la periferia). Con la administración repetida y el aumento
+consiguiente de la concentración plasmática, la tasa de eliminación se aproximó a una cinética de
+orden cero. De este modo, la vida media fue de 8 horas (intervalo: 2-32 horas) después de la primera
+dosis de 30 mg, y fue de 6 días (intervalo: 1-14 días) después de la última dosis de 30 mg. Las
+concentraciones en el estado estacionario se alcanzaron después de aproximadamente 6 semanas de
+administración. No se observó una diferencia aparente en la farmacocinética entre hombres y mujeres,
+ni se observó tampoco un efecto aparente de la edad.
+ 5.3   Datos preclínicos sobre seguridad
+ La evaluación preclínica de alemtuzumab en animales se ha limitado al mono Cynomolgus debido a la
+falta de expresión del antígeno CD52 en las especies no primates.
+ En esta especie, la linfopenia fue el efecto adverso relacionado con el tratamiento que se observó con
+mayor frecuencia. En los estudios a dosis repetidas se observó un ligero efecto acumulativo en el
+grado de depleción de linfocitos, cuando se compararon con los estudios a dosis únicas. La depleción
+de linfocitos revirtió rápidamente tras la interrupción de la administración del medicamento. Se
+observó una neutropenia reversible tras la administración intravenosa o subcutánea diaria mantenida
+durante 30 días, pero no tras la administración de dosis aisladas o la administración diaria mantenida
+durante 14 días. Los resultados histopatológicos de las muestras de médula ósea no mostraron cambios
+importantes atribuibles al tratamiento. Las dosis intravenosas aisladas de 10 y 30 mg/kg provocaron
+una hipotensión moderada o grave, dependiente de la dosis, que se acompañaba de una ligera
+taquicardia.
+ Se ha observado la fijación del Fab de MabCampath en los tejidos linfoides y en el sistema fagocítico
+mononuclear. También se ha observado una fijación significativa del Fab en el tracto reproductor del
+varón (epidídimo, esperma, vesículas seminales) y en la piel.
+ En los estudios sobre toxicidad anteriormente descritos, ningún otro signo proporciona información de
+importancia significativa para el uso clínico.
+ No se han realizado estudios a corto o a largo plazo con MabCampath en animales para evaluar su
+potencial mutágeno o carcinógeno.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Edetato disódico
+Polisorbato 80
+Cloruro potásico
+Dihidrógeno fosfato de potasio
+Cloruro sódico
+Fosfato sódico dibásico
+Agua para preparaciones inyectables
+ 6.2   Incompatibilidades
+ Este medicamento no debe mezclarse con otros excepto los mencionados en la sección 6.6.
+ No existen incompatibilidades conocidas con con otros medicamentos. Sin embargo, no se deben añadir
+con otros medicamentos a la solución para perfusión de MabCampath ni tampoco perfundir
+simultáneamente varios medicamentos a través de la misma vía intravenosa.
+                                                  18
+6.3   Período de validez
+ 3 años.
+ Solución reconstituida: MabCampath no contiene ningún conservante con poder antimicrobiano.
+MabCampath debe utilizarse en de las 8 horas posteriores a la preparación de la dilución. Las
+soluciones se pueden almacenar a 15 °C-30 °C o en nevera. Este periodo de validez sólo se puede
+aceptar si la preparación de la solución se lleva a cabo bajo condiciones asépticas estrictas y la
+solución se protege de la luz.
+ 6.4   Precauciones especiales de conservación
+ Conservar en nevera (entre 2°C y 8°C).
+No congelar.
+Conservar en el embalaje original para protegerlo de la luz.
+ Para consultar las condiciones de conservación del medicamento reconstituido, ver sección 6.3.
+ 6.5   Naturaleza y contenido del envase
+ 1 ampolla de 5 ml (vidrio transparente tipo I) que contiene 3 ml de concentrado.
+ Tamaño del envase: embalaje con 3 ampollas.
+ 6.6       Precauciones especiales de eliminación y otras manipulaciones
+ El contenido de la ampolla debe examinarse visulamente antes de cada administración para descartar
+la existencia de partículas o decoloración. Si el concentrado contiene partículas o presenta coloración,
+la ampolla no debe utilizarse.
+ MabCampath no contiene conservantes antimicrobianos, por tanto, se recomienda la utilización de
+técnicas asépticas durante la preparación de MabCampath para perfusión intravenosa. Asimismo, se
+recomienda proteger de la luz la solución diluida para perfusión y administrarla dentro de las 8 horas
+siguientes a su preparación. Para preparar la solución, se debe añadir la cantidad necesaria del
+concentrado (contenido de la ampolla) en 100 ml de una solución de 9 mg/ml de cloruro sódico para
+perfusión (0,9%) o una solución de glucosa para perfusión al 5%, mediante un filtro estéril, con baja
+fijación de proteínas, sin fibra y de 5 m. Se debe invertir suavemente la bolsa para lograr la mezcla
+de la solución. Se debe tener cuidado para garantizar la esterilidad de la solución preparada, ya que no
+contiene conservantes antimicrobianos.
+ No se debe añadir con otros medicamentos a la solución para perfusión de MabCampath ni perfundirse
+simultáneamente varios medicamentos a través de la misma línea intravenosa.
+ Se debe tener cuidado al manipular y preparar la solución de MabCampath. Se recomienda utilizar
+guantes de látex y gafas de seguridad para evitar exposiciones en caso de rotura de la ampolla u otro
+vertido accidental. Las mujeres que están embarazadas o que planeen quedarse embarazadas no deben
+manipular MabCampath.
+ Se deben seguir procedimientos adecuados para la manipulación y eliminación. Cualquier vertido o
+material residual debe eliminarse por incineración.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Genzyme Europe BV
+                                                   19
+Gooimeer 10
+1411 DD Naarden
+Países Bajos
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/01/193/001
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 06/07/2001
+Fecha de la última renovación: 28/07/2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la página web de la Agencia
+Europea del Medicamento (EMEA) http://www.emea.europa.eu/.
+ 
+1.      DENOMINACIÓN DEL MEDICAMENTO
+	MabCampath 30 mg/ml concentrado para solución para perfusión
+ 
+2.      COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Un ml de concentrado contiene 30 mg de alemtuzumab.
+Cada vial contiene 30 mg de alemtuzumab.
+ Alemtuzumab es un anticuerpo monoclonal IgG1 kappa humanizado, obtenido por ingeniería genética,
+específico para una glicoproteína de superficie de los linfocitos, de 21-28 kD (CD52). El anticuerpo se
+produce en un cultivo en suspensión de células de mamíferos (ovario de hámster chino) en un medio
+nutriente.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Concentrado para solución para perfusión.
+Concentrado entre incoloro y amarillo muy claro.
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ MabCampath está indicado para el tratamiento de pacientes con leucemia linfocítica crónica de las
+células B (LLC-B), en los que el tratamiento con quimioterapia con combinaciones de fludarabina no
+sea adecuado.
+ 4.2   Posología y forma de administración
+ MabCampath debe administrarse bajo la supervisión de un médico experto en el uso de tratamientos
+oncológicos.
+ La solución de MabCampath se debe preparar según las instrucciones que se presentan en la sección
+6.6. Todas las dosis se deben administrar por perfusión intravenosa, durante un período aproximado de
+2 horas.
+ Se deberá premedicar a los pacientes con esteroides orales o intravenosos. Asimismo, durante el
+escalado de dosis, se les administrará un antihistamínico y un analgésico apropiados entre 30 y
+60 minutos antes de cada perfusión de MabCampath y, después de la perfusión según esté
+clínicamente indicado (ver apartado 4.4).
+ Se debe administrar de forma rutinaria tratamiento antibiótico y antivírico a todos los pacientes
+durante el tratamiento y una vez concluido éste (ver apartado 4.4).
+ Durante la primera semana de tratamiento, MabCampath debe administrarse a dosis crecientes: 3 mg
+el día 1, 10 mg el día 2 y 30 mg el día 3, asumiendo que cada dosis sea bien tolerada. Posteriormente,
+la dosis recomendada es de 30 mg al día, administrada 3 veces por semana en días alternos, hasta un
+máximo de 12 semanas.
+ En la mayoría de los pacientes, el incremento de la dosis hasta 30 mg se puede lograr en 3-7 días. No
+obstante, si con la dosis de 3 mg o de 10 mg aparecen reacciones adversas de moderadas a graves
+producidas por la liberación de citocinas (hipotensión, rigidez, fiebre, dificultad respiratoria,
+                                                    21
+escalofríos, erupciones cutáneas y broncoespasmo) entonces estas dosis deben administarse
+diariamente hasta que sean bien toleradas antes de intentar aumentar la dosis (ver apartado 4.4).
+ La mediana de la duración del tratamiento fue de 11,7 semanas para los pacientes en primera línea y
+de 8,0 semanas para los pacientes tratados anteriormente.
+ Una vez que un paciente reúne todos los criterios clínicos y de laboratorio de respuesta completa, se
+debería interrumpir la administración de MabCampath y monitorizar al paciente. Si un paciente
+mejora (es decir, alcanza una respuesta parcial o una situación estable de la enfermedad) y a
+continuación se mantiene en una situación de meseta sin mejoría adicional durante 4 semanas o más,
+se debería interrumpir la administración de MabCampath y monitorizar al paciente. El tratamiento
+debe interrumpirse si existe evidencia de progresión de la enfermedad.
+ En caso de infección grave o de toxicidad hematológica grave, se debe interrumpir la administración
+de MabCampath hasta que el acontecimiento se resuelva. Se recomienda interrumpir la administración
+de MabCampath en los pacientes en los que el recuento de plaquetas sea < 25,000/l o en los que
+muestren una caída en el recuento absoluto de neutrófilos (RAN) a < 250/µL. El tratamiento con
+MabCampath se puede reiniciar una vez resuelta la infección o el cuadro de toxicidad. La
+administración de MabCampath debe interrumpirse definitivamente si aparece anemia autoinmune o
+trombocitopenia autoinmune. La siguiente tabla muestra el procedimiento adecuado para la
+modificación de la dosis en caso de aparición de una toxicidad hematológica durante el tratamiento:
+ Toxicidad hematológica                         Reinicio del tratamiento con MabCampath
+(plaquetas < 25,000/µL y/o RAN < 250/l)
+Primer episodio                                Tras la resolución, comience de nuevo con 30 mg.*
+Segundo episodio                               Tras la resolución, comience de nuevo con 10 mg.*
+Tercer episodio                                Interrumpir el tratamiento de forma permanente.
+Para una reducción del RAN y/o del recuento Retrasar el tratamiento con MabCampath. Cuando el
+de plaquetas hasta un 50% del valor basal RAN y/o el recuento de plaquetas vuelvan a los
+en los pacientes que inician el tratamiento valores basales, reanude el tratamiento con
+con un RAN basal de 500/l y/o un MabCampath.*
+recuento de plaquetas basal de 25.000/l
+*Si el tratamiento se ha interrumpido durante más de 7 días, el tratamiento con MabCampath se debe
+iniciar nuevamente mediante incremento progresivo de la dosis.
+ Considerando el mecanismo de acción de MabCampath, no se recomienda realizar modificaciones de
+las dosis en pacientes con linfopenia grave.
+ Niños y adolescentes (menores de 17 años):
+ No se han llevado a cabo estudios en estas poblaciones. Por lo tanto, no se recomienda la utilización
+de MabCampath en población pediátrica.
+ Pacientes de edad avanzada (mayores de 65 años):
+ Las recomendaciones son las mismas que para los adultos. Los pacientes deberían ser monitorizados
+cuidadosamente (véase la sección 4.4).
+ Pacientes con insuficiencia renal o hepática:
+ No se han llevado a cabo estudios en estas poblaciones.
+ 4.3   Contraindicaciones
+ -     hipersensibilidad al alemtuzumab, a las proteínas murinas o a cualquiera de los excipientes;
+-     pacientes que presentan infecciones sistémicas activas;
+                                                   22
+-     pacientes que están infectados por el VIH;
+-     pacientes que presentan neoplasias secundarias activas;
+-     embarazo.
+ 4.4   Advertencias y precauciones especiales de empleo
+ Las reacciones adversas agudas, que pueden producirse durante el escalado de dosis inicial a
+consecuencia de la liberación de citocinas, incluyen hipotensión, escalofríos/rigidez, fiebre,
+dificultades respiratorias y erupciones cutáneas. Otras reacciones que pueden producirse son incluyen
+náuseas, urticaria, vómitos, fatiga, disnea, dolor de cabeza, prurito, diarrea y broncoespasmo. La
+frecuencia de aparición de las reacciones adversas relacionadas con la perfusión fue mayor en la
+primera semana de tratamiento y se redujo en la segunda o tercera semana de tratamiento tanto en
+pacientes tratados con MabCampath en primera línea como en pacientes previamente tratados con
+con otros medicamentos.
+ Si estos efectos son de moderados a graves, se debe mantener la dosis en el mismo nivel
+,administrando la premedicación adecuada, hasta que cada dosis sea bien tolerada antes de realizar
+cada escalado de dosis. Si el tratamiento se interrumpe durante más de 7 días, la administración de
+MabCampath se debería reiniciar con un aumento gradual de la dosis (escalado de dosisis progresivo).
+ En pacientes tratados con MabCampath han aparecido episodios transitorios de hipotensión. Hay que
+tener precaución al tratar pacientes que padezcan cardiopatía isquémica, angina de pecho y/o en
+pacientes que estén siendo tratados con medicamentos antihipertensivos. En esta población de
+pacientes se han observado casos de infarto de miocardio y de paro cardiaco asociados con la
+perfusión de MabCampath.
+ Se debe considerar la evaluación y monitorización continua de la función cardiaca (por ejemplo,
+ecocardiografía, frecuencia cardiaca y peso corporal) en pacientes tratados previamente con agentes
+potencialmente cardiotóxicos.
+ Se recomienda que los pacientes estén premedicados con esteroides por vía oral o intravenosa 30-60
+minutos antes de cada perfusión de MabCampath durante el escalado de dosis y según esté
+clínicamente indicado. Una vez se haya realizado el escalado de dosis, se puede interrumpir la
+administración de esteroides, según sea necesario. Además, se pueden administrar un antihistamínico
+oral, p. ej., 50 mg de difenhidramina, y un analgésico, p. ej., 500 mg de paracetamol. En caso de que
+las reacciones agudas a la perfusión persistan, el tiempo de la perfusión se puede prolongar hasta 8
+horas desde el momento de la reconstitución de MabCampath a solución para perfusión.
+ Es inevitable que se produzca una importante depleción de linfocitos, ya que es un efecto
+farmacológico esperado de MabCampath, y este efecto, puede tener una duración prolongada. Los
+recuentos de células T CD4 y CD8 comienzan a aumentar entre las semanas 8-12 de tratamiento, y se
+siguen recuperando durante varios meses después de la interrupción del tratamiento. En los pacientes
+que reciben MabCampath como primera línea de tratamiento, la recuperación de los recuentos de
+CD4+ a valores 200 células/µl ocurrió a los 6 meses después del tratamiento; sin embargo, a los
+2 meses después del tratamiento, la mediana fue de 183 células/l. En los pacientes que recibieron
+MabCampath, como segunda línea de tratamiento, la mediana del tiempo hasta alcanzar un nivel de
+200 células/µl fue de 2 meses tras la última perfusión de MabCampath, si bien, pueden tardar 6 meses
+o más en aproximarse a los niveles previos al tratamiento. Esto puede predisponer a la aparición de
+infecciones oportunistas en los pacientes. Es altamente recomendable iniciar una profilaxis
+antiinfecciosa durante el tratamiento con MabCampath (p. ej., trimetoprim/sulfametoxazol, un
+comprimido dos veces al día, 3 veces por semana, u otra profilaxis frente a la neumonía por
+Pneumocystis jiroveci (PCP) y un agente antiherpético efectivo por vía oral, como famciclovir, 250
+mg dos veces al día) y mantener este tratamiento profiláctico después de finalizar el tratamiento con
+MabCampath hasta que el recuento de CD4+ se haya recuperado hasta un nivel igual o superior a 200
+células/µl.
+ Dada la posibilidad de que se produzca una enfermedad del injerto contra el huésped (graft versus host
+                                                  23
+disease, GVHD) en pacientes con linfopenia grave, los derivados sanguíneos deben irradiarse antes de
+ser utilizados hasta que la linfopenia haya desaparecido, y en particular, hasta que las células T se
+hayan repoblado adecuadamente hasta alcanzar una población de al menos 200 células/µl o mayor.
+ La viremia por citomegalovirus (CMV) positiva en pruebas de laboratorio pero asintomática no debe
+considerarse necesariamente una infección grave que requiera la interrupción de la terapia. Debe
+realizarse una valoración clínica continua de los pacientes que presentan infección por
+citomegalovirus (CMV) sintomática durante el tratamiento con MabCampath y durante un periodo
+mínimo de 2 meses después de finalizar el tratamiento.
+ Con mucha frecuencia aparece una neutropenia transitoria, de grado 3 ó 4, a las 4-8 semanas de iniciar
+el tratamiento. Durante las 2 primeras semanas de tratamiento aparece con mucha frecuencia una
+trombopenia pasajera, de grado 3 o 4, que posteriormente mejora de forma progresiva en la mayoría
+de los pacientes. Por tanto, está indicado realizar una monitorización hematológica de los pacientes. Si
+aparece un cuadro de toxicidad hematológica grave, se debería interrumpir el tratamiento con
+MabCampath hasta que el cuadro desaparezca. El tratamiento con MabCampath se puede reiniciar una
+vez resuelta la toxicidad hematológica (ver apartado 4.2). La administración de MabCampath debe
+interrumpirse de forma permanente si aparece anemia autoinmune o trombocitopenia autoinmune.
+ Durante el tratamiento con MabCampath se deben realizar de forma periódica hemogramas y
+recuentos de plaquetas, la frecuencia de estas pruebas debe ser mayor en los pacientes que desarrollen
+cuadros de citopenias.
+ No se propone que se practique una monitorización regular y sistemática de la expresión de CD52
+como práctica rutinaria en la clínica. Sin embargo, si se plantea la posibilidad de un retratamiento,
+puede ser prudente confirmar la presencia de expresión de CD52. En los datos disponibles de los
+pacientes en primera línea tratados con MabCampath, no se observó una pérdida de la expresión de
+CD52 en el momento de progresión de la enfermedad o la muerte.
+ Los pacientes pueden presentar reacciones de hipersensibilidad o alergia a MabCampath y a los
+anticuerpos monoclonales murinos o quiméricos.
+ Son necesarios tanto los medicamentos para el tratamiento de las reacciones de hipersensibilidad como
+la preparación para iniciar medidas de emergencia en caso de reacción durante la administración
+(véase la sección 4.2).
+ Tanto hombres como mujeres que se encuentren en edad fértil, deben utilizar medidas anticonceptivas
+efectivas durante el tratamiento con MabCampath y durante los 6 meses posteriores al tratamiento (ver
+secciones 4.6 y 5.3).
+ No se han realizado estudios para evaluar el efecto de la edad sobre la disposición y la toxicidad de
+MabCampath. En general, los pacientes de edad avanzada (de edad superior a 65 años) toleran el
+tratamiento citotóxico peor que los individuos más jóvenes. Dado que la LLC aparece frecuentemente
+en este grupo de edad avanzada, estos pacientes deben monitorizarse cuidadosamente (ver apartado
+4.2). En los estudios realizados en pacientes en primera línea y tratados anteriormente no se
+observaron diferencias sustanciales en la seguridad y la eficacia relacionadas con la edad; sin
+embargo, los tamaños de las bases de datos son limitados.
+ 4.5     Interacción con con otros medicamentos y otras formas de interacción
+ Aunque no se han realizado estudios formales sobre interacciones de medicamentos con MabCampath,
+no se conocen interacciones clínicamente significativas entre MabCampath y con otros medicamentos.
+Como MabCampath es una proteína recombinante humanizada, no se espera que se produzcan
+interacciones entre medicamentos medidadas por el citocromo P450. No obstante, se recomienda que
+MabCampath no se administre hasta 3 semanas después de la administración de otros agentes
+quimioterápicos.
+ Aunque este tema no ha sido estudiado, se recomienda que durante un período de al menos 12 meses
+tras el tratamiento con MabCampath los pacientes no sean sometidos a vacunaciones víricas basadas
+en virus vivos. La capacidad para generar una respuesta humoral primaria o anamnésica frente a
+cualquier vacuna no ha sido estudiada.
+ 4.6    Embarazo y lactancia
+ Embarazo:
+ MabCampath está contraindicado durante el embarazo. Se sabe que la IgG humana atraviesa la barrera
+placentaria y de este modo puede, de forma potencial, provocar una depleción de linfocitos B y T en el
+feto. No se han efectuado estudios con MabCampath para evaluar los efectos sobre la reproducción en
+animales. Se desconoce si MabCampath puede provocar daños al feto cuando se administra a mujeres
+gestantes o si puede afectar a la capacidad reproductora.
+ Los hombres y las mujeres que se encuentren en edad fértil deben utilizar medidas anticonceptivas
+efectivas durante el tratamiento con MabCampath y durante los 6 meses posteriores al tratamiento.
+ Lactancia:
+ Se desconoce si MabCampath se excreta en la leche humana. Si es necesario administrar el
+tratamiento con MabCamath, la lactancia se debe interrumpir durante todo el tiempo que dure el
+tratamiento y durante al menos 4 semanas después del tratamiento.
+ 4.7     Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han efectuado estudios sobre la capacidad para conducir o para utilizar máquinas. No obstante,
+se debería tener precaución, ya que se han notificado casos de somnolencia y confusión.
+ 4.8     Reacciones adversas
+ Se puede esperar que más del 80% de los pacientes tratados previamente con con otros medicamentos
+presenten reacciones adversas. Las reacciones notificadas con mayor frecuencia suelen aparecer
+habitualmente durante la primera semana de tratamiento. Aproximadamente el 97% de los pacientes
+en los que se utilizó el medicamento en primera línea experimentó reacciones adversas; las reacciones
+notificadas con más frecuencia en estos pacientes ocurrieron normalmente durante la primera semana
+de tratamiento.
+ Las reacciones adversas incluidas en las siguientes tablas, se clasifican siguiendo el sistema de
+clasificación por órganos y sistemas MedDRA (MedDRA SOCs). Las frecuencias se basan en los
+datos obtenidos en los ensayos clínicos.
+Se usa el término MedDRA más adecuado para describir cada reacción determinada asi como sus
+sinónimos y afecciones relacionadas.
+ Las frecuencias se definen como muy frecuentes ( 1/10), frecuentes ( 1/100, < 1/10), poco
+frecuentes ( 1/1.000, < 1/100). Debido al tamaño de la población estudiada, no se dispone de
+información sobre acontecimientos que ocurran con una frecuencia menor, d n=147 para los pacientes
+tratados en primera línea y n=149 para los pacientes tratados anteriormente.
+ Reacciones adversas notificadas en los pacientes tratados en primera línea
+ Los datos de seguridad obtenidos en los pacients con LLC-B en primera línea se basan en las
+reacciones adversas que se produjeron en un ensayo clínico aleatorizado y controlado en el que se
+incluyeron 147 pacientes a los que se administró MabCampath como agente único a una dosis de
+30 mg por vía intravenosa tres veces a la semana durante un máximo de 12 semanas, incluido el
+período de escalado de dosis. Las reaccion
+ 
+	Prospectos de medicamentos.

@@ -1,0 +1,915 @@
+DAFIRO 5MG/160MG 28 COMP RECUB CON PELIC
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                             1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Dafiro 5 mg/80 mg comprimidos recubiertos con película
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 5 mg de amlodipino (como amlodipino besilato) y
+80 mg de valsartán.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido recubierto con película
+ Comprimido recubierto con película redondo, amarillo oscuro, con los bordes biselados, la impresión
+«NVR» en una cara y «NV» en la otra cara.
+ 
+
+
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+ Dafiro está indicado en pacientes cuya presión arterial no se controla adecuadamente con amlodipino o
+valsartán en monoterapia.
+ 4.2   Posología y forma de administración
+ La dosis recomendada de Dafiro es un comprimido al día.
+ Dafiro 5 mg/80 mg puede administrarse en pacientes cuya presión arterial no se controla
+adecuadamente con amlodipino 5 mg o valsartán 80 mg solos.
+ Dafiro puede administrarse con o sin alimentos. Se recomienda tomar Dafiro con un poco de agua.
+ Se recomienda la titulación de la dosis individual con los componentes (es decir, amlodipino y
+valsartán) antes de cambiar a la combinación a dosis fija. Cuando sea clínicamente adecuado, se puede
+considerar el cambio directo desde la monoterapia a la combinación a dosis fija.
+ Por conveniencia, se puede pasar a los pacientes que están recibiendo valsartán y amlodipino en
+comprimidos/cápsulas separados a Dafiro que contenga la misma dosis de los componentes.
+ Alteración renal
+No se requiere un ajuste posológico en los pacientes con insuficiencia renal de leve a moderada. Se
+recomienda controlar los niveles de potasio y la creatinina en insuficiencia renal moderada.
+ Alteración hepática
+Debe tenerse precaución cuando se administre Dafiro a pacientes con insuficiencia hepática o
+trastornos biliares obstructivos (ver apartado 4.4). En pacientes con insuficiencia hepática de leve a
+moderada sin colestasis, la dosis máxima recomendada es 80 mg de valsartán.
+ Pacientes de edad avanzada (65 años o mayores)
+En pacientes de edad avanzada se recomienda precaución al aumentar la dosis.
+Niños y adolescentes
+Dafiro no está recomendado para uso en pacientes menores de 18 años debido a la ausencia de datos
+sobre seguridad y eficacia.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a los principios activos, a derivados dihidropiridínicos o a alguno de los excipientes.
+Insuficiencia hepática grave, cirrosis biliar o colestasis.
+Insuficiencia renal grave (TFG <30 ml/min./1,73 m2) y pacientes sometidos a diálisis.
+Segundo y tercer trimestre del embarazo (ver apartado 4.4 y 4.6).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Embarazo
+No se debe iniciar ningún tratamiento con Antagonistas de los Receptores de la Angiotensina II
+(ARAII) durante el embarazo. Salvo que se considere esencial continuar el tratamiento con ARAII, las
+pacientes que estén planeando quedarse embarazadas deberán cambiar a un tratamiento
+antihipertensivo alternativo que tenga un perfil de seguridad conocido para su uso durante el
+embarazo. Cuando se diagnostique un embarazo, deberá interrumpirse inmediatamente el tratamiento
+con ARAII, y si procede, iniciar un tratamiento alternativo (ver secciones 4.3 y 4.6).
+ Pacientes con depleción de sodio y/o de volumen
+En estudios controlados con placebo se observó una hipotensión excesiva en el 0,4% de los pacientes
+con hipertensión sin complicaciones tratados con Dafiro. Puede presentarse hipotensión sintomática en
+los pacientes con un sistema renina-angiotensina activado (tales como los pacientes con depleción de
+volumen y/o sal que reciben dosis elevadas de diuréticos) que están recibiendo bloqueadores del
+receptor de la angiotensina. Es necesario corregir esta condición antes de la administración de Dafiro o
+se recomienda supervisión médica al inicio del tratamiento.
+ Si se presenta hipotensión con Dafiro, debe colocarse al paciente en posición de decúbito supino y, si
+es necesario, administrar una perfusión intravenosa de solución fisiológica salina. Una vez la presión
+arterial haya sido estabilizada, el tratamiento puede continuarse.
+ Hiperpotasemia
+El uso concomitante de suplementos de potasio, diuréticos ahorradores de potasio, sustitutos de la sal
+que contengan potasio u con otros medicamentos que puedan aumentar los niveles de potasio (heparina,
+etc.), debe llevarse a cabo con precaución y con controles frecuentes de los niveles de potasio.
+ Estenosis de la arteria renal
+No se dispone de datos sobre el uso de Dafiro en pacientes con estenosis bilateral de la arteria renal o
+estenosis en pacientes con un único riñón.
+ Trasplante renal
+Actualmente no existe experiencia en el uso seguro de Dafiro en pacientes que hayan sufrido
+recientemente un trasplante renal.
+ Alteración hepática
+Valsartán se elimina principalmente inalterado a través de la bilis, mientras que amlodipino se
+metaboliza extensamente en el hígado. Debe tenerse especial precaución cuando se administre Dafiro a
+pacientes con insuficiencia hepática de leve a moderada o trastornos biliares obstructivos.
+ En pacientes con insuficiencia hepática de leve a moderada sin colestasis, la dosis máxima
+recomendada de valsartán es 80 mg.
+ Alteración renal
+ No es necesario ajustar la posología de Dafiro en los pacientes con insuficiencia renal de leve a
+moderada (GFR >30 ml/min./1,73 m2). Se recomienda controlar los niveles de potasio y la creatinina
+en insuficiencia renal moderada.
+ Hiperaldosteronismo primario
+Los pacientes con hiperaldosteronismo primario no deben ser tratados con el antagonista de la
+angiotensina II valsartán ya que el sistema renina-angiotensina está alterado por la enfermedad
+primaria.
+ Insuficiencia cardiaca
+En pacientes susceptibles, pueden anticiparse cambios en la función renal como consecuencia de la
+inhibición del sistema renina-angiotensina-aldosterona. En pacientes con insuficiencia cardiaca grave
+cuya función renal pueda depender de la actividad del sistema renina-angiotensina-aldosterona, se
+asocia el tratamiento con inhibidores de la enzima de conversión de la angiotensina (ECA) y
+antagonistas del receptor de la angiotensina con oliguria y/o azotemia progresiva y (en raras
+ocasiones) con insuficiencia renal aguda y/o muerte. Con valsartán se han registrado resultados
+similares.
+ En el estudio a largo plazo, controlado con placebo de amlodipino (PRAISE-2) en pacientes con
+insuficiencia cardiaca de las clases III y IV de la NYHA (New York Heart Association Classification)
+de etiología no isquémica, se asoció amlodipino con un aumento de casos de edema pulmonar a pesar
+de que no hubo diferencia significativa en la incidencia de empeoramiento de la insuficiencia cardiaca
+en comparación con placebo.
+ Estenosis valvular aórtica y mitral, cardiomiopatía hipertrófica obstructiva
+Como con todos los vasodilatadores, se recomienda especial precaución en pacientes con estenosis
+aórtica o mitral, o con cardiomiopatía hipertrófica obstructiva.
+ No se ha estudiado Dafiro en ninguna población de pacientes diferente de la hipertensión.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Interacciones ligadas a amlodipino
+Se requiere precaución en el uso concomitante
+Inhibidores CYP3A4
+Un estudio en pacientes de edad avanzada ha mostrado que diltiazem inhibe el metabolismo de
+amlodipino, probablemente vía CYP3A4 (la concentración plasmática aumenta en aproximadamente
+un 50% y aumenta el efecto de amlodipino). No se puede excluir la posibilidad de que inhibidores más
+potentes de CYP3A4 (es decir, ketoconazol, itraconazol, ritonavir) puedan aumentar la concentración
+plasmática de amlodipino en mayor medida que diltiazem.
+ Inductores CYP3A4 (agentes anticonvulsivos [p. ej. carbamacepina, fenobarbital, fenitoína,
+fosfenitoína, primidona], rifampicina, Hypericum perforatum)
+La administración conjunta puede dar lugar a concentraciones plasmáticas menores de amlodipino.
+Está indicado un control clínico, con un posible ajuste posológico de amlodipino durante el
+tratamiento con el inductor y después de su retirada.
+ A tener en cuenta en el uso concomitante
+Otros
+En monoterapia, se ha administrado de forma segura amlodipino con diuréticos tiazídicos,
+betabloqueantes, inhibidores de la ECA, nitratos de larga duración, nitroglicerina sublingual, digoxina,
+warfarina, atorvastatina, sildenafilo, medicamentos antiácidos (gel de hidróxido de aluminio,
+hidróxido de magnesio, simeticona), cimetidina, medicamentos antiinflamatorios no esteroideos,
+antibioticos y medicamentos hipoglicemiantes orales.
+ Interacciones ligadas a valsartán
+No se recomienda el uso concomitante
+                                                    4
+Litio
+Durante el uso concomitante de inhibidores de la ECA se han registrado aumentos reversibles de las
+concentraciones séricas de litio y de la toxicidad. A pesar de la ausencia de experiencia en el uso
+concomitante de valsartán y litio, no se recomienda esta combinación. Si la combinación resulta
+necesaria, se recomienda un control exhaustivo de los niveles séricos de litio (ver apartado 4.4).
+ Diuréticos ahorradores de potasio, suplementos de potasio, sustitutos de la sal que contengan potasio
+y otras sustancias que puedan aumentar los niveles de potasio
+Se recomienda controlar los niveles plasmáticos de potasio si se prescribe un medicamento que afecte
+los niveles de potasio en combinación con valsartán.
+ Se requiere precaución en el uso concomitante
+Medicamentos antiinflamatorios no esteroideos (AINEs), incluyendo inhibidores selectivos COX-2,
+ácido acetilsalicílico (>3 g/día), y AINEs no selectivos
+Cuando se administran antagonistas de la angiotensina II simultáneamente con AINEs puede
+presentarse una atenuación del efecto antihipertensivo. Además, el uso concomitante de antagonistas
+de la angiotensina II con AINEs puede producir un mayor riesgo de empeoramiento de la función
+renal y un aumento del potasio sérico. Por ello, se recomienda un control de la función renal al inicio
+del tratamiento, así como una hidratación adecuada del paciente.
+ Otros
+No se han hallado interacciones clinicamente significativas durante el tratamiento en monoterapia de
+valsartán con las siguientes sustancias: cimetidina, warfarina, furosemida, digoxina, atenolol,
+indometacina, hidroclorotiazida, amlodipino, glibenclamida.
+ Interacciones frecuentes con la combinación
+No se han realizado estudios de interacción entre Dafiro y con otros medicamentos.
+ A tener en cuenta en el uso concomitante
+Otros agentes antihipertensivos
+Los agentes antihipertensivos utilizados frecuentemente (p. ej. alfabloqueantes, diuréticos) y con otros medicamentos que pueden causar efectos adversos hipotensores (p. ej. antidepresivos tricíclicos,
+alfabloqueantes para el tratamiento de la hiperplasia prostática benigna) pueden aumentar el efecto
+antihipertensivo de la combinación.
+ 4.6   Embarazo y lactancia
+ No se recomienda el uso de Antagonistas de los Receptores de la Angiotensina II (ARAII) durante el
+primer trimestre del embarazo (ver apartado 4.4). Está contraindicado el uso de ARAII durante el
+segundo y tercer trimestre del embarazo (ver secciones 4.3 y 4.4).
+ La evidencia epidemiológica sobre el riesgo de teratogenicidad tras la exposición a inhibidores de la
+ECA durante el primer trimestre de embarazo no ha sido concluyente; sin embargo, no se puede
+excluir un pequeño aumento del riesgo. Aunque no hay datos epidemiológicos específicos sobre el
+riesgo que conlleva la administración de Antagonistas de los Receptores de la Angiotensina II
+(ARAII) durante el embarazo, pueden existir riesgos similares para esta clase de medicamentos. Salvo
+que se considere esencial continuar el tratamiento con ARAII, las pacientes que estén planeando
+quedarse embarazadas deben cambiar a un tratamiento antihipertensivo alternativo que tenga un perfil
+de seguridad conocido para su uso durante el embarazo. Cuando se diagnostique un embarazo, deberá
+interrumpirse inmediatamente el tratamiento con ARAII y, si procede, iniciar un tratamiento
+alternativo.
+ Se sabe que la exposición a ARAII durante el segundo y el tercer trimestre induce fetotoxicidad
+humana (disminución de la función renal, oligohidramnios, retraso de la osificación craneal) y
+toxicidad neonatal (fallo renal, hipotensión, hiperpotasemia) (ver también sección 5.3. ""Datos
+preclínicos sobre seguridad"").
+                                                    5
+Si se produce una exposición a ARAII a partir del segundo trimestre del embarazo, se recomienda
+realizar una prueba de ultrasonidos de la función renal y del cráneo.
+ Los lactantes cuyas madres hayan sido tratadas con ARAII deberán ser cuidadosamente monitorizados
+por si se produce hipotensión (ver secciones 4.3 y 4.4).
+ No hay experiencia de uso de Dafiro en mujeres embarazadas. Los estudios en animales indican que
+valsartán/amlodipino presenta una toxicidad reproductiva de acuerdo con lo descrito para valsartán y
+otros antagonistas de la angiotensina II (ver apartado 5.3). Los datos obtenidos de un número limitado
+de embarazos expuestos, no indican efectos adversos de amlodipino ni otros antagonistas del receptor
+del calcio sobre la salud del feto. Sin embargo, puede existir riesgo de parto prolongado.
+ Se desconoce si valsartán y/o amlodipino se excretan en la leche materna. Valsartán se excretó en la
+leche de ratas en periodo de lactancia. Debido a las reacciones adversas potenciales en lactantes, debe
+tomarse una decisión sobre si interrumpir la lactancia o el tratamiento, teniendo en cuenta la
+importancia de este tratamiento para la madre.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas. Al conducir
+vehículos o utilizar máquinas debe tenerse en cuenta que ocasionalmente pueden presentarse mareo o
+cansancio.
+ 4.8   Reacciones adversas
+ La seguridad de Dafiro ha sido evaluada en cinco ensayos clínicos controlados con 5.175 pacientes,
+2.613 de los cuales recibieron valsartán en combinación con amlodipino.
+ Las reacciones adversas se han clasificado en función de la frecuencia utilizando la siguiente
+convención: muy frecuentes (1/10); frecuentes (1/100, <1/10); poco frecuentes (1/1.000, <1/100);
+raras (1/10.000, <1/1.000), muy raras (<1/10.000), incluyendo casos aislados.
+ Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada intervalo
+frecuencia.
+  Trastornos cardiacos
+Poco frecuente:         Taquicardia, palpitaciones
+Rara:                   Síncope
+Trastornos del sistema nervioso
+Frecuente:              Cefalea
+Poco frecuente:         Mareo, somnolencia, mareo postural, parestesia
+Trastornos oculares
+Rara:                 Alteraciones visuales
+Trastornos del oído y del laberinto
+Poco frecuente:         Vértigo
+Rara:                   Tinnitus
+Trastornos respiratorios, torácicos y mediastínicos
+Poco frecuente:         Tos, dolor faringolaringeo
+Trastornos gastrointestinales
+Poco frecuente:         Diarrea, náuseas, dolor abdominal, estreñimiento, boca seca
+Trastornos renales y urinarios
+Rara:                 Polaquiuria, poliuria
+Trastornos de la piel y del tejido subcutáneo
+Poco frecuente:         Erupción, eritema
+Rara:                   Hiperhidrosis, exantema, prurito
+                                                    6
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Poco frecuente:       Inflamación de las articulaciones, lumbalgia, artralgia
+Rara:                 Espasmos musculares, sensación de pesadez
+Infecciones e infestaciones
+Frecuente:            Nasofaringitis, gripe
+Trastornos vasculares
+Poco frecuente:       Hipotensión ortostática
+Rara:                 Hipotensión
+Trastornos generales y alteraciones en el lugar de administración
+Frecuente:            Edema, edema depresible, edema facial, edema periférico, fatiga,
+Trastornos del sistema inmunológico
+Rara:                 Hipersensibilidad
+Trastornos del aparato reproductor y de la mama
+Rara:                 Disfunción eréctil
+Trastornos psiquiátricos
+Rara:                 Ansiedad
+ Información adicional sobre la combinación
+Se observó edema periférico, un efecto adverso conocido de amlodipino, generalmente con menor
+incidencia en los pacientes que recibieron la combinación amlodipino/valsartán que en aquellos que
+recibieron amlodipino solo. En ensayos clínicos doble ciego, controlados, la incidencia de edema
+periférico por dosis fue la siguiente:
+   % de pacientes que                   Valsartán (mg)
+experimentaron edema
+periférico                           0          40        80        160        320
+0                    3,0        5,5       2,4       1,6        0,9
+2,5                  8,0        2,3       5,4       2,4        3,9
+Amlodipino 5                         3,1        4,8       2,3       2,1        2,4
+(mg)            10                   10,3       NA        NA        9,0        9,5
+ La incidencia media de edema periférico uniformemente sopesada entre todas las dosis fue del 5,1%
+en la combinación amlodipino/valsartán.
+ Información adicional sobre los componentes individuales
+Las reacciones adversas previamente observadas para uno de los componentes individuales pueden ser
+reacciones adversas potenciales para Dafiro, incluso sin haberse observado en los ensayos clínicos del
+producto.
+ Amlodipino
+Otras reacciones adversas adicionales registradas en los ensayos clínicos con amlodipino en
+monoterapia, independientemente de su asociación causal con la medicación del estudio, fueron las
+siguientes:
+La reacción adversa más frecuentemente observada fue el vómito. Reacciones adversas observadas
+menos frecuentemente fueron alopecia, alteración de los hábitos intestinales, dispepsia, disnea, rinitis,
+gastritis, hiperplasia gingival, ginecomastia, hiperglucemia, impotencia, aumento de la frecuencia
+urinaria, leucopenia, malestar, cambios de humor, mialgia, neuropatía periférica, pancreatitis, hepatitis,
+trombocitopenia, vasculitis, angioedema y eritema multiforme. Pueden presentarse dolor anginoso,
+ictericia colestática, elevación de AST y ALT, púrpura, erupción y prurito.
+ Valsartán
+                                                    7
+Otras reacciones adversas adicionales observadas en los ensayos clínicos con valsartán en monoterapia
+en la indicación de hipertensión, independientemente de su asociación causal con la medicación del
+estudio, fueron las siguientes:
+Infecciones virales, infecciones de las vías respiratorias altas, sinusitis, rinitis, neutropenia, insomnio.
+Pueden presentarse alteración de la función renal, especialmente en pacientes tratados con diuréticos o
+pacientes con insuficiencia renal, angioedema e hipersensibilidad (vasculitis, enfermedad del suero).
+ 4.9   Sobredosis
+ Síntomas
+No hay experiencia de sobredosis con Dafiro. El principal síntoma de sobredosis con valsartán es
+posiblemente hipotensión pronunciada con mareo. La sobredosis con amlodipino puede dar lugar a
+una vasodilatación periférica excesiva y, posiblemente, taquicardia refleja. Se ha observado
+hipotensión sistémica marcada, y, probablemente, prolongada que puede llegar incluso al shock con un
+resultado fatal.
+ Tratamiento
+Si la ingestión es reciente, se puede considerar la inducción del vómito o el lavado gástrico. La
+administración de carbón activado a voluntarios sanos inmediatamente o hasta dos horas después de la
+ingestión de amlodipino ha mostrado disminuir de forma significativa la absorción de amlodipino. La
+hipotensión clínicamente significativa debida a una sobredosis de Dafiro exige apoyo cardiovascular
+activo, incluyendo controles frecuentes de las funciones cardiaca y respiratoria, elevación de las
+extremidades, y atención al volumen de líquido circulante y a la eliminación de orina. Puede ser útil
+un vasoconstrictor para restaurar el tono vascular y la presión arterial, dado que no hay
+contraindicación de uso. El gluconato de calcio intravenoso puede ser beneficioso para revertir los
+efectos del bloqueo de los canales de calcio.
+ Es poco probable que valsartán y amlodipino se eliminen mediante hemodiálisis.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antagonistas de la angiotensina II, solos (valsartán), combinaciones con
+derivados de la dihidropiridina (amlodipino), código ATC: C09DB01
+ Dafiro combina dos compuestos antihipertensivos con mecanismos complementarios para controlar la
+presión arterial en pacientes con hipertensión esencial: amlodipino pertenece al grupo de antagonistas
+del calcio y valsartán al grupo de antagonistas de la angiotensina II. La combinación de estas
+sustancias presenta un efecto antihipertensivo aditivo, reduciendo la presión arterial en mayor grado
+que cada uno de los componentes solo.
+ Amlodipino
+El componente amlodipino de Dafiro inhibe la entrada transmembrana de los iones de calcio en el
+músculo cardiaco y liso vascular. El mecanismo de la acción antihipertensiva de amlodipino se debe al
+efecto relajante directo sobre el músculo liso vascular, causando reducciones de la resistencia vascular
+periférica y de la presión arterial. Los datos experimentales sugieren que amlodipino se une a los
+lugares de unión tanto dihidropiridínicos como los no dihidropiridínicos. Los procesos de contracción
+del músculo cardiaco y del músculo liso vascular son dependientes del movimiento de los iones de
+calcio extracelulares hacia el interior de estas células a través de canales iónicos específicos.
+ Tras la administración de dosis terapéuticas a pacientes con hipertensión, amlodipino produce una
+vasodilatación, resultando en una reducción de las presiones arteriales en decúbito supino y
+bipedestación. Estas reducciones de la presión arterial no se acompañan en el tratamiento crónico de
+un cambio significativo de la frecuencia cardiaca o de los niveles de catecolamina plasmáticos.
+ Las concentraciones plasmáticas se correlacionan con el efecto tanto en pacientes jóvenes como de
+edad avanzada.
+ En pacientes hipertensos con la función renal normal, las dosis terapéuticas de amlodipino dieron
+lugar a un descenso de la resistencia vascular renal y a un aumento de la tasa de filtración glomerular y
+un flujo plasmático renal eficiente, sin modificar la tasa de filtración o la proteinuria.
+ Al igual que con otros bloqueadores de los canales de calcio, las mediciones hemodinámicas de la
+función cardiaca en reposo y durante el ejercicio (o marcha) en pacientes con la función ventricular
+normal tratados con amlodipino ha demostrado generalmente un pequeño aumento del índice cardiaco
+sin influencia significativa sobre la dP/dt o sobre la presión diastólica final en el ventrículo izquierdo o
+el volumen. En estudios hemodinámicos, amlodipino no se ha asociado con un efecto inotrópico
+negativo cuando se administró en el rango de dosis terapéutico a animales intactos y en humanos,
+incluso cuando se administró conjuntamente con betabloqueantes en humanos.
+ Amlodipino no modifica la función del nódulo sinoauricular o la conducción auriculoventricular en
+animales intactos o humanos. En ensayos clínicos en los que amlodipino se administró en combinación
+con betabloqueantes a pacientes con hipertensión o angina, no se observaron efectos adversos sobre
+los parámetros electrocardiográficos.
+ Valsartán
+Valsartán es un antagonista del receptor de la angiotensina II potente y específico activo por vía oral.
+Actúa selectivamente sobre el receptor subtipo AT1, responsable de la acciones conocidas de la
+angiotensina II. Los niveles plasmáticos elevados de angiotensina II tras un bloqueo del receptor AT1
+con valsartán pueden estimular al receptor subtipo AT2 sin bloquear, lo que parece contrarrestar el
+efecto del receptor AT1. Valsartán no muestra ninguna actividad agonista parcial sobre el receptor AT1
+y tiene una afinidad mucho mayor (aproximadamente 20.000 veces) por el receptor AT1 que por el
+receptor AT2.
+ Valsartán no inhibe la ECA, también conocida como quininasa II, que convierte la angiotensina I en
+angiontensina II y degrada la bradiquinina. Dado que no hay un efecto sobre la ECA y no se potencia
+la bradiquinina ni la sustancia P, es poco probable que los antagonistas de la angiotensina II se asocien
+con la tos. En los ensayos clínicos en que se comparó valsartán con un inhibidor de la ECA, la
+incidencia de tos seca fue significativamente inferior (p <0,05) en pacientes tratados con valsartán que
+en aquellos tratados con un inhibidor de la ECA (2,6% frente a 7,9%, respectivamente). En un ensayo
+clínico en pacientes con antecedentes de tos seca durante el tratamiento con un inhibidor de la ECA, el
+19,5% de los sujetos del ensayo que recibieron valsartán y el 19% de los que recibieron un diurético
+tiazídico experimentaron tos, en comparación con el 68,5% de aquellos tratados con un inhibidor de la
+ECA (p <0,05%). Valsartán no se une ni bloquea otros receptores hormonales ni canales iónicos
+conocidos por ser de importancia en la regulación cardiovascular.
+ La administración de valsartán en pacientes con hipertensión da lugar a una disminución de la presión
+arterial sin afectar a la frecuencia cardiaca.
+ En la mayoría de pacientes, después de la administración de una dosis oral única, se inicia la actividad
+antihipertensiva hacia las 2 horas, y la reducción máxima de la presión arterial se alcanza a las
+4-6 horas. El efecto antihipertensivo persiste durante 24 horas después de la administración. Cuando se
+administran dosis repetidas, la reducción máxima de la presión arterial a cualquier dosis suele
+alcanzarse en 2 a 4 semanas y se mantiene durante el tratamiento prolongado. La interrupción brusca
+de valsartán no se ha asociado con hipertensión de rebote ni con acontecimientos clínicos adversos.
+ Amlodipino/Valsartán
+Más de 1.400 pacientes hipertensos recibieron Dafiro una vez al día en dos ensayos controlados con
+placebo. Se incluyeron adultos con hipertensión esencial sin complicaciones de leve a moderada
+(presión arterial diastólica media en sedestación 95 y <110 mmHg). Los pacientes con riesgo
+cardiovascular elevado ­ insuficiencia cardiaca, tipo I y diabetes tipo II pobremente controlada y
+antecedentes de infarto de miocardio o accidente cerebrovascular en el último año ­ fueron excluidos.
+                                                      9
+La combinación de amlodipino y valsartán produce una reducción aditiva de la presión arterial dosis
+dependiente en todo su rango posológico. El efecto antihipertensivo de una sola dosis de la
+combinación persistió durante 24 horas.
+ Un ensayo multicéntrico, aleatorizado, doble ciego, controlado con activo, con un grupo paralelo,
+mostró la normalización de la presión arterial (presión arterial diastólica valle en sedestación
+<90 mmHg al final del ensayo) en pacientes no controlados adecuadamente con valsartán 160 mg, el
+75% de los pacientes tratados con amlodipino/valsartán 10 mg/160 mg y el 62% de los pacientes
+tratados con amlodipino/valsartán 5 mg/160 mg, en comparación con el 53% de los pacientes que
+continuaron con valsartán 160 mg. La adición de amlodipino 10 mg y 5 mg produjo una reducción
+adicional de la presión arterial sistólica/diastólica de 6,0/4,8 mmHg y 3,9/2,9 mmHg, respectivamente,
+en comparación con los pacientes que se mantuvieron solamente con valsartán 160 mg.
+ Un ensayo multicéntrico, aleatorizado, doble ciego, controlado con activo, con un grupo paralelo
+mostró la normalización de la presión arterial (presión arterial diastólica valle en sedestación
+<90 mmHg al final del ensayo) en pacientes no controlados adecuadamente con amlodipino 10 mg, el
+78% de los pacientes tratados con amlodipino/valsartán 10 mg/160 mg en comparación con el 67% de
+los pacientes que continuaron con amlodipino 10 mg. La adición de valsartán 160 mg produjo una
+reducción adicional de la presión arterial sistólica/diastólica de 2,9/2,1 mmHg en comparación con los
+pacientes que se mantuvieron solamente con amlodipino 10 mg.
+ Dafiro también se estudió en un ensayo controlado con activo de 130 pacientes hipertensos con
+presión diastólica 110 mmHg y <120 mmHg. En este estudio (presión arterial basal 171/113 mmHg),
+un régimen de Dafiro de 5 mg/160 mg titulado a 10 mg/160 mg redujo la presión arterial en
+sedestación en 36/29 mmHg en comparación con 32/28 mmHg con un régimen de
+lisinopril/hidroclorotiazida 10 mg/12,5 mg titulado a 20 mg/12,5 mg.
+ En dos ensayos de seguimiento a largo plazo el efecto de Dafiro se mantuvo durante más de un año.
+La retirada brusca de Dafiro no se ha asociado con una elevación rápida de la presión arterial.
+ En pacientes no controlados adecuadamente con amlodipino 5 mg, amlodipino/valsartán 5 mg/80 mg
+puede alcanzar un control de la presión arterial similar a amlodipino 10 mg con menos edema. En
+pacientes controlados adecuadamente con amlodipino 10 mg, pero que experimentaron un edema
+inaceptable, amlodipino/valsartán 5 mg/80 mg puede alcanzar un control de la presión arterial similar
+pero con menos edema. La edad, el sexo y la raza no influyeron en la respuesta a Dafiro.
+ No se ha estudiado Dafiro en ninguna población de pacientes diferente de la hipertensión. Se ha
+estudiado valsartán en pacientes con post infarto de miocardio e insuficiencia cardiaca. Se ha
+estudiado amlodipino en pacientes con angina estable crónica, angina vasoespástica y enfermedad
+arterial coronaria documentada angiográficamente.
+ 5.2   Propiedades farmacocinéticas
+ Linearidad
+Amlodipino y valsartán muestran una farmacocinética lineal.
+ Amlodipino
+Absorción: Después de la administración oral de dosis terapéuticas de amlodipino solo, las
+concentraciones plasmáticas máximas de amlodipino se alcanzan a las 6-12 horas. La
+biodisponibilidad absoluta se ha calculado entre el 64% y el 80%. La biodisponiblidad de amlodipino
+no se ve afectada por la ingestión de alimentos.
+ Distribución: El volumen de distribución es aproximadamente 21 l/kg. Los estudios in vitro con
+amlodipino han mostrado que en los pacientes hipertensos aproximadamente el 97,5% del fármaco
+circulante está unido a las proteínas plasmáticas.
+                                                  10
+Biotransformación: Amlodipino se metaboliza extensamente (aproximadamente un 90%) en el hígado
+a metabolitos inactivos.
+ Excreción: La eliminación de amlodipino del plasma es bifásica, con una semivida de eliminación
+terminal de aproximadamente 30 a 50 horas. Los niveles plasmáticos en el estado estacionario se
+alcanzan después de la administración continua durante 7-8 días. El diez por ciento del amlodipino
+original y el 60% de los metabolitos de amlodipino se excreta en la orina.
+ Valsartán
+Absorción: Después de la administración oral de valsartán solo, las concentraciones plasmáticas
+máximas de valsartán se alcanzan a las 2-4 horas. La biodisponibilidad media absoluta es del 23%.
+Valsartán muestra una cinética de eliminación multiexponencial (t½ <1 h y t½ß aproximadamente 9 h).
+Los alimentos disminuyen la exposición (medida como AUC) a valsartán en aproximadamente un
+40% y la concentración plasmática máxima (Cmax) en aproximadamente un 50%, a pesar de que desde
+unas 8 h después de la dosificación las concentraciones plasmáticas de valsartán son similares para los
+grupos que han tomado alimento y los que están en ayunas. No obstante, la reducción del AUC no se
+acompaña de una reducción clínicamente significativa del efecto terapéutico, y por ello valsartán
+puede administrarse tanto con o sin alimentos.
+ Distribución: El volumen de distribución de valsartán en el estado estacionario tras una administración
+intravenosa es aproximadamente 17 litros, lo que indica que valsartán no se distribuye extensamente
+en los tejidos. Valsartán se une en una elevada proporción a las proteínas séricas (94-97%),
+principalmente a la albúmina sérica.
+ Biotransformación: Valsartán no se transforma extensamente ya que sólo se recupera en forma de
+metabolitos aproximadamente un 20% de la dosis. Se ha identificado en el plasma un hidroxi
+metabolito a concentraciones bajas (menos del 10% del AUC de valsartán). Este metabolito es
+farmacológicamente inactivo.
+ Excreción: Valsartán se elimina primariamente por las heces (aproximadamente un 83% de la dosis) y
+por la orina (aproximadamente un 13% de la dosis), principalmente como fármaco inalterado. Después
+de una administración intravenosa, el aclaramiento plasmático de valsartán es aproximadamente de
+2 l/h y su aclaramiento renal es de 0,62 l/h (aproximadamente un 30% del aclaramiento total). La
+semivida de valsartán es de 6 horas.
+ Amlodipino/Valsartán
+Después de la administración oral de Dafiro, se alcanzan las concentraciones plasmáticas de valsartán
+y amlodipino en 3 y 6-8 horas, respectivamente. La tasa y la extensión de la absorción de Dafiro son
+equivalentes a la biodisponibilidad de valsartán y amlodipino cuando se administran en comprimidos
+individuales.
+ Poblaciones especiales
+Pacientes pediátricos (menores de 18 años)
+No se dispone de datos farmacocinéticas en población pediátrica.
+ Pacientes de edad avanzada (65 años o mayores)
+El tiempo hasta las concentraciones plasmáticas máximas de amlodipino es similar en los pacientes
+jóvenes y de edad avanzada. En pacientes de edad avanzada, el aclaramiento de amlodipino tiende a
+declinar, causando aumentos en el área bajo la curva (AUC) y en la semivida de eliminación. El AUC
+sistémico medio de valsartán es superior en un 70% en los pacientes de edad avanzada en comparación
+con los jóvenes, por ello se requiere precaución al aumentar la dosis.
+ Alteración renal
+La farmacocinética de amlodipino no se afecta significativamente por una insuficiencia renal. Como se
+espera de un compuesto cuyo aclaramiento renal es solamente del 30% del aclaramiento plasmático
+ total, no se ha observado ninguna correlación entre la función renal y la exposición sistémica a
+valsartán.
+ Alteración hepática
+Los pacientes con insuficiencia hepática presentan una disminución del aclaramiento de amlodipino, lo
+que resulta en un aumento de aproximadamente un 40-60% del AUC. En promedio, la exposición a
+valsartán en pacientes con enfermedad hepática crónica de leve a moderada (medida mediante los
+valores de AUC) es el doble que la hallada en voluntarios sanos (comparados por edad, sexo y peso).
+Debe tenerse precaución en los pacientes con enfermedad hepática (ver apartado 4.2).
+ 5.3   Datos preclínicos sobre seguridad
+ Las reacciones adversas con posible relevancia clínica observadas en los estudios con animales fueron
+las siguientes:
+Se observaron signos histopatológicos de inflamación del estómago glandular en ratas macho a una
+exposición de aproximadamente 1,9 (valsartán) y 2,6 (amlodipino) veces las dosis clínicas de 160 mg
+de valsartán y 10 mg de amlodipino. A exposiciones más elevadas, se observó ulceración y erosión de
+la mucosa estomacal tanto en hembras como en machos. También se observaron cambios similares en
+el grupo con valsartán solo (exposición 8,5-11,0 veces la dosis clínica de 160 mg de valsartán).
+ A una exposición de 8-13 (valsartán) y 7-8 (amlodipino) veces las dosis clínicas de 160 mg de
+valsartán y 10 mg de amlodipino se encontraron una incidencia y una gravedad aumentadas de
+basofilia/hialinización del túbulo renal, dilatación y forma, así como inflamación linfocítica
+instersticial e hipertrofia medial arteriolar. Se hallaron cambios similares en el grupo con valsartán
+solo (exposición 8,5-11,0 veces la dosis clínica de 160 mg de valsartán.
+ En un estudio de desarrollo embrio-fetal en ratas, se observaron incidencias aumentadas de uréteres
+dilatados, malformaciones del esternón y falanges sin osificación en las patas delanteras a
+exposiciones de aproximadamente 12 (valsartán) y 10 (amlodipino) veces las dosis clínicas de 160 mg
+de valsartán y 10 mg de amlodipino. También se encontraron uréteres dilatados en el grupo con
+valsartán solo (exposición 12 veces la dosis clínica de 160 mg de valsartán). En este estudio solamente
+se observaron signos modestos de toxicidad materna (reducción moderada del peso corporal). El nivel
+de efecto no observado para los efectos de desarrollo se observó a 3 (valsartán) y 4 (amlodipino) veces
+la exposición clínica (basada en el AUC).
+ Para los compuestos por separado no hubo evidencia de mutagenicidad, clastogenicidad o
+carcinogénesis.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo del comprimido:
+Celulosa microcristalina
+Crospovidona Tipo A
+Sílice coloidal anhidra
+Estearato de magnesio
+ Recubrimiento:
+Hipromelosa
+Dióxido de titanio (E171)
+Amarillo óxido de hierro (E172)
+Macrogol 4000
+Talco
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 30 meses
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30°C.
+ Conservar en el embalaje original para protegerlo de la humedad.
+ 6.5   Naturaleza y contenido del envase
+ Blisters de PVC/PVDC. Un blister contiene 7, 10 ó 14 comprimidos recubiertos con película.
+ Tamaños de envase: 7, 14, 28, 30, 56, 90, 98 ó 280 comprimidos recubiertos con película.
+ Blister precortado unidosis de PVC/PVDC. Un blister contiene 7, 10 ó 14 comprimidos recubiertos
+con película.
+ Tamaños de envase: 56, 98 ó 280 comprimidos recubiertos con película y envases múltiples con
+280 (4x70) comprimidos recubiertos con película.
+ Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación y otras manipulaciones
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Novartis Europharm Limited
+Wimblehurst Road
+Horsham
+West Sussex, RH12 5AB
+Reino Unido
+ 8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/06/371/001
+EU/1/06/371/002
+EU/1/06/371/003
+EU/1/06/371/004
+EU/1/06/371/005
+EU/1/06/371/006
+EU/1/06/371/007
+EU/1/06/371/008
+EU/1/06/371/025
+EU/1/06/371/026
+EU/1/06/371/027
+EU/1/06/371/034
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ 16.01.2007
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Dafiro 5 mg/160 mg comprimidos recubiertos con película
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido recubierto con película contiene 5 mg de amlodipino (como amlodipino besilato) y
+160 mg de valsartán.
+ Para la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimido recubierto con película
+ Comprimido recubierto con película ovalado, amarillo oscuro, con la impresión «NVR» en una cara y
+«ECE» en la otra cara.
+ 
+4.    DATOS CLÍNICOS
+	"4.1   Indicaciones terapéuticas
+ Tratamiento de la hipertensión esencial.
+ Dafiro está indicado en pacientes cuya presión arterial no se controla adecuadamente con amlodipino o
+valsartán en monoterapia.
+ 4.2   Posología y forma de administración
+ La dosis recomendada de Dafiro es un comprimido al día.
+ Dafiro 5 mg/160 mg puede administrarse en pacientes cuya presión arterial no se controla
+adecuadamente con amlodipino 5 mg o valsartán 160 mg solos.
+ Dafiro puede administrarse con o sin alimentos. Se recomienda tomar Dafiro con un poco de agua.
+ Se recomienda la titulación de la dosis individual con los componentes (es decir, amlodipino y
+valsartán) antes de cambiar a la combinación a dosis fija. Cuando sea clínicamente adecuado, se puede
+considerar el cambio directo desde la monoterapia a la combinación a dosis fija.
+ Por conveniencia, se puede pasar a los pacientes que están recibiendo valsartán y amlodipino en
+comprimidos/cápsulas separados a Dafiro que contenga la misma dosis de los componentes.
+ Alteración renal
+No se requiere un ajuste posológico en los pacientes con insuficiencia renal de leve a moderada. Se
+recomienda controlar los niveles de potasio y la creatinina en insuficiencia renal moderada.
+ Alteración hepática
+Debe tenerse precaución cuando se administre Dafiro a pacientes con insuficiencia hepática o
+trastornos biliares obstructivos (ver apartado 4.4). En pacientes con insuficiencia hepática de leve a
+moderada sin colestasis, la dosis máxima recomendada es 80 mg de valsartán.
+ Pacientes de edad avanzada (65 años o mayores)
+En pacientes de edad avanzada se recomienda precaución al aumentar la dosis.
+Niños y adolescentes
+Dafiro no está recomendado para uso en pacientes menores de 18 años debido a la ausencia de datos
+sobre seguridad y eficacia.
+ 4.3   Contraindicaciones
+ Hipersensibilidad a los principios activos, a derivados dihidropiridínicos o a alguno de los excipientes.
+Insuficiencia hepática grave, cirrosis biliar o colestasis.
+Insuficiencia renal grave (TFG <30 ml/min./1,73 m2) y pacientes sometidos a diálisis.
+Segundo y tercer trimestre del embarazo (ver apartado 4.4 y 4.6).
+ 4.4   Advertencias y precauciones especiales de empleo
+ Embarazo
+No se debe iniciar ningún tratamiento con Antagonistas de los Receptores de la Angiotensina II
+(ARAII) durante el embarazo. Salvo que se considere esencial continuar el tratamiento con ARAII, las
+pacientes que estén planeando quedarse embarazadas deberán cambiar a un tratamiento
+antihipertensivo alternativo que tenga un perfil de seguridad conocido para su uso durante el
+embarazo. Cuando se diagnostique un embarazo, deberá interrumpirse inmediatamente el tratamiento
+con ARAII, y si procede, iniciar un tratamiento alternativo (ver secciones 4.3 y 4.6).
+ Pacientes con depleción de sodio y/o de volumen
+En estudios controlados con placebo se observó una hipotensión excesiva en el 0,4% de los pacientes
+con hipertensión sin complicaciones tratados con Dafiro. Puede presentarse hipotensión sintomática en
+los pacientes con un sistema renina-angiotensina activado (tales como los pacientes con depleción de
+volumen y/o sal que reciben dosis elevadas de diuréticos) que están recibiendo bloqueadores del
+receptor de la angiotensina. Es necesario corregir esta condición antes de la administración de Dafiro o
+se recomienda supervisión médica al inicio del tratamiento.
+ Si se presenta hipotensión con Dafiro, debe colocarse al paciente en posición de decúbito supino y, si
+es necesario, administrar una perfusión intravenosa de solución fisiológica salina. Una vez la presión
+arterial haya sido estabilizada, el tratamiento puede continuarse.
+ Hiperpotasemia
+El uso concomitante de suplementos de potasio, diuréticos ahorradores de potasio, sustitutos de la sal
+que contengan potasio u con otros medicamentos que puedan aumentar los niveles de potasio (heparina,
+etc.), debe llevarse a cabo con precaución y con controles frecuentes de los niveles de potasio.
+ Estenosis de la arteria renal
+No se dispone de datos sobre el uso de Dafiro en pacientes con estenosis bilateral de la arteria renal o
+estenosis en pacientes con un único riñón.
+ Trasplante renal
+Actualmente no existe experiencia en el uso seguro de Dafiro en pacientes que hayan sufrido
+recientemente un trasplante renal.
+ Alteración hepática
+Valsartán se elimina principalmente inalterado a través de la bilis, mientras que amlodipino se
+metaboliza extensamente en el hígado. Debe tenerse especial precaución cuando se administre Dafiro a
+pacientes con insuficiencia hepática de leve a moderada o trastornos biliares obstructivos.
+ En pacientes con insuficiencia hepática de leve a moderada sin colestasis, la dosis máxima
+recomendada de valsartán es 80 mg.
+ Alteración renal
+ No es necesario ajustar la posología de Dafiro en los pacientes con insuficiencia renal de leve a
+moderada (GFR >30 ml/min./1,73 m2). Se recomienda controlar los niveles de potasio y la creatinina
+en insuficiencia renal moderada.
+ Hiperaldosteronismo primario
+Los pacientes con hiperaldosteronismo primario no deben ser tratados con el antagonista de la
+angiotensina II valsartán ya que el sistema renina-angiotensina está alterado por la enfermedad
+primaria.
+ Insuficiencia cardiaca
+En pacientes susceptibles, pueden anticiparse cambios en la función renal como consecuencia de la
+inhibición del sistema renina-angiotensina-aldosterona. En pacientes con insuficiencia cardiaca grave
+cuya función renal pueda depender de la actividad del sistema renina-angiotensina-aldosterona, se
+asocia el tratamiento con inhibidores de la enzima de conversión de la angiotensina (ECA) y
+antagonistas del receptor de la angiotensina con oliguria y/o azotemia progresiva y (en raras
+ocasiones) con insuficiencia renal aguda y/o muerte. Con valsartán se han registrado resultados
+similares.
+ En el estudio a largo plazo, controlado con placebo de amlodipino (PRAISE-2) en pacientes con
+insuficiencia cardiaca de las clases III y IV de la NYHA (New York Heart Association Classification)
+de etiología no isquémica, se asoció amlodipino con un aumento de casos de edema pulmonar a pesar
+de que no hubo diferencia significativa en la incidencia de empeoramiento de la insuficiencia cardiaca
+en comparación con placebo.
+ Estenosis valvular aórtica y mitral, cardiomiopatía hipertrófica obstructiva
+Como con todos los vasodilatadores, se recomienda especial precaución en pacientes con estenosis
+aórtica o mitral, o con cardiomiopatía hipertrófica obstructiva.
+ No se ha estudiado Dafiro en ninguna población de pacientes diferente de la hipertensión.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ Interacciones ligadas a amlodipino
+Se requiere precaución en el uso concomitante
+Inhibidores CYP3A4
+Un estudio en pacientes de edad avanzada ha mostrado que diltiazem inhibe el metabolismo de
+amlodipino, probablemente vía CYP3A4 (la concentración plasmática aumenta en aproximadamente
+un 50% y aumenta el efecto de amlodipino). No se puede excluir la posibilidad de que inhibidores más
+potentes de CYP3A4 (es decir, ketoconazol, itraconazol, ritonavir) puedan aumentar la concentración
+plasmática de amlodipino en mayor medida que diltiazem.
+ Inductores CYP3A4 (agentes anticonvulsivos [p. ej. carbamacepina, fenobarbital, fenitoína,
+fosfenitoína, primidona], rifampicina, Hypericum perforatum)
+La administración conjunta puede dar lugar a concentraciones plasmáticas menores de amlodipino.
+Está indicado un control clínico, con un posible ajuste posológico de amlodipino durante el
+tratamiento con el inductor y después de su retirada.
+ A tener en cuenta en el uso concomitante
+Otros
+En monoterapia, se ha administrado de forma segura amlodipino con diuréticos tiazídicos,
+betabloqueantes, inhibidores de la ECA, nitratos de larga duración, nitroglicerina sublingual, digoxina,
+warfarina, atorvastatina, sildenafilo, medicamentos antiácidos (gel de hidróxido de aluminio,
+hidróxido de magnesio, simeticona), cimetidina, medicamentos antiinflamatorios no esteroideos,
+antibioticos y medicamentos hipoglicemiantes orales.
+ Interacciones ligadas a valsartán
+No se recomienda el uso concomitante
+                                                   17
+Litio
+Durante el uso concomitante de inhibidores de la ECA se han registrado aumentos reversibles de las
+concentraciones séricas de litio y de la toxicidad. A pesar de la ausencia de experiencia en el uso
+concomitante de valsartán y litio, no se recomienda esta combinación. Si la combinación resulta
+necesaria, se recomienda un control exhaustivo de los niveles séricos de litio (ver apartado 4.4).
+ Diuréticos ahorradores de potasio, suplementos de potasio, sustitutos de la sal que contengan potasio
+y otras sustancias que puedan aumentar los niveles de potasio
+Se recomienda controlar los niveles plasmáticos de potasio si se prescribe un medicamento que afecte
+los niveles de potasio en combinación con valsartán.
+ Se requiere precaución en el uso concomitante
+Medicamentos antiinflamatorios no esteroideos (AINEs), incluyendo inhibidores selectivos COX-2,
+ácido acetilsalicílico (>3 g/día), y AINEs no selectivos
+Cuando se administran antagonistas de la angiotensina II simultáneamente con AINEs puede
+presentarse una atenuación del efecto antihipertensivo. Además, el uso concomitante de antagonistas
+de la angiotensina II con AINEs puede producir un mayor riesgo de empeoramiento de la función
+renal y un aumento del potasio sérico. Por ello, se recomienda un control de la función renal al inicio
+del tratamiento, así como una hidratación adecuada del paciente.
+ Otros
+No se han hallado interacciones clinicamente significativas durante el tratamiento en monoterapia de
+valsartán con las siguientes sustancias: cimetidina, warfarina, furosemida, digoxina, atenolol,
+indometacina, hidroclorotiazida, amlodipino, glibenclamida.
+ Interacciones frecuentes con la combinación
+No se han realizado estudios de interacción entre Dafiro y con otros medicamentos.
+ A tener en cuenta en el uso concomitante
+Otros agentes antihipertensivos
+Los agentes antihipertensivos utilizados frecuentemente (p. ej. alfabloqueantes, diuréticos) y con otros medicamentos que pueden causar efectos adversos hipotensores (p. ej. antidepresivos tricíclicos,
+alfabloqueantes para el tratamiento de la hiperplasia prostática benigna) pueden aumentar el efecto
+antihipertensivo de la combinación.
+ 4.6   Embarazo y lactancia
+ No se recomienda el uso de Antagonistas de los Receptores de la Angiotensina II (ARAII) durante el
+primer trimestre del embarazo (ver apartado 4.4). Está contraindicado el uso de ARAII durante el
+segundo y tercer trimestre del embarazo (ver secciones 4.3 y 4.4).
+ La evidencia epidemiológica sobre el riesgo de teratogenicidad tras la exposición a inhibidores de la
+ECA durante el primer trimestre de embarazo no ha sido concluyente; sin embargo, no se puede
+excluir un pequeño aumento del riesgo. Aunque no hay datos epidemiológicos específicos sobre el
+riesgo que conlleva la administración de Antagonistas de los Receptores de la Angiotensina II
+(ARAII) durante el embarazo, pueden existir riesgos similares para esta clase de medicamentos. Salvo
+que se considere esencial continuar el tratamiento con ARAII, las pacientes que estén planeando
+quedarse embarazadas deben cambiar a un tratamiento antihipertensivo alternativo que tenga un perfil
+de seguridad conocido para su uso durante el embarazo. Cuando se diagnostique un embarazo, deberá
+interrumpirse inmediatamente el tratamiento con ARAII y, si procede, iniciar un tratamiento
+alternativo.
+ Se sabe que la exposición a ARAII durante el segundo y el tercer trimestre induce fetotoxicidad
+humana (disminución de la función renal, oligohidramnios, retraso de la osificación craneal) y
+toxicidad neonatal (fallo renal, hipotensión, hiperpotasemia) (ver también sección 5.3. ""Datos
+preclínicos sobre seguridad"").
+                                                   18
+Si se produce una exposición a ARAII a partir del segundo trimestre del embarazo, se recomienda
+realizar una prueba de ultrasonidos de la función renal y del cráneo.
+ Los lactantes cuyas madres hayan sido tratadas con ARAII deberán ser cuidadosamente monitorizados
+por si se produce hipotensión (ver secciones 4.3 y 4.4).
+ No hay experiencia de uso de Dafiro en mujeres embarazadas. Los estudios en animales indican que
+valsartán/amlodipino presenta una toxicidad reproductiva de acuerdo con lo descrito para valsartán y
+otros antagonistas de la angiotensina II (ver apartado 5.3). Los datos obtenidos de un número limitado
+de embarazos expuestos, no indican efectos adversos de amlodipino ni otros antagonistas del receptor
+del calcio sobre la salud del feto. Sin embargo, puede existir riesgo de parto prolongado.
+ Se desconoce si valsartán y/o amlodipino se excretan en la leche materna. Valsartán se excretó en la
+leche de ratas en periodo de lactancia Debido a las reacciones adversas potenciales en lactantes, debe
+tomarse una decisión sobre si interrumpir la lactancia o el tratamiento, teniendo en cuenta la
+importancia de este tratamiento para la madre.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas. Al conducir
+vehículos o utilizar máquinas debe tenerse en cuenta que ocasionalmente pueden presentarse mareo o
+cansancio.
+ 4.8   Reacciones adversas
+ La seguridad de Dafiro ha sido evaluada en cinco ensayos clínicos controlados con 5.175 pacientes,
+2.613 de los cuales recibieron valsartán en combinación con amlodipino.
+ Las reacciones adversas se han clasificado en función de la frecuencia utilizando la siguiente
+convención: muy frecuentes (1/10); frecuentes (1/100, <1/10); poco frecuentes (1/1.000, <1/100);
+raras (1/10.000, <1/1.000), muy raras (<1/10.000), incluyendo casos aislados.
+ Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada intervalo
+frecuencia.
+  Trastornos cardiacos
+Poco frecuente:         Taquicardia, palpitaciones
+Rara:                   Síncope
+Trastornos del sistema nervioso
+Frecuente:              Cefalea
+Poco frecuente:         Mareo, somnolencia, mareo postural, parestesia
+Trastornos oculares
+Rara:                 Alteraciones visuales
+Trastornos del oído y del laberinto
+Poco frecuente:         Vértigo
+Rara:                   Tinnitus
+Trastornos respiratorios, torácicos y mediastínicos
+Poco frecuente:         Tos, dolor faringolaringeo
+Trastornos gastrointestinales
+Poco frecuente:         Diarrea, náuseas, dolor abdominal, estreñimiento, boca seca
+Trastornos renales y urinarios
+Rara:                 Polaquiuria, poliuria
+Trastornos de la piel y del tejido subcutáneo
+Poco frecuente:         Erupción, eritema
+Rara:                   Hiperhidrosis, exantema, prurito
+                                                   19
+Trastornos musculoesqueléticos y del tejido conjuntivo
+Poco frecuente:       Inflamación de las articulaciones, lumbalgia, artralgia
+Rara:                 Espasmos musculares, sensación de pesadez
+Infecciones e infestaciones
+Frecuente:            Nasofaringitis, gripe
+Trastornos vasculares
+Poco frecuente:       Hipotensión ortostática
+Rara:                 Hipotensión
+Trastornos generales y alteraciones en el lugar de administración
+Frecuente:            Edema, edema depresible, edema facial, edema periférico, fatiga,
+Trastornos del sistema inmunológico
+Rara:                 Hipersensibilidad
+Trastornos del aparato reproductor y de la mama
+Rara:                 Disfunción eréctil
+Trastornos psiquiátricos
+Rara:                 Ansiedad
+ Información adicional sobre la combinación
+Se observó edema periférico, un efecto adverso conocido de amlodipino, generalmente con menor
+incidencia en los pacientes que recibieron la combinación amlodipino/valsartán que en aquellos que
+recibieron amlodipino solo. En ensayos clínicos doble ciego, controlados, la incidencia de edema
+periférico por dosis fue la siguiente:
+   % de pacientes que                   Valsartán (mg)
+experimentaron edema
+periférico                           0          40        80        160        320
+0                    3,0        5,5       2,4       1,6        0,9
+2,5                  8,0        2,3       5,4       2,4        3,9
+Amlodipino 5                         3,1        4,8       2,3       2,1        2,4
+(mg)            10                   10,3       NA        NA        9,0        9,5
+ La incidencia media de edema periférico uniformemente sopesada entre todas las dosis fue del 5,1%
+en la combinación amlodipino/valsartán.
+ Información adicional sobre los componentes individuales
+Las reacciones adversas previamente observadas para uno de los componentes individuales pueden ser
+reacciones adversas potenciales para Dafiro, incluso sin haberse observado en los ensayos clínicos del
+producto.
+ Amlodipino
+Otras reacciones adversas adicionales registradas en los ensayos clínicos con amlodipino en
+monoterapia, independientemente de su asociación causal con la medicación del estudio, fueron las
+siguientes:
+La reacción adversa más frecuentemente observada fue el vómito. Reacciones adversas observadas
+menos frecuentemente fueron alopecia, alteración de los hábitos intestinales, dispepsia, disnea, rinitis,
+gastritis, hiperplasia gingival, ginecomastia, hiperglucemia, impotencia, aumento de la frecuencia
+urinaria, leucopenia, malestar, cambios de humor, mialgia, neuropatía periférica, pancreatitis, hepatitis,
+trombocitopenia, vasculitis, angioedema y eritema multiforme. Pueden presentarse dolor anginoso,
+ictericia colestática, elevación de AST y ALT, púrpura, erupción y prurito.
+ Valsartán
+                                                    20
+Otras reacciones adversas adicionales observadas en los ensayos clínicos con valsartán en monoterapia
+en la indicación de hipertensión, independientemente de su asociación causal con la medicación del
+estudio, fueron las siguientes:
+Infecciones virales, infecciones de las vías respiratorias altas, sinusitis, rinitis, neutropenia, insomnio.
+Pueden presentarse alteración de la función renal, especialmente en pacientes tratados con diuréticos o
+pacientes con insuficiencia renal, angioedema e hipersensibilidad (vasculitis, enfermedad del suero).
+ 4.9   Sobredosis
+ Síntomas
+No hay experiencia de sobredosis con Dafiro. El principal síntoma de sobredosis con valsartán es
+posiblemente hipotensión pronunciada con mareo. La sobredosis con amlodipino puede dar lugar a
+una vasodilatación periférica excesiva y, posiblemente, taquicardia refleja. Se ha observado
+hipotensión sistémica marcada, y, probablemente, prolongada que puede llegar incluso al shock con un
+resultado fatal.
+ Tratamiento
+Si la ingestión es reciente, se puede considerar la inducción del vómito o el lavado gástrico. La
+administración de carbón activado a voluntarios sanos inmediatamente o hasta dos horas después de la
+ingestión de amlodipino ha mostrado disminuir de forma significativa la absorción de amlodipino. La
+hipotensión clínicamente significativa debida a una sobredosis de Dafiro exige apoyo cardiovascular
+activo, incluyendo controles frecuentes de las funciones cardiaca y respiratoria, elevación de las
+extremidades, y atención al volumen de líquido circulante y a la eliminación de orina. Puede ser útil
+un vasoconstrictor para restaurar el tono vascular y la presión arterial, dado que no hay
+contraindicación de uso. El gluconato de calcio intravenoso puede ser beneficioso para revertir los
+efectos del bloqueo de los canales de calcio.
+ Es poco probable que valsartán y amlodipino se eliminen mediante hemodiálisis.
+ "
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antagonistas de la angiotensina II, solos (valsartán), combinaciones con
+derivados de la dihidropiridina (amlodipino), código ATC: C09DB01
+ Dafiro combina dos compuestos antihipertensivos con mecanismos complementarios para controlar la
+presión arterial en pacientes con hipertensión esencial: amlodipino pertenece al grupo de antagonistas
+del calcio y valsartán al grupo de antagonistas de la angiotensina II. La combinación de estas
+sustancias presenta un efecto antihipertensivo aditivo, reduciendo la presión arterial en mayor grado
+que cada uno de los componentes solo.
+ Amlodipino
+El componente amlodipino de Dafiro inhibe la entrada transmembrana de los iones de calcio en el
+músculo cardiaco y liso vascular. El mecanismo de la acción antihipertensiva de amlodipino se debe al
+efecto relajante directo sobre el músculo liso vascular, causando reducciones de la resistencia vascular
+periférica y de la presión arterial. Los datos experimentales sugieren que amlodipino se une a los
+lugares de unión tanto dihidropiridínicos como los no dihidropiridínicos. Los procesos de contracción
+del músculo cardiaco y del músculo liso vascular son dependientes del movimiento de los iones de
+calcio extracelulares hacia el interior de estas células a través de canales iónicos específicos.
+ Tras la administración de dosis terapéuticas a pacientes con hipertensión, amlodipino produce una
+vasodilatación, resultando en una reducción de las presiones arteriales en decúbito supino y
+bipedestación. Estas reducciones de la presión arterial no se acompañan en el tratamiento crónico de
+un cambio significativo de la frecuencia cardiaca o de los niveles de catecolamina plasmáticos.
+ Las concentraciones plasmáticas se correlacionan con el efecto tanto en pacientes jóvenes como de
+edad avanzada.
+ En pacientes hipertensos con la función renal normal, las dosis terapéuticas de amlodipino dieron
+lugar a un descenso de la resistencia vascular renal y a un aumento de la tasa de filtración glomerular y
+un flujo plasmático renal eficiente, sin modificar la tasa de filtración o la proteinuria.
+ Al igual que con otros bloqueadores de los canales de calcio, las mediciones hemodinámicas de la
+función cardiaca en reposo y durante el ejercicio (o marcha) en pacientes con la función ventricular
+normal tratados con amlodipino ha demostrado generalmente un pequeño aumento del índice cardiaco
+sin influencia significativa sobre la dP/dt o sobre la presión diastólica final en el ventrículo izquierdo o
+el volumen. En estudios hemodinámicos, amlodipino no se ha asociado con un efecto inotrópico
+negativo cuando se administró en el rango de dosis terapéutico a animales intactos y en humanos,
+incluso cuando se administró conjuntamente con betabloqueantes en humanos.
+ Amlodipino no modifica la función del nódulo sinoauricular o la conducción auriculoventricular en
+animales intactos o humanos. En ensayos clínicos en los que amlodipino se administró en combinación
+con betabloqueantes a pacientes con hipertensión o angina, no se observaron efectos adversos sobre
+los parámetros electrocardiográficos.
+ Valsartán
+Valsartán es un antagonista del receptor de la angiotensina II potente y específico activo por vía oral.
+Actúa selectivamente sobre el receptor subtipo AT1, responsable de la acciones conocidas de la
+angiotensina II. Los niveles plasmáticos elevados de angiotensina II tras un bloqueo del receptor AT1
+con valsartán pueden estimular al receptor subtipo AT2 sin bloquear, lo que parece contrarrestar el
+efecto del receptor AT1. Valsartán no muestra ninguna actividad agonista parcial sobre el receptor AT1
+y tiene una afinidad mucho mayor (aproximadamente 20.000 veces) por el receptor AT1 que por el
+receptor AT2.
+ Valsartán no inhibe la ECA, también conocida como quininasa II, que convierte la angiotensina I en
+angiontensina II y degrada la bradiquinina. Dado que no hay un efecto sobre la ECA y no se potencia
+la bradiquinina ni la sustancia P, es poco probable que los antagonistas de la angiotensina II se asocien
+con la tos. En los ensayos clínicos en que se comparó valsartán con un inhibidor de la ECA, la
+incidencia de tos seca fue significativamente inferior (p <0,05) en pacientes tratados con valsartán que
+en aquellos tratados con un inhibidor de la ECA (2,6% frente a 7,9%, respectivamente). En un ensayo
+clínico en pacientes con antecedentes de tos seca durante el tratamiento con un inhibidor de la ECA, el
+19,5% de los sujetos del ensayo que recibieron valsartán y el 19% de los que recibieron un diurético
+tiazídico experimentaron tos, en comparación con el 68,5% de aquellos tratados con un inhibidor de la
+ECA (p <0,05%). Valsartán no se une ni bloquea otros receptores hormonales ni canales iónicos
+conocidos por ser de importancia en la regulación cardiovascular.
+ La administración de valsartán en pacientes con hipertensión da lugar a una disminución de la presión
+arterial sin afectar a la frecuencia cardiaca.
+ En la mayoría de pacientes, después de la administración de una dosis oral única, se inicia la actividad
+antihipertensiva hacia las 2 horas, y la reducción máxima de la presión arterial se alcanza a las
+4-6 horas. El efecto antihipertensivo persiste durante 24 horas después de la administración. Cuando se
+administran dosis repetidas, la reducción máxima de la presión arterial a cualquier dosis suele
+alcanzarse en 2 a 4 semanas y se mantiene durante el tratamiento prolongado. La interrupción brusca
+de valsartán no se ha asociado con hipertensión de rebote ni con acontecimientos clínicos adversos.
+ Amlodipino/Valsartán
+Más de 1.400 pacientes hipertensos recibieron Dafiro una vez al día en dos ensayos controlados con
+placebo. Se incluyeron adultos con hipertensión esencial sin complicaciones de leve a moderada
+(presión arterial diastólica media en sedestación 95 y <110 mmHg). Los pacientes con riesgo
+cardiovascular elevado ­ insuficiencia cardiaca, tipo I y diabetes tipo II pobremente controlada y
+antecedentes de infarto de miocardio o accidente cerebrovascular en el último año ­ fueron excluidos.
+                                                     22
+La combinación de amlodipino y valsartán produce una reducción aditiva de la presión arterial dosis
+dependiente en todo su rango posológico. El efe
+ 
+	Prospectos de medicamentos.

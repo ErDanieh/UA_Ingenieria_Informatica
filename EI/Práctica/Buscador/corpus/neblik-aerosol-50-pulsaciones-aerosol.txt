@@ -1,0 +1,198 @@
+NEBLIK  AEROSOL, 50 PULSACIONES AEROSOL
+	Información Basica del medicamento Toda la información del medicamento 
+4.       DATOS CLÍNICOS
+	"       inhalados u orales), no deberá modificarse al introducir Neblik, incluso aunque mejoren los
+síntomas.
+La persistencia de síntomas o la necesidad de aumentar la dosis de Neblik para controlarlos
+suelen ser indicativos de un empeoramiento de la afección subyacente y justifica un
+replanteamiento de la terapia.
+Se han comunicado casos mortales con el uso excesivo de preparados aerosoles que
+contenían estimulantes ß-adrenérgicos, aunque se desconoce su causa exacta. En varios
+casos se registró paro cardíaco. Por este motivo se hará saber al paciente la importancia de
+seguir estrictamente las recomendaciones posológicas, sin sobrepasar la dosis máxima
+tolerada.
+Los pacientes que reciban formoterol serán vigilados estrechamente, sobre todo en lo
+relativo al rango de dosis, en los siguientes casos (véase también ""Contraindicaciones""):
+- Cardiopatía isquémica
+- Infarto de miocardio
+- Hipertensión grave
+- Arritmias cardíacas
+- Insuficiencia cardíaca grave
+El tratamiento con agonistas ß2 puede originar una hipopotasemia potencialmente grave. Se
+recomienda especial precaución en caso de asma grave ya que este efecto puede ser
+potenciado por tratamientos concomitantes (ver el apartado de ""Interacciones"") y por
+hipoxia. En tales situaciones se recomienda controlar los niveles de potasio sérico.
+Al igual que con otros tratamientos por inhalación, se tendrá presente la posibilidad de un
+broncospasmo paradójico (ver ""Reacciones adversas""); en tal caso, se retirará
+inmediatamente el preparado y se instituirá una medicación alternativa.
+Debido al efecto hiperglicémico de los estimulantes ß2, en pacientes diabéticos se
+recomiendan controles de glucosa en sangre al inicio del tratamiento con Neblik.
+Neblik aerosol no está recomendado en niños menores de 6 años, debido a la limitada
+experiencia en este grupo de edad.
+4.e.   Interacción con con otros medicamentos y otras formas de interacción
+Fármacos tales como quinidina, disopiramida, procainamida, fenotiazinas, antihistamínicos
+y antidepresivos tricíclicos pueden estar asociados a una prolongación del intervalo QT y a
+un aumento del riesgo de arritmias ventriculares (ver ""Contraindicaciones"").
+La administración adicional de agentes simpaticomiméticos puede potenciar las reacciones
+cardiovasculares.
+Neblik se administrará con precaución a los pacientes que están siendo tratados con
+inhibidores de la MAO o con antidepresivos tricíclicos, ya que puede potenciarse la acción
+de los estimulantes ß2-adrenérgicos sobre el sistema cardiovascular.
+El tratamiento concomitante con derivados de la xantina, esteroides o diuréticos puede
+potenciar cualquier efecto hipopotasémico de los agonistas ß2. La hipopotasemia puede
+incrementar la susceptibilidad a las arritmias cardíacas en pacientes tratados con digital.
+Los bloqueantes ß-adrenérgicos no selectivos pueden disminuir o antagonizar la acción de
+Neblik por lo que no deberían darse ß-bloqueantes (incluidos colirios) con Neblik a no ser
+que no exista otra alternativa.
+4.f.   Embarazo y lactancia
+No se ha establecido todavía la seguridad de Neblik durante el embarazo y la lactancia. No
+se utilizará durante la gestación a menos que no se disponga de otra alternativa más segura.
+Al igual que con otros estimulantes ß2-adrenérgicos, puede verse inhibido el parto debido al
+efecto relajante sobre la musculatura lisa.
+Se desconoce si el formoterol pasa a la leche materna. Se ha detectado sustancia activa en
+ratas lactantes. Por este motivo se valorará cuidadosamente en cada caso los beneficios
+frente a los riesgos.
+                                                                                                       MINISTERIO
+4.g.   Efectos sobre la capacidad para conducir y utilizar maquinaria
+El paciente deberá ser informado sobre la posibilidad de que pueda verse limitada su
+capacidad para conducir vehículos o manejar máquinas debido a la aparición de efectos
+indeseables como temblor o agitación.
+4.h.   Reacciones adversas
+Sistema musculoesquelético:
+Ocasionales:           temblor
+Raros:                 calambres musculares, mialgia
+Sistema cardiovascular:
+Ocasionales:           palpitaciones
+Raros:                 taquicardia, fibrilación auricular, extrasístoles e hipertensión arterial
+Sistema nervioso central:
+Ocasionales:           cefalea
+Raros:                 agitación, mareo, ansiedad, nerviosismo, insomnio, vértigo
+Tracto respiratorio:
+Raros:                 broncoespasmo paradójico (ver ""Advertencias""), sequedad de boca
+Irritación local:
+Raros:                 irritación orofaríngea
+Otros:
+Casos aislados:        reacciones de hipersensibilidad como hipotensión severa, urticaria,
+4.i.   Sobredosificación
+Síntomas:
+La sobredosificación probablemente producirá los efectos típicos de los estimulantes ß2-
+adrenérgicos: náuseas, vómitos, cefalea, temblor, somnolencia, palpitaciones, taquicardia,
+arritmias ventriculares, hipotensión, acidosis metabólica, hipopotasemia, hiperglucemia.
+Tratamiento:
+En caso de sobredosificación con Neblik se suspenderá inmediatamente el tratamiento y se
+efectuará una terapia de apoyo y sintomático. En casos graves deberá procederse a la
+hospitalización.
+Puede considerarse la posibilidad de utilizar un betabloqueante cardioselectivo con extrema
+precaución ya que existe el riesgo de provocar un broncoespasmo.
+"
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	                                                                                                          MINISTERIO
+tanto, las características farmacocinéticas de la formulación oral de formoterol son en gran
+parte aplicables a la formulación aerosol.
+Dosis orales de hasta 300 µg de formoterol fumarato se absorben rápidamente desde el
+tracto gastrointestinal. La sustancia inalterada alcanza la Cmáx en plasma en 0,5-1 hora. El
+grado de absorción de una dosis oral de 80 µg es igual o superior al 65%.
+La farmacocinética de formoterol parece ser lineal en el margen de dosis orales investigado,
+es decir, de 20 a 300 µg. La administración oral repetida de 40 a 160 µg por día no da lugar
+a acumulación del fármaco en el organismo.
+Tras inhalación de dosis terapéuticas, formoterol no puede detectarse en plasma utilizando
+los métodos analíticos actualmente disponibles. Sin embargo, de las velocidades de
+excreción urinaria se deduce una rápida absorción tras la inhalación. La velocidad máxima
+de excreción tras administración de 12 y de 24 µg se alcanza como máximo a las 1,5 horas.
+La fijación a proteínas plasmáticas asciende al 61-64% y no se produce saturación en el
+rango de concentraciones alcanzadas con dosis terapéuticas.
+Formoterol se elimina principalmente por metabolismo, siendo la glucuronización directa
+de la molécula la principal vía. Tanto el principio activo como sus metabolitos se excretan
+completamente del organismo; aproximadamente dos tercios de una dosis oral aparecen en
+orina y un tercio en heces.
+En base a las concentraciones plasmáticas a las 6, 8 ó 12 horas tras administración oral, se
+ha calculado una semivida de unas 2-3 horas. De las velocidades de excreción urinaria tras
+3 a 16 horas de la inhalación, se obtuvo una semivida de 5 horas.
+5.c.   Datos preclínicos sobre seguridad
+Mutagénesis
+No se encontraron efectos genotóxicos en ninguno de los tests in vitro o in vivo efectuados.
+Cancerogénesis
+De los resultados de los estudios de dos años de duración en ratas y ratones se concluye que
+formoterol no tiene potencial cancerogénico.
+Si bien ratones macho tratados con dosis muy elevadas mostraron una incidencia
+ligeramente superior de tumores benignos de las células subcapsulares adrenales, estos
+tumores se consideran resultado de alteraciones en el proceso fisiológico de
+envejecimiento.
+Los dos estudios en ratas cubrían diferentes rangos de dosis y mostraron un aumento de
+leiomiomas mesováricos. Estos neoplasmas benignos están típicamente asociados a
+tratamientos de larga duración en ratas con dosis elevadas de fármacos ß2-adrenérgicos.
+También se observó un aumento en la incidencia de quistes ováricos y tumores benignos de
+las células de la granulosa/teca; sin embargo, son también conocidos y muy probablemente
+específicos de roedores, los efectos de los agonistas ß sobre el ovario de ratas.
+En uno de los estudios se observaron otros tipos de tumores con las dosis más altas aunque
+con la misma incidencia que la de la población histórica de control. Estos tumores no
+aparecieron con dosis más bajas.
+En el otro estudio, el aumento en la incidencia de tumores no fue estadísticamente
+significativo en ningún caso en el grupo de dosis más baja, dosis que daba lugar a una
+exposición sistémica unas 10 veces superior a la esperada con la dosis máxima de
+formoterol recomendada en el hombre.
+En vista de ello y de la ausencia de efecto mutagénico, se considera que el uso terapéutico
+de formoterol no presenta riesgo cancerogénico.
+Estudios de reproducción
+Las pruebas con animales no han mostrado efectos teratógenos; después de la
+administración oral, formoterol fue excretado en la leche de ratas lactantes.
+
+6.     DATOS FARMACÉUTICOS
+	MINISTERIO
+DE SANIDAD
+Y CONSUMO
+Agencia Española de
+Medicamentos y
+Productos Sanitarios
+6.b.   Incompatibilidades
+Se desconocen.
+6.c.   Período de validez
+12 meses.
+6.d.   Precauciones especiales de conservación
+Hasta la dispensación al paciente: conservar en nevera (8ºC) hasta la fecha máxima de
+dispensación. No dispensar al paciente pasada esta fecha.
+Anotar la fecha de venta en la etiqueta del envase.
+Después de la dispensación al paciente: conservar a menos de 25ºC, pero no en nevera y
+utilizar en un período de 3 meses desde su dispensación. Proteger de la luz solar directa.
+6.e.   Naturaleza y contenido del recipiente
+Recipiente de aluminio con válvula dosificadora y adaptador boquilla de PVC, con 4 ml de
+solución y 0,96 mg de formoterol fumarato. Cada pulsación libera 12 µg.
+Aerosol dosificado para 50 pulsaciones. Aunque cada envase contiene un número superior
+de pulsaciones, no debería utilizarse más allá del número de pulsaciones indicado.
+6.f.   Instrucciones de uso/manipulación
+Para asegurar la administración correcta del fármaco, el paciente debe ser instruido por el
+médico u otro profesional sanitario en el manejo del inhalador. Neblik también puede
+usarse junto con un dispositivo espaciador.
+La administración de Neblik aerosol a niños está condicionada a la habilidad individual
+para utilizar el aerosol correctamente (incluyendo la técnica de inhalación). La aplicación
+debería efectuarse sólo bajo supervisión de un adulto.
+Para su utilización, el aerosol deberá estar a temperatura ambiente.
+El aerosol debe agitarse antes de su uso. Antes de usar un inhalador nuevo o cuando el
+inhalador no se ha usado durante más de una semana, deberá efectuarse una pulsación
+previa al aire.
+Manejo del inhalador
+Sostener el inhalador entre el índice y el pulgar en posición vertical (con
+la boquilla en la parte inferior) y expulsar el aire normalmente. Colocar
+la boquilla en la boca apretando firmemente los labios (fig. 1).
+Empezar a inspirar lentamente por la boca y apretar inmediatamente el
+cartucho de metal con el índice al tiempo que sigue inspirando de forma                (fig. 1)
+constante y profunda (fig. 2). Contener la respiración durante unos 10
+segundos como mínimo.
+Si se requiere una segunda inhalación, efectuarla al cabo de 1 minuto
+aproximadamente.
+Limpiar el aerosol regularmente. Para ello separar la boquilla del
+cartucho de metal y aclarar la boquilla y el capuchón en agua templada;                (fig. 2)
+puede usarse un jabón suave, en cuyo caso deberá aclararse bien.
+
+7.     NOMBRE Y DOMICILIO DEL TITULAR DE LA AUTORIZACIÓN DE
+	           ASTELLAS PHARMA S.A
+Paseo del Club Deportivo nº1, Bloque
+14,                                                               BASF Pharma
+28223 Pozuelo de Alarcón (Madrid)
+FECHA d LA
+28050 MDE id ÚLTIMA REVISIÓN
+8.
+        F.T. noviembre 2004
+Noviembre 1999
+
+	Prospectos de medicamentos.

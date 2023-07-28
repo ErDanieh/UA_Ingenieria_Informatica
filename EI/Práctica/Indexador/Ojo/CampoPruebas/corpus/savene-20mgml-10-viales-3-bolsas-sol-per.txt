@@ -1,0 +1,822 @@
+SAVENE 20MG/ML 10 VIALES +3 BOLSAS SOL PER
+	Información Basica del medicamento Toda la información del medicamento ANEXO I
+ RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+ 
+1. DENOMINACIÓN DEL MEDICAMENTO
+	Savene 20 mg/ml polvo para concentrado y disolvente para solución para perfusión.
+ 
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada ml contiene 20 mg de dexrazoxano después de la reconstitución con 25 ml de agua para inyección.
+ Cada vial contiene 500 mg de dexrazoxano (como hidrocloruro).
+ Excipientes en el disolvente:
+Potasio 98 mg/500 ml
+Sodio 1,61 g/500 ml
+ Para la lista completa, ver sección 6.1.
+ 
+3. FORMA FARMACÉUTICA
+	Polvo para concentrado y disolvente para solución para perfusión.
+ Savene polvo:
+Polvo de color blanco a blanco amarillento.
+ Savene disolvente:
+Disolvente isotónico claro (295 mOsml/l, pH aprox. 7,4).
+ 
+
+
+4. DATOS CLÍNICOS
+	4.1 Indicaciones terapéuticas
+ Savene está indicado para el tratamiento de la extravasación de antraciclina.
+ 4.2 Posología y forma de administración
+ Savene debe ser administrado bajo la supervisión de un facultativo con experiencia en el empleo de
+agentes para la quimioterapia del cáncer.
+ Savene se debe administrar una vez al día durante 3 días consecutivos.
+La dosis recomendada es:
+                  1.000 mg/m2
+Día uno:
+1.000 mg/m2
+Día dos:
+500 mg/m2
+Día tres:
+ No se dispone de experiencia en el aumento o disminución de la dosis ni en la modificación del calendario
+para el tratamiento de la extravasación. Para pacientes con un área de superficie corporal superior a 2 m2,
+la dosis individual no debe exceder los 2.000 mg.
+La dosis indicada debe administrarse como perfusión intravenosa durante un periodo de 1 a 2 horas en una
+vena grande situada en un área o extremidad diferente de la afectada por la extravasación. La primera
+perfusión debe iniciarse lo antes posible y en las primeras seis horas después del accidente. Los elementos
+                                                      2
+refrigerantes, como bolsas de hielo, deben retirarse del área al menos 15 minutos antes de la
+administración de Savene para que haya suficiente riego sanguíneo. Los tratamientos del Día 2 y del Día 3
+deben iniciarse a la misma hora (+/- 3 horas) que el primer día.
+ Antes de la perfusión, es necesario reconstituir Savene polvo con 25 ml de agua estéril para obtener una
+concentración de 20 mg de dexrazoxano por ml de agua estéril.
+ Una vez reconstituida, la solución debe diluirse en la bolsa con el disolvente de Savene. (ver apartado 6.6).
+ Poblaciones especiales:
+Pacientes pediátricos
+Savene no está recomendado para uso en niños debido a la ausencia de datos sobre seguridad y eficacia.
+Pacientes con insuficiencia renal
+No se han realizado estudios de Savene en pacientes con insuficiencia renal y no está recomendado su uso
+en estos pacientes (ver apartado 4.4). Una función renal disminuida podría provocar un descenso en la
+velocidad de eliminación y una exposición sistémica prolongada.
+Pacientes con insuficiencia hepática
+No se han realizado estudios de Savene en pacientes con insuficiencia hepática y no está recomendado su
+uso en estos pacientes (ver apartado 4.4).
+Pacientes ancianos
+No se ha evaluado la seguridad y la eficacia en ancianos.
+ 4.3 Contraindicaciones
+ Hipersensibilidad al principio activo o a algunos de los excipientes.
+Mujeres en edad de riesgo de embarazo que no utilizan medidas anticonceptivas (ver apartado 4.4 y 4.6).
+Lactancia (ver apartado 4.6).
+Vacunación concomitante con vacuna de la fiebre amarilla (ver apartado 4.5).
+ 4.4 Advertencias y precauciones especiales de empleo
+ Se deben realizar exámenes locales regularmente después del tratamiento hasta su resolución.
+ Si hay sospechas de extravasación por otras sustancias vesicantes diferentes de las antraciclinas en el
+mismo acceso intravenoso, por ejemplo, vincristina, mitomicina y vinorelbina, Savene podría no ser
+efectivo contra la reacción de estas sustancias.
+ Savene se administrará a pacientes sometidos a una terapia citotóxica de quimioterapia con antraciclina y,
+por lo tanto, su potencial citotóxico (que provoca especialmente toxicidad hematológica reversible con un
+nadir en los días 11-12) se sumará al del resto de la quimioterapia administrada.
+ Por lo tanto, se debe realizar un control hematológico regular.
+ En los estudios clínicos no se han incluido pacientes con neutropenia ni trombocitopenia según los
+Criterios de toxicidad comunes (CTC) grado 1.
+ Debido a que se podría producir una disfunción del hígado (aumento de las transaminasas y la bilirrubina),
+especialmente después de dosis superiores a 1.000 mg/m2 de dexrazoxano, se recomienda realizar
+comprobaciones rutinarias de la función hepática antes de cada administración de dexrazoxano en
+pacientes con trastornos conocidos de la función hepática.
+ Debido a que la insuficiencia renal podría disminuir la velocidad de eliminación del dexrazoxano, en los
+pacientes con insuficiencia renal inicial se debe controlar la aparición de signos de toxicidad
+hematológica.
+ Como el dexrazoxano posee una actividad mutagénica, se aconseja a los hombres tratados con
+dexrazoxano que no conciban un hijo hasta tres meses después del tratamiento. Las mujeres en edad de
+riesgo de embarazo tienen que utilizar medidas anticonceptivas durante el tratamiento.
+ Normalmente este producto no se recomienda con vacunas vivas atenuadas o con fenitoína (ver apartado
+4.5).
+ No se debe utilizar dimetilsulfoxido (DMSO) en pacientes a los que se administra dexrazoxano para tratar la
+extravasación producida por antraciclina.
+ Debido a que Savene disolvente contiene potasio (98 mg/500 ml) se debe controlar estrechamente el nivel
+de potasio en plasma en pacientes con riesgo de hipercalemia. También contiene sodio (1,61 g/500 ml)
+que puede resultar dañino para pacientes con una dieta baja en sodio.
+ 4.5 Interacción con con otros medicamentos y otras formas de interacción
+ Interacciones comunes con todos los citotóxicos:
+Debido al aumento del riesgo de trombosis en pacientes con enfermedades malignas, es frecuente el uso
+de tratamientos anticoagulantes. Los agentes citotóxicos podrían interaccionar con los anticoagulantes
+orales. Los pacientes tratados con anticoagulantes deben ser controlados con más frecuencia.
+ Usos concomitantes contraindicados:
+Vacuna de la fiebre amarilla: riesgo de enfermedad vacunal generalizada mortal (ver apartado 4.3).
+ Uso concomitante no recomendado:
+Vacunas vivas atenuadas: riesgo de enfermedad sistémica, posiblemente mortal. El riesgo aumenta en
+pacientes que ya están inmunosuprimidos por su enfermedad subyacente.
+Fenitoína: el uso concomitante de medicamentos citotóxicos podría reducir la absorción de la fenitoína y
+agravar las convulsiones.
+Cuando exista, use una vacuna inactivada (poliomelitis).
+ Uso concomitante a tener en consideración:
+Ciclosporina, Tacrolimus: excesiva inmunosupresión con riesgo de trastorno linfoproliferativo.
+ Interacción específica con el dexrazoxano:
+Se comprobó en cinco importantes isoenzimas citocrómicas P450: CYP1A, CYP2C9, CYP2C19,
+CYP2D6 y CYP3A4, y ninguna fue inhibida por el dexrazoxano.
+ Savene podría sumarse a la toxicidad producida por el ciclo de quimioterapia durante el cual tuvo lugar el
+accidente, por lo que requiere un control cuidadoso de los parámetros hematológicos.
+ 4.6 Embarazo y lactancia
+ No existen datos sobre el uso de dexrazoxano en mujeres embarazadas. Savene puede causar daños al feto
+cuando se administra a mujeres embarazadas. Hay pocos datos preclínicos disponibles con respecto a la
+toxicidad reproductiva (ver apartado 5.3). Savene no debe administrarse a mujeres embarazadas excepto si
+fuese claramente necesario. Las mujeres en edad de riesgo de embarazo deben utilizar medidas
+ anticonceptivas durante el tratamiento y deben informar a su médico inmediatamente en caso de quedar
+embarazadas. (ver apartado 4.3).
+Debido a que dexrazoxano posee una actividad mutagénica, los pacientes varones deberían utilizar
+métodos anticonceptivos durante el tratamiento y durante 3 meses después de haber terminado el
+tratamiento con dexrazoxano (ver apartado 4.4).
+No se sabe si el dexrazoxano se secreta en la leche humana. Debido a las posibles reacciones adversas
+graves en lactantes expuestos a dexrazoxano, las madres deberían interrumpir la lactancia durante la
+terapia con Savene. (ver apartado 4.3).
+ 4.7 Efectos sobre la capacidad para conducir y utilizar máquinas
+ No se han realizado estudios sobre la capacidad para conducir y utilizar máquinas pero es poco probable
+que Savene afecte a su función, ya que raramente se ha asociado a alguna alteración del sistema nervioso
+central, como por ejemplo confusión.
+ 4.8 Reacciones adversas
+ Diferentes informes publicados que comprenden a más de 1.000 pacientes han mostrado un patrón
+uniforme de reacciones adversas en función de la dosis como náuseas y vómitos, diarrea, estomatitis,
+supresión de la médula ósea (neutropenia, trombocitopenia) y afección de la función hepática (aumento de
+ALT/AST). Todas las reacciones adversas han revertido rápidamente.
+La siguiente información se basa en dos estudios clínicos, TT01 y TT02 de Savene administrado a
+pacientes de extravasación que ya estaban recibiendo ciclos de agentes quimioterapéuticos.
+Las reacciones adversas son las que normalmente se observan con la quimioterapia estándar y también con
+dexrazoxano: náuseas y vómitos en un tercio de los pacientes, neutropenia y trombocitopenia en la mitad
+de los pacientes aproximadamente y, muy raramente, aumento de la concentración de enzimas hepáticas
+(ALT/AST).
+A continuación se indican las reacciones adversas relacionadas con el tratamiento observadas en los
+estudios clínicos.
+ Incidencia de reacciones adversas (MedDRA) en los estudios TT01 y TT02 que están relacionadas o
+posiblemente relacionadas con el tratamiento. (Obsérvese que las cifras de Trastornos de la sangre y
+del sistema linfático se describen en una tabla aparte de la de los exámenes de laboratorio)
+Más de 1 de cada 10 pacientes ( 1/10) experimentaron reacciones adversas descritas como muy
+frecuentes.
+Hasta 1 de cada 10 pacientes (> 1/100 a < 1/10) experimentaron reacciones adversas descritas como
+frecuentes.
+Las reacciones adversas se presentan en orden decreciente de gravedad dentro de cada frecuencia.
+(Número de pacientes = 80)
+Clasificación del                      Términos             Todos los         Grado 3+4
+órganos del           Frecuencia       preferidos (PT) grados
+sistema (SOC)
+Trastornos            Muy              Náuseas              15 (18,8%)        0 (0%)
+gastrointestinales frecuentes
+Trastornos            Muy              Dolor en el          13 (16,3%)        1 (1,3%)
+generales y           frecuentes       lugar de la
+alteraciones en el                     inyección
+lugar de              Frecuentes       Pirexia              6 (7,5%)          2 (2,5%)
+                                                     5
+Clasificación del                Términos          Todos los   Grado 3+4
+órganos del         Frecuencia   preferidos (PT)   grados
+sistema (SOC)
+administración                   Flebitis en el    5 (6,3%)    0 (0%)
+Infecciones e       Muy          Infección         8 (10,0%)   3 (3,8%)
+infestaciones       frecuentes   postoperatoria
+Lesiones            Frecuentes   Complicaciones    3 (3,8%)    0 (0%)
+traumáticas,                     de las heridas
+intoxicaciones y
+complicaciones
+de
+procedimientos
+terapéuticos
+Exploraciones      Frecuentes   Disminución del   1 (1,3%)    0 (0%)
+complementarias                  peso
+Trastornos del      Frecuentes   Disminución del   1 (1,3%)    0 (0%)
+metabolismo y de                 apetito
+la nutrición
+Trastornos          Frecuentes   Mialgia           1 (1,3%)    0 (0%)
+musculoesqueléti
+cos y del tejido
+conjuntivo
+Trastornos del      Frecuentes   Mareos            2 (2,5%)    1 (1,3%)
+sistema nervioso                 Pérdida           1 (1,3%)    0 (0%)
+Trastornos del      Frecuentes   Hemorragia        1 (1,3%)    0 (0%)
+aparato                          vaginal
+reproductor y de
+la mama
+Trastornos          Frecuentes   Disnea            1 (1,3%)    0 (0%)
+respiratorios,
+ Clasificación del                     Términos           Todos los          Grado 3+4
+órganos del         Frecuencia        preferidos (PT)    grados
+sistema (SOC)
+torácicos y                           Neumonía           1 (1,3%)           0 (0%)
+mediastínicos
+Trastornos de la    Frecuentes        Alopecia           5 (6,3%)           0 (0%)
+piel y del tejido                     Prurito            1 (1,3%)           0 (0%)
+subcutáneo
+Trastornos          Frecuentes        Flebitis           2 (2,5%)           0 (0%)
+vasculares                            Tromboflebitis     1 (1,3%)           0 (0%)
+ Incidencia de anomalías de laboratorio (todos los pacientes) en TT01 y TT02
+Prueba de laboratorio       post-tratamiento               N                %
+Hemoglobina                         80                       2              2,5%
+Recuento de leucocitos              80                      36             45,0%
+Neutrófilos                         78                      36             46,2%
+Plaquetas                           80                      17             21,3%
+Sodio (Hipo)                        79                       5              6,3%
+Potasio (Hipo)                      79                       2              2,5%
+Potasio (Hiper)                     79                       0              0,0%
+Fosfatasa alcalina                  77                       0              0,0%
+Bilirrubina                         77                       1              1,3%
+AST                                 57                       2              3,5%
+ALT                                 71                       3              3,9%
+Creatinina                          76                       2              2,6%
+LDH                                 78                       0              0,0%
+Calcio total (Hipo)                 28                       2              7,1%
+ 4.9 Sobredosis
+ Los signos y síntomas de una sobredosis consistirán probablemente en leucopenia, trombocitopenia,
+náuseas, vómitos, diarrea, reacciones de la piel y alopecia. El tratamiento debe ser sintomático.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1 Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: agentes desintoxicantes para agentes antineoplásicos, código ATC: V03AF02
+ En la literatura están descritas dos propiedades farmacodinámicas del dexrazoxano: su efecto
+antineoplásico y su uso en la prevención de la cardiotoxicidad de la antraciclina.
+ Mecanismo de acción
+Dexrazoxano tiene dos mecanismos de acción principales:
+                                                     7
+1. Previene la cardiotoxicidad de la antraciclina: la quelación del hierro, especialmente a través de su
+metabolito de anillo abierto, reduce el estrés oxidativo de los radicales libres dependientes del hierro, que
+se asocia a la cardiotoxicidad producida por la antraciclina.
+2. Efecto antineoplásico: inhibición de la topoisomerasa II.
+No se sabe en qué medida contribuye cada uno de estos mecanismos al efecto protector contra la
+destrucción de tejidos después de una extravasación de antraciclina.
+ Probablemente, la propiedad quelatante también es responsable de un aumento de la excreción urinaria de
+hierro y zinc y de una disminución de la concentración de calcio en sangre, como se describe en unos
+pocos estudios.
+ Los siguientes datos sobre eficacia son relativos a Savene utilizado para el tratamiento de la extravasación
+de antraciclina.
+El programa clínico de Savene (dexrazoxano) incluía dos estudios sencillos con un solo brazo,
+multicéntricos y abiertos.
+El propósito general de este ensayo era investigar la eficacia de Savene intravenoso para prevenir los
+daños en los tejidos producidos por la extravasación accidental de antraciclina y, por lo tanto, evitar que
+los pacientes sean sometidos a la escisión quirúrgica del tejido afectado que se realiza rutinariamente.
+Debido a la rareza de la condición, para la comparación sólo se pueden utilizar datos históricos, que
+muestran tasas de cirugía del 35 al 50%, del 100% en un país, en casos probados por biopsia.
+En ambos estudios, el régimen de dosificación fue el mismo. El tratamiento con Savene tenía que iniciarse
+en las 6 horas siguientes al accidente y repetirse después de 24 y 48 horas. La primera y segunda dosis fue
+de 1.000 mg/m2 y la tercera de 500 mg/m2.
+ Un requisito para la inclusión en la parte de eficacia del estudio fue que la extravasación de antraciclina
+fuera probada por microscopia fluorescente de una o varias biopsias.
+En los estudios clínicos no se han incluido pacientes con neutropenia ni trombocitopenia con CTC
+superior a grado 1.
+ En el estudio TT01 entraron 23 pacientes y recibieron tratamiento con Savene. En dieciocho se pudo
+evaluar la eficacia y la seguridad y en otros cinco pacientes se evaluó sólo la toxicidad. Ninguno de los
+pacientes requirió intervención quirúrgica.
+En el estudio TT02 entraron 57 pacientes y recibieron la primera dosis de Savene. Se evaluó la eficacia en
+36 pacientes. Sólo uno de los 36 pacientes requirió cirugía.
+En ambos estudios, todos los pacientes habían recibido antraciclina. En general, la antraciclina recibida
+con más frecuencia fue epirubicina (56% de los pacientes).
+ En la evaluación de la eficacia no se incluyeron pacientes con extravasación desde un dispositivo de
+acceso venoso central.
+ En ambos estudios, el tratamiento con dexrazoxano evitó el desarrollo de necrosis, permitió continuar el
+tratamiento contra el cáncer según lo programado en la mayoría de los pacientes y redujo la aparición de
+secuelas (sólo se observaron secuelas leves y escasas a largo plazo).
+ 5.2 Propiedades farmacocinéticas
+ Savene sólo se administra por vía intravenosa.
+Los datos bibliográficos muestran que la cinética sérica del dexrazoxano después de su administración
+intravenosa sigue un modelo abierto de dos compartimentos independiente del calendario y de la dosis.
+Los volúmenes aparentes de distribución son 0,13 a 1,3 l/kg (mediana 0,49 l/kg). El volumen de
+distribución es independiente de la dosis. Las áreas bajo la curva fueron proporcionales a las dosis. La
+distribución por los tejidos es rápida, apareciendo los mayores niveles de sustancia principal inalterada y
+ de producto hidrolizado en el hígado y riñones. Aproximadamente el 2% de dexrazoxano está ligado a
+proteínas.
+ Biotransformación: el dexrazoxano sufre hidrólisis intracelular primero y se obtienen sus dos intermedios
+de un anillo abierto (B y C) y, después, la forma de dos anillos abiertos (ADR-925) que tiene una
+estructura similar al EDTA y es un potente quelante de hierro y de cationes divalentes como los iones de
+calcio.
+ Eliminación: el dexrazoxano presenta una cinética de eliminación bifásica. Las semividas de eliminación
+iniciales (alfa) van de 0,18 a 1 h (mediana 0,34 h) y las semividas de eliminación finales de 1,9 a 9,1 h
+(mediana 2,8 h). La recuperación urinaria total del dexrazoxano sin cambiar es del 34% al 60%. El
+aclaramiento sistémico es independiente de la dosis. La farmacocinética de los metabolitos se obtiene de
+un único estudio con cinco pacientes. La mediana de las semividas de eliminación del metabolito B
+abierto de un anillo y del metabolito C es 0,9 a 3,9 h (n=5) y 0,5 a 0,8 h (n=3), respectivamente. La
+semivida de eliminación del metabolito ADR-925 abierto de dos anillos no está indicada en la literatura.
+Se indica que ADR-925 aumenta tres veces en los 15 minutos siguientes a la perfusión de 1.500 mg/m2 y
+permanece relativamente en una meseta durante 4 horas; después, desciende hasta la mitad a las 24 horas.
+El aclaramiento podría reducirse en pacientes con un bajo aclaramiento de la creatinina.
+ Los estudios in vitro sobre dexrazoxano, cuando se analizan en microsomas humanos, muestran una gran
+estabilidad del dexrazoxano lo que indica que es poco probable que se produzca un metabolismo
+importante mediante el citocromo P450.
+ No hay suficientes datos disponibles para extraer conclusiones definitivas relativas a los factores
+farmacocinéticos intrínsecos como la edad, el género, la raza y el peso. No se han realizado estudios
+sistemáticos de las variabilidades inter e intraindividuales. Basándose en un número limitado de pacientes,
+se estimó que la variabilidad interindividual, calculada como el coeficiente de la variación (CV %), era
+aproximadamente el 30% de los principales parámetros farmacocinéticos.
+ 5.3 Datos preclínicos sobre seguridad
+ El dexrazoxano ha mostrado poseer actividad mutagénica. Aunque no se ha investigado el potencial
+carcinogénico del dexrazoxano, se ha encontrado que el razoxano (mezcla racémica de dexrazoxano y
+levrazoxano) está asociado al desarrollo de malignidades secundarias en ratones (neoplasias linfoides) y
+ratas (carcinomas uterinos) después de su administración durante un periodo de tiempo prolongado. En
+esta clase de sustancias se esperan ambos efectos.
+Los estudios de toxicidad a dosis repetidas han mostrado que los órganos objetivo principales son los
+tejidos que experimentan una división celular rápida: médula ósea, tejido linfático, testículos y tracto
+digestivo. Por lo tanto, la mielosupresión es frecuente. Los efectos aparentes fueron mayores en la
+administración crónica que en la aguda. La toxicidad en combinación con doxorubicina fue añadida y no
+sinérgica.
+El razoxano relacionado ha mostrado ser embriotóxico en ratones, ratas y conejos, y teratogénico en ratas
+y ratones.
+ Cuando los ratones con extravasación experimental de daunorubicina fueron tratados con dexrazoxano
+sistemáticamente combinado con un tratamiento tópico de DMSO en al área de la piel afectada por la
+daunorubicina, el 67% de los ratones desarrollaron pequeñas heridas en la piel, mientras que el tratamiento
+sólo con dexrazoxano evitó completamente la necrosis producida por la daunorubicina en otro grupo de
+ratones, Por lo tanto, no se debe usar DMSO en pacientes tratados con dexrazoxano para evitar la
+extravasación de antraciclina.
+ 
+6. DATOS FARMACÉUTICOS
+	                                                     9
+6.1 Lista de excipientes
+ Savene polvo
+Ácido clorhídrico
+ Savene disolvente
+Cloruro de sodio
+Cloruro de potasio
+Hexahidrato de cloruro de magnesio
+Trihidrato de acetato de sodio
+Gluconato de sodio
+Hidróxido de sodio
+Agua para inyectables
+ 6.2 Incompatibilidades
+ En ausencia de estudios de compatibilidad, este medicamento no debe mezclarse con otros.
+ 6.3 Periodo de validez
+ Viales y bolsas:
+3 años.
+ Una vez reconstituido y diluido:
+Se ha demostrado estabilidad química y física en uso durante 4 horas cuando se almacena a una
+temperatura de 2 a 8 °C.
+Desde un punto de vista microbiológico, el producto debe usarse de forma inmediata.
+Si no se usa de forma inmediata, los tiempos y las condiciones de conservación en uso antes de usarlo son
+responsabilidad del usuario y no deberían ser mayores de 4 horas a una temperatura de 2 a 8 ºC.
+ 6.4 Precauciones especiales de conservación
+ Conservar por debajo de 25 °C.
+Conservar los viales y las bolsas en el embalaje exterior para protegerlo de la luz.
+ 6.5 Naturaleza y contenido del recipiente
+ Savene polvo: vial de vidrio de color ámbar tipo I con tapón de caucho de clorobutilo y cierre a presión o
+removible.
+Savene disolvente: bolsas de plástico coextrusionado de poliolefín y poliamida, envueltas en una bolsa de
+plástico protectora de poliamida y polipropileno.
+ Tamaño de los envases:
+Savene está disponible en una caja de 10 viales de Savene polvo que contienen 500 mg de dexrazoxano y
+3 bolsas de 500 ml de Savene disolvente.
+ 6.6 Precauciones especiales de eliminación y otras manipulaciones
+ Antes de la perfusión, es necesario reconstituir Savene polvo con 25 ml de agua estéril para obtener una
+concentración de 20 mg de dexrazoxano por ml de agua estéril.
+La solución reconstituida es ligeramente amarilla.
+ La solución reconstituida debe diluirse después en 500 ml de Savene disolvente.
+ Es preciso tener cuidado al manipular y preparar la solución reconstituida y se deben adoptar los
+procedimientos normales para la correcta manipulación de medicamentos citotóxicos.
+Si el polvo o la solución entran en contacto con la piel o las membranas mucosas, lávese inmediatamente
+con abundante agua.
+ La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales.
+ 
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	Topotarget A/S
+Fruebjergvej 3
+DK-2100 Copenhague
+Dinamarca
+ 8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/06/350/001
+ 9. FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA AUTORIZACIÓN
+ 28/07/2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ Dispone de información más completa sobre este producto en la página web de la Agencia Europea de
+Medicamentos (EMEA) http://www.emea.eu.int/
+ A.   TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN
+RESPONSABLE DE LA LIBERACIÓN DE LOS LOTES
+ B.   CONDICIONES DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ A.    TITULAR DE LA AUTORIZACIÓN DE FABRICACIÓN RESPONSABLE DE LA
+LIBERACIÓN DE LOS LOTES
+ Nombre y dirección del fabricante responsable de la liberación de los lotes
+ Topotarget A/S
+Fruebjergvej 3
+DK-2100 Copenhague
+Dinamarca
+ B.    CONDICIONES DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ ·     CONDICIONES O RESTRICCIONES DE DISPENSACIÓN Y USO IMPUESTAS AL
+TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+ Medicamento sujeto a prescripción médica restringida.
+ CONDICIONES O RESTRICCIONES EN RELACIÓN CON LA UTILIZACIÓN
+SEGURA Y EFICAZ DEL MEDICAMENTO
+·
+No procede.
+ ·     OTRAS CONDICIONES
+El Titular de la Autorización de Comercialización debe garantizar que el sistema de farmacovigilancia
+exista y que esté en funcionamiento antes de lanzar el producto al mercado y durante el periodo en que se
+utilice el producto comercializado.
+ ANEXO III
+ ETIQUETADO Y PROSPECTO
+ 14
+A. ETIQUETADO
+ 15
+INFORMACIÓN QUE DEBE FIGURAR EN EL EMBALAJE EXTERIOR
+Caja (envase de 10 viales y 3 bolsas de disolvente)
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Savene 20 mg/ml polvo para concentrado y disolvente para solución para perfusión.
+Dexrazoxano
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ Cada vial contiene 500 mg de dexrazoxano (como hidrocloruro)
+Cada ml contiene 20 mg de dexrazoxano después de la reconstitución con 25 ml de agua para inyectables
+ 
+3.    LISTA DE EXCIPIENTES
+	Savene polvo:
+Ácido clorhídrico
+ Savene disolvente:
+Cloruro de sodio
+Cloruro de potasio
+Hexahidrato de cloruro de magnesio
+Trihidrato de acetato de sodio
+Gluconato de sodio
+Hidróxido de sodio
+Agua para inyecciones
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	Polvo para concentrado y disolvente para solución para perfusión
+10 viales de 500 mg de dexrazoxano
+3 bolsas de 500 ml de disolvente
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Uso intravenoso después de reconstituido y diluido
+Leer el prospecto antes de utilizar
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ Debe ser administrado bajo la supervisión de un facultativo con experiencia en el empleo de agentes
+citotóxicos
+                                                         16
+
+8.      FECHA DE CADUCIDAD
+	CAD {MM/AAAA}
+ 
+9.      CONDICIONES ESPECIALES DE CONSERVACIÓN
+	Conservar por debajo de 25 °C
+La solución reconstituida y disuelta puede conservarse a una temperatura entre 2 y 8 °C durante 4 horas
+Conservar los viales y las bolsas en el embalaje exterior para protegerlo de la luz
+ 10.     PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL PRODUCTO NO
+UTILIZADO O DE LOS MATERIALES QUE ESTÉN EN CONTACTO DIRECTO CON
+EL PRODUCTO (CUANDO CORRESPONDA)
+ Contiene citostáticos.
+La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales.
+ 11.     NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Topotarget A/S
+Fruebjergvej 3
+DK-2100 Copenhague
+Dinamarca
+ 12.     NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/06/350/001
+ 13.     NÚMERO DE LOTE DEL FABRICANTE
+ Lote:
+ 14.     CONDICIONES GENERALES DE DISPENSACIÓN
+ Medicamento sujeto a prescripción médica
+ 15.     INSTRUCCIONES DE USO
+ Kit de emergencia para extravasación de antraciclina
+ 16.     INFORMACIÓN EN BRAILLE
+ No hay disponible información en Braille.
+ INFORMACIÓN MÍNIMA QUE DEBE INCLUIRSE EN PEQUEÑOS
+ACONDICIONAMIENTOS PRIMARIOS
+ Vial
+ 1.      DENOMINACIÓN DEL MEDICAMENTO Y VIA(S) DE ADMINISTRACIÓN
+ Savene polvo
+Dexrazoxano
+Polvo para concentrado
+Uso intravenoso después de reconstituido y diluido
+ 
+2.      FORMA DE ADMINISTRACIÓN
+	Uso intravenoso después de reconstituido y diluido
+Leer el prospecto antes de utilizar
+ 
+3.      FECHA DE CADUCIDAD
+	CAD {MM/AAAA}
+ 
+4.      NÚMERO DE LOTE DEL FABRICANTE
+	Lote:
+ 5.      CONTENIDO EN PESO, VOLUMEN O EN UNIDADES
+ 500 mg
+ 
+6.      OTROS
+	INFORMACIÓN QUE DEBE FIGURAR EN EL ACONDICIONAMIENTO PRIMARIO
+ Bolsa de perfusión
+ 
+1.    DENOMINACIÓN DEL MEDICAMENTO
+	Savene disolvente
+ 2.    PRINCIPIO(S) ACTIVO(S)
+ No aplicable
+ 
+3.    LISTA DE EXCIPIENTES
+	Cloruro de sodio
+Cloruro de potasio
+Hexahidrato de cloruro de magnesio
+Trihidrato de acetato de sodio
+Gluconato de sodio
+Hidróxido de sodio
+Agua para inyectables
+ 
+4.    FORMA FARMACÉUTICA Y CONTENIDO DEL ENVASE
+	500 ml de disolvente para solución para perfusión
+ 5.    FORMA Y VÍA(S) DE ADMINISTRACIÓN
+ Uso intravenoso después de reconstituido y diluido
+Leer el prospecto antes de utilizar
+ 
+6.    ADVERTENCIA ESPECIAL DE QUE EL MEDICAMENTO DEBE MANTENERSE
+	Mantener fuera del alcance y de la vista de los niños
+ 7.    OTRAS ADVERTENCIAS ESPECIALES, SI ES NECESARIO
+ 
+8.    FECHA DE CADUCIDAD
+	CAD {MM/AAAA}
+ 
+9.    CONDICIONES ESPECIALES DE CONSERVACIÓN
+	Conservar por debajo de 25 ºC. Conservar en el embalaje exterior para protegerlo de la luz.
+ 10.   PRECAUCIONES ESPECIALES DE ELIMINACIÓN DEL PRODUCTO NO
+UTILIZADO O DE LOS MATERIALES QUE ESTÉN EN CONTACTO DIRECTO CON
+                                                         19
+EL PRODUCTO (CUANDO CORRESPONDA)
+ Contiene citostáticos después de la reconstitución y la dilución.
+La eliminación de los productos no utilizados o de los envases se establecerá de acuerdo con las
+exigencias locales.
+ 11.     NOMBRE Y DIRECCIÓN DEL TITULAR DE LA AUTORIZACIÓN DE
+COMERCIALIZACIÓN
+ Topotarget A/S
+Fruebjergvej 3
+DK-2100 Copenhague
+Dinamarca
+ 12.     NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ EU/1/06/350/001
+ 13.     NÚMERO DE LOTE DEL FABRICANTE
+ Lote:
+ 14.     CONDICIONES GENERALES DE DISPENSACIÓN
+ 15.     INSTRUCCIONES DE USO
+ 16.     INFORMACIÓN EN BRAILLE
+ No hay disponible información en Braille
+ B. PROSPECTO
+ 21
+          Savene 20 mg/ml polvo para concentrado y disolvente para solución para perfusión
+                                               Dexrazoxano
+ Lea todo el prospecto detenidamente antes de empezar a usar el medicamento.
+-     Conserve este prospecto. Puede tener que volver a leerlo.
+-     Si tiene alguna duda, consulte a su médico.
+-     Si aprecia cualquier efecto adverso no mencionado en este prospecto o si sufre uno de los efectos
+adversos descritos de forma grave, informe a su médico.
+ En este prospecto:
+1.    Qué es Savene y para qué se utiliza
+2.    Antes de que se le administre Savene
+3.    Cómo usar Savene
+4.    Posibles efectos adversos
+5     Conservación de Savene
+6.    Información adicional
+ 
+1.    QUÉ ES SAVENE Y PARA QUÉ SE UTILIZA
+	Savene es un agente desintoxicante para el tratamiento antineoplásico.
+ La mayoría de los medicamentos antineoplásicos se administran por vía intravenosa. A veces se produce
+un accidente y el medicamento se perfunde fuera de la vena en el tejido circundante. Este acontecimiento
+se denomina extravasación. Se trata de una complicación grave puesto que puede causar daños graves en
+el tejido. Savene se utiliza como antídoto para tratar extravasaciones ocasionadas por el grupo de
+medicamentos antineoplásicos denominados antraciclinas.
+ 
+2.    ANTES DE QUE SE LE ADMINISTRE SAVENE
+	Savene no se utilizará:
+-    Si es alérgico (hipersensible) al dexrazoxano o a cualquiera de los demás componentes de Savene
+-    Si está planeando quedarse embarazada y no utiliza medidas anticonceptivas adecuadas
+-    Si está amamantando a su bebé
+-    Si se le están administrando la vacuna contra la fiebre amarilla
+ Tenga especial cuidado con Savene
+-    Sólo se le debe administrar Savene si ha sufrido una extravasación al recibir quimioterapia con
+antraciclinas.
+-    Durante el tratamiento con Savene se le realizarán análisis de sangre regularmente para comprobar
+sus células sanguíneas.
+-    Si usted tiene una disfunción hepática, su médico controlará la función hepática durante el
+tratamiento.
+-    Si usted tiene una disfunción renal, su médico controlará cualquier signo de cambio en las células
+sanguíneas.
+-    Se aconseja a los hombres tratados con dexrazoxano que no engendren un hijo hasta tres meses
+después del tratamiento.
+-    Las mujeres en edad de riesgo de embarazo tienen que utilizar medidas anticonceptivas durante el
+tratamiento.
+-    Si está recibiendo vacunas vivas atenuadas o fenitoína (medicamentos antiepilépticos).
+                                                     22
+-     Savene no debe administrarse a niños.
+ Toma de con otros medicamentos
+Savene no se debe mezclar con ningún otro medicamento durante la perfusión.
+Se recomienda no utilizar tratamientos médicos sin consultar a su médico porque puede que existan
+interacciones entre Savene y con otros medicamentos.
+Indique a su médico si está tomando o ha tomado recientemente con otros medicamentos, incluidos
+medicamentos adquiridos sin receta .
+ Embarazo y lactancia
+Savene no debe ser administrado si está usted embarazada. Si usted es un hombre, debe tomar las
+precauciones anticonceptivas adecuadas durante la terapia y durante al menos tres meses después del
+tratamiento.
+No se puede proceder a la lactancia si está bajo tratamiento con Savene.
+Pregunte a su médico o a su farmacéutico antes de tomar cualquier medicamento.
+ Conducción y uso de máquinas
+No se han llevado a cabo estudios sobre la capacidad de conducir y usar máquinas pero es poco probable
+que Savene afecte a esta función.
+ Información importante sobre algunos de los componentes de Savene
+El disolvente Savene contiene potasio (98 mg/500 ml) que puede resultar dañino para personas con una
+dieta baja en potasio.
+También contiene sodio (1,61 g/500 ml) que puede resultar dañino para pacientes con una dieta baja en
+sodio.
+ 
+3.    CÓMO USAR SAVENE
+	Posología habitual
+La dosis dependerá de la altura y el peso. Su médico calculará el área de superficie corporal en metros
+cuadrados (m2) y determinará la dosis que debe usted recibir.
+ La dosis normal en adultos es:
+Día 1 y día 2: 1.000 mg/m2
+Día 3: 500 mg/m2
+ Savene se administrará por perfusión en una de sus venas. La perfusión durará 1­2 horas.
+ Antes de la perfusión, es necesario reconstituir Savene polvo con 25 ml de agua estéril para obtener una
+concentración de 20 mg de dexrazoxano por ml de agua estéril.
+Una vez reconstituida, la solución debe diluirse en la bolsa con el disolvente de Savene.
+ Frecuencia de administración
+Usted recibirá su perfusión una vez al día durante 3 días consecutivos. La primera perfusión se
+administrará lo antes posible, dentro de las primeras seis horas posteriores a la extravasación con un
+antraciclínico.
+ Si tiene más preguntas sobre el uso de este producto, pregunte a su médico.
+ 
+4.    POSIBLES EFECTOS ADVERSOS
+	Al igual que todos los medicamentos, Savene puede tener efectos adversos aunque no todas las personas
+los sufran.
+ Más de 1 de cada 10 pacientes experimentaron efectos adversos descritos como muy frecuentes.
+Hasta 1 de cada 10 pacientes experimentaron efectos adversos descritos como frecuentes.
+ Los efectos adversos muy frecuentes (más de 1 de cada 10 pacientes) son:
+Náuseas. Dolor en los vasos sanguíneos donde se administra el tratamiento. Otro efecto adverso habitual
+es un descenso temporal de las cifras de leucocitos, neutrófilos y plaquetas, que se debe también a la
+quimioterapia que usted recibe para tratar su enfermedad. Se realizarán análisis de sangre con regularidad.
+ Los efectos adversos frecuentes (hasta 1 de cada 10 pacientes) son:
+Una sensación de malestar general, incluidos cansancio, sueño o mareo. Además se puede producir una
+inflamación del vaso sanguíneo donde se administra el tratamiento (flebitis), diarrea, sequedad de boca y
+caída del cabello. Se puede producir una reacción en el lugar de inyección, con la piel enrojecida,
+hinchada o dolorida al tacto.
+ Si nota efectos adversos no mencionados en este prospecto o si sufre uno de los efectos adversos descritos
+de forma grave, comuníqueselo a su médico.
+ 
+5.    CONSERVACIÓN DE SAVENE
+	Mantener fuera del alcance y de la vista de los niños.
+ No use Savene después de la fecha de caducidad que aparece en la etiqueta.
+ Savene se debe conservar por debajo de 25 °C. Conservar Savene en el embalaje exterior para protegerlo
+de la luz.
+ Se ha demostrado la estabilidad química y física en uso durante 4 horas cuando se almacena entre 2 y 8
+°C después de la reconstitución y posterior dilución en el disolvente.
+ Desde un punto de vista microbiológico, el producto debe usarse de forma inmediata.
+Si no se usa de forma inmediata, los tiempos y las condiciones de conservación en uso antes de usarlo son
+responsabilidad del usuario y no deberían ser mayores de 4 horas a una temperatura de 2 a 8 ºC.
+ Los medicamentos no se deben tirar a las aguas residuales o a la basura. Pregunte a su farmacéutico cómo
+deshacerse de los medicamentos que no necesita. De esta forma ayudará a proteger el medio ambiente.
+ No utilice Savene si usted observa que el vial está dañado o muestra signos de manipulación.
+ 
+6.    INFORMACIÓN ADICIONAL
+	¿Qué contiene Savene?
+El principio activo es dexrazoxano. Cada vial contiene 500 mg de dexrazoxano como 589 mg de
+hidrocloruro de dexrazoxano.
+ Los demás componentes son ácido clorhídrico.
+ El disolvente contiene cloruro de sodio, cloruro de potasio, hexahidrato de cloruro de magnesio, trihidrato
+de acetato de sodio, gluconato de sodio, hidróxido de sodio y agua para inyectables.
+                                                      24
+Aspecto de Savene y contenido del envase
+Savene está compuesto por Savene polvo y Savene disolvente. Savene polvo se presenta como un solo vial
+de vidrio que contiene un polvo de color blanco a blanco amarillento denominado dexrazoxano (el
+principio activo). Savene también se dispensa con una bolsa de perfusión que contiene Savene disolvente.
+ La concentración del principio activo tras la reconstitución con agua estéril es de 20 mg de dexrazoxano
+por ml. La solución reconstituida es ligeramente amarilla.
+ Savene se dispensa en una caja que contiene 10 viales de Savene polvo y 3 bolsas de perfusión de Savene
+disolvente.
+ Titular de la autorización de comercialización y fabricante:
+Topotarget A/S
+Fruebjergvej 3
+DK-2100 Copenhague
+Dinamarca
+Tel: +45 39 17 83 92
+Fax: +45 39 17 94 92
+ Pueden solicitar más información respecto a este medicamento dirigiéndose al representante local del
+titular de la autorización de comercialización:
+ België/Belgique/Belgien                             Luxembourg/Luxemburg
+TopoTarget A/S                                      TopoTarget A/S
+Fruebjergvej 3,                                     Fruebjergvej 3,
+DK ­ 2100 Copenhague                                DK ­ 2100 Copenhague
+Tél/Tel: + 45 39 17 83 92                           Tél/Tel: + 45 39 17 83 92
+TopoTarget A/S                                      TopoTarget A/S
+Fruebjergvej 3                                      Fruebjergvej 3
+DK ­ 2100 Copenhagen                                DK-2100 Koppenhága
+Te.: + 45 39 17 83 92                               Tel.: + 45 39 17 83 92
+Ceská republika                                     Malta
+TopoTarget A/S                                      TopoTarget A/S
+Fruebjergvej 3                                      Fruebjergvej 3
+DK ­ 2100 Koda                                      DK ­ 2100 Copenhagen
+Tel: + 45 39 17 83 92                               Tel: + 45 39 17 83 92
+Danmark                                             Nederland
+TopoTarget A/S                                      TopoTarget A/S
+Fruebjergvej 3                                      Fruebjergvej 3
+DK-2100 København Ø                                 DK ­ 2100 Kopenhagen
+Tlf: + 45 39 17 83 92                               Tel: + 45 39 17 83 92
+Deutschland                                         Norge
+TopoTarget A/S                                      TopoTarget A/S
+Fruebjergvej 3                                      Fruebjergvej 3
+DK-2100 Kopenhagen                                  DK-2100 København
+Tel: + 45 39 17 83 92                               Tlf: + 45 39 17 83 92
+ Eesti                           Österreich
+TopoTarget A/S                  TopoTarget A/S
+Fruebjergvej 3                  Fruebjergvej 3
+DK ­ 2100 Copenhagen            DK-2100 Kopenhagen
+Tel: + 45 39 17 83 92           Tel: + 45 39 17 83 92
+a VIPharma International A.E.
+43
+GR ­ 151 26
+: + 30 210-6194170
+España                          Portugal
+Ferrer Farma, S.A.              Ferrer Azevedos, S.A.
+Gran Vía Carlos III, 94         Edificio Azevedos
+E - 08028 Barcelona             Estrada Nacional 117-2,
+Tel: +34 93 600 37 00           P-2614-503 Amadora
+France                          România
+Topotarget A/S                  TopoTarget A/S
+Fruebjergvej 3,                 Fruebjergvej 3
+DK ­ 2100 Copenhague            DK ­ 2100 Copenhaga
+Tél: + 45 39 17 83 92           Tel: + 45 39 17 83 92
+Ireland                         Slovenija
+TopoTarget A/S                  TopoTarget A/S
+Fruebjergvej 3                  Fruebjergvej 3
+DK ­ 2100 Copenhagen            DK ­ 2100 Copenhagen
+Tel: + 45 39 17 83 92           Tel: + 45 39 17 83 92
+Ísland                          Slovenská republika
+TopoTarget A/S                  TopoTarget A/S
+Fruebjergvej 3                  Fruebjergvej 3
+DK-2100 Kaupmannahöfn           DK ­ 2100 Koda
+Sími: + 45 39 17 83 92          Tel: + 45 39 17 83 92
+Italia                          Suomi/Finland
+ADIENNE S.r.l.                  TopoTarget A/S
+Via Broseta 64/B                Fruebjergvej 3
+I - 24128 Bergamo               DK­2100 Kööpenhamina
+Tel: +39 035 264 206            Puh/Tel: + 45 39 17 83 92
+TopoTarget A/S                  TopoTarget A/S
+Fruebjergvej 3                  Fruebjergvej 3
+DK ­ 2100                       DK ­ 2100 Köpenhamn
+: + 45 39 17 83 92              Tel: + 45 39 17 83 92
+Latvija                         United Kingdom
+TopoTarget A/S                  TopoTarget A/S
+Fruebjergvej 3                  Fruebjergvej 3
+DK ­ 2100 Copenhagen            DK ­ 2100 Copenhagen
+Tel: + 45 39 17 83 92           Tel: + 45 39 17 83 92
+Lietuva
+TopoTarget A/S
+Fruebjergvej 3
+DK-2100 Kopenhaga
+Tel: + 45 39 17 83 92
+                                 26
+Este prospecto fue aprobado en
+ Dispone de información más completa sobre este producto en la página web de la Agencia Europea de
+Medicamentos (EMEA) http://www.emea.europa.eu
+ Esta información está destinada únicamente a médicos o profesionales del sector sanitario.
+ Guía de preparación para usar con Savene polvo para concentrado y disolvente para solución para
+perfusión
+ Es importante que lea cuidadosamente todo el contenido de este procedimiento antes de la preparación de
+Savene.
+ 
+1. FORMULACIÓN
+	Savene se suministra como sigue:
+1. Savene polvo
+2. Savene disolvente
+ Savene polvo debe reconstituirse en 25 ml de agua estéril y disolverse en 500 ml de disolvente antes de ser
+administrado.
+ 
+2. RECOMENDACIÓN PARA LA MANIPULACIÓN SEGURA
+	Savene es un antineoplásico, por lo que se deben adoptar los siguientes procedimientos normales para la
+manipulación y eliminación adecuadas de antineoplásicos:
+-    El personal debe recibir formación para reconstituir el medicamento.
+-    Las mujeres embarazadas que formen parte del personal deben quedar excluidas del trabajo con este
+medicamento.
+-    El personal que manipula este medicamento durante la reconstitución debe llevar ropa de
+protección, incluidos máscara, gafas y guantes.
+-    El contacto accidental con la piel o los ojos se debe tratar inmediatamente con cantidades
+abundantes de agua.
+ 
+3. PREPARACIÓN PARA LA ADMINISTRACIÓN INTRAVENOSA
+	3.1 Reconstitución de Savene polvo
+3.1.1 Utilizando una jeringa con una aguja incorporada, extraer de forma aséptica 25 ml de agua estéril.
+3.1.2 Inyectar todo el contenido de la jeringa en el vial que contiene Savene polvo.
+3.1.3 Retirar la jeringa y la aguja y mezclar manualmente invirtiendo repetidas veces hasta que el polvo
+se haya disuelto completamente. No agitar.
+3.1.4 Dejar reposar el vial con la solución reconstituida durante 5 minutos a temperatura ambiente y, a
+continuación, comprobar que la solución es homogénea y transparente. La solución reconstituida es
+ligeramente amarilla.
+La solución reconstituida contiene 20 mg de dexrazoxano por ml y se debe utilizar inmediatamente
+después de la preparación. No contiene conservantes antibacterianos.
+ 3.2 Disolución del concentrado para perfusión
+3.2.1 Se necesitará más de un vial de solución reconstituida para obtener la dosis requerida para el
+paciente. Extraer de manera aséptica el volumen reconstituido correspondiente, que contiene 20 mg
+de dexrazoxano por ml, del número apropiado de viales de solución reconstituida, basándose en la
+ dosis requerida para el paciente expresada en mg. Utilizar una jeringa graduada equipada con una
+aguja.
+3.2.2   Inyectar el volumen reconstituido necesario en la bolsa de perfusión que contiene 500 ml de
+disolvente. La solución no se debe mezclar con ningún otro medicamento.
+3.2.3   Mezclar manualmente la bolsa para perfusión efectuando un movimiento basculante.
+3.2.4   Savene se debe administrar de manera aséptica en forma de perfusión de 1­2 horas a temperatura
+ambiente y en condiciones normales de luz.
+3.2.5   Como todos los productos de administración parenteral, la solución reconstituida y la solución para
+perfusión de Savene se deben inspeccionar visualmente antes de su uso para descartar que
+contengan partículas o presenten decoloración. Se deberán desechar las soluciones en las que se
+observe formación de precipitado.
+ 
+4. ELIMINACIÓN
+	Todos los elementos utilizados para la preparación, administración o limpieza, incluidos los guantes, así
+como el líquido sobrante se deben eliminar de acuerdo con la normativa local.
+
+	Prospectos de medicamentos.

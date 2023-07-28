@@ -1,0 +1,283 @@
+TALIXANE 250 mg comprimidos, 14 comprimidos
+	Información Basica del medicamento Toda la información del medicamento 
+1.     DENOMINACIÓN DEL MEDICAMENTO
+	
+2.     COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	
+3.     FORMA FARMACÉUTICA
+	
+4.     DATOS CLÍNICOS
+	4.1    Indicaciones terapéuticas
+1. Tratamiento de las infecciones fúngicas sensibles a terbinafina tales como Tinea
+corporis, Tinea cruris y Tinea pedis (causadas por dermatofitos; ver apartado 5.1),
+cuando se considere apropiado dependiendo del lugar, gravedad o extensión de la
+infección.
+                 2. Tratamiento de onicomicosis (infecciones fúngicas de las uñas sensibles a
+terbinafina) causada por dermatofitos.
+                 NB Los comprimidos de terbinafina no son eficaces frente a Pityriasis versicolor.
+Se deberán tener en cuenta las directrices oficiales en cuanto al uso y prescripción
+adecuados de antimicrobianos.
+ 4.2             Posología y forma de administración
+Vía de administración:
+Vía oral
+                 La duración del tratamiento depende de la indicación y de la gravedad de la
+infección.
+                 Adultos:
+250 mg una vez al día.
+                 Los pacientes con función renal afectada (aclaramiento de creatinina inferior a 50
+ml/min o creatinina sérica superior a 300 micromol/l) deberían tratarse con la mitad
+de la dosis normal.
+Para los pacientes con afectación hepática, ver apartado 4.3 y 4.4.
+                 Infecciones cutáneas:
+La duración de tratamiento recomendado de Tinea pedis, Tinea corporis y Tinea
+cruris es de 2 a 4 semanas.
+             Para Tinea pedis (interdigital, plantar/tipo mocasín): el período de tratamiento
+recomendado puede ser de hasta 6 semanas.
+             La resolución completa de los síntomas de la infección puede no producirse hasta
+varias semanas después de la curación micológica.
+             Onicomicosis
+Para la mayoría de los pacientes, la duración de un tratamiento eficaz es de 6 a 12
+semanas.
+             Onicomicosis en uñas de las manos
+En la mayoría de los casos, 6 semanas de tratamiento son suficientes para
+onicomicosis en uñas de las manos.
+             Onicomicosis en uñas de los pies
+En la mayoría de los casos, 12 semanas de tratamiento son suficientes para
+onicomicosis en uñas de los pies, aunque algunos pacientes pueden necesitar
+tratamiento de hasta 6 meses.
+Un escaso crecimiento de la uña durante las primeras semanas de tratamiento puede
+permitir identificar a aquellos pacientes que requieren un tratamiento más largo. La
+resolución completa de los signos y síntomas de la infección puede no producirse
+hasta varias semanas después de la curación micológica, y solo se puede comprobar
+algunos meses después de la supresión del tratamiento, tiempo en el cual se
+produce el crecimiento de una uña sana.
+             Niños y adolescentes (< 17 años)
+La experiencia con respecto al uso terbinafina en niños y adolescentes es limitada y
+no se recomienda su uso.
+             Uso en ancianos
+No hay pruebas que indiquen que los pacientes mayores requieren dosis diferentes.
+ 4.3   Contraindicaciones
+Hipersensibilidad a la terbinafina o a alguno de los excipientes.
+Insuficiencia renal grave.
+Insuficiencia hepática grave.
+ 4.4   Advertencias y precauciones especiales de empleo
+Raramente, se han descrito casos de colestasis y hepatitis. Esto generalmente
+ocurre durante los dos primeros meses de tratamiento. Si un paciente presenta
+signos o síntomas que sugieran disfunción hepática tales como prurito, náuseas
+inexplicables persistentes, anorexia o cansancio, ictericia, vómitos, fatiga, dolor
+abdominal, coloración oscura en la orina, o heces claras, debe verificarse si el
+origen es hepático y el tratamiento con terbinafina debe interrumpirse (ver apartado
+4.8).
+             Estudios farmacocinéticos de dosis única, en pacientes con alteraciones hepáticas
+pre-existentes, han demostrado que el aclaramiento de terbinafina puede verse
+reducido un 50% (ver apartado 5.2). El uso terapéutico de terbinafina en pacientes
+con enfermedad hepática crónica o activa, no ha sido estudiado en ensayos clínicos
+prospectivos, y por lo tanto, no se puede recomendar su uso.
+Terbinafina debe utilizarse con precaución en pacientes con psoriasis, ya que se
+han descrito casos muy raros de exacerbación de la psoriasis.
+             Pacientes en tratamiento con terbinafina que desarrollen fiebre alta o dolor de
+garganta deben ser examinados en relación a posibles reacciones hematológicas.
+             Terbinafina es un potente inhibidor de la isoencima CYP2D6, lo que debe ser
+tenido en cuenta si la terbinafina se combina con con otros medicamentos que sean
+metabolizados por esta isoenzima, lo que debe ser valorado individualmente (ver
+apartado 4.5). Puede ser necesario ajuste de dosis.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+El aclaramiento plasmático de la terbinafina puede verse acelerado por principios
+activos que inducen su metabolismo (tales como rifampicina) o puede inhibirse por
+principios activos que inhiben el citocromo P450 (tales como cimetidina). Por lo
+tanto, cuando se requiera la administración concomitante de tales principios
+activos, puede ser necesario un ajuste de la dosis de terbinafina.
+             Estudios in vitro han demostrado que la terbinafina inhibe el metabolismo mediado
+por la enzima CYP2D6. Por este motivo, es importante monitorizar a aquellos
+pacientes que estén siendo tratados simultáneamente con principios activos que son
+principalmente metabolizados por esta enzima, tales como antidepresivos
+tricíclicos, betabloqueantes, inhibidores selectivos de la recaptación de serotonina e
+inhibidores de la Monoamino Oxidasa tipo B, si la medicación concomitante tiene
+un estrecho margen terapéutico.
+             Otros estudios in vitro y clínicos sugieren que la terbinafina tiene un potencial
+mínimo para inhibir o inducir el aclaramiento de principios activos que se
+metabolizan vía otras enzimas del citocromo P450 (tales como ciclosporina,
+tolbutamina, terfenadina, triazolam, anticonceptivos orales). Se han descrito
+algunos casos de alteraciones menstruales tales como adelantos del sangrado o
+ciclos irregulares en pacientes que están tomando terbinafina concomitantemente
+con anticonceptivos orales.
+ 4.6   Embarazo y lactancia
+Los estudios en animales de toxicidad fetal y de fertilidad no sugieren efectos
+adversos.
+             Embarazo:
+No hay experiencia clínica del uso de terbinafina en mujeres embarazadas. No se
+deberá administrar terbinafina durante el embarazo a no ser que sea claramente
+necesario.
+             Lactancia:
+Terbinafina se excreta en la leche materna, por lo tanto, las mujeres en periodo de
+lactancia no deben ser tratadas con terbinafina. La lactancia debería suspenderse
+antes de empezar el tratamiento con terbinafina.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+Terbinafina no ejerce ningún efecto sobre la capacidad para conducir y utilizar
+maquinaria.
+4.8   Reacciones adversas
+Las reacciones adversas suelen ser generalmente leves a moderadas, y pasajeras.
+             Trastornos de la sangre y del sistema linfático:
+Muy raras (<1/10.000, incluyendo notificaciones aisladas): alteraciones
+hematológicas como neutropenia, agranulocitosis y trombocitopenia.
+ Trastornos del sistema inmunológico:
+Muy raras (<1/10.000): manifestación o agravación de lupus eritematoso cutáneo o
+sistémico.
+Muy raras (<1/10.000, incluyendo notificaciones aisladas): reacciones
+anafilácticas.
+             Trastornos psiquiátricos:
+Muy raras (<1/10.000, incluyendo notificaciones aisladas): alteraciones
+psiquiátricas como depresión y ansiedad.
+             Trastornos del sistema nervioso:
+Frecuentes (>1/100, <1/10): cefalea.
+             Trastornos gastrointestinales:
+Frecuentes (>1/100, <1/10): síntomas gastrointestinales (plenitud, pérdida de
+apetito, dispepsia, náusea, dolor abdominal leve, diarrea).
+Poco frecuentes (>1/1000, <1/100): alteraciones del gusto, incluyendo pérdida de
+percepción gustativa, que generalmente se recupera varias semanas después de
+haber finalizado el tratamiento. Se han informado de casos aislados de alteraciones
+persistentes del gusto. En un número muy reducido de casos graves se ha
+informado de una menor ingestión de alimentos causando importante pérdida de
+peso.
+             Trastornos hepatobiliares:
+Raras (>1/10.000, <1/1000): disfunción hepatobiliar (principalmente de tipo
+colestásico).
+Muy raras (<1/10.000, incluyendo notificaciones aisladas): fallo hepático severo.
+             Trastornos de la piel y del tejido subcutáneo:
+Frecuentes (>1/100, <1/10): reacciones cutáneas leves (erupción cutánea, urticaria)
+Raras (>1/10.000, <1/1.000): reacciones cutáneas graves (p.ej. síndrome de
+Stevens-Johnsons, necrólisis epidérmica tóxica, fotosensibilidad) y reacciones
+anafilactóides (incluyendo angioedema). En caso de producirse una erupción
+cutánea progresiva, se deberá interrumpir el tratamiento con terbinafina.
+Muy raras (<1/10.000, incluyendo notificaciones aisladas): exacerbación de la
+psoriasis, pérdida de cabello.
+             Trastornos músculoesqueléticos y del tejido conectivo:
+Raras (>1/10.000, <1/1.000): artralgia, mialgia. Estas pueden ocurrir como parte de
+una reacción de hipersensibilidad en asociación con reacciones cutáneas alérgicas.
+ 4.9   Sobredosis
+Sólo se han descrito algunos casos aislados de sobredosis (después de la ingesta de
+hasta 5 g). Los síntomas fueron cefalea, náusea, dolor epigástrico y mareo.
+             El tratamiento recomendado para la sobredosis consiste en la eliminación del
+fármaco, principalmente por la administración de carbón activo y tratamiento
+sintomático.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	"5.1   Propiedades farmacodinámicas
+Grupo farmacoterapéutico: dermatológicos, antifúngicos para uso sistémico
+Código ATC: D01B A02
+                La terbinafina es una alilamina que posee un amplio espectro de actividad
+antifúngica. A bajas concentraciones la terbinafina presenta efecto fungicida frente
+a dermatófitos, mohos y ciertos hongos dimórficos. La actividad frente a levaduras
+es fungicida o fungiestática dependiendo de las especies.
+                La terbinafina interfiere específicamente en el primer paso de la biosíntesis del
+esterol fúngico. Esto produce una deficiencia de ergosterol y una acumulación
+intracelular de escualeno en la membrana celular del hongo. La deficiencia de
+ergosterol y la acumulación de escualeno producen la muerte del hongo. La
+terbinafina también actúa inhibiendo la enzima escualeno epoxidasa en la
+membrana celular del hongo. Cuando se administra por vía oral, el principio activo
+se concentra en la piel, cabello y uñas, a niveles asociados con actividad fungicida.
+Concentraciones medibles de principio activo son todavía evidentes 15-20 días
+después de la finalización del tratamiento.
+                Terbinafina se utiliza en el tratamiento de las infección fúngicas de piel y uñas
+causadas por Trichophyton (p.ej. T. rubrum, T. mentagrophytes, T.verrucosum, T.
+violaceum), Microsporum canis y Epidermophyton floccosum.
+La siguiente tabla evidencia el rango de concentraciones mínimas inhibitorias
+(CMI) frente a dermatofitos.
+                              Organismo                                Rango de CMI (g/ml)
+Trichophyton rubrum
+Trichophyton mentagrophytes
+Trichophyton verrucosum
+Trichophyton violaceum
+Microsporum canis
+Epidermorphyton floccosum
+                Terbinafina exhibe poca eficacia frente a diversas levaduras de especies de
+Candida.
+                Los comprimidos de terbinafina, al contrario que un tratamiento local de
+terbinafina, no tienen efecto en el tratamiento de la Pitiriasis (Tinea) versicolor.
+ 5.2       Propiedades farmacocinéticas
+                Una dosis oral única de 250 mg de terbinafina produce concentraciones plasmáticas
+máximas de 0,97 g/ml 2 horas después de su administración. La semivida de
+absorción es de 0,8 horas, y la semivida de distribución es de 4,6 horas.
+                Terbinafina tiene una unión a proteínas plasmáticas de 99%.
+Difunde rápidamente a través de la dermis y se concentra en el estrato córneo
+lipofílico. Terbinafina se excreta también en el sebo, alcanzando así altas
+concentraciones en los folículos pilosos, pelo, y en zonas de piel ricas en glándulas
+sebáceas. También, existen indicios de que terbinafina se distribuye en la placa
+ungueal durante las primeras semanas de tratamiento.
+Terbinafina se metaboliza rápidamente por las isoenzimas CYP, principalmente por
+CYP2C9, CYP1A2, CYP3A4, CYP2C8 y CYP2C19. La biotransformación da
+lugar a metabolitos sin actividad antimicótica que se excretan fundamentalmente
+por la orina.
+La semivida de eliminación es de aproximadamente 17 horas. No hay evidencia de
+acumulación en plasma.
+       No se han observado cambios en la farmacocinética relacionados con la edad, pero
+la velocidad de eliminación puede verse reducida en pacientes con insuficiencia
+renal o hepática, resultando en un aumento de las concentraciones plasmáticas de
+terbinafina.
+       Estudios farmacocinéticos de dosis única en pacientes con insuficiencia hepática
+preexistente, de moderada a grave, han demostrado que la eliminación de
+terbinafina puede reducirse en un 50% aproximadamente.
+       La biodisponibilidad de terbinafina se ve moderadamente afectada por la ingesta de
+comida, pero no lo suficiente como para requerir reajuste de la dosis.
+ 5.3   Datos preclínicos sobre seguridad
+El valor aproximado de la DL50 de terbinafina es superior a 4 g/kg, tanto en ratones
+como en ratas.
+       En los estudios a largo plazo (hasta 1 año) en ratas y perros, no se observaron
+efectos tóxicos en ninguna de las especies hasta dosis orales de aproximadamente
+100mg/kg al día. A dosis elevadas administradas por vía oral, el hígado y
+posiblemente los riñones fueron identificados como potenciales órganos diana.
+       En un estudio de carcinogenicidad oral de dos años en ratones no se atribuyeron
+efectos neoplásicos o anormales al tratamiento hasta dosis de 130 (en machos) y de
+156 (en hembras) mg/kg al día. En un estudio de carcinogenicidad oral de dos años
+en ratas, se observó un incremento en la incidencia de tumores hepáticos en los
+machos al nivel de dosis más alto de 69 mg/kg al día, en los cuales, la exposición
+sistémica fue similar a la exposición clínica. No se ha establecido el mecanismo de
+evolución del tumor. La relevancia clínica es desconocida. Los cambios, que
+podrían estar relacionadas con una proliferación de peroxisomas, han demostrado
+ser específicos de esta especie, ya que no se han observado en el estudio de
+carcinogenicidad en ratones, perros y monos.
+       Durante los estudios de dosis elevadas en monos, se observaron irregularidades
+refráctiles en la retina a las dosis más elevadas (el nivel de efecto no tóxico fue 50
+mg/kg). Estas irregularidades se asociaron con la presencia de un metabolito de
+terbinafina en el tejido ocular y desaparecieron al interrumpir el tratamiento. No se
+asociaron con cambios histológicos.
+       Una bateria estándar de pruebas de genotoxicidad ""in vitro"" e ""in vivo"" no reveló
+ninguna evidencia de potencial mutagénico o clastogénico.
+       En los estudios realizados en ratas o conejos, no se observaron reacciones adversas
+sobre la fertilidad ni sobre los parámetros de reproducción.
+                                                                                                MINISTERIO
+"
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+Celulosa microcristalina
+Croscarmelosa sódica
+Silice Anhídrido coloidal
+Hipromelosa
+Estearato de magnesio
+Agua purificada
+ 6.2   Incompatibilidades
+No procede.
+ 6.3   Periodo de validez
+3 años
+ 6.4   Precauciones especiales de conservación
+No se precisan condiciones especiales de conservación.
+ 6.5   Naturaleza y contenido del recipiente
+Envase blister de PVC/PVDC/Al y frasco de polietileno (HDPE) con tapón de
+rosca de polietileno (LDPE).
+Presentaciones:
+Envases blister: 7, 8, 10, 14, 28, 30, 42, 50, 56, 98, 112 comprimidos.
+Frascos: 50 y 100 comprimidos.
+             No todas las presentaciones se comercializan.
+ 6.6   Precauciones especiales de eliminación
+Ninguna en especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	8.    NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+ 9.          FECHA DE LA PRIMERA AUTORIZACIÓN / RENOVACIÓN DE LA
+AUTORIZACIÓN
+DICIEMBRE 2005
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+
+	 
+      TALIXANE 250 mg comprimidos, 28 comprimidos
+         Prospectos de medicamentos.

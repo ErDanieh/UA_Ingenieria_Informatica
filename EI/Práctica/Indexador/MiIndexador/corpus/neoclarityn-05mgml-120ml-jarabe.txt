@@ -1,0 +1,890 @@
+NEOCLARITYN 0,5MG/ML 120ML JARABE
+	Información Basica del medicamento Toda la información del medicamento FICHA TÉCNICA O RESUMEN DE LAS CARACTERÍSTICAS DEL PRODUCTO
+                              1
+
+1.    NOMBRE DEL MEDICAMENTO
+	Neoclarityn 5 mg comprimidos con cubierta pelicular
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada comprimido contiene 5 mg de desloratadina.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Comprimidos con cubierta pelicular
+ 
+
+
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Neoclarityn está indicado para el alivio de los síntomas asociados con:
+-    rinitis alérgica (ver apartado 5.1)
+-    urticaria (ver apartado 5.1)
+ 4.2   Posología y forma de administración
+ Adultos y adolescentes (a partir de 12 años): un comprimido una vez al día, con o sin alimentos para el
+alivio de los síntomas asociados con la rinitis alérgica (incluida rinitis alérgica intermitente y
+persistente) y urticaria (ver apartado 5.1).
+ La experiencia sobre el uso de desloratadina en adolescentes de 12 a 17 años de edad en ensayos
+clínicos de eficacia es limitada (ver secciones 4.8 y 5.1).
+ La rinitis alérgica intermitente (presencia de síntomas durante menos de 4 días a la semana o durante
+menos de 4 semanas) se deberá controlar según la evaluación de la historia de la enfermedad del
+paciente pudiéndose interrumpir el tratamiento después de la resolución de los síntomas, y reiniciarse
+si vuelven a aparecer.
+En la rinitis alérgica persistente (presencia de síntomas durante 4 o más días a la semana y durante más
+de 4 semanas) se puede proponer a los pacientes el tratamiento continuado durante los periodos de
+exposición al alergeno.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo, a alguno de los excipientes o a loratadina.
+ 4.4   Advertencias y precauciones especiales de empleo
+ No se ha establecido la eficacia y seguridad de Neoclarityn comprimidos en niños menores de 12 años
+de edad.
+ En caso de insuficiencia renal severa, Neoclarityn deberá utilizarse con precaución (ver apartado 5.2).
+ Los pacientes con problemas hereditarios raros de intolerancia a galactosa, con déficit de lactasa Lapp
+o con malabsorción de glucosa-galactosa no deberán tomar este medicamento.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+                                                     2
+No se han observado interacciones clínicamente relevantes en ensayos clínicos con desloratadina
+comprimidos en los que se administraron conjuntamente eritromicina o ketoconazol (ver apartado 5.1).
+ En un ensayo de farmacología clínica, Neoclarityn tomado de forma concomitante con alcohol no
+potenció los efectos deteriorantes del alcohol sobre el comportamiento (ver apartado 5.1).
+ 4.6   Embarazo y lactancia
+ Desloratadina no fue teratogénica en estudios con animales. No se ha establecido la seguridad del
+medicamento durante el embarazo. Por lo tanto no se recomienda la administración de Neoclarityn
+durante el embarazo.
+ La desloratadina se excreta en la leche materna, por lo que el empleo de Neoclarityn no se recomienda
+en mujeres en periodo de lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ En ensayos clínicos que evaluaron la capacidad para conducir, no se produjo disminución de la misma
+en los pacientes que recibieron desloratadina. No obstante, se deberá informar a los pacientes que muy
+raramente, algunas personas experimentan somnolencia, que puede afectar a su capacidad para
+conducir o utilizar máquinas.
+ 4.8   Reacciones adversas
+ En ensayos clínicos en un intervalo de indicaciones que incluyen rinitis alérgica y urticaria idiopática
+crónica, a la dosis recomendada de 5 mg diarios, se notificaron reacciones adversas con Neoclarityn en
+un 3 % de pacientes más que en los tratados con placebo. Las reacciones adversas más frecuentes,
+notificadas con una incidencia superior al grupo placebo, fueron cansancio (1,2 %), sequedad de boca
+(0,8 %) y cefalea (0,6 %). En un ensayo clínico con 578 pacientes adolescentes, de 12 a 17 años de
+edad, la reacción adversa más frecuente fue la cefalea; que se produjo en el 5,9 % de los pacientes
+tratados con desloratadina y en el 6,9 % de los pacientes que recibieron placebo. En la siguiente tabla
+se presentan otras reacciones adversas notificadas muy raramente durante el periodo de
+postcomercialización.
+                                                        Alucinaciones
+Trastornos psiquiátricos
+Trastornos del sistema nervioso
+Trastornos cardiacos
+Trastornos gastrointestinales
+Trastornos hepatobiliares
+Trastornos musculoesqueléticos y del tejido
+conjuntivo
+Trastornos generales
+ 4.9   Sobredosis
+ En caso de producirse sobredosis, se deberán considerar las medidas habituales para eliminar el
+principio activo no absorbido. Se recomienda tratamiento sintomático y de soporte.
+ En base a un ensayo clínico con dosis múltiples, en el que se administraron hasta 45 mg de
+desloratadina (nueve veces la dosis clínica), no se observaron efectos clínicamente relevantes.
+ La desloratadina no se elimina por hemodiálisis; se desconoce si puede ser eliminada por diálisis
+peritoneal.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antihistamínicos ­ antagonista H1, código ATC: R06A X27
+ Desloratadina es un antagonista de la histamina de acción prolongada, no sedante, con una actividad
+antagonista selectiva en el receptor H1 periférico. Después de la administración oral, desloratadina
+bloquea selectivamente los receptores H1 periféricos de la histamina porque la sustancia no penetra en
+el sistema nervioso central.
+ La desloratadina ha demostrado propiedades antialérgicas en estudios in vitro. Estas incluyen la
+inhibición de la liberación de citoquinas proinflamatorias tales como IL-4, IL-6, IL-8 e IL-13 de las
+células cebadas/basófilos humanos, así como la inhibición de la expresión de la molécula de adhesión
+P-selectina en las células endoteliales. Todavía está por confirmar la relevancia clínica de estas
+observaciones.
+ En un ensayo clínico con dosis múltiple, en el cual se administraron hasta 20 mg de desloratadina al
+día durante 14 días, no se observaron efectos cardiovasculares estadística o clínicamente relevantes.
+En un ensayo de farmacología clínica, en el cual desloratadina se administró a una dosis de 45 mg al
+día (nueve veces la dosis clínica) durante diez días, no se observó prolongación del intervalo QTc.
+ En ensayos de interacción con ketoconazol y eritromicina en dosis múltiple, no se observaron cambios
+clínicamente relevantes en las concentraciones plasmáticas de desloratadina.
+ La desloratadina no penetra fácilmente en el sistema nervioso central. En ensayos clínicos controlados,
+a la dosis recomendada de 5 mg al día, no hubo incidencia de exceso de somnolencia en comparación
+con placebo. En ensayos clínicos, Neoclarityn administrado a una dosis diaria única de 7,5 mg no
+afectó a la actividad psicomotriz. En un estudio de dosis única realizado en adultos, desloratadina
+5 mg no afectó a las medidas estándar de realización del vuelo incluyendo la exacerbación de la
+somnolencia subjetiva o tareas relacionadas con el vuelo.
+ En ensayos de farmacología clínica, la coadministración con alcohol no aumentó el deterioro inducido
+por el alcohol en el comportamiento, ni aumentó la somnolencia. No se hallaron diferencias
+significativas en los resultados de las pruebas psicomotoras entre los grupos de desloratadina y
+placebo, tanto si se administraba sola o con alcohol.
+ En pacientes con rinitis alérgica, Neoclarityn fue eficaz en el alivio de síntomas tales como estornudos,
+rinorrea y picor nasal, así como escozor, lagrimeo y enrojecimiento ocular y picor de paladar.
+Neoclarityn controló eficazmente los síntomas durante 24 horas. La eficacia de Neoclarityn
+comprimidos no se ha demostrado claramente en ensayos con pacientes adolescentes de 12 a 17 años
+de edad.
+ Además de las clasificaciones establecidas de estacional y perenne, la rinitis alérgica se puede
+clasificar alternativamente como rinitis alérgica intermitente y rinitis alérgica persistente según la
+duración de los síntomas. La rinitis alérgica intermitente se define como la presencia de síntomas
+durante menos de 4 días a la semana o durante menos de 4 semanas. La rinitis alérgica persistente se
+define como la presencia de síntomas durante 4 o más días a la semana y durante más de 4 semanas.
+ Neoclarityn fue eficaz en aliviar la carga de rinitis alérgica estacional tal y como muestra la
+puntuación total del cuestionario de calidad de vida en rino-conjuntivitis. La mayor mejora se observó
+en las áreas de los problemas prácticos y en las actividades diarias limitadas por los síntomas.
+ Se estudió la urticaria idiopática crónica como modelo clínico de afecciones que cursan con urticaria,
+ya que la patofisiología subyacente es similar, con independencia de su etiología, y porque se puede
+reclutar a los pacientes crónicos más fácilmente de forma prospectiva. Como la liberación de
+histamina es un factor causal en todas las enfermedades con urticaria, se espera que desloratadina sea
+eficaz en el alivio sintomático de otras afecciones que cursan con urticaria, además de la urticaria
+idiopática crónica, tal y como se recomienda en las directrices clínicas.
+ En dos ensayos controlados con placebo de seis semanas de duración en pacientes con urticaria
+idiopática crónica, Neoclarityn fue eficaz en el alivio del prurito y en la disminución del tamaño y
+número de ronchas cutáneas al final del primer intervalo de dosificación. En cada ensayo, los efectos
+se mantuvieron durante el intervalo de dosis de 24 horas. Como en el caso de ensayos con otros
+antihistamínicos en urticaria idiopática crónica, se excluyó a la minoría de pacientes que fueron
+identificados como no respondedores a los antihistamínicos. Se observó una mejora en el prurito de
+más del 50 % en el 55 % de los pacientes tratados con desloratadina en comparación con el 19 % de
+los pacientes tratados con placebo. El tratamiento con Neoclarityn también redujo significativamente
+la interferencia con la relación entre el sueño y la vigilia, medida mediante una escala de cuatro
+valores utilizada para valorar estas variables.
+ 5.2   Propiedades farmacocinéticas
+ Las concentraciones plasmáticas de desloratadina se pueden detectar antes de transcurridos 30 minutos
+de su administración. Desloratadina se absorbe bien alcanzándose la concentración máxima después de
+aproximadamente 3 horas; la semivida de eliminación es de aproximadamente 27 horas. El grado de
+acumulación de desloratadina fue coherente con su semivida (aproximadamente 27 horas) y con una
+frecuencia de dosificación de una vez al día. La biodisponibilidad de la desloratadina fue proporcional
+a la dosis en el intervalo de 5 mg a 20 mg.
+ En un ensayo farmacocinético en el que los valores demográficos del paciente fueron comparables a
+los de la población general con rinitis alérgica estacional, el 4 % de los sujetos alcanzó una
+concentración mayor de desloratadina. Este porcentaje puede variar según los antecedentes étnicos. La
+concentración máxima de desloratadina fue unas 3 veces más alta después de
+aproximadamente 7 horas con una semivida de eliminación de aproximadamente 89 horas. El perfil de
+seguridad de estos pacientes no fue diferente al de la población general.
+ Desloratadina se une moderadamente (83 % - 87 %) a proteínas plasmáticas. Después de la
+dosificación una vez al día de desloratadina (5 mg a 20 mg) durante 14 días, no existe evidencia
+clínicamente relevante de acumulación del medicamento.
+ Todavía no se ha identificado la enzima responsable del metabolismo de la desloratadina, y por lo
+tanto, no se pueden excluir completamente algunas interacciones con con otros medicamentos. In vivo
+desloratadina no inhibe el CYP3A4 y estudios in vitro han demostrado que el medicamento no inhibe
+el CYP2D6 y que no es un sustrato ni un inhibidor de la P-glicoproteína.
+ En un ensayo de dosis única utilizando una dosis de 7,5 mg de desloratadina, no hubo ningún efecto
+de los alimentos (desayuno altamente calórico, rico en grasas) sobre la disponibilidad de desloratadina.
+En otro estudio, el zumo de pomelo no afectó la disponibilidad de la desloratadina.
+ 5.3   Datos preclínicos sobre seguridad
+ Desloratadina es el metabolito activo primario de loratadina. Los estudios no clínicos llevados a cabo
+con desloratadina y loratadina demostraron que no hay diferencias cualitativas ni cuantitativas en el
+perfil de toxicidad de desloratadina y loratadina a niveles comparables de exposición a desloratadina.
+ Los datos de los estudios no clínicos con desloratadina, no muestran riesgos especiales para los seres
+humanos según los estudios convencionales de farmacología de seguridad, toxicidad a dosis repetidas,
+genotoxicidad, y toxicidad para la reproducción. Se demostró la ausencia de potencial carcinogénico
+en estudios llevados a cabo con desloratadina y loratadina.
+                                                    5
+
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Núcleo del comprimido: hidrógeno fosfato cálcico dihidrato, celulosa microcristalina, almidón de
+maíz, talco.
+Recubrimiento del comprimido: cubierta pelicular (conteniendo lactosa monohidrato, hipromelosa,
+dióxido de titanio, macrogol 400, indigotina (E132)), cubierta transparente (conteniendo hipromelosa,
+macrogol 400), cera de carnauba, cera blanca.
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 2 años
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC.
+Conservar en el embalaje original.
+ 6.5   Naturaleza y contenido del envase
+ Neoclarityn se presenta en blisters de dosis unitaria formado por una lámina de blister pelicular con
+cubierta de aluminio. Los materiales del blister constan de una película de policlorotrifluoroetileno
+(PCTFE)/Cloruro de Polivinilo (PVC) (superficie en contacto con el producto) con una cubierta de
+aluminio recubierta con una capa vinílica de sellado térmico (superficie en contacto con el producto)
+que se sella por medio del calor.
+Envases de 1, 2, 3, 5, 7, 10, 14, 15, 20, 21, 30, 50 ó 100 comprimidos.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	SP Europe
+Rue de Stalle 73
+B-1180 Bruxelles
+Bélgica
+ 
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/00/161/001-013
+9.   FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 15 de Enero de 2001
+Fecha de la última revalidación: 15 de Enero de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la pagina web de la Agencia
+Europea del Medicamento (EMEA) http://www.emea.europa.eu/.
+ 
+1.       NOMBRE DEL MEDICAMENTO
+	Neoclarityn 0,5 mg/ml jarabe
+ 
+2.       COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada ml de jarabe contiene 0,5 mg de desloratadina.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.       FORMA FARMACÉUTICA
+	Jarabe
+ 
+4.       DATOS CLÍNICOS
+	4.1      Indicaciones terapéuticas
+ Neoclarityn está indicado para el alivio de los síntomas asociados con:
+-    rinitis alérgica (ver apartado 5.1)
+-    urticaria (ver apartado 5.1)
+ 4.2      Posología y forma de administración
+ Neoclarityn puede tomarse con o sin alimentos para el alivio de los síntomas asociados con la rinitis
+alérgica (incluida rinitis alérgica intermitente y persistente) y urticaria (ver apartado 5.1).
+ El médico debe tener en cuenta que la mayoría de los casos de rinitis en menores de 2 años de edad
+son de origen infeccioso (ver apartado 4.4) y que no hay datos que apoyen el tratamiento de la rinitis
+infecciosa con Neoclarityn.
+ Niños de 1 a 5 años: 2,5 ml (1,25 mg) de Neoclarityn jarabe una vez al día.
+ Niños de 6 a 11 años: 5 ml (2,5 mg) de Neoclarityn jarabe una vez al día.
+ Adultos y adolescentes (a partir de 12 años): 10 ml (5 mg) de Neoclarityn jarabe una vez al día.
+ La experiencia sobre el uso de desloratadina en adolescentes de 12 a 17 años de edad en ensayos
+clínicos de eficacia es limitada (ver secciones 4.8 y 5.1).
+ La rinitis alérgica intermitente (presencia de síntomas durante menos de 4 días a la semana o durante
+menos de 4 semanas) se deberá controlar según la evaluación de la historia de la enfermedad del
+paciente pudiéndose interrumpir el tratamiento después de la resolución de los síntomas, y reiniciarse
+si vuelven a aparecer.
+En la rinitis alérgica persistente (presencia de síntomas durante 4 o más días a la semana y durante más
+de 4 semanas) se puede proponer a los pacientes el tratamiento continuado durante los periodos de
+exposición al alergeno.
+ 4.3      Contraindicaciones
+ Hipersensibilidad al principio activo o a alguno de los excipientes o a loratadina.
+ 4.4   Advertencias y precauciones especiales de empleo
+ No se ha establecido la eficacia y seguridad de Neoclarityn jarabe en niños menores de 1 año de edad.
+ En niños menores de 2 años de edad, el diagnóstico de la rinitis alérgica es especialmente difícil de
+distinguir de otras formas de rinitis. Deben considerarse la ausencia de infección del tracto respiratorio
+superior o de anormalidades estructurales, así como la historia del paciente, exámenes físicos y
+pruebas de laboratorio y cutáneas adecuadas.
+ Aproximadamente el 6 % de los adultos y niños entre 2 y 11 años de edad son fenotípicamente
+metabolizadores pobres de desloratadina y muestran una exposición más alta (ver apartado 5.2). La
+seguridad de Neoclarityn jarabe en niños de 2 a 11 años de edad que son metabolizadores pobres es la
+misma que en niños que son metabolizadores normales. Los efectos de Neoclarityn jarabe en
+metabolizadores pobres < 2 años de edad no han sido estudiados.
+ En caso de insuficiencia renal severa, Neoclarityn deberá utilizarse con precaución (ver apartado 5.2).
+ Este medicamento contiene sacarosa y sorbitol; Por ello, los pacientes con alteraciones raras de
+intolerancia hereditaria a la fructosa, mala absorción a la glucosa-galactosa o deficiencia de sacarasa-
+isomaltasa no deben tomar este medicamento.
+ Este medicamento contiene agente colorante E110 que puede provocar reacciones alérgicas.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han observado interacciones clínicamente relevantes en ensayos clínicos con Neoclarityn
+comprimidos en los que se administraron conjuntamente eritromicina o ketoconazol (ver apartado 5.1).
+ En un ensayo de farmacología clínica, Neoclarityn comprimidos tomado de forma concomitante con
+alcohol no potenció los efectos deteriorantes del alcohol sobre el comportamiento (ver apartado 5.1).
+ 4.6   Embarazo y lactancia
+ Desloratadina no fue teratogénica en estudios con animales. No se ha establecido la seguridad del
+medicamento durante el embarazo. Por lo tanto no se recomienda la administración de Neoclarityn
+durante el embarazo.
+ La desloratadina se excreta en la leche materna, por lo que el empleo de Neoclarityn no se recomienda
+en mujeres en periodo de lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ En ensayos clínicos que evaluaron la capacidad para conducir, no se produjo disminución de la misma
+en los pacientes que recibieron desloratadina. No obstante, se deberá informar a los pacientes que muy
+raramente, algunas personas experimentan somnolencia, que puede afectar a su capacidad para
+conducir o utilizar máquinas.
+ 4.8   Reacciones adversas
+ En ensayos clínicos en una población pediátrica, Neoclarityn jarabe se administró a un total de
+246 niños de edades comprendidas entre 6 meses y 11 años. La incidencia global de las reacciones
+adversas en niños de 2 a 11 años de edad fue similar en los grupos de Neoclarityn jarabe y placebo. En
+bebés y niños de edades comprendidas entre 6 y 23 meses, las reacciones adversas más frecuentes
+notificadas por encima del grupo placebo fueron diarrea (3,7 %), fiebre (2,3 %) e insomnio (2,3 %).
+                                                     9
+A la dosis recomendada, en ensayos clínicos que involucraban a adultos y adolescentes en una serie de
+indicaciones que incluían rinitis alérgica y urticaria idiopática crónica, se notificaron reacciones
+adversas con Neoclarityn en un 3 % de pacientes más que en los tratados con placebo. Las reacciones
+adversas más frecuentes, notificadas con una incidencia superior al grupo placebo, fueron cansancio
+(1,2 %), sequedad de boca (0,8 %) y cefalea (0,6 %). En la siguiente tabla se presentan otras
+reacciones adversas notificadas muy raramente durante el periodo de postcomercialización.
+                                                        Alucinaciones
+Trastornos psiquiátricos
+Trastornos del sistema nervioso
+Trastornos cardiacos
+Trastornos gastrointestinales
+Trastornos hepatobiliares
+Trastornos musculoesqueléticos y del tejido
+conjuntivo
+Trastornos generales
+ 4.9   Sobredosis
+ En caso de producirse sobredosis, se deberán considerar las medidas habituales para eliminar el
+principio activo no absorbido. Se recomienda tratamiento sintomático y de soporte.
+ En base a un ensayo clínico en adultos y adolescentes con dosis múltiples, en el que se administraron
+hasta 45 mg de desloratadina (nueve veces la dosis clínica), no se observaron efectos clínicamente
+relevantes.
+ La desloratadina no se elimina por hemodiálisis; se desconoce si puede ser eliminada por diálisis
+peritoneal.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antihistamínicos ­ antagonista H1, código ATC: R06A X27
+ Desloratadina es un antagonista de la histamina de acción prolongada, no sedante, con una actividad
+antagonista selectiva en el receptor H1 periférico. Después de la administración oral, desloratadina
+bloquea selectivamente los receptores H1 periféricos de la histamina porque la sustancia no penetra en
+el sistema nervioso central.
+ La desloratadina ha demostrado propiedades antialérgicas en estudios in vitro. Estas incluyen la
+inhibición de la liberación de citoquinas proinflamatorias tales como IL-4, IL-6, IL-8 e IL-13 de las
+células cebadas/basófilos humanos, así como la inhibición de la expresión de la molécula de adhesión
+P-selectina en las células endoteliales. Todavía está por confirmar la relevancia clínica de estas
+observaciones.
+ La eficacia de Neoclarityn jarabe no se ha investigado en ensayos independientes en pediatría. La
+seguridad de Neoclarityn jarabe se demostró en tres ensayos pediátricos. Niños entre 1 y 11 años de
+edad, que eran candidatos para terapia antihistamínica recibieron una dosis diaria de desloratadina de
+1,25 mg (de 1 a 5 años de edad) ó 2,5 mg (de 6 a 11 años de edad). El tratamiento fue bien tolerado
+según los informes obtenidos de análisis clínicos, signos vitales y datos del intervalo ECG, incluyendo
+QTc. Cuando se administran las dosis recomendadas, las concentraciones plasmáticas de desloratadina
+                                                   10
+(ver apartado 5.2) fueron similares en las poblaciones pediátrica y adulta. Así, ya que el curso de la
+rinitis alérgica/urticaria idiopática crónica y el perfil de la desloratadina son similares en pacientes
+adultos y pediátricos, los datos de eficacia de la desloratadina en adultos pueden extrapolarse a la
+población pediátrica.
+ En un ensayo clínico con dosis múltiple, en adultos y adolescentes, en el cual se administraron
+hasta 20 mg de desloratadina al día durante 14 días, no se observaron efectos cardiovasculares
+estadística o clínicamente relevantes. En un ensayo de farmacología clínica, en adultos y adolescentes,
+en el cual desloratadina se administró en adultos a una dosis de 45 mg al día (9 veces la dosis clínica)
+durante diez días, no se observó prolongación del intervalo QTc.
+ La desloratadina no penetra fácilmente en el sistema nervioso central. En ensayos clínicos controlados,
+a la dosis recomendada de 5 mg al día en adultos y adolescentes, no hubo incidencia de exceso de
+somnolencia en comparación con placebo. En ensayos clínicos, Neoclarityn comprimidos
+administrado a una dosis diaria única de 7,5 mg en adultos y adolescentes no afectó a la actividad
+psicomotriz. En un estudio de dosis única realizado en adultos, desloratadina 5 mg no afectó a las
+medidas estándar relativas a la capacidad de realización del vuelo incluyendo la exacerbación de la
+somnolencia subjetiva o tareas relacionadas con el vuelo.
+ En ensayos de farmacología clínica en adultos, la coadministración con alcohol no aumentó el
+deterioro inducido por el alcohol en el comportamiento, ni aumentó la somnolencia. No se hallaron
+diferencias significativas en los resultados de las pruebas psicomotoras entre los grupos de
+desloratadina y placebo, tanto si se administraba sola o con alcohol.
+ En ensayos de interacción con ketoconazol y eritromicina en dosis múltiple, no se observaron cambios
+clínicamente relevantes en las concentraciones plasmáticas de desloratadina.
+ La eficacia de Neoclarityn jarabe no se ha investigado en ensayos pediátricos en niños menores de
+12 años de edad.
+ En pacientes adultos y adolescentes con rinitis alérgica, Neoclarityn comprimidos fue eficaz en el
+alivio de síntomas tales como estornudos, rinorrea y picor nasal, así como escozor, lagrimeo y
+enrojecimiento ocular y picor de paladar. Neoclarityn controló eficazmente los síntomas
+durante 24 horas. La eficacia de Neoclarityn comprimidos no se ha demostrado claramente en ensayos
+con pacientes adolescentes de 12 a 17 años de edad.
+ Además de las clasificaciones establecidas de estacional y perenne, la rinitis alérgica se puede
+clasificar alternativamente como rinitis alérgica intermitente y rinitis alérgica persistente según la
+duración de los síntomas. La rinitis alérgica intermitente se define como la presencia de síntomas
+durante menos de 4 días a la semana o durante menos de 4 semanas. La rinitis alérgica persistente se
+define como la presencia de síntomas durante 4 o más días a la semana y durante más de 4 semanas.
+ Neoclarityn comprimidos fue eficaz en aliviar la carga de rinitis alérgica estacional tal y como muestra
+la puntuación total del cuestionario de calidad de vida en rino-conjuntivitis. La mayor mejora se
+observó en las áreas de los problemas prácticos y en las actividades diarias limitadas por los síntomas.
+ Se estudió la urticaria idiopática crónica como modelo clínico de afecciones que cursan con urticaria,
+ya que la patofisiología subyacente es similar, con independencia de su etiología, y porque se puede
+reclutar a los pacientes crónicos más fácilmente de forma prospectiva. Como la liberación de
+histamina es un factor causal en todas las enfermedades con urticaria, se espera que desloratadina sea
+eficaz en el alivio sintomático de otras afecciones que cursan con urticaria, además de la urticaria
+idiopática crónica, tal y como se recomienda en las directrices clínicas.
+En dos ensayos controlados con placebo de seis semanas de duración en pacientes con urticaria
+idiopática crónica, Neoclarityn fue eficaz en el alivio del prurito y en la disminución del tamaño y
+número de ronchas cutáneas al finalizar el primer intervalo de dosis. En cada ensayo, los efectos se
+mantuvieron durante el intervalo de dosis de 24 horas. Como en otros ensayos con antihistamínicos en
+urticaria idiopática crónica, se excluyeron la minoría de pacientes que fueron identificados como no
+                                                      11
+respondedores a los antihistamínicos. Una mejoría en el prurito de más del 50 % se observó en el 55 %
+de los pacientes tratados con desloratadina en comparación con el 19 % de los pacientes tratados con
+placebo. El tratamiento con Neoclarityn también redujo significativamente la interferencia con la
+función sueño y vigilia, medida por una escala de cuatro puntos utilizada para evaluar estas variables.
+ 5.2   Propiedades farmacocinéticas
+ Las concentraciones plasmáticas de desloratadina se pueden detectar antes de transcurridos 30 minutos
+de la administración de desloratadina en adultos y adolescentes. Desloratadina se absorbe bien
+alcanzándose la concentración máxima después de aproximadamente 3 horas; la semivida de
+eliminación es de aproximadamente 27 horas. El grado de acumulación de desloratadina fue coherente
+con su semivida (aproximadamente 27 horas) y con una frecuencia de dosificación de una vez al día.
+La biodisponibilidad de la desloratadina fue proporcional a la dosis en el intervalo de 5 mg a 20 mg.
+ En una serie de ensayos clínicos y farmacocinéticos, el 6 % de los sujetos alcanzó una concentración
+más alta de desloratadina. La prevalencia de este fenotipo metabolizador pobre fue similar en adultos
+(6 %) y en sujetos pediátricos de 2 a 11 años de edad (6 %), y mayor en Raza negra (18 % adultos,
+16 % pediátricos) que en Caucásicos (2 % adultos, 3 % pediátricos) en ambas poblaciones.
+ En un estudio farmacocinético de dosis múltiple realizado con la formulación en comprimidos en
+sujetos adultos sanos, cuatro sujetos resultaron ser metabolizadores pobres de desloratadina. Estos
+sujetos tuvieron una Cmax alrededor de 3 veces más alta después de aproximadamente 7 horas con una
+semivida de eliminación de aproximadamente 89 horas.
+ Se observaron parámetros farmacocinéticos similares en un estudio farmacocinético de dosis múltiple
+realizado con la formulación en jarabe en sujetos metabolizadores pobres pediátricos de 2 a 11 años de
+edad diagnosticados con rinitis alérgica. La exposición (AUC) a desloratadina fue alrededor de 6 veces
+más alta y la Cmax fue alrededor de 3 a 4 veces más alta a las 3 - 6 horas con una semivida de
+eliminación de aproximadamente 120 horas. La exposición fue la misma en adultos y en
+metabolizadores pobres pediátricos cuando se trataron con dosis adecuadas a la edad. El perfil de
+seguridad global de estos sujetos no fue diferente del de la población en general. Los efectos de
+Neoclarityn jarabe en los metabolizadores pobres < 2 años de edad, no ha sido estudiada.
+ Desloratadina se une moderadamente (83 % - 87 %) a proteínas plasmáticas. Después de la
+dosificación una vez al día en adultos y adolescentes de desloratadina (5 mg a 20 mg) durante 14 días,
+no existe evidencia clínicamente relevante de acumulación del principio activo.
+ En un ensayo de dosis única, cruzado, de desloratadina, las formulaciones de comprimido y jarabe
+fueron bioequivalentes.
+ En estudios de dosis única independientes, a las dosis recomendadas, los pacientes pediátricos
+presentaron valores de AUC y Cmax de desloratadina similares a los obtenidos en adultos que
+recibieron una dosis de 5 mg de desloratadina jarabe.
+ Todavía no se ha identificado la enzima responsable del metabolismo de la desloratadina, y por lo
+tanto, no se pueden excluir completamente algunas interacciones con con otros medicamentos. In vivo
+desloratadina no inhibe el CYP3A4 y estudios in vitro han demostrado que el medicamento no inhibe
+el CYP2D6 y que no es un sustrato ni un inhibidor de la P-glicoproteína.
+ En un ensayo de dosis única utilizando una dosis de 7,5 mg de desloratadina, no hubo ningún efecto
+de los alimentos (desayuno altamente calórico, rico en grasas) sobre la disponibilidad de desloratadina.
+En otro estudio, el zumo de pomelo no afectó la disponibilidad de la desloratadina.
+ 5.3   Datos preclínicos sobre seguridad
+ Desloratadina es el metabolito activo primario de loratadina. Los estudios no clínicos llevados a cabo
+con desloratadina y loratadina demostraron que no hay diferencias cualitativas ni cuantitativas en el
+perfil de toxicidad de desloratadina y loratadina a niveles comparables de exposición a desloratadina.
+ Los datos de los estudios no clínicos con desloratadina, no muestran riesgos especiales para los seres
+humanos según los estudios convencionales de farmacología de seguridad, toxicidad a dosis repetidas,
+genotoxicidad, y toxicidad para la reproducción. Se demostró la ausencia de potencial carcinogénico
+en estudios llevados a cabo con desloratadina y loratadina.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ Propilenglicol,
+sorbitol,
+ácido cítrico anhidro,
+citrato sódico,
+benzoato sódico,
+edetato disódico,
+agua purificada,
+sacarosa,
+aroma natural y artificial (chicle),
+color naranja E110.
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 2 años
+ 6.4   Precauciones especiales de conservación
+ No conservar a temperatura superior a 30ºC. Conservar en el embalaje original.
+ 6.5   Naturaleza y contenido del envase
+ Neoclarityn jarabe se presenta en frascos de 30, 50, 60, 100, 120, 150, 225 y 300 ml de vidrio ambar
+tipo III cerrados con un tapón de polipropileno a prueba de niños. Los tapones tienen una capa de
+Polietileno de Baja Densidad (LDPE), espuma de polietileno, etilenevinilacetato (EVA) y cloruro de
+polivinilideno (PvDC). El LDPE es la superficie de contacto del producto.
+Se incluye una cucharilla de medida de poliestireno, transparente y rígida, calibrada a 2,5 ml y 5 ml.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	SP Europe
+Rue de Stalle 73
+B-1180 Bruxelles
+Bélgica
+ 
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/00/161/014-021
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 15 de Enero de 2001
+Fecha de la última revalidación: 15 de Enero de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la pagina web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu/.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Neoclarityn 5 mg liofilizado oral
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada dosis de Neoclarityn liofilizado oral contiene 5 mg de desloratadina.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	Liofilizado oral
+ 
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Neoclarityn está indicado para el alivio de los síntomas asociados con:
+-    rinitis alérgica (ver apartado 5.1)
+-    urticaria (ver apartado 5.1)
+ 4.2   Posología y forma de administración
+ Adultos y adolescentes (a partir de 12 años): una dosis de Neoclarityn liofilizado oral colocada en la
+boca una vez al día para el alivio de los síntomas asociados con la rinitis alérgica (incluida rinitis
+alérgica intermitente y persistente) y urticaria (ver apartado 5.1). Neoclarityn liofilizado oral se dispersa
+instantáneamente y no necesita agua u otro líquido. La dosis puede tomarse con o sin alimentos.
+ La experiencia sobre el uso de desloratadina en adolescentes de 12 a 17 años de edad en ensayos
+clínicos de eficacia es limitada (ver secciones 4.8 y 5.1).
+ La rinitis alérgica intermitente (presencia de síntomas durante menos de 4 días a la semana o durante
+menos de 4 semanas) se deberá controlar según la evaluación de la historia de la enfermedad del
+paciente pudiéndose interrumpir el tratamiento después de la resolución de los síntomas, y reiniciarse
+si vuelven a aparecer.
+En la rinitis alérgica persistente (presencia de síntomas durante 4 o más días a la semana y durante más
+de 4 semanas) se puede proponer a los pacientes el tratamiento continuado durante los periodos de
+exposición al alergeno.
+ Inmediatamente antes de su utilización, se abre despegando cuidadosamente el blister y se extrae la
+dosis de liofilizado oral sin desintegrarla. Se introduce en la boca y se dispersa inmediatamente. No se
+necesita agua u otro líquido para ingerir la dosis. Debe tomarse la dosis tan pronto como se abra el
+blister.
+ 4.3   Contraindicaciones
+ Hipersensibilidad al principio activo, a alguno de sus excipientes o a loratadina.
+ 4.4   Advertencias y precauciones especiales de empleo
+ No se ha establecido la eficacia y seguridad de Neoclarityn comprimidos en niños menores de 12 años
+de edad.
+ En caso de insuficiencia renal severa, Neoclarityn deberá utilizarse con precaución.
+ Este producto contiene 1,75 mg de aspartamo por dosis. El aspartamo es una fuente de fenilalanina,
+que puede ser perjudicial para personas con fenilcetonuria.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han observado interacciones clínicamente relevantes en ensayos clínicos con Neoclarityn
+comprimidos en los que se administraron conjuntamente eritromicina o ketoconazol (ver apartado 5.1).
+ En un ensayo de farmacología clínica, Neoclarityn comprimidos tomado de forma concomitante con
+alcohol no potenció los efectos deteriorantes del alcohol sobre el comportamiento (ver apartado 5.1).
+ 4.6   Embarazo y lactancia
+ Desloratadina no fue teratogénica en estudios con animales. No se ha establecido la seguridad del
+medicamento durante el embarazo. Por lo tanto no se recomienda la administración de Neoclarityn
+durante el embarazo.
+ La desloratadina se excreta en la leche materna, por lo que el empleo de Neoclarityn no se recomienda
+en mujeres en periodo de lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ En ensayos clínicos que evaluaron la capacidad para conducir, no se produjo disminución de la misma
+en los pacientes que recibieron desloratadina. No obstante, se deberá informar a los pacientes que muy
+raramente, algunas personas experimentan somnolencia, que puede afectar a su capacidad para
+conducir o utilizar máquinas.
+ 4.8   Reacciones adversas
+ En ensayos clínicos en un intervalo de indicaciones que incluyen rinitis alérgica y urticaria idiopática
+crónica, a la dosis recomendada de 5 mg diarios, se notificaron reacciones adversas con Neoclarityn
+comprimidos en un 3 % de pacientes más que en los tratados con placebo. Las reacciones adversas
+más frecuentes, notificadas con una incidencia superior al grupo placebo, fueron cansancio (1,2 %),
+sequedad de boca (0,8 %) y cefalea (0,6 %). En un ensayo clínico con 578 pacientes adolescentes, de
+12 a 17 años de edad, la reacción adversa más frecuente fue la cefalea; que se produjo en el 5,9 % de
+los pacientes tratados con desloratadina y en el 6,9 % de los pacientes que recibieron placebo. En la
+siguiente tabla se presentan otras reacciones adversas notificadas muy raramente durante el periodo de
+postcomercialización.
+ Trastornos psiquiátricos
+Trastornos del sistema nervioso
+Trastornos cardiacos
+Trastornos gastrointestinales
+Trastornos hepatobiliares
+Trastornos musculoesqueléticos y del tejido
+conjuntivo
+Trastornos generales
+ 4.9   Sobredosis
+ En caso de producirse sobredosis, se deberán considerar las medidas habituales para eliminar el
+principio activo no absorbido. Se recomienda tratamiento sintomático y de soporte.
+ En base a un ensayo clínico con dosis múltiples, en el que se administraron hasta 45 mg de
+desloratadina (nueve veces la dosis clínica), no se observaron efectos clínicamente relevantes.
+ La desloratadina no se elimina por hemodiálisis; se desconoce si puede ser eliminada por diálisis
+peritoneal.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antihistamínicos ­ antagonista H1, código ATC: R06A X27
+ Desloratadina es un antagonista de la histamina de acción prolongada, no sedante, con una actividad
+antagonista selectiva en el receptor H1 periférico. Después de la administración oral, desloratadina
+bloquea selectivamente los receptores H1 periféricos de la histamina porque la sustancia no penetra en
+el sistema nervioso central.
+ La desloratadina ha demostrado propiedades antialérgicas en estudios in vitro. Estas incluyen la
+inhibición de la liberación de citoquinas proinflamatorias tales como IL-4, IL-6, IL-8 e IL-13 de las
+células cebadas/basófilos humanos, así como la inhibición de la expresión de la molécula de adhesión
+P-selectina en las células endoteliales. Todavía está por confirmar la relevancia clínica de estas
+observaciones.
+ En dos ensayos de dosis única, Neoclarityn liofilizado oral fue bien tolerado tal y como se documentó
+mediante los hallazgos del laboratorio clínico, exámenes físicos, signos vitales y datos de intervalos
+del ECG.
+ A la dosis recomendada, Neoclarityn liofilizado oral resultó ser bioequivalente a la formulación de
+comprimido convencional de desloratadina. Por lo tanto, se espera que la eficacia de Neoclarityn
+liofilizado oral sea la misma que con la formulación de Neoclarityn comprimido.
+ En un ensayo clínico con dosis múltiple, en el cual se administraron hasta 20 mg de desloratadina al
+día durante 14 días, no se observaron efectos cardiovasculares estadística o clínicamente relevantes.
+En un ensayo de farmacología clínica, en el cual desloratadina se administró a una dosis de 45 mg al
+día (nueve veces la dosis clínica) durante diez días, no se observó prolongación del intervalo QTc.
+ En ensayos de interacción con ketoconazol y eritromicina en dosis múltiple, no se observaron cambios
+clínicamente relevantes en las concentraciones plasmáticas de desloratadina.
+ La desloratadina no penetra fácilmente en el sistema nervioso central. En ensayos clínicos controlados,
+a la dosis recomendada de 5 mg al día, no hubo aumento de la incidencia de somnolencia en
+comparación con placebo. En ensayos clínicos, Neoclarityn comprimidos administrados a una dosis
+diaria única de 7,5 mg no afectó a la actividad psicomotriz. En un estudio de dosis única realizado en
+adultos, desloratadina 5 mg no afectó a las medidas estándar relativas a la capacidad de realización del
+vuelo incluyendo la exacerbación de la somnolencia subjetiva o tareas relacionadas con el vuelo.
+ En ensayos de farmacología clínica, la coadministración con alcohol no aumentó el deterioro inducido
+por el alcohol en el comportamiento, ni aumentó la somnolencia. No se hallaron diferencias
+significativas en los resultados de las pruebas psicomotoras entre los grupos de desloratadina y
+placebo, tanto si se administraba sola o con alcohol.
+ En pacientes con rinitis alérgica, Neoclarityn comprimidos fue eficaz en el alivio de síntomas tales
+como estornudos, rinorrea y picor nasal, así como escozor, lagrimeo y enrojecimiento ocular y picor
+de paladar. Neoclarityn comprimidos controló eficazmente los síntomas durante 24 horas. La eficacia
+de Neoclarityn comprimidos no se ha demostrado claramente en ensayos con pacientes adolescentes
+de 12 a 17 años de edad.
+ Además de las clasificaciones establecidas de estacional y perenne, la rinitis alérgica se puede
+clasificar alternativamente como rinitis alérgica intermitente y rinitis alérgica persistente según la
+duración de los síntomas. La rinitis alérgica intermitente se define como la presencia de síntomas
+durante menos de 4 días a la semana o durante menos de 4 semanas. La rinitis alérgica persistente se
+define como la presencia de síntomas durante 4 o más días a la semana y durante más de 4 semanas.
+ Neoclarityn fue eficaz en aliviar la carga de rinitis alérgica estacional tal y como muestra la
+puntuación total del cuestionario de calidad de vida en rino-conjuntivitis. La mayor mejora se observó
+en las áreas de los problemas prácticos y en las actividades diarias limitadas por los síntomas.
+ Se estudió la urticaria idiopática crónica como modelo clínico de afecciones que cursan con urticaria,
+ya que la patofisiología subyacente es similar, con independencia de su etiología, y porque se puede
+reclutar a los pacientes crónicos más fácilmente de forma prospectiva. Como la liberación de
+histamina es un factor causal en todas las enfermedades con urticaria, se espera que desloratadina sea
+eficaz en el alivio sintomático de otras afecciones que cursan con urticaria, además de la urticaria
+idiopática crónica, tal y como se recomienda en las directrices clínicas.
+ En dos ensayos controlados con placebo de seis semanas de duración en pacientes con urticaria
+idiopática crónica, Neoclarityn fue eficaz en el alivio del prurito y en la disminución del tamaño y
+número de ronchas cutáneas al final del primer intervalo de dosificación. En cada ensayo, los efectos
+se mantuvieron durante el intervalo de dosis de 24 horas. Como en el caso de ensayos con otros
+antihistamínicos en urticaria idiopática crónica, se excluyó a la minoría de pacientes que fueron
+identificados como no respondedores a los antihistamínicos. Se observó una mejora en el prurito de
+más del 50 % en el 55 % de los pacientes tratados con desloratadina en comparación con el 19 % de
+los pacientes tratados con placebo. El tratamiento con Neoclarityn también redujo significativamente
+la interferencia con la relación entre el sueño y la vigilia, medida mediante una escala de cuatro
+valores utilizada para valorar estas variables.
+ 5.2   Propiedades farmacocinéticas
+ Las concentraciones plasmáticas de desloratadina se pueden detectar antes de transcurridos 30 minutos
+de su administración.
+Desloratadina se absorbe bien alcanzándose la concentración máxima después de
+aproximadamente 3 horas; la semivida de eliminación es de aproximadamente 27 horas. El grado de
+acumulación de desloratadina se correspondió con su semivida (aproximadamente 27 horas) y con una
+frecuencia de dosificación de una vez al día. La biodisponibilidad de la desloratadina fue proporcional
+a la dosis en el intervalo de 5 mg a 20 mg.
+ En un ensayo farmacocinético en el que los valores demográficos del paciente fueron comparables a
+los de la población general con rinitis alérgica estacional, el 4 % de los sujetos alcanzó una
+concentración mayor de desloratadina. Este porcentaje puede variar según los antecedentes étnicos. La
+concentración máxima de desloratadina fue unas 3 veces más alta después de
+aproximadamente 7 horas con una semivida de eliminación de aproximadamente 89 horas. El perfil de
+seguridad de estos pacientes no fue diferente al de la población general.
+ Desloratadina se une moderadamente (83 % - 87 %) a proteínas plasmáticas. Después de la
+dosificación una vez al día de desloratadina (5 mg a 20 mg) durante 14 días, no existe evidencia
+clínicamente relevante de acumulación del medicamento.
+ Todavía no se ha identificado la enzima responsable del metabolismo de la desloratadina, y por lo
+tanto, no se pueden excluir completamente algunas interacciones con con otros medicamentos. In vivo
+desloratadina no inhibe el CYP3A4 y estudios in vitro han demostrado que el medicamento no inhibe
+el CYP2D6 y que no es un sustrato ni un inhibidor de la P-glicoproteína.
+ En estudios cruzados de dosis única con Neoclarityn liofilizado oral y Neoclarityn comprimidos, las
+formulaciones fueron bioequivalentes.
+ La presencia de alimentos no influyó de forma relevante en la AUC y Cmax de Neoclarityn liofilizado
+oral, mientras que se prolongó el Tmax para desloratadina de 2,5 a 4 horas y el Tmax para 3-OH-
+desloratadina de 4 a 6 horas. En otro estudio, el zumo de pomelo no afectó la disponibilidad de la
+desloratadina.
+ 5.3   Datos preclínicos sobre seguridad
+ Desloratadina es el metabolito activo primario de loratadina. Los estudios no clínicos llevados a cabo
+con desloratadina y loratadina demostraron que no hay diferencias cualitativas ni cuantitativas en el
+perfil de toxicidad de desloratadina y loratadina a niveles comparables de exposición a desloratadina.
+ Los datos de los estudios no clínicos con desloratadina, no muestran riesgos especiales para los seres
+humanos según los estudios convencionales de farmacología de seguridad, toxicidad a dosis repetidas,
+genotoxicidad, y toxicidad para la reproducción. No se observó un efecto irritante local significativo
+cuando la forma de disolución rápida se probó en un ensayo de irritación de la membrana mucosa en la
+bolsa del carrillo de hamster. No se observó un efecto irritante local significativo cuando se evaluó la
+forma de disolución rápida en un ensayo de irritación de la membrana mucosa. Se demostró la
+ausencia de potencial carcinogénico en estudios llevados a cabo con desloratadina y loratadina.
+ 
+6.    DATOS FARMACÉUTICOS
+	6.1   Lista de excipientes
+ gelatina
+manitol
+aspartamo (E951)
+polacrilina potásica
+                                                    19
+Colorante Opatint Rojo (contiene óxido de hierro rojo (E172) e hipromelosa (E464))
+sabor a Tutti-Frutti
+ácido cítrico anhidro
+ 6.2   Incompatibilidades
+ No procede.
+ 6.3   Periodo de validez
+ 2 años
+ 6.4   Precauciones especiales de conservación
+ Conservar en el embalaje original.
+ 6.5   Naturaleza y contenido del envase
+ Neoclarityn liofilizado oral se presenta en blisters de dosis unitaria formado por una lámina de blister
+pelicular con cubierta de aluminio.
+ Los materiales del blister constan de una película de cloruro de polivinilo (PVC) (superficie en
+contacto con el producto) con una cubierta de aluminio incorporada, recubierta con una capa vinílica
+de sellado térmico (superficie en contacto con el producto) que se sella por medio del calor.
+Envases de 1, 2, 3, 5, 7, 10, 14, 15, 20, 21, 30, 50 ó 100 dosis de liofilizado oral.
+Puede que solamente estén comercializados algunos tamaños de envases.
+ 6.6   Precauciones especiales de eliminación
+ Ninguna especial.
+ 
+7.    TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+	SP Europe
+Rue de Stalle 73
+B-1180 Bruxelles
+Bélgica
+ 
+8.    NÚMEROS DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+	EU/1/00/161/022-034
+ 9.    FECHA DE LA PRIMERA AUTORIZACIÓN/RENOVACIÓN DE LA
+AUTORIZACIÓN
+ Fecha de la primera autorización: 15 de Enero de 2001
+Fecha de la última revalidación: 15 de Enero de 2006
+ 10. FECHA DE LA REVISIÓN DEL TEXTO
+ La información detallada de este medicamento está disponible en la pagina web de la Agencia Europea
+del Medicamento (EMEA) http://www.emea.europa.eu/.
+ 
+1.    NOMBRE DEL MEDICAMENTO
+	Neoclarityn 2,5 mg comprimidos bucodispersables
+ 
+2.    COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+	Cada dosis de Neoclarityn comprimido bucodispersable contiene 2,5 mg de desloratadina.
+ Para consultar la lista completa de excipientes, ver sección 6.1.
+ 
+3.    FORMA FARMACÉUTICA
+	"Comprimido bucodispersable
+ Comprimidos de color rojo claro, de superficie plana, redondos, moteados, marcados por un lado con
+una ""K""
+ "
+4.    DATOS CLÍNICOS
+	4.1   Indicaciones terapéuticas
+ Neoclarityn está indicado para el alivio de los síntomas asociados con:
+-    rinitis alérgica (ver apartado 5.1)
+-    urticaria (ver apartado 5.1)
+ 4.2   Posología y forma de administración
+ Niños de 6 a 11 años: un comprimido bucodispersable de 2,5 mg de Neoclarityn colocado en la boca
+una vez al día para el alivio de los síntomas asociados con la rinitis alérgica (incluida rinitis alérgica
+intermitente y persistente) y urticaria (ver apartado 5.1).
+ Adultos y adolescentes (a partir de 12 años): dos comprimidos bucodispersables de 2,5 mg de
+Neoclarityn colocados en la boca una vez al día para el alivio de los síntomas asociados con la rinitis
+alérgica (incluida rinitis alérgica intermitente y persistente) y urticaria (ver apartado 5.1).
+ La dosis puede tomarse con o sin alimentos.
+ La experiencia sobre el uso de desloratadina en adolescentes de 12 a 17 años de edad en ensayos
+clínicos de eficacia es limitada (ver secciones 4.8 y 5.1).
+ La rinitis alérgica intermitente (presencia de síntomas durante menos de 4 días a la semana o durante
+menos de 4 semanas) se deberá controlar según la evaluación de la historia de la enfermedad del
+paciente pudiéndose interrumpir el tratamiento después de la resolución de los síntomas, y reiniciarse
+si vuelven a aparecer.
+En la rinitis alérgica persistente (presencia de síntomas durante 4 o más días a la semana y durante más
+de 4 semanas) se puede proponer a los pacientes el tratamiento continuado durante los periodos de
+exposición al alergeno.
+ Inmediatamente antes de su utilización, se abre despegando cuidadosamente el blister y se extrae el
+comprimido bucodispersable sin desintegrarlo. La dosis de comprimido bucodispersable se introduce
+en la boca y se dispersa inmediatamente. No se necesita agua u otro líquido para ingerir la dosis. Debe
+tomarse la dosis tan pronto como se abra el blister.
+ 4.3   Contraindicaciones
+                                                      22
+Hipersensibilidad al principio activo, a alguno de sus excipientes o a loratadina.
+ 4.4   Advertencias y precauciones especiales de empleo
+ No se ha establecido la eficacia y seguridad de Neoclarityn 2,5 mg comprimidos bucodispersables en
+niños menores de 6 años de edad.
+ En caso de insuficiencia renal severa, Neoclarityn deberá utilizarse con precaución.
+ Este medicamento contiene 1,4 mg de fenilalanina por cada dosis de 2,5 mg de Neoclarityn
+comprimidos bucodispersables. La fenilalanina puede ser perjudicial para personas con fenilcetonuria.
+ 4.5   Interacción con con otros medicamentos y otras formas de interacción
+ No se han observado interacciones clínicamente relevantes en ensayos clínicos con Neoclarityn
+comprimidos en los que se administraron conjuntamente eritromicina o ketoconazol (ver apartado 5.1).
+ En un ensayo de farmacología clínica, Neoclarityn comprimidos tomado de forma concomitante con
+alcohol no potenció los efectos deteriorantes del alcohol sobre el comportamiento (ver apartado 5.1).
+ 4.6   Embarazo y lactancia
+ Desloratadina no fue teratogénica en estudios con animales. No se ha establecido la seguridad del
+medicamento durante el embarazo. Por lo tanto no se recomienda la administración de Neoclarityn
+durante el embarazo.
+ La desloratadina se excreta en la leche materna, por lo que el empleo de Neoclarityn no se recomienda
+en mujeres en periodo de lactancia.
+ 4.7   Efectos sobre la capacidad para conducir y utilizar máquinas
+ En ensayos clínicos que evaluaron la capacidad para conducir, no se produjo disminución de la misma
+en los pacientes que recibieron desloratadina. No obstante, se deberá informar a los pacientes que muy
+raramente, algunas personas experimentan somnolencia, que puede afectar a su capacidad para
+conducir o utilizar máquinas.
+ 4.8   Reacciones adversas
+ En ensayos clínicos, se administró desloratadina en la formulación de jarabe a la población pediátrica.
+La incidencia global de reacciones adversas fue similar entre los grupos con desloratadina jarabe y con
+placebo y no fue significativamente distinto al perfil de seguridad observado en pacientes adultos.
+ En ensayos clínicos, en un intervalo de indicaciones que incluyen rinitis alérgica y urticaria idiopática
+crónica, a la dosis recomendada de 5 mg diarios, se notificaron reacciones adversas con Neoclarityn
+comprimidos en un 3 % de pacientes más que en los tratados con placebo. Las reacciones adversas
+más frecuentes, notificadas con una incidencia superior al grupo placebo, fueron cansancio (1,2 %),
+sequedad de boca (0,8 %) y cefalea (0,6 %). En un ensayo clínico con 578 pacientes adolescentes, de
+12 a 17 años de edad, la reacción adversa más frecuente fue la cefalea; que se produjo en el 5,9 % de
+los pacientes tratados con desloratadina y en el 6,9 % de los pacientes que recibieron placebo. En la
+siguiente tabla se presentan otras reacciones adversas notificadas muy raramente durante el periodo de
+postcomercialización.
+ Trastornos psiquiátricos
+Trastornos del sistema nervioso
+Trastornos cardiacos
+Trastornos gastrointestinales
+Trastornos hepatobiliares
+Trastornos musculoesqueléticos y del tejido
+conjuntivo
+Trastornos generales
+ 4.9   Sobredosis
+ En caso de producirse sobredosis, se deberán considerar las medidas habituales para eliminar el
+principio activo no absorbido. Se recomienda tratamiento sintomático y de soporte.
+ En base a un ensayo clínico con dosis múltiples, en el que se administraron hasta 45 mg de
+desloratadina (nueve veces la dosis clínica), no se observaron efectos clínicamente relevantes.
+ La desloratadina no se elimina por hemodiálisis; se desconoce si puede ser eliminada por diálisis
+peritoneal.
+ 
+5.    PROPIEDADES FARMACOLÓGICAS DE ESTE MEDICAMENTO
+	5.1   Propiedades farmacodinámicas
+ Grupo farmacoterapéutico: antihistamínicos ­ antagonista H1, código ATC: R06A X27
+ Desloratadina es un antagonista de la histamina de acción prolongada, no sedante, con una actividad
+antagonista selectiva en el receptor H1 periférico. Después de la administración oral, desloratadina
+bloquea selectivamente los receptores H1 periféricos de la histamina porque la sustancia no penetra en
+el sistema nervioso central.
+ La desloratadina ha demostrado propiedades antialérgicas en estudios in vitro. Estas incluyen la
+inhibición de la liberación de citoquinas proinflamatorias tales como IL-4, IL-6, IL-8 e IL-13 de las
+células cebadas/basófilos humanos, así como la inhibición de la expresión de la molécula de adhesión
+P-selectina en las células endoteliales. Todavía está por confirmar la relevancia clínica de estas
+observaciones.
+ En dos ensayos de dosis única, Neoclarityn liofilizado oral fue bien tolerado tal y como se documentó
+mediante los hallazgos del laboratorio clínico, exámenes físicos, signos vitales y datos de intervalos
+del ECG. Además, Neoclarityn comprimidos bucodispersables fueron bien tolerados en un ensayo con
+dosis múltiple.
+ A la dosis recomendada, Neoclarityn 5 mg comprimidos bucodispersables resultó ser bioequivalente a
+las formulaciones de desloratadina de Neoclarityn 5 mg comprimido convencional y de Neoclarityn
+5 mg liofilizado oral. Por lo tanto, se espera que la eficacia de Neoclarityn comprimidos
+bucodispersables sea la misma que con la formulación de Neoclarityn comprimido.
+ En un ensayo clínico con dosis múltiple, en el cual se administraron hasta 20 mg de desloratadina al
+día durante 14 días, no se observaron efectos cardiovasculares estadística o clínicamente relevantes.
+ En un ensayo de farmacología clínica, en el cual desloratadina se administró a una dosis de 45 mg al
+día (nueve veces la dosis clínica) durante diez días, no se observó prolongación del intervalo QTc.
+ En ensayos de interacción con ketoconazol y eritromicina en dosis múltiple, no se observaron cambios
+clínicamente relevantes en las concentraciones plasmáticas de desloratadina.
+ La desloratadina no penetra fácilmente en el sistema nervioso central. En ensayos clínicos controlados,
+a la dosis recomendada de 5 mg al día, no hubo aumento de la incidencia de somnolencia en
+comparación con placebo. En ensayos clínicos, Neoclarityn comprimidos administrados a una dosis
+diaria única de 7,5 mg no afectó a la actividad psicomotriz. En un estudio de dosis única realizado en
+adultos, desloratadina 5 mg no afectó a las medidas estándar relativas a la capacidad de realización del
+vuelo incluyendo la exacerbación de la somnolencia subjetiva o tareas relacionadas con el vuelo.
+ En ensayos de farmacología clínica, la coadministración con alcohol no aumentó el deterioro inducido
+por el alcohol en el comportamiento, ni aumentó la somnolencia. No se hallaron diferencias
+significativas en los resultados de las pruebas psicomotoras entre los grupos de desloratadina y
+placebo, tanto si se administraba sola o con alcohol.
+ En pacientes con rinitis alérgica, Neoclarityn comprimidos fue eficaz en el alivio de síntomas tales
+como estornudos, rinorrea y picor nasal, así como escozor, lagrimeo y enrojecimiento ocular y picor
+de paladar. Neoclarityn comprimidos controló eficazmente los síntomas durante 24 horas. La eficacia
+de Neoclarityn comprimidos no se ha demostrado claramente en ensayos con pacientes adolescentes
+de 12 a 17 años de edad.
+ Además de las clasificaciones establecidas de estacional y perenne, la rinitis alérgica se puede
+clasificar alternativamente como rinitis alérgica intermitente y rinitis alérgica persistente según la
+duración de los síntomas. La rinitis alérgica intermitente se define como la presencia de síntomas
+durante menos de 4 días a la semana o durante menos de 4 semanas. La rinitis alérgica persistente se
+define como la presencia de síntomas durante 4 o más días a la semana y durante más de 4 semanas.
+ Neoclarityn fue eficaz en aliviar la carga de rinitis alérgica estacional tal y como muestra la
+puntuación total del cuestionario de calidad de vida en rino-conjuntivitis. La mayor mejora se observó
+en las áreas de los problemas prácticos y en las actividades diarias limitadas por los síntomas.
+ Se estudió la urticaria idiopática crónica como modelo clínico de afecciones que cursan con urticaria,
+ya que la patofisiología subyacente es similar, con independencia de su etiología, y porque se puede
+reclutar a los pacientes crónicos más fácilmente de forma prospectiva. Como la liberación de
+histamina es un factor causal en todas las enfermedades con urticaria, se espera que desloratadina sea
+eficaz en el alivio sintomático de otras afecciones que cursan con urticaria, además de la urticaria
+idiopática crónica, tal y como se recomienda en las directrices clínicas.
+ En dos ensayos controlados con placebo de seis semanas de duración en pacientes con urticaria
+idiopática crónica, Neoclarityn fue eficaz en el alivio del prurito y en la disminución del tamaño y
+número de ronchas cutáneas al final del primer intervalo de dosificación. En cada ensayo, los efectos
+se mantuvieron durante el intervalo de dosis de 24 horas. Como en el caso de ensayos con otros
+antihistamínicos en urticaria idiopática crónica, se excluyó a la minoría de pacientes que fueron
+identificados como no respondedores a los antihistamínicos. Se observó una mejora en el prurito de
+más del 50 % en el 55 % de los pacientes tratados con desloratadina en comparación con el 19 % de
+los pacientes tratados con placebo. El tratamiento con Neoclarityn también redujo significativamente
+la interferencia con la relación entre el sueño y la vigilia, medida mediante una escala de cuatro
+valores utilizada para valorar estas variables.
+ 5.2   Propiedades farmacocinéticas
+ Las concentraciones plasmáticas de desloratadina se pueden detectar antes de transcurridos 30 minutos
+de su administración.
+Desloratadina se absorbe bien alcanzándose la concentración máxima después de aproximadamente
+3 horas; la semivida de eliminación es de aproximadamente 27 horas. El grado de acumulación de
+desloratadina se correspondió con su semivida (aproximadamente 27 horas) y con una frecuencia de
+dosificación de una vez al día. La biodisponibilidad de la desloratadina fue proporcional a la dosis en
+el intervalo de 5 mg a 20 mg.
+ En una serie de ensayos clínicos y farmacocinéticos, el 6 % de los pacientes alcanzó una concentración
+mayor de desloratadina. La prevalencia de este fenotipo de metabolizador pobre fue comparable para
+adultos (6 %) y pacientes pediátricos de 2 a 11 años (6 %), y superior entre los de raza negra (18 %
+adultos, 16 % pediátricos) que en Caucásicos (2 % adultos, 3 % pediátricos) en ambas poblaciones, no
+obstante el perfil de seguridad de estos pacientes no fue diferente al de la población general.
+ En un estudio farmacocinético de dosis múltiple realizado con la formulación en comprimidos en
+sujetos adultos sanos, se detectó que cuatro sujetos eran metabolizadores pobres de desloratadina.
+Estos sujetos tenían una Cmax unas 3 veces superior a las 7 horas aproximadamente con una semivida
+en la fase terminal de aproximadamente 89 horas.
+ Desloratadina se une moderadamente (83 % - 87 %) a proteínas plasmáticas. Después de la
+dosificación una vez al día de desloratadina (5 mg a 20 mg) durante 14 días, no existe evidencia
+clínicamente relevante de acumulación del medicamento.
+ Todavía no se ha identificado la enzima responsable del metabolismo de la desloratadina, y por lo
+tanto, no se pueden excluir completamente algunas interacciones con con otros medicamentos. In vivo
+desloratadina no inhibe el CYP3A4 y estudios in vitro han demostrado que el medicamento no inhibe
+el CYP2D6 y que no es un sustrato ni un inhibidor de la P-glicoproteína.
+ En estudios cruzados de dosis 
+ 
+	Prospectos de medicamentos.
