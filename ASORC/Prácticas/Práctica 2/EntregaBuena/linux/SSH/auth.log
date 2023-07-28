@@ -1,0 +1,82 @@
+Dec 19 16:51:09 debian lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=114) by (uid=0)
+Dec 19 16:51:09 debian systemd-logind[467]: New session c1 of user lightdm.
+Dec 19 16:51:09 debian systemd: pam_unix(systemd-user:session): session opened for user lightdm(uid=114) by (uid=0)
+Dec 19 16:51:24 debian lightdm: gkr-pam: unable to locate daemon control file
+Dec 19 16:51:24 debian lightdm: gkr-pam: stashed password to try later in open session
+Dec 19 16:51:25 debian lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Dec 19 16:51:25 debian systemd-logind[467]: Removed session c1.
+Dec 19 16:51:25 debian lightdm: pam_unix(lightdm:session): session opened for user daniel(uid=1000) by (uid=0)
+Dec 19 16:51:25 debian systemd-logind[467]: New session 2 of user daniel.
+Dec 19 16:51:25 debian systemd: pam_unix(systemd-user:session): session opened for user daniel(uid=1000) by (uid=0)
+Dec 19 16:51:26 debian lightdm: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Dec 19 16:51:29 debian polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.48 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8)
+Dec 19 16:51:35 debian systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Dec 19 16:53:12 debian sshd[1360]: Accepted password for daniel from 192.168.56.1 port 62967 ssh2
+Dec 19 16:53:12 debian sshd[1360]: pam_unix(sshd:session): session opened for user daniel(uid=1000) by (uid=0)
+Dec 19 16:53:12 debian systemd-logind[467]: New session 4 of user daniel.
+Dec 19 16:53:41 debian sudo:   daniel : TTY=pts/0 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install iscsiadm
+Dec 19 16:53:41 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Dec 19 16:53:42 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 19 16:53:45 debian sudo:   daniel : TTY=pts/0 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install iscsi
+Dec 19 16:53:45 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Dec 19 16:53:45 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 19 16:53:55 debian su: (to root) daniel on pts/0
+Dec 19 16:53:55 debian su: pam_unix(su-l:session): session opened for user root(uid=0) by daniel(uid=1000)
+Dec 19 16:57:05 debian sudo:     root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/usr/sbin/iscsiadm -m discovery -t st -p 192.168.56.108
+Dec 19 16:57:05 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Dec 19 16:57:05 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 19 16:58:19 debian sudo:     root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/usr/sbin/iscsiadm -m node --targetname iqn.2005-10.org.freenas.ctl:iscsi-drive-windows --portal 192.168.56.108:3260 --login
+Dec 19 16:58:19 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Dec 19 16:58:19 debian sudo: pam_unix(sudo:session): session closed for user root
+Dec 19 16:58:58 debian polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:root to gain TEMPORARY authorization for action org.freedesktop.udisks2.filesystem-mount-system for system-bus-name::1.54 [/usr/libexec/gvfs-udisks2-volume-monitor] (owned by unix-user:daniel)
+Dec 19 16:59:52 debian su: pam_unix(su-l:session): session closed for user root
+Dec 19 17:00:44 debian systemd-logind[467]: System is powering down.
+Dec 19 17:00:44 debian sshd[1360]: pam_unix(sshd:session): session closed for user daniel
+Dec 19 17:00:44 debian sshd[1360]: pam_systemd(sshd:session): Failed to release session: Interrupted system call
+Dec 19 17:00:44 debian polkitd(authority=local): Unregistered Authentication Agent for unix-session:2 (system bus name :1.48, object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8) (disconnected from bus)
+Dec 19 17:01:38 debian systemd-logind[479]: New seat seat0.
+Dec 19 17:01:38 debian systemd-logind[479]: Watching system buttons on /dev/input/event1 (Power Button)
+Dec 19 17:01:38 debian systemd-logind[479]: Watching system buttons on /dev/input/event3 (Sleep Button)
+Dec 19 17:01:38 debian systemd-logind[479]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+Dec 19 17:01:43 debian sshd[628]: Server listening on 0.0.0.0 port 22.
+Dec 19 17:01:43 debian sshd[628]: Server listening on :: port 22.
+Dec 19 17:02:11 debian lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=114) by (uid=0)
+Dec 19 17:02:11 debian systemd-logind[479]: New session c1 of user lightdm.
+Dec 19 17:02:11 debian systemd: pam_unix(systemd-user:session): session opened for user lightdm(uid=114) by (uid=0)
+Dec 19 17:02:30 debian lightdm: gkr-pam: unable to locate daemon control file
+Dec 19 17:02:30 debian lightdm: gkr-pam: stashed password to try later in open session
+Dec 19 17:02:30 debian lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Dec 19 17:02:30 debian systemd-logind[479]: Removed session c1.
+Dec 19 17:02:30 debian lightdm: pam_unix(lightdm:session): session opened for user daniel(uid=1000) by (uid=0)
+Dec 19 17:02:30 debian systemd-logind[479]: New session 2 of user daniel.
+Dec 19 17:02:30 debian systemd: pam_unix(systemd-user:session): session opened for user daniel(uid=1000) by (uid=0)
+Dec 19 17:02:31 debian lightdm: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Dec 19 17:02:35 debian polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.48 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8)
+Dec 19 17:02:40 debian systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Dec 19 17:03:00 debian systemd-logind[479]: System is powering down.
+Dec 19 17:03:00 debian lightdm: pam_unix(lightdm:session): session closed for user daniel
+Dec 19 17:03:00 debian polkitd(authority=local): Unregistered Authentication Agent for unix-session:2 (system bus name :1.48, object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8) (disconnected from bus)
+Dec 19 17:38:40 debian systemd-logind[480]: New seat seat0.
+Dec 19 17:38:40 debian systemd-logind[480]: Watching system buttons on /dev/input/event1 (Power Button)
+Dec 19 17:38:40 debian systemd-logind[480]: Watching system buttons on /dev/input/event3 (Sleep Button)
+Dec 19 17:38:40 debian systemd-logind[480]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+Dec 19 17:38:46 debian sshd[642]: Server listening on 0.0.0.0 port 22.
+Dec 19 17:38:46 debian sshd[642]: Server listening on :: port 22.
+Dec 19 17:39:04 debian CRON[832]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Dec 19 17:39:04 debian CRON[832]: pam_unix(cron:session): session closed for user root
+Dec 19 17:39:12 debian lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=114) by (uid=0)
+Dec 19 17:39:12 debian systemd-logind[480]: New session c1 of user lightdm.
+Dec 19 17:39:12 debian systemd: pam_unix(systemd-user:session): session opened for user lightdm(uid=114) by (uid=0)
+Dec 19 17:40:15 debian lightdm: gkr-pam: unable to locate daemon control file
+Dec 19 17:40:15 debian lightdm: gkr-pam: stashed password to try later in open session
+Dec 19 17:40:15 debian lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Dec 19 17:40:15 debian systemd-logind[480]: Removed session c1.
+Dec 19 17:40:15 debian lightdm: pam_unix(lightdm:session): session opened for user daniel(uid=1000) by (uid=0)
+Dec 19 17:40:15 debian systemd-logind[480]: New session 3 of user daniel.
+Dec 19 17:40:15 debian systemd: pam_unix(systemd-user:session): session opened for user daniel(uid=1000) by (uid=0)
+Dec 19 17:40:16 debian lightdm: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Dec 19 17:40:19 debian polkitd(authority=local): Registered Authentication Agent for unix-session:3 (system bus name :1.48 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8)
+Dec 19 17:40:25 debian systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Dec 19 18:05:25 debian sudo:   daniel : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/chmod 777 alternatives.log apache2 apt auth.log auth.log.1 boot.log boot.log.1 boot.log.2 btmp cups daemon.log daemon.log.1 debug debug.1 dpkg.log faillog fontconfig.log installer journal kern.log kern.log.1 lastlog lightdm messages messages.1 mysql private runit samba speech-dispatcher syslog syslog.1 unattended-upgrades user.log user.log.1 wtmp x11vnc.log Xorg.0.log Xorg.0.log.old Xorg.1.log Xorg.1.log.old xrdp.log xrdp-sesman.log
+Dec 19 18:05:25 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Dec 19 18:05:25 debian sudo: pam_unix(sudo:session): session closed for user root

@@ -1,0 +1,316 @@
+Nov 14 02:32:18 debian lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=114) by (uid=0)
+Nov 14 02:32:18 debian systemd-logind[476]: New session c7 of user lightdm.
+Nov 14 02:32:18 debian systemd: pam_unix(systemd-user:session): session opened for user lightdm(uid=114) by (uid=0)
+Nov 14 02:39:01 debian CRON[22300]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 14 02:39:01 debian CRON[22300]: pam_unix(cron:session): session closed for user root
+Nov 14 02:42:33 debian lightdm: gkr-pam: unable to locate daemon control file
+Nov 14 02:42:33 debian lightdm: gkr-pam: stashed password to try later in open session
+Nov 14 02:42:34 debian lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Nov 14 02:42:34 debian systemd-logind[476]: Removed session c7.
+Nov 14 02:42:44 debian systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Nov 14 02:42:53 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/mkdir /home/daniel/SAMBA-servidor-Free
+Nov 14 02:42:53 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:42:53 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:43:09 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/chmod 777 /home/daniel/SAMBA-servidor-Free/
+Nov 14 02:43:09 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:43:09 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:43:48 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA -U sambauser
+Nov 14 02:43:48 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:43:51 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:44:11 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA/SAMBA -U sambauser
+Nov 14 02:44:11 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:44:14 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:44:20 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221:/SAMBA/SAMBA -U sambauser
+Nov 14 02:44:20 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:44:20 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:44:32 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA/SAMBA -U sambauser
+Nov 14 02:44:32 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:44:37 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:45:13 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA/SAMBA -U=sambauser%270301
+Nov 14 02:45:13 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:45:13 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:45:35 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA/SAMBA -U=daniel%270301
+Nov 14 02:45:35 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:45:35 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:52:21 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA/SAMBA -U=sambauser
+Nov 14 02:52:21 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:52:25 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:52:37 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA -U sambauser
+Nov 14 02:52:37 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:52:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:52:56 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA -U=sambauser%270301
+Nov 14 02:52:56 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:52:56 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:53:07 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA/SAMBA -U=sambauser%270301
+Nov 14 02:53:07 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:53:07 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:54:35 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA/SAMBA -U=sambauser%270301
+Nov 14 02:54:35 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:54:35 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:54:43 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA -U=sambauser%270301
+Nov 14 02:54:43 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:54:56 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:55:00 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA -U=sambauser%270301
+Nov 14 02:55:00 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:55:36 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:55:38 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA -U=sambauser%270301
+Nov 14 02:55:38 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 02:55:42 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 02:55:48 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel/NFS-servidor-Free ; USER=root ; COMMAND=/usr/bin/smbclient //192.168.56.221/SAMBA -U=sambauser%270301
+Nov 14 02:55:48 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Nov 14 03:09:01 debian CRON[22536]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 14 03:09:01 debian CRON[22536]: pam_unix(cron:session): session closed for user root
+Nov 14 03:09:33 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 03:09:40 debian systemd-logind[476]: System is powering down.
+Nov 14 03:09:40 debian sshd[5622]: pam_unix(sshd:session): session closed for user daniel
+Nov 14 03:09:40 debian sshd[5622]: pam_systemd(sshd:session): Failed to release session: Interrupted system call
+Nov 14 03:09:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 03:09:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 03:09:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 03:09:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 03:09:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 03:09:40 debian polkitd(authority=local): Unregistered Authentication Agent for unix-session:2 (system bus name :1.42, object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8) (disconnected from bus)
+Nov 14 03:09:40 debian polkitd(authority=local): Unregistered Authentication Agent for unix-session:c4 (system bus name :1.186, object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8) (disconnected from bus)
+Nov 14 03:09:40 debian systemd-logind[476]: Session 16 logged out. Waiting for processes to exit.
+Nov 14 12:10:48 debian systemd-logind[482]: New seat seat0.
+Nov 14 12:10:48 debian systemd-logind[482]: Watching system buttons on /dev/input/event1 (Power Button)
+Nov 14 12:10:48 debian systemd-logind[482]: Watching system buttons on /dev/input/event3 (Sleep Button)
+Nov 14 12:10:48 debian systemd-logind[482]: Watching system buttons on /dev/input/event0 (AT Translated Set 2 keyboard)
+Nov 14 12:10:54 debian sshd[645]: Server listening on 0.0.0.0 port 22.
+Nov 14 12:10:54 debian sshd[645]: Server listening on :: port 22.
+Nov 14 12:11:11 debian lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=114) by (uid=0)
+Nov 14 12:11:11 debian systemd-logind[482]: New session c1 of user lightdm.
+Nov 14 12:11:11 debian systemd: pam_unix(systemd-user:session): session opened for user lightdm(uid=114) by (uid=0)
+Nov 14 12:11:32 debian lightdm: gkr-pam: unable to locate daemon control file
+Nov 14 12:11:32 debian lightdm: gkr-pam: stashed password to try later in open session
+Nov 14 12:11:32 debian lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Nov 14 12:11:32 debian lightdm: pam_unix(lightdm:session): session opened for user daniel(uid=1000) by (uid=0)
+Nov 14 12:11:32 debian systemd-logind[482]: Removed session c1.
+Nov 14 12:11:32 debian systemd-logind[482]: New session 2 of user daniel.
+Nov 14 12:11:32 debian systemd: pam_unix(systemd-user:session): session opened for user daniel(uid=1000) by (uid=0)
+Nov 14 12:11:32 debian lightdm: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Nov 14 12:11:36 debian polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.50 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8)
+Nov 14 12:13:09 debian sshd[1378]: Accepted password for daniel from 192.168.56.1 port 62775 ssh2
+Nov 14 12:13:09 debian sshd[1378]: pam_unix(sshd:session): session opened for user daniel(uid=1000) by (uid=0)
+Nov 14 12:13:09 debian systemd-logind[482]: New session 4 of user daniel.
+Nov 14 12:15:03 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install apache2
+Nov 14 12:15:03 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:15:04 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:16:04 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/sbin/a2enmod rewrite
+Nov 14 12:16:05 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:16:05 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:16:25 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/sbin/a2enmod env
+Nov 14 12:16:25 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:16:25 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:16:37 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/sbin/a2enmod dir
+Nov 14 12:16:37 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:16:37 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:16:41 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/sbin/a2enmod mime
+Nov 14 12:16:41 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:16:41 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:16:55 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/systemctl restart apache2
+Nov 14 12:16:55 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:16:55 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:17:01 debian CRON[1454]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 14 12:17:01 debian CRON[1454]: pam_unix(cron:session): session closed for user root
+Nov 14 12:18:01 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install mariadb-server mariadb-client
+Nov 14 12:18:01 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:18:01 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:19:50 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/mysql -u root -p
+Nov 14 12:19:50 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:22:49 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:23:13 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install software-properties-common
+Nov 14 12:23:13 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:23:13 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:23:58 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:ondrej/php
+Nov 14 12:23:58 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:24:09 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:24:35 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt update
+Nov 14 12:24:35 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:24:38 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:25:02 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install php7.1
+Nov 14 12:25:02 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:25:02 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:27:59 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:ondrej/php
+Nov 14 12:27:59 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:28:01 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:28:35 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt-get install php7.2
+Nov 14 12:28:35 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:28:38 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:28:43 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt-get install php7.1
+Nov 14 12:28:43 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:28:43 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:29:02 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt-get install php7.1-common
+Nov 14 12:29:02 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:29:02 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:29:23 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt-get search php7.1
+Nov 14 12:29:23 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:29:23 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:29:28 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt search php7.1
+Nov 14 12:29:28 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:29:28 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:30:01 debian CRON[2206]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 14 12:30:01 debian CRON[2206]: pam_unix(cron:session): session closed for user root
+Nov 14 12:30:14 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/update-alternatives --set php /usr/bin/php7.4
+Nov 14 12:30:14 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:30:14 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:31:54 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt -y install apt-transport-https lsb-release ca-certificates curl wget
+Nov 14 12:31:54 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:32:06 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:32:16 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
+Nov 14 12:32:16 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:32:16 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:32:30 debian sudo:   daniel : TTY=pts/1 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/sh -c echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" > /etc/apt/sources.list.d/php.list
+Nov 14 12:32:30 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:32:30 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:32:42 debian su: (to root) daniel on pts/1
+Nov 14 12:32:42 debian su: pam_unix(su-l:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:34:15 debian smbd: pam_unix(samba:session): session closed for user nobody
+Nov 14 12:38:22 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/apt-get install php7.1 libapache2-mod-php7.1 php7.1-curl php7.1-intl php7.1-json php7.1-gd php7.1-mbstring php7.1-mysql php7.1-xml php7.1-zip
+Nov 14 12:38:22 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:38:31 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:39:01 debian CRON[13016]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 14 12:39:01 debian CRON[13016]: pam_unix(cron:session): session closed for user root
+Nov 14 12:39:27 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/nano /etc/php/7.1/apache2/php.ini
+Nov 14 12:39:27 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:39:59 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:40:00 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/nano /etc/php/7.1/apache2/php.ini
+Nov 14 12:40:00 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:40:53 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:40:58 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/vi /etc/php/7.1/apache2/php.ini
+Nov 14 12:40:58 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:41:14 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:41:16 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/vi /etc/php/7.1/apache2/php.ini
+Nov 14 12:41:16 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:41:41 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:41:54 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/vi /etc/php/7.1/apache2/php.ini
+Nov 14 12:41:54 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:42:45 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:43:21 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/vi /etc/php/7.1/apache2/php.ini
+Nov 14 12:43:21 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:43:34 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:43:36 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/vi /etc/php/7.1/apache2/php.ini
+Nov 14 12:43:36 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:46:03 debian sshd[1386]: Received disconnect from 192.168.56.1 port 62775:11: disconnected by user
+Nov 14 12:46:07 debian sshd[1386]: Disconnected from user daniel 192.168.56.1 port 62775
+Nov 14 12:46:07 debian systemd-logind[482]: Session 4 logged out. Waiting for processes to exit.
+Nov 14 12:46:07 debian sshd[1378]: pam_unix(sshd:session): session closed for user daniel
+Nov 14 12:46:07 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:46:07 debian su: pam_unix(su-l:session): session closed for user root
+Nov 14 12:46:07 debian systemd-logind[482]: Removed session 4.
+Nov 14 12:46:11 debian sshd[13157]: Accepted password for daniel from 192.168.56.1 port 63242 ssh2
+Nov 14 12:46:11 debian sshd[13157]: pam_unix(sshd:session): session opened for user daniel(uid=1000) by (uid=0)
+Nov 14 12:46:11 debian systemd-logind[482]: New session 8 of user daniel.
+Nov 14 12:46:15 debian su: (to root) daniel on pts/1
+Nov 14 12:46:15 debian su: pam_unix(su-l:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 12:46:47 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/nano /etc/php/7.1/apache2/php.ini
+Nov 14 12:46:47 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:46:56 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:46:57 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/nano /etc/php/7.1/apache2/php.ini
+Nov 14 12:46:57 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:47:12 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:47:13 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/nano /etc/php/7.1/apache2/php.ini
+Nov 14 12:47:13 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:50:30 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:50:45 debian sudo:     root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/systemctl restart apache2
+Nov 14 12:50:45 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:50:45 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:52:01 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/wget https://download.owncloud.org/community/owncloud-10.0.3.zip
+Nov 14 12:52:01 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:52:37 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:54:50 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/mv owncloud /var/www/html/owncloud/
+Nov 14 12:54:50 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:54:50 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:55:24 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/chown -R www-data:www-data /var/www/html/owncloud/
+Nov 14 12:55:24 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:55:24 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:55:48 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/chmod -R 755 /var/www/html/owncloud/
+Nov 14 12:55:48 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:55:48 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:57:40 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/wget https://download.owncloud.org/community/owncloud-latest.tar.bz2
+Nov 14 12:57:40 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:57:57 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:58:05 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/rm -r /var/www/owncloud
+Nov 14 12:58:05 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:58:05 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:58:14 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/rm -r /var/www/html/owncloud/
+Nov 14 12:58:14 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:58:14 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:58:23 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/mkdir /var/www/owncloud
+Nov 14 12:58:23 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:58:23 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:58:36 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/tar -xvf owncloud-latest.tar.bz2 --directory /var/www
+Nov 14 12:58:36 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:58:42 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:58:46 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/chown -R www-data:www-data /var/www/owncloud
+Nov 14 12:58:46 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:58:46 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:59:06 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/nano /etc/apache2/sites-available/owncloud.conf
+Nov 14 12:59:06 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:59:22 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:59:28 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/sbin/a2ensite owncloud
+Nov 14 12:59:28 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:59:28 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:59:34 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/sbin/a2enmod rewrite headers env mime unique_id dav
+Nov 14 12:59:34 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:59:34 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 12:59:40 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/systemctl restart apache2
+Nov 14 12:59:40 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 12:59:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 13:00:15 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/apt-get install php7.4 libapache2-mod-php7.4 php7.4-curl php7.4-intl php7.4-json php7.4-gd php7.4-mbstring php7.4-mysql php7.4-xml php7.4-zip
+Nov 14 13:00:15 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 13:00:33 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 13:00:35 debian sudo:     root : TTY=pts/1 ; PWD=/tmp ; USER=root ; COMMAND=/usr/bin/systemctl restart apache2
+Nov 14 13:00:35 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=0)
+Nov 14 13:00:36 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 13:06:29 debian smbd: pam_unix(samba:session): session closed for user nobody
+Nov 14 13:07:40 debian sshd[26878]: Accepted password for daniel from 192.168.56.1 port 56696 ssh2
+Nov 14 13:07:40 debian sshd[26878]: pam_unix(sshd:session): session opened for user daniel(uid=1000) by (uid=0)
+Nov 14 13:07:40 debian systemd-logind[482]: New session 9 of user daniel.
+Nov 14 13:07:54 debian sudo:   daniel : TTY=pts/2 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install open-iscsi
+Nov 14 13:07:54 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 13:08:31 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 13:09:01 debian CRON[26896]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 14 13:09:01 debian CRON[26896]: pam_unix(cron:session): session closed for user root
+Nov 14 13:10:26 debian lightdm: pam_unix(lightdm:session): session closed for user daniel
+Nov 14 13:10:26 debian systemd-logind[482]: Session 2 logged out. Waiting for processes to exit.
+Nov 14 13:10:26 debian polkitd(authority=local): Unregistered Authentication Agent for unix-session:2 (system bus name :1.50, object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8) (disconnected from bus)
+Nov 14 13:10:26 debian lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm(uid=114) by (uid=0)
+Nov 14 13:10:26 debian systemd-logind[482]: New session c2 of user lightdm.
+Nov 14 13:10:26 debian systemd: pam_unix(systemd-user:session): session opened for user lightdm(uid=114) by (uid=0)
+Nov 14 13:10:31 debian lightdm: gkr-pam: unable to locate daemon control file
+Nov 14 13:10:31 debian lightdm: gkr-pam: stashed password to try later in open session
+Nov 14 13:10:31 debian lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Nov 14 13:10:31 debian systemd-logind[482]: Removed session c2.
+Nov 14 13:10:31 debian lightdm: pam_unix(lightdm:session): session opened for user daniel(uid=1000) by (uid=0)
+Nov 14 13:10:31 debian systemd-logind[482]: New session 12 of user daniel.
+Nov 14 13:10:31 debian lightdm: gkr-pam: gnome-keyring-daemon started properly and unlocked keyring
+Nov 14 13:10:32 debian polkitd(authority=local): Registered Authentication Agent for unix-session:12 (system bus name :1.106 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale es_ES.UTF-8)
+Nov 14 13:10:58 debian sudo:   daniel : TTY=pts/2 ; PWD=/home/daniel ; USER=root ; COMMAND=/usr/bin/apt install open-iscsi
+Nov 14 13:10:58 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by daniel(uid=1000)
+Nov 14 13:11:24 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 14 13:15:01 debian smbd: pam_unix(samba:session): session closed for user nobody
+Nov 14 13:17:01 debian CRON[34053]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 14 13:17:01 debian CRON[34053]: pam_unix(cron:session): session closed for user root
+Nov 15 20:39:58 debian CRON[34513]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 20:39:58 debian CRON[34513]: pam_unix(cron:session): session closed for user root
+Nov 15 20:42:46 debian su: (to root) daniel on pts/0
+Nov 15 20:42:46 debian su: pam_unix(su-l:session): session opened for user root(uid=0) by (uid=1000)
+Nov 15 20:44:48 debian sudo:     root : TTY=pts/0 ; PWD=/var/log/samba ; USER=root ; COMMAND=/usr/bin/chmod 777 /var/log/apache2/
+Nov 15 20:44:48 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 20:44:48 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 15 20:45:30 debian sudo:     root : TTY=pts/0 ; PWD=/var/log/samba ; USER=root ; COMMAND=/usr/bin/chmod 777 /var/log/mysql/
+Nov 15 20:45:30 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 20:45:30 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 15 20:45:36 debian sudo:     root : TTY=pts/0 ; PWD=/var/log/samba ; USER=root ; COMMAND=/usr/bin/chmod 777 /var/log/cups/
+Nov 15 20:45:36 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 20:45:36 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 15 20:45:40 debian sudo:     root : TTY=pts/0 ; PWD=/var/log/samba ; USER=root ; COMMAND=/usr/bin/chmod 777 /var/log/samba/
+Nov 15 20:45:40 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 20:45:40 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 15 20:45:59 debian sudo:     root : TTY=pts/0 ; PWD=/var/log/samba ; USER=root ; COMMAND=/usr/bin/chmod 777 /var/log/auth.log
+Nov 15 20:45:59 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 20:45:59 debian sudo: pam_unix(sudo:session): session closed for user root
+Nov 15 20:46:04 debian sudo:     root : TTY=pts/0 ; PWD=/var/log/samba ; USER=root ; COMMAND=/usr/bin/chmod 777 /var/log/daemon.log
+Nov 15 20:46:04 debian sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=0)
+Nov 15 20:46:04 debian sudo: pam_unix(sudo:session): session closed for user root

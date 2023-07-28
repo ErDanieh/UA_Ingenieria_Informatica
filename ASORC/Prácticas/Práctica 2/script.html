@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<body>
+  <?php
+  //Step1
+   $db = mysqli_connect('192.168.56.222','daniel','270301','asorc')
+   or die('Error connecting to MySQL server.');
+  ?>
+  
+  <html>
+   <head>
+   </head>
+   <body>
+   <h1>PHP connect to MySQL</h1>
+  
+  <?php
+  //Step2
+  $query = "SELECT * FROM alumnos";
+  mysqli_query($db, $query) or die('Error querying database.');
+  //Step3
+  $result = mysqli_query($db, $query);
+  $row = mysqli_fetch_array($result);
+  
+  while ($row = mysqli_fetch_array($result)) {
+   echo $row['id'] . ' ' . $row['nombre'] . ': ' . $row['apellido'].'<br />';
+  }
+  ?>
+}
+
+?>
+</table>
+</body>
+</html>

@@ -1,0 +1,306 @@
+2021.12.01 17:50:52 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2021.12.01 17:50:53 org.jivesoftware.openfire.XMPPServer - Openfire 4.6.4 [Dec 1, 2021, 5:50:53 PM]
+2021.12.01 17:50:54 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2021.12.01 17:50:54 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2021.12.01 17:50:54 org.jivesoftware.openfire.container.AdminConsolePlugin - Consola de administración escuchando en http://win-fngbv8ag9ov:9090
+2021.12.01 17:50:54 org.jivesoftware.openfire.container.PluginManager - Successfully loaded plugin 'admin'.
+2021.12.01 17:51:50 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - Checkpoint start
+2021.12.01 17:51:50 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose start
+2021.12.01 17:51:50 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose synched
+2021.12.01 17:51:50 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose script done
+2021.12.01 17:51:50 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose end
+2021.12.01 17:51:50 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - Checkpoint end - txts: 1
+2021.12.01 17:51:50 org.jivesoftware.database.SchemaManager - Esquema de base de datos no encontrado para openfire. Intentando instalarlo...
+2021.12.01 17:51:50 org.jivesoftware.database.SchemaManager - Base de datos actualizada exitosamente.
+2021.12.01 17:51:56 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Locked Out Accounts
+2021.12.01 17:51:56 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2021.12.01 17:51:56 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
+2021.12.01 17:52:13 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for DNS Records
+2021.12.01 17:52:13 org.jivesoftware.openfire.keystore.IdentityStore - Generating a new private key and corresponding self-signed certificate for domain name '192.168.56.226', using the RSA algorithm (sign-algorithm: SHA256WITHRSAENCRYPTION with a key size of 2048 bits). Certificate will be valid for 1825 days.
+2021.12.01 17:52:14 org.jivesoftware.openfire.keystore.CertificateStoreWatcher - A file system change was detected. A(nother) certificate store that is backed by file 'C:\Program Files\Openfire\resources\security\keystore' will be reloaded.
+2021.12.01 17:52:15 org.jivesoftware.openfire.container.AdminConsolePlugin - Consola de administración escuchando en http://192.168.56.226:9090
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Servers Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Components Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Users Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing AnonymousUsers Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing User Sessions
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Roster
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for RosterItems
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Result Listeners
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Multicast Service
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Message Size
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for VCard
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Privacy Lists
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Presence Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Last Activity Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components Sessions
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Connection Managers Sessions
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Incoming Server Sessions
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Sessions by Hostname
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Validated Domains
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Client Session Info Cache
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Directed Presences
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for PEPServiceManager
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer
+2021.12.01 17:52:15 org.jivesoftware.openfire.pubsub.PubSubPersistenceProviderManager - Loading PubSub persistence provider: class org.jivesoftware.openfire.pubsub.CachingPubsubPersistenceProvider.
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Published Items
+2021.12.01 17:52:15 org.jivesoftware.openfire.pubsub.CachingPubsubPersistenceProvider - Loading PubSub persistence provider to delegate to: class org.jivesoftware.openfire.pubsub.DefaultPubSubPersistenceProvider.
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Default Node Configurations
+2021.12.01 17:52:15 org.jivesoftware.openfire.pubsub.DefaultPubSubPersistenceProvider - No nodes found in pubsub for service pubsub
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Features
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Items
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities Users
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group Metadata Cache
+2021.12.01 17:52:15 org.jivesoftware.openfire.pubsub.PubSubModule - Dominio de Publicar-Suscribir: pubsub.192.168.56.226
+2021.12.01 17:52:15 org.jivesoftware.openfire.muc.spi.MultiUserChatServiceImpl - Dominio de Chat Multi-usuario: conference.192.168.56.226
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[socket_c2s] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[socket_c2s-legacyMode] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[socket_s2s] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[socket_s2s-legacyMode] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[component] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[component-legacyMode] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[connection_manager] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.ConnectionListener[connection_manager-legacyMode] - Started.
+2021.12.01 17:52:15 org.jivesoftware.openfire.spi.EncryptionArtifactFactory - Creating new SslContextFactory instance
+2021.12.01 17:52:15 org.jivesoftware.openfire.http.HttpSessionManager - Starting instance
+2021.12.01 17:52:15 org.jivesoftware.openfire.http.HttpBindManager - HTTP bind service started
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.sasl.AnonymousSaslServer#ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.sasl.ExternalClientSaslServer#PROPERTY_SASL_EXTERNAL_CLIENT_SUPPRESS_MATCHING_REALMNAME
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.sasl.ScramSha1SaslServer#ITERATION_COUNT
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.AuthFactory#PASSWORD_KEY
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.AuthFactory#AUTH_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.net.SASLAuthentication#SKIP_PEER_CERT_REVALIDATION_CLIENT
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'ANONYMOUS' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'PLAIN' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'DIGEST-MD5' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'CRAM-MD5' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'SCRAM-SHA-1' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'JIVE-SHAREDSECRET' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'GSSAPI' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'EXTERNAL' SASL mechanism.
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.net.StanzaHandler#PROPERTY_OVERWRITE_EMPTY_TO
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.SessionManager#CONFLICT_LIMIT
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.container.PluginServlet#ALLOW_LOCAL_FILE_READING
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.streammanagement.StreamManager#LOCATION_ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.streammanagement.StreamManager#MAX_SERVER_ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.streammanagement.StreamManager#ACTIVE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.spi.EncryptionArtifactFactory#TRUST_MANAGER_CLASS
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.spi.EncryptionArtifactFactory#SSLCONTEXT_PROTOCOL
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.spi.LegacyConnectionAcceptor#STARTUP_RETRY_DELAY
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.XMPPServerInfo#XMPP_DOMAIN
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.OfflineMessageStore#OFFLINE_AUTOCLEAN_DAYSTOLIVE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.OfflineMessageStore#OFFLINE_AUTOCLEAN_CHECKINTERVAL
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.OfflineMessageStore#OFFLINE_AUTOCLEAN_ENABLE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubModule#PUBSUB_CREATE_ANYONE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubModule#PUBSUB_ALLOWED_TO_CREATE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubModule#PUBSUB_SYSADMINS
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubPersistenceProviderManager#PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.archive.ArchiveManager#EXECUTOR_CORE_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.archive.ArchiveManager#EXECUTOR_MAX_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.archive.ArchiveManager#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#NOTIFY_ADMINS
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#LAST_UPDATE_CHECK
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#UPDATE_FREQUENCY
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#PROXY_HOST
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#PROXY_PORT
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.LocalMUCRoom#JOIN_PRESENCE_ENABLE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.LocalMUCRoom#SELF_PRESENCE_TIMEOUT
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.vcard.VCardManager#VCARD_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.keystore.CertificateStoreWatcher#ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.JMXManager#XMPP_JMX_ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.JMXManager#XMPP_JMX_SECURE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.JMXManager#XMPP_JMX_PORT
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.ldap.LdapManager#LDAP_PAGE_SIZE
+2021.12.01 17:52:15 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for LDAP UserDN
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.ldap.LdapVCardProvider#STORE_AVATAR_IN_DB
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.admin.AdminManager#ADMIN_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.admin.GroupBasedAdminProvider#GROUP_NAME
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.admin.DefaultAdminProvider#ADMIN_JIDS
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.group.GroupManager#GROUP_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.user.UserManager#USER_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.user.UserManager#REMOTE_DISCO_INFO_TIMEOUT
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.user.UserManager#USER_PROPERTY_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.roster.RosterManager#EXECUTOR_CORE_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.roster.RosterManager#EXECUTOR_MAX_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.roster.RosterManager#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.HybridAuthProvider#PRIMARY_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.HybridAuthProvider#SECONDARY_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.HybridAuthProvider#TERTIARY_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.cluster.ClusterMonitor#ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.session.SoftwareVersionManager#VERSION_QUERY_ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.session.SoftwareVersionManager#VERSION_QUERY_DELAY
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.disco.IQDiscoInfoHandler#ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pep.IQPEPHandler#EXECUTOR_CORE_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pep.IQPEPHandler#EXECUTOR_MAX_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pep.IQPEPHandler#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.CachingPubsubPersistenceProvider#DELEGATE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.lockout.LockOutManager#LOCKOUT_PROVIDER
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.IQMuclumbusSearchHandler#PROPERTY_ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.IQMUCvCardHandler#PROPERTY_ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.FMUCHandler#FMUC_ENABLED
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.filetransfer.proxy.ProxyConnectionManager#EXECUTOR_CORE_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.filetransfer.proxy.ProxyConnectionManager#EXECUTOR_MAX_POOL_SIZE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.filetransfer.proxy.ProxyConnectionManager#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.01 17:52:15 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.security.SecurityAuditManager#AUDIT_PROVIDER
+2021.12.01 17:52:19 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Sequences
+2021.12.01 18:35:15 org.jivesoftware.openfire.pubsub.DefaultPubSubPersistenceProvider - No nodes found in pubsub for service admin@192.168.56.226
+2021.12.01 18:42:58 org.jivesoftware.openfire.pubsub.DefaultPubSubPersistenceProvider - No nodes found in pubsub for service daniel@192.168.56.226
+2021.12.01 18:43:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Server Configurations
+2021.12.01 18:43:25 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Secret Keys Cache
+2021.12.01 18:43:48 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.56.226 to admin] - Unable to create new session: Cannot create a plain socket connection with any applicable remote host.
+2021.12.01 18:43:55 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.56.226 to admin] - Unable to create new session: Cannot create a plain socket connection with any applicable remote host.
+2021.12.01 18:44:05 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.56.226 to admin] - Unable to create new session: Cannot create a plain socket connection with any applicable remote host.
+2021.12.01 18:44:12 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.56.226 to admin] - Unable to create new session: Cannot create a plain socket connection with any applicable remote host.
+2021.12.01 18:44:36 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.56.226 to admin] - Unable to create new session: Cannot create a plain socket connection with any applicable remote host.
+2021.12.01 18:45:07 org.jivesoftware.openfire.session.LocalOutgoingServerSession[Create outgoing session for: 192.168.56.226 to admin] - Unable to create new session: Cannot create a plain socket connection with any applicable remote host.
+2021.12.09 19:48:18 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose start
+2021.12.09 19:48:18 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose synched
+2021.12.09 19:48:18 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose script done
+2021.12.09 19:48:19 hsqldb.db.HSQLDB7D76E8D6CD.ENGINE - checkpointClose end
+2021.12.09 19:48:20 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2021.12.09 19:48:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Servers Cache
+2021.12.09 19:48:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Components Cache
+2021.12.09 19:48:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Users Cache
+2021.12.09 19:48:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing AnonymousUsers Cache
+2021.12.09 19:48:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing User Sessions
+2021.12.09 19:48:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Roster
+2021.12.09 19:48:23 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for RosterItems
+2021.12.09 19:48:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Result Listeners
+2021.12.09 19:48:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Multicast Service
+2021.12.09 19:48:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Message Size
+2021.12.09 19:48:25 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for VCard
+2021.12.09 19:48:28 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Privacy Lists
+2021.12.09 19:48:28 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer Cache
+2021.12.09 19:48:30 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Presence Cache
+2021.12.09 19:48:30 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Last Activity Cache
+2021.12.09 19:48:30 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2021.12.09 19:48:30 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components Sessions
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Connection Managers Sessions
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Incoming Server Sessions
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Sessions by Hostname
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Validated Domains
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Client Session Info Cache
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Directed Presences
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for PEPServiceManager
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer
+2021.12.09 19:48:31 org.jivesoftware.openfire.pubsub.PubSubPersistenceProviderManager - Loading PubSub persistence provider: class org.jivesoftware.openfire.pubsub.CachingPubsubPersistenceProvider.
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Published Items
+2021.12.09 19:48:31 org.jivesoftware.openfire.pubsub.CachingPubsubPersistenceProvider - Loading PubSub persistence provider to delegate to: class org.jivesoftware.openfire.pubsub.DefaultPubSubPersistenceProvider.
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Default Node Configurations
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Features
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Items
+2021.12.09 19:48:31 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components
+2021.12.09 19:48:33 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities
+2021.12.09 19:48:33 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities Users
+2021.12.09 19:48:33 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group
+2021.12.09 19:48:33 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group Metadata Cache
+2021.12.09 19:48:33 org.jivesoftware.openfire.pubsub.PubSubModule - Dominio de Publicar-Suscribir: pubsub.192.168.56.226
+2021.12.09 19:48:33 org.jivesoftware.openfire.muc.spi.MultiUserChatServiceImpl - Dominio de Chat Multi-usuario: conference.192.168.56.226
+2021.12.09 19:48:34 org.jivesoftware.openfire.XMPPServer - Openfire 4.6.4 [9 dic 2021 19:48:34]
+2021.12.09 19:48:38 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.sasl.AnonymousSaslServer#ENABLED
+2021.12.09 19:48:38 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.sasl.ExternalClientSaslServer#PROPERTY_SASL_EXTERNAL_CLIENT_SUPPRESS_MATCHING_REALMNAME
+2021.12.09 19:48:38 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.sasl.ScramSha1SaslServer#ITERATION_COUNT
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.AuthFactory#PASSWORD_KEY
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.AuthFactory#AUTH_PROVIDER
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.net.SASLAuthentication#SKIP_PEER_CERT_REVALIDATION_CLIENT
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'ANONYMOUS' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'PLAIN' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'DIGEST-MD5' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'CRAM-MD5' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'SCRAM-SHA-1' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'JIVE-SHAREDSECRET' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'GSSAPI' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.net.SASLAuthentication - Support added for the 'EXTERNAL' SASL mechanism.
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.net.StanzaHandler#PROPERTY_OVERWRITE_EMPTY_TO
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.SessionManager#CONFLICT_LIMIT
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.container.PluginServlet#ALLOW_LOCAL_FILE_READING
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.streammanagement.StreamManager#LOCATION_ENABLED
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.streammanagement.StreamManager#MAX_SERVER_ENABLED
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.streammanagement.StreamManager#ACTIVE
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.spi.EncryptionArtifactFactory#TRUST_MANAGER_CLASS
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.spi.EncryptionArtifactFactory#SSLCONTEXT_PROTOCOL
+2021.12.09 19:48:39 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for DNS Records
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.spi.LegacyConnectionAcceptor#STARTUP_RETRY_DELAY
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.XMPPServerInfo#XMPP_DOMAIN
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.OfflineMessageStore#OFFLINE_AUTOCLEAN_DAYSTOLIVE
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.OfflineMessageStore#OFFLINE_AUTOCLEAN_CHECKINTERVAL
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.OfflineMessageStore#OFFLINE_AUTOCLEAN_ENABLE
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubModule#PUBSUB_CREATE_ANYONE
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubModule#PUBSUB_ALLOWED_TO_CREATE
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubModule#PUBSUB_SYSADMINS
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.PubSubPersistenceProviderManager#PROVIDER
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.archive.ArchiveManager#EXECUTOR_CORE_POOL_SIZE
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.archive.ArchiveManager#EXECUTOR_MAX_POOL_SIZE
+2021.12.09 19:48:39 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.archive.ArchiveManager#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#ENABLED
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#NOTIFY_ADMINS
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#LAST_UPDATE_CHECK
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#UPDATE_FREQUENCY
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#PROXY_HOST
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.update.UpdateManager#PROXY_PORT
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.LocalMUCRoom#JOIN_PRESENCE_ENABLE
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.LocalMUCRoom#SELF_PRESENCE_TIMEOUT
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.vcard.VCardManager#VCARD_PROVIDER
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.keystore.CertificateStoreWatcher#ENABLED
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.JMXManager#XMPP_JMX_ENABLED
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.JMXManager#XMPP_JMX_SECURE
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.JMXManager#XMPP_JMX_PORT
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.ldap.LdapManager#LDAP_PAGE_SIZE
+2021.12.09 19:48:40 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for LDAP UserDN
+2021.12.09 19:48:40 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.ldap.LdapVCardProvider#STORE_AVATAR_IN_DB
+2021.12.09 19:48:41 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.admin.AdminManager#ADMIN_PROVIDER
+2021.12.09 19:48:41 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.admin.GroupBasedAdminProvider#GROUP_NAME
+2021.12.09 19:48:41 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.admin.DefaultAdminProvider#ADMIN_JIDS
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.group.GroupManager#GROUP_PROVIDER
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.user.UserManager#USER_PROVIDER
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.user.UserManager#REMOTE_DISCO_INFO_TIMEOUT
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.user.UserManager#USER_PROPERTY_PROVIDER
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.roster.RosterManager#EXECUTOR_CORE_POOL_SIZE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.roster.RosterManager#EXECUTOR_MAX_POOL_SIZE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.roster.RosterManager#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.HybridAuthProvider#PRIMARY_PROVIDER
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.HybridAuthProvider#SECONDARY_PROVIDER
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.auth.HybridAuthProvider#TERTIARY_PROVIDER
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.cluster.ClusterMonitor#ENABLED
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.session.SoftwareVersionManager#VERSION_QUERY_ENABLED
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.session.SoftwareVersionManager#VERSION_QUERY_DELAY
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.disco.IQDiscoInfoHandler#ENABLED
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pep.IQPEPHandler#EXECUTOR_CORE_POOL_SIZE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pep.IQPEPHandler#EXECUTOR_MAX_POOL_SIZE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pep.IQPEPHandler#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.pubsub.CachingPubsubPersistenceProvider#DELEGATE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.lockout.LockOutManager#LOCKOUT_PROVIDER
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.IQMuclumbusSearchHandler#PROPERTY_ENABLED
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.IQMUCvCardHandler#PROPERTY_ENABLED
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.muc.spi.FMUCHandler#FMUC_ENABLED
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.filetransfer.proxy.ProxyConnectionManager#EXECUTOR_CORE_POOL_SIZE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.filetransfer.proxy.ProxyConnectionManager#EXECUTOR_MAX_POOL_SIZE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.filetransfer.proxy.ProxyConnectionManager#EXECUTOR_POOL_KEEP_ALIVE
+2021.12.09 19:48:42 org.jivesoftware.openfire.XMPPServer - Accessing SystemProperty field org.jivesoftware.openfire.security.SecurityAuditManager#AUDIT_PROVIDER
+2021.12.09 19:48:44 org.jivesoftware.openfire.spi.EncryptionArtifactFactory - Creating new SslContextFactory instance
+2021.12.09 19:48:49 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2021.12.09 19:48:49 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2021.12.09 19:48:50 org.jivesoftware.openfire.container.AdminConsolePlugin - Consola de administración escuchando en:
+  http://192.168.56.226:9090
+  https://192.168.56.226:9091
+2021.12.09 19:48:50 org.jivesoftware.openfire.container.PluginManager - Successfully loaded plugin 'admin'.
+2021.12.09 19:48:51 org.jivesoftware.openfire.container.PluginManager - Successfully loaded plugin 'search'.
+2021.12.09 19:48:51 org.jivesoftware.openfire.container.PluginMonitor - Finished processing all plugins.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[socket_c2s] - Started.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[socket_c2s-legacyMode] - Started.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[socket_s2s] - Started.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[socket_s2s-legacyMode] - Started.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[component] - Started.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[component-legacyMode] - Started.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[connection_manager] - Started.
+2021.12.09 19:48:51 org.jivesoftware.openfire.spi.ConnectionListener[connection_manager-legacyMode] - Started.
+2021.12.09 19:48:52 org.jivesoftware.openfire.spi.EncryptionArtifactFactory - Creating new SslContextFactory instance
+2021.12.09 19:48:52 org.jivesoftware.openfire.http.HttpSessionManager - Starting instance
+2021.12.09 19:48:52 org.jivesoftware.openfire.http.HttpBindManager - HTTP bind service started
+2021.12.12 19:56:21 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Locked Out Accounts

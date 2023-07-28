@@ -1,0 +1,13 @@
+2021.12.01 17:52:14 org.jivesoftware.openfire.container.PluginManager - An exception occurred while loading plugin 'search':
+java.lang.NullPointerException: No ComponentManager implementation available.
+	at org.xmpp.component.ComponentManagerFactory.getComponentManager(ComponentManagerFactory.java:61) ~[tinder-2.0.0.jar:?]
+	at org.jivesoftware.openfire.plugin.SearchPlugin.initializePlugin(SearchPlugin.java:166) ~[search-1.7.3.jar:?]
+	at org.jivesoftware.openfire.container.PluginManager.loadPlugin(PluginManager.java:683) [xmppserver-4.6.4.jar:4.6.4]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:375) [xmppserver-4.6.4.jar:4.6.4]
+	at org.jivesoftware.openfire.container.PluginMonitor$MonitorTask$4.call(PluginMonitor.java:363) [xmppserver-4.6.4.jar:4.6.4]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+2021.12.01 17:52:50 org.jivesoftware.openfire.update.UpdateManager - Error: update service check did not save correctly. Stopping update service.
+2021.12.09 19:49:00 org.jivesoftware.openfire.update.UpdateManager - Error: update service check did not save correctly. Stopping update service.

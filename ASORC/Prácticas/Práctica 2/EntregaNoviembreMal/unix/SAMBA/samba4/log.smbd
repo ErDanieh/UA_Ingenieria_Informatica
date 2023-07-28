@@ -1,0 +1,83 @@
+[2021/11/14 03:27:10.147433,  0] ../../source3/smbd/server.c:1784(main)
+  smbd version 4.13.8 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2020
+[2021/11/14 03:27:10.147567,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:27:10.147571,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:27:10.148755,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:27:10.148919,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:27:10.577954,  0] ../../lib/util/become_daemon.c:136(daemon_ready)
+  daemon_ready: daemon 'smbd' finished starting up and ready to serve connections
+[2021/11/14 03:29:46.292661,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:29:46.292700,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:29:54.260863,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:29:54.260896,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:30:11.602157,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:30:11.602189,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:30:49.356115,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:30:49.356149,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:30:58.798265,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:30:58.798300,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:14:03.837659,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:14:03.837706,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:14:03.842770,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:14:03.842883,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:44:28.027376,  0] ../../source3/smbd/server.c:1784(main)
+  smbd version 4.13.8 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2020
+[2021/11/14 04:44:28.028257,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:44:28.028263,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:44:28.033370,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:44:28.033531,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:44:29.017769,  0] ../../lib/util/become_daemon.c:136(daemon_ready)
+  daemon_ready: daemon 'smbd' finished starting up and ready to serve connections
+[2021/11/14 04:50:53.142656,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:50:53.142701,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:50:53.161770,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:50:53.161873,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/15 16:29:46.202267,  0] ../../source3/smbd/server.c:1784(main)
+  smbd version 4.13.8 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2020
+[2021/11/15 16:29:46.202936,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/15 16:29:46.202944,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/15 16:29:46.204488,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/15 16:29:46.204674,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/15 16:29:46.749666,  0] ../../lib/util/become_daemon.c:136(daemon_ready)
+  daemon_ready: daemon 'smbd' finished starting up and ready to serve connections
+[2021/11/15 16:31:05.682501,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/15 16:31:05.682544,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/15 16:31:05.690565,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/15 16:31:05.690651,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"

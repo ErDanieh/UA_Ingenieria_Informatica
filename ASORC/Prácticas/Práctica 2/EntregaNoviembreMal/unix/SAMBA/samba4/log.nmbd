@@ -1,0 +1,88 @@
+[2021/11/14 03:27:10.019265,  0] ../../source3/nmbd/nmbd.c:960(main)
+  nmbd version 4.13.8 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2020
+[2021/11/14 03:27:10.019503,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:27:10.019506,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:27:10.020443,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 03:27:10.020629,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 03:27:10.031288,  0] ../../lib/util/become_daemon.c:136(daemon_ready)
+  daemon_ready: daemon 'nmbd' finished starting up and ready to serve connections
+[2021/11/14 03:27:10.127847,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 10.0.2.10 for name WORKGROUP<1d>.
+  This response was from IP 10.0.2.12, reporting an IP address of 10.0.2.12.
+[2021/11/14 03:27:10.148037,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.56.221 for name WORKGROUP<1d>.
+  This response was from IP 192.168.56.222, reporting an IP address of 192.168.56.222.
+[2021/11/14 03:32:19.534928,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.56.221 for name WORKGROUP<1d>.
+  This response was from IP 192.168.56.222, reporting an IP address of 192.168.56.222.
+[2021/11/14 03:32:19.535041,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 10.0.2.10 for name WORKGROUP<1d>.
+  This response was from IP 10.0.2.12, reporting an IP address of 10.0.2.12.
+[2021/11/14 03:37:29.156622,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 10.0.2.10 for name WORKGROUP<1d>.
+  This response was from IP 10.0.2.12, reporting an IP address of 10.0.2.12.
+[2021/11/14 03:37:29.156753,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.56.221 for name WORKGROUP<1d>.
+  This response was from IP 192.168.56.222, reporting an IP address of 192.168.56.222.
+[2021/11/14 03:42:40.157468,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 10.0.2.10 for name WORKGROUP<1d>.
+  This response was from IP 10.0.2.12, reporting an IP address of 10.0.2.12.
+[2021/11/14 03:42:40.157671,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 192.168.56.221 for name WORKGROUP<1d>.
+  This response was from IP 192.168.56.222, reporting an IP address of 192.168.56.222.
+[2021/11/14 03:48:03.367041,  0] ../../source3/nmbd/nmbd_become_lmb.c:397(become_local_master_stage2)
+  *****
+  
+  Samba name server SERVERFREESAMBA is now a local master browser for workgroup WORKGROUP on subnet 10.0.2.10
+  
+  *****
+[2021/11/14 04:43:12.368051,  0] ../../source3/nmbd/nmbd.c:59(terminate)
+  Got SIGTERM: going down...
+[2021/11/14 04:44:27.705714,  0] ../../source3/nmbd/nmbd.c:960(main)
+  nmbd version 4.13.8 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2020
+[2021/11/14 04:44:27.705968,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:44:27.705971,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:44:27.744272,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/14 04:44:27.744417,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/14 04:44:27.790456,  0] ../../lib/util/become_daemon.c:136(daemon_ready)
+  daemon_ready: daemon 'nmbd' finished starting up and ready to serve connections
+[2021/11/14 04:49:40.680107,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 10.0.2.10 for name WORKGROUP<1d>.
+  This response was from IP 10.0.2.12, reporting an IP address of 10.0.2.12.
+[2021/11/14 04:53:37.465833,  0] ../../source3/nmbd/nmbd.c:59(terminate)
+  Got SIGTERM: going down...
+[2021/11/15 16:29:46.007088,  0] ../../source3/nmbd/nmbd.c:960(main)
+  nmbd version 4.13.8 started.
+  Copyright Andrew Tridgell and the Samba Team 1992-2020
+[2021/11/15 16:29:46.007744,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/15 16:29:46.007752,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/15 16:29:46.009651,  0] ../../lib/param/loadparm.c:815(lpcfg_map_parameter)
+  Unknown parameter encountered: "host allow"
+[2021/11/15 16:29:46.009824,  0] ../../lib/param/loadparm.c:1855(lpcfg_do_global_parameter)
+  Ignoring unknown parameter "host allow"
+[2021/11/15 16:29:46.029824,  0] ../../lib/util/become_daemon.c:136(daemon_ready)
+  daemon_ready: daemon 'nmbd' finished starting up and ready to serve connections
+[2021/11/15 16:29:46.031220,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 10.0.2.10 for name WORKGROUP<1d>.
+  This response was from IP 10.0.2.12, reporting an IP address of 10.0.2.12.
+[2021/11/15 16:34:58.423337,  0] ../../source3/nmbd/nmbd_namequery.c:109(query_name_response)
+  query_name_response: Multiple (2) responses received for a query on subnet 10.0.2.10 for name WORKGROUP<1d>.
+  This response was from IP 10.0.2.12, reporting an IP address of 10.0.2.12.
+[2021/11/15 16:40:25.594227,  0] ../../source3/nmbd/nmbd_become_lmb.c:397(become_local_master_stage2)
+  *****
+  
+  Samba name server SERVERFREESAMBA is now a local master browser for workgroup WORKGROUP on subnet 10.0.2.10
+  
+  *****

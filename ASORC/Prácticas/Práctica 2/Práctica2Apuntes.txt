@@ -1,0 +1,44 @@
+-Hay que implementar las 11 activades en Rocky FreeBsd y Windows.
+
+-Windows es la que cuenta menos.
+
+-Hay que pasar al menos 5 actividades en todas las máquinas.
+
+-Se debe entregar memoria.
+	-Apartado de comparación entre sistemas operativos.
+	-Descripción y deploy de los servicios
+
+-Si va tienes el punto y si no no
+
+-Puntos: (enseñar todos los servicios a la vez por cada operativo)
+
+	-ssh por clave pública no password
+	-Vnc + Rdp conexión gráfica remota al servidor (tienen que funcionar los dos)
+	-Tienes que funcionar NFS/SAMBA
+	-FreeNas(so == interfaz web) + isci, el cliente lo monta como si fuera un disco. Montar un freenas en host only
+		FreeNas == trueNas
+	-Cupspdf servidor de impresion para linux y unix-> instalar una impresora virtual que imprimirá en forma pdf en el guest.
+		imprimir una página virtual en el guest, si se ve cuenta el punto sino no.
+	-Montar un servidor dhcp con cliente y servidor, no vale el dhcp de virtualbox
+	-Dns tiene que funcionar el dns, tiene que resolver el dominio, conectarse al nuestro y a uno fuera de nosotros. 
+	-git + owncloud:  crear un nuestro propio servidor git en nuestra red local. Uso de sourcetree para red local.
+		este punto se considera importante en general para nuestro mundo laboral.Se puede usar por consola pero mejor cliente
+		como sourcetree
+		Owncloud: Sistema de compartición de archivos en red local cliente local y cliente en red.
+	-Servicio de bd y web: 3 servidores de base de datos Mysql o MariaDb, Oracle Express, y postgreSql (uno en cada sistema operativo)
+				crear una tabla, y hacer 3 insert en cada tabla , nombre, user, comentario
+				Tenemos que mostrar en el browser con nuestro html o con lo que queramos que la base de datos funciona
+				poniendo la ip de la máquina. No valen ni phpmyadmin ni nada de eso.
+				hace falta apache o nginx para el servidor web.
+	-Montar un webserver: crear dos dominios virtuales y que funcionen en nuestro browser. instalar un CMS para crear páginas web y 
+				que al conectarse al dominio entrar a la página de creación. Mismamente podemos usar Wordpress.mu
+				hace falta php 
+	- LDAP / active directory -> base de datos orientada a lectura, se pide un cambio de contraseña en vivo y una query que muestre
+					los usuarios instalados
+
+Anotaciones: Los servidores no se pueden caer los servidores, ni permiter que los usuarios lo rompan. Tenemos que crear particiones para los servicios.
+		Los servicios que necesitan partición son los FileServer
+		Podemos utilizar Gparted para o directamente cambiar los /etc/ecsetup 
+		LEER PÁGINA 3 de criterios_correción_hito2.pdf
+		Hay que entregar los Logs de cada caso.
+

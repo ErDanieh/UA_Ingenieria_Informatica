@@ -1,0 +1,9 @@
+$TTL 3h
+@ IN SOA danielasensi.com. webmaster.danielasensi.com.  42 1d 12h 1w 3h
+	; Serial, Refresh, Retry, Expire, Neg. cache TTL
+
+		IN	NS	danielasensi.com.
+		IN	A	192.168.56.221
+ms-sv-05	IN	A	192.168.56.221
+dns		IN	CNAME	ms-sv-05.danielasensi.com.
+www		IN	CNAME	danielasensi.com.

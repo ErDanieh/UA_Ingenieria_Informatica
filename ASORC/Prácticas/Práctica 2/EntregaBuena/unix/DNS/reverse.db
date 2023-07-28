@@ -1,0 +1,10 @@
+$TTL 3h
+@ SOA localhost. nobody.localhost. 42 1d 12h 1w 3h
+	; Serial, Refresh, Retry, Expire, Neg. cache TTL
+
+	IN NS	ns.danielasensi.com.
+
+221	IN PTR	192.168.56.221
+
+;1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0 PTR localhost.
+

@@ -1,0 +1,8 @@
+$TTL 3h
+@ IN SOA dns-primary.webdaniel.com. nobody.webdaniel.com.  42 1d 12h 1w 3h
+	; Serial, Refresh, Retry, Expire, Neg. cache TTL
+
+		IN	NS	ns.webdaniel.com.
+		IN	A	192.168.56.221
+ns		IN	A	192.168.56.221
+www		IN	CNAME	webdaniel.com.

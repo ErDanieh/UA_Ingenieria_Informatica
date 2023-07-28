@@ -1,0 +1,137 @@
+E [12/Nov/2021:01:34:14 +0100] [CGI] ippfind (PID 1827) stopped with status 2!
+E [12/Nov/2021:01:34:14 +0100] [cups-deviced] PID 1824 (driverless) stopped with status 2!
+E [12/Nov/2021:01:34:57 +0100] [CGI] ippfind (PID 1840) stopped with status 2!
+E [12/Nov/2021:01:34:57 +0100] [CGI] ippfind (PID 1845) stopped with status 2!
+E [12/Nov/2021:01:35:00 +0100] [CGI] ippfind (PID 1853) stopped with status 2!
+W [12/Nov/2021:01:35:07 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [12/Nov/2021:01:35:07 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+W [12/Nov/2021:01:35:18 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [12/Nov/2021:01:35:18 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+E [12/Nov/2021:01:44:09 +0100] [Job 1] Comando de impresora \"Clean\" no válido.
+E [12/Nov/2021:01:44:09 +0100] [Job 1] Job stopped due to filter errors; please consult the /var/log/cups/error_log file for details.
+D [12/Nov/2021:01:44:09 +0100] [Job 1] The following messages were recorded from 01:44:09 to 01:44:09
+D [12/Nov/2021:01:44:09 +0100] [Job 1] Applying default options...
+D [12/Nov/2021:01:44:09 +0100] [Job 1] Adding start banner page "none".
+D [12/Nov/2021:01:44:09 +0100] [Job 1] Adding end banner page "none".
+D [12/Nov/2021:01:44:09 +0100] [Job 1] File of type application/vnd.cups-command queued by "daniel".
+D [12/Nov/2021:01:44:09 +0100] [Job 1] hold_until=0
+D [12/Nov/2021:01:44:09 +0100] [Job 1] Queued on "ImpresoraFree" by "daniel".
+D [12/Nov/2021:01:44:09 +0100] [Job 1] time-at-processing=1636677849
+D [12/Nov/2021:01:44:09 +0100] [Job 1] 2 filters for job:
+D [12/Nov/2021:01:44:09 +0100] [Job 1] commandtops (application/vnd.cups-command to printer/ImpresoraFree/application/postscript, cost 100)
+D [12/Nov/2021:01:44:09 +0100] [Job 1] - (printer/ImpresoraFree/application/postscript to printer/ImpresoraFree, cost 0)
+D [12/Nov/2021:01:44:09 +0100] [Job 1] job-sheets=none,none
+D [12/Nov/2021:01:44:09 +0100] [Job 1] argv[0]="ImpresoraFree"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] argv[1]="1"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] argv[2]="daniel"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] argv[3]="Test Page"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] argv[4]="1"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] argv[5]="job-uuid=urn:uuid:9d251b5b-81fd-31c8-4f09-0c1d21ec9539 job-originating-host-name=192.168.56.102 date-time-at-creation= date-time-at-processing= time-at-creation=1636677849 time-at-processing=1636677849"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] argv[6]="/var/spool/cups/d00001-001"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[0]="CUPS_CACHEDIR=/var/cache/cups"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[1]="CUPS_DATADIR=/usr/local/share/cups"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[2]="CUPS_DOCROOT=/usr/local/share/doc/cups"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[3]="CUPS_FONTPATH=/usr/local/share/cups/fonts"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[4]="CUPS_REQUESTROOT=/var/spool/cups"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[5]="CUPS_SERVERBIN=/usr/local/libexec/cups"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[6]="CUPS_SERVERROOT=/usr/local/etc/cups"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[7]="CUPS_STATEDIR=/var/run/cups"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[8]="HOME=/var/spool/cups/tmp"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[9]="PATH=/usr/local/libexec/cups/filter:/usr/local/bin:/usr/local/sbin:/bin:/usr/bin"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[10]="SERVER_ADMIN=root@"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[11]="SOFTWARE=CUPS/2.3.3op2"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[12]="TMPDIR=/var/spool/cups/tmp"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[13]="USER=root"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[14]="CUPS_MAX_MESSAGE=2047"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[15]="CUPS_SERVER=/var/run/cups/cups.sock"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[16]="CUPS_ENCRYPTION=IfRequested"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[17]="IPP_PORT=631"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[18]="CHARSET=utf-8"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[19]="LANG=es_ES.UTF-8"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[20]="PPD=/usr/local/etc/cups/ppd/ImpresoraFree.ppd"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[21]="RIP_MAX_CACHE=128m"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[22]="CONTENT_TYPE=application/vnd.cups-command"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[23]="DEVICE_URI=cups-pdf:/"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[24]="PRINTER_INFO=Virtual PDF Printer"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[25]="PRINTER_LOCATION=VirtualBox ASORC"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[26]="PRINTER=ImpresoraFree"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[27]="PRINTER_STATE_REASONS=none"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[28]="CUPS_FILETYPE=document"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[29]="FINAL_CONTENT_TYPE=application/postscript"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] envp[30]="AUTH_I****"
+D [12/Nov/2021:01:44:09 +0100] [Job 1] Started filter /usr/local/libexec/cups/filter/commandtops (PID 2040)
+D [12/Nov/2021:01:44:09 +0100] [Job 1] Started backend /usr/local/libexec/cups/backend/cups-pdf (PID 2041)
+D [12/Nov/2021:01:44:09 +0100] [Job 1] PID 2040 (/usr/local/libexec/cups/filter/commandtops) stopped with status 1.
+D [12/Nov/2021:01:44:09 +0100] [Job 1] Hint: Try setting the LogLevel to "debug" to find out more.
+D [12/Nov/2021:01:44:09 +0100] [Job 1] PID 2041 (/usr/local/libexec/cups/backend/cups-pdf) exited with no errors.
+D [12/Nov/2021:01:44:09 +0100] [Job 1] End of messages
+D [12/Nov/2021:01:44:09 +0100] [Job 1] printer-state=3(idle)
+D [12/Nov/2021:01:44:09 +0100] [Job 1] printer-state-message="Comando de impresora "Clean" no válido."
+D [12/Nov/2021:01:44:09 +0100] [Job 1] printer-state-reasons=none
+E [12/Nov/2021:01:46:35 +0100] Missing printer-uri, job-uri, or ppd-name attribute.
+E [12/Nov/2021:01:46:35 +0100] [Client 17] Returning IPP client-error-bad-request for windows-ext (no URI) from 192.168.56.1.
+E [12/Nov/2021:02:01:51 +0100] [CGI] ippfind (PID 2238) stopped with status 2!
+E [12/Nov/2021:02:01:51 +0100] [cups-deviced] PID 2236 (driverless) stopped with status 2!
+E [12/Nov/2021:02:02:53 +0100] [CGI] ippfind (PID 2252) stopped with status 2!
+E [12/Nov/2021:02:02:53 +0100] [CGI] ippfind (PID 2257) stopped with status 2!
+E [12/Nov/2021:02:03:16 +0100] [CGI] ippfind (PID 2263) stopped with status 2!
+E [14/Nov/2021:04:40:01 +0100] [Client 10] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:40:07 +0100] [Client 11] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:40:09 +0100] [Client 12] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:40:36 +0100] [Client 17] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+W [14/Nov/2021:04:41:56 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [14/Nov/2021:04:41:56 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+E [14/Nov/2021:04:42:00 +0100] [Client 22] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:42:01 +0100] [Client 23] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:42:06 +0100] [Client 24] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:42:26 +0100] [Client 28] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:42:54 +0100] [Client 29] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:42:55 +0100] [Client 30] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:45:32 +0100] [Client 4] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+W [14/Nov/2021:04:46:00 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [14/Nov/2021:04:46:00 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+E [14/Nov/2021:04:46:34 +0100] [Client 1] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [14/Nov/2021:04:46:48 +0100] [CGI] ippfind (PID 1235) stopped with status 2!
+E [14/Nov/2021:04:46:48 +0100] [cups-deviced] PID 1226 (driverless) stopped with status 2!
+E [14/Nov/2021:04:47:09 +0100] [CGI] ippfind (PID 1242) stopped with status 2!
+E [14/Nov/2021:04:47:09 +0100] [CGI] ippfind (PID 1247) stopped with status 2!
+E [14/Nov/2021:04:47:12 +0100] [CGI] ippfind (PID 1253) stopped with status 2!
+W [14/Nov/2021:04:47:17 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [14/Nov/2021:04:47:17 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+W [14/Nov/2021:04:47:19 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [14/Nov/2021:04:47:19 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+W [14/Nov/2021:04:47:31 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [14/Nov/2021:04:47:31 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+E [14/Nov/2021:04:49:23 +0100] [CGI] ippfind (PID 1306) stopped with status 2!
+E [14/Nov/2021:04:49:23 +0100] [cups-deviced] PID 1303 (driverless) stopped with status 2!
+E [14/Nov/2021:04:49:49 +0100] [CGI] ippfind (PID 1320) stopped with status 2!
+E [14/Nov/2021:04:49:49 +0100] [CGI] ippfind (PID 1325) stopped with status 2!
+E [14/Nov/2021:04:49:52 +0100] [CGI] ippfind (PID 1331) stopped with status 2!
+W [14/Nov/2021:04:49:58 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree221-Gray..\' already exists
+W [14/Nov/2021:04:49:58 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree221-RGB..\' already exists
+W [14/Nov/2021:04:52:31 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-Gray..\' already exists
+W [14/Nov/2021:04:52:31 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree-RGB..\' already exists
+W [14/Nov/2021:04:52:31 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree221-Gray..\' already exists
+W [14/Nov/2021:04:52:31 +0100] CreateProfile failed: org.freedesktop.ColorManager.AlreadyExists:profile id \'ImpresoraFree221-RGB..\' already exists
+E [15/Nov/2021:16:33:54 +0100] Missing printer-uri, job-uri, or ppd-name attribute.
+E [15/Nov/2021:16:33:54 +0100] [Client 3] Returning IPP client-error-bad-request for windows-ext (no URI) from 192.168.56.1.
+E [15/Dec/2021:14:10:57 +0100] [Client 9] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:10:57 +0100] [Client 10] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:10:57 +0100] [Client 12] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:10:57 +0100] [Client 13] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:13:17 +0100] [Client 15] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:13:17 +0100] [Client 16] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:13:17 +0100] [Client 18] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:13:17 +0100] [Client 19] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:14:46 +0100] [Client 21] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:14:46 +0100] [Client 22] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:14:46 +0100] [Client 24] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:14:46 +0100] [Client 25] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:02 +0100] [Client 27] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:02 +0100] [Client 28] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:02 +0100] [Client 30] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:02 +0100] [Client 31] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:10 +0100] [Client 33] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:10 +0100] [Client 34] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:10 +0100] [Client 36] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.
+E [15/Dec/2021:14:15:10 +0100] [Client 37] Unable to encrypt connection: Unknown Subject Alternative name in X.509 certificate.

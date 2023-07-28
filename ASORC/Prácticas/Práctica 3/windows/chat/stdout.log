@@ -1,0 +1,7 @@
+Openfire 4.6.4 [9 dic 2021 19:48:34]
+Consola de administración escuchando en:
+  http://192.168.56.226:9090
+  https://192.168.56.226:9091
+Successfully loaded plugin 'admin'.
+Successfully loaded plugin 'search'.
+Finished processing all plugins.

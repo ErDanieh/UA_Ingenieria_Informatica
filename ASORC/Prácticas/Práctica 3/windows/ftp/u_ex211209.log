@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2021-12-09 19:50:09
+#Fields: date time c-ip cs-username s-ip s-port cs-method cs-uri-stem sc-status sc-win32-status sc-substatus x-session x-fullpath
+2021-12-09 19:50:09 192.168.56.226 - 192.168.56.226 21 ControlChannelOpened - - 0 0 d5d0db2f-20af-4897-8a10-a9f248674a6c -
+2021-12-09 19:50:09 192.168.56.226 - 192.168.56.226 21 USER Administrador 331 0 0 d5d0db2f-20af-4897-8a10-a9f248674a6c -
+2021-12-09 19:50:09 192.168.56.226 - 192.168.56.226 21 PASS *** 530 1326 41 d5d0db2f-20af-4897-8a10-a9f248674a6c -
+2021-12-09 19:50:09 192.168.56.226 - 192.168.56.226 21 ControlChannelClosed - - 0 0 d5d0db2f-20af-4897-8a10-a9f248674a6c -

@@ -1,0 +1,106 @@
+14/11/2021 13:10:28 passing arg to libvncserver: -rfbauth
+14/11/2021 13:10:28 passing arg to libvncserver: /etc/x11vnc.pwd
+14/11/2021 13:10:28 passing arg to libvncserver: -rfbport
+14/11/2021 13:10:28 passing arg to libvncserver: 5900
+14/11/2021 13:10:28 x11vnc version: 0.9.16 lastmod: 2019-01-05  pid: 27131
+/tmp/fd.lEQt8Q: 1: netstat: not found
+xauth:  unable to generate an authority file name
+/tmp/fd.lEQt8Q: 1: netstat: not found
+14/11/2021 13:10:28 -auth guess: using 'XAUTHORITY=/var/run/lightdm/root/:0' for disp='unset'
+14/11/2021 13:10:28 XOpenDisplay("") failed.
+14/11/2021 13:10:28 Trying again with XAUTHLOCALHOSTNAME=localhost ...
+14/11/2021 13:10:28 
+14/11/2021 13:10:28 *** XOpenDisplay failed. No -display or DISPLAY.
+14/11/2021 13:10:28 *** Trying ":0" in 4 seconds.  Press Ctrl-C to abort.
+14/11/2021 13:10:28 *** 1 2 3 4 
+14/11/2021 13:10:32 *** XOpenDisplay of ":0" successful.
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 Using X display :0
+14/11/2021 13:10:32 rootwin: 0x532 reswin: 0x3800001 dpy: 0x5e096bb0
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 ------------------ USEFUL INFORMATION ------------------
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 Wireframing: -wireframe mode is in effect for window moves.
+14/11/2021 13:10:32   If this yields undesired behavior (poor response, painting
+14/11/2021 13:10:32   errors, etc) it may be disabled:
+14/11/2021 13:10:32    - use '-nowf' to disable wireframing completely.
+14/11/2021 13:10:32    - use '-nowcr' to disable the Copy Rectangle after the
+14/11/2021 13:10:32      moved window is released in the new position.
+14/11/2021 13:10:32   Also see the -help entry for tuning parameters.
+14/11/2021 13:10:32   You can press 3 Alt_L's (Left "Alt" key) in a row to 
+14/11/2021 13:10:32   repaint the screen, also see the -fixscreen option for
+14/11/2021 13:10:32   periodic repaints.
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 XFIXES available on display, resetting cursor mode
+14/11/2021 13:10:32   to: '-cursor most'.
+14/11/2021 13:10:32   to disable this behavior use: '-cursor arrow'
+14/11/2021 13:10:32   or '-noxfixes'.
+14/11/2021 13:10:32 using XFIXES for cursor drawing.
+14/11/2021 13:10:32 GrabServer control via XTEST.
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 Scroll Detection: -scrollcopyrect mode is in effect to
+14/11/2021 13:10:32   use RECORD extension to try to detect scrolling windows
+14/11/2021 13:10:32   (induced by either user keystroke or mouse input).
+14/11/2021 13:10:32   If this yields undesired behavior (poor response, painting
+14/11/2021 13:10:32   errors, etc) it may be disabled via: '-noscr'
+14/11/2021 13:10:32   Also see the -help entry for tuning parameters.
+14/11/2021 13:10:32   You can press 3 Alt_L's (Left "Alt" key) in a row to 
+14/11/2021 13:10:32   repaint the screen, also see the -fixscreen option for
+14/11/2021 13:10:32   periodic repaints.
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 XKEYBOARD:
+14/11/2021 13:10:32 Switching to -xkb mode to recover these keysyms:
+14/11/2021 13:10:32    xkb  noxkb   Keysym  ("X" means present)
+14/11/2021 13:10:32    ---  -----   -----------------------------
+14/11/2021 13:10:32     X           0x40  at
+14/11/2021 13:10:32     X           0x23  numbersign
+14/11/2021 13:10:32     X           0x5b  bracketleft
+14/11/2021 13:10:32     X           0x5d  bracketright
+14/11/2021 13:10:32     X           0x7b  braceleft
+14/11/2021 13:10:32     X           0x7d  braceright
+14/11/2021 13:10:32     X           0x7c  bar
+14/11/2021 13:10:32     X           0x5c  backslash
+14/11/2021 13:10:32 
+14/11/2021 13:10:32   If this makes the key mapping worse you can
+14/11/2021 13:10:32   disable it with the "-noxkb" option.
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 X FBPM extension not supported.
+14/11/2021 13:10:32 X display is capable of DPMS.
+14/11/2021 13:10:32 --------------------------------------------------------
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 Default visual ID: 0x21
+14/11/2021 13:10:32 Read initial data from X display into framebuffer.
+14/11/2021 13:10:32 initialize_screen: fb_depth/fb_bpp/fb_Bpl 24/32/5760
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 X display :0 is 32bpp depth=24 true color
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 Listening for VNC connections on TCP port 5900
+14/11/2021 13:10:32 Listening for VNC connections on TCP6 port 5900
+14/11/2021 13:10:32 listen6: bind: Address already in use
+14/11/2021 13:10:32 Not listening on IPv6 interface.
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 Xinerama is present and active (e.g. multi-head).
+14/11/2021 13:10:32 Xinerama: number of sub-screens: 1
+14/11/2021 13:10:32 Xinerama: no blackouts needed (only one sub-screen)
+14/11/2021 13:10:32 
+14/11/2021 13:10:32 fb read rate: 147 MB/sec
+14/11/2021 13:10:32 fast read: reset -wait  ms to: 10
+14/11/2021 13:10:32 fast read: reset -defer ms to: 10
+14/11/2021 13:10:32 The X server says there are 10 mouse buttons.
+14/11/2021 13:10:32 screen setup finished.
+14/11/2021 13:10:32 
+
+The VNC desktop is:      debian:0
+
+******************************************************************************
+Have you tried the x11vnc '-ncache' VNC client-side pixel caching feature yet?
+
+The scheme stores pixel data offscreen on the VNC viewer side for faster
+retrieval.  It should work with any VNC viewer.  Try it by running:
+
+    x11vnc -ncache 10 ...
+
+One can also add -ncache_cr for smooth 'copyrect' window motion.
+More info: http://www.karlrunge.com/x11vnc/faq.html#faq-client-caching
+

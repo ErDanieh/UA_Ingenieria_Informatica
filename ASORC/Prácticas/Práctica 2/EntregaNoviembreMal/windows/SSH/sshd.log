@@ -1,0 +1,336 @@
+7268 2021-11-15 18:53:21.082 debug2: fd 3 setting O_NONBLOCK
+7268 2021-11-15 18:53:21.082 debug3: sock_set_v6only: set socket 3 IPV6_V6ONLY
+7268 2021-11-15 18:53:21.082 debug1: Bind to port 22 on ::.
+7268 2021-11-15 18:53:21.082 Server listening on :: port 22.
+7268 2021-11-15 18:53:21.082 debug2: fd 4 setting O_NONBLOCK
+7268 2021-11-15 18:53:21.082 debug1: Bind to port 22 on 0.0.0.0.
+7268 2021-11-15 18:53:21.082 Server listening on 0.0.0.0 port 22.
+7268 2021-11-15 18:53:27.566 debug3: fd 5 is not O_NONBLOCK
+7268 2021-11-15 18:53:27.566 debug3: spawning "C:\\Windows\\System32\\OpenSSH\\sshd.exe" -R
+7268 2021-11-15 18:53:27.566 debug3: send_rexec_state: entering fd = 8 config len 313
+7268 2021-11-15 18:53:27.566 debug3: ssh_msg_send: type 0
+7268 2021-11-15 18:53:27.566 debug3: send_rexec_state: done
+8180 2021-11-15 18:53:27.597 debug1: inetd sockets after dupping: 4, 4
+8180 2021-11-15 18:53:27.597 Connection from 192.168.56.222 port 36070 on 192.168.56.223 port 22
+8180 2021-11-15 18:53:27.597 debug1: Local version string SSH-2.0-OpenSSH_for_Windows_8.1
+8180 2021-11-15 18:53:27.597 debug1: Remote protocol version 2.0, remote software version OpenSSH_8.4p1 Debian-5
+8180 2021-11-15 18:53:27.597 debug1: match: OpenSSH_8.4p1 Debian-5 pat OpenSSH* compat 0x04000000
+8180 2021-11-15 18:53:27.597 debug2: fd 4 setting O_NONBLOCK
+8180 2021-11-15 18:53:27.691 debug3: spawning "C:\\Windows\\System32\\OpenSSH\\sshd.exe" -y
+8180 2021-11-15 18:53:27.691 debug2: Network child is on pid 7708
+8180 2021-11-15 18:53:27.691 debug3: send_rexec_state: entering fd = 6 config len 313
+8180 2021-11-15 18:53:27.691 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.691 debug3: send_rexec_state: done
+8180 2021-11-15 18:53:27.691 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.704 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.704 debug3: preauth child monitor started
+8180 2021-11-15 18:53:27.707 debug1: list_hostkey_types: rsa-sha2-512,rsa-sha2-256,ssh-rsa,ecdsa-sha2-nistp256,ssh-ed25519 [preauth]
+8180 2021-11-15 18:53:27.707 debug3: send packet: type 20 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: SSH2_MSG_KEXINIT sent [preauth]
+8180 2021-11-15 18:53:27.707 debug3: receive packet: type 20 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: SSH2_MSG_KEXINIT received [preauth]
+8180 2021-11-15 18:53:27.707 debug2: local server KEXINIT proposal [preauth]
+8180 2021-11-15 18:53:27.707 debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1 [preauth]
+8180 2021-11-15 18:53:27.707 debug2: host key algorithms: rsa-sha2-512,rsa-sha2-256,ssh-rsa,ecdsa-sha2-nistp256,ssh-ed25519 [preauth]
+8180 2021-11-15 18:53:27.707 debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com [preauth]
+8180 2021-11-15 18:53:27.707 debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com [preauth]
+8180 2021-11-15 18:53:27.707 debug2: MACs ctos: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1 [preauth]
+8180 2021-11-15 18:53:27.707 debug2: MACs stoc: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1 [preauth]
+8180 2021-11-15 18:53:27.707 debug2: compression ctos: none,zlib@openssh.com [preauth]
+8180 2021-11-15 18:53:27.707 debug2: compression stoc: none,zlib@openssh.com [preauth]
+8180 2021-11-15 18:53:27.707 debug2: languages ctos:  [preauth]
+8180 2021-11-15 18:53:27.707 debug2: languages stoc:  [preauth]
+8180 2021-11-15 18:53:27.707 debug2: first_kex_follows 0  [preauth]
+8180 2021-11-15 18:53:27.707 debug2: reserved 0  [preauth]
+8180 2021-11-15 18:53:27.707 debug2: peer client KEXINIT proposal [preauth]
+8180 2021-11-15 18:53:27.707 debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,ext-info-c [preauth]
+8180 2021-11-15 18:53:27.707 debug2: host key algorithms: ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,sk-ecdsa-sha2-nistp256-cert-v01@openssh.com,ssh-ed25519-cert-v01@openssh.com,sk-ssh-ed25519-cert-v01@openssh.com,rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,sk-ecdsa-sha2-nistp256@openssh.com,ssh-ed25519,sk-ssh-ed25519@openssh.com,rsa-sha2-512,rsa-sha2-256,ssh-rsa [preauth]
+8180 2021-11-15 18:53:27.707 debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com [preauth]
+8180 2021-11-15 18:53:27.707 debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com [preauth]
+8180 2021-11-15 18:53:27.707 debug2: MACs ctos: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1 [preauth]
+8180 2021-11-15 18:53:27.707 debug2: MACs stoc: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1 [preauth]
+8180 2021-11-15 18:53:27.707 debug2: compression ctos: none,zlib@openssh.com,zlib [preauth]
+8180 2021-11-15 18:53:27.707 debug2: compression stoc: none,zlib@openssh.com,zlib [preauth]
+8180 2021-11-15 18:53:27.707 debug2: languages ctos:  [preauth]
+8180 2021-11-15 18:53:27.707 debug2: languages stoc:  [preauth]
+8180 2021-11-15 18:53:27.707 debug2: first_kex_follows 0  [preauth]
+8180 2021-11-15 18:53:27.707 debug2: reserved 0  [preauth]
+8180 2021-11-15 18:53:27.707 debug1: kex: algorithm: curve25519-sha256 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: kex: host key algorithm: ecdsa-sha2-nistp256 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none [preauth]
+8180 2021-11-15 18:53:27.707 debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none [preauth]
+8180 2021-11-15 18:53:27.707 debug1: expecting SSH2_MSG_KEX_ECDH_INIT [preauth]
+8180 2021-11-15 18:53:27.707 debug3: receive packet: type 30 [preauth]
+8180 2021-11-15 18:53:27.707 debug3: mm_sshkey_sign entering [preauth]
+8180 2021-11-15 18:53:27.707 debug3: mm_request_send entering: type 6 [preauth]
+8180 2021-11-15 18:53:27.707 debug3: mm_sshkey_sign: waiting for MONITOR_ANS_SIGN [preauth]
+8180 2021-11-15 18:53:27.707 debug3: mm_request_receive_expect entering: type 7 [preauth]
+8180 2021-11-15 18:53:27.707 debug3: mm_request_receive entering [preauth]
+8180 2021-11-15 18:53:27.707 debug3: mm_request_receive entering
+8180 2021-11-15 18:53:27.707 debug3: monitor_read: checking request 6
+8180 2021-11-15 18:53:27.707 debug3: mm_answer_sign
+8180 2021-11-15 18:53:27.707 debug3: mm_answer_sign: KEX signature 000001988A781B50(99)
+8180 2021-11-15 18:53:27.707 debug3: mm_request_send entering: type 7
+8180 2021-11-15 18:53:27.707 debug2: monitor_read: 6 used once, disabling now
+8180 2021-11-15 18:53:27.707 debug3: send packet: type 31 [preauth]
+8180 2021-11-15 18:53:27.707 debug3: send packet: type 21 [preauth]
+8180 2021-11-15 18:53:27.707 debug2: set_newkeys: mode 1 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: rekey out after 134217728 blocks [preauth]
+8180 2021-11-15 18:53:27.707 debug1: SSH2_MSG_NEWKEYS sent [preauth]
+8180 2021-11-15 18:53:27.707 debug1: Sending SSH2_MSG_EXT_INFO [preauth]
+8180 2021-11-15 18:53:27.707 debug3: send packet: type 7 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: expecting SSH2_MSG_NEWKEYS [preauth]
+8180 2021-11-15 18:53:27.707 debug3: receive packet: type 21 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: SSH2_MSG_NEWKEYS received [preauth]
+8180 2021-11-15 18:53:27.707 debug2: set_newkeys: mode 0 [preauth]
+8180 2021-11-15 18:53:27.707 debug1: rekey in after 134217728 blocks [preauth]
+8180 2021-11-15 18:53:27.707 debug1: KEX done [preauth]
+8180 2021-11-15 18:53:27.751 debug3: receive packet: type 5 [preauth]
+8180 2021-11-15 18:53:27.751 debug3: send packet: type 6 [preauth]
+8180 2021-11-15 18:53:27.751 debug3: receive packet: type 50 [preauth]
+8180 2021-11-15 18:53:27.751 debug1: userauth-request for user Administrador service ssh-connection method none [preauth]
+8180 2021-11-15 18:53:27.751 debug1: attempt 0 failures 0 [preauth]
+8180 2021-11-15 18:53:27.751 debug3: mm_getpwnamallow entering [preauth]
+8180 2021-11-15 18:53:27.751 debug3: mm_request_send entering: type 8 [preauth]
+8180 2021-11-15 18:53:27.751 debug3: mm_getpwnamallow: waiting for MONITOR_ANS_PWNAM [preauth]
+8180 2021-11-15 18:53:27.751 debug3: mm_request_receive_expect entering: type 9 [preauth]
+8180 2021-11-15 18:53:27.751 debug3: mm_request_receive entering [preauth]
+8180 2021-11-15 18:53:27.751 debug3: mm_request_receive entering
+8180 2021-11-15 18:53:27.751 debug3: monitor_read: checking request 8
+8180 2021-11-15 18:53:27.751 debug3: mm_answer_pwnamallow
+8180 2021-11-15 18:53:27.751 debug2: parse_server_config: config reprocess config len 313
+8180 2021-11-15 18:53:27.751 debug3: checking match for 'Group administrators' user administrador host 192.168.56.222 addr 192.168.56.222 laddr 192.168.56.223 lport 22
+8180 2021-11-15 18:53:27.751 debug3: LsaLogonUser Succeeded (Impersonation: 0)
+8180 2021-11-15 18:53:27.751 debug1: user administrador matched group list administrators at line 87
+8180 2021-11-15 18:53:27.753 debug3: match found
+8180 2021-11-15 18:53:27.753 debug3: reprocess config:88 setting AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
+8180 2021-11-15 18:53:27.753 debug3: mm_answer_pwnamallow: sending MONITOR_ANS_PWNAM: 1
+8180 2021-11-15 18:53:27.753 debug3: mm_request_send entering: type 9
+8180 2021-11-15 18:53:27.753 debug2: monitor_read: 8 used once, disabling now
+8180 2021-11-15 18:53:27.753 debug2: input_userauth_request: setting up authctxt for Administrador [preauth]
+8180 2021-11-15 18:53:27.753 debug3: mm_inform_authserv entering [preauth]
+8180 2021-11-15 18:53:27.753 debug3: mm_request_send entering: type 4 [preauth]
+8180 2021-11-15 18:53:27.753 debug2: input_userauth_request: try method none [preauth]
+8180 2021-11-15 18:53:27.753 debug3: mm_request_receive entering
+8180 2021-11-15 18:53:27.753 debug3: monitor_read: checking request 4
+8180 2021-11-15 18:53:27.753 debug3: mm_answer_authserv: service=ssh-connection, style=
+8180 2021-11-15 18:53:27.753 debug2: monitor_read: 4 used once, disabling now
+8180 2021-11-15 18:53:27.753 debug3: user_specific_delay: user specific delay 0.000ms [preauth]
+8180 2021-11-15 18:53:27.753 debug3: ensure_minimum_time_since: elapsed 2.084ms, delaying 6.473ms (requested 8.557ms) [preauth]
+8180 2021-11-15 18:53:27.782 debug3: userauth_finish: failure partial=0 next methods="publickey,password,keyboard-interactive" [preauth]
+8180 2021-11-15 18:53:27.782 debug3: send packet: type 51 [preauth]
+8180 2021-11-15 18:53:27.783 debug3: receive packet: type 50 [preauth]
+8180 2021-11-15 18:53:27.783 debug1: userauth-request for user Administrador service ssh-connection method publickey [preauth]
+8180 2021-11-15 18:53:27.783 debug1: attempt 1 failures 0 [preauth]
+8180 2021-11-15 18:53:27.783 debug2: input_userauth_request: try method publickey [preauth]
+8180 2021-11-15 18:53:27.783 debug2: userauth_pubkey: valid user Administrador querying public key rsa-sha2-512 AAAAB3NzaC1yc2EAAAADAQABAAABgQC3uoL11IBHe2lT7VpFetUaND/icPh26sh8Mj7xVLIEklo9YgzIalcJzv5GrG2ROMA41zfLco5D8bi9lkg0necD0Vyo9OhAMR4fZ5p+F0n5JxnAZN9xQ6dJbD3sBpjUQN2tmzruZ5rcfHN7XPmQszgEzmiRJvGyWPN/aLcc/VWKoUhr/p1rpK1JOHj4w0Pn9PdsDIN4rJ8Rc1naTz7PWO1XmlvFPfESlUB12khSxuBNcO9eKZBllOSXXnpGYCMSXoQ/qbXl0lWReDi70XmXqlcuUqAR6oKZPB4NnC45fh+0z7NJJ6aNXwNzv3br59VssH3u9JkbOQTWQT8SZQhVSP6kCapeC7dCaWRU7fspgxhzRTl9RlNmbbdLTt54QlfkUh0Yi7KsyUUBjAQaCkGi+b9ArHmEcv7L4Hov4lIhUIRIflU928nVMjIvpB43ySSXlnoo1uGfmJvm7LtSV228CSXaap9yN0LTnEKi5yLqNfBCMod+2cNvBzH9w0KJvFDacvM= [preauth]
+8180 2021-11-15 18:53:27.783 debug1: userauth_pubkey: test pkalg rsa-sha2-512 pkblob RSA SHA256:Jc/tvQD896q/3xRWA3xfSBNQpACmO2XLLS7trYjbwm8 [preauth]
+8180 2021-11-15 18:53:27.783 debug3: mm_key_allowed entering [preauth]
+8180 2021-11-15 18:53:27.783 debug3: mm_request_send entering: type 22 [preauth]
+8180 2021-11-15 18:53:27.783 debug3: mm_key_allowed: waiting for MONITOR_ANS_KEYALLOWED [preauth]
+8180 2021-11-15 18:53:27.783 debug3: mm_request_receive_expect entering: type 23 [preauth]
+8180 2021-11-15 18:53:27.783 debug3: mm_request_receive entering [preauth]
+8180 2021-11-15 18:53:27.783 debug3: mm_request_receive entering
+8180 2021-11-15 18:53:27.783 debug3: monitor_read: checking request 22
+8180 2021-11-15 18:53:27.783 debug3: mm_answer_keyallowed entering
+8180 2021-11-15 18:53:27.783 debug3: mm_answer_keyallowed: key_from_blob: 000001988A76BF20
+8180 2021-11-15 18:53:27.783 debug1: trying public key file __PROGRAMDATA__/ssh/administrators_authorized_keys
+8180 2021-11-15 18:53:27.783 debug1: __PROGRAMDATA__/ssh/administrators_authorized_keys:1: matching key found: RSA SHA256:Jc/tvQD896q/3xRWA3xfSBNQpACmO2XLLS7trYjbwm8
+8180 2021-11-15 18:53:27.783 debug1: __PROGRAMDATA__/ssh/administrators_authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding
+8180 2021-11-15 18:53:27.783 Accepted key RSA SHA256:Jc/tvQD896q/3xRWA3xfSBNQpACmO2XLLS7trYjbwm8 found at __PROGRAMDATA__/ssh/administrators_authorized_keys:1
+8180 2021-11-15 18:53:27.783 debug3: mm_answer_keyallowed: publickey authentication test: RSA key is allowed
+8180 2021-11-15 18:53:27.783 debug3: mm_request_send entering: type 23
+8180 2021-11-15 18:53:27.783 debug3: send packet: type 60 [preauth]
+8180 2021-11-15 18:53:27.783 debug2: userauth_pubkey: authenticated 0 pkalg rsa-sha2-512 [preauth]
+8180 2021-11-15 18:53:27.783 debug3: user_specific_delay: user specific delay 0.000ms [preauth]
+8180 2021-11-15 18:53:27.783 debug3: ensure_minimum_time_since: elapsed 1.158ms, delaying 7.399ms (requested 8.557ms) [preauth]
+8180 2021-11-15 18:53:27.816 Postponed publickey for Administrador from 192.168.56.222 port 36070 ssh2 [preauth]
+8180 2021-11-15 18:53:27.816 debug3: receive packet: type 50 [preauth]
+8180 2021-11-15 18:53:27.816 debug1: userauth-request for user Administrador service ssh-connection method publickey [preauth]
+8180 2021-11-15 18:53:27.816 debug1: attempt 2 failures 0 [preauth]
+8180 2021-11-15 18:53:27.816 debug2: input_userauth_request: try method publickey [preauth]
+8180 2021-11-15 18:53:27.816 debug2: userauth_pubkey: valid user Administrador attempting public key rsa-sha2-512 AAAAB3NzaC1yc2EAAAADAQABAAABgQC3uoL11IBHe2lT7VpFetUaND/icPh26sh8Mj7xVLIEklo9YgzIalcJzv5GrG2ROMA41zfLco5D8bi9lkg0necD0Vyo9OhAMR4fZ5p+F0n5JxnAZN9xQ6dJbD3sBpjUQN2tmzruZ5rcfHN7XPmQszgEzmiRJvGyWPN/aLcc/VWKoUhr/p1rpK1JOHj4w0Pn9PdsDIN4rJ8Rc1naTz7PWO1XmlvFPfESlUB12khSxuBNcO9eKZBllOSXXnpGYCMSXoQ/qbXl0lWReDi70XmXqlcuUqAR6oKZPB4NnC45fh+0z7NJJ6aNXwNzv3br59VssH3u9JkbOQTWQT8SZQhVSP6kCapeC7dCaWRU7fspgxhzRTl9RlNmbbdLTt54QlfkUh0Yi7KsyUUBjAQaCkGi+b9ArHmEcv7L4Hov4lIhUIRIflU928nVMjIvpB43ySSXlnoo1uGfmJvm7LtSV228CSXaap9yN0LTnEKi5yLqNfBCMod+2cNvBzH9w0KJvFDacvM= [preauth]
+8180 2021-11-15 18:53:27.816 debug3: userauth_pubkey: have rsa-sha2-512 signature for RSA SHA256:Jc/tvQD896q/3xRWA3xfSBNQpACmO2XLLS7trYjbwm8 [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_key_allowed entering [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_send entering: type 22 [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_key_allowed: waiting for MONITOR_ANS_KEYALLOWED [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive_expect entering: type 23 [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive entering [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive entering
+8180 2021-11-15 18:53:27.816 debug3: monitor_read: checking request 22
+8180 2021-11-15 18:53:27.816 debug3: mm_answer_keyallowed entering
+8180 2021-11-15 18:53:27.816 debug3: mm_answer_keyallowed: key_from_blob: 000001988A76BF20
+8180 2021-11-15 18:53:27.816 debug1: trying public key file __PROGRAMDATA__/ssh/administrators_authorized_keys
+8180 2021-11-15 18:53:27.816 debug1: __PROGRAMDATA__/ssh/administrators_authorized_keys:1: matching key found: RSA SHA256:Jc/tvQD896q/3xRWA3xfSBNQpACmO2XLLS7trYjbwm8
+8180 2021-11-15 18:53:27.816 debug1: __PROGRAMDATA__/ssh/administrators_authorized_keys:1: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding
+8180 2021-11-15 18:53:27.816 Accepted key RSA SHA256:Jc/tvQD896q/3xRWA3xfSBNQpACmO2XLLS7trYjbwm8 found at __PROGRAMDATA__/ssh/administrators_authorized_keys:1
+8180 2021-11-15 18:53:27.816 debug3: mm_answer_keyallowed: publickey authentication: RSA key is allowed
+8180 2021-11-15 18:53:27.816 debug3: mm_request_send entering: type 23
+8180 2021-11-15 18:53:27.816 debug3: mm_sshkey_verify entering [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_send entering: type 24 [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_sshkey_verify: waiting for MONITOR_ANS_KEYVERIFY [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive_expect entering: type 25 [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive entering [preauth]
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive entering
+8180 2021-11-15 18:53:27.816 debug3: monitor_read: checking request 24
+8180 2021-11-15 18:53:27.816 debug3: mm_answer_keyverify: publickey 000001988A76D000 signature verified
+8180 2021-11-15 18:53:27.816 debug1: auth_activate_options: setting new authentication options
+8180 2021-11-15 18:53:27.816 debug3: mm_request_send entering: type 25
+8180 2021-11-15 18:53:27.816 Accepted publickey for Administrador from 192.168.56.222 port 36070 ssh2: RSA SHA256:Jc/tvQD896q/3xRWA3xfSBNQpACmO2XLLS7trYjbwm8
+8180 2021-11-15 18:53:27.816 debug1: monitor_child_preauth: Administrador has been authenticated by privileged process
+8180 2021-11-15 18:53:27.816 debug3: mm_get_keystate: Waiting for new keys
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive_expect entering: type 26
+8180 2021-11-15 18:53:27.816 debug3: mm_request_receive entering
+8180 2021-11-15 18:53:27.846 debug3: mm_get_keystate: GOT new keys
+8180 2021-11-15 18:53:27.846 debug1: auth_activate_options: setting new authentication options [preauth]
+8180 2021-11-15 18:53:27.846 debug2: userauth_pubkey: authenticated 1 pkalg rsa-sha2-512 [preauth]
+8180 2021-11-15 18:53:27.846 debug3: user_specific_delay: user specific delay 0.000ms [preauth]
+8180 2021-11-15 18:53:27.846 debug3: ensure_minimum_time_since: elapsed 0.640ms, delaying 7.917ms (requested 8.557ms) [preauth]
+8180 2021-11-15 18:53:27.846 debug3: send packet: type 52 [preauth]
+8180 2021-11-15 18:53:27.846 debug3: mm_request_send entering: type 26 [preauth]
+8180 2021-11-15 18:53:27.846 debug3: mm_send_keystate: Finished sending state [preauth]
+8180 2021-11-15 18:53:27.847 debug1: monitor_read_log: child log fd closed
+8180 2021-11-15 18:53:27.847 debug3: LsaLogonUser Succeeded (Impersonation: 1)
+8180 2021-11-15 18:53:27.847 debug3: spawning "C:\\Windows\\System32\\OpenSSH\\sshd.exe" -z
+8180 2021-11-15 18:53:27.847 User child is on pid 7696
+8180 2021-11-15 18:53:27.847 debug3: send_rexec_state: entering fd = 5 config len 313
+8180 2021-11-15 18:53:27.847 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.847 debug3: send_rexec_state: done
+8180 2021-11-15 18:53:27.847 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.847 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.847 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.847 debug3: ssh_msg_send: type 0
+8180 2021-11-15 18:53:27.847 debug3: ssh_msg_send: type 0
+7696 2021-11-15 18:53:27.864 debug3: recv_idexch_state: entering fd = 3
+7696 2021-11-15 18:53:27.864 debug3: ssh_msg_recv entering
+7696 2021-11-15 18:53:27.864 debug3: recv_idexch_state: done
+7696 2021-11-15 18:53:27.864 debug2: fd 4 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.864 debug3: recv_autxctx_state: entering fd = 3
+7696 2021-11-15 18:53:27.864 debug3: ssh_msg_recv entering
+7696 2021-11-15 18:53:27.864 debug3: recv_autxctx_state: done
+7696 2021-11-15 18:53:27.864 debug2: parse_server_config: config reprocess config len 313
+7696 2021-11-15 18:53:27.864 debug3: checking match for 'Group administrators' user administrador host 192.168.56.222 addr 192.168.56.222 laddr 192.168.56.223 lport 22
+7696 2021-11-15 18:53:27.864 debug3: get_user_token - i am running as administrador, returning process token
+7696 2021-11-15 18:53:27.864 debug1: user administrador matched group list administrators at line 87
+7696 2021-11-15 18:53:27.864 debug3: match found
+7696 2021-11-15 18:53:27.864 debug3: reprocess config:88 setting AuthorizedKeysFile __PROGRAMDATA__/ssh/administrators_authorized_keys
+7696 2021-11-15 18:53:27.864 debug3: monitor_recv_keystate: entering 
+7696 2021-11-15 18:53:27.864 debug3: ssh_msg_recv entering
+7696 2021-11-15 18:53:27.864 debug3: monitor_recv_keystate: done
+7696 2021-11-15 18:53:27.864 debug3: monitor_apply_keystate: packet_set_state
+7696 2021-11-15 18:53:27.864 debug2: set_newkeys: mode 0
+7696 2021-11-15 18:53:27.864 debug1: rekey in after 134217728 blocks
+7696 2021-11-15 18:53:27.864 debug2: set_newkeys: mode 1
+7696 2021-11-15 18:53:27.864 debug1: rekey out after 134217728 blocks
+7696 2021-11-15 18:53:27.864 debug1: ssh_packet_set_postauth: called
+7696 2021-11-15 18:53:27.864 debug3: ssh_packet_set_state: done
+7696 2021-11-15 18:53:27.864 debug3: monitor_recv_authopt: entering 
+7696 2021-11-15 18:53:27.864 debug3: ssh_msg_recv entering
+7696 2021-11-15 18:53:27.864 debug3: monitor_recv_authopt: done
+7696 2021-11-15 18:53:27.864 debug3: notify_hostkeys: key 0: ssh-rsa SHA256:xL+pZ+t3wOlOgmtxDFbudmWsj9DV7HOqKmJzVKmrjRQ
+7696 2021-11-15 18:53:27.864 debug3: notify_hostkeys: key 1: ecdsa-sha2-nistp256 SHA256:7234m1ctQuEsBxQo9/ESpqMOa6dCVhClfHnU63mjEIw
+7696 2021-11-15 18:53:27.864 debug3: notify_hostkeys: key 2: ssh-ed25519 SHA256:mCew4lBjiWwyN5BVUhiUbeQFhv1kD/H/yNYQBANZQA8
+7696 2021-11-15 18:53:27.864 debug3: notify_hostkeys: sent 3 hostkeys
+7696 2021-11-15 18:53:27.864 debug3: send packet: type 80
+7696 2021-11-15 18:53:27.864 debug1: active: key options: agent-forwarding port-forwarding pty user-rc x11-forwarding
+7696 2021-11-15 18:53:27.864 debug1: Entering interactive session for SSH2.
+7696 2021-11-15 18:53:27.864 debug2: fd 7 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.864 debug2: fd 8 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.864 debug1: server_init_dispatch
+7696 2021-11-15 18:53:27.864 debug3: receive packet: type 90
+7696 2021-11-15 18:53:27.864 debug1: server_input_channel_open: ctype session rchan 0 win 1048576 max 16384
+7696 2021-11-15 18:53:27.864 debug1: input_session_request
+7696 2021-11-15 18:53:27.864 debug1: channel 0: new [server-session]
+7696 2021-11-15 18:53:27.864 debug2: session_new: allocate (allocated 0 max 10)
+7696 2021-11-15 18:53:27.864 debug3: session_unused: session id 0 unused
+7696 2021-11-15 18:53:27.864 debug1: session_new: session 0
+7696 2021-11-15 18:53:27.864 debug1: session_open: channel 0
+7696 2021-11-15 18:53:27.864 debug1: session_open: session 0: link with channel 0
+7696 2021-11-15 18:53:27.864 debug1: server_input_channel_open: confirm session
+7696 2021-11-15 18:53:27.864 debug3: send packet: type 91
+7696 2021-11-15 18:53:27.864 debug3: receive packet: type 80
+7696 2021-11-15 18:53:27.864 debug1: server_input_global_request: rtype no-more-sessions@openssh.com want_reply 0
+7696 2021-11-15 18:53:27.912 debug3: receive packet: type 98
+7696 2021-11-15 18:53:27.912 debug1: server_input_channel_req: channel 0 request pty-req reply 1
+7696 2021-11-15 18:53:27.912 debug1: session_by_channel: session 0 channel 0
+7696 2021-11-15 18:53:27.912 debug1: session_input_channel_req: session 0 req pty-req
+7696 2021-11-15 18:53:27.912 debug1: Allocating pty.
+7696 2021-11-15 18:53:27.912 debug3: fd 9 is not O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug3: fd 10 is not O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug1: session_pty_req: session 0 alloc windows-pty
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 1 (0x1)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 2 (0x2)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 3 (0x3)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 4 (0x4)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 5 (0x5)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 6 (0x6)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 7 (0x7)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 8 (0x8)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 9 (0x9)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 10 (0xa)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 12 (0xc)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 13 (0xd)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 14 (0xe)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 18 (0x12)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 30 (0x1e)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 31 (0x1f)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 32 (0x20)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 33 (0x21)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 34 (0x22)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 35 (0x23)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 36 (0x24)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 37 (0x25)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 38 (0x26)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 39 (0x27)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 40 (0x28)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 41 (0x29)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 42 (0x2a)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 50 (0x32)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 51 (0x33)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 52 (0x34)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 53 (0x35)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 54 (0x36)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 55 (0x37)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 56 (0x38)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 57 (0x39)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 58 (0x3a)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 59 (0x3b)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 60 (0x3c)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 61 (0x3d)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 62 (0x3e)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 70 (0x46)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 71 (0x47)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 72 (0x48)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 73 (0x49)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 74 (0x4a)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 75 (0x4b)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 90 (0x5a)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 91 (0x5b)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 92 (0x5c)
+7696 2021-11-15 18:53:27.912 debug1: Ignoring unsupported tty mode opcode 93 (0x5d)
+7696 2021-11-15 18:53:27.912 debug3: send packet: type 99
+7696 2021-11-15 18:53:27.912 debug3: receive packet: type 98
+7696 2021-11-15 18:53:27.912 debug1: server_input_channel_req: channel 0 request env reply 0
+7696 2021-11-15 18:53:27.912 debug1: session_by_channel: session 0 channel 0
+7696 2021-11-15 18:53:27.912 debug1: session_input_channel_req: session 0 req env
+7696 2021-11-15 18:53:27.912 debug2: Ignoring env request LANG: disallowed name
+7696 2021-11-15 18:53:27.912 debug3: receive packet: type 98
+7696 2021-11-15 18:53:27.912 debug1: server_input_channel_req: channel 0 request shell reply 1
+7696 2021-11-15 18:53:27.912 debug1: session_by_channel: session 0 channel 0
+7696 2021-11-15 18:53:27.912 debug1: session_input_channel_req: session 0 req shell
+7696 2021-11-15 18:53:27.912 Starting session: shell on windows-pty for administrador from 192.168.56.222 port 36070 id 0
+7696 2021-11-15 18:53:27.912 debug2: fd 11 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug2: fd 12 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug2: fd 13 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug2: fd 14 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug2: fd 15 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug2: fd 16 setting O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug3: shell: "c:\\windows\\system32\\cmd.exe"
+7696 2021-11-15 18:53:27.912 debug3: shell_option: /c
+7696 2021-11-15 18:53:27.912 debug3: This windows OS supports conpty
+7696 2021-11-15 18:53:27.912 debug3: pty commandline: C:\\Windows\\system32\\conhost.exe --headless --width 80 --height 24 --signal 0x1e4 -- "c:\\windows\\system32\\cmd.exe"
+7696 2021-11-15 18:53:27.912 debug2: fd 4 setting TCP_NODELAY
+7696 2021-11-15 18:53:27.912 debug2: channel 0: rfd 13 isatty
+7696 2021-11-15 18:53:27.912 debug3: fd 13 is O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug3: fd 12 is O_NONBLOCK
+7696 2021-11-15 18:53:27.912 debug3: send packet: type 99

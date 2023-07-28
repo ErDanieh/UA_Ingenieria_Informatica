@@ -1,0 +1,37 @@
+dnf -y install mariadb-server
+
+abrir el puerto: 3306
+
+Caso práctico:
+– systemctl start mariadb
+– mysql_secure_installation
+– mysql -u root -p
+• create database asorc
+• grant all privileges on asorc.* to ‘bernardo’@’%’ identified by
+‘passwd’
+
+https://www.techrepublic.com/article/how-to-install-phpmyadmin-on-rocky-linux/
+https://www.tecmint.com/install-lamp-on-rocky-linux/
+
+
+Tambien hay que instalar apache 
+
+dnf -y install httpd
+systemctl start httpd
+systemctl stop firewalld 
+systemctl 
+
+todo hay que darle a yes y al enter cuando nos pide la contraseña para crear una nueva 
+
+
+
+<?php
+
+$link = mysql_connect('your_hostname', 'database_username', 'database_password');
+if (!$link) {
+die('Could not connect: ' . mysql_error());
+}
+echo 'Connected successfully';
+mysql_close($link);
+
+?>

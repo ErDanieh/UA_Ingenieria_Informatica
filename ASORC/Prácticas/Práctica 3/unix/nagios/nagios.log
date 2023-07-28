@@ -1,0 +1,10 @@
+[1638884390] Nagios 3.5.1 starting... (PID=1329)
+[1638884390] Local time is Tue Dec 07 14:39:50 CET 2021
+[1638884390] LOG VERSION: 2.0
+[1638884390] Finished daemonizing... (New PID=1330)
+[1638886350] SERVICE ALERT: localhost;PING;CRITICAL;SOFT;1;PING CRITICAL - System call sent warnings to stderr  System call sent warnings to stderr  System call sent warnings to stderr  System call sent warnings to stderr  System call sent warnings to stderr Packet loss = 100%
+[1638886370] HOST ALERT: localhost;DOWN;SOFT;1;PING CRITICAL - System call sent warnings to stderr  System call sent warnings to stderr  System call sent warnings to stderr  System call sent warnings to stderr  System call sent warnings to stderr Packet loss = 100%
+[1638886390] HOST ALERT: localhost;UP;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1638886410] SERVICE ALERT: localhost;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1638887990] Auto-save of retention data completed successfully.
+[1638891590] Auto-save of retention data completed successfully.

@@ -1,0 +1,484 @@
+2021/11/30 22:19:14| Created PID file (/var/run/squid.pid)
+2021/11/30 22:19:14| Set Current Directory to /var/cache/squid
+2021/11/30 22:19:14| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 22:19:14| Service Name: squid
+2021/11/30 22:19:14| Process ID 782
+2021/11/30 22:19:14| Process Roles: master worker
+2021/11/30 22:19:14| With 3200 file descriptors available
+2021/11/30 22:19:14| Initializing IP Cache...
+2021/11/30 22:19:14| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 22:19:14| DNS Socket created at [::], FD 4
+2021/11/30 22:19:14| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 22:19:14| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 22:19:14| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 22:19:15| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 22:19:15| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 22:19:15| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 22:19:15| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 22:19:15| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 22:19:15| Store logging disabled
+2021/11/30 22:19:15| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 22:19:15| Target number of buckets: 1008
+2021/11/30 22:19:15| Using 8192 Store buckets
+2021/11/30 22:19:15| Max Mem  size: 262144 KB
+2021/11/30 22:19:15| Max Swap size: 0 KB
+2021/11/30 22:19:15| Using Least Load store dir selection
+2021/11/30 22:19:15| Set Current Directory to /var/cache/squid
+2021/11/30 22:19:15| Finished loading MIME types and icons.
+2021/11/30 22:19:15| HTCP Disabled.
+2021/11/30 22:19:15| Squid plugin modules loaded: 0
+2021/11/30 22:19:15| Adaptation support is off.
+2021/11/30 22:19:15| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 22:19:16| storeLateRelease: released 0 objects
+2021/11/30 22:32:34| Created PID file (/var/run/squid.pid)
+2021/11/30 22:32:34| Set Current Directory to /var/cache/squid
+2021/11/30 22:32:34| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 22:32:34| Service Name: squid
+2021/11/30 22:32:34| Process ID 1182
+2021/11/30 22:32:34| Process Roles: master worker
+2021/11/30 22:32:34| With 3200 file descriptors available
+2021/11/30 22:32:34| Initializing IP Cache...
+2021/11/30 22:32:34| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 22:32:34| DNS Socket created at [::], FD 4
+2021/11/30 22:32:34| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 22:32:34| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 22:32:34| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 22:32:34| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 22:32:34| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 22:32:34| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 22:32:34| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 22:32:34| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 22:32:34| Store logging disabled
+2021/11/30 22:32:34| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 22:32:34| Target number of buckets: 1008
+2021/11/30 22:32:34| Using 8192 Store buckets
+2021/11/30 22:32:34| Max Mem  size: 262144 KB
+2021/11/30 22:32:34| Max Swap size: 0 KB
+2021/11/30 22:32:34| Using Least Load store dir selection
+2021/11/30 22:32:34| Set Current Directory to /var/cache/squid
+2021/11/30 22:32:34| Finished loading MIME types and icons.
+2021/11/30 22:32:34| HTCP Disabled.
+2021/11/30 22:32:34| Squid plugin modules loaded: 0
+2021/11/30 22:32:34| Adaptation support is off.
+2021/11/30 22:32:34| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 22:32:35| storeLateRelease: released 0 objects
+2021/11/30 23:12:09| Created PID file (/var/run/squid.pid)
+2021/11/30 23:12:09| Set Current Directory to /var/cache/squid
+2021/11/30 23:12:09| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:12:09| Service Name: squid
+2021/11/30 23:12:09| Process ID 804
+2021/11/30 23:12:09| Process Roles: master worker
+2021/11/30 23:12:09| With 3200 file descriptors available
+2021/11/30 23:12:09| Initializing IP Cache...
+2021/11/30 23:12:09| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:12:09| DNS Socket created at [::], FD 4
+2021/11/30 23:12:09| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:12:09| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:12:09| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:12:10| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:12:10| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:12:10| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:12:10| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:12:10| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:12:10| Store logging disabled
+2021/11/30 23:12:10| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:12:10| Target number of buckets: 1008
+2021/11/30 23:12:10| Using 8192 Store buckets
+2021/11/30 23:12:10| Max Mem  size: 262144 KB
+2021/11/30 23:12:10| Max Swap size: 0 KB
+2021/11/30 23:12:10| Using Least Load store dir selection
+2021/11/30 23:12:10| Set Current Directory to /var/cache/squid
+2021/11/30 23:12:11| Finished loading MIME types and icons.
+2021/11/30 23:12:11| HTCP Disabled.
+2021/11/30 23:12:11| Squid plugin modules loaded: 0
+2021/11/30 23:12:11| Adaptation support is off.
+2021/11/30 23:12:11| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:12:11| storeLateRelease: released 0 objects
+2021/11/30 23:13:27| Created PID file (/var/run/squid.pid)
+2021/11/30 23:13:27| Set Current Directory to /var/cache/squid
+2021/11/30 23:13:27| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:13:27| Service Name: squid
+2021/11/30 23:13:27| Process ID 1874
+2021/11/30 23:13:27| Process Roles: master worker
+2021/11/30 23:13:27| With 3200 file descriptors available
+2021/11/30 23:13:27| Initializing IP Cache...
+2021/11/30 23:13:27| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:13:27| DNS Socket created at [::], FD 4
+2021/11/30 23:13:27| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:13:27| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:13:27| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:13:28| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:13:28| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:13:28| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:13:28| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:13:28| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:13:28| Store logging disabled
+2021/11/30 23:13:28| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:13:28| Target number of buckets: 1008
+2021/11/30 23:13:28| Using 8192 Store buckets
+2021/11/30 23:13:28| Max Mem  size: 262144 KB
+2021/11/30 23:13:28| Max Swap size: 0 KB
+2021/11/30 23:13:28| Using Least Load store dir selection
+2021/11/30 23:13:28| Set Current Directory to /var/cache/squid
+2021/11/30 23:13:28| Finished loading MIME types and icons.
+2021/11/30 23:13:28| HTCP Disabled.
+2021/11/30 23:13:28| Squid plugin modules loaded: 0
+2021/11/30 23:13:28| Adaptation support is off.
+2021/11/30 23:13:28| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:13:29| storeLateRelease: released 0 objects
+2021/11/30 23:15:02| Created PID file (/var/run/squid.pid)
+2021/11/30 23:15:02| Set Current Directory to /var/cache/squid
+2021/11/30 23:15:02| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:15:02| Service Name: squid
+2021/11/30 23:15:02| Process ID 1056
+2021/11/30 23:15:02| Process Roles: master worker
+2021/11/30 23:15:02| With 3200 file descriptors available
+2021/11/30 23:15:02| Initializing IP Cache...
+2021/11/30 23:15:02| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:15:02| DNS Socket created at [::], FD 4
+2021/11/30 23:15:02| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:15:02| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:15:02| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:15:02| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:15:02| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:15:02| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:15:02| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:15:02| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:15:02| Store logging disabled
+2021/11/30 23:15:02| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:15:02| Target number of buckets: 1008
+2021/11/30 23:15:02| Using 8192 Store buckets
+2021/11/30 23:15:02| Max Mem  size: 262144 KB
+2021/11/30 23:15:02| Max Swap size: 0 KB
+2021/11/30 23:15:02| Using Least Load store dir selection
+2021/11/30 23:15:02| Set Current Directory to /var/cache/squid
+2021/11/30 23:15:02| Finished loading MIME types and icons.
+2021/11/30 23:15:02| HTCP Disabled.
+2021/11/30 23:15:02| Squid plugin modules loaded: 0
+2021/11/30 23:15:02| Adaptation support is off.
+2021/11/30 23:15:02| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:15:03| storeLateRelease: released 0 objects
+2021/11/30 23:20:01| Created PID file (/var/run/squid.pid)
+2021/11/30 23:20:01| Set Current Directory to /var/cache/squid
+2021/11/30 23:20:01| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:20:01| Service Name: squid
+2021/11/30 23:20:01| Process ID 752
+2021/11/30 23:20:01| Process Roles: master worker
+2021/11/30 23:20:01| With 3200 file descriptors available
+2021/11/30 23:20:01| Initializing IP Cache...
+2021/11/30 23:20:01| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:20:01| DNS Socket created at [::], FD 4
+2021/11/30 23:20:01| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:20:01| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:20:01| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:20:01| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:20:01| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:20:01| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:20:01| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:20:01| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:20:01| Store logging disabled
+2021/11/30 23:20:01| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:20:01| Target number of buckets: 1008
+2021/11/30 23:20:01| Using 8192 Store buckets
+2021/11/30 23:20:01| Max Mem  size: 262144 KB
+2021/11/30 23:20:01| Max Swap size: 0 KB
+2021/11/30 23:20:01| Using Least Load store dir selection
+2021/11/30 23:20:01| Set Current Directory to /var/cache/squid
+2021/11/30 23:20:01| Finished loading MIME types and icons.
+2021/11/30 23:20:01| HTCP Disabled.
+2021/11/30 23:20:01| Squid plugin modules loaded: 0
+2021/11/30 23:20:01| Adaptation support is off.
+2021/11/30 23:20:01| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:20:02| storeLateRelease: released 0 objects
+2021/11/30 23:21:36| Created PID file (/var/run/squid.pid)
+2021/11/30 23:21:36| Set Current Directory to /var/cache/squid
+2021/11/30 23:21:36| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:21:36| Service Name: squid
+2021/11/30 23:21:36| Process ID 1301
+2021/11/30 23:21:36| Process Roles: master worker
+2021/11/30 23:21:36| With 3200 file descriptors available
+2021/11/30 23:21:36| Initializing IP Cache...
+2021/11/30 23:21:36| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:21:36| DNS Socket created at [::], FD 4
+2021/11/30 23:21:36| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:21:36| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:21:36| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:21:36| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:21:36| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:21:36| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:21:36| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:21:36| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:21:36| Store logging disabled
+2021/11/30 23:21:36| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:21:36| Target number of buckets: 1008
+2021/11/30 23:21:36| Using 8192 Store buckets
+2021/11/30 23:21:36| Max Mem  size: 262144 KB
+2021/11/30 23:21:36| Max Swap size: 0 KB
+2021/11/30 23:21:36| Using Least Load store dir selection
+2021/11/30 23:21:36| Set Current Directory to /var/cache/squid
+2021/11/30 23:21:36| Finished loading MIME types and icons.
+2021/11/30 23:21:36| HTCP Disabled.
+2021/11/30 23:21:36| Squid plugin modules loaded: 0
+2021/11/30 23:21:36| Adaptation support is off.
+2021/11/30 23:21:36| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:21:37| storeLateRelease: released 0 objects
+2021/11/30 23:25:11| Created PID file (/var/run/squid.pid)
+2021/11/30 23:25:11| Set Current Directory to /var/cache/squid
+2021/11/30 23:25:11| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:25:11| Service Name: squid
+2021/11/30 23:25:11| Process ID 1820
+2021/11/30 23:25:11| Process Roles: master worker
+2021/11/30 23:25:11| With 3200 file descriptors available
+2021/11/30 23:25:11| Initializing IP Cache...
+2021/11/30 23:25:11| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:25:11| DNS Socket created at [::], FD 4
+2021/11/30 23:25:11| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:25:11| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:25:11| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:25:11| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:25:11| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:25:11| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:25:11| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:25:11| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:25:11| Store logging disabled
+2021/11/30 23:25:11| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:25:11| Target number of buckets: 1008
+2021/11/30 23:25:11| Using 8192 Store buckets
+2021/11/30 23:25:11| Max Mem  size: 262144 KB
+2021/11/30 23:25:11| Max Swap size: 0 KB
+2021/11/30 23:25:11| Using Least Load store dir selection
+2021/11/30 23:25:11| Set Current Directory to /var/cache/squid
+2021/11/30 23:25:11| Finished loading MIME types and icons.
+2021/11/30 23:25:11| HTCP Disabled.
+2021/11/30 23:25:11| Squid plugin modules loaded: 0
+2021/11/30 23:25:11| Adaptation support is off.
+2021/11/30 23:25:11| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:25:12| storeLateRelease: released 0 objects
+2021/11/30 23:25:25| Created PID file (/var/run/squid.pid)
+2021/11/30 23:25:25| Set Current Directory to /var/cache/squid
+2021/11/30 23:25:25| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:25:25| Service Name: squid
+2021/11/30 23:25:25| Process ID 1455
+2021/11/30 23:25:25| Process Roles: master worker
+2021/11/30 23:25:25| With 3200 file descriptors available
+2021/11/30 23:25:25| Initializing IP Cache...
+2021/11/30 23:25:25| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:25:25| DNS Socket created at [::], FD 4
+2021/11/30 23:25:25| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:25:25| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:25:25| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:25:25| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:25:25| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:25:25| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:25:25| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:25:25| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:25:25| Store logging disabled
+2021/11/30 23:25:25| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:25:25| Target number of buckets: 1008
+2021/11/30 23:25:25| Using 8192 Store buckets
+2021/11/30 23:25:25| Max Mem  size: 262144 KB
+2021/11/30 23:25:25| Max Swap size: 0 KB
+2021/11/30 23:25:25| Using Least Load store dir selection
+2021/11/30 23:25:25| Set Current Directory to /var/cache/squid
+2021/11/30 23:25:25| Finished loading MIME types and icons.
+2021/11/30 23:25:25| HTCP Disabled.
+2021/11/30 23:25:25| Squid plugin modules loaded: 0
+2021/11/30 23:25:25| Adaptation support is off.
+2021/11/30 23:25:25| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:25:26| local=192.168.56.226:3128 remote=192.168.56.226:51015 FD 58 flags=1: read/write failure: (113) Software caused connection abort
+2021/11/30 23:25:26| local=192.168.56.226:3128 remote=192.168.56.226:51044 FD 55 flags=1: read/write failure: (113) Software caused connection abort
+2021/11/30 23:25:26| storeLateRelease: released 0 objects
+2021/11/30 23:26:40| Created PID file (/var/run/squid.pid)
+2021/11/30 23:26:40| Set Current Directory to /var/cache/squid
+2021/11/30 23:26:40| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:26:40| Service Name: squid
+2021/11/30 23:26:40| Process ID 1587
+2021/11/30 23:26:40| Process Roles: master worker
+2021/11/30 23:26:40| With 3200 file descriptors available
+2021/11/30 23:26:40| Initializing IP Cache...
+2021/11/30 23:26:40| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:26:40| DNS Socket created at [::], FD 4
+2021/11/30 23:26:40| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:26:40| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:26:40| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:26:40| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:26:40| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:26:40| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:26:40| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:26:40| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:26:40| Store logging disabled
+2021/11/30 23:26:40| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:26:40| Target number of buckets: 1008
+2021/11/30 23:26:40| Using 8192 Store buckets
+2021/11/30 23:26:40| Max Mem  size: 262144 KB
+2021/11/30 23:26:40| Max Swap size: 0 KB
+2021/11/30 23:26:40| Using Least Load store dir selection
+2021/11/30 23:26:40| Set Current Directory to /var/cache/squid
+2021/11/30 23:26:40| Finished loading MIME types and icons.
+2021/11/30 23:26:40| HTCP Disabled.
+2021/11/30 23:26:40| Squid plugin modules loaded: 0
+2021/11/30 23:26:40| Adaptation support is off.
+2021/11/30 23:26:40| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:26:41| storeLateRelease: released 0 objects
+2021/11/30 23:26:51| Created PID file (/var/run/squid.pid)
+2021/11/30 23:26:51| Set Current Directory to /var/cache/squid
+2021/11/30 23:26:51| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:26:51| Service Name: squid
+2021/11/30 23:26:51| Process ID 288
+2021/11/30 23:26:51| Process Roles: master worker
+2021/11/30 23:26:51| With 3200 file descriptors available
+2021/11/30 23:26:51| Initializing IP Cache...
+2021/11/30 23:26:51| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:26:51| DNS Socket created at [::], FD 4
+2021/11/30 23:26:51| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:26:51| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:26:51| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:26:51| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:26:51| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:26:51| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:26:51| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:26:51| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:26:51| Store logging disabled
+2021/11/30 23:26:51| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:26:51| Target number of buckets: 1008
+2021/11/30 23:26:51| Using 8192 Store buckets
+2021/11/30 23:26:51| Max Mem  size: 262144 KB
+2021/11/30 23:26:51| Max Swap size: 0 KB
+2021/11/30 23:26:51| Using Least Load store dir selection
+2021/11/30 23:26:51| Set Current Directory to /var/cache/squid
+2021/11/30 23:26:51| Finished loading MIME types and icons.
+2021/11/30 23:26:51| HTCP Disabled.
+2021/11/30 23:26:51| Squid plugin modules loaded: 0
+2021/11/30 23:26:51| Adaptation support is off.
+2021/11/30 23:26:51| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:26:52| storeLateRelease: released 0 objects
+2021/11/30 23:28:32| Created PID file (/var/run/squid.pid)
+2021/11/30 23:28:32| Set Current Directory to /var/cache/squid
+2021/11/30 23:28:32| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:28:32| Service Name: squid
+2021/11/30 23:28:32| Process ID 1645
+2021/11/30 23:28:32| Process Roles: master worker
+2021/11/30 23:28:32| With 3200 file descriptors available
+2021/11/30 23:28:32| Initializing IP Cache...
+2021/11/30 23:28:32| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:28:32| DNS Socket created at [::], FD 4
+2021/11/30 23:28:32| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:28:32| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:28:32| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:28:32| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:28:32| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:28:32| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:28:32| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:28:32| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:28:32| Store logging disabled
+2021/11/30 23:28:32| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:28:32| Target number of buckets: 1008
+2021/11/30 23:28:32| Using 8192 Store buckets
+2021/11/30 23:28:32| Max Mem  size: 262144 KB
+2021/11/30 23:28:32| Max Swap size: 0 KB
+2021/11/30 23:28:32| Using Least Load store dir selection
+2021/11/30 23:28:32| Set Current Directory to /var/cache/squid
+2021/11/30 23:28:32| Finished loading MIME types and icons.
+2021/11/30 23:28:32| HTCP Disabled.
+2021/11/30 23:28:32| Squid plugin modules loaded: 0
+2021/11/30 23:28:32| Adaptation support is off.
+2021/11/30 23:28:32| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:28:33| storeLateRelease: released 0 objects
+2021/11/30 23:28:37| local=192.168.56.226:3128 remote=192.168.56.1:57327 FD 22 flags=1: read/write failure: (113) Software caused connection abort
+2021/11/30 23:29:30| Created PID file (/var/run/squid.pid)
+2021/11/30 23:29:30| Set Current Directory to /var/cache/squid
+2021/11/30 23:29:30| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:29:30| Service Name: squid
+2021/11/30 23:29:30| Process ID 1161
+2021/11/30 23:29:30| Process Roles: master worker
+2021/11/30 23:29:30| With 3200 file descriptors available
+2021/11/30 23:29:30| Initializing IP Cache...
+2021/11/30 23:29:30| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:29:30| DNS Socket created at [::], FD 4
+2021/11/30 23:29:30| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:29:30| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:29:30| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:29:30| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:29:30| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:29:30| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:29:30| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:29:30| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:29:30| Store logging disabled
+2021/11/30 23:29:30| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:29:30| Target number of buckets: 1008
+2021/11/30 23:29:30| Using 8192 Store buckets
+2021/11/30 23:29:30| Max Mem  size: 262144 KB
+2021/11/30 23:29:30| Max Swap size: 0 KB
+2021/11/30 23:29:30| Using Least Load store dir selection
+2021/11/30 23:29:30| Set Current Directory to /var/cache/squid
+2021/11/30 23:29:30| Finished loading MIME types and icons.
+2021/11/30 23:29:30| HTCP Disabled.
+2021/11/30 23:29:30| Squid plugin modules loaded: 0
+2021/11/30 23:29:30| Adaptation support is off.
+2021/11/30 23:29:30| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:29:31| storeLateRelease: released 0 objects
+2021/11/30 23:31:38| Created PID file (/var/run/squid.pid)
+2021/11/30 23:31:38| Set Current Directory to /var/cache/squid
+2021/11/30 23:31:38| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/11/30 23:31:38| Service Name: squid
+2021/11/30 23:31:38| Process ID 325
+2021/11/30 23:31:38| Process Roles: master worker
+2021/11/30 23:31:38| With 3200 file descriptors available
+2021/11/30 23:31:38| Initializing IP Cache...
+2021/11/30 23:31:38| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/11/30 23:31:38| DNS Socket created at [::], FD 4
+2021/11/30 23:31:38| DNS Socket created at 0.0.0.0, FD 9
+2021/11/30 23:31:38| Adding nameserver 8.8.8.8 from squid.conf
+2021/11/30 23:31:38| Adding nameserver 208.67.222.222 from squid.conf
+2021/11/30 23:31:38| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/11/30 23:31:38| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/11/30 23:31:38| Logfile: opening log daemon:/var/log/squid/access.log
+2021/11/30 23:31:38| Logfile Daemon: opening log /var/log/squid/access.log
+2021/11/30 23:31:38| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/11/30 23:31:38| Store logging disabled
+2021/11/30 23:31:38| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/11/30 23:31:38| Target number of buckets: 1008
+2021/11/30 23:31:38| Using 8192 Store buckets
+2021/11/30 23:31:38| Max Mem  size: 262144 KB
+2021/11/30 23:31:38| Max Swap size: 0 KB
+2021/11/30 23:31:38| Using Least Load store dir selection
+2021/11/30 23:31:38| Set Current Directory to /var/cache/squid
+2021/11/30 23:31:38| Finished loading MIME types and icons.
+2021/11/30 23:31:38| HTCP Disabled.
+2021/11/30 23:31:38| Squid plugin modules loaded: 0
+2021/11/30 23:31:38| Adaptation support is off.
+2021/11/30 23:31:38| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/11/30 23:31:39| storeLateRelease: released 0 objects
+2021/12/09 20:04:02| Created PID file (/var/run/squid.pid)
+2021/12/09 20:04:02| Set Current Directory to /var/cache/squid
+2021/12/09 20:04:02| Starting Squid Cache version 4.14 for x86_64-unknown-cygwin...
+2021/12/09 20:04:02| Service Name: squid
+2021/12/09 20:04:02| Process ID 183
+2021/12/09 20:04:02| Process Roles: master worker
+2021/12/09 20:04:02| With 3200 file descriptors available
+2021/12/09 20:04:02| Initializing IP Cache...
+2021/12/09 20:04:02| parseEtcHosts: '/etc/hosts' : (2) No such file or directory
+2021/12/09 20:04:02| DNS Socket created at [::], FD 4
+2021/12/09 20:04:02| DNS Socket created at 0.0.0.0, FD 9
+2021/12/09 20:04:02| Adding nameserver 8.8.8.8 from squid.conf
+2021/12/09 20:04:02| Adding nameserver 208.67.222.222 from squid.conf
+2021/12/09 20:04:03| ERROR: loading file '/usr/share/squid/errors/templates/ERR_PROTOCOL_UNKNOWN': (2) No such file or directory
+2021/12/09 20:04:03| WARNING: failed to find or read error text file ERR_PROTOCOL_UNKNOWN
+2021/12/09 20:04:03| Logfile: opening log daemon:/var/log/squid/access.log
+2021/12/09 20:04:03| Logfile Daemon: opening log /var/log/squid/access.log
+2021/12/09 20:04:03| WARNING: no_suid: setuid(0): (22) Invalid argument
+2021/12/09 20:04:03| Store logging disabled
+2021/12/09 20:04:03| Swap maxSize 0 + 262144 KB, estimated 20164 objects
+2021/12/09 20:04:03| Target number of buckets: 1008
+2021/12/09 20:04:03| Using 8192 Store buckets
+2021/12/09 20:04:03| Max Mem  size: 262144 KB
+2021/12/09 20:04:03| Max Swap size: 0 KB
+2021/12/09 20:04:03| Using Least Load store dir selection
+2021/12/09 20:04:03| Set Current Directory to /var/cache/squid
+2021/12/09 20:04:03| Finished loading MIME types and icons.
+2021/12/09 20:04:03| HTCP Disabled.
+2021/12/09 20:04:04| Squid plugin modules loaded: 0
+2021/12/09 20:04:04| Adaptation support is off.
+2021/12/09 20:04:04| Accepting HTTP Socket connections at local=[::]:3128 remote=[::] FD 12 flags=9
+2021/12/09 20:04:04| storeLateRelease: released 0 objects
+2021/12/12 20:00:05| local=192.168.56.226:3128 remote=192.168.56.226:52224 FD 16 flags=1: read/write failure: (113) Software caused connection abort

@@ -1,0 +1,136 @@
+19/12/2021 17:39:09 passing arg to libvncserver: -rfbauth
+19/12/2021 17:39:09 passing arg to libvncserver: /etc/x11vnc.pwd
+19/12/2021 17:39:09 passing arg to libvncserver: -rfbport
+19/12/2021 17:39:09 passing arg to libvncserver: 5900
+19/12/2021 17:39:09 x11vnc version: 0.9.16 lastmod: 2019-01-05  pid: 918
+/tmp/fd.aFpuaN: 1: netstat: not found
+xauth:  unable to generate an authority file name
+/tmp/fd.aFpuaN: 1: netstat: not found
+19/12/2021 17:39:12 -auth guess: using 'XAUTHORITY=/var/run/lightdm/root/:0' for disp='unset'
+19/12/2021 17:39:12 XOpenDisplay("") failed.
+19/12/2021 17:39:12 Trying again with XAUTHLOCALHOSTNAME=localhost ...
+19/12/2021 17:39:12 
+19/12/2021 17:39:12 *** XOpenDisplay failed. No -display or DISPLAY.
+19/12/2021 17:39:12 *** Trying ":0" in 4 seconds.  Press Ctrl-C to abort.
+19/12/2021 17:39:12 *** 1 2 3 4 
+19/12/2021 17:39:16 *** XOpenDisplay of ":0" successful.
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 Using X display :0
+19/12/2021 17:39:16 rootwin: 0x532 reswin: 0x600001 dpy: 0x5e2cfbb0
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 ------------------ USEFUL INFORMATION ------------------
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 Wireframing: -wireframe mode is in effect for window moves.
+19/12/2021 17:39:16   If this yields undesired behavior (poor response, painting
+19/12/2021 17:39:16   errors, etc) it may be disabled:
+19/12/2021 17:39:16    - use '-nowf' to disable wireframing completely.
+19/12/2021 17:39:16    - use '-nowcr' to disable the Copy Rectangle after the
+19/12/2021 17:39:16      moved window is released in the new position.
+19/12/2021 17:39:16   Also see the -help entry for tuning parameters.
+19/12/2021 17:39:16   You can press 3 Alt_L's (Left "Alt" key) in a row to 
+19/12/2021 17:39:16   repaint the screen, also see the -fixscreen option for
+19/12/2021 17:39:16   periodic repaints.
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 XFIXES available on display, resetting cursor mode
+19/12/2021 17:39:16   to: '-cursor most'.
+19/12/2021 17:39:16   to disable this behavior use: '-cursor arrow'
+19/12/2021 17:39:16   or '-noxfixes'.
+19/12/2021 17:39:16 using XFIXES for cursor drawing.
+19/12/2021 17:39:16 GrabServer control via XTEST.
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 Scroll Detection: -scrollcopyrect mode is in effect to
+19/12/2021 17:39:16   use RECORD extension to try to detect scrolling windows
+19/12/2021 17:39:16   (induced by either user keystroke or mouse input).
+19/12/2021 17:39:16   If this yields undesired behavior (poor response, painting
+19/12/2021 17:39:16   errors, etc) it may be disabled via: '-noscr'
+19/12/2021 17:39:16   Also see the -help entry for tuning parameters.
+19/12/2021 17:39:16   You can press 3 Alt_L's (Left "Alt" key) in a row to 
+19/12/2021 17:39:16   repaint the screen, also see the -fixscreen option for
+19/12/2021 17:39:16   periodic repaints.
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 XKEYBOARD: number of keysyms per keycode 7 is greater
+19/12/2021 17:39:16   than 4 and 51 keysyms are mapped above 4.
+19/12/2021 17:39:16   Automatically switching to -xkb mode.
+19/12/2021 17:39:16   If this makes the key mapping worse you can
+19/12/2021 17:39:16   disable it with the "-noxkb" option.
+19/12/2021 17:39:16   Also, remember "-remap DEAD" for accenting characters.
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 X FBPM extension not supported.
+19/12/2021 17:39:16 X display is capable of DPMS.
+19/12/2021 17:39:16 --------------------------------------------------------
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 Default visual ID: 0x21
+19/12/2021 17:39:16 Read initial data from X display into framebuffer.
+19/12/2021 17:39:16 initialize_screen: fb_depth/fb_bpp/fb_Bpl 24/32/3200
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 X display :0 is 32bpp depth=24 true color
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 Listening for VNC connections on TCP port 5900
+19/12/2021 17:39:16 Listening for VNC connections on TCP6 port 5900
+19/12/2021 17:39:16 listen6: bind: Address already in use
+19/12/2021 17:39:16 Not listening on IPv6 interface.
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 Xinerama is present and active (e.g. multi-head).
+19/12/2021 17:39:16 Xinerama: number of sub-screens: 1
+19/12/2021 17:39:16 Xinerama: no blackouts needed (only one sub-screen)
+19/12/2021 17:39:16 
+19/12/2021 17:39:16 fb read rate: 2036 MB/sec
+19/12/2021 17:39:16 fast read: reset -wait  ms to: 10
+19/12/2021 17:39:16 fast read: reset -defer ms to: 10
+19/12/2021 17:39:16 The X server says there are 10 mouse buttons.
+19/12/2021 17:39:16 screen setup finished.
+19/12/2021 17:39:16 
+
+The VNC desktop is:      debian:0
+
+******************************************************************************
+Have you tried the x11vnc '-ncache' VNC client-side pixel caching feature yet?
+
+The scheme stores pixel data offscreen on the VNC viewer side for faster
+retrieval.  It should work with any VNC viewer.  Try it by running:
+
+    x11vnc -ncache 10 ...
+
+One can also add -ncache_cr for smooth 'copyrect' window motion.
+More info: http://www.karlrunge.com/x11vnc/faq.html#faq-client-caching
+
+
+19/12/2021 17:40:18 check_xrandr_event():
+19/12/2021 17:40:18 Detected XRANDR event at location 'check_xevents':
+19/12/2021 17:40:18 check_xrandr_event: Resize; enabling full XRANDR trapping.
+19/12/2021 17:40:18 xrandr_mode: default
+19/12/2021 17:40:18 check_xrandr_event: trying to create new framebuffer...
+19/12/2021 17:40:18 deleted 25 tile_row polling images.
+19/12/2021 17:40:18 Default visual ID: 0x21
+19/12/2021 17:40:18 Read initial data from X display into framebuffer.
+19/12/2021 17:40:18 initialize_screen: fb_depth/fb_bpp/fb_Bpl 24/32/5760
+19/12/2021 17:40:18 rfbNewFramebuffer(0x5e32d000, 0x0, 1440, 900, 8, 1, 4)
+19/12/2021 17:40:18 
+19/12/2021 17:40:18 X display :0 is 32bpp depth=24 true color
+19/12/2021 17:40:18 
+19/12/2021 17:40:18 calling setTranslateFunction()...
+19/12/2021 17:40:18   done.
+19/12/2021 17:40:18 
+19/12/2021 17:40:18 Xinerama is present and active (e.g. multi-head).
+19/12/2021 17:40:18 Xinerama: number of sub-screens: 1
+19/12/2021 17:40:18 Xinerama: no blackouts needed (only one sub-screen)
+19/12/2021 17:40:18 
+19/12/2021 17:40:18 check_xrandr_event: fb       WxH: 1440x900
+19/12/2021 17:40:18 check_xrandr_event():
+19/12/2021 17:40:18 Detected XRANDR event at location 'copy_screen-set':
+19/12/2021 17:40:18   serial:          121
+19/12/2021 17:40:18   timestamp:       32393
+19/12/2021 17:40:18   cfg_timestamp:   32393
+19/12/2021 17:40:18   size_id:         10
+19/12/2021 17:40:18   sub_pixel:       1
+19/12/2021 17:40:18   rotation:        1
+19/12/2021 17:40:18   width:           1440
+19/12/2021 17:40:18   height:          900
+19/12/2021 17:40:18   mwidth:          381 mm
+19/12/2021 17:40:18   mheight:         238 mm
+19/12/2021 17:40:18 
+19/12/2021 17:40:18 check_xrandr_event: previous WxH: 1440x900
+19/12/2021 17:40:18 check_xrandr_event: no change detected.
+19/12/2021 17:40:18 check_xrandr_event: updating config...
+19/12/2021 17:40:18 check_xrandr_event: current  WxH: 1440x900
+19/12/2021 17:40:18 check_xrandr_event(): returning control to caller...
