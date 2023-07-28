@@ -1,0 +1,23 @@
+./primos
+
+ Programa SECUENCIAL para contar el número de primos menores que un valor.
+
+ Primos menores que        100:         25. Tiempo secuencial:  0.00 segundos.
+ Primos menores que       1000:        168. Tiempo secuencial:  0.00 segundos.
+ Primos menores que      10000:       1229. Tiempo secuencial:  0.00 segundos.
+ Primos menores que     100000:       9592. Tiempo secuencial:  0.01 segundos.
+ Primos menores que    1000000:      78498. Tiempo secuencial:  0.13 segundos.
+ Primos menores que   10000000:     664579. Tiempo secuencial:  3.07 segundos.
+ Primos menores que  100000000:    5761455. Tiempo secuencial: 83.79 segundos.
+
+
+
+ Programa PARALELO para contar el número de primos menores que un valor.
+
+ Primos menores que        100:         25. Tiempo paralelo:  0.00 segundos.
+ Primos menores que       1000:        168. Tiempo paralelo:  0.00 segundos.
+ Primos menores que      10000:       1229. Tiempo paralelo:  0.00 segundos.
+ Primos menores que     100000:       9592. Tiempo paralelo:  0.00 segundos.
+ Primos menores que    1000000:      78498. Tiempo paralelo:  0.10 segundos.
+ Primos menores que   10000000:     664579. Tiempo paralelo:  2.12 segundos.
+ Primos menores que  100000000:    5761455. Tiempo paralelo: 54.44 segundos.
