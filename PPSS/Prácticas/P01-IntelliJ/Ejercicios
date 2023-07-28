@@ -1,0 +1,10 @@
+b) He encontrado un error en la prueba C3. El resultado esperado es 400 pero devuelve 150. Para solucionarlo he encontrado que el error está en la implementación del código, y he reimplementado esa parte.
+
+
+-Ejercicio 4-
+a) Al pulsar en package se generan dentro de la carpeta /target/ un archivo /target/maven-archiver/pom.properties y /target/P01-IntelliJ-1.0-SNAPSHOT.jar
+Si haces que falle un test a propósito, no se generan los archivos anteriormente mencionados, pero sí se ejecutan correctamente las fases clean, validate y compile.
+Si haces que falle la compilación, sólo se ejecutan la fase clean y validate, por lo que la carpeta /target/classes/ está vacía y algunas otras carpetas tampoco se generan, asociadas a las siguientes fases de compile.
+
+b) El path del proyecto es .m2/repository/practica1/ppss/P01-IntelliJ/1.0-SNAPSHOT/P01-IntelliJ-1.0-SNAPSHOT.jar
+Este fichero no se borra aún usando la fase clean.

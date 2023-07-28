@@ -1,0 +1,20 @@
+RUN CONFIGURATIONS:
+
+
+- Run CineTest:
+	clean test -D test=CineTest -DexcludedGroups=parametrizado
+
+- Run FicheroTextoTest sin excluidos:
+	test -DTest=FicheroTextoTest -DexcludedGroups=excluido
+
+- Run DataArrayTest:
+	clean test -D test=DataArrayTest
+
+- Run Parametrizados con excepciones:
+	clean test -D -Dgroups=parametrizado,conExcepciones
+
+- Run Parametrizados:
+	clean test -D -Dgroups=parametrizado
+
+- Run todos:
+	clean test -D
