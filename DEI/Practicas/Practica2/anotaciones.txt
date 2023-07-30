@@ -1,0 +1,83 @@
+NP.MEAN
+La función np.mean de NumPy es una función que calcula la media aritmética de los elementos de una matriz.
+En este caso, el argumento trainX es una matriz de entrada y el argumento axis especifica sobre qué ejes se
+ deben calcular la media. En este caso, el valor axis=(0,1,2) indica que la media se calcula sobre todos los ejes 
+ de la matriz, es decir, se calcula la media de todos los elementos de la matriz.
+
+Por tanto, la función np.mean(trainX, axis=(0,1,2)) devolverá un escalar que representa la media aritmética de todos
+ los elementos de la matriz trainX.
+
+
+NP.STD
+ La función np.std(trainX, axis=(0, 1, 2)) calcula la desviación estándar de los datos de trainX a lo largo de las
+  dimensiones 0, 1 y 2. Esto significa que se calculará la desviación estándar de cada característica en trainX a lo
+   largo de todas las muestras y todas las dimensiones de tiempo. La desviación estándar es una medida de dispersión
+    que nos dice cuán lejos están los datos de la media.
+
+
+trainX[:, :, :, i] = (trainX[:, :, :, i] - MEAN[i]) / STD[i]
+La siguiente función realiza una normalización de los datos de entrada para el conjunto de entrenamiento. Esto significa
+ que se está calculando el promedio (MEAN) y la desviación estándar (STD) para cada canal de color (i) de las imágenes del
+  conjunto de entrenamiento (trainX). Luego, se está restando el promedio del canal de color (i) a todos los valores del canal
+   de color (i) en el conjunto de entrenamiento y dividiendo el resultado por la desviación estándar del canal de color (i). 
+   Esto se hace para asegurar que todos los canales de color tengan una distribución normal con media cero y desviación estándar 
+   de uno, lo que puede ser útil para mejorar el rendimiento del modelo de aprendizaje automático.
+
+
+COMPUTEF1
+La clase "ComputeF1" es una clase de "devolución de llamada" en Keras, que se utiliza para realizar tareas adicionales durante
+ el entrenamiento de un modelo de aprendizaje automático. En este caso, la clase se utiliza para calcular la puntuación F1 del
+  modelo en los datos de validación al final de cada época de entrenamiento y guardar el modelo si se obtiene una puntuación F1
+   mejor que la mejor puntuación previa. La puntuación F1 es una medida de la precisión y el rendimiento del modelo en términos
+    de clasificación binaria. La puntuación se calcula a partir de la precisión (proporción de predicciones correctas) y el recall
+     (proporción de ejemplos reales que se han clasificado correctamente).
+
+FIT
+La siguiente función utiliza el método "fit" del objeto "model" en Keras para entrenar el modelo de aprendizaje automático con el
+ conjunto de entrenamiento (trainX, trainY). También se especifican algunos parámetros adicionales para el proceso de entrenamiento:
+
+"batch_size" especifica el tamaño del lote de datos que se utilizará en cada iteración del proceso de entrenamiento.
+"epochs" especifica el número de veces que se iterará sobre el conjunto de entrenamiento durante el proceso de entrenamiento.
+"validation_data" especifica un conjunto de datos de validación (valX, valY) que se utilizará para evaluar el rendimiento del 
+    modelo durante el entrenamiento.
+"callbacks" es una lista de objetos "devolución de llamada" que se ejecutarán durante el proceso de entrenamiento. En este caso, 
+se están utilizando dos objetos "devolución de llamada": "f1_score_callback" y "tensorboard_callback". "f1_score_callback" es un
+ objeto de la clase "ComputeF1" que se utiliza para calcular la puntuación F1 del modelo durante el entrenamiento y guardar el modelo
+  si se obtiene una puntuación F1 mejor que la mejor puntuación previa. "tensorboard_callback" es un objeto de la clase "TensorBoard"
+   que se utiliza para generar visualizaciones y métricas para monitorear el progreso del entrenamiento y el rendimiento del modelo 
+   utilizando TensorBoard.
+
+
+log_dir = "logs/fit/" + datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+La función log_dir crea una ruta de acceso para un directorio de registro utilizando la fecha y hora actual en el formato especificado.
+El directorio de registro se utilizará para almacenar los archivos de registro generados por TensorBoard durante el proceso de entrenamiento.
+La fecha y hora actual se obtienen mediante la función "datetime.datetime.now()", que devuelve un objeto "datetime" con la fecha y hora actual.
+Luego, se utiliza la función "strftime" para convertir el objeto "datetime" en una cadena de caracteres en el formato especificado ("%Y%m%d%H%M%S").
+ Esto se utiliza para asegurar que la ruta de acceso al directorio de registro sea única cada vez que se ejecuta el código.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**
+    img = np.expand_dims(cv2.imread(args.image, 1), axis = 0)
+    img = cv2.imread(args.image, 1)
+    img = cv2.resize(img,(224,224))
+    img = img.reshape(1,224,224,3)
+
+
+    for i in range(3):
+       img[:, :, :, i] = (img[:, :, :, i] - MEAN[i]) / STD[i]
+**
+
+La línea de código realiza lo siguiente:
+
+Agrega una dimensión extra al principio del tensor de imagen utilizando la función "np.expand_dims".
+ Esto se hace para que la imagen sea compatible con el modelo de red neuronal, que espera un tensor de
+  entrada con forma (batch_size, altura, anchura, canales). La dimensión "batch_size" se establece en 1 
+  porque sólo se procesará una imagen a la vez.
+
+Lee una imagen del archivo especificado en el argumento "args.image" utilizando la función "cv2.imread". La imagen se lee en formato BGR (3 canales).
+
+Redimensiona la imagen a un tamaño de 224x224 utilizando la función "cv2.resize".
+
+Reorganiza los datos de la imagen para que se ajusten al formato de entrada esperado por el modelo de red neuronal. Se utiliza la función "reshape"
