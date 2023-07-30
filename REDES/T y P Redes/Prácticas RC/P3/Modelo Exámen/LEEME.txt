@@ -1,0 +1,8 @@
+El pdf 'Soluciones tipo Test'
+debeis abrirlo en el lector de Sumatra
+(si estais en Linux) o en Adobe Crobat Reader
+(si estais en Windows) ya que las bolitas que 
+hay al lado de cada pregunta son desplegables
+con la explicación razonada de la respuesta correcta.
+Y en el visor de Drive y el resto no funcionan bien
+estos comentarios.
