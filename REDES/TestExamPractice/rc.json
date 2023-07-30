@@ -1,0 +1,2068 @@
+{
+    "Enero 2019":
+	[
+		{
+			"Question": "El empleo de la DIFUSIÓN en una red LAN permite:",
+			"Answers": [
+				"El envío de información a todas las estaciones de la red transmitiendo un paquete.",
+				"El envío de información a un grupo de estaciones de la red transmitiendo un paquete.",
+				"El envío de información a una sola estación de la red transmitiendo más de un paquete.",
+				"El envío de información a un grupo de estaciones de la red transmitiendo más de unpaquete."
+			],
+			"Solution": 0 
+		},
+		{
+			"Question": "El empleo de datagramas en una red de conmutación de paquetes se caracteriza por:",
+			"Answers": [
+				"En las redes de conmutación de paquetes no se emplean datagramas, se establecencircuitos físicos.",
+				"Especificar en cada paquete los nodos intermedios que debe atravesar para alcanzar sudestino.",
+				"Determinar un camino a través de los nodos de la red para que los paquetes alcancen sudestino.",
+				"Especificar en cada paquete el origen y el destino para que los nodos intermediosdeterminen un camino en la red para cada paquete transmitido."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Si en una red de conmutación de paquetes basada en datagramas un nodo deja de funcionar es cierto que:",
+			"Answers": [
+				"Sólo los paquetes en tránsito en el nodo no alcanzarán su destino.",
+				"Todos los paquetes que hayan pasado por ese nodo han de ser reenviados.",
+				"Todas las estaciones de la red quedan incomunicadas.",
+				"Las estaciones que emplean ese nodo para intercambiar paquetes han de determinar unanueva ruta para sus destinos."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La tecnología de difusión no es apropiada para redes WAN ya que:",
+			"Answers": [
+				"Los errores en los medios de difusión son muy frecuentes.",
+				"El encaminamiento en una red de difusión es más lento que en una WAN punto a punto.",
+				"Las redes de difusión emplean velocidades de transmisión muy reducidas.",
+				"El elevado número de equipos que interconecta provocaría un estado de colisiónpermanente."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La comunicación entre las capas pares de nivel n de una arquitectura se inicia:",
+			"Answers": [
+				"Cuando en un extremo la capa n solicita al nivel inferior n-1 un envío de datos.",
+				"Cuando en un extremo la capa n+1 solicita a la capa inferior n un envío de datos.",
+				"Cuando en un extremo la capa n+1 solicita a la capa inferior n-1 un envío de datos.",
+				"Cuando en un extremo la capa n solicita a la capa par n-1 un envío de datos."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Cuando en el nivel n de una arquitectura de red es necesaria la fragmentación para enviar información a la capa par, es cierto que:",
+			"Answers": [
+				"En cada fragmento se incorpora la cabecera del protocolo de nivel n-1.",
+				"Sólo en el último fragmento se incorpora la cabecera del protocolo de nivel n.",
+				"Sólo en el primer fragmento se incorpora la cabecera del protocolo de nivel n.",
+				"Sólo en el primer fragmento se incorpora la cabecera del protocolo de nivel n+1.3"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La comunicación vertical en una arquitectura de red se caracteriza porque:",
+			"Answers": [
+				"Se establece entre las capas pares de nivel físico.",
+				"Se establece entre la capa n y la capa par n en el otro extremo.",
+				"Se establece entre la capa n+1 y la capa n-1 adyacentes de la arquitectura.",
+				"Se establece entre la capa n y la capa n-1 adyacentes de la arquitectura."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ Qué protocolo de la arquitectura de red TCP/IP permite reenviar la información transportada en un paquete Ethernet que sufre una alteración en el medio físico ?",
+			"Answers": [
+				"IP.",
+				"ICMP.",
+				"TCP.",
+				"UDP."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Qué protocolo de la arquitectura TCP/IP permitirá identificar que no existe una aplicación determinada funcionando en un computador ?",
+			"Answers": [
+				"IP.",
+				"DNS.",
+				"TCP.",
+				"IGMP."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La interconexión de dos redes Ethernet empleando un router se caracteriza por:",
+			"Answers": [
+				"Los paquetes Ethernet de difusión se reenvían en los segmentos Ethernetinterconectados.",
+				"Los paquetes Ethernet dirigidos a una dirección MAC de otro segmento son reenviadospor el router.",
+				"El router puede procesar los paquetes dirigidos a las direcciones MAC de sus interfaces.",
+				"El router puede procesar todos los paquetes Ethernet transmitidos en un segmentoEthernet."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La distorsión de una señal de pulsos que se propaga por un medio físico se produce:",
+			"Answers": [
+				"Siempre, debido a la existencia del ancho de banda del medio.",
+				"Siempre que se supere la velocidad de transmisión del teorema de Nyquist.",
+				"Siempre que se supere la velocidad de transmisión del teorema de Shannon.",
+				"Sólo cuando el medio físico presenta una relación señal-ruido mayor de 30 dB."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Sea un medio físico con ancho de banda B y sin presencia de ruido, si se transmite una señal de pulsos con dos niveles de codificación, es cierto que:",
+			"Answers": [
+				"Se pueden producir errores si se emplea una velocidad de transmisión de B bps.",
+				"Se pueden producir errores si se emplea una velocidad de transmisión de 2*B bps.",
+				"Se pueden producir errores si se emplea una velocidad de transmisión de 4*B bps.",
+				"La velocidad de transmisión no afecta a la existencia de errores.4"
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La transmisión de señales digitales empleando la codificación Manchester, se caracteriza por:",
+			"Answers": [
+				"Los bits de datos se identifican empleando valores de tensión opuestos en signo.",
+				"Los bits de datos se identifican empleando valores de fase diferente en la señal.",
+				"Los bits de datos incorporan información de sincronización.",
+				"Emplear una codificación de múltiples niveles para conseguir velocidades detransmisión elevadas."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La presencia de ruido cruzado en un cable eléctrico, provoca:",
+			"Answers": [
+				"La reducción en el ancho de banda del medio físico.",
+				"La reducción de la velocidad de transmisión en el medio físico.",
+				"La limitación en el número de niveles de codificación de la señal de datos.",
+				"El aumento en el ancho de banda del medio físico."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La técnica de modulación QAM se caracteriza por:",
+			"Answers": [
+				"Establecer 4 cambios de fase y 2 cambios de amplitud en la señal portadora.",
+				"Establecer 8 cambios de fase y 2 cambios de amplitud en la señal portadora.",
+				"Aumentar el ancho de banda del medio físico.",
+				"Reducir la relación señal-ruido del medio físico."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La transmisión de dos señales de pulsos por un medio físico de ancho de banda B, se consigue:",
+			"Answers": [
+				"Empleando la multiplexión en el tiempo (TDM).",
+				"Empleando la modulación PSK con frecuencia de portadora de 2*B Hz.",
+				"Empleando la modulación ASK con frecuencia de portadora de 2*B Hz.",
+				"No es posible transmitir dos señales de pulsos por un mismo medio físico."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ En qué situación un cable coaxial es más adecuado que un cable UTP ?",
+			"Answers": [
+				"Cuando se realiza transmisión en banda modulada.",
+				"Cuando se realiza transmisión en banda base.",
+				"Cuando el ruido de impulso es muy bajo.",
+				"Cuando la distancia de comunicación es superior a 1 Km."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ Qué factor limita la distancia máxima de comunicación que puede conseguirse en una fibra óptica ?",
+			"Answers": [
+				"La potencia del haz de luz emitido en la fibra.",
+				"El número de haces incidentes en la fibra.",
+				"El tipo de dispositivo emisor de luz empleado.",
+				"No existe limitación en la distancia de comunicación empleada en una fibra óptica.5"
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ Qué tipo de fibra es la más adecuada para el empleo de la técnica de multiplexado por longitud de onda ?",
+			"Answers": [
+				"Fibra multimodo.",
+				"Fibra índice gradual.",
+				"Fibra monomodo.",
+				"Cualquier tipo de fibra es adecuada para esta técnica."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre la comunicación inalámbrica empleando ondas electromagnéticas es cierto que,",
+			"Answers": [
+				"Es inmune al ruido electromagnético.",
+				"Se emplea la multiplexión en frecuencia para definir los diferentes servicios deradiocomunicación (telefonía, Wi-Fi, etc).",
+				"Las comunicaciones satelitales emplean frecuencias de 100 GHz.",
+				"Las ondas electromagnéticas tienen todas el mismo alcance en distancia."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre las características de un protocolo de nivel de enlace es cierto que:",
+			"Answers": [
+				"La cola de los paquetes elimina los errores en los bits del paquete.",
+				"La SVT (Secuencia de Verificación de Trama) se incorpora en la cola del paquete.",
+				"La SVT permite corregir errores en el paquete de datos.",
+				"Incorpora en la cabecera del paquete información para la detección de errores."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre el funcionamiento del protocolo de ventana deslizante con repetición SELECTIVA es cierto que:",
+			"Answers": [
+				"Si el emisor REENVÍA un paquete de datos que ESTÁ en la ventana del receptor, elreceptor lo descarta.",
+				"Si el emisor tiene un tiempo de espera de ACK MAYOR que el tiempo de llenado de suventana, reenviará paquetes que pueden ser rechazados en el receptor.",
+				"El receptor RECHAZA cualquier paquete de datos que no llegue en orden.",
+				"El emisor y el receptor SIEMPRE tienen el mismo tamaño de ventana."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "¿ Qué protocolo NO está definido en el modelo de referencia IEEE 802 ?",
+			"Answers": [
+				"LLC.",
+				"IP.",
+				"VLAN.",
+				"Ethernet."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre la transmisión de paquetes Ethernet dirigidos a la dirección MAC de difusión es cierto que:",
+			"Answers": [
+				"Un conmutador Ethernet NO reenvía los paquetes Ethernet de difusión entre sus puertos.",
+				"Un concentrador Ethernet NO reenvía los paquetes Ethernet de difusión entre suspuertos.",
+				"Un router reenvía los paquetes Ethernet de difusión entre sus interfaces Ethernet.",
+				"Un puente reenvía los paquetes Ethernet de difusión entre los segmentos queinterconecta.6"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica el sistema de señalización empleado en Ethernet 100BaseTX:",
+			"Answers": [
+				"Manchester.",
+				"4D-PAM5.",
+				"MLT-3.",
+				"8B/10B."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Qué tecnología Ethernet NO emplea codificación NRZI ?",
+			"Answers": [
+				"Ethernet 1000BaseT.",
+				"Ethernet 1000BaseCX.",
+				"Ethernet 100BaseLX.",
+				"Ethernet 1000BaseSX."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ Qué tipo de tecnología Ethernet es compatible con Ethernet 10BaseT al emplear el CSMA/CD ?",
+			"Answers": [
+				"Ethernet 1000BaseT.",
+				"Ethernet 10GBaseT.",
+				"Ethernet 5GBaseT.",
+				"Ethernet 2.5GBaseT."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "El empleo de un conmutador Ethernet con la tecnología IEEE 802.1Q, permite que:",
+			"Answers": [
+				"Un paquete de difusión procedente de un enlace de acceso se reenvía a todos los puertostroncales del conmutador.",
+				"Un paquete de difusión procedente de un enlace troncal se reenvía sólo a los puertos delconmutador asociados a la misma VLAN etiquetada en el paquete de difusión.",
+				"Un paquete de difusión procedente de un enlace troncal se reenvía sólo a los puertostroncales asociados a la misma VLAN.",
+				"Un paquete de difusión procedente de un enlace troncal se reenvía a todos los puertostroncales del conmutador."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "El mecanismo CSMA/CA de las redes IEEE 802.11x se caracteriza por:",
+			"Answers": [
+				"Evitar las colisiones entre equipos asociados a un punto de acceso (AP).",
+				"Reducir la probabilidad de colisiones entre equipos asociados a un punto de acceso (AP).",
+				"Permitir el uso de diferentes frecuencias para las estaciones asociadas a un punto deacceso.",
+				"Reenviar los paquetes ACK que sufren errores al ser transmitidos en el aire."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Indica la normativa de redes LAN inalámbricas que proporciona más número de canales (frecuencias) diferentes para establecer la comunicación:",
+			"Answers": [
+				"IEEE 802.11b.",
+				"IEEE 802.11g.",
+				"IEEE 802.11n.",
+				"Todas las normativas de redes LAN inalámbricas emplean el mismo número de canales.7"
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Indica qué mecanismo de autenticación es más inseguro para obtener el acceso no autorizado a una red Wi-Fi:",
+			"Answers": [
+				"WPA-TKIP.",
+				"WPA2-PSK.",
+				"EAP/TLS.",
+				"EAP/PEAP."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "¿ Cómo es posible reducir la congestión en una red TCP/IP ?",
+			"Answers": [
+				"Aumentando la velocidad de transmisión en las redes conectadas.",
+				"Aumentando el número de saltos entre cualquier origen y destino.",
+				"Aumentando la capacidad de proceso de las CPUs de los routers.",
+				"Aumentando el número de protocolos de encaminamiento empleados."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Qué protocolo de encaminamiento no emplea métricas de optimización en la tabla de encaminamiento ?",
+			"Answers": [
+				"OSPF.",
+				"RIPv2.",
+				"BGP.",
+				"Todos los protocolos de encaminamiento optimizan rutas a los destinos."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Qué protocolo de encaminamiento emplea la capa de transporte para informar de las tablas de encaminamiento a otros routers ?",
+			"Answers": [
+				"OSPF.",
+				"RIPv1.",
+				"RIPv2.",
+				"BGP."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ En qué parte de un paquete IPv6 se incorpora la información sobre prioridad del paquete ?",
+			"Answers": [
+				"En la cabecera de extensión de prioridad.",
+				"En la cabecera de extensión de opciones para el destino.",
+				"En la cabecera de extensión de encaminamiento.",
+				"En la cabecera IPv6."
+			],
+			"Solution": 3
+		}
+	],
+    "Enero 2016":
+	[
+		{
+			"Question": "Una arquitectura de red que define una aplicación para el intercambio de archivos en una red de área local Ethernet, NO precisa disponer de la capa:",
+			"Answers": [
+				"Física.",
+				"Enlace.",
+				"Red.",
+				"Aplicación."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La tecnología de difusión se diferencia de la tecnología punto a punto en:",
+			"Answers": [
+				"En la tecnología de difusión es necesario el encaminamiento de información entrenodos intermedios.",
+				"En la tecnología de difusión, todas las estaciones pueden transmitir una señal física acualquier estación de la red.",
+				"En la tecnología punto a punto es posible enviar un paquete de información a todas lasestaciones de la red con una sola transmisión en un medio físico.",
+				"En la tecnología punto a punto la conectividad física entre todas las estaciones de la redprecisa de un coste de cableado menor que en la tecnología de difusión."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Un circuito virtual en una red de conmutación de paquetes se caracteriza por:",
+			"Answers": [
+				"Establecer un camino entre estaciones dentro de un medio físico de difusión.",
+				"Establecer un camino entre estaciones a través de varios medios físicos y nodosintermedios.",
+				"Establecer un camino diferente para cada paquete transmitido por una estación a unmismo destino.",
+				"No realizar establecimiento ni liberación del circuito en redes con tecnología punto apunto."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La multidifusión en una red de comunicaciones permite:",
+			"Answers": [
+				"Identificar un conjunto de equipos dentro de una red de difusión con una direcciónúnica.",
+				"Agrupar varias direcciones físicas de equipos en una sola dirección física.",
+				"Transmitir un paquete de información para cada estación de un grupo de multidifusión.",
+				"Transmitir un paquete de información a TODAS las estaciones de la red."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La solicitud de un servicio de la capa n a la capa n-1 se denomina:",
+			"Answers": [
+				"Comunicación vertical entre capas.",
+				"Comunicación horizontal de la capa n.",
+				"Comunicación horizontal de la capa n-1.",
+				"Comunicación vertical entre capas pares del nivel n."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La solicitud de un servicio de la capa n a la capa n-1 provoca:",
+			"Answers": [
+				"La comunicación entre las capas pares del nivel n.",
+				"La comunicación entre las capas pares del nivel n-1.",
+				"La comunicación entre las capa n y la capa par n-1.",
+				"La comunicación entre las capas adyacentes n+1 y n-1.3"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Cuando se produce fragmentación de paquetes en un nivel n,",
+			"Answers": [
+				"En cada fragmento se incorporan las cabeceras de los niveles inferiores.",
+				"Se incorporan las cabeceras de los niveles inferiores sólo en el último fragmento.",
+				"Se incorporan las cabeceras de los niveles inferiores sólo en el primer fragmento.",
+				"Se incorpora la cabecera del nivel superior sólo en el primer fragmento."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica cuál de las siguientes capas no está presente en la arquitectura TCP/IP:",
+			"Answers": [
+				"Aplicación.",
+				"Sesión.",
+				"Transporte.",
+				"Red."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "En el intercambio de paquetes TCP entre dos estaciones que se encuentran en redes IP diferentes, la cabecera TCP se interpreta:",
+			"Answers": [
+				"En cada router intermedio existente entre las dos estaciones.",
+				"En cada puente intermedio existente entre las dos estaciones.",
+				"En cada repetidor intermedio existente entre las dos estaciones.",
+				"En las estaciones que intercambian los paquetes."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Un servidor Web envía a un cliente un paquete HTTP con datos. El paquete es transmitido en el medio físico empleando el protocolo de nivel de enlace Ethernet y sufre un error de CRC. La capa de la arquitectura que reenviará el paquete HTTP es:",
+			"Answers": [
+				"Capa de aplicación.",
+				"Capa de transporte.",
+				"Capa de red.",
+				"Capa de enlace."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "¿ Cuántos armónicos componen una señal periódica de pulsos con periodo 1 ms y transmitida por un medio fisico de 5000 Hz de ancho de banda ?",
+			"Answers": [
+				"5.",
+				"6.",
+				"10000.",
+				"Infinitos."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Determina la velocidad máxima de transmisión para una señal de pulsos con 2 niveles de tensión en un medio físico full-duplex con multiplexión por frecuencia (simétrica para transmisión y recepción) y ancho de banda de 1000 Hz.",
+			"Answers": [
+				"1000 bps.",
+				"2000 bps.",
+				"4000 bps.",
+				"8000 bps.4"
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Dada una señal de pulsos transmitida a la velocidad máxima permitida de un medio físico de ancho de banda B Hz y con R dB de relación señal ruido, si R aumenta de valor, es cierto que:",
+			"Answers": [
+				"La velocidad máxima de transmisión en el medio permanece invariable.",
+				"La velocidad máxima de transmisión en el medio disminuye.",
+				"La velocidad máxima de transmisión en el medio aumenta.",
+				"El ancho de banda B del medio aumenta de valor."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "En la transmisión de una señal digital con Codificación Binaria Unipolar SIN Retorno a Cero, cuando se envía una secuencia de varios 0 consecutivos, es cierto que:",
+			"Answers": [
+				"Los bits de datos se identifican en las transiciones de tensión en cada bit.",
+				"Los bits de datos se identifican empleando valores de tensión opuestos en signo.",
+				"Los bits de datos se identifican empleando el mismo periodo de muestreo en receptor yemisor.",
+				"Los bits de datos no pueden identificarse."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Se desea realizar la transmisión en un medio físico de dos señales de datos digitales con velocidades de 32 Kbps y 64 Kbps respectivamente. Si se emplea la multiplexión en el tiempo, el medio físico precisa de una velocidad de transmisión de:",
+			"Answers": [
+				"64 Kbps.",
+				"96 Kbps.",
+				"128 Kbps.",
+				"256 Kbps."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Dado un cable eléctrico UTP para transmisión de señales de datos, es cierto que:",
+			"Answers": [
+				"A mayor categoría disminuye la velocidad máxima de transmisión.",
+				"Si aumenta la longitud del cable se reducirá la velocidad máxima de transmisión.",
+				"Si aumenta la relación señal-ruido se reducirá la velocidad máxima de transmisión.",
+				"Si aumenta la longitud del cable aumentará el ancho de banda disponible."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La fibra óptica que permite la transmisión de un haz de luz con datos a mayor distancia es:",
+			"Answers": [
+				"Fibra óptica monomodo.",
+				"Fibra óptica de índice gradual.",
+				"Fibra óptica multimodo.",
+				"Todas las fibras ópticas permiten la transmisión a la misma distancia máxima."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Sobre la transmisión de datos empleando ondas electromagnéticas, es cierto que:",
+			"Answers": [
+				"Si dos señales emplean la misma velocidad de transmisión siempre interfieren entreellas.",
+				"Todas las ondas electromagnéticas se propagan a la misma distancia.",
+				"Todas las ondas electromagnéticas se emplean para transmisión de datos.",
+				"Si dos señales emplean frecuencias diferentes no interfieren entre ellas.5"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica qué funcionalidad del nivel de enlace NO dispone el protocolo Ethernet:",
+			"Answers": [
+				"Delimitación de tramas.",
+				"Control del flujo.",
+				"Detección de errores.",
+				"Direccionamiento de equipos."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "En un protocolo de parada y espera donde sólo existe numeración de los paquetes de datos (los ACK son NO numerados) y se aplica sobre un medio físico con una cierta tasa de error, es cierto que:",
+			"Answers": [
+				"No se producen nunca errores en los paquetes de datos transmitidos.",
+				"No se producen nunca duplicaciones de datos en el receptor.",
+				"El receptor y emisor están siempre sincronizados.",
+				"No se producen nunca errores en los paquetes de confirmación (ACK) transmitidos."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La integración del modelo IEEE 802.x en la arquitectura TCP/IP se consigue:",
+			"Answers": [
+				"Añadiendo las capas del modelo IEEE 802.x encima de la capa de transporte deTCP/IP.",
+				"Añadiendo las capas del modelo IEEE 802.x encima de la capa de aplicación deTCP/IP.",
+				"Añadiendo las capas del modelo IEEE 802.x debajo de la capa de enlace de TCP/IP.",
+				"Añadiendo las capas del modelo IEEE 802.x debajo de la capa de red de TCP/IP."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Sobre la transmisión de paquetes Ethernet de difusión es cierto que:",
+			"Answers": [
+				"Un conmutador Ethernet NO reenvía los paquetes Ethernet de difusión entre sus puertos.",
+				"Un concentrador Ethernet NO reenvía los paquetes Ethernet de difusión entre suspuertos.",
+				"Un router NO reenvía los paquetes Ethernet de difusión entre sus interfaces Ethernet.",
+				"Un puente NO reenvía los paquetes Ethernet de difusión entre los segmentos queinterconecta."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el proceso de REENVÍO en los puentes Ethernet, es cierto que:",
+			"Answers": [
+				"Una dirección MAC puede estar asociada a más de un puerto.",
+				"Asocia direcciones MAC origen con puertos.",
+				"Asocia direcciones MAC destino con puertos.",
+				"Una dirección MAC puede no estar asociada a ningún puerto."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La transmisión de paquetes Ethernet con la tecnología 100BaseX se caracteriza por:",
+			"Answers": [
+				"Emplear el mismo tipo de señalización que en Ethernet 10BaseT.",
+				"Emplear el mismo mecanismo de sincronización en fibra óptica que en cable eléctrico.",
+				"Emplear un formato de paquete MAC distinto que en Ethernet 10BaseT.",
+				"Estar definida para emplear solamente el medio físico de fibra óptica.6"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre el funcionamiento de un conmutador Ethernet VLAN es cierto que,",
+			"Answers": [
+				"Los paquetes de difusión de una VLAN son reenviados a todos los puertos troncales delconmutador.",
+				"Los paquetes de difusión de una VLAN son reenviados a todos los puertos delconmutador VLAN.",
+				"Los paquetes de difusión de una VLAN son reenviados sólo a los puertos de acceso delconmutador asociados a la misma VLAN.",
+				"Los paquetes de difusión de una VLAN pueden ser reenviados a puertos troncales y deacceso asociados a la misma VLAN."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ En qué normativa inalámbrica del IEEE no se emplea el mecanismo RTS/CTS en el acceso al medio ?",
+			"Answers": [
+				"IEEE 802.11b.",
+				"IEEE 802.11g.",
+				"IEEE 802.11n.",
+				"Todas las normas IEEE 802.11x soportan el mecanismo RTS/CTS."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Sobre las tramas de señalización (Beacon Frame) de la norma IEEE 802.11x, es cierto que:",
+			"Answers": [
+				"Permiten la autenticación de clientes en un punto de acceso (AP).",
+				"Son transmitidas por los puntos de acceso (AP) periódicamente.",
+				"Son transmitidas por los clientes para conocer la existencia de una red inalámbrica enun entorno.",
+				"Permiten conocer el número de estaciones dentro de la cobertura de una red inalámbricaad-hoc."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "¿ Qué mecanismo de cifrado en redes WiFi es actualmente seguro ?",
+			"Answers": [
+				"WPA2/AES.",
+				"WPA2/TKIP.",
+				"WPA2/PEAP.",
+				"WPA2/TLS."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "En el encaminamiento de paquetes en el nivel de red de la arquitectura TCP/IP es cierto que,",
+			"Answers": [
+				"El encaminamiento analiza las direcciones IP origen y destino en los paquetes.",
+				"El encaminamiento depende de la cantidad de datos del paquete IP.",
+				"El encaminamiento de un paquete depende de cómo se encaminó el paquete anterior.",
+				"El encaminamiento se realiza para todos los paquetes aunque sean enviados al mismodestino."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Sobre la estructura de una tabla de encaminamiento de un router IP es cierto que,",
+			"Answers": [
+				"Las entradas de una tabla pueden tener direcciones de red de destino repetidas.",
+				"Las entradas de una tabla pueden tener direcciones de puerta de enlace repetidas.",
+				"En una tabla puede existir más de una entrada de puerta de enlace por defecto.",
+				"Todas las entradas de una tabla tiene que tener la máscara de red con el mismo valor.7"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Indica cuál de los siguientes factores NO afecta a la congestión en una red con arquitectura TCP/IP,",
+			"Answers": [
+				"Capacidad de proceso de la CPU de un router.",
+				"Fragmentación de paquetes en la red.",
+				"Protocolo de nivel de enlace empleado.",
+				"Número de dispositivos que transmiten información simultáneamente."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Indica cuál de los siguientes NO es un mensaje del protocolo BGP:",
+			"Answers": [
+				"BGP Hello.",
+				"BGP Open.",
+				"BGP Notification.",
+				"BGP Keepalive."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ En qué situación el protocolo de encaminamiento OSPF será más adecuado que emplear RIP ?",
+			"Answers": [
+				"Interconexión de redes LAN con tecnología diferente.",
+				"Interconexión de redes LAN sin bucles.",
+				"Interconexión de redes LAN con menos de 10 saltos de distancia máxima.",
+				"Interconexión de redes LAN donde las distancias entre redes pueden reducirse."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Sobre el protocolo de encaminamiento IPv6 es cierto que,",
+			"Answers": [
+				"Aumenta el número de direcciones IPv4 empleando la clase reservada E.",
+				"Es posible el intercambio de paquetes IP entre estaciones IPv4 e IPv6.",
+				"Es posible el intercambio de paquetes IPv4 a través de una red IPv6.",
+				"El protocolo IPv6 aumenta el valor del campo TTL para permitir redes IP más extensas."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre los algoritmos de control del flujo del protocolo TCP es cierto que,",
+			"Answers": [
+				"La ventana del emisor puede aumentar por encima del valor de la ventana del receptor.",
+				"El retardo en la llegada de un ACK provocan el aumento de la ventana de congestión delemisor.",
+				"La pérdida de un ACK provoca la reducción de la ventana de congestión del emisor.",
+				"El retardo en la llegada de un ACK reduce a la mitad el tiempo de espera del ACK delreenvío."
+			],
+			"Solution": 2
+		}
+	],
+    "Enero 2015":
+	[
+		{
+			"Question": "El empleo de la difusión en una red LAN permite,",
+			"Answers": [
+				"El envío de información a todas las estaciones de la red transmitiendo un paquete.",
+				"El envío de información a un grupo de estaciones de la red transmitiendo un paquete.",
+				"El envío de información a una sola estación de la red transmitiendo más de un paquete.",
+				"El envío de información a un grupo de estaciones de la red transmitiendo más de unpaquete."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "El empleo de datagramas en una red de conmutación de paquetes se caracteriza por,",
+			"Answers": [
+				"En las redes de conmutación de paquetes no se emplean datagramas, se establecen circuitosfísicos.",
+				"Especificar en cada paquete los nodos intermedios que debe atravesar para alcanzar sudestino.",
+				"Determinar un camino a través de los nodos de la red para que los paquetes alcancen sudestino.",
+				"Especificar en cada paquete el origen y el destino para que los nodos intermediosdeterminen un camino en la red para cada paquete transmitido."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La interconexión de dos redes Ethernet conectadas a través de una WAN con arquitectura TCP/IP, ha de realizarse con,",
+			"Answers": [
+				"Un repetidor.",
+				"Un puente.",
+				"Un router.",
+				"Una pasarela."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La comunicación horizontal en una arquitectura de red se caracteriza porque,",
+			"Answers": [
+				"Se establece entre las capas que son adyacentes en la arquitectura.",
+				"Se establece entre la capa n y la capa par n-1 de la arquitectura.",
+				"Se establece entre las capas pares de la arquitectura.",
+				"Se establece entre las capas n+1 y n-1 de la arquitectura.3"
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "En una arquitectura de red, la PDU de la capa n (que se envía a la entidad par de la capa",
+			"Answers": [
+				"incorpora en su campo de datos,",
+				"La PDU de la capa n-1.",
+				"La SDU de la capa n-1.",
+				"La PCI de la capa n-1.",
+				"La PCI de la capa n+1."
+			],
+			"Solution": 4
+		},
+		{
+			"Question": "La fragmentación en un protocolo de la capa n se produce cuando,",
+			"Answers": [
+				"La SDU de la capa n+1 no cabe dentro de la PDU de la capa n.",
+				"La SDU de la capa n no cabe dentro de la PDU de la capa n.",
+				"La SDU de la capa n+1 no cabe dentro de la PDU de la capa n-1.",
+				"La SDU de la capa n no cabe dentro de la PDU de la capa n+1."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "En una red con arquitectura TCP/IP, ¿ qué nivel de la arquitectura permite realizar un control del flujo extremo a extremo ?",
+			"Answers": [
+				"Enlace.",
+				"Red.",
+				"Transporte.",
+				"Aplicación."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "El número máximo de conexiones TCP que puede establecer un equipo es,",
+			"Answers": [
+				"Mayor que el número máximo de conexiones UDP.",
+				"Menor que el número máximo de conexiones UDP.",
+				"Limitado al rango de numeración de los puertos.",
+				"Ilimitado, depende de la memoria disponible en el sistema."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Si se desea transmitir información a través de un medio físico empleando una señal de pulsos con 4 niveles y a una velocidad de 90000 bps, el medio físico necesita un ancho de banda mínimo de,",
+			"Answers": [
+				"30000 Hz.",
+				"45000 Hz.",
+				"90000 Hz.",
+				"22500 Hz."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La codificación en banda base que no presenta problemas de sincronización en secuencias consecutivas de unos y ceros es,",
+			"Answers": [
+				"Codificación binaria sin retorno a cero bipolar.",
+				"Codificación binaria sin retorno a cero unipolar.",
+				"Codificación binaria con retorno a cero unipolar.",
+				"Codificación Manchester.4"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ Qué tipo de modulación analógica permite transmitir información a mayor velocidad si se emplea un mismo ancho de banda ?",
+			"Answers": [
+				"Modulación ASK.",
+				"Modulación PSK.",
+				"Modulación FSK.",
+				"Modulación QPSK."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica en cuál de los siguientes medios físicos la dispersión intramodal es mayor.",
+			"Answers": [
+				"Cable UTP categoría 3.",
+				"Cable UTP categoría 5.",
+				"Fibra óptica monomodo.",
+				"Fibra óptica multimodo."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Qué tipo de medio físico no presenta diafonía (ruido cruzado) ?",
+			"Answers": [
+				"Cable UTP categoría 3.",
+				"Cable UTP categoría 5.",
+				"Cable STP.",
+				"Fibra óptica multimodo."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "El grado del polinomio generador empleado en los códigos de redundancia cíclica (CRC) NO afecta a,",
+			"Answers": [
+				"El número de bits del resto en la operación de división de polinomios.",
+				"La cantidad de información redundante en el paquete de información.",
+				"La cantidad de errores en ráfaga que pueden detectarse.",
+				"La frecuencia con que se producen errores en el medio físico."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "En un protocolo de ventana deslizante de envío continuo con repetición selectiva es cierto que,",
+			"Answers": [
+				"El emisor puede enviar paquetes que podrían ser rechazados por el receptor.",
+				"El receptor puede aceptar paquetes con secuencias que están fuera de su ventana derecepción.",
+				"La ventana del emisor tiene un tamaño que no varía durante el funcionamiento delprotocolo.",
+				"La ventana del receptor sólo permite recibir una única trama de datos."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La pérdida de un paquete de datos en un protocolo de parada y espera sin numeración de ACK’s provoca,",
+			"Answers": [
+				"Un error de duplicación.",
+				"Un error de sincronización.",
+				"El reenvío indefinido del mismo paquete al receptor.",
+				"El reenvío de la trama perdida.5"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Sobre las normativas Ethernet 802.3 y Ethernet DIX (Ethernet II), es cierto que",
+			"Answers": [
+				"El tamaño máximo de un paquete IP a incorporar en el campo de datos es diferente.",
+				"Ambas emplean el mecanismo CSMA/CD en el modo full-duplex.",
+				"Ethernet 802.3 detecta colisiones y Ethernet DIX no.",
+				"La velocidad máxima de transmisión en Ethernet DIX es mayor que en Ethernet 802.3."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "El número máximo de conmutadores Ethernet que podemos conectar en cascada está limitador por:",
+			"Answers": [
+				"En modo full-duplex la única limitación es el número máximo de máquinas que noprovoquen congestión.",
+				"En modo full-duplex la limitación está en una distancia máxima de 2.5 Km entre losconmutadores más alejados.",
+				"En modo half-duplex la limitación está en el número de colisiones que se produzcan.",
+				"En modo half-duplex la limitación son 254 segmentos conectados en cascada."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Indica en qué normativa Ethernet no se incorpora el campo Preámbulo en la cabecera Ethernet.",
+			"Answers": [
+				"Ethernet 100baseFX.",
+				"Ethernet 100baseTX.",
+				"Ethernet 10baseT.",
+				"Todas las normativas Ethernet incorporan el campo Préambulo en la cabecera Ethernet."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Sobre el funcionamiento de un conmutador Ethernet VLAN es cierto que,",
+			"Answers": [
+				"Los paquetes de difusión de una VLAN son reenviados a todos los puertos de la mismaVLAN.",
+				"Los paquetes de difusión de una VLAN son reenviados a todos los puertos del conmutadorVLAN.",
+				"Los paquetes de difusión de una VLAN son reenviados sólo a los puertos de acceso delconmutador.",
+				"Los paquetes de difusión de una VLAN nunca son reenviados a un puerto troncal."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Indica en qué normativa Ethernet NO se emplean bits de sincronización adicionales a los datos en la trama Ethernet,",
+			"Answers": [
+				"Ethernet 10BaseT.",
+				"Ethernet 100BaseTX.",
+				"Ethernet 100BaseFX.",
+				"Ethernet 1000BaseLX."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ Qué mecanismo de seguridad Wi-Fi no puede realizar una autenticación basada en una contraseña compartida PSK ?",
+			"Answers": [
+				"WEP.",
+				"WPA-Personal.",
+				"WPA2-Personal.",
+				"WPA2-Enterprise.6"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ Qué algoritmo de cifrado emplea WPA2 ?",
+			"Answers": [
+				"RSA.",
+				"TKIP.",
+				"IPSEC.",
+				"AES."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ Qué mecanismo de autenticación WiFi permite proporcionar una clave de cifrado MK empleando un servidor RADIUS ?",
+			"Answers": [
+				"TKIP.",
+				"EAP/TLS.",
+				"PEAP.",
+				"CHAP."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Qué factores NO provocan un aumento de la congestión en una red TCP/IP ?",
+			"Answers": [
+				"Valores de MTU diferentes en toda la red.",
+				"Tablas de encaminamiento muy complejas.",
+				"Porcentaje de uso de la CPU de los routers para encaminamiento inferiores al 40%.",
+				"El empleo de protocolos sin control del flujo como UDP."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el protocolo de encaminamiento BGP es cierto que,",
+			"Answers": [
+				"Emplea el algoritmo de Dijkstra para obtener la solución de encaminamiento en la red.",
+				"Intercambia información entre los routers empleando la multidifusión.",
+				"Utiliza conexiones UDP para el envío de los mensajes BGP en la red.",
+				"Los routers BGP disponen de un conocimiento global de los SA de Internet."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Si un paquete IP es enviado a la dirección 224.0.0.255 es cierto que,",
+			"Answers": [
+				"El paquete es procesado por todos los equipos de todos los grupos de multidifusión deInternet.",
+				"La dirección IP de destino se cambia por 224.255.255.255 para que llegue a todos losequipos de la red donde es transmitido.",
+				"Los routers que reciben este paquete lo envían a todos los routers multicasting de Internet.",
+				"El paquete sólo es procesado por los equipos que pertenecen a este grupo de multidifusión."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Sobre el protocolo de encaminamiento RIP es cierto que,",
+			"Answers": [
+				"Si un interfaz de un router RIP falla, RIP informa del fallo al resto de routers RIP.",
+				"RIP informa de todos los destinos que conoce a todos los routers de los segmentos a losque está conectado.",
+				"Si RIP detecta una métrica mayor a un destino modifica el valor de la métrica paraactualizarla.",
+				"Un mensaje RIP con información de destinos es reenviado a todos los segmentos de redexistentes.7"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre el protocolo IPv6 es cierto que,",
+			"Answers": [
+				"Tiene un tamaño de cabecera fijo de 40 bytes.",
+				"Un paquete puede circular indefinidamente en una red IPv6.",
+				"No existen direcciones de difusión IPv6.",
+				"Una dirección IPv6 de un dispositivo es la misma independientemente del operador de redal que se encuentre conectado."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el control de flujo de datos en el protocolo TCP es cierto que,",
+			"Answers": [
+				"El elemento emisor de TCP tiene un tamaño de ventana fijo negociado en el establecimientode la conexión.",
+				"El tamaño de la ventana de un receptor TCP disminuye si aumenta el retardo en la llegadade ACK’s.",
+				"El tamaño de la ventana de un emisor TCP aumentará si expiran temporizadores de espera de ACK.",
+                "Si un emisor TCP recibe un paquete ACK aumenta el tamaño de su ventana de congestión en el valor del MSS."
+			],
+			"Solution": 3
+		}
+	],
+    "Julio 2017": 
+    [
+		{
+			"Question": "El empleo de la tecnología de redes punto a punto para las redes WAN se caracteriza por,",
+			"Answers": [
+				"Su bajo coste económico de cableado frente a la tecnología de difusión.",
+				"La comunicación directa a nivel de enlace entre cualquier par de nodos de la red.",
+				"La transmisión de un único paquete para enviar información a todos los nodos de la red.",
+				"La tolerancia a fallos que presenta si existen varios caminos a un determinado destino."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La transmisión de información en una red LAN de difusión se caracteriza por,",
+			"Answers": [
+				"Una elevada tasa de error en el medio debido a la gran extensión geográfica de la red.",
+				"Precisar de un esquema de direccionamiento a nivel de enlace.",
+				"El empleo de algoritmos de encaminamiento para los equipos en los extremos de la red.",
+				"Precisar de un esquema de direccionamiento implícito."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La comunicación en una red WAN que emplea la técnica de circuitos virtuales se caracteriza por,",
+			"Answers": [
+				"Proporcionar una transmisión de datos con menos retardos que con la técnica dedatagramas.",
+				"Presentar mayor tolerancia a fallos en los nodos de la red que con la técnica de datagramas.",
+				"Modificar la ruta que sigue un paquete en la red sin necesidad de establecer un nuevocamino entre origen y destino.",
+				"Establecer caminos de circulación en la red para cada paquete de datos transmitido."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "El aumento en el número de niveles de una arquitectura de red se caracteriza por,",
+			"Answers": [
+				"Establecer funcionalidades más sencillas para cada capa dentro de la arquitectura de red.",
+				"Establecer funcionalidades más complejas para cada capa dentro de la arquitectura de red.",
+				"Aumentar el número de errores en la transmisión de paquetes por el medio físico.",
+				"Disminuir el número de errores en la transmisión de paquetes por el medio físico."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La realización de un servicio ofrecido por la capa n de una arquitectura de red precisa de,",
+			"Answers": [
+				"El intercambio de PDU’s entre las entidades pares del nivel n.",
+				"El intercambio de IDU’s entre las entidades pares del nivel n-1.",
+				"El intercambio de PDU’s entre las entidades pares del nivel n+1.",
+				"El intercambio de IDU’s entre las entidades pares del nivel n."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La interconexión de dos redes LAN Ethernet a través de una red con arquitectura TCP/IP se consigue,",
+			"Answers": [
+				"Empleando dos routers, uno en cada LAN.",
+				"Empleando dos puentes, uno en cada LAN.",
+				"Empleando dos pasarelas, una en cada LAN.",
+				"Empleando dos repetidores, uno en cada LAN."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La capa de red de la arquitectura TCP/IP se caracteriza por,",
+			"Answers": [
+				"Realizar un encaminamiento de los paquetes de información mediante circuitos virtuales.",
+				"Realizar un envío confirmado de paquetes de información en la red.",
+				"Definir un direccionamiento para los equipos en la red.",
+				"Establecer flujos fiables de información."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "En el modelo de arquitectura de red TCP/IP, los paquetes de datos que generan las aplicaciones y que se intercambian a nivel físico,",
+			"Answers": [
+				"Incorporan siempre las cabeceras de todos los protocolos de la arquitectura de red.",
+				"Incorporan siempre la cabecera del protocolo IP.",
+				"Incorporan siempre la cabecera del protocolo IP y TCP.",
+				"Incorporan siempre la cabecera del protocolo IP y UDP."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La transmisión de señales de información en banda base a través de un medio físico de ancho de banda B se caracteriza por:",
+			"Answers": [
+				"Permitir la transmisión de cualquier señal de datos a través del medio físico.",
+				"Transmitir las componentes frecuenciales de la señal de información que están dentro delancho de banda del medio.",
+				"Reducir a B el número de componentes frecuenciales de la señal que son transmitidas através del medio.",
+				"No es posible incorporar información de sincronización en la señal transmitida."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La modulación analógica por cambio en amplitud permite,",
+			"Answers": [
+				"Transmitir cualquier señal de información a través de un medio físico con 4000 Hz deancho de banda.",
+				"Reducir la relación señal-ruido en el medio físico de transmisión.",
+				"Adecuar el ancho de banda de la señal moduladora al ancho de banda del medio físico.",
+				"Aumentar el ancho de banda de la señal moduladora."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La modulación analógica que permite la transmisión de señales con mayor calidad y mejor aprovechamiento del medio físico es,",
+			"Answers": [
+				"La modulación por cambio de amplitud y frecuencia.",
+				"La modulación por cambio de amplitud.",
+				"La modulación por cambio de frecuencia.",
+				"La modulación por cambio de fase y amplitud."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La velocidad de transferencia necesaria en un medio físico para transmitir señales moduladas digitalmente, como PCM, depende de,",
+			"Answers": [
+				"El ancho de banda de la señal moduladora y su relación señal-ruido.",
+				"La frecuencia de muestreo y el número de niveles empleado en la cuantización.",
+				"La frecuencia de muestreo y el número de niveles de la señal moduladora.",
+				"El ancho de banda del medio físico y la frecuencia de muestreo."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "El efecto de la dispersión intermodal en fibras ópticas es mayor,",
+			"Answers": [
+				"En las fibras monomodo.",
+				"Al disminuir la velocidad de transmisión.",
+				"Al aumentar la distancia de la comunicación.",
+				"Al aumentar la potencia del haz de luz del emisor."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Determina el medio físico más adecuado a emplear en un entorno industrial donde existe una gran cantidad de máquinas eléctricas en funcionamiento:",
+			"Answers": [
+				"Cable UTP categoría 3.",
+				"Cable STP.",
+				"Cable UTP categoría 5.",
+				"Cable UTP categoría 6."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre la comunicación inalámbrica empleando ondas electromagnéticas, es cierto que:",
+			"Answers": [
+				"Señales de la misma frecuencia interfieren entre ellas.",
+				"Señales de la misma frecuencia y diferente amplitud NO interfieren entre ellas.",
+				"Las comunicaciones satelitales emplean frecuencias de 100 MHz.",
+				"Las ondas electromagnéticas tienen todas el mismo alcance en distancia."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Indica dónde se introduce el campo Secuencia de Verificación de Trama (SVT) en un protocolo de nivel de enlace:",
+			"Answers": [
+				"Al principio de la cabecera del protocolo de nivel de enlace.",
+				"Al final de la cabecera del protocolo de nivel de enlace.",
+				"Al final del paquete de nivel de enlace.",
+				"Al principio del paquete de nivel de enlace."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Si un protocolo de nivel de enlace emplea la técnica CRC como Secuencia de Verificación de Trama, es cierto que:",
+			"Answers": [
+				"Podrá corregir los errores en bits del paquete de nivel de enlace.",
+				"Podrá detectar la existencia de bits erróneos en el paquete de nivel de enlace.",
+				"Podrá corregir los errores en bits de los datos de nivel de enlace.",
+				"Solicitará al nivel de red la corrección de los bits con errores en el paquete de nivel deenlace."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "En un protocolo de control del flujo de parada y espera con numeración de DATOS y ACKs, y donde no se producen errores en la transmisión en el medio físico, es FALSO que:",
+			"Answers": [
+				"No se producen errores de duplicación.",
+				"No se producen errores de sincronización.",
+				"No se producen reenvíos de paquetes de datos.",
+				"No se producen envíos continuos de paquetes de datos."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Qué capa de la arquitectura de red no está definida en el modelo de referencia IEEE 802.2 ?",
+			"Answers": [
+				"Física.",
+				"MAC.",
+				"LLC.",
+				"Red."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica en cuál de las siguientes normativas Ethernet NO es necesario un tamaño de paquete mínimo:",
+			"Answers": [
+				"100BaseT.",
+				"1000BaseT.",
+				"10G-BaseT.",
+				"Todas las normativas BaseT de Ethernet precisan de tamaño de paquete mínimo."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La interconexión de segmentos Ethernet empleando conmutadores en vez de concentradores permite:",
+			"Answers": [
+				"Reducir la congestión en la red al aumentar el número de PCs.",
+				"Reducir las colisiones en la red al aumentar el número de PCs.",
+				"Eliminar las colisiones en la red independientemente del número de PCs.",
+				"Eliminar la congestión en la red independientemente del número de PCs."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el funcionamiento del reenvío de paquetes Ethernet en un puente que emplea Spanning-Tree, es cierto que :",
+			"Answers": [
+				"Si la dirección MAC destino de un paquete recibido en un puerto no es conocida, se reenvíaa todos los puertos adicionales del puente.",
+				"Si la dirección MAC destino de un paquete recibido en un puerto no es conocida, sereenvía a todos los puertos ACTIVOS adicionales del puente.",
+				"Si la dirección MAC destino de un paquete recibido en un puerto no es conocida, se reenvíasólo al PUERTO RAÍZ del puente.",
+				"El puente sólo puede reenviar paquetes Ethernet a su PUERTO RAÍZ."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La tecnología Ethernet 100BaseT se desarrolló con el objetivo de:",
+			"Answers": [
+				"Mejorar el rendimiento en redes Ethernet 10BaseT con aplicaciones cliente/servidor.",
+				"Reducir la congestión en redes Ethernet 10BaseT al aumentar el número de PCs .",
+				"Eliminar las colisiones en los concentradores Ethernet 10BaseT.",
+				"Eliminar el tamaño de paquete mínimo en redes Ethernet."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ En qué tecnología Ethernet se emplea la codificación 8B/10B para la sincronización ?",
+			"Answers": [
+				"100BaseFX.",
+				"100BaseTX.",
+				"1000BaseT.",
+				"1000BaseLX."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "El empleo de un conmutador Ethernet con la tecnología IEEE 802.1Q, permite:",
+			"Answers": [
+				"Crear una red IP en el conmutador donde no existe conectividad directa entre los equipos dela misma red IP.",
+				"Reenviar paquetes ARP request asociados a una VLAN sólo al puerto troncal de la VLAN.",
+				"Establecer dominios de difusión diferentes dentro de un mismo conmutador.",
+				"Definir varias redes IP para una misma VLAN en el conmutador."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el funcionamiento de una red LAN inalámbrica de infraestructura es cierto que:",
+			"Answers": [
+				"Cada punto de acceso (AP) tiene conectividad inalámbrica con los equipos conectados aotros APs.",
+				"Un equipo conectado a un AP tienen conectividad inalámbrica directa con los demásequipos conectados al AP.",
+				"La conectividad entre equipos inalámbricos conectados a diferentes AP se realiza con unared de infraestructura (red Ethernet).",
+				"Un equipo inalámbrico conectado a un AP no tiene conectividad con equipos en la red deinfraestructura (red Ethernet)."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el procedimiento de registro de un equipo inalámbrico en un punto de acceso (AP) es cierto que:",
+			"Answers": [
+				"Un AP no puede rechazar registrar a un equipo que solicita el registro.",
+				"Para el registro de un equipo en un AP es necesario conocer el SSID de la red inalámbrica.",
+				"Si un AP registra un equipo no es posible iniciar el proceso de autenticación.",
+				"El proceso de registro permite proporcionar una clave de cifrado por parte del AP al equipoinalámbrico."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "El cifrado en WPA2-PSK y en WPA2-Enterprise se diferencia en que:",
+			"Answers": [
+				"WPA2-PSK emplea una secuencia inicial de cifrado con la misma clave para todos losequipos inalámbricos.",
+				"WPA2-Enterprise no realiza autenticación de clientes al emplear la misma clave inicial decifrado para todos los equipos inalámbricos.",
+				"WPA2-PSK emplea el mecanismo de autenticación LEAP para permitir el acceso a la redinalámbrica.",
+				"WPA2-Enterprise puede emplear el algoritmo de cifrado EAP y WPA2-PSK sólo puedeemplear el algoritmo de cifrado TKIP."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Indica qué dirección IP tiene que ser empleada en un dispositivo para que un router NUNCA pueda encaminarla (aunque emplee NAT):",
+			"Answers": [
+				"10.0.0.3.",
+				"192.168.1.1.",
+				"225.10.2.1.",
+				"241.241.241.241."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ Cómo es posible reducir la congestión en una red TCP/IP ?",
+			"Answers": [
+				"Reduciendo el número de equipos conectados en la red.",
+				"Reduciendo la capacidad de proceso de las CPUs de los routers.",
+				"Reduciendo el tamaño del MTU de las redes conectadas.",
+				"Aumentando la velocidad de transmisión en las redes conectadas."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ Cuál es el protocolo de encaminamiento empleado en los routers frontera de los SA para la conectividad global en Internet ?",
+			"Answers": [
+				"OSPF.",
+				"RIPv1.",
+				"BGP.",
+				"RIPv2."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Cuál es el protocolo de encaminamiento que envía siempre la información completa de la tabla de encaminamiento de un router ?",
+			"Answers": [
+				"OSPF.",
+				"RIPv1.",
+				"BGP.",
+				"OSPFv2."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "El direccionamiento IPv6 presenta la característica de:",
+			"Answers": [
+				"Asociar direcciones IP únicas a dispositivos, independientemente de su ubicacióngeográfica.",
+				"Aumentar el número máximo de saltos de encaminamiento que un paquete IP puede realizara través de los routers de Internet.",
+				"Emplear un tamaño en bytes para la cabecera IPv6 menor que en IPv4.",
+				"No permitir el empleo de direcciones IP de multidifusión."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Sea una conexión TCP entre un extremo A y otro B en una situación en la que la ventana de congestión del extremo A es menor que la ventana de recepción que informa el extremo B. En esta situación es cierto que:",
+			"Answers": [
+				"El extremo A aumenta su ventana de emisión al tamaño de la ventana de recepción en B.",
+				"El extremo A mantiene su ventana de emisión al tamaño de la ventana de congestión en A.",
+				"El extremo A reduce su ventana de emisión a la mitad del tamaño de la ventana derecepción en B.",
+				"El extremo A reduce su ventana de emisión a la mitad del tamaño de la ventana decongestión."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La tecnología de red MPLS está asociada a:",
+			"Answers": [
+				"Redes de agregación Ethernet.",
+				"Redes troncales.",
+				"Redes de acceso ADSL.",
+				"Redes de acceso FTTH"
+			],
+			"Solution": 1
+		}
+	],
+    "Julio 2016":
+    [
+		{
+			"Question": "El empleo de la tecnología de difusión para las redes LAN se caracteriza por,",
+			"Answers": [
+				"La necesidad de definir un mecanismo de compartición del medio físico.",
+				"La necesidad de definir un mecanismo de encaminamiento para la conectividad entre todoslos computadores de la red.",
+				"La transmisión de múltiples paquetes para enviar la misma información a todos loscomputadores de la red.",
+				"La tolerancia a fallos que presenta al permitir varios caminos físicos a un determinadocomputador."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Si en una red de conmutación de paquetes basada en circuitos virtuales, un nodo deja de funcionar es cierto que,",
+			"Answers": [
+				"Todos los paquetes que alcancen ese nodo serán encaminados a un nodo alternativo sinintervenir los extremos de la comunicación.",
+				"Todos los paquetes que hayan pasado por ese nodo han de ser reenviados.",
+				"Todos los computadores de la red quedan incomunicados.",
+				"Los computadores que emplean ese nodo para intercambiar paquetes han de determinaruna nueva ruta para sus destinos."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "El empleo del mecanismo de difusión en una red LAN permite,",
+			"Answers": [
+				"Identificar grupos de máquinas en la red con una única dirección física (dirección MAC).",
+				"Identificar grupos de máquinas en la red con diferentes direcciones físicas (direccionesMAC).",
+				"Identificar a todas las máquinas de la red con una única dirección física (dirección MAC).",
+				"Identificar a todas las máquinas de la red con diferentes direcciones físicas (direccionesMAC)."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "La comunicación vertical en una arquitectura de red se caracteriza porque,",
+			"Answers": [
+				"Se establece entre las capas pares de nivel físico.",
+				"Se establece entre la capa n y la capa par n-1 de la arquitectura.",
+				"Se establece entre la capa n y la capa par n+1 de la arquitectura.",
+				"Se establece entre las capas n y n-1 de la arquitectura."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Si un protocolo de la capa n de una arquitectura de red envía una PDU que no llega a la capa par correspondiente, es cierto que,",
+			"Answers": [
+				"La capa par de nivel n en el otro extremo de la comunicación informa del error.",
+				"La capa n del emisor reenvía la PDU del nivel n perdida.",
+				"La capa par de nivel n+1en el otro extremo de la comunicación informa del error.",
+				"La capa n+1 del emisor reenvía la PDU del nivel n perdida.3"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Si un protocolo definido en la capa n de una arquitectura de red permite la fragmentación, es cierto que:",
+			"Answers": [
+				"Sólo el primer paquete de una fragmentación incorpora la cabecera del protocolo de nivel n.",
+				"Sólo el primer paquete de una fragmentación incorpora la cabecera del protocolo de nivel n-1.",
+				"Todos los paquetes de una fragmentación incorporan la cabecera del protocolo de nivel n-1.",
+				"Todos los paquetes de una fragmentación incorporan la cabecera del protocolo de nivel n."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La capa de transporte en la arquitectura TCP/IP se caracteriza por,",
+			"Answers": [
+				"Emplear en la comunicación un protocolo de control del flujo denominado UDP.",
+				"Aumentar el aprovechamiento del medio físico empleando el control del flujo delprotocolo TCP.",
+				"Gestionar una comunicación fiable estableciendo circuitos virtuales extremo a extremo conel protocolo TCP.",
+				"Proporcionar siempre a la capa de aplicación una comunicación no segura, debido alfuncionamiento de conmutación con datagramas en Internet."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "En el intercambio de paquetes DNS entre dos computadores A y B que se encuentran en la misma red IP, la cabecera UDP de esos paquetes se interpreta:",
+			"Answers": [
+				"En la puerta de enlace por defecto configurada en el computador que inicia la conexiónUDP.",
+				"En la puerta de enlace por defecto configurada en el computador que recibe la conexiónUDP.",
+				"En los computadores que intercambian los paquetes.",
+				"En todos los routers existentes en la red IP."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "El intercambio de información entre dos computadores que emplean arquitecturas de red diferentes, es posible si:",
+			"Answers": [
+				"Existe un router entre ambos computadores.",
+				"Existe un puente entre ambos computadores.",
+				"Existe un repetidor entre ambos computadores.",
+				"Existe una pasarela entre ambos computadores."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Los valores de amplitud de las componentes frecuenciales de una señal de información periódica, dependen de:",
+			"Answers": [
+				"La velocidad de transmisión empleada.",
+				"El contenido de la información transmitida.",
+				"El ancho de banda del medio físico empleada.",
+				"Ningún factor, todas las señales tienen los mismos valores de amplitud en sus componentesfrecuenciales.4"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Determina la velocidad máxima de transmisión para una señal de pulsos con 4 niveles de tensión en un medio físico half-duplex con ancho de banda de 1000 Hz.",
+			"Answers": [
+				"1000 bps.",
+				"2000 bps.",
+				"4000 bps.",
+				"8000 bps."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Indica cuál de las siguientes señalizaciones de banda base presenta menos problemas de sincronización y menos efecto del ruido:",
+			"Answers": [
+				"Codificación binaria UNIPOLAR CON Retorno a Cero.",
+				"Codificación binaria BIPOLAR SIN Retorno a Cero.",
+				"Codificación binaria UNIPOLAR SIN Retorno a Cero.",
+				"Codificación Manchester."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Se desea realizar la transmisión en un medio físico de una señal analógica modulada con PCM. La señal analógica tiene un ancho de banda de 2000 Hz y se emplea una modulación PCM con 512 niveles de tensión. El medio físico precisa de una velocidad de transmisión de:",
+			"Answers": [
+				"1024 Kbps.",
+				"2048 Kbps.",
+				"18 Kbps.",
+				"36 Kbps."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica el tipo de modulación que ocupa más ancho de banda para la señal modulada:",
+			"Answers": [
+				"Modulación ASK.",
+				"Modulación PSK.",
+				"Modulación QAM.",
+				"Modulación FSK."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica el tipo de modulación con el que es posible obtener mayores velocidades de transmisión:",
+			"Answers": [
+				"Modulación ASK con dos niveles de amplitud.",
+				"Modulación QPSK.",
+				"Modulación QAM.",
+				"Modulación PSK de fase coherente a 0º y 180º."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Indica en qué tipo de cable UTP el ruido de impulso tiene mayor efecto:",
+			"Answers": [
+				"Cable UTP categoría 3.",
+				"Cable UTP categoría 4.",
+				"Cable UTP categoría 5.",
+				"El ruido de impulso afecta igual a todos los tipos de cable UTP.5"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "El empleo de la fibra óptica como medio de comunicación tiene el inconveniente de:",
+			"Answers": [
+				"Permitir establecer un solo canal de datos en una fibra óptica.",
+				"Reducir la velocidad de transmisión máxima al aumentar la longitud de la fibra.",
+				"Reducir la velocidad de transmisión máxima al aumentar la potencia del haz de luz.",
+				"Ser muy sensible al ruido de impulso provocado por aparatos eléctricos."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La detección de errores empleando la técnica de códigos de redundancia cíclica (CRC) se caracteriza por,",
+			"Answers": [
+				"Permitir detectar errores cuando se producen en un número par de bits.",
+				"Permitir detectar errores cuando se producen en 2 bits.",
+				"Permitir detectar errores en ráfaga de longitud mayor que el grado del polinomio generador.",
+				"Permitir corregir errores en ráfaga de longitud menor que el grado del polinomio generador."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sea un protocolo de ventana deslizante con ventana de emisor 5 y ventana de recepción 6. Si el emisor envía 3 paquetes con secuencia 1, 2 y 3, y la primera secuencia en la ventana del receptor es 1, es cierto que:",
+			"Answers": [
+				"El receptor no puede confirmar ninguno de los paquetes enviados por el emisor.",
+				"El emisor no puede enviar el paquete con secuencia 6 hasta recibir el ACK del paquete consecuencia 1.",
+				"El emisor no puede enviar el paquete con secuencia 6 hasta recibir el ACK del paquete consecuencia 2.",
+				"El receptor puede confirmar como mucho hasta el paquete con secuencia 6 cuando harecibido los paquetes con secuencias 1 y 2."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Indica qué protocolo MAC de las normas IEEE 802.X no es soportado por el protocolo IEEE 802.2 (LLC):",
+			"Answers": [
+				"MAC IEEE 802.5.",
+				"MAC IEEE 802.11x.",
+				"MAC IEEE 802.1Q.",
+				"Todas las normas MAC del IEEE son soportadas por el protocolo IEEE 802.2."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica el servicio del protocolo IEEE 802.2 que emplea el protocolo IP (arquitectura TCP/IP):",
+			"Answers": [
+				"Servicio no orientado a conexión y sin confirmación (tipo 1).",
+				"Servicio orientado a conexión (tipo 2).",
+				"Servicio no orientado a conexión con confirmación (tipo 3).",
+				"Puede emplear cualquiera de los 3 tipos de servicios del IEEE 802.2."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "¿ Qué afirmación es cierta sobre el funcionamiento del protocolo CSMA/CD ?",
+			"Answers": [
+				"Es válido para dispositivos que funcionan en modo semiduplex.",
+				"Los conmutadores Ethernet no permiten este modo de funcionamiento.",
+				"La conexión de dos concentradores Ethernet reduce a la mitad el dominio de colisión.",
+				"El reenvío de un paquete que ha sufrido una colisión se produce de manera indefinida hastasu éxito.6"
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Sobre el funcionamiento del algoritmo Spanning Tree en puentes transparentes, es cierto que:",
+			"Answers": [
+				"Tiene como objetivo establecer bucles en una estructura de puentes interconectados.",
+				"Reduce el número de saltos entre diferentes segmentos Ethernet a 16.",
+				"Permite inhabilitar puertos de los puentes para el proceso de reenvío y aprendizaje.",
+				"Establece puentes raíces y puentes designados."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "El aumento de 10 Mbps a 100 Mbps en la velocidad de transmisión en una red Ethernet precisa,",
+			"Answers": [
+				"Aumentar el tamaño de paquete mínimo de Ethernet a 512 bytes.",
+				"Cambiar el cable UTP categoría 3 por cable UTP categoría 5.",
+				"Emplear modulación QAM en vez de codificación Manchester.",
+				"Modificar el formato de la cabecera de los paquetes Ethernet."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Indica en qué normativa Ethernet es posible emplear como medio físico tanto cable UTP como fibra óptica:",
+			"Answers": [
+				"Ethernet 10BaseT.",
+				"Ethernet 100BaseFX.",
+				"Ethernet 1000BaseX.",
+				"10Gigabit Ethernet."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el formato de paquete de la norma IEEE 802.1Q, es cierto que:",
+			"Answers": [
+				"Tiene un tamaño máximo de paquete igual que en la norma IEEE 802.3.",
+				"Tiene un tamaño máximo de datos menor que en la norma IEEE 802.3.",
+				"Emplea el campo Tipo de la cabecera para distinguir entre paquetes con formato IEEE802.3 y con formato IEEE 802.1Q.",
+				"Emplea direcciones MAC origen y destino de 64 bytes de tamaño."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Una red inalámbrica Ad-Hoc se caracteriza por:",
+			"Answers": [
+				"Permitir una cobertura en distancia mayor que una red de infraestructura.",
+				"Evitar la existencia de colisiones de paquetes entre estaciones de la red.",
+				"Emplear el mecanismo RTS/CTS para que todas las estaciones tengan cobertura solapada.",
+				"Emplear las mismas normativas de transmisión (IEEE 802.11x) que en las redes deinfraestructura."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica qué mecanismo de AUTENTICACIÓN de redes Wi-Fi es más seguro (más difícil de determinar la clave de autenticación):",
+			"Answers": [
+				"WEP.",
+				"PEAP.",
+				"LEAP.",
+				"TKIP.7"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre el funcionamiento de un punto de acceso (AP) de una red inalámbrica es cierto que,",
+			"Answers": [
+				"El punto de acceso transmite regularmente paquetes Beacon-Frame para evitar el problemade la estación oculta.",
+				"Dos computadores asociados a un AP intercambian datos a través del AP que actúa comodispositivo intermedio.",
+				"Dos APs con un mismo SSID tienen que emplear siempre el mismo canal Wi-Fi.",
+				"Una estación asociada a un AP tiene cobertura con todas las estaciones asociadas al AP."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Sobre las funcionalidades de un router en la arquitectura TCP/IP es FALSO que,",
+			"Answers": [
+				"Gestiona el encaminamiento de paquetes en la red.",
+				"Permite establecer cortafuegos (firewall) entre redes IP.",
+				"Gestiona los flujos de información, estableciendo mecanismos de reparto del ancho debanda.",
+				"Libera conexiones TCP en caso de que el router se encuentre congestionado."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica cuál de las siguientes direcciones IPv4 NO es válida para asignarla a un dispositivo conectado al troncal (backbone) de Internet:",
+			"Answers": [
+				"5.17.33.4",
+				"122.45.67.34",
+				"192.168.0.1",
+				"200.10.10.1"
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Indica con qué mensaje un router conoce si una conexión TCP del protocolo BGP está ACTIVA:",
+			"Answers": [
+				"BGP Open.",
+				"BGP Update.",
+				"BGP Notification.",
+				"BGP Keepalive."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica qué campo de la cabecera IPv4 NO existe en la cabecera IPv6:",
+			"Answers": [
+				"IP origen.",
+				"IP destino.",
+				"TTL.",
+				"HL."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Si un paquete IP es enviado a la dirección 224.0.0.10 es cierto que,",
+			"Answers": [
+				"El paquete es recibido por todos los equipos de Internet asociados a esa dirección.",
+				"La dirección IP de destino se cambia por 224.0.0.0 para que llegue a todos los equipos de lared.",
+				"Si el nivel de enlace es Ethernet, se empleará como MAC destino una dirección MAC demultidifusión.",
+				"El paquete es procesado por todos los routers de la red que emplean el protocolo RIPv2.8"
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ Con qué mecanismo el protocolo TCP aumenta el tamaño de la ventana de emisión en una conexión TCP que ha sufrido congestión ?",
+			"Answers": [
+				"Algoritmo de inicio lento.",
+				"Algoritmo de Nagle.",
+				"Algoritmo de Karn.",
+				"Algoritmo de prevención de la congestión."
+			],
+			"Solution": 0
+		}
+	],
+    "Julio 2015":
+    [
+		{
+			"Question": "El empleo de la tecnología de redes punto a punto para las redes WAN se caracteriza por,",
+			"Answers": [
+				"Su bajo coste económico de cableado frente a la tecnología de difusión.",
+				"La comunicación directa a nivel de enlace entre cualquier par de nodos de la red.",
+				"La transmisión de un único paquete para enviar información a todos los nodos de la red.",
+				"La tolerancia a fallos que presenta si existen varios caminos a un determinado destino."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "El empleo de la multidifusión en una red LAN permite,",
+			"Answers": [
+				"El envío de información a todas las estaciones de la red transmitiendo un paquete.",
+				"El envío de información a un grupo de estaciones de la red transmitiendo un paquete.",
+				"El envío de información a una sola estación de la red transmitiendo más de un paquete.",
+				"El envío de información a un grupo de estaciones de la red transmitiendo más de unpaquete."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Si en una red de conmutación de paquetes basada en datagramas, un nodo deja de funcionar es cierto que,",
+			"Answers": [
+				"Sólo los paquetes en tránsito en el nodo no alcanzarán su destino.",
+				"Todos los paquetes que hayan pasado por ese nodo han de ser reenviados.",
+				"Todas las estaciones de la red quedan incomunicadas.",
+				"Las estaciones que emplean ese nodo para intercambiar paquetes han de determinar unanueva ruta para sus destinos."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "La comunicación vertical en una arquitectura de red se caracteriza porque,",
+			"Answers": [
+				"Se establece entre las capas que son adyacentes en la arquitectura.",
+				"Se establece entre la capa n y la capa par n-1 de la arquitectura.",
+				"Se establece entre las capas pares de la arquitectura.",
+				"Se establece entre las capas n+1 y n-1 de la arquitectura.3"
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Si se detecta un error en el funcionamiento de la capa n de una arquitectura de red podemos asegurar que,",
+			"Answers": [
+				"Al menos se ha producido un fallo en las capas superiores a la capa n.",
+				"Se ha producido algún fallo en la capa n o en las capas inferiores a la capa n.",
+				"Se ha producido un fallo en la capa superior n+1 Þ la arquitectura de red.",
+				"Siempre existe un fallo en alguna capa superior a la capa n."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La fragmentación de una PDU en la capa de red de la arquitectura OSI produce,",
+			"Answers": [
+				"Varias PDU’s con cabeceras de los protocolos de red, transporte y aplicación.",
+				"Varias PDU’s con cabecera del protocolo de red en todas ellas.",
+				"Varias PDU’s con cabeceras del protocolo de transporte en todas ellas.",
+				"Varias PDU’s con cabeceras del protocolo de aplicación en todas ellas."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "La capa de transporte en la arquitectura TCP/IP se caracteriza por,",
+			"Answers": [
+				"Emplear un protocolo de control del flujo en la comunicación fiable con TCP.",
+				"Aumentar el aprovechamiento del medio físico empleando el control del flujo del protocoloUDP.",
+				"Gestionar una comunicación fiable estableciendo circuitos virtuales extremo a extremo conel protocolo TCP.",
+				"Proporcionar siempre a la capa de aplicación una comunicación no segura, debido alfuncionamiento con datagramas de la subred."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Una señal que es transmitida por un medio físico se distorsiona si,",
+			"Answers": [
+				"Aumenta el ancho banda del medio físico.",
+				"Aumenta la relación señal-ruido.",
+				"Aumenta la velocidad de transmisión de la señal.",
+				"Disminuye el número de niveles en la señal."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Una señal digital periódica de 8 bits, con un periodo de 10ms, se envía por un medio con un ancho de banda ideal de 240Hz que comienza en la frecuencia 280Hz. ¿Cuántas componentes armónicas de la señal llegarán correctamente al destino?",
+			"Answers": [
+				"2.",
+				"3.",
+				"4.",
+				"5."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "¿ Qué velocidad de transmisión es necesaria para enviar a través de un medio físico DOS señales analógicas de 100 KHz de ancho de banda empleando una modulación PCM de 6 bits ?",
+			"Answers": [
+				"12800 Kbps.",
+				"25600 Kbps.",
+				"1200 Kbps.",
+				"2400 Kbps.4"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Se desea enviar por un medio físico dos señales PCM multiplexadas en el tiempo. Una de las señales se corresponde con un canal de comunicación a 64 Kbps y la otra con un canal de 96 Kbps. El medio físico transmitirá bits de información a una velocidad de,",
+			"Answers": [
+				"128 Kbps.",
+				"96 Kbps.",
+				"64 Kbps.",
+				"160 Kbps."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La codificación binaria bipolar y la Manchester tienen la característica común de,",
+			"Answers": [
+				"Emplear los mismos niveles de voltaje en la señal.",
+				"Interpretar la información por el valor de amplitud de la señal.",
+				"Interpretar la información por los cambios en el tipo de transiciones de la señal.",
+				"Incorporar información de sincronización en la propia señal."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Indica en cuál de los siguientes medios físicos el efecto de la dispersión intermodal es mayor.",
+			"Answers": [
+				"Cable coaxial blindado.",
+				"Fibra óptica de índice gradual.",
+				"Fibra óptica monomodo.",
+				"Fibra óptica multimodo."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "Si se desea aumentar la velocidad de transmisión obtenida en una fibra óptica monomodo sin modificar la codificación del número de niveles, es necesario:",
+			"Answers": [
+				"Cambiar la fibra al tipo multimodo de mayor ancho de banda.",
+				"Aumentar la potencia del dispositivo emisor de luz en el extremo de la fibra.",
+				"Aumentar la sensibilidad del dispositivo receptor de luz en el extremo de la fibra.",
+				"Realizar un multiplexado de longitud de onda para incorporar varios haces de luz."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "La detección de errores empleando la técnica de paridad por filas y columnas se caracteriza por,",
+			"Answers": [
+				"Permite detectar errores cuando se producen en un número par.",
+				"Permite detectar errores sólo en filas.",
+				"Permite detectar errores sólo en columnas.",
+				"Permite detectar dos errores en cualquier posición de la matriz."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "En un protocolo de ventana deslizante de envío continuo con repetición selectiva es cierto que,",
+			"Answers": [
+				"La ventana del emisor referencia las tramas ya enviadas correctamente al receptor.",
+				"El receptor acepta los paquetes erróneos con secuencias que están dentro de su ventana.",
+				"La ventana del emisor tiene un tamaño que no varía durante el funcionamiento delprotocolo.",
+				"La ventana del receptor tiene un tamaño menor que el número de secuencias denumeración.5"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ Qué afirmación es cierta sobre el funcionamiento del protocolo CSMA/CD ?",
+			"Answers": [
+				"Elimina las colisiones en el medio físico esperando un tiempo aleatorio antes de transmitirun paquete.",
+				"Si el medio físico está libre siempre se espera un lapso de tiempo antes de transmitir elpaquete.",
+				"Después de transmitir un paquete al medio físico se comprueba si el medio presentacolisiones.",
+				"Si el medio físico está libre antes de la transmisión, nunca se producirán colisiones."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "En un paquete Ethernet con el formato IEEE 802.3, ¿ cómo se distingue si el contenido es un paquete IP o un paquete ARP ?",
+			"Answers": [
+				"Empleando el campo preámbulo de la cabecera IEEE 802.3.",
+				"Empleando el campo tipo de la cabecera IEEE 802.3.",
+				"Empleando el campo tipo de la cabecera LLC.",
+				"Empleando el campo longitud de la cabecera IEEE 802.3."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ En qué configuración de interconexión de segmentos Ethernet existe un dominio de colisión mayor ?",
+			"Answers": [
+				"Interconexión de 2 concentradores (half-duplex) Ethernet.",
+				"Interconexión de 3 conmutadores (full-duplex) Ethernet.",
+				"Interconexión de 4 concentradores (half-duplex) Ethernet.",
+				"Interconexión de 5 conmutadores (full-duplex) Ethernet."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "¿ En qué tecnología Ethernet no se emplea la codificación 8B/10B ?",
+			"Answers": [
+				"Ethernet 1000BaseLX.",
+				"Ethernet 1000BaseSX.",
+				"Ethernet 1000BaseTX.",
+				"Ethernet 1000BaseCX."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Sobre el funcionamiento de un conmutador VLAN es cierto que,",
+			"Answers": [
+				"El formato de los paquetes en los enlaces de acceso es diferente al de los enlaces troncales.",
+				"Todos los puertos de un conmutador VLAN tienen que estar asociados a la misma VLAN.",
+				"Un puerto de enlace de acceso puede estar asociado a varias VLAN diferentes.",
+				"En un conmutador VLAN sólo puede existir un único puerto de enlace troncal."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Sobre el funcionamiento de un punto de acceso (AP) de una red inalámbrica es cierto que,",
+			"Answers": [
+				"El punto de acceso emplea una portadora o subcanal para cada equipo asociado al punto deacceso.",
+				"Dos AP con un mismo SSID no pueden emplear el mismo subcanal o portadora si tienencoberturas solapadas.",
+				"Dos AP con un mismo SSID tienen que emplear siempre el mismo subcanal o portadora.",
+				"Una estación asociada a un AP tiene cobertura con todas las estaciones asociadas al AP.6"
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "Indica cuál de los siguientes es un mecanismo de autenticación en WPA2.",
+			"Answers": [
+				"TKIP.",
+				"PSK.",
+				"AES.",
+				"LEAP."
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "¿ Cuál de las siguientes situaciones indica que existe congestión en la red ?",
+			"Answers": [
+				"Presencia de mensajes Host Unreachable.",
+				"Presencia de mensajes TTL Exceeded in Transit.",
+				"Presencia de mensajes Source Quench.",
+				"Un router detecta que el uso de su CPU para el encaminamiento es del 25%."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Un router que emplea BGP para establecer sus tablas de encaminamiento se caracteriza por,",
+			"Answers": [
+				"Conocer sólo las redes del sistema autónomo al que pertenece.",
+				"Emplear como puerta de enlace por defecto el router BGP que tenga más cercano.",
+				"Establecer conexiones con el resto de routers BGP de Internet.",
+				"Determinar las rutas óptimas entre los diferentes destinos en Internet."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Si un router envía un mensaje RIP versión 1 en una red LAN Ethernet, el paquete emplea como dirección MAC de destino,",
+			"Answers": [
+				"La dirección FF:FF:FF:FF:FF:FF.",
+				"La dirección 255.255.255.255.",
+				"La dirección 224.0.0.9.",
+				"Una dirección MAC de multidifusión."
+			],
+			"Solution": 0
+		},
+		{
+			"Question": "Sobre el protocolo de encaminamiento OSPF es FALSO que,",
+			"Answers": [
+				"Emplea el algoritmo de Dijkstra para obtener la solución de encaminamiento en la red.",
+				"Intercambia menos información de encaminamiento que RIP.",
+				"Utiliza la difusión para el envío de los mensajes OSPF en la red.",
+				"Los enlaces entre routers OSPF pueden modificar su valor de coste del enlace."
+			],
+			"Solution": 2
+		},
+		{
+			"Question": "Si un paquete IP es enviado a la dirección 224.0.0.7 es cierto que,",
+			"Answers": [
+				"El paquete es recibido por todos los equipos de Internet que responden a esa dirección.",
+				"La dirección IP de destino se cambia por 224.255.255.255 para que llegue a todos losequipos de la red.",
+				"Los routers que reciben este paquete lo envían a todos los routers multicasting de Internet.",
+				"El paquete es recibido por todos los equipos de la red donde es transmitido y pertenecen algrupo de multidifusión 224.0.0.7.7"
+			],
+			"Solution": 3
+		},
+		{
+			"Question": "En el protocolo TCP, la fase de “arranque lento” está relacionada con:",
+			"Answers": [
+				"El control del flujo.",
+				"El control de la congestión.",
+				"El establecimiento de una conexión.",
+				"La liberación de una conexión."
+			],
+			"Solution": 1
+		},
+		{
+			"Question": "En el protocolo TCP, cuando un extremo A comunica al otro extremo B su ventana de recepción, está indicando:",
+			"Answers": [
+				"El tiempo que el extremo B ha de esperar para enviar más datos.",
+				"El número máximo de paquetes que el extremo B puede enviar al extremo A.",
+				"El número máximo de bytes que el extremo B puede enviar al extremo A.",
+				"El número total de bytes que el extremo A recibió correctamente."
+			],
+			"Solution": 2
+		}
+		,
+		{
+			"Question": "¿ Qué tipo de topología de red NO es adecuada para una red de difusión ?",
+			"Answers": [
+				"Anillo",
+				"Bus común",
+				"Árbol",
+				"Inalámbrica"
+			],
+			"Solution": 2
+		}
+
+		,
+		{
+			"Question": "Sobre el funcionamiento de las redes de difusión es cierto que:",
+			"Answers": [
+				"Se identifican los equipos de la red con secuencias únicas de bits.",
+				"No existen colisiones en la transmisión simultánea de información por varios equipos.",
+				"Se transmiten varios paquetes cuando se envía la misma información a un grupo de equipos.",
+				"El fallo de un equipo provoca la incomunicación de todos los equipos de la red. "
+			],
+			"Solution": 0
+		}
+
+		,
+		{
+			"Question": "¿ En qué tipo de redes de comunicaciones tiene menos retardo el proceso de encaminamiento ? ",
+			"Answers": [
+				"Redes de difusión. ",
+				"Redes de conmutación de paquetes con datagramas. ",
+				"Redes de conmutación de paquetes con circuitos virtuales. ",
+				"El retardo en el proceso de encaminamiento no depende del tipo de red."
+			],
+			"Solution": 2
+		}
+
+		,
+		{
+			"Question": " Sobre el funcionamiento de las redes de conmutación de paquetes con datagramas es cierto que: ",
+			"Answers": [
+				"Se identifican los equipos de la red con secuencias de bits que pueden repetirse para varios equipos",
+				"La transmisión de una información a todas las máquinas de la red precisa de transmisiones en varios medios físicos. ",
+				" La transmisión de una información a todas las máquinas de la red puede realizarse con la transmisión física de un solo paquete",
+				"El intercambio de información precisa del establecimiento previo de un camino en la red entre origen y destino."
+			],
+			"Solution": 1
+		}
+	]
+}
