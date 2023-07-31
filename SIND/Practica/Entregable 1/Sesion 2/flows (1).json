@@ -1,0 +1,278 @@
+[
+    {
+        "id": "29e396d2.ea499a",
+        "type": "tab",
+        "label": "Openweather",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "fcb8cc8b.9a385",
+        "type": "json",
+        "z": "29e396d2.ea499a",
+        "name": "Data",
+        "property": "payload",
+        "action": "",
+        "pretty": true,
+        "x": 530,
+        "y": 280,
+        "wires": [
+            [
+                "68196c8e.5baf24",
+                "516d23d7.1715ac",
+                "ed094b3f.f695c8",
+                "8294e410.69c018",
+                "d40fafdb.23e8a",
+                "d2405300.bc0c4"
+            ]
+        ]
+    },
+    {
+        "id": "d2405300.bc0c4",
+        "type": "debug",
+        "z": "29e396d2.ea499a",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 890,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "68196c8e.5baf24",
+        "type": "ui_gauge",
+        "z": "29e396d2.ea499a",
+        "name": "",
+        "group": "1ee097ffbe328e66",
+        "order": 4,
+        "width": "3",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Temperatura",
+        "label": "°C",
+        "format": "{{msg.payload.main.temp}}",
+        "min": "-40",
+        "max": "40",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 890,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "516d23d7.1715ac",
+        "type": "ui_gauge",
+        "z": "29e396d2.ea499a",
+        "name": "",
+        "group": "1ee097ffbe328e66",
+        "order": 5,
+        "width": "3",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Presion",
+        "label": "hPa",
+        "format": "{{msg.payload.main.pressure}}",
+        "min": "0",
+        "max": "2000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 880,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "d40fafdb.23e8a",
+        "type": "ui_text",
+        "z": "29e396d2.ea499a",
+        "group": "1ee097ffbe328e66",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Ciudad Seleccionada:",
+        "format": "{{msg.payload.name}} ",
+        "layout": "row-left",
+        "className": "",
+        "x": 920,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "8294e410.69c018",
+        "type": "ui_gauge",
+        "z": "29e396d2.ea499a",
+        "name": "",
+        "group": "1ee097ffbe328e66",
+        "order": 7,
+        "width": "3",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Velocidad Viento",
+        "label": "m/s",
+        "format": "{{msg.payload.wind.speed}}",
+        "min": "0",
+        "max": "40",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 910,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "620ad976.fa4a88",
+        "type": "ui_form",
+        "z": "29e396d2.ea499a",
+        "name": "",
+        "label": "",
+        "group": "1ee097ffbe328e66",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "City",
+                "value": "city",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Country",
+                "value": "country",
+                "type": "text",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "city": "",
+            "country": ""
+        },
+        "payload": "",
+        "submit": "Enviar",
+        "cancel": "Cancelar",
+        "topic": "topic",
+        "topicType": "str",
+        "splitLayout": false,
+        "className": "",
+        "x": 150,
+        "y": 280,
+        "wires": [
+            [
+                "10f264bc.bb973b",
+                "d06197c275958848"
+            ]
+        ]
+    },
+    {
+        "id": "10f264bc.bb973b",
+        "type": "http request",
+        "z": "29e396d2.ea499a",
+        "name": "Openweathermap",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "query",
+        "url": "http://api.openweathermap.org/data/2.5/weather?q={{{payload.city}}},{{{payload.country}}}&units=metric&appid=b5b3a3a027882bfcc2fb12c033de7d5d",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 350,
+        "y": 280,
+        "wires": [
+            [
+                "fcb8cc8b.9a385"
+            ]
+        ]
+    },
+    {
+        "id": "ed094b3f.f695c8",
+        "type": "ui_gauge",
+        "z": "29e396d2.ea499a",
+        "name": "",
+        "group": "1ee097ffbe328e66",
+        "order": 6,
+        "width": "3",
+        "height": "3",
+        "gtype": "gage",
+        "title": "Humedad",
+        "label": "",
+        "format": "{{msg.payload.main.humidity}}",
+        "min": "0",
+        "max": "110",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 880,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "d06197c275958848",
+        "type": "debug",
+        "z": "29e396d2.ea499a",
+        "name": "Datos",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 350,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "1ee097ffbe328e66",
+        "type": "ui_group",
+        "name": "Home",
+        "tab": "e6b36b8d404d4f32",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e6b36b8d404d4f32",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

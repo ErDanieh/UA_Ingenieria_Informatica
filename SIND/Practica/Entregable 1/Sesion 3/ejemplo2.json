@@ -1,0 +1,1348 @@
+[
+    {
+        "id": "f6f2187d.f17ca8",
+        "type": "tab",
+        "label": "Control enchufes",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "897f589352cc6254",
+        "type": "tab",
+        "label": "Programación horaria ",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "948b663ef85b2368",
+        "type": "tab",
+        "label": "Programacion condicionada",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "2e230771c3cf5c9a",
+        "type": "tab",
+        "label": "Medicion de consumos",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "0a4cef2b067f1069",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "f96fa2b176fb57f6",
+        "type": "ui_tab",
+        "name": "Conectar Relé",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "5fc5438fc80a7a7c",
+        "type": "ui_group",
+        "name": "ENCHUFES",
+        "tab": "f96fa2b176fb57f6",
+        "order": 1,
+        "disp": true,
+        "width": "13",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "55189d2b4097d9a0",
+        "type": "ui_group",
+        "name": "CONSUMOS",
+        "tab": "f96fa2b176fb57f6",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2ef86bc4263a8329",
+        "type": "ui_spacer",
+        "z": "2e230771c3cf5c9a",
+        "name": "spacer",
+        "group": "5fc5438fc80a7a7c",
+        "order": 3,
+        "width": "1",
+        "height": "7"
+    },
+    {
+        "id": "d578a10f77538ed2",
+        "type": "ui_spacer",
+        "z": "2e230771c3cf5c9a",
+        "name": "spacer",
+        "group": "5fc5438fc80a7a7c",
+        "order": 6,
+        "width": 3,
+        "height": 1
+    },
+    {
+        "id": "61ec54ed66275a34",
+        "type": "ui_switch",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "label": "enchufe 1",
+        "tooltip": "",
+        "group": "5fc5438fc80a7a7c",
+        "order": 1,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 140,
+        "y": 60,
+        "wires": [
+            [
+                "983a23e7cde2a7d9"
+            ]
+        ]
+    },
+    {
+        "id": "983a23e7cde2a7d9",
+        "type": "change",
+        "z": "f6f2187d.f17ca8",
+        "name": "Cambiar estado enchufe 1",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "on",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "off",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 60,
+        "wires": [
+            [
+                "3afd7f8251fc05b5"
+            ]
+        ]
+    },
+    {
+        "id": "3afd7f8251fc05b5",
+        "type": "http request",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.168.5.169/relay/0?turn={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 690,
+        "y": 60,
+        "wires": [
+            [
+                "1776733d74fda479",
+                "2b9856f651d4431e"
+            ]
+        ]
+    },
+    {
+        "id": "1776733d74fda479",
+        "type": "debug",
+        "z": "f6f2187d.f17ca8",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "47af16e61cdb231d",
+        "type": "ui_switch",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "label": "enchufe 2",
+        "tooltip": "",
+        "group": "5fc5438fc80a7a7c",
+        "order": 4,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 140,
+        "y": 180,
+        "wires": [
+            [
+                "23688f2dbb6c3734"
+            ]
+        ]
+    },
+    {
+        "id": "23688f2dbb6c3734",
+        "type": "change",
+        "z": "f6f2187d.f17ca8",
+        "name": "Cambiar estado enchufe 2",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "on",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "off",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 480,
+        "y": 180,
+        "wires": [
+            [
+                "e7b3e640379e2034"
+            ]
+        ]
+    },
+    {
+        "id": "e7b3e640379e2034",
+        "type": "http request",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.168.5.170/relay/0?turn={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 690,
+        "y": 180,
+        "wires": [
+            [
+                "0de85d5d5ad52573",
+                "23935a11c6fae373"
+            ]
+        ]
+    },
+    {
+        "id": "0de85d5d5ad52573",
+        "type": "debug",
+        "z": "f6f2187d.f17ca8",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "6c6b6d3fed66a415",
+        "type": "http request",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "192.168.5.170/status",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 350,
+        "y": 560,
+        "wires": [
+            [
+                "ada35d4ee7c89977"
+            ]
+        ]
+    },
+    {
+        "id": "8604e055a0526b39",
+        "type": "inject",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 560,
+        "wires": [
+            [
+                "6c6b6d3fed66a415"
+            ]
+        ]
+    },
+    {
+        "id": "050d2a029ebd8dd2",
+        "type": "debug",
+        "z": "f6f2187d.f17ca8",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 860,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "e010564da523eed7",
+        "type": "http request",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "192.168.5.169/status",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 350,
+        "y": 440,
+        "wires": [
+            [
+                "ed1f230130406e89"
+            ]
+        ]
+    },
+    {
+        "id": "2d08465492d8c5f3",
+        "type": "inject",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "9",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 440,
+        "wires": [
+            [
+                "e010564da523eed7"
+            ]
+        ]
+    },
+    {
+        "id": "c75751480c5ce9e2",
+        "type": "ui_led",
+        "z": "f6f2187d.f17ca8",
+        "order": 2,
+        "group": "5fc5438fc80a7a7c",
+        "width": 3,
+        "height": 1,
+        "label": "estado",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "enchufe 1",
+        "x": 1080,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "2b9856f651d4431e",
+        "type": "change",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.ison",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 120,
+        "wires": [
+            [
+                "52843edb2313f549",
+                "c75751480c5ce9e2"
+            ]
+        ]
+    },
+    {
+        "id": "52843edb2313f549",
+        "type": "debug",
+        "z": "f6f2187d.f17ca8",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1060,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "23935a11c6fae373",
+        "type": "change",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.ison",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 880,
+        "y": 240,
+        "wires": [
+            [
+                "c259cc456e11b2a8"
+            ]
+        ]
+    },
+    {
+        "id": "c259cc456e11b2a8",
+        "type": "ui_led",
+        "z": "f6f2187d.f17ca8",
+        "order": 5,
+        "group": "5fc5438fc80a7a7c",
+        "width": 3,
+        "height": 1,
+        "label": "estado",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "enchufe 2",
+        "x": 1080,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "ed1f230130406e89",
+        "type": "change",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.relays[0].ison",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 440,
+        "wires": [
+            [
+                "a7e734dc98ac61d3",
+                "c75751480c5ce9e2",
+                "61ec54ed66275a34"
+            ]
+        ]
+    },
+    {
+        "id": "a7e734dc98ac61d3",
+        "type": "debug",
+        "z": "f6f2187d.f17ca8",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 840,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "ada35d4ee7c89977",
+        "type": "change",
+        "z": "f6f2187d.f17ca8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.relays[0].ison",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 600,
+        "y": 560,
+        "wires": [
+            [
+                "c259cc456e11b2a8",
+                "47af16e61cdb231d"
+            ]
+        ]
+    },
+    {
+        "id": "14ca802b5358a35f",
+        "type": "inject",
+        "z": "897f589352cc6254",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "00 00 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 330,
+        "y": 160,
+        "wires": [
+            [
+                "99dfa42ebf9c6a2f"
+            ]
+        ]
+    },
+    {
+        "id": "99dfa42ebf9c6a2f",
+        "type": "http request",
+        "z": "897f589352cc6254",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.168.5.169/relay/0?turn=off",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 550,
+        "y": 160,
+        "wires": [
+            [
+                "9b6636f41e63b258"
+            ]
+        ]
+    },
+    {
+        "id": "ab218e3b11fa489e",
+        "type": "inject",
+        "z": "897f589352cc6254",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "00 08 * * *",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 330,
+        "y": 240,
+        "wires": [
+            [
+                "64e212007bd0cf3f"
+            ]
+        ]
+    },
+    {
+        "id": "64e212007bd0cf3f",
+        "type": "http request",
+        "z": "897f589352cc6254",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.168.5.169/relay/0?turn=on",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 550,
+        "y": 240,
+        "wires": [
+            [
+                "be85757b575b7de7"
+            ]
+        ]
+    },
+    {
+        "id": "9b6636f41e63b258",
+        "type": "debug",
+        "z": "897f589352cc6254",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 720,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "be85757b575b7de7",
+        "type": "debug",
+        "z": "897f589352cc6254",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 740,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "b13f389c3577a643",
+        "type": "debug",
+        "z": "948b663ef85b2368",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 480,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "9bd64d7fac1c45fc",
+        "type": "debug",
+        "z": "948b663ef85b2368",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "5e304139179c531c",
+        "type": "http request",
+        "z": "948b663ef85b2368",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://api.openweathermap.org/data/2.5/weather?q=Alicante&appid=cdbe809a1b434fd91a4e599e725a704a&units=metric",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 290,
+        "y": 420,
+        "wires": [
+            [
+                "932692fb4a2e255e",
+                "b13f389c3577a643"
+            ]
+        ]
+    },
+    {
+        "id": "f7ce9fc8d517b6da",
+        "type": "inject",
+        "z": "948b663ef85b2368",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 120,
+        "y": 420,
+        "wires": [
+            [
+                "5e304139179c531c"
+            ]
+        ]
+    },
+    {
+        "id": "932692fb4a2e255e",
+        "type": "function",
+        "z": "948b663ef85b2368",
+        "name": "function 2",
+        "func": "var temp = {payload:msg.payload.main.temp}\nvar hum = {payload:msg.payload.main.humidity}\nvar v_v = {payload:msg.payload.wind.speed}\nvar d_v = {payload:msg.payload.wind.deg}\nvar nubes ={payload: msg.payload.clouds.all}\n\n\n\nreturn [temp,hum,v_v,d_v,nubes];",
+        "outputs": 5,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 500,
+        "y": 420,
+        "wires": [
+            [
+                "b6e52be04271c228"
+            ],
+            [
+                "52fc25c3f43d1fc6"
+            ],
+            [
+                "80c29dd073964918"
+            ],
+            [
+                "242e0e248a97e10f"
+            ],
+            [
+                "a01e3ada56b75da1"
+            ]
+        ]
+    },
+    {
+        "id": "b6e52be04271c228",
+        "type": "function",
+        "z": "948b663ef85b2368",
+        "name": "function 3",
+        "func": "var t = msg.payload\nglobal.set(\"temp\",t)\nmsg.payload=t\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 380,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f32db57c277ca192",
+        "type": "debug",
+        "z": "948b663ef85b2368",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "52fc25c3f43d1fc6",
+        "type": "function",
+        "z": "948b663ef85b2368",
+        "name": "function 4",
+        "func": "var t = msg.payload\nglobal.set(\"hum\",t)\nmsg.payload=t\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 440,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "80c29dd073964918",
+        "type": "function",
+        "z": "948b663ef85b2368",
+        "name": "function 5",
+        "func": "var t = msg.payload\nglobal.set(\"v_v\",t)\nmsg.payload=t\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "242e0e248a97e10f",
+        "type": "function",
+        "z": "948b663ef85b2368",
+        "name": "function 6",
+        "func": "var t = msg.payload\nglobal.set(\"d_v\",t)\nmsg.payload=t\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 580,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a01e3ada56b75da1",
+        "type": "function",
+        "z": "948b663ef85b2368",
+        "name": "function 7",
+        "func": "var t = msg.payload\nglobal.set(\"nubes\",t)\nmsg.payload=t\nif (t<50){\n   return [msg,null]\n} else {\n   return [null,msg]\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 640,
+        "wires": [
+            [
+                "9b02aae6a6470761",
+                "9bd64d7fac1c45fc"
+            ],
+            [
+                "b8a7c83b0402e829",
+                "f32db57c277ca192"
+            ]
+        ]
+    },
+    {
+        "id": "9b02aae6a6470761",
+        "type": "http request",
+        "z": "948b663ef85b2368",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.168.5.169/relay/0?turn=off",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 1030,
+        "y": 620,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b8a7c83b0402e829",
+        "type": "http request",
+        "z": "948b663ef85b2368",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.168.5.169/relay/0?turn=on",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 1030,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d44240b141460e7a",
+        "type": "http request",
+        "z": "2e230771c3cf5c9a",
+        "name": "",
+        "method": "GET",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "http://192.168.5.170/status/meters",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "basic",
+        "senderr": false,
+        "headers": [],
+        "x": 430,
+        "y": 120,
+        "wires": [
+            [
+                "d0319428b3a089fd",
+                "1f212079d45d7bf1"
+            ]
+        ]
+    },
+    {
+        "id": "d138ce2485e177b6",
+        "type": "inject",
+        "z": "2e230771c3cf5c9a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 210,
+        "y": 120,
+        "wires": [
+            [
+                "d44240b141460e7a"
+            ]
+        ]
+    },
+    {
+        "id": "051d8d5421498846",
+        "type": "debug",
+        "z": "2e230771c3cf5c9a",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 920,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "69f9d781cafe2102",
+        "type": "debug",
+        "z": "2e230771c3cf5c9a",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1040,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "935ac392c9e97501",
+        "type": "function",
+        "z": "2e230771c3cf5c9a",
+        "name": "function 8",
+        "func": "var w_m= msg.payload\nw_m=(w_m)/60000\nw_m=w_m.toFixed(2)\nmsg.payload= w_m\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 360,
+        "wires": [
+            [
+                "69f9d781cafe2102",
+                "868832a97e95bab9"
+            ]
+        ]
+    },
+    {
+        "id": "d0319428b3a089fd",
+        "type": "change",
+        "z": "2e230771c3cf5c9a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.meters[0].power",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 120,
+        "wires": [
+            [
+                "051d8d5421498846",
+                "d22603aeb58247d3"
+            ]
+        ]
+    },
+    {
+        "id": "1f212079d45d7bf1",
+        "type": "change",
+        "z": "2e230771c3cf5c9a",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.meters[0].total",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 240,
+        "wires": [
+            [
+                "935ac392c9e97501"
+            ]
+        ]
+    },
+    {
+        "id": "868832a97e95bab9",
+        "type": "ui_text",
+        "z": "2e230771c3cf5c9a",
+        "group": "55189d2b4097d9a0",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "CONSUMO TOTAL (Kwh)",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1070,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "d22603aeb58247d3",
+        "type": "ui_gauge",
+        "z": "2e230771c3cf5c9a",
+        "name": "",
+        "group": "55189d2b4097d9a0",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Enchufe 2",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 920,
+        "y": 40,
+        "wires": []
+    }
+]

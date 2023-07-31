@@ -1,0 +1,94 @@
+[
+    {
+        "id": "bc1146958a6546e4",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9ad32492b5da109a",
+        "type": "inject",
+        "z": "bc1146958a6546e4",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 340,
+        "wires": [
+            [
+                "ad14ed281125f1a6"
+            ]
+        ]
+    },
+    {
+        "id": "ad14ed281125f1a6",
+        "type": "openweathermap",
+        "z": "bc1146958a6546e4",
+        "name": "Tiempo en Alicante",
+        "wtype": "current",
+        "lon": "",
+        "lat": "",
+        "city": "Alicante",
+        "country": "Spain",
+        "language": "es",
+        "x": 490,
+        "y": 340,
+        "wires": [
+            [
+                "a91da81fc6b0fd09"
+            ]
+        ]
+    },
+    {
+        "id": "a91da81fc6b0fd09",
+        "type": "function",
+        "z": "bc1146958a6546e4",
+        "name": "pruebas",
+        "func": "console.log(typeof (msg.payload));\n\nreturn {\n    detail: msg.payload.detail\n};",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 340,
+        "wires": [
+            [
+                "1475f72880564d80"
+            ]
+        ]
+    },
+    {
+        "id": "1475f72880564d80",
+        "type": "debug",
+        "z": "bc1146958a6546e4",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 880,
+        "y": 340,
+        "wires": []
+    }
+]

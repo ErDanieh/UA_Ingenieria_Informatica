@@ -1,0 +1,35 @@
+version: '3'
+services:
+  influxdb:
+    image: influxdb:latest
+    container_name: INFLUXDB_SERVER
+    restart: always
+    ports:
+      - 8086:8086
+    volumes:
+      - influxdb_vol:/var/lib/influxdb
+    environment:
+      DOCKER_INFLUXDB_INIT_MODE: setup
+      DOCKER_INFLUXDB_INIT_USERNAME: daniel
+      DOCKER_INFLUXDB_INIT_PASSWORD: estaeslacontrasena
+      DOCKER_INFLUXDB_INIT_ORG: SIND
+      DOCKER_INFLUXDB_INIT_BUCKET: SIND_B
+
+  homeassistant:
+    image: homeassistant/home-assistant:latest
+    container_name: HOMEASSISTANT_SERVER
+    restart: always
+    ports:
+      - 8123:8123
+    volumes:
+      - homeassistant_vol:/config
+
+  nodered:
+    image: nodered/node-red:latest
+    container_name: NODERED_SERVER
+    restart: always
+    ports:
+      - 1880:1880
+    volumes:
+      - nodered_vol:/data
+      
