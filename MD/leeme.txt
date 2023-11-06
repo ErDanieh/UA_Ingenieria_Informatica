@@ -1,0 +1,18 @@
+         MaGraDa 1.1
+============================
+(c) Manuel Ángel Caballero
+    Violeta Migallón
+    Jose Penadés
+============================
+
+MaGraDa es una aplicación sobre JAVA para el tratamiento de Grafos en la 
+asignatura de Matemática Discreta de las titulaciones de Informática. 
+
+Recomendaciones para su instalacion:
+
+1. Copiar todos los ficheros en la carpeta C:\MaGraDa
+2. El acceso directo MaGraDa.lnk es el que sirve para ejecutar la aplicación.
+3. Crear la carpeta C:\MaGraDa\grafos, que es donde por defecto se guardan los grafos
+   que se creen con la aplicación.
+4. En el supuesto de que JAVA no este instalado habria que hacerlo. 
+   Se puede hacer una instalacion reducida con solo el "progam files". 

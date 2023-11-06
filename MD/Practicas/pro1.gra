@@ -1,0 +1,37 @@
+nombreGrafo    pro1
+NoDirigido
+NoPonderado
+numVertices    8
+numParaNumerarLosVertices    9
+s  N 1  X 475  Y 173
+t  N 2  X 426  Y 57
+u  N 3  X 310  Y 8
+v  N 4  X 194  Y 57
+w  N 5  X 145  Y 173
+x  N 6  X 194  Y 289
+y  N 7  X 310  Y 338
+z  N 8  X 426  Y 289
+verticesConNombre    true
+verticesAleatorios    false
+vertsConCoordenadas    true
+numAristas    11
+s  N 1  X 475  Y 173    t  N 2  X 426  Y 57    peso  MENOSUNO
+s  N 1  X 475  Y 173    u  N 3  X 310  Y 8    peso  MENOSUNO
+t  N 2  X 426  Y 57    u  N 3  X 310  Y 8    peso  MENOSUNO
+t  N 2  X 426  Y 57    v  N 4  X 194  Y 57    peso  MENOSUNO
+v  N 4  X 194  Y 57    w  N 5  X 145  Y 173    peso  MENOSUNO
+w  N 5  X 145  Y 173    x  N 6  X 194  Y 289    peso  MENOSUNO
+w  N 5  X 145  Y 173    y  N 7  X 310  Y 338    peso  MENOSUNO
+y  N 7  X 310  Y 338    z  N 8  X 426  Y 289    peso  MENOSUNO
+z  N 8  X 426  Y 289    x  N 6  X 194  Y 289    peso  MENOSUNO
+x  N 6  X 194  Y 289    y  N 7  X 310  Y 338    peso  MENOSUNO
+u  N 3  X 310  Y 8    v  N 4  X 194  Y 57    peso  MENOSUNO
+MatrizDeAdyacencia
+0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  
